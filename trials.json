@@ -1,0 +1,386 @@
+{
+  "categories": {
+    "cancer": {
+      "label": "Cancer",
+      "subcategories": {
+        "hnscc": "Head & Neck Cancer",
+        "breast": "Breast Cancer"
+      }
+    },
+    "metabolic": {
+      "label": "Metabolic & Weight",
+      "subcategories": {
+        "obesity": "Obesity \u00b7 Overweight",
+        "diabetes": "Type 2 Diabetes"
+      }
+    },
+    "neurological": {
+      "label": "Neurological",
+      "subcategories": {
+        "alzheimers": "Alzheimer's Disease"
+      }
+    },
+    "renal": {
+      "label": "Kidney & Renal",
+      "subcategories": {
+        "ckd": "Chronic Kidney Disease"
+      }
+    }
+  },
+  "trials": [
+    {
+      "id": "NCT07357415",
+      "tags": "obesity overweight retatrutide weight loss triumph glp-1",
+      "headline": "A New Weight-Loss Drug, Tested at Different Doses",
+      "officialName": "A Phase 3b Study to Investigate the Efficacy and Safety of Different Retatrutide Dose Escalation Schemes in Participants Without Type 2 Diabetes Who Have Obesity or Overweight",
+      "alsoKnownAs": "TRIUMPH-9",
+      "phase": "Phase 3",
+      "sponsor": "Eli Lilly and Company",
+      "nct": "NCT07357415",
+      "summary": "This trial tests different ways of gradually increasing the dose of a new weight-loss drug called retatrutide. It's for adults with obesity or overweight who don't have diabetes.",
+      "qualifyYes": [
+        "Your BMI is 30 or higher, OR 27+ with a weight-related condition (high blood pressure, abnormal cholesterol/lipids, sleep apnea, or heart disease)",
+        "You've tried and not succeeded at losing weight through dieting before"
+      ],
+      "qualifyNo": [
+        "You have type 1 or type 2 diabetes",
+        "Your weight has changed by more than 11 lbs in the last 90 days",
+        "You've had, or are planning, weight-loss surgery",
+        "You've had a heart attack, stroke, or heart failure hospitalization in the last 90 days",
+        "You have a personal or family history of certain thyroid cancers (MTC or MEN-2)",
+        "You have a history of pancreatitis"
+      ],
+      "qualifyNote": null,
+      "extraCallout": null,
+      "locations": {
+        "groupLabel": "United States (a sample of the 35 total sites)",
+        "sites": [
+          "Phoenix, AZ",
+          "Huntington Beach, CA",
+          "Los Angeles, CA",
+          "Miami, FL",
+          "Weston, FL",
+          "Honolulu, HI",
+          "Louisville, KY",
+          "Boston, MA",
+          "Bay City, MI",
+          "New York, NY",
+          "Raleigh, NC",
+          "Knoxville, TN",
+          "Dallas, TX",
+          "Fort Worth, TX",
+          "Ogden, UT",
+          "Richmond, VA",
+          "Charleston, WV"
+        ],
+        "note": "Also running at sites in Argentina and Canada. This trial has 35 locations total \u2014 check the official listing for the full list and the exact site nearest you.",
+        "contact": "<strong>Study line:</strong> 1-877-CTLILLY (1-877-285-4559), Mon\u2013Fri",
+        "postNote": null
+      },
+      "basics": [
+        {
+          "label": "How long",
+          "text": "about 113 weeks total (a little over two years)."
+        },
+        {
+          "label": "Is this blinded?",
+          "text": "Yes \u2014 it's double-blind, so you won't know in advance which dosing schedule you're assigned to."
+        }
+      ],
+      "whatTested": "This study is testing <strong>retatrutide</strong>, an investigational medication that acts on three different hormone receptors (GIP, GLP-1, and glucagon) \u2014 sometimes called a \"triple agonist.\" It's not yet FDA-approved. Unlike a typical placebo trial, this one specifically compares <strong>different schedules for ramping up the dose</strong>, to see which approach works best with the fewest side effects.",
+      "logisticsPrompt": "If you've contacted this study's coordinator, others would benefit from knowing: is travel or lodging reimbursed? How many in-person visits are required? How long did it take to hear back?",
+      "logisticsPlaceholder": "e.g. \"Coordinator said mileage is reimbursed after each visit, about 8 visits total over the study.\"",
+      "questions": [
+        "Which of the study's locations is closest to me?",
+        "Is travel or lodging reimbursed, and how quickly?",
+        "How many in-person visits are required, and roughly how long does each one take?",
+        "Since this is blinded, will I find out afterward which dosing schedule I was on?"
+      ],
+      "link": "https://clinicaltrials.gov/study/NCT07357415",
+      "conditions": [
+        {
+          "category": "metabolic",
+          "subcategory": "obesity"
+        }
+      ],
+      "masking": "Double-blind",
+      "siteScope": "35 sites \u00b7 US, Argentina, Canada"
+    },
+    {
+      "id": "NCT07170150",
+      "tags": "alzheimer's alzheimers dementia memory cognitive trontinemab amyloid mci",
+      "headline": "An IV Treatment for Early-Stage Alzheimer's Disease",
+      "officialName": "A Phase III, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Efficacy and Safety Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease",
+      "alsoKnownAs": "TRONTIER 2",
+      "phase": "Phase 3",
+      "sponsor": "Hoffmann-La Roche",
+      "nct": "NCT07170150",
+      "summary": "This trial is testing an IV infusion for people in the early stages of Alzheimer's disease, including mild cognitive impairment or mild dementia. It does not include more advanced stages.",
+      "qualifyYes": [
+        "A PET scan or spinal fluid test shows amyloid plaques (the study can arrange this during screening if you haven't had it)",
+        "You're in an early stage \u2014 mild cognitive impairment or mild dementia",
+        "You score 22 or higher on a standard cognitive test (MMSE)",
+        "Your symptoms have gradually worsened over about the last year",
+        "You have a \"study partner\" \u2014 someone who sees you regularly and can support your participation"
+      ],
+      "qualifyNo": [
+        "Your memory problems are explained by something other than Alzheimer's (e.g. a prior stroke)",
+        "You have a history of significant stroke, brain trauma, or a brain mass",
+        "An MRI shows significant abnormalities, or you can't have an MRI",
+        "You have another serious, unstable medical condition"
+      ],
+      "qualifyNote": null,
+      "extraCallout": {
+        "heading": "A detail easy to miss: you need a \"study partner\"",
+        "text": "Most Alzheimer's trials require someone \u2014 a spouse, adult child, or close friend \u2014 who sees you regularly and can help confirm your symptoms and support you through visits. This is one of the most common reasons people get screened out, so it's worth lining up before you start the process."
+      },
+      "locations": {
+        "groupLabel": "A sample of confirmed sites",
+        "sites": [
+          "Charter Research \u2013 Winter Park/Orlando, Orlando, FL",
+          "Healthy Brain Clinic, Long Beach, CA",
+          "Okanagan Clinical Trials, Kelowna, Canada",
+          "Re:Cognition Health, Birmingham, UK",
+          "Southampton University Hospitals NHS Trust, UK",
+          "Katayama Medical Clinic, Okayama, Japan"
+        ],
+        "note": "This is a large international Phase 3 trial running across 11 countries \u2014 this is a partial sample, not the full list. Use the official listing's location search, or Roche's own ZIP-code site finder, to find the exact site nearest you.",
+        "contact": null,
+        "postNote": null
+      },
+      "basics": [
+        {
+          "label": "Study type",
+          "text": "Phase 3 \u2014 typically the last stage of testing before a drug could be submitted for FDA approval."
+        },
+        {
+          "label": "Would I know if I got the real drug or a placebo?",
+          "text": "No \u2014 this is double-blind, so neither you nor your doctor knows which one you're getting until the study is unblinded later."
+        }
+      ],
+      "whatTested": "This study is testing an investigational medication called <strong>trontinemab</strong>, given by IV infusion, in people with early-stage symptomatic Alzheimer's disease \u2014 mild cognitive impairment (MCI) or mild dementia, not more advanced stages.",
+      "logisticsPrompt": "PET scans and MRIs can mean extra travel. If you've asked about this, share what you found \u2014 it helps the next person weighing whether to apply.",
+      "logisticsPlaceholder": "e.g. \"PET scan was done at a separate imaging center 40 minutes away; coordinator arranged a ride.\"",
+      "questions": [
+        "How many PET scans, MRIs, or spinal taps are required, and are they done on-site or nearby?",
+        "Is a study partner required at every visit, or only some?",
+        "Is transportation or lodging support offered for imaging visits specifically?",
+        "What happens if my study partner can't make it to a visit?"
+      ],
+      "link": "https://clinicaltrials.gov/study/NCT07170150",
+      "conditions": [
+        {
+          "category": "neurological",
+          "subcategory": "alzheimers"
+        }
+      ],
+      "masking": "Double-blind",
+      "siteScope": "Sites in 11 countries"
+    },
+    {
+      "id": "NCT06857279",
+      "tags": "head and neck cancer hnscc squamous cell carcinoma throat mouth larynx pd-l1 hlx43",
+      "headline": "A New Treatment for Head & Neck Cancer That's Come Back or Spread",
+      "officialName": "A Phase II Clinical Study to Evaluate HLX43 in Subjects With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma",
+      "alsoKnownAs": "HLX43",
+      "phase": "Phase 2",
+      "sponsor": "Shanghai Henlius Biotech",
+      "nct": "NCT06857279",
+      "summary": "This trial is testing a new antibody-drug combination for head and neck cancer that has come back or spread. It's for people whose cancer stopped responding well to earlier treatment.",
+      "qualifyYes": [
+        "You're between 18 and 75 years old",
+        "Your HNSCC has been confirmed by biopsy (histologically) and has come back or spread",
+        "Your cancer stopped responding to a prior systemic treatment (chemotherapy, immunotherapy, etc. \u2014 exact requirements differ by which cohort you'd join)",
+        "You're able to understand the study and give informed consent yourself"
+      ],
+      "qualifyNo": [
+        "You're under 18 or over 75",
+        "You haven't yet tried standard treatment options for recurrent/metastatic disease",
+        "You or your partner could become pregnant and aren't willing to use effective contraception during the study and afterward",
+        "You have poor organ function on recent lab work (this is checked during screening)"
+      ],
+      "qualifyNote": "Note: this trial has two separate cohorts with different specific prior-treatment requirements \u2014 the exact fit depends on what treatments you've already had, which the study team would sort out with you during screening.",
+      "extraCallout": null,
+      "locations": {
+        "groupLabel": "China (only 2 sites total \u2014 this is the complete list)",
+        "sites": [
+          "Shandong Cancer Hospital and Institute, Jinan, Shandong",
+          "Fudan University Shanghai Cancer Center, Shanghai"
+        ],
+        "note": null,
+        "contact": "<strong>Jinan site contact:</strong> Dr. Man Hu \u2014 +86 0531-67626490 \u2014 mhu@sdfmu.edu.cn<br><strong>Shanghai site contact:</strong> Dr. Chaosu Hu \u2014 +86 21 64175590 ext. 1400 \u2014 hucsu62@yahoo.com",
+        "postNote": "Worth noting: with only two sites, both in China, this trial is a good real-world example of why \"is there even a site near me\" is often the very first question to ask \u2014 before eligibility even comes into play."
+      },
+      "basics": [
+        {
+          "label": "Study design",
+          "text": "There are two groups (cohorts) \u2014 one for people whose cancer stopped responding to previous systemic treatment, and one with a more specific set of prior-treatment requirements. Participants are randomly assigned to one of three dosing approaches, including one combined with a second drug (HLX10)."
+        },
+        {
+          "label": "Is this blinded?",
+          "text": "No \u2014 this study is open-label, meaning you and your care team will know exactly which dose/combination you're receiving. There's no placebo group."
+        }
+      ],
+      "whatTested": "This study is testing <strong>HLX43</strong>, an investigational \"antibody-drug conjugate\" \u2014 a targeting antibody attached to a cancer-killing compound \u2014 given by IV infusion in people with <strong>recurrent or metastatic head and neck squamous cell carcinoma (HNSCC)</strong>. In plain terms: your cancer either came back after treatment or has spread, and the study is exploring the right dose and whether this drug can help.",
+      "logisticsPrompt": "This trial has just two sites \u2014 travel distance will likely be a bigger factor than usual. If you've been screened or enrolled, sharing what visits actually looked like helps the next person.",
+      "logisticsPlaceholder": "e.g. \"Nearest site was 2 hours away; infusion visits every 3 weeks, about half a day each.\"",
+      "questions": [
+        "Which cohort would I be considered for, based on my treatment history?",
+        "How often are infusion visits, and how long does each one take?",
+        "Since this isn't blinded, will I know my exact dose and combination from the start?",
+        "Is there a site closer to me, given this trial runs at multiple locations?"
+      ],
+      "link": "https://clinicaltrials.gov/study/NCT06857279",
+      "conditions": [
+        {
+          "category": "cancer",
+          "subcategory": "hnscc"
+        }
+      ],
+      "masking": "Open-label",
+      "siteScope": "2 sites \u00b7 China"
+    },
+    {
+      "id": "NCT06568692",
+      "tags": "breast cancer tnbc triple negative her2 negative capecitabine ngc-cap",
+      "headline": "A New Chemotherapy Combination for Advanced Breast Cancer",
+      "officialName": "A Phase 2, Open-Label Study of PCS6422 With Capecitabine in Patients With Advanced or Metastatic Breast Cancer",
+      "alsoKnownAs": "NGC-Cap",
+      "phase": "Phase 2",
+      "sponsor": "Processa Pharmaceuticals",
+      "nct": "NCT06568692",
+      "summary": "This trial is testing a new chemotherapy combination for advanced or metastatic breast cancer, including triple-negative and HER2-negative types. It's for people who aren't eligible for standard options like anthracyclines or taxanes.",
+      "qualifyYes": [
+        "You're 18 or older",
+        "You have advanced or metastatic breast cancer, including triple-negative (TNBC) or HER2-negative types",
+        "You've already been treated with chemotherapy for your metastatic breast cancer",
+        "You're not eligible for anthracycline- or taxane-based chemotherapy, or for other options like PD-1 or PARP inhibitors"
+      ],
+      "qualifyNo": [
+        "You're still eligible for anthracycline- or taxane-based chemotherapy that hasn't been tried yet",
+        "You haven't yet received chemotherapy for metastatic breast cancer"
+      ],
+      "qualifyNote": "The full exclusion criteria list wasn't available in the public summary for this trial \u2014 confirm specifics with the study coordinator.",
+      "extraCallout": null,
+      "locations": {
+        "groupLabel": "United States (a sample of the 13 current sites)",
+        "sites": [
+          "Arizona Oncology Associates, Tucson, AZ",
+          "Valkyrie Clinical Trials, Los Angeles, CA",
+          "FOMAT Medical Research, Oxnard, CA",
+          "AP Medical Research, Miami, FL",
+          "Moffitt Cancer Center, Tampa, FL",
+          "Northwest Cancer Center, Dyer, IN",
+          "University of Maryland Medical Center, Baltimore, MD",
+          "Rutgers Cancer Institute of New Jersey, New Brunswick, NJ",
+          "Clinical Research Alliance, Westbury, NY"
+        ],
+        "note": "All 13 current sites are in the US; the sponsor has stated plans to expand to about 30 sites worldwide.",
+        "contact": "<strong>Example site contact (Moffitt Cancer Center, Tampa, FL):</strong> Shere Wallace \u2014 813-745-4933 \u2014 shere.wallace@moffitt.org",
+        "postNote": null
+      },
+      "basics": [
+        {
+          "label": "Study design",
+          "text": "Open-label and randomized \u2014 you and your care team will know which treatment you're getting; there's no placebo. Compares two NGC-Cap dose levels against capecitabine alone."
+        },
+        {
+          "label": "Enrollment size",
+          "text": "Small \u2014 about 60 to 90 people total across all sites."
+        }
+      ],
+      "whatTested": "This study is testing <strong>NGC-Cap</strong>, a combination of an investigational drug called PCS6422 with the existing chemotherapy drug capecitabine, against capecitabine alone, in people with advanced or metastatic breast cancer. PCS6422 blocks an enzyme that normally breaks down capecitabine's active cancer-fighting compound before it can work as well, so the idea is to make each dose of capecitabine more effective.",
+      "logisticsPrompt": "With 13 sites already open and more planned, exact travel and reimbursement details will vary a lot by location. If you've contacted a site, share what you learned.",
+      "logisticsPlaceholder": "e.g. \"Nearest site was Moffitt in Tampa; no travel reimbursement mentioned, but parking was validated.\"",
+      "questions": [
+        "Which of the 13 current sites is closest to me?",
+        "Am I a candidate for either NGC-Cap dose group, or only the capecitabine-alone comparison group?",
+        "Since this isn't blinded, will I know exactly which treatment I'm on from day one?",
+        "What are the full exclusion criteria I should know about?"
+      ],
+      "link": "https://clinicaltrials.gov/study/NCT06568692",
+      "conditions": [
+        {
+          "category": "cancer",
+          "subcategory": "breast"
+        }
+      ],
+      "masking": "Open-label",
+      "siteScope": "13 sites \u00b7 US"
+    },
+    {
+      "id": "NCT05099770",
+      "conditions": [
+        {
+          "category": "metabolic",
+          "subcategory": "diabetes"
+        },
+        {
+          "category": "renal",
+          "subcategory": "ckd"
+        }
+      ],
+      "conditionRelationship": "comorbidity",
+      "tags": "type 2 diabetes chronic kidney disease ckd comorbidity react rilparencel prokidney kidney",
+      "headline": "A Kidney Cell Therapy for People With Both Diabetes and Kidney Disease",
+      "officialName": "A Phase 3 Randomized Controlled Study of Renal Autologous Cell Therapy (REACT) in Subjects With Type 2 Diabetes and Chronic Kidney Disease (REGEN-006)",
+      "alsoKnownAs": "PROACT 1 (REGEN-006)",
+      "phase": "Phase 3",
+      "sponsor": "ProKidney",
+      "nct": "NCT05099770",
+      "summary": "This trial is testing a kidney cell therapy for people who have both type 2 diabetes and chronic kidney disease. The goal is to help preserve kidney function over time.",
+      "qualifyYes": [
+        "You're between 30 and 80 years old",
+        "You have documented type 2 diabetes AND chronic kidney disease \u2014 both are required",
+        "Your HbA1c (blood sugar control) is 9.5% or lower",
+        "Your blood pressure is generally well-controlled (at or below 140/90)"
+      ],
+      "qualifyNo": [
+        "You have type 1 diabetes rather than type 2",
+        "You've had a kidney transplant",
+        "You're already on kidney dialysis",
+        "Your kidney function (eGFR) falls outside the trial's specific range"
+      ],
+      "qualifyNote": null,
+      "extraCallout": {
+        "heading": "This trial requires two conditions together, not just one",
+        "text": "Unlike most trials on this site, you can't qualify with only diabetes or only kidney disease \u2014 you need a documented diagnosis of both type 2 diabetes and chronic kidney disease at the same time. This combination is often called a \"comorbidity.\""
+      },
+      "locations": {
+        "groupLabel": "Countries with active sites (97 locations total)",
+        "sites": [
+          "United States",
+          "Canada",
+          "Australia",
+          "Taiwan",
+          "United Kingdom"
+        ],
+        "note": "97 individual sites are open across these countries \u2014 check the official listing to find the one nearest you.",
+        "contact": "<strong>ProKidney Call Center:</strong> (866) 955-4394 \u2014 proact1@careboxhealth.com",
+        "postNote": null
+      },
+      "basics": [
+        {
+          "label": "Study design",
+          "text": "Double-blind and sham-controlled \u2014 half of participants get a real REACT injection, half get a sham (fake) procedure that mimics the sounds and steps of the real one, so neither you nor your doctor knows which group you're in until later."
+        },
+        {
+          "label": "What's involved",
+          "text": "A kidney biopsy, followed by up to 2 REACT injections directly into the kidney, spaced about 12 weeks apart."
+        }
+      ],
+      "whatTested": "This study is testing <strong>REACT</strong> (also called rilparencel), a cell therapy made from a small sample of your own kidney tissue, injected back into the kidney to try to help preserve its function in people with both type 2 diabetes and chronic kidney disease.",
+      "logisticsPrompt": "This trial involves a kidney biopsy and injection procedures, which usually happen at specialized centers. If you've gone through screening, share what the process and any travel involved were actually like.",
+      "logisticsPlaceholder": "e.g. \"Required a kidney biopsy as part of screening; local anesthesia, went home same day.\"",
+      "questions": [
+        "Do I need both conditions formally diagnosed already, or can testing happen during screening?",
+        "What does the kidney biopsy and injection procedure actually involve?",
+        "Since this is blinded, will I ever find out if I got the real injection or the sham procedure?",
+        "Which of the 97 locations is closest to me?"
+      ],
+      "link": "https://clinicaltrials.gov/study/NCT05099770",
+      "masking": "Double-blind",
+      "siteScope": "97 sites \u00b7 5 countries"
+    }
+  ]
+}
