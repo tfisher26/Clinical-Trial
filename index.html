@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clinical Trial Guide, clinical trials explained plainly</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #EFF1EA;
+    --paper-raised: #F6F7F2;
+    --ink: #1E2B22;
+    --ink-soft: #4B5A4F;
+    --forest: #6B5262;
+    --forest-dark: #4A3540;
+    --sage: #5C6960;
+    --ochre: #B98A3D;
+    --rust: #A5573B;
+    --line: #D9D6C9;
+    --line-strong: #7A7566;
+    --blue: #3B5B7A;
+    --blue-bg: #DCE6F0;
+    --ochre-bg: #F3E6CE;
+    --ochre-dark: #6B4A1E;
+  }
+  *{ box-sizing: border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Public Sans', -apple-system, sans-serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1,h2,h3{
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 500;
+    color: var(--forest-dark);
+    margin: 0;
+  }
+  a{ color: var(--forest-dark); }
+  a:hover{ color: var(--forest); }
+
+  .wrap{ max-width: 760px; margin: 0 auto; padding: 0 24px 96px; }
+
+  /* ---- Masthead ---- */
+  header.masthead{
+    border-bottom: 1px solid var(--line-strong);
+    padding: 48px 0 32px;
+  }
+  header.masthead h1{
+    font-size: 2.4rem;
+    letter-spacing: -0.01em;
+  }
+  header.masthead p.tagline{
+    margin: 10px 0 28px;
+    color: var(--ink-soft);
+    font-size: 1.05rem;
+    max-width: 46ch;
+  }
+  form.search{
+    display: flex;
+    gap: 0;
+    border: 1.5px solid var(--forest-dark);
+    background: var(--paper-raised);
+  }
+  form.search input{
+    flex: 1;
+    border: none;
+    background: transparent;
+    padding: 14px 16px;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 1rem;
+    color: var(--ink);
+  }
+  form.search input:focus{ outline: 2px solid var(--forest); outline-offset: -2px; }
+  form.search input::placeholder{ color: var(--sage); }
+  form.search button{
+    border: none;
+    border-left: 1.5px solid var(--forest-dark);
+    background: var(--forest-dark);
+    color: var(--paper);
+    padding: 0 22px;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+  form.search button:hover{ background: var(--forest); }
+  p.note-line{
+    margin: 14px 0 0;
+    font-size: 0.85rem;
+    color: var(--sage);
+  }
+  p.note-line.recruiting-note{
+    color: var(--forest-dark);
+    font-weight: 600;
+    margin-top: 6px;
+  }
+
+  /* ---- Category filter chips ---- */
+  .category-filters{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+  }
+  .chip{
+    border: 1.5px solid var(--line-strong);
+    background: var(--paper-raised);
+    color: var(--ink-soft);
+    font-family: 'Public Sans', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 7px 14px;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  .chip:hover{
+    border-color: var(--forest);
+    color: var(--forest-dark);
+  }
+  .chip.active{
+    background: var(--forest-dark);
+    border-color: var(--forest-dark);
+    color: var(--paper);
+  }
+  .subcategory-filters{
+    margin-top: 10px;
+    padding-left: 4px;
+  }
+  .subcategory-filters .chip{
+    font-size: 0.78rem;
+    padding: 5px 12px;
+    background: var(--paper-raised);
+    border-color: var(--line-strong);
+    color: var(--ink-soft);
+  }
+  .subcategory-filters .chip:hover{
+    border-color: var(--blue);
+    color: var(--ink);
+  }
+  .subcategory-filters .chip.active{
+    background: var(--blue);
+    border-color: var(--blue);
+    color: var(--paper);
+  }
+  .filter-group{
+    margin-top: 20px;
+  }
+  .filter-label{
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--sage);
+    margin-bottom: 6px;
+  }
+  .filter-group .category-filters{
+    margin-top: 0;
+  }
+  .filter-hint{
+    text-transform: none;
+    font-weight: 400;
+    letter-spacing: normal;
+    color: var(--sage);
+  }
+
+  .related-strip{
+    margin: 4px 0 24px;
+    padding: 14px 16px;
+    background: var(--paper-raised);
+    border: 1px dashed var(--line-strong);
+  }
+  .related-strip .related-title{
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+  }
+  .related-strip .related-scroll{
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding-bottom: 4px;
+  }
+  .related-card{
+    flex: 0 0 auto;
+    width: 220px;
+    background: var(--paper);
+    border: 1px solid var(--line-strong);
+    padding: 10px 12px;
+    cursor: pointer;
+    text-align: left;
+  }
+  .related-card:hover{ border-color: var(--forest); }
+  .related-card .related-tag{
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--forest-dark);
+    display: block;
+    margin-bottom: 4px;
+  }
+  .related-card .related-headline{
+    font-family: 'Fraunces', Georgia, serif;
+    font-size: 0.92rem;
+    line-height: 1.25;
+    color: var(--ink);
+  }
+
+  /* ---- Results ---- */
+  section.results{ margin-top: 8px; }
+  p.results-count{
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+    margin: 28px 0 4px;
+  }
+  .entry{
+    border-bottom: 1px solid var(--line);
+    padding: 26px 0;
+  }
+  .entry:first-of-type{ border-top: none; }
+  .entry-tag{
+    display: inline-block;
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--blue);
+    background: var(--blue-bg);
+    padding: 3px 9px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+  }
+  .entry h2{
+    font-size: 1.35rem;
+    margin-bottom: 8px;
+    line-height: 1.3;
+  }
+  .quickfacts{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+  .fact-pill{
+    font-size: 0.76rem;
+    font-weight: 600;
+    font-family: 'Public Sans', sans-serif;
+    color: var(--ink-soft);
+    background: var(--paper-raised);
+    border: 1px solid var(--line-strong);
+    padding: 3px 9px;
+    border-radius: 2px;
+    line-height: normal;
+  }
+  .fact-pill-info{
+    cursor: pointer;
+  }
+  .fact-pill-info:hover{
+    border-color: var(--forest);
+    color: var(--forest-dark);
+  }
+  .info-mark{
+    display: inline-block;
+    margin-left: 4px;
+    width: 13px;
+    height: 13px;
+    line-height: 13px;
+    border-radius: 50%;
+    background: var(--sage);
+    color: var(--paper);
+    font-size: 0.66rem;
+    text-align: center;
+    font-weight: 700;
+  }
+  .fact-tooltip{
+    display: none;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    background: var(--paper-raised);
+    border: 1px dashed var(--line-strong);
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    max-width: 58ch;
+  }
+  .fact-tooltip.open{
+    display: block;
+  }
+  .entry .meta{
+    color: var(--sage);
+    font-size: 0.88rem;
+    margin-bottom: 10px;
+  }
+  .entry .summary{
+    color: var(--ink-soft);
+    max-width: 58ch;
+    font-size: 0.94rem;
+  }
+  .entry button.toggle{
+    margin-top: 14px;
+    border: none;
+    background: none;
+    color: var(--forest-dark);
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 600;
+    font-size: 0.92rem;
+    padding: 0;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .entry button.toggle:hover{ color: var(--forest); }
+
+  /* ---- Detail (expanded guide) ---- */
+  .detail{
+    display: none;
+    margin-top: 22px;
+    padding-top: 22px;
+    border-top: 1px dashed var(--line-strong);
+  }
+  .detail.open{ display: block; }
+  .detail h3{
+    font-size: 1.05rem;
+    color: var(--forest-dark);
+    margin: 26px 0 10px;
+    padding-left: 12px;
+    border-left: 3px solid var(--ochre);
+  }
+  .detail h3:first-of-type{ margin-top: 0; }
+  .detail p{ margin: 0 0 10px; color: var(--ink); }
+  .detail ul{ margin: 8px 0; padding-left: 22px; }
+  .detail li{ margin-bottom: 6px; }
+  .qualify-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 6px;
+  }
+  @media (max-width: 640px){
+    .qualify-grid{ grid-template-columns: 1fr; }
+  }
+  .qualify-col h4{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    margin: 0 0 8px;
+  }
+  .qualify-col.yes h4{ color: var(--forest-dark); }
+  .qualify-col.no h4{ color: var(--rust); }
+  .qualify-col ul{ padding-left: 18px; margin: 0; }
+  .qualify-col li{ font-size: 0.94rem; color: var(--ink-soft); margin-bottom: 8px; }
+
+  .logistics-box{
+    background: var(--paper-raised);
+    border: 1px solid var(--line-strong);
+    padding: 16px 18px;
+    margin-top: 8px;
+  }
+  .logistics-box p.status{
+    color: var(--rust);
+    font-weight: 600;
+    font-size: 0.92rem;
+    margin: 0 0 10px;
+  }
+  .logistics-box textarea{
+    width: 100%;
+    border: 1px solid var(--line-strong);
+    background: var(--paper);
+    font-family: 'Public Sans', sans-serif;
+    font-size: 0.92rem;
+    padding: 10px;
+    resize: vertical;
+    min-height: 64px;
+    color: var(--ink);
+  }
+  .logistics-box .row{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .logistics-box button.submit{
+    border: 1.5px solid var(--forest-dark);
+    background: var(--forest-dark);
+    color: var(--paper);
+    padding: 8px 16px;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 600;
+    font-size: 0.88rem;
+    cursor: pointer;
+  }
+  .logistics-box button.submit:hover{ background: var(--forest); border-color: var(--forest); }
+  .logistics-box .demo-note{ font-size: 0.78rem; color: var(--sage); margin-top: 8px; }
+  .reports-list{ margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
+  .reports-list .report{ font-size: 0.9rem; color: var(--ink-soft); margin-bottom: 8px; padding-left: 10px; border-left: 2px solid var(--sage); }
+
+  .official-links{
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-top: 6px;
+  }
+  .official-links a{
+    font-weight: 600;
+    font-size: 0.94rem;
+  }
+  .disclaimer{
+    font-size: 0.85rem;
+    color: var(--sage);
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+  }
+
+  footer{
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid var(--line-strong);
+    color: var(--sage);
+    font-size: 0.85rem;
+  }
+  footer p{ margin: 0 0 8px; max-width: 60ch; }
+  footer a{ color: var(--ink-soft); }
+
+  .empty-state{
+    padding: 40px 0;
+    color: var(--ink-soft);
+  }
+
+  .official-name{
+    font-size: 0.82rem;
+    color: var(--sage);
+    margin-bottom: 6px;
+    font-style: italic;
+  }
+  .locations-box{
+    background: var(--paper-raised);
+    border: 1px solid var(--line-strong);
+    padding: 16px 18px;
+  }
+  .locations-box .country-group{
+    margin-bottom: 14px;
+  }
+  .locations-box .country-group:last-child{ margin-bottom: 0; }
+  .locations-box .country-name{
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--forest-dark);
+    margin-bottom: 6px;
+  }
+  .locations-box ul.site-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    columns: 2;
+    column-gap: 24px;
+  }
+  @media (max-width: 640px){
+    .locations-box ul.site-list{ columns: 1; }
+  }
+  .locations-box ul.site-list li{
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+    margin-bottom: 5px;
+    break-inside: avoid;
+  }
+  .locations-box .site-note{
+    font-size: 0.82rem;
+    color: var(--sage);
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--line);
+  }
+  .contact-box{
+    margin-top: 12px;
+    font-size: 0.9rem;
+    color: var(--ink);
+  }
+  .contact-box strong{ color: var(--forest-dark); }
+  .loading-note{ padding: 40px 0; color: var(--sage); }
+  .sr-only{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .data-warning-banner{
+    background: var(--paper-raised);
+    border: 1.5px solid var(--rust);
+    color: var(--rust);
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 12px 16px;
+    margin-top: 20px;
+  }
+  .entry.entry-flagged{
+    background: #FBF3EF;
+    border-left: 3px solid var(--rust);
+    padding-left: 14px;
+  }
+  .entry-tag.entry-tag-warning{
+    background: var(--rust);
+    color: var(--paper);
+  }
+  .entry-tag.comorbidity-badge{
+    background: var(--ochre-bg);
+    color: var(--ochre-dark);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <h1>Clinical Trial Guide</h1>
+    <p class="tagline">Clinical trials, explained in plain language, so you can decide for yourself whether one might be worth a conversation with your doctor.</p>
+    <form class="search" onsubmit="return false;">
+      <label for="searchInput" class="sr-only">Search trials by condition</label>
+      <input id="searchInput" type="text" placeholder="Search by condition, like &quot;diabetes&quot; or &quot;Alzheimer's&quot;" oninput="filterEntries()">
+      <button type="button" onclick="filterEntries()">Search</button>
+    </form>
+    <p class="note-line">Independent and free. Not affiliated with any trial sponsor, and not medical advice.</p>
+    <p class="note-line recruiting-note">Every trial listed below is currently recruiting new participants, verified against its official ClinicalTrials.gov status.</p>
+    <div class="filter-group">
+      <div class="filter-label">Disease type <span class="filter-hint">(select any number)</span></div>
+      <div class="category-filters" id="categoryFilters"></div>
+    </div>
+    <div class="filter-group subcategory-group" id="subcategoryGroup" style="display:none;">
+      <div class="filter-label">Specific condition</div>
+      <div class="category-filters subcategory-filters" id="subcategoryFilters"></div>
+    </div>
+  </header>
+
+  <main>
+  <section class="results">
+    <p class="results-count" id="resultsCount" aria-live="polite" aria-atomic="true">Loading trials…</p>
+    <div id="relatedStrip" class="related-strip" style="display:none;" aria-live="polite"></div>
+    <div id="entriesContainer"></div>
+    <div class="empty-state" id="emptyState" style="display:none;"></div>
+  </section>
+  </main>
+
+  <footer>
+    <p>Clinical Trial Guide is an independent, non-commercial project. It is not funded by, and does not accept payment from, any pharmaceutical company or trial sponsor, so nothing here is shaped by an incentive to get you to enroll.</p>
+    <p>Always verify current details on <a href="https://clinicaltrials.gov" target="_blank" rel="noopener">ClinicalTrials.gov<span class="sr-only"> (opens in a new tab)</span></a> and with the study team directly before making any decisions.</p>
+  </footer>
+
+</div>
+
+<script>
+  let trials = [];
+  let categoriesData = {};
+  let selectedCategories = new Set();
+  let selectedSubPairs = new Set(); // stores "category|subcategory" strings
+
+  const glossary = {
+    "Phase 1": "The earliest stage of testing, usually in a small group of people. It mainly checks whether the treatment is safe and figures out the right dose, not yet whether it works.",
+    "Phase 2": "A mid-stage trial, usually a few hundred people. Starts looking at whether the treatment actually works, alongside continued safety checks.",
+    "Phase 3": "A large-scale trial, often thousands of people, directly comparing the new treatment to a placebo or the current standard treatment. This is the stage typically needed for FDA approval.",
+    "Phase 4": "Happens after a treatment is already approved, studying how it performs in the real world over the long term.",
+    "Double-blind": "Neither you nor your care team knows which treatment you're getting until the study ends. This helps prevent bias, but means there's a real chance you'll get a placebo or an older treatment instead of the new one being tested.",
+    "Single-blind": "You won't know which treatment you're getting, but your care team will. There's still a chance you won't get the new treatment being tested.",
+    "Open-label": "Everyone knows exactly which treatment or dose you're getting. There's no placebo group and no hidden information."
+  };
+
+  function showFact(trialId, key){
+    const el = document.getElementById('factTooltip-' + trialId);
+    const text = glossary[key] || '';
+    if (el.classList.contains('open') && el.dataset.current === key){
+      el.classList.remove('open');
+      el.dataset.current = '';
+      return;
+    }
+    el.textContent = text;
+    el.classList.add('open');
+    el.dataset.current = key;
+  }
+
+  function esc(str){
+    const d = document.createElement('div');
+    d.textContent = str;
+    return d.innerHTML;
+  }
+
+  function renderQualifyList(items, cls, label){
+    return `<div class="qualify-col ${cls}"><h4>${label}</h4><ul>${items.map(i => `<li>${i}</li>`).join('')}</ul></div>`;
+  }
+
+  function renderLocations(loc){
+    let html = `<div class="locations-box"><div class="country-group"><div class="country-name">${loc.groupLabel}</div><ul class="site-list">${loc.sites.map(s => `<li>${s}</li>`).join('')}</ul></div>`;
+    if (loc.note) html += `<div class="site-note">${loc.note}</div>`;
+    if (loc.contact) html += `<div class="contact-box">${loc.contact}</div>`;
+    html += `</div>`;
+    if (loc.postNote) html += `<p style="font-size:0.9rem; color:var(--ink-soft);">${loc.postNote}</p>`;
+    return html;
+  }
+
+  function validateConditions(t, categoriesMap){
+    return t.conditions.map(c => {
+      const catValid = Object.prototype.hasOwnProperty.call(categoriesMap, c.category);
+      const subValid = catValid && Object.prototype.hasOwnProperty.call(categoriesMap[c.category].subcategories, c.subcategory);
+      return { ...c, valid: catValid && subValid };
+    });
+  }
+
+  function renderTrialCard(t, categoriesMap){
+    const conditions = validateConditions(t, categoriesMap);
+    const allValid = conditions.every(c => c.valid);
+    conditions.filter(c => !c.valid).forEach(c => {
+      console.error(`Trial ${t.id} has a condition "${c.category}/${c.subcategory}" that doesn't match the categories manifest. Fix trials.json.`);
+    });
+    const tagsHtml = conditions.map(c =>
+      c.valid
+        ? `<span class="entry-tag">${categoriesMap[c.category].subcategories[c.subcategory]}</span>`
+        : `<span class="entry-tag entry-tag-warning">Uncategorized, check trials.json</span>`
+    ).join(' ');
+    const comorbidityBadge = t.conditionRelationship === 'comorbidity'
+      ? `<span class="entry-tag comorbidity-badge">Requires ${t.conditions.length === 2 ? 'both conditions' : `all ${t.conditions.length} conditions`}</span>`
+      : '';
+    return `
+    <article class="entry${allValid ? '' : ' entry-flagged'}" id="entry-${t.id}">
+      ${tagsHtml} ${comorbidityBadge}
+      <h2>${t.headline}</h2>
+      <div class="quickfacts">
+        <button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.id}', '${t.phase}')">${t.phase}<span class="info-mark" aria-hidden="true">?</span></button>
+        <button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.id}', '${t.masking}')">${t.masking}<span class="info-mark" aria-hidden="true">?</span></button>
+        <span class="fact-pill">${t.siteScope}</span>
+      </div>
+      <div class="fact-tooltip" id="factTooltip-${t.id}" role="status" aria-live="polite"></div>
+      <p class="summary">${t.summary}</p>
+      <button class="toggle" onclick="toggleDetail('${t.id}')" aria-expanded="false" aria-controls="${t.id}">See more details</button>
+
+      <div class="detail" id="${t.id}">
+        <div class="official-name">Clinical trial name: ${t.officialName}</div>
+        <div class="meta">Also known as: ${t.alsoKnownAs} · Sponsor: ${t.sponsor} · ${t.nct}</div>
+
+        <h3>Could I potentially qualify?</h3>
+        <div class="qualify-grid">
+          ${renderQualifyList(t.qualifyYes, 'yes', 'Likely OK if')}
+          ${renderQualifyList(t.qualifyNo, 'no', 'Likely NOT OK if')}
+        </div>
+        ${t.qualifyNote ? `<p style="font-size:0.9rem; color:var(--ink-soft);">${t.qualifyNote}</p>` : ''}
+
+        ${t.extraCallout ? `<h3>${t.extraCallout.heading}</h3><p>${t.extraCallout.text}</p>` : ''}
+
+        <h3>Where this trial is running</h3>
+        ${renderLocations(t.locations)}
+
+        <h3>The basics</h3>
+        ${t.basics.map(b => `<p><strong>${b.label}:</strong> ${b.text}</p>`).join('')}
+
+        <h3>What this study is testing</h3>
+        <p>${t.whatTested}</p>
+
+        <h3>Getting there: cost, transportation, and logistics</h3>
+        <div class="logistics-box">
+          <p class="status">Not yet reported. Be the first to share what you learned.</p>
+          <p style="font-size:0.9rem; color:var(--ink-soft); margin-bottom:10px;">${t.logisticsPrompt}</p>
+          <label for="reportInput_${t.id}" class="sr-only">Share what you know about cost, transportation, or logistics for this trial</label>
+          <textarea id="reportInput_${t.id}" placeholder="${esc(t.logisticsPlaceholder)}"></textarea>
+          <div class="row">
+            <button class="submit" onclick="submitReport('${t.id}')">Share what you know</button>
+          </div>
+          <p class="demo-note">Prototype only. Reports shown here aren't saved or sent anywhere yet.</p>
+          <div class="reports-list" id="reportsList_${t.id}"></div>
+        </div>
+
+        <h3>Questions worth asking the study coordinator</h3>
+        <ul>${t.questions.map(q => `<li>${q}</li>`).join('')}</ul>
+
+        <h3>Official listing &amp; contact</h3>
+        <div class="official-links">
+          <a href="${t.link}" target="_blank" rel="noopener">View on ClinicalTrials.gov<span class="sr-only"> (opens in a new tab)</span><span aria-hidden="true"> ↗</span></a>
+        </div>
+        <p class="disclaimer">This is a plain-language summary written from the public trial listing. It is not a substitute for the official protocol, informed consent document, or a conversation with the study team. Always confirm current details directly with the site.</p>
+      </div>
+    </article>`;
+  }
+
+  function renderCategoryChips(categoriesMap){
+    let html = `<button class="chip active" data-role="clear" onclick="clearFilters()">All conditions</button>`;
+    Object.keys(categoriesMap).forEach(cat => {
+      html += `<button class="chip" data-category="${cat}" onclick="toggleCategory('${cat}')">${categoriesMap[cat].label}</button>`;
+    });
+    document.getElementById('categoryFilters').innerHTML = html;
+  }
+
+  function renderSubcategoryChips(categoriesMap){
+    const group = document.getElementById('subcategoryGroup');
+    const container = document.getElementById('subcategoryFilters');
+    if (selectedCategories.size === 0){
+      group.style.display = 'none';
+      container.innerHTML = '';
+      return;
+    }
+    let html = '';
+    selectedCategories.forEach(cat => {
+      const subs = categoriesMap[cat].subcategories;
+      Object.keys(subs).forEach(sub => {
+        const pair = `${cat}|${sub}`;
+        const active = selectedSubPairs.has(pair) ? ' active' : '';
+        html += `<button class="chip${active}" onclick="toggleSubcategory('${cat}','${sub}')">${subs[sub]}</button>`;
+      });
+    });
+    container.innerHTML = html;
+    group.style.display = 'block';
+  }
+
+  function loadTrials(){
+    fetch('./trials.json')
+      .then(r => r.json())
+      .then(data => {
+        trials = data.trials;
+        categoriesData = data.categories;
+        renderCategoryChips(categoriesData);
+        document.getElementById('entriesContainer').innerHTML =
+          trials.map(t => renderTrialCard(t, categoriesData)).join('');
+        const flagged = trials.filter(t =>
+          validateConditions(t, categoriesData).some(c => !c.valid)
+        );
+        if (flagged.length > 0){
+          const banner = document.createElement('div');
+          banner.className = 'data-warning-banner';
+          banner.setAttribute('role', 'alert');
+          banner.textContent = `⚠ ${flagged.length} trial${flagged.length === 1 ? '' : 's'} in trials.json ${flagged.length === 1 ? 'has' : 'have'} an unrecognized category/subcategory and need${flagged.length === 1 ? 's' : ''} fixing: ${flagged.map(t => t.id).join(', ')}`;
+          document.querySelector('.wrap').insertBefore(banner, document.querySelector('main'));
+        }
+        filterEntries();
+      })
+      .catch(err => {
+        document.getElementById('resultsCount').textContent = '';
+        document.getElementById('entriesContainer').innerHTML =
+          '<div class="loading-note">Couldn\'t load trial data (trials.json). If you\'re running this locally by double-clicking the file, try serving it through a local server instead, or check that trials.json is uploaded alongside index.html.</div>';
+        console.error(err);
+      });
+  }
+
+  function toggleDetail(id){
+    const el = document.getElementById(id);
+    const isOpen = el.classList.toggle('open');
+    const btn = document.querySelector(`button[aria-controls="${id}"]`);
+    if (btn) btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  }
+
+  function toggleCategory(category){
+    if (selectedCategories.has(category)){
+      selectedCategories.delete(category);
+      // drop any subcategory selections that belonged to this category
+      Array.from(selectedSubPairs).forEach(pair => {
+        if (pair.startsWith(category + '|')) selectedSubPairs.delete(pair);
+      });
+    } else {
+      selectedCategories.add(category);
+    }
+    document.querySelectorAll('#categoryFilters .chip').forEach(chip => {
+      const cat = chip.getAttribute('data-category');
+      if (chip.getAttribute('data-role') === 'clear'){
+        chip.classList.toggle('active', selectedCategories.size === 0);
+      } else {
+        chip.classList.toggle('active', selectedCategories.has(cat));
+      }
+    });
+    renderSubcategoryChips(categoriesData);
+    filterEntries();
+  }
+
+  function toggleSubcategory(category, subcategory){
+    const pair = `${category}|${subcategory}`;
+    if (selectedSubPairs.has(pair)) selectedSubPairs.delete(pair);
+    else selectedSubPairs.add(pair);
+    renderSubcategoryChips(categoriesData);
+    filterEntries();
+  }
+
+  function clearFilters(){
+    selectedCategories.clear();
+    selectedSubPairs.clear();
+    document.querySelectorAll('#categoryFilters .chip').forEach(chip => {
+      chip.classList.toggle('active', chip.getAttribute('data-role') === 'clear');
+    });
+    renderSubcategoryChips(categoriesData);
+    filterEntries();
+  }
+
+  function trialMatchesFilters(t){
+    const categoryPass = selectedCategories.size === 0 ||
+      t.conditions.some(c => selectedCategories.has(c.category));
+    const subPass = selectedSubPairs.size === 0 ||
+      t.conditions.some(c => selectedSubPairs.has(`${c.category}|${c.subcategory}`));
+    return categoryPass && subPass;
+  }
+
+  function trialMatchesSearch(t, q){
+    return q === '' || t.tags.includes(q);
+  }
+
+  function jumpToTrial(trialId){
+    clearFilters();
+    document.getElementById('searchInput').value = '';
+    filterEntries();
+    const el = document.getElementById('entry-' + trialId);
+    if (el){
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const detail = document.getElementById(trialId);
+      if (detail && !detail.classList.contains('open')) detail.classList.add('open');
+      const heading = el.querySelector('h2');
+      if (heading){
+        heading.setAttribute('tabindex', '-1');
+        heading.focus();
+      }
+    }
+  }
+
+  function renderRelatedStrip(hidden){
+    const strip = document.getElementById('relatedStrip');
+    if (hidden.length === 0){
+      strip.style.display = 'none';
+      strip.innerHTML = '';
+      return;
+    }
+    const cards = hidden.map(t => {
+      const firstValidCond = validateConditions(t, categoriesData).find(c => c.valid);
+      const tag = firstValidCond ? categoriesData[firstValidCond.category].subcategories[firstValidCond.subcategory] : 'Uncategorized';
+      return `<button class="related-card" onclick="jumpToTrial('${t.id}')">
+        <span class="related-tag">${tag}</span>
+        <span class="related-headline">${t.headline}</span>
+      </button>`;
+    }).join('');
+    strip.innerHTML = `
+      <div class="related-title">Also matches your search, outside the selected filters:</div>
+      <div class="related-scroll">${cards}</div>
+    `;
+    strip.style.display = 'block';
+  }
+
+  function filterEntries(){
+    const q = document.getElementById('searchInput').value.trim().toLowerCase();
+    let visibleCount = 0;
+    const hiddenButSearchMatched = [];
+
+    trials.forEach(t => {
+      const el = document.getElementById('entry-' + t.id);
+      if (!el) return;
+      const filterPass = trialMatchesFilters(t);
+      const searchPass = trialMatchesSearch(t, q);
+      const match = filterPass && searchPass;
+      el.style.display = match ? '' : 'none';
+      if (match) visibleCount++;
+      // a filter is currently narrowing results AND this trial would show if it weren't
+      if (!filterPass && searchPass && q !== '' && (selectedCategories.size > 0 || selectedSubPairs.size > 0)){
+        hiddenButSearchMatched.push(t);
+      }
+    });
+
+    renderRelatedStrip(hiddenButSearchMatched);
+
+    let label = `Showing ${visibleCount} trial${visibleCount === 1 ? '' : 's'}`;
+    if (selectedCategories.size > 0){
+      const labels = Array.from(selectedCategories).map(c => categoriesData[c].label);
+      label += ` in ${labels.join(', ')}`;
+    }
+    if (q !== '') label += ` matching "${q}"`;
+    document.getElementById('resultsCount').textContent = label;
+    document.getElementById('emptyState').style.display = visibleCount === 0 ? 'block' : 'none';
+    document.getElementById('emptyState').textContent = visibleCount === 0
+      ? 'No trials match that search yet.'
+      : '';
+  }
+
+  function submitReport(trialId){
+    const input = document.getElementById('reportInput_' + trialId);
+    const text = input.value.trim();
+    if (!text) return;
+    const list = document.getElementById('reportsList_' + trialId);
+    const div = document.createElement('div');
+    div.className = 'report';
+    div.textContent = text;
+    list.prepend(div);
+    input.value = '';
+  }
+
+  loadTrials();
+</script>
+
+</body>
+</html>
