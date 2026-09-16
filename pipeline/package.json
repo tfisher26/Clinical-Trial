@@ -1,0 +1,21 @@
+{
+  "name": "clinical-trial-guide-pipeline",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync": "node jobs/sync-trials.js",
+    "classify": "node jobs/classify-conditions.js",
+    "map-conditions": "node jobs/map-conditions.js",
+    "infer-relationship": "node jobs/infer-relationship.js",
+    "extract": "node jobs/extract-criteria.js",
+    "queue-manual-content": "node jobs/queue-manual-content.js",
+    "summarize": "node jobs/generate-summaries.js",
+    "apply-edits": "node jobs/apply-manual-edits.js",
+    "pipeline": "npm run sync && npm run classify && npm run map-conditions && npm run infer-relationship && npm run extract && npm run queue-manual-content && npm run summarize"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "@anthropic-ai/sdk": "^0.32.0"
+  }
+}
