@@ -1,0 +1,47 @@
+name: Apply manual queue edits
+
+on:
+  push:
+    paths:
+      - 'pipeline/pending-summaries/**'
+      - 'pipeline/pending-categories/**'
+      - 'pipeline/pending-relationships/**'
+      - 'pipeline/pending-headlines/**'
+      - 'pipeline/pending-qualify-notes/**'
+      - 'pipeline/pending-callouts/**'
+      - 'pipeline/pending-basics-extra/**'
+
+permissions:
+  contents: write   # needed to commit the trimmed-down queue files back
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: Install dependencies
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Apply completed entries to the database
+        working-directory: pipeline
+        run: node jobs/apply-manual-edits.js
+
+      - name: Commit trimmed queue files
+        run: |
+          git config user.name "clinical-trial-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add pipeline/pending-summaries pipeline/pending-categories pipeline/pending-relationships pipeline/pending-headlines pipeline/pending-qualify-notes pipeline/pending-callouts pipeline/pending-basics-extra 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Remove applied entries from queue"
+          git push

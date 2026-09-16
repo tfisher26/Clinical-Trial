@@ -1,0 +1,66 @@
+name: Daily trial sync and generation
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed to commit the pending-*/queue.md files back to the repo
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # only extract-criteria.js still uses this
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: Install dependencies
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Sync trials (no AI)
+        working-directory: pipeline
+        run: node jobs/sync-trials.js
+
+      - name: Classify conditions (free MeSH lookup; unmatched go to a queue file, no AI)
+        working-directory: pipeline
+        run: node jobs/classify-conditions.js
+
+      - name: Map conditions to taxonomy (no AI)
+        working-directory: pipeline
+        run: node jobs/map-conditions.js
+
+      - name: Queue relationship checks (no AI — writes to a queue file for manual review)
+        working-directory: pipeline
+        run: node jobs/infer-relationship.js
+
+      - name: Extract eligibility criteria (only remaining AI step)
+        working-directory: pipeline
+        run: node jobs/extract-criteria.js
+
+      - name: Queue headline / qualify-note / callout candidates (no AI)
+        working-directory: pipeline
+        run: node jobs/queue-manual-content.js
+
+      - name: Queue intervention summaries (no AI — writes to a queue file for manual write-up)
+        working-directory: pipeline
+        run: node jobs/generate-summaries.js
+
+      - name: Commit any new queue file entries
+        run: |
+          git config user.name "clinical-trial-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add pipeline/pending-summaries pipeline/pending-categories pipeline/pending-relationships pipeline/pending-headlines pipeline/pending-qualify-notes pipeline/pending-callouts 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Queue new items for manual review"
+          git push

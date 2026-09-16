@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32294332/README.md)
 # Clinical Trial Guide — data pipeline
 
 Two-tier architecture: `trials_factual` (mirrored from ClinicalTrials.gov,
