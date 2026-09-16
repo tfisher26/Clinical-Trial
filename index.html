@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -555,10 +556,85 @@
 </div>
 
 <script>
+  // --- Supabase config -------------------------------------------------
+  // Fill these in with your project's values (Project Settings > API).
+  // The anon key is safe to expose client-side — it only grants the
+  // read access you explicitly configure via RLS/grants, nothing more.
+  const SUPABASE_URL = 'https://kayhpbejpqixwarqrhsq.supabase.co';
+  const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtheWhwYmVqcHFpeHdhcnFyaHNxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk0MTI0MDYsImV4cCI6MjEwNDk4ODQwNn0.WlG38iUNZnI155hF6PPjTERTZvoMI5TuC0K9dCMK0PA';
+
   let trials = [];
   let categoriesData = {};
   let selectedCategories = new Set();
   let selectedSubPairs = new Set(); // stores "category|subcategory" strings
+
+  /**
+   * Fetches the category/subcategory filter menu from the dynamic
+   * `category_menu` view (derived from condition_taxonomy) instead of
+   * a hardcoded object. Transforms rows into the exact shape the
+   * existing render/validate functions already expect, so nothing
+   * else in this file needs to change:
+   *   { [category]: { label, subcategories: { [subcategory]: label } } }
+   *
+   * Requires: SELECT granted to the `anon` role on category_menu in
+   * Supabase (Database > Roles, or `grant select on category_menu to anon;`
+   * in the SQL editor) — it's a view over public reference data, not
+   * anything sensitive, so this is safe to expose.
+   */
+  /**
+   * Fetches every recruiting trial from the trials_public view — no
+   * pagination yet, PostgREST's default cap is 1000 rows, which is
+   * fine for current volume. Worth revisiting (range headers / paging)
+   * once trial count grows past that.
+   */
+  async function fetchTrialsPublic(){
+    const res = await fetch(`${SUPABASE_URL}/rest/v1/trials_public?select=*`, {
+      headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` },
+    });
+    if (!res.ok) throw new Error(`trials_public fetch failed: ${res.status}`);
+    return res.json();
+  }
+
+  /**
+   * Fetches all extracted eligibility items and groups them by trial
+   * + direction, so renderTrialCard can look up
+   * criteriaByTrial[nctId].qualify / .disqualify directly.
+   */
+  async function fetchExtractedCriteria(){
+    const res = await fetch(`${SUPABASE_URL}/rest/v1/trials_criteria_extracted?select=nct_id,direction,criterion_text`, {
+      headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` },
+    });
+    if (!res.ok) throw new Error(`trials_criteria_extracted fetch failed: ${res.status}`);
+    const rows = await res.json();
+
+    const byTrial = {};
+    rows.forEach(row => {
+      if (!byTrial[row.nct_id]) byTrial[row.nct_id] = { qualify: [], disqualify: [] };
+      byTrial[row.nct_id][row.direction].push(row);
+    });
+    return byTrial;
+  }
+
+  async function fetchCategoryMenu(){
+    const res = await fetch(`${SUPABASE_URL}/rest/v1/category_menu?select=*`, {
+      headers: {
+        apikey: SUPABASE_ANON_KEY,
+        Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+      },
+    });
+    if (!res.ok) throw new Error(`category_menu fetch failed: ${res.status}`);
+    const rows = await res.json();
+
+    const shaped = {};
+    rows.forEach(row => {
+      const subcategories = {};
+      (row.subcategories || []).forEach(s => {
+        subcategories[s.subcategory] = s.subcategory_label;
+      });
+      shaped[row.category] = { label: row.category_label, subcategories };
+    });
+    return shaped;
+  }
 
   const glossary = {
     "Phase 1": "The earliest stage of testing, usually in a small group of people. It mainly checks whether the treatment is safe and figures out the right dose, not yet whether it works.",
@@ -590,94 +666,124 @@
   }
 
   function renderQualifyList(items, cls, label){
-    return `<div class="qualify-col ${cls}"><h4>${label}</h4><ul>${items.map(i => `<li>${i}</li>`).join('')}</ul></div>`;
+    if (!items.length) return '';
+    return `<div class="qualify-col ${cls}"><h4>${label}</h4><ul>${items.map(i => `<li>${esc(i)}</li>`).join('')}</ul></div>`;
   }
 
   function renderLocations(loc){
-    let html = `<div class="locations-box"><div class="country-group"><div class="country-name">${loc.groupLabel}</div><ul class="site-list">${loc.sites.map(s => `<li>${s}</li>`).join('')}</ul></div>`;
-    if (loc.note) html += `<div class="site-note">${loc.note}</div>`;
+    if (!loc || !loc.sites) return '';
+    let html = `<div class="locations-box"><div class="country-group"><div class="country-name">${esc(loc.group_label || '')}</div><ul class="site-list">${loc.sites.map(s => `<li>${esc(s)}</li>`).join('')}</ul></div>`;
+    if (loc.note) html += `<div class="site-note">${esc(loc.note)}</div>`;
     if (loc.contact) html += `<div class="contact-box">${loc.contact}</div>`;
     html += `</div>`;
-    if (loc.postNote) html += `<p style="font-size:0.9rem; color:var(--ink-soft);">${loc.postNote}</p>`;
     return html;
   }
 
   function validateConditions(t, categoriesMap){
-    return t.conditions.map(c => {
+    return (t.conditions || []).map(c => {
       const catValid = Object.prototype.hasOwnProperty.call(categoriesMap, c.category);
       const subValid = catValid && Object.prototype.hasOwnProperty.call(categoriesMap[c.category].subcategories, c.subcategory);
       return { ...c, valid: catValid && subValid };
     });
   }
 
-  function renderTrialCard(t, categoriesMap){
+  /**
+   * Static question template with light auto-interpolation from
+   * fields we already have (masking, site_scope) — no per-trial
+   * authoring, no AI. See project notes for why: the old per-trial
+   * hand-written questions varied too much to template fully, but
+   * these two facts cover a couple of the same categories for free.
+   */
+  function renderQuestions(t){
+    const qs = [
+      `Which of the ${esc(t.site_scope || 'listed')} sites is closest to me, and is it still recruiting?`,
+      t.masking ? `Since this trial is ${esc(t.masking)}, will I know which treatment I'm on, and if not, will I find out afterward?` : null,
+      `What do the study visits actually involve, step by step, and how long does each one take?`,
+      `Is travel, lodging, or mileage reimbursed, and how quickly after each visit?`,
+    ].filter(Boolean);
+    return `<ul>${qs.map(q => `<li>${q}</li>`).join('')}</ul>`;
+  }
+
+  function renderTrialCard(t, categoriesMap, criteria){
     const conditions = validateConditions(t, categoriesMap);
     const allValid = conditions.every(c => c.valid);
     conditions.filter(c => !c.valid).forEach(c => {
-      console.error(`Trial ${t.id} has a condition "${c.category}/${c.subcategory}" that doesn't match the categories manifest. Fix trials.json.`);
+      console.error(`Trial ${t.nct_id} has a condition "${c.category}/${c.subcategory}" not in the category taxonomy yet.`);
     });
     const tagsHtml = conditions.map(c =>
       c.valid
-        ? `<span class="entry-tag">${categoriesMap[c.category].subcategories[c.subcategory]}</span>`
-        : `<span class="entry-tag entry-tag-warning">Uncategorized, check trials.json</span>`
+        ? `<span class="entry-tag">${esc(categoriesMap[c.category].subcategories[c.subcategory])}</span>`
+        : `<span class="entry-tag entry-tag-warning">Uncategorized</span>`
     ).join(' ');
-    const comorbidityBadge = t.conditionRelationship === 'comorbidity'
+    const comorbidityBadge = t.condition_relationship === 'comorbidity'
       ? `<span class="entry-tag comorbidity-badge">Requires ${t.conditions.length === 2 ? 'both conditions' : `all ${t.conditions.length} conditions`}</span>`
       : '';
-    return `
-    <article class="entry${allValid ? '' : ' entry-flagged'}" id="entry-${t.id}">
-      ${tagsHtml} ${comorbidityBadge}
-      <h2>${t.headline}</h2>
-      <div class="quickfacts">
-        <button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.id}', '${t.phase}')">${t.phase}<span class="info-mark" aria-hidden="true">?</span></button>
-        <button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.id}', '${t.masking}')">${t.masking}<span class="info-mark" aria-hidden="true">?</span></button>
-        <span class="fact-pill">${t.siteScope}</span>
-      </div>
-      <div class="fact-tooltip" id="factTooltip-${t.id}" role="status" aria-live="polite"></div>
-      <p class="summary">${t.summary}</p>
-      <button class="toggle" onclick="toggleDetail('${t.id}')" aria-expanded="false" aria-controls="${t.id}">See more details</button>
 
-      <div class="detail" id="${t.id}">
-        <div class="official-name">Clinical trial name: ${t.officialName}</div>
-        <div class="meta">Also known as: ${t.alsoKnownAs} · Sponsor: ${t.sponsor} · ${t.nct}</div>
+    const title = t.headline || t.official_name;
+    const qualifyYes = (criteria?.qualify || []).map(c => c.criterion_text);
+    const qualifyNo = (criteria?.disqualify || []).map(c => c.criterion_text);
+    const hasExtracted = qualifyYes.length || qualifyNo.length;
+
+    const basicsRows = [];
+    if (t.duration_text) basicsRows.push(`<p><strong>How long:</strong> ${esc(t.duration_text)}</p>`);
+    if (t.enrollment_count) basicsRows.push(`<p><strong>Enrollment:</strong> about ${t.enrollment_count} participants</p>`);
+    (t.basics_extra || []).forEach(b => basicsRows.push(`<p><strong>${esc(b.label)}:</strong> ${esc(b.text)}</p>`));
+
+    return `
+    <article class="entry${allValid ? '' : ' entry-flagged'}" id="entry-${t.nct_id}">
+      ${tagsHtml} ${comorbidityBadge}
+      <h2>${esc(title)}</h2>
+      <div class="quickfacts">
+        ${t.phase ? `<button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.nct_id}', '${t.phase}')">${esc(t.phase)}<span class="info-mark" aria-hidden="true">?</span></button>` : ''}
+        ${t.masking ? `<button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.nct_id}', '${t.masking}')">${esc(t.masking)}<span class="info-mark" aria-hidden="true">?</span></button>` : ''}
+        ${t.site_scope ? `<span class="fact-pill">${esc(t.site_scope)}</span>` : ''}
+      </div>
+      <div class="fact-tooltip" id="factTooltip-${t.nct_id}" role="status" aria-live="polite"></div>
+      ${t.intervention_summary ? `<p class="summary">${esc(t.intervention_summary)}</p>` : ''}
+      <button class="toggle" onclick="toggleDetail('${t.nct_id}')" aria-expanded="false" aria-controls="${t.nct_id}">See more details</button>
+
+      <div class="detail" id="${t.nct_id}">
+        <div class="official-name">Clinical trial name: ${esc(t.official_name)}</div>
+        <div class="meta">${t.also_known_as ? `Also known as: ${esc(t.also_known_as)} · ` : ''}Sponsor: ${esc(t.sponsor || 'Not listed')} · ${t.nct_id}</div>
 
         <h3>Could I potentially qualify?</h3>
+        ${hasExtracted ? `
         <div class="qualify-grid">
-          ${renderQualifyList(t.qualifyYes, 'yes', 'Likely OK if')}
-          ${renderQualifyList(t.qualifyNo, 'no', 'Likely NOT OK if')}
-        </div>
-        ${t.qualifyNote ? `<p style="font-size:0.9rem; color:var(--ink-soft);">${t.qualifyNote}</p>` : ''}
+          ${renderQualifyList(qualifyYes, 'yes', 'Likely OK if')}
+          ${renderQualifyList(qualifyNo, 'no', 'Likely NOT OK if')}
+        </div>` : `
+        <p><strong>Inclusion criteria:</strong> ${esc(t.inclusion_criteria || 'Not listed')}</p>
+        <p><strong>Exclusion criteria:</strong> ${esc(t.exclusion_criteria || 'Not listed')}</p>`}
+        ${t.qualify_note ? `<p style="font-size:0.9rem; color:var(--ink-soft);">${esc(t.qualify_note)}</p>` : ''}
 
-        ${t.extraCallout ? `<h3>${t.extraCallout.heading}</h3><p>${t.extraCallout.text}</p>` : ''}
+        ${t.extra_callout_text ? `<h3>${esc(t.extra_callout_heading || '')}</h3><p>${esc(t.extra_callout_text)}</p>` : ''}
 
         <h3>Where this trial is running</h3>
         ${renderLocations(t.locations)}
 
-        <h3>The basics</h3>
-        ${t.basics.map(b => `<p><strong>${b.label}:</strong> ${b.text}</p>`).join('')}
+        ${basicsRows.length ? `<h3>The basics</h3>${basicsRows.join('')}` : ''}
 
-        <h3>What this study is testing</h3>
-        <p>${t.whatTested}</p>
+        ${t.intervention_summary ? `<h3>What this study is testing</h3><p>${esc(t.intervention_summary)}</p>` : ''}
 
         <h3>Getting there: cost, transportation, and logistics</h3>
         <div class="logistics-box">
           <p class="status">Not yet reported. Be the first to share what you learned.</p>
-          <p style="font-size:0.9rem; color:var(--ink-soft); margin-bottom:10px;">${t.logisticsPrompt}</p>
-          <label for="reportInput_${t.id}" class="sr-only">Share what you know about cost, transportation, or logistics for this trial</label>
-          <textarea id="reportInput_${t.id}" placeholder="${esc(t.logisticsPlaceholder)}"></textarea>
+          <p style="font-size:0.9rem; color:var(--ink-soft); margin-bottom:10px;">If you've contacted this study's coordinator, others would benefit from knowing: is travel or lodging reimbursed? How many in-person visits are required? How long did it take to hear back?</p>
+          <label for="reportInput_${t.nct_id}" class="sr-only">Share what you know about cost, transportation, or logistics for this trial</label>
+          <textarea id="reportInput_${t.nct_id}" placeholder="e.g. Coordinator said mileage is reimbursed after each visit."></textarea>
           <div class="row">
-            <button class="submit" onclick="submitReport('${t.id}')">Share what you know</button>
+            <button class="submit" onclick="submitReport('${t.nct_id}')">Share what you know</button>
           </div>
           <p class="demo-note">Prototype only. Reports shown here aren't saved or sent anywhere yet.</p>
-          <div class="reports-list" id="reportsList_${t.id}"></div>
+          <div class="reports-list" id="reportsList_${t.nct_id}"></div>
         </div>
 
         <h3>Questions worth asking the study coordinator</h3>
-        <ul>${t.questions.map(q => `<li>${q}</li>`).join('')}</ul>
+        ${renderQuestions(t)}
 
         <h3>Official listing &amp; contact</h3>
         <div class="official-links">
-          <a href="${t.link}" target="_blank" rel="noopener">View on ClinicalTrials.gov<span class="sr-only"> (opens in a new tab)</span><span aria-hidden="true"> ↗</span></a>
+          <a href="${t.official_link}" target="_blank" rel="noopener">View on ClinicalTrials.gov<span class="sr-only"> (opens in a new tab)</span><span aria-hidden="true"> ↗</span></a>
         </div>
         <p class="disclaimer">This is a plain-language summary written from the public trial listing. It is not a substitute for the official protocol, informed consent document, or a conversation with the study team. Always confirm current details directly with the site.</p>
       </div>
@@ -714,14 +820,17 @@
   }
 
   function loadTrials(){
-    fetch('./trials.json')
-      .then(r => r.json())
-      .then(data => {
-        trials = data.trials;
-        categoriesData = data.categories;
+    Promise.all([
+      fetchTrialsPublic(),
+      fetchExtractedCriteria(),
+      fetchCategoryMenu(),
+    ])
+      .then(([trialsData, criteriaByTrial, dynamicCategories]) => {
+        trials = trialsData;
+        categoriesData = dynamicCategories;
         renderCategoryChips(categoriesData);
         document.getElementById('entriesContainer').innerHTML =
-          trials.map(t => renderTrialCard(t, categoriesData)).join('');
+          trials.map(t => renderTrialCard(t, categoriesData, criteriaByTrial[t.nct_id])).join('');
         const flagged = trials.filter(t =>
           validateConditions(t, categoriesData).some(c => !c.valid)
         );
@@ -729,7 +838,7 @@
           const banner = document.createElement('div');
           banner.className = 'data-warning-banner';
           banner.setAttribute('role', 'alert');
-          banner.textContent = `⚠ ${flagged.length} trial${flagged.length === 1 ? '' : 's'} in trials.json ${flagged.length === 1 ? 'has' : 'have'} an unrecognized category/subcategory and need${flagged.length === 1 ? 's' : ''} fixing: ${flagged.map(t => t.id).join(', ')}`;
+          banner.textContent = `⚠ ${flagged.length} trial${flagged.length === 1 ? '' : 's'} ${flagged.length === 1 ? 'has' : 'have'} an unrecognized category/subcategory — likely still pending manual classification: ${flagged.map(t => t.nct_id).join(', ')}`;
           document.querySelector('.wrap').insertBefore(banner, document.querySelector('main'));
         }
         filterEntries();
@@ -737,7 +846,7 @@
       .catch(err => {
         document.getElementById('resultsCount').textContent = '';
         document.getElementById('entriesContainer').innerHTML =
-          '<div class="loading-note">Couldn\'t load trial data (trials.json). If you\'re running this locally by double-clicking the file, try serving it through a local server instead, or check that trials.json is uploaded alongside index.html.</div>';
+          '<div class="loading-note">Couldn\'t load trial data. Check that SUPABASE_URL/SUPABASE_ANON_KEY are set correctly and that the migrations have been run.</div>';
         console.error(err);
       });
   }
@@ -798,7 +907,9 @@
   }
 
   function trialMatchesSearch(t, q){
-    return q === '' || t.tags.includes(q);
+    if (q === '') return true;
+    const haystack = `${t.tags || ''} ${t.headline || ''} ${t.official_name || ''}`.toLowerCase();
+    return haystack.includes(q);
   }
 
   function jumpToTrial(trialId){
@@ -828,9 +939,9 @@
     const cards = hidden.map(t => {
       const firstValidCond = validateConditions(t, categoriesData).find(c => c.valid);
       const tag = firstValidCond ? categoriesData[firstValidCond.category].subcategories[firstValidCond.subcategory] : 'Uncategorized';
-      return `<button class="related-card" onclick="jumpToTrial('${t.id}')">
+      return `<button class="related-card" onclick="jumpToTrial('${t.nct_id}')">
         <span class="related-tag">${tag}</span>
-        <span class="related-headline">${t.headline}</span>
+        <span class="related-headline">${esc(t.headline || t.official_name)}</span>
       </button>`;
     }).join('');
     strip.innerHTML = `
@@ -846,7 +957,7 @@
     const hiddenButSearchMatched = [];
 
     trials.forEach(t => {
-      const el = document.getElementById('entry-' + t.id);
+      const el = document.getElementById('entry-' + t.nct_id);
       if (!el) return;
       const filterPass = trialMatchesFilters(t);
       const searchPass = trialMatchesSearch(t, q);
