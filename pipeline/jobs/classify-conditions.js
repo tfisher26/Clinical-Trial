@@ -3,7 +3,7 @@ import { appendNewEntries, readQueue, writeQueue, removeEntries } from './lib/pe
 
 const QUEUE_PATH = 'pending-categories/queue.md';
 
-const MESH_LOOKUP_URL = 'https://id.nlm.nih.gov/mesh/lookup/term';
+const MESH_LOOKUP_URL = 'https://id.nlm.nih.gov/mesh/lookup/descriptor';
 
 const TREE_BRANCH_TO_CATEGORY = {
   C01: { category: 'infectious', category_label: 'Infectious Disease' },
