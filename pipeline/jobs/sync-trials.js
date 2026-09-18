@@ -1,13 +1,6 @@
 import { db, criteriaHash } from './lib/db.js';
 import { iterateRecruitingTrials } from './lib/ctgov.js';
 
-/**
- * sync-trials — runs daily, no AI calls. Sub-chunks database calls
- * into groups of 100 (not the full 1,000-trial CT.gov page at once)
- * to avoid oversized requests that can hang instead of failing
- * cleanly. Logs progress at each stage so a future stall is easy to
- * pinpoint instead of showing zero output.
- */
 async function main() {
   console.log('sync-trials: starting, fetching first page from ClinicalTrials.gov...');
   let seen = 0;
@@ -67,6 +60,7 @@ async function main() {
             nct_id,
             needs_extraction: true,
             needs_summary: true,
+            needs_manual_content_check: true,
             flagged_at: now,
           })),
           { onConflict: 'nct_id' }
