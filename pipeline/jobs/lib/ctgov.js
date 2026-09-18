@@ -1,7 +1,5 @@
 const BASE_URL = 'https://clinicaltrials.gov/api/v2/studies';
 
-// Only the fields we actually store — requesting a narrower field set
-// keeps each page smaller and the sync faster.
 const FIELDS = [
   'NCTId', 'OfficialTitle', 'BriefTitle', 'OverallStatus', 'Phase',
   'DesignMasking', 'LeadSponsorName', 'Condition',
@@ -12,21 +10,7 @@ const FIELDS = [
   'OrgFullName', 'EnrollmentCount', 'StartDate', 'PrimaryCompletionDate',
 ].join(',');
 
-/**
- * Walks the full set of recruiting trials via cursor-based pagination.
- *
- * Verified against ClinicalTrials.gov API v2 docs and independent
- * confirmation (Sept 2026): pageSize max is 1000 (default 10, so it
- * must be set explicitly), pagination uses nextPageToken (not a
- * numeric offset — jumping to page N isn't supported), and the
- * endpoint requires no API key or auth. There is no single official
- * published hard rate limit; community guidance converges on staying
- * near ~50 requests/minute and handling 429s with backoff, which is
- * what PACE_MS and the retry below implement. Re-check
- * https://clinicaltrials.gov/data-api/api before depending on these
- * numbers at larger scale — the API has changed shape before.
- */
-const PACE_MS = 1200; // ~50 req/min, conservative given no published hard limit
+const PACE_MS = 1200;
 
 export async function* iterateRecruitingTrials({ pageSize = 1000 } = {}) {
   let pageToken = undefined;
@@ -40,9 +24,7 @@ export async function* iterateRecruitingTrials({ pageSize = 1000 } = {}) {
 
     const body = await fetchWithRetry(url);
 
-    for (const study of body.studies ?? []) {
-      yield mapStudy(study);
-    }
+    yield (body.studies ?? []).map(mapStudy);
 
     pageToken = body.nextPageToken;
     if (pageToken) await sleep(PACE_MS);
@@ -50,7 +32,21 @@ export async function* iterateRecruitingTrials({ pageSize = 1000 } = {}) {
 }
 
 async function fetchWithRetry(url, attempt = 1) {
-  const res = await fetch(url, { headers: { Accept: 'application/json' } });
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 30000);
+
+  let res;
+  try {
+    res = await fetch(url, { headers: { Accept: 'application/json' }, signal: controller.signal });
+  } catch (err) {
+    if (attempt > 5) throw new Error(`ClinicalTrials.gov request timed out/failed after ${attempt} attempts: ${err.message}`);
+    console.warn(`  fetch failed/timed out (attempt ${attempt}): ${err.message}, retrying...`);
+    await sleep(2 ** attempt * 1000);
+    return fetchWithRetry(url, attempt + 1);
+  } finally {
+    clearTimeout(timeoutId);
+  }
+
   if (res.status === 429 || res.status >= 500) {
     if (attempt > 5) throw new Error(`ClinicalTrials.gov API error ${res.status} after ${attempt} attempts`);
     const backoff = 2 ** attempt * 1000;
@@ -112,7 +108,6 @@ function mapStudy(study) {
 }
 
 function parseAge(ageStr) {
-  // CT.gov returns e.g. "18 Years" — pull the leading integer.
   if (!ageStr) return null;
   const m = ageStr.match(/^(\d+)/);
   return m ? parseInt(m[1], 10) : null;
@@ -120,10 +115,6 @@ function parseAge(ageStr) {
 
 function extractCriteriaSection(fullText, which) {
   if (!fullText) return null;
-  // CT.gov's eligibilityCriteria is one free-text blob with
-  // "Inclusion Criteria:" / "Exclusion Criteria:" headers. This is a
-  // best-effort split on those headers — deliberately NOT an AI call,
-  // this is deterministic string splitting only.
   const incMatch = fullText.match(/Inclusion Criteria:?([\s\S]*?)(Exclusion Criteria:|$)/i);
   const excMatch = fullText.match(/Exclusion Criteria:?([\s\S]*)$/i);
   if (which === 'inclusion') return incMatch ? incMatch[1].trim() : fullText.trim();
@@ -137,26 +128,12 @@ function summarizeSiteScope(locations) {
   return `${locations.length} site${locations.length === 1 ? '' : 's'}${countryPart ? ' · ' + countryPart : ''}`;
 }
 
-/**
- * Deterministic, no-AI search-keyword derivation — just concatenates
- * fields already pulled from CT.gov (trial nickname + condition names +
- * intervention/drug names) so a visitor searching a drug name or an
- * acronym like "TRIUMPH-9" can find the trial, not just official
- * condition terminology. Deduped, comma-separated.
- */
 function deriveTags(acronym, conditions, interventions) {
   const interventionNames = interventions.map((i) => i.name).filter(Boolean);
   const raw = [acronym, ...conditions, ...interventionNames].filter(Boolean);
   return [...new Set(raw.map((s) => s.trim()))].join(', ');
 }
 
-/**
- * Rough plain-language duration from start/primary-completion dates —
- * deterministic date math, no AI. CT.gov dates are sometimes
- * month-only ("2025-03"), so this is intentionally approximate
- * ("about X weeks/months/years"), matching how the original
- * hand-authored trials.json phrased it.
- */
 function deriveDuration(startDate, completionDate) {
   if (!startDate || !completionDate) return null;
   const start = new Date(startDate.length === 7 ? startDate + '-01' : startDate);
