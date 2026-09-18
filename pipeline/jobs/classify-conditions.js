@@ -109,8 +109,8 @@ async function meshLookup(rawCondition, attempt = 1) {
   try {
     const url = new URL(MESH_LOOKUP_URL);
     url.searchParams.set('label', rawCondition);
-    url.searchParams.set('match', 'exact');
-    url.searchParams.set('limit', '1');
+    url.searchParams.set('match', 'contains');
+    url.searchParams.set('limit', '8');
 
     const res = await fetch(url, { headers: { Accept: 'application/json' }, signal: controller.signal });
     clearTimeout(timeoutId);
@@ -128,32 +128,9 @@ async function meshLookup(rawCondition, attempt = 1) {
     const matches = await res.json();
     if (!matches?.length) return null;
 
-    const descriptorId = matches[0].resource?.split('/').pop();
-    if (!descriptorId) return null;
-
-    const detailController = new AbortController();
-    const detailTimeoutId = setTimeout(() => detailController.abort(), 15000);
-    const detailRes = await fetch(`https://id.nlm.nih.gov/mesh/${descriptorId}.json`, {
-      headers: { Accept: 'application/json' },
-      signal: detailController.signal,
-    });
-    clearTimeout(detailTimeoutId);
-    if (!detailRes.ok) return null;
-    const detail = await detailRes.json();
-
-    const treeNumbers = (detail.treeNumber || []).map((t) => (typeof t === 'string' ? t : t['@id']?.split('/').pop()));
-    for (const tree of treeNumbers) {
-      const branch = tree?.split('.')[0];
-      if (branch && TREE_BRANCH_TO_CATEGORY[branch]) {
-        const cat = TREE_BRANCH_TO_CATEGORY[branch];
-        const label = matches[0].label || rawCondition;
-        return {
-          category: cat.category,
-          category_label: cat.category_label,
-          subcategory: slugify(label),
-          subcategory_label: label,
-        };
-      }
+    for (const match of matches) {
+      const result = await checkCandidate(match, rawCondition);
+      if (result) return result;
     }
     return null;
   } catch (err) {
@@ -164,6 +141,44 @@ async function meshLookup(rawCondition, attempt = 1) {
     }
     await sleep(2 ** attempt * 1000);
     return meshLookup(rawCondition, attempt + 1);
+  }
+}
+
+async function checkCandidate(match, rawCondition) {
+  const descriptorId = match.resource?.split('/').pop();
+  if (!descriptorId) return null;
+
+  try {
+    const detailController = new AbortController();
+    const detailTimeoutId = setTimeout(() => detailController.abort(), 15000);
+    const detailRes = await fetch(`https://id.nlm.nih.gov/mesh/${descriptorId}.json`, {
+      headers: { Accept: 'application/json' },
+      signal: detailController.signal,
+    });
+    clearTimeout(detailTimeoutId);
+    if (!detailRes.ok) return null;
+    const detail = await detailRes.json();
+
+    const treeNumbers = (detail.treeNumber || [])
+      .map((t) => (typeof t === 'string' ? t : t['@id']))
+      .filter(Boolean)
+      .map((t) => t.split('/').pop());
+    for (const tree of treeNumbers) {
+      const branch = tree?.split('.')[0];
+      if (branch && TREE_BRANCH_TO_CATEGORY[branch]) {
+        const cat = TREE_BRANCH_TO_CATEGORY[branch];
+        const label = match.label || rawCondition;
+        return {
+          category: cat.category,
+          category_label: cat.category_label,
+          subcategory: slugify(label),
+          subcategory_label: label,
+        };
+      }
+    }
+    return null;
+  } catch {
+    return null;
   }
 }
 
