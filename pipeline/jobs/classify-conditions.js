@@ -1,19 +1,8 @@
 import { db } from './lib/db.js';
-import { appendNewEntries } from './lib/pendingQueue.js';
+import { appendNewEntries, readQueue, writeQueue, removeEntries } from './lib/pendingQueue.js';
 
 const QUEUE_PATH = 'pending-categories/queue.md';
 
-/**
- * classify-conditions — free MeSH lookup only, no AI fallback.
- * Anything MeSH can't resolve gets queued into pending-categories/queue.md
- * for manual classification instead of an AI guess. condition_taxonomy_pending
- * rows are only cleared once resolved via apply-manual-edits.js (or a
- * successful MeSH match) — the DB and the file agree on what's still open.
- *
- * TREE_BRANCH_TO_CATEGORY covers all 26 top-level MeSH disease branches
- * (C01-C26) plus F03 (Mental Disorders) — most conditions should resolve
- * here for free. The queue should stay small in practice.
- */
 const MESH_LOOKUP_URL = 'https://id.nlm.nih.gov/mesh/lookup/term';
 
 const TREE_BRANCH_TO_CATEGORY = {
@@ -62,27 +51,35 @@ async function main() {
   let meshHits = 0;
   const unresolved = [];
 
-  for (const { raw_condition } of pending) {
-    const meshResult = await meshLookup(raw_condition);
+  const CONCURRENCY = 3;
+  for (let i = 0; i < pending.length; i += CONCURRENCY) {
+    const chunk = pending.slice(i, i + CONCURRENCY);
+    await Promise.all(
+      chunk.map(async ({ raw_condition }) => {
+        const meshResult = await meshLookup(raw_condition);
 
-    if (meshResult) {
-      meshHits++;
-      await db.from('condition_taxonomy').upsert({
-        raw_condition,
-        ...meshResult,
-        classified_by: 'mesh_mapping',
-        classified_at: new Date().toISOString(),
-      });
-      await db.from('condition_taxonomy_pending').delete().eq('raw_condition', raw_condition);
-    } else {
-      unresolved.push({
-        id: raw_condition,
-        block:
-          `## ${raw_condition}\n(no MeSH match found)\n\n` +
-          `Existing categories — reuse one of these ids if it fits:\n${existingCategoryList || '(none yet)'}\n\n` +
-          `CATEGORY:\nCATEGORY_LABEL:\nSUBCATEGORY:\nSUBCATEGORY_LABEL:`,
-      });
-    }
+        if (meshResult) {
+          meshHits++;
+          await db.from('condition_taxonomy').upsert({
+            raw_condition,
+            ...meshResult,
+            classified_by: 'mesh_mapping',
+            classified_at: new Date().toISOString(),
+          });
+          await db.from('condition_taxonomy_pending').delete().eq('raw_condition', raw_condition);
+        } else {
+          unresolved.push({
+            id: raw_condition,
+            block:
+              `## ${raw_condition}\n(no MeSH match found)\n\n` +
+              `Existing categories — reuse one of these ids if it fits:\n${existingCategoryList || '(none yet)'}\n\n` +
+              `CATEGORY:\nCATEGORY_LABEL:\nSUBCATEGORY:\nSUBCATEGORY_LABEL:`,
+          });
+        }
+      })
+    );
+    if ((i / CONCURRENCY) % 20 === 0) console.log(`  classified ${Math.min(i + CONCURRENCY, pending.length)}/${pending.length}...`);
+    await new Promise((r) => setTimeout(r, 300));
   }
 
   const header =
@@ -90,29 +87,57 @@ async function main() {
     'These condition strings had no MeSH match. Fill in CATEGORY / CATEGORY_LABEL / ' +
     'SUBCATEGORY / SUBCATEGORY_LABEL for each (reuse an existing category id where it ' +
     'fits — see the list under each entry). Commit and push when done.';
+
+  const existingQueueContent = readQueue(QUEUE_PATH);
+  if (existingQueueContent.trim()) {
+    const { data: nowClassified } = await db.from('condition_taxonomy').select('raw_condition');
+    const classifiedSet = new Set((nowClassified ?? []).map((r) => r.raw_condition));
+    const staleIds = [...classifiedSet];
+    const cleaned = removeEntries(existingQueueContent, staleIds);
+    if (cleaned !== existingQueueContent) writeQueue(QUEUE_PATH, cleaned);
+  }
+
   const added = appendNewEntries(QUEUE_PATH, unresolved, header);
 
   console.log(`classify-conditions complete: ${meshHits} resolved via free MeSH lookup, ${added} queued for manual classification.`);
 }
 
-async function meshLookup(rawCondition) {
+async function meshLookup(rawCondition, attempt = 1) {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 15000);
+
   try {
     const url = new URL(MESH_LOOKUP_URL);
     url.searchParams.set('label', rawCondition);
     url.searchParams.set('match', 'exact');
     url.searchParams.set('limit', '1');
 
-    const res = await fetch(url, { headers: { Accept: 'application/json' } });
+    const res = await fetch(url, { headers: { Accept: 'application/json' }, signal: controller.signal });
+    clearTimeout(timeoutId);
+
+    if (res.status === 429 || res.status >= 500) {
+      if (attempt >= 4) {
+        console.warn(`  MeSH lookup rate-limited/failed repeatedly for "${rawCondition}" (status ${res.status}) — queuing for manual review`);
+        return null;
+      }
+      await sleep(2 ** attempt * 1000);
+      return meshLookup(rawCondition, attempt + 1);
+    }
     if (!res.ok) return null;
+
     const matches = await res.json();
     if (!matches?.length) return null;
 
     const descriptorId = matches[0].resource?.split('/').pop();
     if (!descriptorId) return null;
 
+    const detailController = new AbortController();
+    const detailTimeoutId = setTimeout(() => detailController.abort(), 15000);
     const detailRes = await fetch(`https://id.nlm.nih.gov/mesh/${descriptorId}.json`, {
       headers: { Accept: 'application/json' },
+      signal: detailController.signal,
     });
+    clearTimeout(detailTimeoutId);
     if (!detailRes.ok) return null;
     const detail = await detailRes.json();
 
@@ -132,13 +157,22 @@ async function meshLookup(rawCondition) {
     }
     return null;
   } catch (err) {
-    console.warn(`  MeSH lookup failed for "${rawCondition}": ${err.message} — queuing for manual review`);
-    return null;
+    clearTimeout(timeoutId);
+    if (attempt >= 4) {
+      console.warn(`  MeSH lookup failed repeatedly for "${rawCondition}": ${err.message} — queuing for manual review`);
+      return null;
+    }
+    await sleep(2 ** attempt * 1000);
+    return meshLookup(rawCondition, attempt + 1);
   }
 }
 
 function slugify(label) {
   return label.toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '').slice(0, 40);
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 main().catch((err) => {
