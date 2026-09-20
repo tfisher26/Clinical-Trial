@@ -777,3 +777,268 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT01280825
+The 1200 Patients Project: Studying the Implementation of Clinical Pharmacogenomic Testing
+Conditions: digestive/inflammatory_bowel_diseases, infectious/hepatitis_c
+
+Inclusion criteria:
+"""
+* Receiving ongoing, out-patient care at the University of Chicago Medical Center under the routine care of a physician participating in this trial
+* Life expectancy of at least 3 years
+* Must be 18 years or older
+* Must be taking at least 1 (but not more than 6) prescription medications at the time of enrollment OR be 65 years or older OR be reasonably expected to require the use of a prescription medication within the next 5 years
+* Patients with certain diseases, or likely to receive or be receiving certain drugs, will be targeted particularly for enrollment in order to enrich the study for patients likely to have pharmacogenetically relevant interactions, including, but not limited to:
+
+  * Patients requiring specialized cardiology care
+  * Patients with inflammatory bowel diseases
+  * Patients with systemic autoimmune or inflammatory diseases
+  * Patients requiring long-term oral anticoagulation
+  * Patients with hepatitis C
+  * Patients with non-metastatic cancer
+"""
+
+RELATIONSHIP:
+
+## NCT04119024
+Phase I Dose Escalation Study of Systemically Administered IL13Ra2 Chimeric Antigen Receptor (CAR) T Cells After a Nonmyeloablative Conditioning Regimen in Patients With Metastatic Melanoma and Other Solid Tumors
+Conditions: cancer/thyroid_cancer_papillary, blood/breast_cancer_lymphedema
+
+Inclusion criteria:
+"""
+* Histologically confirmed malignancy that is considered surgically incurable with either:
+
+  * Stage IIIC melanoma including locally relapsed, satellite, in-transit lesions or bulky draining node metastasis
+  * Stage IV melanoma including patients with known brain metastases
+  * Other metastatic, non-central nervous system (CNS) solid tumor relapsed or refractory after all standard-of-care systemic therapies for which the patient is eligible
+* Confirmed IL13Ralpha2 tumor expression by immunohistochemistry (immunohistochemical assay \[IHA\] H-Score \>= 50 in at least 10% of the total tumor specimen and in at least two high-power fields)
+* Age greater than or equal to 18 years old and less than 75 years old
+* Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1
+* A minimum of one measurable lesion defined as:
+
+  * Meeting the criteria for measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST), OR
+  * Skin lesion(s) selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+* Absolute neutrophil count (ANC) \>= 1 x 10\^9 cells/L (determined within 30-60 days prior to enrollment; re-evaluated within 14 days of beginning conditioning chemotherapy)
+* Platelets \>= 75 x 10\^9/L (determined within 30-60 days prior to enrollment; re-evaluated within 14 days of beginning conditioning chemotherapy)
+* Hemoglobin \>= 9.5 g/dL (determined within 30-60 days prior to enrollment; re-evaluated within 14 days of beginning conditioning chemotherapy)
+* Aspartate and alanine aminotransferases (AST, ALT) =\< 2.5 x upper limit of normal (ULN) (determined within 30-60 days prior to enrollment; re-evaluated within 14 days of beginning conditioning chemotherapy)
+* Total bilirubin =\< 2 x ULN (except patients with documented Gilbert's syndrome) (determined within 30-60 days prior to enrollment; re-evaluated within 14 days of beginning conditioning chemotherapy)
+* Creatinine \< 2 mg/dL (or a glomerular filtration rate \> 45) (determined within 30-60 days prior to enrollment; re-evaluated within 14 days of beginning conditioning chemotherapy)
+* Patients with melanoma must have progressed following \>= 1 line of systemic therapy, including immune checkpoint inhibitor and a BRAF inhibitor in combination with MEK inhibitor for patients with BRAF V600-activating mutation and is not considered to have an alternate treatment option with curative intent
+* Must be willing and able to accept at least one leukapheresis procedure (This does not apply for patients receiving a second infusion of IL13R a2 CAR T cells as they will not undergo leukapheresis)
+* Must be willing and able to provide written informed consent
+"""
+
+RELATIONSHIP:
+
+## NCT04896775
+NiteCAPP: Web-based Interventions for Insomnia in Rural Dementia Caregivers: Examination of Sleep, Arousal, Mood, Cognitive, and Immune Outcomes
+Conditions: neurological/insomnia_fatal_familial, infectious/aids_dementia_complex
+
+Inclusion criteria:
+"""
+1. 18+ yrs, 2. CG living with PWD, 3. willing to be randomized, 4. read/understand English, 5. insomnia diagnosis, 6. no prescribed or over the counter sleep meds for 1+ mo, or stabilized 6+ mos.
+
+* Insomnia: 1. complaints for 6+ mos, 2. adequate opportunity and circumstances for sleep, 3. 1+ of the following: difficulty falling asleep, staying asleep or waking too early, 4. daytime dysfunction (mood, cognitive, social, occupational) due to insomnia, 5. baseline diaries indicate \>30 mins of sleep onset latency or wake after sleep onset on 3+ nts.
+
+PWD Eligibility. 1. probable/possible Alzheimer's Disease (self-report or primary care provider written confirm), 2. 1+ problem on Nighttime Behavior Inv. 3+ nts/wk, 3. tolerate actigraphy, 4. no sleep meds 1+ mo or stabilized 6+ mos, 5. untreated sleep disorder for which CBT-I is not recommended (e.g., apnea), 6. scoring \<32 on Sleep Apnea scale, Sleep Disorders Ques.
+
+Exclusion:
+
+CG
+"""
+
+RELATIONSHIP:
+
+## NCT04984226
+Randomized Cross-over Trial of Sodium Bicarbonate on Muscle Mitochondrial Energetics and Physical Endurance in Chronic Kidney Disease and Metabolic Acidosis
+Conditions: renal/chronic_kidney_diseases_of_uncertain_eti, other/alert_fatigue_health_personnel
+
+Inclusion criteria:
+"""
+* Moderate-severe CKD determined by eGFR \<50ml/min per 1.73m2 by CKD EPI equation on at least 2 consecutive occasions.
+* Metabolic acidosis defined as bicarbonate level\<24 on two consecutive occasions. Bicarbonate level of 24 or less allowed if eGFR\<=45ml/min per 1.73m2
+* Age 21 to 85 years old
+"""
+
+RELATIONSHIP:
+
+## NCT05077618
+Oral Bacterial and Viral Mapping by Dental Plaque in Elderly Patients With and Without Alzheimer's Disease(ORal MICrobiology in Alzheimer's Patients)
+Conditions: other/chronic_periodontitis, mental_health/alzheimer_disease
+
+Inclusion criteria:
+"""
+* ge greater than or equal to 70 years old
+* Patient (or trusted person) having read and understood the study information note and signed the informed consent form
+* Membership in a social security scheme
+* for cases : Diagnosis of possible or probable Alzheimer's disease according to the DSM-V
+"""
+
+RELATIONSHIP:
+
+## NCT05425615
+Probing Language Processes Using Transcranial Magnetic Stimulation
+Conditions: neurological/embolic_stroke, neurological/aphasia, neurological/language_development_disorders
+
+Inclusion criteria:
+"""
+* Diagnosed with left hemisphere stroke
+* Consent date \>= 1 month after stroke onset
+* Right-handed
+* Fluent in English
+* 18 years of age or older
+"""
+
+RELATIONSHIP:
+
+## NCT05620095
+Multicenter Registry for pAclitaxel- Coated Balloon angioplasTy in Infrapopliteal Arterial Lesions (the ACT Study)
+Conditions: neurological/intracranial_arteriosclerosis, cardiovascular/chronic_limb_threatening_ischemia
+
+Inclusion criteria:
+"""
+1. Rutherford grade 4-6.
+2. Patients who understand the purpose of this study, volunteer to participate in the experiment, sign informed consent and are willing to follow up.
+3. Single or sequential de novo or restenotic lesions (stenosis ≥ 70% diameter reduction or occlusion) in the infrapopliteal arteries \>20 mm. Lesions should not extend beyond the ankle joint.
+4. Successful wire crossing of the lesion. After the pre-dilation of the ordinary balloon, the angiography showed that there was continuous blood flow.
+5. At least one of the infrapopliteal arteries received a drug-coated balloon.
+6. For patients with aortoiliac artery disease and femoral-popliteal artery disease, after intravascular reconstruction, blood flow can be recanalized, and there is no residual stenosis of more than 50%.
+7. In patients with lower extremity arterial thrombosis, after mechanical thrombectomy, percutaneous catheter thrombolysis, and thrombus removal, patients receiving blew the knee arterial drug balloon intervention.
+8. Patients who have received DCB intervention for both lower limbs can be enrolled in the group according to the intracavitary treatment time.
+9. Life expectancy\> 24 months.
+"""
+
+RELATIONSHIP:
+
+## NCT05762250
+Auricular Acupuncture in Patients With Advanced Cancer: a Randomized Clinical Trial.
+Conditions: other/alert_fatigue_health_personnel, other/abdominal_pain, mental_health/depression_postpartum
+
+Inclusion criteria:
+"""
+* Adult patients with advanced tumour diseases on current therapy, who suffer from persistent disease- or therapy-associated symptoms and limitations (screening by distress thermometer, score ≥ 5)
+* Informed consent.
+"""
+
+RELATIONSHIP:
+
+## NCT06236919
+E-Emotio Project A Gamified Preventive School-based Paradigm Using Virtual Reality Technologies for Improving Emotional Regulation in Children and Adolescents.
+Conditions: mental_health/anxiety_separation, mental_health/depression_postpartum
+
+Inclusion criteria:
+"""
+* School-aged participants (aged 10 to 16 years old)
+* Individuals who provide consent to participate.
+"""
+
+RELATIONSHIP:
+
+## NCT06776081
+Adipocyte-Derived Extracellular Vesicles; Novel Biomarker and Mediator of Obesity-Related Endothelial Dysfunction
+Conditions: metabolic/obesity, other/weight_loss
+
+Inclusion criteria:
+"""
+* Age ≥40 years
+* BMI \<25 kg/m2 and BMI \>25 kg/m2 for Phase 1 and BMI \>25 kg/m2 for Phase 2. Rationale for defining obesity as BMI \>25 kg/m2
+"""
+
+RELATIONSHIP:
+
+## NCT06828276
+Culturally and Language-Adapted i-CBT for Common Mental Health Problems: A Randomized Controlled Study With Farsi/Dari-Speaking Migrants
+Conditions: neurological/insomnia_fatal_familial, other/medial_tibial_stress_syndrome
+
+Inclusion criteria:
+"""
+* Between the ages of 15 and 29.
+* A score above the cut-off 1.75 on HSCL-25
+* Has a refugee or migrant background
+* Has a good and stable internet connection
+* Has access to a computer, tablet or smartphone
+* Is fluent in reading and writing Arabic
+* Has the ability to dedicate time to take part in the intervention for 6-10 weeks.
+"""
+
+RELATIONSHIP:
+
+## NCT07183774
+Does Sarcopenia Influence Rotator Cuff Tear Patterns? Radiological Insights From Patients With Rotator Cuff Syndrome
+Conditions: other/sarcopenia, other/shoulder_pain
+
+Inclusion criteria:
+"""
+1. Patients with rotator cuff syndrome
+2. Aged between 40 and 75 years
+"""
+
+RELATIONSHIP:
+
+## NCT07501065
+Prophylactic Antibiotics for Outpatient Urethral Bulking: Impact on Post-Procedural Urinary Tract Infection Rates
+Conditions: renal/urinary_tract_infections, other/urinary_incontinence
+
+Inclusion criteria:
+"""
+* Women ≥ 18 years of age.
+* Patients evaluated by a pelvic floor specialist (either urogynecologist or urologist) at the University of Miami with plans to undergo urethral bulking with Bulkamid for stress urinary incontinence or mixed urinary incontinence (stress predominant).
+* Negative testing for UTI in pre-procedural work-up, including either negative urine culture or urine dip negative for infection (infection is defined as the presence of nitrites and/or pyuria with \>1+ leukocyte esterase on dipstick or \>5 WBC/HPF).
+* Post-void residual volume of 150 mL or less (measured by either catheterization or bladder scan) before the procedure
+* Fluent in English or Spanish
+* Able and willing to provide informed consent
+"""
+
+RELATIONSHIP:
+
+## NCT07538427
+Enhancing Health in Rural Populations: Music as Therapy
+Conditions: other/medial_tibial_stress_syndrome, other/chronic_pain
+
+Inclusion criteria:
+"""
+* residency at one of the two elder care facilities
+* ability to communicate in English.
+"""
+
+RELATIONSHIP:
+
+## NCT07547696
+CARRII Native Intervention Optimization Trial 3-month Factorial Experiment With 512 Participants Randomized to 8 Conditions
+Conditions: other/fetal_alcohol_spectrum_disorders, cardiovascular/hypertension_pregnancy_induced
+
+Inclusion criteria:
+"""
+* Native American/American Indian/Alaska Native,
+* who are not surgically sterile,
+* who report alcohol consumption at risk levels and risk for pregnancy in the past 90 days due to having sex with a man with inconsistent, ineffective, or no contraception.
+* Participants must have access to the Internet via a mobile device they can access daily
+"""
+
+RELATIONSHIP:
+
+## NCT07579871
+Sleep and Stroke Rehabilitation Study
+Conditions: neurological/embolic_stroke, neurological/insomnia_fatal_familial
+
+Inclusion criteria:
+"""
+* Ischemic stroke.
+* First time stroke.
+"""
+
+RELATIONSHIP:
+
+## NCT07641153
+Virtual Reality-Based Cognitive Stimulation Games for Enhancing Attention and Preventing Delirium in Older Surgical Patients With Cognitive Impairment
+Conditions: other/failed_back_surgery_syndrome, other/alcohol_withdrawal_delirium
+
+Inclusion criteria:
+"""
+* Men and women ≥65 years of age
+* Have a pre-existing diagnosis of cognitive impairment (Montreal Cognitive Assessment Score of 15-24)
+* Elective or emergency major surgery with the expectation of admission to the Intensive Care Unit following the surgery for three days following surgery
+"""
+
+RELATIONSHIP:
+
