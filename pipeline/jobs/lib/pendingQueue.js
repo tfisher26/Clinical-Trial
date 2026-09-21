@@ -56,7 +56,7 @@ export function parseEntries(content, requiredFields) {
 
     const fields = {};
     for (const fieldName of requiredFields) {
-      const re = new RegExp(`^${fieldName}:\\s*(.*)$`, 'm');
+      const re = new RegExp(`^${fieldName}:[ \\t]*(.*)$`, 'm');
       const m = block.match(re);
       fields[fieldName] = m ? m[1].trim() : '';
     }
