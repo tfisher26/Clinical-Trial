@@ -1,4 +1,4 @@
-import { db } from './lib/db.js';
+import { db, fetchAll } from './lib/db.js';
 import { appendNewEntries, readQueue, writeQueue, removeEntries } from './lib/pendingQueue.js';
 
 const QUEUE_PATH = 'pending-categories/queue.md';
@@ -35,7 +35,7 @@ const TREE_BRANCH_TO_CATEGORY = {
 };
 
 async function main() {
-  const { data: pending } = await db.from('condition_taxonomy_pending').select('raw_condition');
+  const pending = await fetchAll(() => db.from('condition_taxonomy_pending').select('raw_condition'));
   if (!pending?.length) {
     console.log('classify-conditions: nothing pending.');
     return;
@@ -43,7 +43,7 @@ async function main() {
 
   console.log(`classify-conditions: ${pending.length} new condition strings to check.`);
 
-  const { data: existingRows } = await db.from('condition_taxonomy').select('category, category_label');
+  const existingRows = await fetchAll(() => db.from('condition_taxonomy').select('category, category_label'));
   const existingCategoryList = [...new Map((existingRows ?? []).map((r) => [r.category, r.category_label]))]
     .map(([id, label]) => `- ${id} ("${label}")`)
     .join('\n');
@@ -90,7 +90,7 @@ async function main() {
 
   const existingQueueContent = readQueue(QUEUE_PATH);
   if (existingQueueContent.trim()) {
-    const { data: nowClassified } = await db.from('condition_taxonomy').select('raw_condition');
+    const nowClassified = await fetchAll(() => db.from('condition_taxonomy').select('raw_condition'));
     const classifiedSet = new Set((nowClassified ?? []).map((r) => r.raw_condition));
     const staleIds = [...classifiedSet];
     const cleaned = removeEntries(existingQueueContent, staleIds);

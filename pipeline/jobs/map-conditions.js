@@ -1,24 +1,11 @@
-import { db } from './lib/db.js';
+import { db, fetchAll } from './lib/db.js';
 
-/**
- * map-conditions — runs after classify-conditions, once every raw
- * condition string a trial has is guaranteed to be in condition_taxonomy.
- * No AI here: pure lookup + join.
- *
- * Also flags trials whose conditions span MORE THAN ONE category for
- * relationship inference (see infer-relationship.js) — this is what
- * keeps that job's AI cost bounded to genuinely multi-condition
- * trials, not the whole registry.
- */
 async function main() {
-  // Only trials synced since last run realistically need remapping,
-  // but re-deriving for all is cheap (pure DB read/write, no AI) and
-  // simplest to reason about — this job is O(trials), not O(AI calls).
-  const { data: trials } = await db.from('trials_factual').select('nct_id, raw_conditions, conditions');
-  if (!trials?.length) return;
+  const trials = await fetchAll(() => db.from('trials_factual').select('nct_id, raw_conditions, conditions'));
+  if (!trials.length) return;
 
-  const { data: taxonomyRows } = await db.from('condition_taxonomy').select('*');
-  const taxonomy = new Map((taxonomyRows ?? []).map((r) => [r.raw_condition, r]));
+  const taxonomyRows = await fetchAll(() => db.from('condition_taxonomy').select('*'));
+  const taxonomy = new Map(taxonomyRows.map((r) => [r.raw_condition, r]));
 
   let updated = 0;
   let flaggedForRelationship = 0;
@@ -29,7 +16,7 @@ async function main() {
       .filter(Boolean)
       .map((t) => ({ category: t.category, subcategory: t.subcategory }));
 
-    if (!mapped.length) continue; // still waiting on classification
+    if (!mapped.length) continue;
 
     const distinctPairs = new Set(mapped.map((m) => `${m.category}|${m.subcategory}`));
     const spansMultipleCategories = new Set(mapped.map((m) => m.category)).size > 1

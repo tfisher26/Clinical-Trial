@@ -11,20 +11,25 @@ if (!SUPABASE_URL || !SUPABASE_SERVICE_KEY) {
   );
 }
 
-// Service-role key is required (not the anon key) because jobs write
-// directly to tables with no per-row auth policy — this key never
-// touches the browser/website, only these server-side jobs.
 export const db = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY);
 
-/**
- * Deterministic hash of the fields that, if changed, should trigger
- * re-extraction and re-summarization. Keeping this narrow (just the
- * clinical content, not e.g. last_synced_at) is what makes the
- * "only regenerate on real change" cost-saving behavior work.
- */
 export function criteriaHash({ intervention_raw, inclusion_criteria, exclusion_criteria }) {
   const input = [intervention_raw, inclusion_criteria, exclusion_criteria]
     .map((s) => (s || '').trim())
     .join('\n---\n');
   return crypto.createHash('sha256').update(input).digest('hex');
+}
+
+export async function fetchAll(builderFactory, pageSize = 1000) {
+  let allRows = [];
+  let from = 0;
+  while (true) {
+    const { data, error } = await builderFactory().range(from, from + pageSize - 1);
+    if (error) throw error;
+    if (!data || data.length === 0) break;
+    allRows = allRows.concat(data);
+    if (data.length < pageSize) break;
+    from += pageSize;
+  }
+  return allRows;
 }

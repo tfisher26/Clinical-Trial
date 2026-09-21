@@ -1,4 +1,4 @@
-import { db } from './lib/db.js';
+import { db, fetchAll } from './lib/db.js';
 import { appendNewEntries } from './lib/pendingQueue.js';
 
 const QUALIFY_NOTE_KEYWORDS = ['cohort', 'subgroup', 'stratum', 'stratified'];
@@ -10,12 +10,11 @@ const CALLOUT_KEYWORDS = [
 const DB_CHUNK = 100;
 
 async function main() {
-  const { data: pending } = await db
-    .from('trial_pending_generation')
-    .select('nct_id')
-    .eq('needs_manual_content_check', true);
+  const pending = await fetchAll(() =>
+    db.from('trial_pending_generation').select('nct_id').eq('needs_manual_content_check', true)
+  );
 
-  if (!pending?.length) {
+  if (!pending.length) {
     console.log('queue-manual-content: nothing pending.');
     return;
   }

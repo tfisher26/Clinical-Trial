@@ -1,4 +1,4 @@
-import { db, criteriaHash } from './lib/db.js';
+import { db, criteriaHash, fetchAll } from './lib/db.js';
 import { iterateRecruitingTrials } from './lib/ctgov.js';
 
 async function main() {
@@ -71,8 +71,8 @@ async function main() {
     }
   }
 
-  const { data: knownConditions } = await db.from('condition_taxonomy').select('raw_condition');
-  const known = new Set((knownConditions ?? []).map((r) => r.raw_condition));
+  const knownConditions = await fetchAll(() => db.from('condition_taxonomy').select('raw_condition'));
+  const known = new Set(knownConditions.map((r) => r.raw_condition));
   const newConditions = [...unseenConditions].filter((c) => !known.has(c));
 
   if (newConditions.length) {
