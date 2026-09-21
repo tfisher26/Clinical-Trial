@@ -2,8 +2,8 @@ import { db } from './lib/db.js';
 import { readQueue, writeQueue, parseEntries, removeEntries } from './lib/pendingQueue.js';
 
 /**
- * apply-manual-edits — runs when you push changes to any of the three
- * pending-*/queue.md files. Reads whichever entries you've filled in
+ * apply-manual-edits — runs when you push changes to any of the
+ * pending-NAME/queue.md files. Reads whichever entries you've filled in
  * completely, writes them to the database, then rewrites each file
  * with only the still-unresolved entries left — so the files shrink
  * as you work through them, and nothing you haven't gotten to yet is
