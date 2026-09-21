@@ -90,7 +90,7 @@ HEADLINE:
 Official name: Copenhagen Master Observational Trial (C-MOT): A Prospective Investigator-initiated Observational Study to Study Biomarkers in Relation to Clinical Outcome in Patients With Non-Small Cell Lung Cancer or Breast Cancer
 Link: https://clinicaltrials.gov/study/NCT05145244
 
-HEADLINE:
+HEADLINE:Observational Study of Biomarkers in Patients with Non-Small Cell Lung Cancer or Breast Cancer
 
 ## NCT05233475
 Official name: Get Going After concussIonN Lite (GAIN Lite): A Digital Intervention to Reduce Impairing Post-concussional Mild-to-moderate Symptoms in Adults
