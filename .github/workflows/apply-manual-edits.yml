@@ -40,6 +40,6 @@ jobs:
         run: |
           git config user.name "clinical-trial-pipeline-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add pipeline/pending-summaries pipeline/pending-categories pipeline/pending-relationships pipeline/pending-headlines pipeline/pending-qualify-notes pipeline/pending-callouts pipeline/pending-basics-extra 2>/dev/null || true
+          git add -A pipeline/pending-* 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Remove applied entries from queue"
           git push
