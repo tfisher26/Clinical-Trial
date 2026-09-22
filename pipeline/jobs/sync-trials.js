@@ -1,14 +1,24 @@
 import { db, criteriaHash, fetchAll } from './lib/db.js';
 import { iterateRecruitingTrials } from './lib/ctgov.js';
 
+// Safeguards for de-listing (marking trials absent from today's complete
+// answer as no longer recruiting). Inference from absence is riskier than
+// recording what CT.gov actually told us, so a run only closes anything if
+// every one of these holds. See migrations/007_delisting.sql.
+const MIN_RECEIVED_FRACTION = 0.98; // must receive >= 98% of CT.gov's reported total
+const MAX_CLOSE_FRACTION = 0.05;    // must not close more than 5% of current listings
+
 async function main() {
   console.log('sync-trials: starting, fetching first page from ClinicalTrials.gov...');
+  const runStart = new Date().toISOString();
+  const stats = {};
   let seen = 0;
   let flaggedNew = 0;
   let flaggedChanged = 0;
+  let hadWriteFailures = false;
   const unseenConditions = new Set();
 
-  for await (const batch of iterateRecruitingTrials()) {
+  for await (const batch of iterateRecruitingTrials({ stats })) {
     if (!batch.length) continue;
     console.log(`  fetched page of ${batch.length} trials from ClinicalTrials.gov, writing to database...`);
     seen += batch.length;
@@ -24,6 +34,7 @@ async function main() {
         .in('nct_id', ids);
       if (selectErr) {
         console.error(`Failed to look up existing hashes for chunk:`, selectErr.message);
+        hadWriteFailures = true;
         continue;
       }
       const existingMap = new Map((existingRows ?? []).map((r) => [r.nct_id, r.criteria_hash]));
@@ -33,11 +44,13 @@ async function main() {
         ...trial,
         criteria_hash: criteriaHash(trial),
         last_synced_at: now,
+        delisted_at: null, // seen as recruiting today — clears any prior de-listing
       }));
 
       const { error: upsertErr } = await db.from('trials_factual').upsert(rows, { onConflict: 'nct_id' });
       if (upsertErr) {
         console.error(`Failed to upsert chunk of ${rows.length} trials:`, upsertErr.message);
+        hadWriteFailures = true;
         continue;
       }
 
@@ -82,10 +95,86 @@ async function main() {
     );
   }
 
+  await delistMissingTrials({ runStart, seen, totalCount: stats.totalCount, hadWriteFailures });
+
   console.log(
     `sync-trials complete: ${seen} trials synced, ${flaggedNew} new, ${flaggedChanged} changed, ` +
     `${newConditions.length} new condition strings queued for classification.`
   );
+}
+
+/**
+ * Marks trials that weren't touched by this run as no longer recruiting.
+ * Reaching this point already means every page was walked without the
+ * generator throwing (a thrown error rejects `main()` before this line runs)
+ * — the three checks below are the rest of the safeguards from
+ * migrations/007_delisting.sql. Any one failing skips de-listing entirely
+ * and reports why; nothing is closed on partial information.
+ */
+async function delistMissingTrials({ runStart, seen, totalCount, hadWriteFailures }) {
+  if (hadWriteFailures) {
+    console.warn('sync-trials: skipping de-listing — one or more writes failed this run, so "untouched" is not trustworthy.');
+    return;
+  }
+
+  if (typeof totalCount === 'number' && seen < totalCount * MIN_RECEIVED_FRACTION) {
+    console.warn(
+      `sync-trials: skipping de-listing — received ${seen}/${totalCount} trials ` +
+      `(${((seen / totalCount) * 100).toFixed(1)}%), below the ${MIN_RECEIVED_FRACTION * 100}% floor.`
+    );
+    return;
+  }
+  if (typeof totalCount !== 'number') {
+    console.warn('sync-trials: skipping de-listing — ClinicalTrials.gov did not report a total count to check completeness against.');
+    return;
+  }
+
+  const { count: previouslyListedCount, error: countErr } = await db
+    .from('trials_factual')
+    .select('nct_id', { count: 'exact', head: true })
+    .is('delisted_at', null);
+  if (countErr) {
+    console.error('sync-trials: skipping de-listing — could not read current listing count:', countErr.message);
+    return;
+  }
+  if (!previouslyListedCount) {
+    console.warn('sync-trials: skipping de-listing — no currently-listed trials found to compare against.');
+    return;
+  }
+
+  const candidates = await fetchAll(() =>
+    db.from('trials_factual').select('nct_id').is('delisted_at', null).lt('last_synced_at', runStart)
+  );
+
+  if (!candidates.length) {
+    console.log('sync-trials: de-listing check passed, nothing to close.');
+    return;
+  }
+
+  const closeFraction = candidates.length / previouslyListedCount;
+  if (closeFraction > MAX_CLOSE_FRACTION) {
+    console.warn(
+      `sync-trials: skipping de-listing — would close ${candidates.length}/${previouslyListedCount} ` +
+      `listings (${(closeFraction * 100).toFixed(1)}%), above the ${MAX_CLOSE_FRACTION * 100}% cap. ` +
+      `This usually means an upstream problem, not a normal day of trials closing.`
+    );
+    return;
+  }
+
+  const CLOSE_CHUNK = 500;
+  const ids = candidates.map((c) => c.nct_id);
+  for (let i = 0; i < ids.length; i += CLOSE_CHUNK) {
+    const idChunk = ids.slice(i, i + CLOSE_CHUNK);
+    const { error: closeErr } = await db
+      .from('trials_factual')
+      .update({ delisted_at: runStart })
+      .in('nct_id', idChunk);
+    if (closeErr) {
+      console.error(`sync-trials: failed to de-list a chunk of ${idChunk.length} trials:`, closeErr.message);
+    }
+  }
+
+  console.log(`sync-trials: de-listed ${ids.length} trial(s) not seen in today's complete recruiting list.`);
 }
 
 main().catch((err) => {

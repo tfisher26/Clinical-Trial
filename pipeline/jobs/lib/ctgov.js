@@ -12,7 +12,19 @@ const FIELDS = [
 
 const PACE_MS = 1200;
 
-export async function* iterateRecruitingTrials({ pageSize = 1000 } = {}) {
+/**
+ * @param {object} [opts]
+ * @param {number} [opts.pageSize]
+ * @param {object} [opts.stats] - mutated in place; `.totalCount` is set from
+ *   the first page's response (via `countTotal=true`) so callers can verify
+ *   how much of ClinicalTrials.gov's reported total they actually received.
+ *   NOTE: countTotal is documented CT.gov v2 API behavior but has not been
+ *   verified against the live API from this environment (network access to
+ *   clinicaltrials.gov is blocked here by robots rules, same as the
+ *   unverified date-filter param noted in the pipeline diagnosis). Confirm
+ *   `totalCount` actually comes back before relying on it in production.
+ */
+export async function* iterateRecruitingTrials({ pageSize = 1000, stats } = {}) {
   let pageToken = undefined;
 
   do {
@@ -20,9 +32,12 @@ export async function* iterateRecruitingTrials({ pageSize = 1000 } = {}) {
     url.searchParams.set('filter.overallStatus', 'RECRUITING');
     url.searchParams.set('fields', FIELDS);
     url.searchParams.set('pageSize', String(pageSize));
+    url.searchParams.set('countTotal', 'true');
     if (pageToken) url.searchParams.set('pageToken', pageToken);
 
     const body = await fetchWithRetry(url);
+
+    if (stats && typeof body.totalCount === 'number') stats.totalCount = body.totalCount;
 
     yield (body.studies ?? []).map(mapStudy);
 
