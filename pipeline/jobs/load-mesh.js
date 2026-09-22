@@ -113,16 +113,46 @@ export async function* iterateRecords(stream) {
   }
 }
 
+/**
+ * Decompress only if the bytes are actually gzip.
+ *
+ * Node's fetch transparently decompresses a response carrying
+ * Content-Encoding: gzip. nlmpubs serves desc<year>.gz that way, so the
+ * stream arriving here is already plain XML and piping it through
+ * createGunzip() dies with "incorrect header check". Sniffing the magic
+ * number handles both that and a genuinely compressed local file,
+ * without caring what the filename says.
+ */
+async function maybeGunzip(stream) {
+  const first = await new Promise((resolve, reject) => {
+    const onReadable = () => {
+      const chunk = stream.read();
+      if (chunk && chunk.length) {
+        stream.off('readable', onReadable);
+        resolve(chunk);
+      }
+    };
+    stream.on('readable', onReadable);
+    stream.once('error', reject);
+    stream.once('end', () => resolve(null));
+  });
+
+  if (!first) return stream;
+  stream.unshift(first);
+
+  const isGzip = first[0] === 0x1f && first[1] === 0x8b;
+  console.log(`load-mesh: stream is ${isGzip ? 'gzip, decompressing' : 'plain XML (already decompressed)'}`);
+  return isGzip ? stream.pipe(createGunzip()) : stream;
+}
+
 async function openStream({ file }) {
-  if (file) {
-    const s = fs.createReadStream(file);
-    return file.endsWith('.gz') ? s.pipe(createGunzip()) : s;
-  }
+  if (file) return maybeGunzip(fs.createReadStream(file));
+
   const url = `${BASE}/desc${YEAR}.gz`;
   console.log(`load-mesh: downloading ${url} ...`);
   const res = await fetch(url);
   if (!res.ok) throw new Error(`download failed: ${res.status} ${res.statusText}`);
-  return Readable.fromWeb(res.body).pipe(createGunzip());
+  return maybeGunzip(Readable.fromWeb(res.body));
 }
 
 async function main() {
