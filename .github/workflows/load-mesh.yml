@@ -1,0 +1,39 @@
+name: Load MeSH vocabulary
+
+# Manual only. The MeSH vocabulary changes once a year, so this is NOT
+# part of the daily pipeline — it populates mesh_descriptor / mesh_term,
+# which classify-conditions.js then reads locally with zero network calls.
+on:
+  workflow_dispatch:
+    inputs:
+      mesh_year:
+        description: 'MeSH edition to load (e.g. 2026)'
+        required: true
+        default: '2026'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: load-mesh
+  cancel-in-progress: false
+
+jobs:
+  load:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      MESH_YEAR: ${{ github.event.inputs.mesh_year }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install dependencies
+        working-directory: pipeline
+        run: npm install
+      - name: Download and load MeSH descriptors
+        working-directory: pipeline
+        run: node jobs/load-mesh.js
