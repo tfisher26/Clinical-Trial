@@ -1,4 +1,5 @@
-import { db, fetchAll } from './lib/db.js';
+import { db, fetchAll, queueBatchLimit } from './lib/db.js';
+import { recordQueued } from './lib/checkpoint.js';
 import { appendNewEntries } from './lib/pendingQueue.js';
 
 const QUEUE_PATH = 'pending-summaries/queue.md';
@@ -11,8 +12,10 @@ const HEADER =
 const DB_CHUNK = 100;
 
 async function main() {
-  const pending = await fetchAll(() =>
-    db.from('trial_pending_generation').select('nct_id').eq('needs_summary', true)
+  const limit = queueBatchLimit();
+  const pending = await fetchAll(
+    () => db.from('trial_pending_generation').select('nct_id').eq('needs_summary', true),
+    { max: limit }
   );
 
   if (!pending.length) {
@@ -20,7 +23,10 @@ async function main() {
     return;
   }
 
+  console.log(`generate-summaries: processing ${pending.length} trial(s) this run (limit ${limit}).`);
+
   let added = 0;
+  const queued = [];
   for (let i = 0; i < pending.length; i += DB_CHUNK) {
     const idChunk = pending.slice(i, i + DB_CHUNK).map((p) => p.nct_id);
 
@@ -38,12 +44,18 @@ async function main() {
 
     added += appendNewEntries(QUEUE_PATH, entries, HEADER);
 
-    await db.from('trial_pending_generation').update({ needs_summary: false }).in('nct_id', idChunk);
+    // Flags are NOT cleared here — see lib/checkpoint.js. They're cleared
+    // by confirm-queued.js only after these file changes are pushed.
+    queued.push(...idChunk);
 
     console.log(`  processed ${Math.min(i + DB_CHUNK, pending.length)}/${pending.length}`);
   }
 
-  console.log(`generate-summaries: ${added} trial(s) added to ${QUEUE_PATH}.`);
+  recordQueued('generate-summaries', 'needs_summary', queued);
+  console.log(
+    `generate-summaries: ${added} trial(s) added to ${QUEUE_PATH}; ` +
+    `${queued.length} pending confirmation after push.`
+  );
 }
 
 main().catch((err) => {

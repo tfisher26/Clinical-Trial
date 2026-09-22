@@ -29,16 +29,24 @@ export function appendNewEntries(filePath, entries, header) {
   let content = readQueue(filePath);
   if (!content.trim()) content = `${header}\n\n`;
 
-  let added = 0;
+  // Index existing ids ONCE. This used to be a `content.includes(marker)`
+  // scan per entry, i.e. O(entries x filesize). At 3k entries over a
+  // 3.6MB file that was already ~11 billion character comparisons per
+  // run; at the full backlog it does not finish.
+  const existing = new Set();
+  for (const m of content.matchAll(/^## (.+)$/gm)) existing.add(m[1].trim());
+
+  // Build the whole append in memory and write once, rather than
+  // rewriting the file for every entry.
+  const additions = [];
   for (const entry of entries) {
-    const marker = `## ${entry.id}`;
-    if (content.includes(marker)) continue; // already queued, don't duplicate
-    content += entry.block.trim() + '\n\n';
-    added++;
+    if (existing.has(entry.id)) continue; // already queued, don't duplicate
+    existing.add(entry.id);               // guard against dupes within this batch too
+    additions.push(entry.block.trim());
   }
 
-  if (added > 0) writeQueue(filePath, content);
-  return added;
+  if (additions.length) writeQueue(filePath, content + additions.join('\n\n') + '\n\n');
+  return additions.length;
 }
 
 /**

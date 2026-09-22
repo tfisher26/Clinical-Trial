@@ -3,43 +3,109 @@ name: Daily trial sync and generation
 on:
   schedule:
     - cron: '0 9 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      queue_batch_limit:
+        description: 'Max trials each queue job may process this run'
+        required: false
+        default: '5000'
 
 permissions:
   contents: write   # needed to commit the pending-*/queue.md files back to the repo
 
+# Never let a slow run overlap the next day's run — they'd fight over
+# the same queue files and the same pending flags.
+concurrency:
+  group: daily-sync
+  cancel-in-progress: false
+
+env:
+  QUEUE_BATCH_LIMIT: ${{ github.event.inputs.queue_batch_limit || '5000' }}
+
 jobs:
-  pipeline:
+  # ------------------------------------------------------------------
+  # 1. Mirror ClinicalTrials.gov into trials_factual. This is the long
+  #    pole (~59k trials) and the step that must never be starved of
+  #    time, so it now gets a budget of its own instead of sharing one
+  #    with everything downstream.
+  # ------------------------------------------------------------------
+  sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 75
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install dependencies
+        working-directory: pipeline
+        run: npm install
+      - name: Sync trials (no AI)
+        working-directory: pipeline
+        run: node jobs/sync-trials.js
+
+  # ------------------------------------------------------------------
+  # 2. Classification and taxonomy mapping. map-conditions is now a
+  #    single RPC (migrations/005) rather than ~60k round-trips, so this
+  #    job should finish in a couple of minutes.
+  # ------------------------------------------------------------------
+  classify:
+    needs: sync
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install dependencies
+        working-directory: pipeline
+        run: npm install
+
+      - name: Classify conditions (free MeSH lookup; unmatched go to a queue file, no AI)
+        working-directory: pipeline
+        run: node jobs/classify-conditions.js
+
+      - name: Map conditions to taxonomy (single set-based RPC, no AI)
+        working-directory: pipeline
+        run: node jobs/map-conditions.js
+
+      - name: Commit new category queue entries
+        run: .github/scripts/commit-queues.sh "Queue new condition classifications"
+
+  # ------------------------------------------------------------------
+  # 3. Fill the manual-review queue files. Bounded by QUEUE_BATCH_LIMIT
+  #    so this job always finishes; whatever it doesn't reach stays
+  #    flagged and is picked up tomorrow.
+  #
+  #    Order matters: commit and push the queue files FIRST, then clear
+  #    the flags. If the job dies in between, the flags stay set and the
+  #    work is simply redone — nothing is silently lost.
+  # ------------------------------------------------------------------
+  queue:
+    needs: classify
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
     env:
       SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
       SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # only extract-criteria.js still uses this
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-
       - name: Install dependencies
         working-directory: pipeline
         run: npm install
 
-      - name: Sync trials (no AI)
-        working-directory: pipeline
-        run: node jobs/sync-trials.js
-
-      - name: Classify conditions (free MeSH lookup; unmatched go to a queue file, no AI)
-        working-directory: pipeline
-        run: node jobs/classify-conditions.js
-
-      - name: Map conditions to taxonomy (no AI)
-        working-directory: pipeline
-        run: node jobs/map-conditions.js
-
-      - name: Queue relationship checks (no AI — writes to a queue file for manual review)
+      - name: Queue relationship checks (no AI)
         working-directory: pipeline
         run: node jobs/infer-relationship.js
 
@@ -52,14 +118,13 @@ jobs:
         working-directory: pipeline
         run: node jobs/queue-manual-content.js
 
-      - name: Queue intervention summaries (no AI — writes to a queue file for manual write-up)
+      - name: Queue intervention summaries (no AI)
         working-directory: pipeline
         run: node jobs/generate-summaries.js
 
       - name: Commit any new queue file entries
-        run: |
-          git config user.name "clinical-trial-pipeline-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add pipeline/pending-summaries pipeline/pending-categories pipeline/pending-relationships pipeline/pending-headlines pipeline/pending-qualify-notes pipeline/pending-callouts 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "Queue new items for manual review"
-          git push
+        run: .github/scripts/commit-queues.sh "Queue new items for manual review"
+
+      - name: Mark queued trials as done (only now that the push succeeded)
+        working-directory: pipeline
+        run: node jobs/confirm-queued.js

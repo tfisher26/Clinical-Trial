@@ -1,4 +1,5 @@
-import { db, fetchAll } from './lib/db.js';
+import { db, fetchAll, queueBatchLimit } from './lib/db.js';
+import { recordQueued } from './lib/checkpoint.js';
 import { appendNewEntries } from './lib/pendingQueue.js';
 
 const QUALIFY_NOTE_KEYWORDS = ['cohort', 'subgroup', 'stratum', 'stratified'];
@@ -10,8 +11,10 @@ const CALLOUT_KEYWORDS = [
 const DB_CHUNK = 100;
 
 async function main() {
-  const pending = await fetchAll(() =>
-    db.from('trial_pending_generation').select('nct_id').eq('needs_manual_content_check', true)
+  const limit = queueBatchLimit();
+  const pending = await fetchAll(
+    () => db.from('trial_pending_generation').select('nct_id').eq('needs_manual_content_check', true),
+    { max: limit }
   );
 
   if (!pending.length) {
@@ -20,7 +23,9 @@ async function main() {
   }
 
   const allIds = pending.map((p) => p.nct_id);
-  console.log(`queue-manual-content: checking ${allIds.length} flagged trial(s).`);
+  console.log(`queue-manual-content: checking ${allIds.length} flagged trial(s) this run (limit ${limit}).`);
+
+  const queued = [];
 
   let headlineCount = 0;
   let qualifyNoteCount = 0;
@@ -92,15 +97,17 @@ async function main() {
       '# Pending callouts\n\nEach trial below hit a keyword suggesting it may have a detail worth calling out prominently (see Keyword hit). Fill in CALLOUT_HEADING and CALLOUT_TEXT if warranted, or delete the entry if not. Commit and push when done.'
     );
 
-    await db
-      .from('trial_pending_generation')
-      .update({ needs_manual_content_check: false })
-      .in('nct_id', idChunk);
+    // Cleared by confirm-queued.js after the push — see lib/checkpoint.js.
+    queued.push(...idChunk);
 
     console.log(`  processed ${Math.min(i + DB_CHUNK, allIds.length)}/${allIds.length} flagged trials`);
   }
 
-  console.log(`queue-manual-content complete: ${headlineCount} headline, ${qualifyNoteCount} qualify-note, ${calloutCount} callout candidate(s) queued.`);
+  recordQueued('queue-manual-content', 'needs_manual_content_check', queued);
+  console.log(
+    `queue-manual-content complete: ${headlineCount} headline, ${qualifyNoteCount} qualify-note, ` +
+    `${calloutCount} callout candidate(s) queued; ${queued.length} pending confirmation after push.`
+  );
 }
 
 main().catch((err) => {

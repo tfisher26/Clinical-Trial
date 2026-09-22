@@ -12,7 +12,8 @@
     "queue-manual-content": "node jobs/queue-manual-content.js",
     "summarize": "node jobs/generate-summaries.js",
     "apply-edits": "node jobs/apply-manual-edits.js",
-    "pipeline": "npm run sync && npm run classify && npm run map-conditions && npm run infer-relationship && npm run extract && npm run queue-manual-content && npm run summarize"
+    "pipeline": "npm run sync && npm run classify && npm run map-conditions && npm run infer-relationship && npm run extract && npm run queue-manual-content && npm run summarize && npm run confirm-queued",
+    "confirm-queued": "node jobs/confirm-queued.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",
