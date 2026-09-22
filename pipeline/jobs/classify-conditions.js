@@ -3,11 +3,25 @@ import { appendNewEntries, readQueue, writeQueue, removeEntries } from './lib/pe
 
 const QUEUE_PATH = 'pending-categories/queue.md';
 
-// Trigram threshold for strings with no exact entry-term match. 0 turns
-// fuzzy matching off entirely. 0.55 was chosen empirically: it resolves
-// "Achondroplasia in Children" -> Achondroplasia while still declining
-// to guess on strings MeSH has no concept for.
-const MIN_SIMILARITY = Number.parseFloat(process.env.MESH_MIN_SIMILARITY ?? '0.55');
+// Trigram threshold for strings with no exact entry-term match.
+//
+// DEFAULT IS 0 — fuzzy matching OFF. Do not raise this without re-running
+// the quality check.
+//
+// Measured on real data at 0.55: 101 of 250 strings resolved, but ~23%
+// of those were wrong, and wrong in ways that matter on a patient-facing
+// site. "Bleeding Disorders" matched "Feeding and Eating Disorders" (one
+// letter apart, trigrams don't know what words mean). "Breast Cancer
+// Female NOS" matched "Breast Neoplasms, Male". "Children" matched
+// "Angelman Syndrome". "B-cell Acute Lymphoblastic Leukemia" matched the
+// T-cell descriptor.
+//
+// A wrong classification that looks right is worse than no
+// classification. Exact entry-term matching resolved 5,204 strings with
+// no such failures; the remainder goes to manual review until fuzzy
+// matching can be made trustworthy (higher threshold, shared head-noun
+// requirement, and a blocklist for population terms like "children").
+const MIN_SIMILARITY = Number.parseFloat(process.env.MESH_MIN_SIMILARITY ?? '0');
 
 /**
  * Classifies condition strings against the LOCAL MeSH vocabulary
