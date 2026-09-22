@@ -90,6 +90,12 @@ jobs:
   # ------------------------------------------------------------------
   queue:
     needs: classify
+    # Run even when classify fails, times out, or is cancelled. Filling
+    # the summary / headline / callout queues has no dependency on MeSH
+    # condition classification, so there is no reason for those to stay
+    # frozen while that backlog is worked through. Without this, a
+    # classify timeout silently skips the entire queue stage.
+    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 60
     env:
