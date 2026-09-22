@@ -171,19 +171,28 @@ async function main() {
   let db = null;
   if (!dry) ({ db } = await import('./lib/db.js'));
 
+  // mesh_term.descriptor_ui references mesh_descriptor(ui), so parents
+  // MUST be written before their children. The two batches fill at very
+  // different rates (~9 terms per descriptor), so they cannot be
+  // flushed on independent thresholds — terms would reach theirs first
+  // and hit a foreign key violation. Whenever either batch is ready,
+  // both are flushed, descriptors first.
   async function flush(force = false) {
     if (dry) { descBatch = []; termBatch = []; return; }
-    if (descBatch.length >= DB_CHUNK || (force && descBatch.length)) {
+    if (!force && descBatch.length < DB_CHUNK && termBatch.length < DB_CHUNK * 4) return;
+
+    if (descBatch.length) {
       const { error } = await db.from('mesh_descriptor').upsert(descBatch, { onConflict: 'ui' });
       if (error) throw new Error(`mesh_descriptor upsert failed: ${error.message}`);
       descBatch = [];
     }
-    if (termBatch.length >= DB_CHUNK * 4 || (force && termBatch.length)) {
+
+    while (termBatch.length) {
+      const chunk = termBatch.splice(0, DB_CHUNK * 4);
       const { error } = await db
         .from('mesh_term')
-        .upsert(termBatch, { onConflict: 'term_norm,descriptor_ui', ignoreDuplicates: true });
+        .upsert(chunk, { onConflict: 'term_norm,descriptor_ui', ignoreDuplicates: true });
       if (error) throw new Error(`mesh_term upsert failed: ${error.message}`);
-      termBatch = [];
     }
   }
 
