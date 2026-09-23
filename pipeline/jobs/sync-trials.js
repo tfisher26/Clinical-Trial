@@ -129,24 +129,16 @@ async function delistMissingTrials({ runStart, seen, totalCount, hadWriteFailure
     return;
   }
 
-  // head:true (a bodyless HEAD request) was returning an unusable, near-empty
-  // error on this Supabase client — fetching one row instead avoids whatever
-  // that edge case was; Postgrest's Content-Range header still reports the
-  // full exact count regardless of the row limit requested.
-  const { count: previouslyListedCount, error: countErr } = await db
-    .from('trials_factual')
-    .select('nct_id', { count: 'exact' })
-    .is('delisted_at', null)
-    .limit(1);
-  if (countErr) {
-    console.error('sync-trials: skipping de-listing — could not read current listing count:', JSON.stringify(countErr));
-    return;
-  }
-  if (!previouslyListedCount) {
-    console.warn('sync-trials: skipping de-listing — no currently-listed trials found to compare against.');
-    return;
-  }
-
+  // Two separate count-style queries against trials_factual have hit Postgres
+  // statement timeouts (57014) this week, on this job and independently on
+  // map-conditions.js's map_trial_conditions() RPC — a pre-existing/DB-level
+  // issue (stale planner stats or a tightened timeout after recent heavy
+  // migrations), not something specific to a query shape. Rather than add a
+  // third query fighting the same timeout, reuse ClinicalTrials.gov's own
+  // totalCount (already fetched and validated above) as the denominator for
+  // the 5% cap — comparing "trials this run would close" against "how many
+  // ClinicalTrials.gov says are actually recruiting" is at least as
+  // meaningful a safety check, and needs no extra database round trip.
   const candidates = await fetchAll(() =>
     db.from('trials_factual').select('nct_id').is('delisted_at', null).lt('last_synced_at', runStart)
   );
@@ -156,10 +148,10 @@ async function delistMissingTrials({ runStart, seen, totalCount, hadWriteFailure
     return;
   }
 
-  const closeFraction = candidates.length / previouslyListedCount;
+  const closeFraction = candidates.length / totalCount;
   if (closeFraction > MAX_CLOSE_FRACTION) {
     console.warn(
-      `sync-trials: skipping de-listing — would close ${candidates.length}/${previouslyListedCount} ` +
+      `sync-trials: skipping de-listing — would close ${candidates.length}/${totalCount} ` +
       `listings (${(closeFraction * 100).toFixed(1)}%), above the ${MAX_CLOSE_FRACTION * 100}% cap. ` +
       `This usually means an upstream problem, not a normal day of trials closing.`
     );
