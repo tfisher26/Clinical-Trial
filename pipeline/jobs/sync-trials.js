@@ -129,10 +129,15 @@ async function delistMissingTrials({ runStart, seen, totalCount, hadWriteFailure
     return;
   }
 
+  // head:true (a bodyless HEAD request) was returning an unusable, near-empty
+  // error on this Supabase client — fetching one row instead avoids whatever
+  // that edge case was; Postgrest's Content-Range header still reports the
+  // full exact count regardless of the row limit requested.
   const { count: previouslyListedCount, error: countErr } = await db
     .from('trials_factual')
-    .select('*', { count: 'exact', head: true })
-    .is('delisted_at', null);
+    .select('nct_id', { count: 'exact' })
+    .is('delisted_at', null)
+    .limit(1);
   if (countErr) {
     console.error('sync-trials: skipping de-listing — could not read current listing count:', JSON.stringify(countErr));
     return;
