@@ -131,10 +131,10 @@ async function delistMissingTrials({ runStart, seen, totalCount, hadWriteFailure
 
   const { count: previouslyListedCount, error: countErr } = await db
     .from('trials_factual')
-    .select('nct_id', { count: 'exact', head: true })
+    .select('*', { count: 'exact', head: true })
     .is('delisted_at', null);
   if (countErr) {
-    console.error('sync-trials: skipping de-listing — could not read current listing count:', countErr.message);
+    console.error('sync-trials: skipping de-listing — could not read current listing count:', JSON.stringify(countErr));
     return;
   }
   if (!previouslyListedCount) {
