@@ -26,8 +26,11 @@ either free (MeSH lookup) or routed to you via a queue file in this repo.
 
 ## What runs daily, in order
 
-1. **`sync-trials.js`** — no AI. Pulls all recruiting trials, upserts facts,
-   flags new/changed trials.
+1. **`sync-trials.js`** — no AI. Fetches only trials ClinicalTrials.gov
+   updated since the last successful run (tracked in `sync_state`), writes
+   the recruiting ones, and hides ones that stopped recruiting with their
+   real status. On Sundays it also runs an id-only check of the whole
+   recruiting list as a safety net. Flags new/changed trials.
 2. **`classify-conditions.js`** — free MeSH lookup only. Anything unmatched
    goes into `pending-categories/queue.md` for you to classify by hand.
 3. **`map-conditions.js`** — no AI. Joins classified conditions onto each

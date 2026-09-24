@@ -13,37 +13,62 @@ const FIELDS = [
 const PACE_MS = 1200;
 
 /**
- * @param {object} [opts]
- * @param {number} [opts.pageSize]
- * @param {object} [opts.stats] - mutated in place; `.totalCount` is set from
- *   the first page's response (via `countTotal=true`) so callers can verify
- *   how much of ClinicalTrials.gov's reported total they actually received.
- *   NOTE: countTotal is documented CT.gov v2 API behavior but has not been
- *   verified against the live API from this environment (network access to
- *   clinicaltrials.gov is blocked here by robots rules, same as the
- *   unverified date-filter param noted in the pipeline diagnosis). Confirm
- *   `totalCount` actually comes back before relying on it in production.
+ * Pages through /studies with the given query params, yielding each page's
+ * raw `studies` array. `stats.totalCount` is set from `countTotal=true`
+ * (confirmed working against the live API, 23 Sep 2026).
  */
-export async function* iterateRecruitingTrials({ pageSize = 1000, stats } = {}) {
+async function* iterateStudies(params, { pageSize = 1000, stats } = {}) {
   let pageToken = undefined;
 
   do {
     const url = new URL(BASE_URL);
-    url.searchParams.set('filter.overallStatus', 'RECRUITING');
-    url.searchParams.set('fields', FIELDS);
+    for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
     url.searchParams.set('pageSize', String(pageSize));
     url.searchParams.set('countTotal', 'true');
     if (pageToken) url.searchParams.set('pageToken', pageToken);
 
     const body = await fetchWithRetry(url);
-
     if (stats && typeof body.totalCount === 'number') stats.totalCount = body.totalCount;
 
-    yield (body.studies ?? []).map(mapStudy);
+    yield body.studies ?? [];
 
     pageToken = body.nextPageToken;
     if (pageToken) await sleep(PACE_MS);
   } while (pageToken);
+}
+
+/**
+ * Every trial (any status) whose record was updated on or after `sinceDate`
+ * (YYYY-MM-DD). Filter syntax confirmed against the live API, 23 Sep 2026:
+ * AREA[LastUpdatePostDate]RANGE[2026-09-22,MAX] returned 2,151 studies.
+ */
+export async function* iterateUpdatedSince(sinceDate, opts = {}) {
+  const params = {
+    'filter.advanced': `AREA[LastUpdatePostDate]RANGE[${sinceDate},MAX]`,
+    fields: FIELDS,
+  };
+  for await (const page of iterateStudies(params, opts)) yield page.map(mapStudy);
+}
+
+/**
+ * Just the NCT ids of every currently recruiting trial. Used by the weekly
+ * reconciliation — no criteria text or locations, so the pages are tiny.
+ */
+export async function* iterateRecruitingIds(opts = {}) {
+  const params = { 'filter.overallStatus': 'RECRUITING', fields: 'NCTId' };
+  for await (const page of iterateStudies(params, opts)) {
+    yield page.map((s) => s.protocolSection?.identificationModule?.nctId).filter(Boolean);
+  }
+}
+
+/** Full records for specific trials, fetched in batches of 100 ids. */
+export async function fetchTrialsByIds(ids) {
+  const out = [];
+  for (let i = 0; i < ids.length; i += 100) {
+    const params = { 'filter.ids': ids.slice(i, i + 100).join(','), fields: FIELDS };
+    for await (const page of iterateStudies(params)) out.push(...page.map(mapStudy));
+  }
+  return out;
 }
 
 async function fetchWithRetry(url, attempt = 1) {

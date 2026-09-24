@@ -9,6 +9,11 @@ on:
         description: 'Max trials each queue job may process this run'
         required: false
         default: '5000'
+      full_reconcile:
+        description: 'Also run the weekly full check (normally Sundays only)'
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write   # needed to commit the pending-*/queue.md files back to the repo
@@ -24,10 +29,10 @@ env:
 
 jobs:
   # ------------------------------------------------------------------
-  # 1. Mirror ClinicalTrials.gov into trials_factual. This is the long
-  #    pole (~59k trials) and the step that must never be starved of
-  #    time, so it now gets a budget of its own instead of sharing one
-  #    with everything downstream.
+  # 1. Bring trials_factual up to date with ClinicalTrials.gov. Daily it
+  #    fetches only trials updated since the last successful run; on
+  #    Sundays (or when full_reconcile is ticked) it also runs a light
+  #    id-only check of the whole recruiting list. See sync-trials.js.
   # ------------------------------------------------------------------
   sync:
     runs-on: ubuntu-latest
@@ -35,6 +40,7 @@ jobs:
     env:
       SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
       SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      SYNC_FULL: ${{ github.event.inputs.full_reconcile || 'false' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
