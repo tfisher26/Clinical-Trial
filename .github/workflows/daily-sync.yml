@@ -53,6 +53,14 @@ jobs:
         working-directory: pipeline
         run: node jobs/sync-trials.js
 
+      # The website searches a small copy of the trial data; bring it up to
+      # date with what the sync just wrote. Runs even if the sync failed
+      # partway, so whatever did get written is searchable.
+      - name: Refresh website search index
+        if: always()
+        working-directory: pipeline
+        run: node jobs/refresh-search.js
+
   # ------------------------------------------------------------------
   # 2. Classification and taxonomy mapping. map-conditions is now a
   #    single RPC (migrations/005) rather than ~60k round-trips, so this
@@ -81,6 +89,10 @@ jobs:
       - name: Map conditions to taxonomy (single set-based RPC, no AI)
         working-directory: pipeline
         run: node jobs/map-conditions.js
+
+      - name: Refresh website search index (categories just changed)
+        working-directory: pipeline
+        run: node jobs/refresh-search.js
 
       - name: Commit new category queue entries
         run: .github/scripts/commit-queues.sh "Queue new condition classifications"

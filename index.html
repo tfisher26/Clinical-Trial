@@ -932,20 +932,27 @@
     document.getElementById('emptyState').style.display = 'none';
     setShowMore(false);
     document.getElementById('resultsCount').textContent = 'Searching…';
+    // The total is a nice-to-have: if counting fails, still show the
+    // trials, just without "of N".
+    const countPromise = rpc('search_trials_count', activeParams).catch(err => {
+      console.error(err);
+      return null;
+    });
     try {
-      const [count] = await Promise.all([
-        rpc('search_trials_count', activeParams),
-        loadNextPage(token),
-      ]);
-      if (token !== searchToken) return;
-      totalCount = count;
-      if (shownCount >= totalCount) exhausted = true;
-      updateCountLabel();
-      updateShowMore();
-      renderRelated(token, activeParams);
+      await loadNextPage(token);
     } catch (err) {
       if (token === searchToken) showLoadError(err);
+      return;
     }
+    const count = await countPromise;
+    if (token !== searchToken) return;
+    if (count !== null){
+      totalCount = count;
+      if (shownCount >= totalCount) exhausted = true;
+    }
+    updateCountLabel();
+    updateShowMore();
+    renderRelated(token, activeParams);
   }
 
   async function loadNextPage(token = searchToken){
@@ -964,7 +971,9 @@
       );
       shownCount += rows.length;
       if (rows.length) lastNctId = rows[rows.length - 1].nct_id;
-      if (rows.length < PAGE_SIZE || (totalCount !== null && shownCount >= totalCount)) exhausted = true;
+      // Only an empty page means the end. A page can come back a little
+      // short if a trial was hidden moments ago, and there may be more after it.
+      if (rows.length === 0 || (totalCount !== null && shownCount >= totalCount)) exhausted = true;
       updateCountLabel();
       updateShowMore();
     } finally {
@@ -1003,7 +1012,7 @@
   function updateCountLabel(){
     const el = document.getElementById('resultsCount');
     const empty = document.getElementById('emptyState');
-    const noResults = totalCount === 0 || (exhausted && shownCount === 0);
+    const noResults = shownCount === 0 && (totalCount === 0 || exhausted);
     empty.style.display = noResults ? 'block' : 'none';
     empty.textContent = noResults ? 'No trials match that search yet.' : '';
 
