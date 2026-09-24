@@ -1,3 +1,5 @@
+import fs from 'node:fs';
+import nodePath from 'node:path';
 import { db } from './lib/db.js';
 import { readQueue, writeQueue, parseEntries, removeEntries } from './lib/pendingQueue.js';
 
@@ -95,27 +97,55 @@ async function applyCuratedField({ path, field, label, toRow }) {
 // Queue files
 // ---------------------------------------------------------------------
 
+/**
+ * Summaries are spread across pending-summaries/queue-001.md, -002.md and
+ * so on, because the backlog is far too large for a single file. Every
+ * chunk is read, and each is rewritten separately so a failure part-way
+ * through cannot lose the files already processed. The legacy single
+ * queue.md is still picked up if it exists.
+ */
+const SUMMARY_DIR = 'pending-summaries';
+const SUMMARY_FILE_RE = /^queue(-\d+)?\.md$/;
+
 async function applySummaries() {
-  const path = 'pending-summaries/queue.md';
-  const q = completedEntries(path, ['SUMMARY'], 'summaries');
-  if (!q) return;
+  if (!fs.existsSync(SUMMARY_DIR)) return;
+  const files = fs
+    .readdirSync(SUMMARY_DIR)
+    .filter((f) => SUMMARY_FILE_RE.test(f))
+    .sort()
+    .map((f) => nodePath.join(SUMMARY_DIR, f));
 
-  const found = await lookupTrials(q.done.map((e) => e.id), 'nct_id, criteria_hash');
-  const missing = q.done.filter((e) => !found.has(e.id));
-  if (missing.length) console.warn(`  ${missing.length} summaries skipped: trial no longer exists`);
+  let total = 0;
 
-  const now = new Date().toISOString();
-  const rows = q.done.filter((e) => found.has(e.id)).map((e) => ({
-    nct_id: e.id,
-    intervention_summary: e.fields.SUMMARY,
-    source_criteria_hash: found.get(e.id).criteria_hash,
-    model_used: 'manual',
-    generated_at: now,
-  }));
-  await upsertAll('trials_curated', rows, 'nct_id', 'saving summaries');
+  for (const file of files) {
+    const content = readQueue(file);
+    if (!content.trim()) continue;
 
-  writeQueue(path, removeEntries(q.content, q.done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${rows.length} summaries.`);
+    const done = parseEntries(content, ['SUMMARY']).filter((e) => e.complete);
+    if (!done.length) continue;
+
+    const found = await lookupTrials(done.map((e) => e.id), 'nct_id, criteria_hash');
+    const gone = done.filter((e) => !found.has(e.id));
+    if (gone.length) console.warn(`  ${gone.length} summaries skipped in ${file}: trial no longer exists`);
+
+    const now = new Date().toISOString();
+    const rows = done.filter((e) => found.has(e.id)).map((e) => ({
+      nct_id: e.id,
+      intervention_summary: e.fields.SUMMARY,
+      source_criteria_hash: found.get(e.id).criteria_hash,
+      model_used: 'manual',
+      generated_at: now,
+    }));
+
+    await upsertAll('trials_curated', rows, 'nct_id', `saving summaries from ${file}`);
+
+    writeQueue(file, removeEntries(content, done.map((e) => e.id)));
+    total += rows.length;
+    console.log(`apply-manual-edits: applied ${rows.length} summaries from ${file}.`);
+  }
+
+  if (!total) console.log('apply-manual-edits: no completed summaries yet.');
+  else console.log(`apply-manual-edits: applied ${total} summaries in total.`);
 }
 
 async function applyHeadlines() {
