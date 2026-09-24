@@ -3,12 +3,26 @@ import { readQueue, writeQueue, parseEntries, removeEntries } from './lib/pendin
 
 /**
  * apply-manual-edits — runs when you push changes to any of the
- * pending-NAME/queue.md files. Reads whichever entries you've filled in
- * completely, writes them to the database, then rewrites each file
- * with only the still-unresolved entries left — so the files shrink
- * as you work through them, and nothing you haven't gotten to yet is
- * touched or re-ordered.
+ * pending-NAME/queue.md files (or on demand from the Actions tab). Reads
+ * whichever entries you've filled in completely, writes them to the
+ * database, then rewrites each file with only the still-unresolved
+ * entries left — so the files shrink as you work through them, and
+ * nothing you haven't gotten to yet is touched or re-ordered.
+ *
+ * Writes are batched (hundreds of entries per database call) and every
+ * write is checked. This job used to save one entry at a time without
+ * checking for errors: a 3,000-headline commit needed ~9,000 sequential
+ * calls, ran past the 10-minute limit, and the headlines were being
+ * rejected by the database the whole time without anyone knowing.
+ *
+ * If any write fails, the job stops with an error before the queue files
+ * are committed, so nothing is removed from a file unless it was saved.
+ * Re-running is safe: every write is an idempotent upsert/update.
  */
+
+const WRITE_CHUNK = 500; // rows per upsert (POST body)
+const ID_CHUNK = 200;    // ids per .in() filter (these go in the URL)
+
 async function main() {
   await applySummaries();
   await applyHeadlines();
@@ -19,61 +33,116 @@ async function main() {
   await applyRelationships();
 }
 
-async function applyHeadlines() {
-  const path = 'pending-headlines/queue.md';
-  const content = readQueue(path);
-  if (!content.trim()) return;
+// ---------------------------------------------------------------------
+// Helpers
+// ---------------------------------------------------------------------
 
-  const entries = parseEntries(content, ['HEADLINE']);
-  const done = entries.filter((e) => e.complete);
-  if (!done.length) return;
+function check(error, what) {
+  if (error) throw new Error(`${what}: ${error.message}`);
+}
 
-  for (const entry of done) {
-    await db.from('trials_curated').upsert(
-      { nct_id: entry.id, headline: entry.fields.HEADLINE },
-      { onConflict: 'nct_id' }
-    );
+async function upsertAll(table, rows, onConflict, what) {
+  for (let i = 0; i < rows.length; i += WRITE_CHUNK) {
+    const { error } = await db.from(table).upsert(rows.slice(i, i + WRITE_CHUNK), { onConflict });
+    check(error, what);
   }
-  writeQueue(path, removeEntries(content, done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${done.length} headline(s).`);
+}
+
+/** nct_id -> selected columns, for the ids that exist in trials_factual. */
+async function lookupTrials(ids, columns = 'nct_id') {
+  const found = new Map();
+  for (let i = 0; i < ids.length; i += ID_CHUNK) {
+    const { data, error } = await db.from('trials_factual').select(columns).in('nct_id', ids.slice(i, i + ID_CHUNK));
+    check(error, 'looking up trials');
+    for (const r of data ?? []) found.set(r.nct_id, r);
+  }
+  return found;
+}
+
+/** Completed entries from a queue file, or null if there's nothing to do. */
+function completedEntries(path, fields, label) {
+  const content = readQueue(path);
+  if (!content.trim()) return null;
+  const done = parseEntries(content, fields).filter((e) => e.complete);
+  if (!done.length) {
+    console.log(`apply-manual-edits: no completed ${label} yet.`);
+    return null;
+  }
+  return { content, done };
+}
+
+/**
+ * Writes one trials_curated column from a queue file. Entries for trials
+ * that no longer exist at all are dropped with a warning (there's nowhere
+ * to save them); hidden/closed trials still exist and are saved normally.
+ */
+async function applyCuratedField({ path, field, label, toRow }) {
+  const q = completedEntries(path, [field].flat(), label);
+  if (!q) return;
+
+  const found = await lookupTrials(q.done.map((e) => e.id));
+  const missing = q.done.filter((e) => !found.has(e.id));
+  if (missing.length) console.warn(`  ${missing.length} ${label} skipped: trial no longer exists (${missing.slice(0, 5).map((e) => e.id).join(', ')}${missing.length > 5 ? ', …' : ''})`);
+
+  const rows = q.done.filter((e) => found.has(e.id)).map((e) => ({ nct_id: e.id, ...toRow(e.fields) }));
+  await upsertAll('trials_curated', rows, 'nct_id', `saving ${label}`);
+
+  writeQueue(path, removeEntries(q.content, q.done.map((e) => e.id)));
+  console.log(`apply-manual-edits: applied ${rows.length} ${label}.`);
+}
+
+// ---------------------------------------------------------------------
+// Queue files
+// ---------------------------------------------------------------------
+
+async function applySummaries() {
+  const path = 'pending-summaries/queue.md';
+  const q = completedEntries(path, ['SUMMARY'], 'summaries');
+  if (!q) return;
+
+  const found = await lookupTrials(q.done.map((e) => e.id), 'nct_id, criteria_hash');
+  const missing = q.done.filter((e) => !found.has(e.id));
+  if (missing.length) console.warn(`  ${missing.length} summaries skipped: trial no longer exists`);
+
+  const now = new Date().toISOString();
+  const rows = q.done.filter((e) => found.has(e.id)).map((e) => ({
+    nct_id: e.id,
+    intervention_summary: e.fields.SUMMARY,
+    source_criteria_hash: found.get(e.id).criteria_hash,
+    model_used: 'manual',
+    generated_at: now,
+  }));
+  await upsertAll('trials_curated', rows, 'nct_id', 'saving summaries');
+
+  writeQueue(path, removeEntries(q.content, q.done.map((e) => e.id)));
+  console.log(`apply-manual-edits: applied ${rows.length} summaries.`);
+}
+
+async function applyHeadlines() {
+  await applyCuratedField({
+    path: 'pending-headlines/queue.md',
+    field: 'HEADLINE',
+    label: 'headlines',
+    toRow: (f) => ({ headline: f.HEADLINE }),
+  });
 }
 
 async function applyQualifyNotes() {
-  const path = 'pending-qualify-notes/queue.md';
-  const content = readQueue(path);
-  if (!content.trim()) return;
-
-  const entries = parseEntries(content, ['QUALIFY_NOTE']);
-  const done = entries.filter((e) => e.complete);
-  if (!done.length) return;
-
-  for (const entry of done) {
-    await db.from('trials_curated').upsert(
-      { nct_id: entry.id, qualify_note: entry.fields.QUALIFY_NOTE },
-      { onConflict: 'nct_id' }
-    );
-  }
-  writeQueue(path, removeEntries(content, done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${done.length} qualify note(s).`);
+  await applyCuratedField({
+    path: 'pending-qualify-notes/queue.md',
+    field: 'QUALIFY_NOTE',
+    label: 'qualify notes',
+    toRow: (f) => ({ qualify_note: f.QUALIFY_NOTE }),
+  });
 }
 
 async function applyCallouts() {
-  const path = 'pending-callouts/queue.md';
-  const content = readQueue(path);
-  if (!content.trim()) return;
-
-  const entries = parseEntries(content, ['CALLOUT_HEADING', 'CALLOUT_TEXT']);
-  const done = entries.filter((e) => e.complete);
-  if (!done.length) return;
-
-  for (const entry of done) {
-    await db.from('trials_curated').upsert(
-      { nct_id: entry.id, extra_callout_heading: entry.fields.CALLOUT_HEADING, extra_callout_text: entry.fields.CALLOUT_TEXT },
-      { onConflict: 'nct_id' }
-    );
-  }
-  writeQueue(path, removeEntries(content, done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${done.length} callout(s).`);
+  await applyCuratedField({
+    path: 'pending-callouts/queue.md',
+    field: ['CALLOUT_HEADING', 'CALLOUT_TEXT'],
+    label: 'callouts',
+    toRow: (f) => ({ extra_callout_heading: f.CALLOUT_HEADING, extra_callout_text: f.CALLOUT_TEXT }),
+  });
 }
 
 async function applyBasicsExtra() {
@@ -82,94 +151,61 @@ async function applyBasicsExtra() {
   // LABEL: How often
   // TEXT: Every two weeks for the first month, then monthly.
   const path = 'pending-basics-extra/queue.md';
-  const content = readQueue(path);
-  if (!content.trim()) return;
+  const q = completedEntries(path, ['LABEL', 'TEXT'], 'basics_extra entries');
+  if (!q) return;
 
-  const entries = parseEntries(content, ['LABEL', 'TEXT']);
-  const done = entries.filter((e) => e.complete);
-  if (!done.length) return;
-
-  for (const entry of done) {
-    const { data: existing } = await db.from('trials_curated').select('basics_extra').eq('nct_id', entry.id).maybeSingle();
-    const current = existing?.basics_extra ?? [];
-    const updated = [...current, { label: entry.fields.LABEL, text: entry.fields.TEXT }];
-    await db.from('trials_curated').upsert(
-      { nct_id: entry.id, basics_extra: updated },
-      { onConflict: 'nct_id' }
-    );
-  }
-  writeQueue(path, removeEntries(content, done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${done.length} basics_extra entr${done.length === 1 ? 'y' : 'ies'}.`);
-}
-
-async function applySummaries() {
-  const path = 'pending-summaries/queue.md';
-  const content = readQueue(path);
-  if (!content.trim()) return;
-
-  const entries = parseEntries(content, ['SUMMARY']);
-  const done = entries.filter((e) => e.complete);
-  if (!done.length) {
-    console.log('apply-manual-edits: no completed summaries yet.');
-    return;
+  const ids = [...new Set(q.done.map((e) => e.id))];
+  const trials = await lookupTrials(ids);
+  const current = new Map();
+  for (let i = 0; i < ids.length; i += ID_CHUNK) {
+    const { data, error } = await db.from('trials_curated').select('nct_id, basics_extra').in('nct_id', ids.slice(i, i + ID_CHUNK));
+    check(error, 'reading existing basics_extra');
+    for (const r of data ?? []) current.set(r.nct_id, r.basics_extra ?? []);
   }
 
-  for (const entry of done) {
-    const nct_id = entry.id;
-    const { data: trial } = await db
-      .from('trials_factual')
-      .select('criteria_hash')
-      .eq('nct_id', nct_id)
-      .maybeSingle();
-    if (!trial) {
-      console.warn(`  ${nct_id}: not found in trials_factual, skipping (may have been removed by a later sync)`);
-      continue;
+  // Append, skipping any label/text pair already there so a re-run
+  // doesn't add duplicates.
+  const updated = new Map();
+  for (const e of q.done) {
+    if (!trials.has(e.id)) continue;
+    const list = updated.get(e.id) ?? [...(current.get(e.id) ?? [])];
+    if (!list.some((b) => b.label === e.fields.LABEL && b.text === e.fields.TEXT)) {
+      list.push({ label: e.fields.LABEL, text: e.fields.TEXT });
     }
-
-    await db.from('trials_curated').upsert(
-      {
-        nct_id,
-        intervention_summary: entry.fields.SUMMARY,
-        source_criteria_hash: trial.criteria_hash,
-        model_used: 'manual',
-        generated_at: new Date().toISOString(),
-      },
-      { onConflict: 'nct_id' }
-    );
+    updated.set(e.id, list);
   }
+  const rows = [...updated].map(([nct_id, basics_extra]) => ({ nct_id, basics_extra }));
+  await upsertAll('trials_curated', rows, 'nct_id', 'saving basics_extra');
 
-  writeQueue(path, removeEntries(content, done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${done.length} summar${done.length === 1 ? 'y' : 'ies'}.`);
+  writeQueue(path, removeEntries(q.content, q.done.map((e) => e.id)));
+  console.log(`apply-manual-edits: applied ${q.done.length} basics_extra entries across ${rows.length} trials.`);
 }
 
 async function applyCategories() {
   const path = 'pending-categories/queue.md';
-  const content = readQueue(path);
-  if (!content.trim()) return;
+  const q = completedEntries(path, ['CATEGORY', 'CATEGORY_LABEL', 'SUBCATEGORY', 'SUBCATEGORY_LABEL'], 'category classifications');
+  if (!q) return;
 
-  const entries = parseEntries(content, ['CATEGORY', 'CATEGORY_LABEL', 'SUBCATEGORY', 'SUBCATEGORY_LABEL']);
-  const done = entries.filter((e) => e.complete);
-  if (!done.length) {
-    console.log('apply-manual-edits: no completed category classifications yet.');
-    return;
+  const now = new Date().toISOString();
+  const rows = q.done.map((e) => ({
+    raw_condition: e.id,
+    category: e.fields.CATEGORY,
+    category_label: e.fields.CATEGORY_LABEL,
+    subcategory: e.fields.SUBCATEGORY,
+    subcategory_label: e.fields.SUBCATEGORY_LABEL,
+    classified_by: 'manual',
+    classified_at: now,
+  }));
+  await upsertAll('condition_taxonomy', rows, 'raw_condition', 'saving categories');
+
+  const ids = rows.map((r) => r.raw_condition);
+  for (let i = 0; i < ids.length; i += ID_CHUNK) {
+    const { error } = await db.from('condition_taxonomy_pending').delete().in('raw_condition', ids.slice(i, i + ID_CHUNK));
+    check(error, 'clearing classified conditions from the pending list');
   }
 
-  for (const entry of done) {
-    const raw_condition = entry.id;
-    await db.from('condition_taxonomy').upsert({
-      raw_condition,
-      category: entry.fields.CATEGORY,
-      category_label: entry.fields.CATEGORY_LABEL,
-      subcategory: entry.fields.SUBCATEGORY,
-      subcategory_label: entry.fields.SUBCATEGORY_LABEL,
-      classified_by: 'manual',
-      classified_at: new Date().toISOString(),
-    });
-    await db.from('condition_taxonomy_pending').delete().eq('raw_condition', raw_condition);
-  }
-
-  writeQueue(path, removeEntries(content, done.map((e) => e.id)));
-  console.log(`apply-manual-edits: applied ${done.length} categor${done.length === 1 ? 'y' : 'ies'}.`);
+  writeQueue(path, removeEntries(q.content, ids));
+  console.log(`apply-manual-edits: applied ${rows.length} categories.`);
 }
 
 async function applyRelationships() {
@@ -177,8 +213,7 @@ async function applyRelationships() {
   const content = readQueue(path);
   if (!content.trim()) return;
 
-  const entries = parseEntries(content, ['RELATIONSHIP']);
-  const done = entries.filter(
+  const done = parseEntries(content, ['RELATIONSHIP']).filter(
     (e) => e.fields.RELATIONSHIP && ['comorbidity', 'independent'].includes(e.fields.RELATIONSHIP.toLowerCase())
   );
   if (!done.length) {
@@ -186,10 +221,14 @@ async function applyRelationships() {
     return;
   }
 
-  for (const entry of done) {
-    const nct_id = entry.id;
-    const value = entry.fields.RELATIONSHIP.toLowerCase() === 'comorbidity' ? 'comorbidity' : null;
-    await db.from('trials_factual').update({ condition_relationship: value }).eq('nct_id', nct_id);
+  const byValue = { comorbidity: [], independent: [] };
+  for (const e of done) byValue[e.fields.RELATIONSHIP.toLowerCase()].push(e.id);
+  for (const [kind, ids] of Object.entries(byValue)) {
+    const value = kind === 'comorbidity' ? 'comorbidity' : null;
+    for (let i = 0; i < ids.length; i += ID_CHUNK) {
+      const { error } = await db.from('trials_factual').update({ condition_relationship: value }).in('nct_id', ids.slice(i, i + ID_CHUNK));
+      check(error, 'saving relationship checks');
+    }
   }
 
   writeQueue(path, removeEntries(content, done.map((e) => e.id)));

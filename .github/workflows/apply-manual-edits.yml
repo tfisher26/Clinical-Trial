@@ -10,6 +10,7 @@ on:
       - 'pipeline/pending-qualify-notes/**'
       - 'pipeline/pending-callouts/**'
       - 'pipeline/pending-basics-extra/**'
+  workflow_dispatch:   # re-run by hand from the Actions tab
 
 permissions:
   contents: write   # needed to commit the trimmed-down queue files back
@@ -37,9 +38,4 @@ jobs:
         run: node jobs/apply-manual-edits.js
 
       - name: Commit trimmed queue files
-        run: |
-          git config user.name "clinical-trial-pipeline-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A pipeline/pending-* 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "Remove applied entries from queue"
-          git push
+        run: .github/scripts/commit-queues.sh "Remove applied entries from queue"
