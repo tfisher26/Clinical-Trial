@@ -149,21 +149,23 @@
   .filter-group{
     margin-top: 20px;
   }
-  .subcat-heading{ display: flex; align-items: baseline; gap: 6px; flex-wrap: wrap; }
   .subcat-toggle{
-    margin-left: auto;
-    background: none;
-    border: none;
-    padding: 0;
-    font-family: 'Public Sans', sans-serif;
-    font-size: 0.8rem;
-    font-weight: 600;
-    text-transform: none;
-    letter-spacing: normal;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1.5px solid var(--forest-dark);
+    background: var(--paper-raised);
     color: var(--forest-dark);
-    text-decoration: underline;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 10px 18px;
+    border-radius: 2px;
     cursor: pointer;
   }
+  .subcat-toggle:hover{ background: var(--forest-dark); color: var(--paper); }
+  .subcat-toggle .chevron{ font-size: 0.75rem; }
+  .filter-group .category-filters.selected-subs{ margin-top: 12px; }
   .selected-subs:empty{ display: none; }
   .selected-subs .chip .remove{ margin-left: 6px; font-weight: 700; }
   .subcat-filter{
@@ -606,10 +608,8 @@
       <div class="category-filters" id="categoryFilters"><span class="filter-hint">Loading conditions…</span></div>
     </div>
     <div class="filter-group subcategory-group" id="subcategoryGroup" style="display:none;">
-      <div class="filter-label subcat-heading">
-        Specific condition <span class="filter-hint">(optional)</span>
-        <button type="button" class="subcat-toggle" id="subcatToggle" onclick="toggleSubcatPanel()" aria-expanded="false" aria-controls="subcatPanel"></button>
-      </div>
+      <div class="filter-label">Specific condition <span class="filter-hint">(optional)</span></div>
+      <button type="button" class="subcat-toggle" id="subcatToggle" onclick="toggleSubcatPanel()" aria-expanded="false" aria-controls="subcatPanel"></button>
       <div class="category-filters subcategory-filters selected-subs" id="selectedSubs"></div>
       <div id="subcatPanel" hidden>
         <label for="subcatFilter" class="sr-only">Find a specific condition</label>
@@ -962,7 +962,9 @@
     // Toggle
     const total = [...selectedCategories].reduce((n, c) => n + Object.keys(categoriesMap[c].subcategories).length, 0);
     const toggle = document.getElementById('subcatToggle');
-    toggle.textContent = subcatOpen ? 'Hide list' : `Choose from ${total.toLocaleString()} conditions`;
+    toggle.innerHTML = subcatOpen
+      ? 'Hide conditions <span class="chevron" aria-hidden="true">▲</span>'
+      : `Choose from ${total.toLocaleString()} conditions <span class="chevron" aria-hidden="true">▼</span>`;
     toggle.setAttribute('aria-expanded', String(subcatOpen));
     document.getElementById('subcatPanel').hidden = !subcatOpen;
     if (!subcatOpen) return;
