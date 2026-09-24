@@ -678,8 +678,28 @@
     "Phase 4": "Happens after a treatment is already approved, studying how it performs in the real world over the long term.",
     "Double-blind": "Neither you nor your care team knows which treatment you're getting until the study ends. This helps prevent bias, but means there's a real chance you'll get a placebo or an older treatment instead of the new one being tested.",
     "Single-blind": "You won't know which treatment you're getting, but your care team will. There's still a chance you won't get the new treatment being tested.",
-    "Open-label": "Everyone knows exactly which treatment or dose you're getting. There's no placebo group and no hidden information."
+    "Open-label": "Everyone knows exactly which treatment or dose you're getting. There's no placebo group and no hidden information.",
+    "Early Phase 1": "The very first tests in people, with a handful of participants and very small doses. It checks how the body handles the treatment, not whether it works.",
+    "Phase 1/2": "Combines the first two stages: checking safety and dose, then starting to look at whether the treatment works, in one study.",
+    "Phase 2/3": "Combines the mid and late stages: looking at whether the treatment works, then comparing it at a larger scale, in one study.",
+    "No phase": "Phases only apply to studies of new drugs. This study is testing something else, like a device, exercise, diet, or a way of delivering care.",
+    "Triple-blind": "You, your care team, and the people analyzing the results all don't know who got which treatment until the study ends. There's a real chance you'll get a placebo or an older treatment instead of the new one being tested.",
+    "Quadruple-blind": "Nobody involved, including you, your care team, the investigators, and the people analyzing the results, knows who got which treatment until the study ends. There's a real chance you'll get a placebo or an older treatment instead of the new one being tested."
   };
+
+  // ClinicalTrials.gov stores phase and masking as codes (PHASE2, DOUBLE,
+  // NONE...). These turn them into the plain-language names the pills and
+  // the glossary above use. Unknown codes fall back to the raw value.
+  const PHASE_LABELS = {
+    EARLY_PHASE1: 'Early Phase 1', PHASE1: 'Phase 1', PHASE2: 'Phase 2',
+    PHASE3: 'Phase 3', PHASE4: 'Phase 4', NA: 'No phase',
+  };
+  const MASKING_LABELS = {
+    NONE: 'Open-label', SINGLE: 'Single-blind', DOUBLE: 'Double-blind',
+    TRIPLE: 'Triple-blind', QUADRUPLE: 'Quadruple-blind',
+  };
+  const phaseLabel = p => p ? (PHASE_LABELS[p] || p) : null;
+  const maskingLabel = m => m ? (MASKING_LABELS[m] || m) : null;
 
   function showFact(trialId, key){
     const el = document.getElementById('factTooltip-' + trialId);
@@ -732,11 +752,17 @@
   function renderQuestions(t){
     const qs = [
       `Which of the ${esc(t.site_scope || 'listed')} sites is closest to me, and is it still recruiting?`,
-      t.masking ? `Since this trial is ${esc(t.masking)}, will I know which treatment I'm on, and if not, will I find out afterward?` : null,
+      t.masking && t.masking !== 'NONE' ? `Since this trial is ${esc(maskingLabel(t.masking).toLowerCase())}, will I know which treatment I'm on, and if not, will I find out afterward?` : null,
       `What do the study visits actually involve, step by step, and how long does each one take?`,
       `Is travel, lodging, or mileage reimbursed, and how quickly after each visit?`,
     ].filter(Boolean);
     return `<ul>${qs.map(q => `<li>${q}</li>`).join('')}</ul>`;
+  }
+
+  function factPill(trialId, label){
+    if (!label) return '';
+    if (!glossary[label]) return `<span class="fact-pill">${esc(label)}</span>`;
+    return `<button type="button" class="fact-pill fact-pill-info" onclick="showFact('${trialId}', '${label}')">${esc(label)}<span class="info-mark" aria-hidden="true">?</span></button>`;
   }
 
   function renderTrialCard(t, categoriesMap, criteria){
@@ -769,8 +795,8 @@
       ${tagsHtml} ${comorbidityBadge}
       <h2>${esc(title)}</h2>
       <div class="quickfacts">
-        ${t.phase ? `<button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.nct_id}', '${t.phase}')">${esc(t.phase)}<span class="info-mark" aria-hidden="true">?</span></button>` : ''}
-        ${t.masking ? `<button type="button" class="fact-pill fact-pill-info" onclick="showFact('${t.nct_id}', '${t.masking}')">${esc(t.masking)}<span class="info-mark" aria-hidden="true">?</span></button>` : ''}
+        ${factPill(t.nct_id, phaseLabel(t.phase))}
+        ${factPill(t.nct_id, maskingLabel(t.masking))}
         ${t.site_scope ? `<span class="fact-pill">${esc(t.site_scope)}</span>` : ''}
       </div>
       <div class="fact-tooltip" id="factTooltip-${t.nct_id}" role="status" aria-live="polite"></div>
