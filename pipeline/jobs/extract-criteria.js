@@ -1,11 +1,26 @@
-import { db, fetchAll } from './lib/db.js';
+import { db, fetchAll, queueBatchLimit } from './lib/db.js';
 import Anthropic from '@anthropic-ai/sdk';
 
-const anthropic = new Anthropic();
+// Stop after this many failures in a row. An auth error, an exhausted
+// quota or a dead endpoint will not fix itself on the 40,000th attempt —
+// and retrying is not free: every failure costs two further database
+// round-trips to record it. On 2026-09-24 a missing API key sent this
+// job through the whole pending set one trial at a time until the queue
+// stage hit its 60-minute cap, so queue-manual-content and
+// generate-summaries never ran at all.
+const MAX_CONSECUTIVE_FAILURES = 10;
 
 async function main() {
-  const pending = await fetchAll(() =>
-    db.from('trial_pending_generation').select('nct_id').eq('needs_extraction', true)
+  // Fail fast rather than discovering this 56,000 trials later.
+  if (!process.env.ANTHROPIC_API_KEY) {
+    console.log('extract-criteria: ANTHROPIC_API_KEY is not set — skipping.');
+    return;
+  }
+
+  const limit = queueBatchLimit();
+  const pending = await fetchAll(
+    () => db.from('trial_pending_generation').select('nct_id').eq('needs_extraction', true),
+    { max: limit }
   );
 
   if (!pending.length) {
@@ -13,13 +28,22 @@ async function main() {
     return;
   }
 
-  console.log(`extract-criteria: ${pending.length} trials to process.`);
+  console.log(`extract-criteria: ${pending.length} trial(s) this run (limit ${limit}).`);
+
+  let done = 0;
+  let failed = 0;
+  let consecutiveFailures = 0;
 
   for (const { nct_id } of pending) {
     try {
       await processOne(nct_id);
+      done++;
+      consecutiveFailures = 0;
     } catch (err) {
+      failed++;
+      consecutiveFailures++;
       console.error(`extract-criteria failed for ${nct_id}:`, err.message);
+
       const { data: current } = await db
         .from('trial_pending_generation')
         .select('attempt_count')
@@ -33,8 +57,18 @@ async function main() {
           last_error: err.message,
         })
         .eq('nct_id', nct_id);
+
+      if (consecutiveFailures >= MAX_CONSECUTIVE_FAILURES) {
+        console.error(
+          `extract-criteria: ${consecutiveFailures} consecutive failures — aborting. ` +
+          `Last error: ${err.message}`
+        );
+        break;
+      }
     }
   }
+
+  console.log(`extract-criteria: ${done} extracted, ${failed} failed.`);
 }
 
 async function processOne(nct_id) {

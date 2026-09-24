@@ -132,12 +132,6 @@ jobs:
       - name: Queue relationship checks (no AI)
         working-directory: pipeline
         run: node jobs/infer-relationship.js
-
-      - name: Extract eligibility criteria (only remaining AI step)
-        working-directory: pipeline
-        continue-on-error: true # no Anthropic key set up yet — let the rest of the pipeline run anyway
-        run: node jobs/extract-criteria.js
-
       - name: Queue headline / qualify-note / callout candidates (no AI)
         working-directory: pipeline
         run: node jobs/queue-manual-content.js
