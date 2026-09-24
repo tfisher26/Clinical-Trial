@@ -558,7 +558,7 @@
     <p class="note-line recruiting-note">Every trial listed below is currently recruiting new participants, verified against its official ClinicalTrials.gov status.</p>
     <div class="filter-group">
       <div class="filter-label">Disease type <span class="filter-hint">(select any number)</span></div>
-      <div class="category-filters" id="categoryFilters"></div>
+      <div class="category-filters" id="categoryFilters"><span class="filter-hint">Loading conditions…</span></div>
     </div>
     <div class="filter-group subcategory-group" id="subcategoryGroup" style="display:none;">
       <div class="filter-label">Specific condition</div>
@@ -872,6 +872,7 @@
   let exhausted = false;
   let searchDebounce = null;
   let relatedById = new Map();
+  let menuReady = null;      // the category menu; cards need its labels to render tags
 
   function currentSearch(){
     const q = document.getElementById('searchInput').value.trim();
@@ -928,6 +929,7 @@
     try {
       const rows = await rpc('search_trials', { ...activeParams, p_after: lastNctId, p_limit: PAGE_SIZE });
       const criteria = await fetchCriteriaFor(rows.map(r => r.nct_id));
+      await menuReady;  // usually already loaded; cards need its labels for their tags
       if (token !== searchToken) return;
       trials.push(...rows);
       document.getElementById('entriesContainer').insertAdjacentHTML(
@@ -1018,14 +1020,19 @@
     runSearch();
   }
 
-  async function init(){
-    try {
-      categoriesData = await fetchCategoryMenu();
-      renderCategoryChips(categoriesData);
-    } catch (err) {
-      showLoadError(err);
-      return;
-    }
+  // The category menu and the first page of trials load at the same time,
+  // so the filter chips appear as soon as the menu arrives instead of the
+  // trials waiting on it (or it on them).
+  function init(){
+    menuReady = fetchCategoryMenu().then(menu => {
+      categoriesData = menu;
+      renderCategoryChips(menu);
+    });
+    menuReady.catch(err => {
+      document.getElementById('categoryFilters').innerHTML =
+        '<span class="filter-hint">Couldn\'t load conditions.</span>';
+      console.error(err);
+    });
     new IntersectionObserver(
       entries => { if (entries.some(e => e.isIntersecting)) maybeAutoLoad(); },
       { rootMargin: '600px 0px' }
