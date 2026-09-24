@@ -513,6 +513,34 @@
     background: var(--ochre-bg);
     color: var(--ochre-dark);
   }
+  .loading-more{
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    margin: 20px 0;
+  }
+  .show-more-wrap{ text-align: center; margin: 28px 0 8px; }
+  .show-more{
+    border: 1.5px solid var(--forest-dark);
+    background: var(--forest-dark);
+    color: var(--paper);
+    padding: 12px 26px;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+  .show-more:hover{ background: var(--forest); border-color: var(--forest); }
+  .linklike{
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    color: var(--forest-dark);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  #loadSentinel{ height: 1px; }
 </style>
 </head>
 <body>
@@ -523,7 +551,7 @@
     <p class="tagline">Clinical trials, explained in plain language, so you can decide for yourself whether one might be worth a conversation with your doctor.</p>
     <form class="search" onsubmit="return false;">
       <label for="searchInput" class="sr-only">Search trials by condition</label>
-      <input id="searchInput" type="text" placeholder="Search by condition, like &quot;diabetes&quot; or &quot;Alzheimer's&quot;" oninput="filterEntries()">
+      <input id="searchInput" type="text" placeholder="Search by condition, like &quot;diabetes&quot; or &quot;Alzheimer's&quot;" oninput="onSearchInput()">
       <button type="button" onclick="filterEntries()">Search</button>
     </form>
     <p class="note-line">Independent and free. Not affiliated with any trial sponsor, and not medical advice.</p>
@@ -544,6 +572,11 @@
     <div id="relatedStrip" class="related-strip" style="display:none;" aria-live="polite"></div>
     <div id="entriesContainer"></div>
     <div class="empty-state" id="emptyState" style="display:none;"></div>
+    <p class="loading-more" id="loadingMore" hidden>Loading more trials…</p>
+    <div class="show-more-wrap" id="showMoreWrap" hidden>
+      <button type="button" class="show-more" onclick="showMoreClicked()">Show more trials</button>
+    </div>
+    <div id="loadSentinel" aria-hidden="true"></div>
   </section>
   </main>
 
@@ -580,34 +613,37 @@
    * in the SQL editor) — it's a view over public reference data, not
    * anything sensitive, so this is safe to expose.
    */
-  /**
-   * Fetches every recruiting trial from the trials_public view — no
-   * pagination yet, PostgREST's default cap is 1000 rows, which is
-   * fine for current volume. Worth revisiting (range headers / paging)
-   * once trial count grows past that.
-   */
-  async function fetchTrialsPublic(){
-    const res = await fetch(`${SUPABASE_URL}/rest/v1/trials_public?select=*`, {
-      headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` },
+  // --- Data access -----------------------------------------------------
+  // The site used to download every trial and filter in the browser, which
+  // only works for a few dozen trials. Searching, filtering and paging now
+  // happen in the database (search_trials / search_trials_count, see
+  // pipeline/migrations/010_search_trials.sql); the browser only ever
+  // receives the 25 trials it's about to show.
+  const API_HEADERS = { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` };
+
+  async function rpc(name, params){
+    const res = await fetch(`${SUPABASE_URL}/rest/v1/rpc/${name}`, {
+      method: 'POST',
+      headers: { ...API_HEADERS, 'Content-Type': 'application/json' },
+      body: JSON.stringify(params),
     });
-    if (!res.ok) throw new Error(`trials_public fetch failed: ${res.status}`);
+    if (!res.ok) throw new Error(`${name} failed: ${res.status}`);
     return res.json();
   }
 
   /**
-   * Fetches all extracted eligibility items and groups them by trial
-   * + direction, so renderTrialCard can look up
-   * criteriaByTrial[nctId].qualify / .disqualify directly.
+   * Extracted eligibility items for just the trials on screen, grouped so
+   * renderTrialCard can look up criteriaByTrial[nctId].qualify / .disqualify.
    */
-  async function fetchExtractedCriteria(){
-    const res = await fetch(`${SUPABASE_URL}/rest/v1/trials_criteria_extracted?select=nct_id,direction,criterion_text`, {
-      headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` },
-    });
+  async function fetchCriteriaFor(ids){
+    if (!ids.length) return {};
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/trials_criteria_extracted?select=nct_id,direction,criterion_text&nct_id=in.(${ids.map(encodeURIComponent).join(',')})`,
+      { headers: API_HEADERS }
+    );
     if (!res.ok) throw new Error(`trials_criteria_extracted fetch failed: ${res.status}`);
-    const rows = await res.json();
-
     const byTrial = {};
-    rows.forEach(row => {
+    (await res.json()).forEach(row => {
       if (!byTrial[row.nct_id]) byTrial[row.nct_id] = { qualify: [], disqualify: [] };
       byTrial[row.nct_id][row.direction].push(row);
     });
@@ -818,36 +854,183 @@
     group.style.display = 'block';
   }
 
-  function loadTrials(){
-    Promise.all([
-      fetchTrialsPublic(),
-      fetchExtractedCriteria(),
-      fetchCategoryMenu(),
-    ])
-      .then(([trialsData, criteriaByTrial, dynamicCategories]) => {
-        trials = trialsData;
-        categoriesData = dynamicCategories;
-        renderCategoryChips(categoriesData);
-        document.getElementById('entriesContainer').innerHTML =
-          trials.map(t => renderTrialCard(t, categoriesData, criteriaByTrial[t.nct_id])).join('');
-        const flagged = trials.filter(t =>
-          validateConditions(t, categoriesData).some(c => !c.valid)
-        );
-        if (flagged.length > 0){
-          const banner = document.createElement('div');
-          banner.className = 'data-warning-banner';
-          banner.setAttribute('role', 'alert');
-          banner.textContent = `⚠ ${flagged.length} trial${flagged.length === 1 ? '' : 's'} ${flagged.length === 1 ? 'has' : 'have'} an unrecognized category/subcategory — likely still pending manual classification: ${flagged.map(t => t.nct_id).join(', ')}`;
-          document.querySelector('.wrap').insertBefore(banner, document.querySelector('main'));
-        }
-        filterEntries();
-      })
-      .catch(err => {
-        document.getElementById('resultsCount').textContent = '';
-        document.getElementById('entriesContainer').innerHTML =
-          '<div class="loading-note">Couldn\'t load trial data. Check that SUPABASE_URL/SUPABASE_ANON_KEY are set correctly and that the migrations have been run.</div>';
-        console.error(err);
-      });
+  // --- Search and paging -----------------------------------------------
+  // Newest trials first, 25 at a time. The first 100 load on their own as
+  // the patient scrolls; after every 100, a "Show more trials" button
+  // appears so the footer stays reachable and phones aren't asked to hold
+  // thousands of cards.
+  const PAGE_SIZE = 25;
+  const AUTO_LOAD_BATCH = 100;
+
+  let activeParams = null;   // the search the list on screen belongs to
+  let searchToken = 0;       // bumps on every new search; stale responses are dropped
+  let lastNctId = null;      // paging cursor: last trial shown
+  let totalCount = null;
+  let shownCount = 0;
+  let batchStart = 0;
+  let isLoading = false;
+  let exhausted = false;
+  let searchDebounce = null;
+  let relatedById = new Map();
+
+  function currentSearch(){
+    const q = document.getElementById('searchInput').value.trim();
+    return {
+      p_query: q || null,
+      p_categories: selectedCategories.size ? [...selectedCategories] : null,
+      p_subpairs: selectedSubPairs.size ? [...selectedSubPairs] : null,
+    };
+  }
+
+  function showLoadError(err){
+    document.getElementById('resultsCount').textContent = '';
+    document.getElementById('entriesContainer').innerHTML =
+      '<div class="loading-note">Couldn\'t load trial data. Please try again in a moment.</div>';
+    setShowMore(false);
+    document.getElementById('loadingMore').hidden = true;
+    console.error(err);
+  }
+
+  async function runSearch(){
+    const token = ++searchToken;
+    activeParams = currentSearch();
+    trials = [];
+    lastNctId = null;
+    totalCount = null;
+    shownCount = 0;
+    batchStart = 0;
+    isLoading = false;
+    exhausted = false;
+    document.getElementById('entriesContainer').innerHTML = '';
+    document.getElementById('emptyState').style.display = 'none';
+    setShowMore(false);
+    document.getElementById('resultsCount').textContent = 'Searching…';
+    try {
+      const [count] = await Promise.all([
+        rpc('search_trials_count', activeParams),
+        loadNextPage(token),
+      ]);
+      if (token !== searchToken) return;
+      totalCount = count;
+      if (shownCount >= totalCount) exhausted = true;
+      updateCountLabel();
+      updateShowMore();
+      renderRelated(token, activeParams);
+    } catch (err) {
+      if (token === searchToken) showLoadError(err);
+    }
+  }
+
+  async function loadNextPage(token = searchToken){
+    if (isLoading || exhausted || !activeParams) return;
+    isLoading = true;
+    if (shownCount > 0) document.getElementById('loadingMore').hidden = false;
+    try {
+      const rows = await rpc('search_trials', { ...activeParams, p_after: lastNctId, p_limit: PAGE_SIZE });
+      const criteria = await fetchCriteriaFor(rows.map(r => r.nct_id));
+      if (token !== searchToken) return;
+      trials.push(...rows);
+      document.getElementById('entriesContainer').insertAdjacentHTML(
+        'beforeend',
+        rows.map(t => renderTrialCard(t, categoriesData, criteria[t.nct_id])).join('')
+      );
+      shownCount += rows.length;
+      if (rows.length) lastNctId = rows[rows.length - 1].nct_id;
+      if (rows.length < PAGE_SIZE || (totalCount !== null && shownCount >= totalCount)) exhausted = true;
+      updateCountLabel();
+      updateShowMore();
+    } finally {
+      if (token === searchToken) {
+        isLoading = false;
+        document.getElementById('loadingMore').hidden = true;
+        setTimeout(maybeAutoLoad, 0);
+      }
+    }
+  }
+
+  function inAutoLoadBatch(){ return shownCount - batchStart < AUTO_LOAD_BATCH; }
+
+  // Load the next page when the bottom of the list is near the screen,
+  // until this batch of 100 is full.
+  function maybeAutoLoad(){
+    if (isLoading || exhausted || !inAutoLoadBatch() || shownCount === 0) return;
+    const r = document.getElementById('loadSentinel').getBoundingClientRect();
+    if (r.top < window.innerHeight + 600) loadNextPage().catch(showLoadError);
+  }
+
+  function setShowMore(visible){
+    document.getElementById('showMoreWrap').hidden = !visible;
+  }
+
+  function updateShowMore(){
+    setShowMore(!exhausted && shownCount > 0 && !inAutoLoadBatch());
+  }
+
+  function showMoreClicked(){
+    batchStart = shownCount;
+    setShowMore(false);
+    loadNextPage().catch(showLoadError);
+  }
+
+  function updateCountLabel(){
+    const el = document.getElementById('resultsCount');
+    const empty = document.getElementById('emptyState');
+    const noResults = totalCount === 0 || (exhausted && shownCount === 0);
+    empty.style.display = noResults ? 'block' : 'none';
+    empty.textContent = noResults ? 'No trials match that search yet.' : '';
+
+    const n = x => x.toLocaleString();
+    let label = totalCount === null
+      ? `Showing ${n(shownCount)} trial${shownCount === 1 ? '' : 's'}`
+      : `Showing ${n(shownCount)} of ${n(totalCount)} trial${totalCount === 1 ? '' : 's'}`;
+    if (selectedCategories.size > 0){
+      label += ` in ${Array.from(selectedCategories).map(c => categoriesData[c].label).join(', ')}`;
+    }
+    if (activeParams?.p_query) label += ` matching "${activeParams.p_query}"`;
+    el.textContent = label;
+  }
+
+  // "Also matches your search, outside the selected filters"
+  async function renderRelated(token, params){
+    relatedById = new Map();
+    if (!params.p_query || (!params.p_categories && !params.p_subpairs)){
+      renderRelatedStrip([]);
+      return;
+    }
+    try {
+      const rows = await rpc('search_trials', { p_query: params.p_query, p_limit: 20 });
+      if (token !== searchToken) return;
+      const outside = rows.filter(t => !trialMatchesFilters(t)).slice(0, 10);
+      outside.forEach(t => relatedById.set(t.nct_id, t));
+      renderRelatedStrip(outside);
+    } catch (err) {
+      console.error(err);  // the strip is a nice-to-have; the main results still show
+    }
+  }
+
+  function onSearchInput(){
+    clearTimeout(searchDebounce);
+    searchDebounce = setTimeout(runSearch, 300);  // wait for a pause in typing
+  }
+
+  function filterEntries(){
+    clearTimeout(searchDebounce);
+    runSearch();
+  }
+
+  async function init(){
+    try {
+      categoriesData = await fetchCategoryMenu();
+      renderCategoryChips(categoriesData);
+    } catch (err) {
+      showLoadError(err);
+      return;
+    }
+    new IntersectionObserver(
+      entries => { if (entries.some(e => e.isIntersecting)) maybeAutoLoad(); },
+      { rootMargin: '600px 0px' }
+    ).observe(document.getElementById('loadSentinel'));
+    runSearch();
   }
 
   function toggleDetail(id){
@@ -887,13 +1070,17 @@
     filterEntries();
   }
 
-  function clearFilters(){
+  function resetFilterChips(){
     selectedCategories.clear();
     selectedSubPairs.clear();
     document.querySelectorAll('#categoryFilters .chip').forEach(chip => {
       chip.classList.toggle('active', chip.getAttribute('data-role') === 'clear');
     });
     renderSubcategoryChips(categoriesData);
+  }
+
+  function clearFilters(){
+    resetFilterChips();
     filterEntries();
   }
 
@@ -905,26 +1092,40 @@
     return categoryPass && subPass;
   }
 
-  function trialMatchesSearch(t, q){
-    if (q === '') return true;
-    const haystack = `${t.tags || ''} ${t.headline || ''} ${t.official_name || ''}`.toLowerCase();
-    return haystack.includes(q);
-  }
-
-  function jumpToTrial(trialId){
-    clearFilters();
+  // Opens one trial from the "also matches" strip on its own, with a way
+  // back to the full list. (It may not be in the pages loaded so far.)
+  async function jumpToTrial(trialId){
+    const t = relatedById.get(trialId);
+    if (!t) return;
+    const token = ++searchToken;
+    clearTimeout(searchDebounce);
+    resetFilterChips();
     document.getElementById('searchInput').value = '';
-    filterEntries();
-    const el = document.getElementById('entry-' + trialId);
-    if (el){
-      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      const detail = document.getElementById(trialId);
-      if (detail && !detail.classList.contains('open')) detail.classList.add('open');
-      const heading = el.querySelector('h2');
-      if (heading){
-        heading.setAttribute('tabindex', '-1');
-        heading.focus();
-      }
+    activeParams = null;
+    exhausted = true;
+    isLoading = false;
+    setShowMore(false);
+    renderRelatedStrip([]);
+    document.getElementById('emptyState').style.display = 'none';
+
+    let criteria = {};
+    try { criteria = await fetchCriteriaFor([trialId]); } catch (err) { console.error(err); }
+    if (token !== searchToken) return;
+
+    trials = [t];
+    shownCount = 1;
+    totalCount = 1;
+    document.getElementById('entriesContainer').innerHTML = renderTrialCard(t, categoriesData, criteria[trialId]);
+    document.getElementById('resultsCount').innerHTML =
+      'Showing 1 trial · <button type="button" class="linklike" onclick="clearFilters()">Show all trials</button>';
+
+    const detail = document.getElementById(trialId);
+    if (detail && !detail.classList.contains('open')) toggleDetail(trialId);
+    const heading = document.querySelector(`#entry-${trialId} h2`);
+    if (heading){
+      heading.setAttribute('tabindex', '-1');
+      heading.focus();
+      heading.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   }
 
@@ -950,40 +1151,6 @@
     strip.style.display = 'block';
   }
 
-  function filterEntries(){
-    const q = document.getElementById('searchInput').value.trim().toLowerCase();
-    let visibleCount = 0;
-    const hiddenButSearchMatched = [];
-
-    trials.forEach(t => {
-      const el = document.getElementById('entry-' + t.nct_id);
-      if (!el) return;
-      const filterPass = trialMatchesFilters(t);
-      const searchPass = trialMatchesSearch(t, q);
-      const match = filterPass && searchPass;
-      el.style.display = match ? '' : 'none';
-      if (match) visibleCount++;
-      // a filter is currently narrowing results AND this trial would show if it weren't
-      if (!filterPass && searchPass && q !== '' && (selectedCategories.size > 0 || selectedSubPairs.size > 0)){
-        hiddenButSearchMatched.push(t);
-      }
-    });
-
-    renderRelatedStrip(hiddenButSearchMatched);
-
-    let label = `Showing ${visibleCount} trial${visibleCount === 1 ? '' : 's'}`;
-    if (selectedCategories.size > 0){
-      const labels = Array.from(selectedCategories).map(c => categoriesData[c].label);
-      label += ` in ${labels.join(', ')}`;
-    }
-    if (q !== '') label += ` matching "${q}"`;
-    document.getElementById('resultsCount').textContent = label;
-    document.getElementById('emptyState').style.display = visibleCount === 0 ? 'block' : 'none';
-    document.getElementById('emptyState').textContent = visibleCount === 0
-      ? 'No trials match that search yet.'
-      : '';
-  }
-
   function submitReport(trialId){
     const input = document.getElementById('reportInput_' + trialId);
     const text = input.value.trim();
@@ -996,7 +1163,7 @@
     input.value = '';
   }
 
-  loadTrials();
+  init();
 </script>
 
 </body>
