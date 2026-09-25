@@ -3068,14 +3068,6 @@ Link: https://clinicaltrials.gov/study/NCT06123962
 
 SUMMARY:
 
-## NCT07265232
-Real World Clinical Effectiveness & Safety of Vesemnogene Lantuparvovec for Spinal Muscular Atrophy (SMA) in Low-middle Income Countries (LMIC).
-
-Intervention: : vesemnogene lantuparvovec — Exploratory study evaluating the safety and efficacy of vesemnogene lantuparvovec in patients with SMA.
-Link: https://clinicaltrials.gov/study/NCT07265232
-
-SUMMARY:
-
 ## NCT06081543
 A Prospective Randomized Unblinded Study of Ketogenetic Versus Mixed Diet on Exercise Tolerance in Subjects With the Metabolic Phenotype of Heart Failure With Preserved Ejection Fraction
 
@@ -3248,14 +3240,6 @@ Intervention: : Tirzepatide — Drug approved for diabetes administered SQ. Subj
 : [11C]raclopride plus drug — Radiotracer injection of \[11C\]raclopride during combined PET/MR scan to measure striatal dopamine release (Methylphenidate 0.25 mg/kg injected 45 minutes post radiotracer injection). Subject is not blind to this drug during scan.
 : [11C]NNC-112 — \[11C\]NNC-112 PET/MR or PET/CT scan obtained without any drug intervention to measure dopamine D1 receptors.
 Link: https://clinicaltrials.gov/study/NCT07559500
-
-SUMMARY:
-
-## NCT06064149
-The CArdiovascular Risk Evaluation in Men With Prostate Cancer Study (CARE-PC): Initial Pilot Feasibility Study to Assess Patient Awareness and Risk Mitigation
-
-Intervention: : CARE-PC Web-Based Application — The CARE-PC app is a pragmatic, patient-oriented, web-based application that enables the education of patients regarding cardiovascular (CV) risks and collects CV and prostate cancer-related risk variables and CV care access data from prostate cancer patients receiving ADT.
-Link: https://clinicaltrials.gov/study/NCT06064149
 
 SUMMARY:
 
@@ -8317,15 +8301,6 @@ A Multicenter, Non-randomized, Open-label, Dose-finding Study to Evaluate the Sa
 
 Intervention: : EXG110 injection — EXG110 is a recombinant adeno-associated virus (rAAV) that not only significantly increases plasma AGA activity, but is also highly expressed in target organs such as the heart and kidneys.EXG110 will be administered in a single dose by intravenous infusion.
 Link: https://clinicaltrials.gov/study/NCT06539624
-
-SUMMARY:
-
-## NCT07036523
-A Double-blind, Randomised, Placebo-controlled, Parallel Group, Phase IIa Trial to Evaluate Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Efficacy of BI 765423 Administered Intravenously With or Without Standard of Care in Patients With Idiopathic Pulmonary Fibrosis
-
-Intervention: : BI 765423 — BI 765423
-: Placebo — Placebo to BI 765423
-Link: https://clinicaltrials.gov/study/NCT07036523
 
 SUMMARY:
 
@@ -14662,16 +14637,6 @@ Link: https://clinicaltrials.gov/study/NCT05380414
 
 SUMMARY:
 
-## NCT06924606
-A Phase II Study of JS207 (PD-1/VEGF Dual Antibody) in Combination With or Without JS004 or Docetaxel in Advanced Non-small Cell Lung Cancer With Disease Progression During or After the Treatment of Platinum-based Chemotherapy and Immunotherapy
-
-Intervention: : JS207 injection +docetaxel — Patients receive JS207 10mg/kg or other dosage and docetaxel 75mg/m2, q3w.
-: JS207 injection +JS004 injection — Patients receive JS207 10mg/kg or other dosage and JS004 200mg, q3w.
-: JS207 injection — Patients receive JS207 10mg/kg or other dosage.
-Link: https://clinicaltrials.gov/study/NCT06924606
-
-SUMMARY:
-
 ## NCT04683679
 Phase II Study of Pembrolizumab and Ablative Radiotherapy With or Without Olaparib in Metastatic Triple-Negative or Hormone-Receptor Positive/Her2 Negative Breast Cancers : Initial Test Cohorts of a Platform Trial to Sequentially Investigate Immunotherapy Combinations for the Augmentation of Immune Responses
 
@@ -15051,17 +15016,6 @@ Tuberoplasty Versus Balloon Spacer in Treatment of Rotator Cuff Tears
 Intervention: : biologic tuberoplasty — a surgical procedure during which an a cellular dermal allograft is attached to the greater tuberosity to prevent bone-to-bone contact between the greater tuberosity and the acromion with the goal of decreasing pain
 : subacromial balloon spacer — a biodegradable balloon is inserted into the subacromial space of the shoulder to increase teh distance between the greater tuberosity and the acromion to reduce pain
 Link: https://clinicaltrials.gov/study/NCT06735170
-
-SUMMARY:
-
-## NCT05629689
-A Phase 1a/1b, Multi-Centre, Open-Label, Dose-Escalation and Dose-Expansion Study in Patients With Solid Tumour Malignancies to Evaluate GEH200520 Injection / GEH200521 (18F) Injection Safety and Tolerability, PET Imaging, Pharmacokinetics, and Changes in Imaging After Treatment
-
-Intervention: : GEH200520 Injection / GEH200521 (18F) Injection - Part A — Administration of GEH200520 Injection followed within 2 to 4 minutes by GEH200521 (18F) Injection followed by a 10mL saline flush
-: Dynamic and Static - PET/CT scan — Dynamic whole-body PET/CT scan starting at the time of injection (sequential scans over 90 minutes anticipated) followed by static whole-body scans starting at 150 minutes, 270 minutes, and (optional) 24 hours after injection.
-: GEH200520 Injection / GEH200521 (18F) Injection - Part B — Administration of GEH200520 Injection followed within 2 to 4 minutes by GEH200521 (18F) Injection followed by a 10mL saline flush
-: Static - PET/CT scan — Whole-body PET/CT scan (up to 30 min). Exact timing will be determined from Part A. An optional dynamic scan may be acquired in addition to the required whole-body PET/CT scan at each imaging visit.
-Link: https://clinicaltrials.gov/study/NCT05629689
 
 SUMMARY:
 

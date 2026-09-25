@@ -102371,3 +102371,16 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT06253104
+Changes in Skeletal Muscle Thickness in Patients With Acute Heart Failure
+Conditions: cardiovascular/heart_failure, cardiovascular/shock_cardiogenic, neurological/muscular_atrophy
+
+Inclusion criteria:
+"""
+1. Over 18 years of age
+2. Ejection fraction \<40%
+3. Cardiogenic shock defined by clinical criteria (including any of: lactate \>2.5 mmol/L, systolic blood pressure \<90 mmHg, acute kidney or liver injury, or cardiac index \<2.1 on hemodynamic monitoring) plus the clinical requirement for at least one pressor, inotrope, or temporary mechanical circulatory support device (MCSD)
+"""
+
+RELATIONSHIP:
+
