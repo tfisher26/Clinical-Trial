@@ -11,6 +11,7 @@ Link: https://clinicaltrials.gov/study/NCT07393360
 
 SUMMARY:
 
+
 ## NCT07095998
 Evaluation of Nerve Excitability in Cisplatin-Induced Peripheral Neuropathy
 
@@ -19,6 +20,7 @@ Link: https://clinicaltrials.gov/study/NCT07095998
 
 SUMMARY:
 
+
 ## NCT06835140
 CD123-Targeted CD16 Antibody-Modified NK Cell Immunotherapy for Refractory/Relapsed Acute Myeloid Leukemia (R/R AML)
 
@@ -26,6 +28,7 @@ Intervention: : Donor-derived CD123-CD16 bispecific antibody-modified NK cells �
 Link: https://clinicaltrials.gov/study/NCT06835140
 
 SUMMARY:
+
 
 ## NCT07642674
 Evaluation of the Effect of Intravenous Dexketoprofen on the Severity and Incidence of Rebound Pain in Patients Undergoing Interscalene Brachial Plexus Block
@@ -36,6 +39,7 @@ Link: https://clinicaltrials.gov/study/NCT07642674
 
 SUMMARY:
 
+
 ## NCT07725263
 Evaluation of Efficacy and Safety of Low-Dose Liposomal Amphotericin B in Prophylaxis of Invasive Fungal Infections Among Children With Prolonged Neutropenia: A Clinical Study
 
@@ -43,6 +47,7 @@ Intervention: : Liposomal Amphotericin B (LAmB) — Liposomal amphotericin B at 
 Link: https://clinicaltrials.gov/study/NCT07725263
 
 SUMMARY:
+
 
 ## NCT07035171
 CABGpreHAB- Home-based Multimodal Prehabilitation (CABGpreHAB) for Elective Patients Awaiting CABG-surgery - a Feasibility Study Protocol
@@ -58,6 +63,7 @@ Intervention: : Multimodal prehabilitation intervention — Multimodal prehabili
 Link: https://clinicaltrials.gov/study/NCT07035171
 
 SUMMARY:
+
 
 ## NCT06492395
 A Multicentre, Randomised Controlled Study of Lenvatinib Plus Drug-eluting Bead Transarterial Chemoembolization and Hepatic Arterial Infusion Chemotherapy With FOLFOX Regimen Versus Lenvatinib Plus Drug-eluting Bead Transarterial Chemoembolization for Hepatocellular Carcinoma Larger Than 7 cm With Portal Vein Tumor Thrombosis
@@ -76,6 +82,7 @@ Link: https://clinicaltrials.gov/study/NCT06492395
 
 SUMMARY:
 
+
 ## NCT06024837
 Performance of Spectral CT-scan in Patients With Metastatic Colorectal Cancer: a Prospective Multicentre Study
 
@@ -83,6 +90,7 @@ Intervention: : CT Images — Analysis of CT images of peritoneal and/or liver m
 Link: https://clinicaltrials.gov/study/NCT06024837
 
 SUMMARY:
+
 
 ## NCT05067387
 Evaluation of Oral THC and CBD in Oral Fluid, Pharmacokinetics, and Subjective and Neurocognitive Effects in Men and Women
@@ -95,6 +103,7 @@ Link: https://clinicaltrials.gov/study/NCT05067387
 
 SUMMARY:
 
+
 ## NCT06287619
 Post-operative Intravenous Iron to Treat Iron-deficiency Anemia in Patients Undergoing Cardiac Surgery: A Pilot, Multi-centre, Placebo-controlled Randomized Trial.
 
@@ -104,6 +113,7 @@ Link: https://clinicaltrials.gov/study/NCT06287619
 
 SUMMARY:
 
+
 ## NCT07216872
 A Prospective, Double Blind, Randomized, Controlled Study to Evaluate the Safety and Effectiveness of the BrainsWay Deep Transcranial Magnetic Stimulation (Deep TMS) for Treatment and Reduction of Heavy Drinking in Individuals With Alcohol Use Disorder (AUD)
 
@@ -112,6 +122,7 @@ Intervention: : Deep TMS (DTMS) — The Deep TMS group will receive 30 active se
 Link: https://clinicaltrials.gov/study/NCT07216872
 
 SUMMARY:
+
 
 ## NCT06061705
 Identification of Individual Histological and Blood Markers in Patients With Recurrent or Metastatic Upper Aerodigestive Tract Squamous Cell Carcinoma in Response to Immunotherapies
@@ -130,6 +141,7 @@ Link: https://clinicaltrials.gov/study/NCT06061705
 
 SUMMARY:
 
+
 ## NCT06119516
 Transpulmonary Pressure - Guided Mechanical Ventilation in Morbidly Obese ARDS Patients: a Feasibility Study.
 
@@ -137,6 +149,7 @@ Intervention: : Esophageal pressure-guided strategy, — A catheter-balloon syst
 Link: https://clinicaltrials.gov/study/NCT06119516
 
 SUMMARY:
+
 
 ## NCT04897516
 Phase III Randomized,Multicenter Non-inferiority Study to Evaluate the Efficacy and Safety of Shorter Benznidazole Regimens Compared to the Standard Regimen to Treat Adult Patients With Chronic Chagas Disease
@@ -148,6 +161,7 @@ Link: https://clinicaltrials.gov/study/NCT04897516
 
 SUMMARY:
 
+
 ## NCT05632887
 The Effect of Eyeliner on Tear Composition, Tear Secretion and Tear Film Stability：a Prospective Cohort Study.
 
@@ -156,6 +170,7 @@ Link: https://clinicaltrials.gov/study/NCT05632887
 
 SUMMARY:
 
+
 ## NCT05675397
 Supplementation of Mother's Own Milk With Preterm Donor Human Milk: Impact on Morbidity and Growth in Very Low Birth Weight Infants
 
@@ -163,6 +178,7 @@ Intervention: : donor human milk — Pasteurized preterm donor milk (PDM) versus
 Link: https://clinicaltrials.gov/study/NCT05675397
 
 SUMMARY:
+
 
 ## NCT07778797
 Investigation of Guangke Lenses' Efficacy in Delaying Myopia Onset/Progression in Postoperative Congenital Cataract Children
@@ -173,6 +189,7 @@ Link: https://clinicaltrials.gov/study/NCT07778797
 
 SUMMARY:
 
+
 ## NCT06533384
 PARPi or Capecitabine Combined With PD-1 Inhibitors Was Selected Based on the Germline BRCA1/2 Mutation vs. PD-1 Inhibitors Alone as Adjuvant Therapy in High-risk Non-pCR TNBC
 
@@ -182,6 +199,7 @@ Link: https://clinicaltrials.gov/study/NCT06533384
 
 SUMMARY:
 
+
 ## NCT06048172
 How Effective and Safe is Trauma Therapy Using Prolonged Exposure for Patients With PTSD and a Comorbid Psychotic Disorder? Treatment Trauma and Psychosis -TEP
 
@@ -189,6 +207,7 @@ Intervention: : Prolonged Exposure — In the intervention condition, patients a
 Link: https://clinicaltrials.gov/study/NCT06048172
 
 SUMMARY:
+
 
 ## NCT07606573
 The SEAS Study: Sensory Engagement and Activation During Noninvasive Stimulation
@@ -199,6 +218,7 @@ Link: https://clinicaltrials.gov/study/NCT07606573
 
 SUMMARY:
 
+
 ## NCT06714916
 Mutimodal Artificial Intelligence for Optimising Renal Tumour Management: Diagnosis, Surgery and Prognosis
 
@@ -207,6 +227,7 @@ Link: https://clinicaltrials.gov/study/NCT06714916
 
 SUMMARY:
 
+
 ## NCT07631338
 Low-grade Gliomas in Argentina: Incidence, Survival, and Therapeutic Strategies
 
@@ -214,6 +235,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07631338
 
 SUMMARY:
+
 
 ## NCT06754605
 A Randomized, Double-blind, Placebo-controlled Phase 1/2 Clinical Trial to Evaluate the Safety, Tolerability, and Immunogenicity of Recombinant Respiratory Syncytial Virus Vaccine (SCTV02) in Healthy Adults ≥18 Years of Age
@@ -224,6 +246,7 @@ Link: https://clinicaltrials.gov/study/NCT06754605
 
 SUMMARY:
 
+
 ## NCT07074938
 A Non-inferiority Randomized Controlled Study Comparing Jianmin Daopeng An Gong Niuhuang Wan and Tongrentang An Gong Niuhuang Wan in Promoting the Postoperative Neurological Function Recovery of Patients With Traumatic Brain Injury
 
@@ -233,6 +256,7 @@ Link: https://clinicaltrials.gov/study/NCT07074938
 
 SUMMARY:
 
+
 ## NCT06528938
 Randomized Pilot Trial Comparing the Feasibility and Efficacy of Accelerated vs. Standard fMRI-guided iTBS in Treatment-Resistant Depression in Adolescents
 
@@ -240,6 +264,7 @@ Intervention: : Theta Burst Stimulation — Cool B70 coil (left DLPFC) with X100
 Link: https://clinicaltrials.gov/study/NCT06528938
 
 SUMMARY:
+
 
 ## NCT06376916
 Atrial Tachycardia Reduction With Intravenous Use of Magnesium (ATRIUM) Study: Comparing Magnesium 2g Versus 4g Versus Placebo in the Incidence of Treating AFF RVR
@@ -251,6 +276,7 @@ Link: https://clinicaltrials.gov/study/NCT06376916
 
 SUMMARY:
 
+
 ## NCT06220526
 A Prospective Randomized Clinical Trial Comparing Menghini-type Needle and Franseen-type Needle for Endobronchial Ultrasound-guided Transbronchial Needle Aspiration for Pathological Diagnosis of Sarcoidosis
 
@@ -259,6 +285,7 @@ Link: https://clinicaltrials.gov/study/NCT06220526
 
 SUMMARY:
 
+
 ## NCT06805357
 Evaluation of Lung Recruitment During Chest Physiotherapy in Mechanically Ventilated Patients
 
@@ -266,6 +293,7 @@ Intervention: : Chest Physiotherapy by Rib Cage Compressions (RCC) — Bimanual 
 Link: https://clinicaltrials.gov/study/NCT06805357
 
 SUMMARY:
+
 
 ## NCT05700201
 The Effects of a Cognitive Behavioral Healthy Lifestyle Intervention for Cardiovascular Risk Reduction in Posttraumatic Stress Disorder
@@ -276,6 +304,7 @@ Link: https://clinicaltrials.gov/study/NCT05700201
 
 SUMMARY:
 
+
 ## NCT07217054
 Detection of Phosphorylated Alpha-Synuclein in Colonic Tissue Biopsy During Routine Colonoscopy
 
@@ -283,6 +312,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07217054
 
 SUMMARY:
+
 
 ## NCT06475105
 Effects of Combination Oral Acetazolamide and Intravenous Furosemide on Acute Decompensated Heart Failure
@@ -293,6 +323,7 @@ Link: https://clinicaltrials.gov/study/NCT06475105
 
 SUMMARY:
 
+
 ## NCT07463131
 Negative Income Tax Trial
 
@@ -301,6 +332,7 @@ Intervention: : Negative Income Tax — Negative income tax calculated by the su
 Link: https://clinicaltrials.gov/study/NCT07463131
 
 SUMMARY:
+
 
 ## NCT06058091
 A Multicenter Phase I/II Clinical Trial to Evaluate the Safety, Tolerability, and Efficacy of RY_SW01 Cell Injection Therapy in Systemic Sclerosis
@@ -311,6 +343,7 @@ Link: https://clinicaltrials.gov/study/NCT06058091
 
 SUMMARY:
 
+
 ## NCT06700772
 Histomorphometric and Radiographic Assessment of Bone Following Maxillary Sinus Augmentation Using Bone Marrow Concentrate Cells From the Maxillary Tuberosity Mixed With Bovine Bone Versus Autogenous Bone Mixed With Bovine Bone: RCT
 
@@ -320,6 +353,7 @@ Link: https://clinicaltrials.gov/study/NCT06700772
 
 SUMMARY:
 
+
 ## NCT05482269
 Prediction of Adverse Outcome of Acute Pulmonary Embolism by Artificial Intelligence System Based on CT Pulmonary Angiography
 
@@ -327,6 +361,7 @@ Intervention: : no intervention — no intervention
 Link: https://clinicaltrials.gov/study/NCT05482269
 
 SUMMARY:
+
 
 ## NCT07478510
 Neuro-cognitive Profiles of Patients With Nutritional and Eating Disorders
@@ -337,6 +372,7 @@ Intervention: : Go/No-go — The investigators designed a specific task, base in
 Link: https://clinicaltrials.gov/study/NCT07478510
 
 SUMMARY:
+
 
 ## NCT05937295
 FusionVAC22_01: DNAJB1-PRKACA Fusion Transcript-based Peptide Vaccine Combined with Immune Checkpoint Inhibition for Fibrolamellar Hepatocellular Carcinoma and Other Tumor Entities Carrying the Oncogenic Driver Fusion
@@ -356,6 +392,7 @@ Link: https://clinicaltrials.gov/study/NCT05937295
 
 SUMMARY:
 
+
 ## NCT06533826
 A Phase II Non-comparative Trial of Datopotamab Deruxtecan (Dato-DXd) or Trastuzumab Deruxtecan (T-DXd) in Patients With Metastatic HER2-negative (HER2-low or HER2-0) Breast Cancer After Progression on Prior Antibody Drug Conjugate Therapy
 
@@ -364,6 +401,7 @@ Intervention: : Trastuzumab Deruxtecan — A HER2-directed ADC, 100mg/vial, via 
 Link: https://clinicaltrials.gov/study/NCT06533826
 
 SUMMARY:
+
 
 ## NCT07198412
 Impact of Ultrasound-Guided Spinal Anesthesia and Pre-Procedure Sedation on Postoperative Acute and Chronic Back Pain in Non-Obstetric Surgery.
@@ -375,6 +413,7 @@ Link: https://clinicaltrials.gov/study/NCT07198412
 
 SUMMARY:
 
+
 ## NCT07646626
 A Phase II Study of SSGJ-705 Plus SSGJ-612 ± Chemotherapy in Advanced HER2-Expressing Solid Tumors
 
@@ -385,6 +424,7 @@ Link: https://clinicaltrials.gov/study/NCT07646626
 
 SUMMARY:
 
+
 ## NCT04755205
 A Natural History Study of Children and Adults With Olfactory Neuroblastoma
 
@@ -392,6 +432,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT04755205
 
 SUMMARY:
+
 
 ## NCT07411560
 Single-centre Study Investigating the Role of Long-acting Subcutaneous Glucose-dependent Insulinotropic Polypeptide Receptor Agonist (GIP RA) in Combination With Long-acting Subcutaneous Amylin Receptor Agonist on Gastrointestinal Tolerability in Participants With Overweight or Obesity
@@ -403,6 +444,7 @@ Link: https://clinicaltrials.gov/study/NCT07411560
 
 SUMMARY:
 
+
 ## NCT06683560
 Evaluation of 3D Printed Aligners for Nasoalveolar Molding in Infants Born With Unilateral Complete Cleft Lip and Palate
 
@@ -410,6 +452,7 @@ Intervention: : : photopolymer resin material "graphy" Tera Harz 85 will be used
 Link: https://clinicaltrials.gov/study/NCT06683560
 
 SUMMARY:
+
 
 ## NCT07190443
 Randomized Phase III Trial for Evaluating the Efficacy of Adjuvant Abemaciclib in Patients With Locoregional Recurrence of Hormone Receptor-positive, HER2-negative Breast Cancer. JCOG2313, AURA Trial.
@@ -426,6 +469,7 @@ Link: https://clinicaltrials.gov/study/NCT07190443
 
 SUMMARY:
 
+
 ## NCT05934331
 An Open-label, Multicenter Phase II Clinical Study to Evaluate the Efficacy, Safety, and Tolerability of the LM-302 Combination With Other Anti-tumor Treatment in Subjects With CLDN18.2-positive Advanced Gastro-Intestinal Cancer.
 
@@ -440,6 +484,7 @@ Link: https://clinicaltrials.gov/study/NCT05934331
 
 SUMMARY:
 
+
 ## NCT05920343
 Prevention of Thromboembolism With Rivaroxaban in Genitourinary Cancer Patients Receiving Systemic Therapy: A Randomized Placebo-Controlled, Double-Blind Clinical Trial
 
@@ -449,6 +494,7 @@ Link: https://clinicaltrials.gov/study/NCT05920343
 
 SUMMARY:
 
+
 ## NCT03374215
 Clinical and Molecular Characteristics of Primary Aldosteronism in Blacks
 
@@ -456,6 +502,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT03374215
 
 SUMMARY:
+
 
 ## NCT05993546
 Randomized Controlled Trial of Miniaturized Percutaneous Nephrolithotomy With Vacuum-Assisted Access Sheaths Versus Conventional Sheaths for Treatment of Nephrolithiasis
@@ -466,6 +513,7 @@ Link: https://clinicaltrials.gov/study/NCT05993546
 
 SUMMARY:
 
+
 ## NCT06455644
 The Accuracy of Left Atrial Appendage Occluder Size Selection Between Preoperative CT and Intraoperative DSA Evaluation During a Combined Atrial Fibrillation Ablation and Left Atrial Appendage Occlusion Procedure
 
@@ -475,6 +523,7 @@ Link: https://clinicaltrials.gov/study/NCT06455644
 
 SUMMARY:
 
+
 ## NCT06662760
 A Phase I Clinical Study of TQB3002 in Patients With Advanced Cancers
 
@@ -482,6 +531,7 @@ Intervention: : TQB3002 Tablets — TQB3002 is a fourth-generation small molecul
 Link: https://clinicaltrials.gov/study/NCT06662760
 
 SUMMARY:
+
 
 ## NCT06070649
 The Potential Therapeutic Effects of Psychedelic, N, N-dimethyltryptamine (DMT), on Alcohol Use Disorder (AUD)
@@ -493,6 +543,7 @@ Link: https://clinicaltrials.gov/study/NCT06070649
 
 SUMMARY:
 
+
 ## NCT07574970
 A COMBINATION OF RECTAL INDOMETHACIN AND COLD WATER EXPOSURE OF THE AMPULLA AFTER ERCP IS SUPERIOR TO RECTAL INDOMETHACIN ALONE IN REDUCING THE INCIDENCE OF PEP
 
@@ -500,6 +551,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07574970
 
 SUMMARY:
+
 
 ## NCT06528990
 Perioperative Ostomy Self-Management Telehealth Intervention for Cancer Survivors
@@ -510,6 +562,7 @@ Link: https://clinicaltrials.gov/study/NCT06528990
 
 SUMMARY:
 
+
 ## NCT06641648
 A Phase I Single-arm Clinical Study of Donor NK Cells Infusion Combined With Low-dose Interleukin-2 in the Treatment of Acute Myeloid Leukemia Relapse After Allogeneic Hematopoietic Stem Cell Transplantation.
 
@@ -518,6 +571,7 @@ Link: https://clinicaltrials.gov/study/NCT06641648
 
 SUMMARY:
 
+
 ## NCT04305769
 Alanyl-glutamine Supplementation of Standard Treatment for C. Difficile Infection: a Randomized, Double-blind, Placebo-controlled Trial
 
@@ -525,6 +579,7 @@ Intervention: : Alanyl-glutamine — The study agent is AQ, a dipeptide with a g
 Link: https://clinicaltrials.gov/study/NCT04305769
 
 SUMMARY:
+
 
 ## NCT07211464
 Acceptance and Commitment Therapy Plus Exercise for Older People With Chronic Low-back Pain: A Pragmatic Cluster Randomised Controlled Trial
@@ -536,6 +591,7 @@ Link: https://clinicaltrials.gov/study/NCT07211464
 
 SUMMARY:
 
+
 ## NCT00005909
 Clinical, Biochemical, and Molecular Investigations Into Alkaptonuria
 
@@ -543,6 +599,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT00005909
 
 SUMMARY:
+
 
 ## NCT05444699
 Oral Prednisolone for Acute Rhinovirus Induced Wheezing in Children Less Than 2 Years of Age: a Point-of-care Testing Guided Randomized, Double-blind, Placebo-controlled Trial
@@ -553,6 +610,7 @@ Link: https://clinicaltrials.gov/study/NCT05444699
 
 SUMMARY:
 
+
 ## NCT07436351
 ACT With CF Self-Help Toolkit
 
@@ -562,6 +620,7 @@ Link: https://clinicaltrials.gov/study/NCT07436351
 
 SUMMARY:
 
+
 ## NCT05589818
 A Phase II Study of the Effects of Pembrolizumab on Quality of Life for Patients With Treatment-Naïve, Advanced or Metastatic NSCLC and Poor Performance Status
 
@@ -570,6 +629,7 @@ Link: https://clinicaltrials.gov/study/NCT05589818
 
 SUMMARY:
 
+
 ## NCT07554729
 THE SURVIVE 2 PROJECT: AN EXTENDED COHORT STUDY TO INVESTIGATE SUICIDAL BEHAVIOR IN SPAIN AND THE EFFICACY OF SECONDARY PREVENTION STRATEGIES
 
@@ -577,6 +637,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07554729
 
 SUMMARY:
+
 
 ## NCT07424222
 Ruxolitinib for Immune Effector Cell Associated Hemophagocytic Lymphohistiocytosis-like Syndrome (RISE)
@@ -594,6 +655,7 @@ Link: https://clinicaltrials.gov/study/NCT07424222
 
 SUMMARY:
 
+
 ## NCT04005690
 A Window of Opportunity Strategy for Targeted Pathway Inhibition in Patients With Pancreatic Ductal Adenocarcinoma
 
@@ -607,6 +669,7 @@ Link: https://clinicaltrials.gov/study/NCT04005690
 
 SUMMARY:
 
+
 ## NCT05800457
 The Role of Synovectomy in Pain Reduction Among Osteoarthritis Patients Following Total Knee Arthroplasty
 
@@ -614,6 +677,7 @@ Intervention: : Partial synovectomy — Patients in the intervention group will 
 Link: https://clinicaltrials.gov/study/NCT05800457
 
 SUMMARY:
+
 
 ## NCT06470997
 Specific Biomarkers of Immune-mediated Hepatitis Secondary to Immune Checkpoint
@@ -624,6 +688,7 @@ Link: https://clinicaltrials.gov/study/NCT06470997
 
 SUMMARY:
 
+
 ## NCT06812130
 Surviving the Pediatric Intensive Care Unit (PICU): Long-term Study to Understand and Improve Outcomes of PICU Survivors and Their Families
 
@@ -631,6 +696,7 @@ Intervention: : This is a non-interventional study. — This is a non-interventi
 Link: https://clinicaltrials.gov/study/NCT06812130
 
 SUMMARY:
+
 
 ## NCT05800899
 Stage II Efficacy Trial of a Culturally Informed Brief Intervention to Reduce Alcohol Related Health Disparities and Treatment Inequities Among Latinxs
@@ -641,6 +707,7 @@ Link: https://clinicaltrials.gov/study/NCT05800899
 
 SUMMARY:
 
+
 ## NCT06589505
 A Multicenter, Randomized, Double-blind, Parallel-group Comparative Study to Assess Efficacy and Safety of Software as a Medical Device in Patients With Post-Traumatic Stress Disorder (PTSD)
 
@@ -648,6 +715,7 @@ Intervention: : Software as a Medical Device — The subject will undergo treatm
 Link: https://clinicaltrials.gov/study/NCT06589505
 
 SUMMARY:
+
 
 ## NCT06462430
 Genotype-phenotype Correlations of Pediatric Patients With PTEN Hamartoma Tumor Syndrome (PHTS) and Creation of Patient Registry
@@ -657,6 +725,7 @@ Link: https://clinicaltrials.gov/study/NCT06462430
 
 SUMMARY:
 
+
 ## NCT05482399
 Utility of Coronary Artery Calcification With Statin Therapy in Multimorbid Older Adults - An Ancillary Study Nested Within a Randomized Trial
 
@@ -665,6 +734,7 @@ Link: https://clinicaltrials.gov/study/NCT05482399
 
 SUMMARY:
 
+
 ## NCT06701474
 Association Between Phase Angle and Functional Recovery After Total Knee Arthroplasty
 
@@ -672,6 +742,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06701474
 
 SUMMARY:
+
 
 ## NCT04435990
 Prospective, Multicenter, Randomized, Double-blind, Placebo-controlled, Efficacy and Safety Clinical Trial With SCIT in Patients With Rhinitis/Rhinoconjunctivitis With or Without Mild to Moderate Asthma Sensitized to Dpt. and/or D. Farinae
@@ -683,6 +754,7 @@ Link: https://clinicaltrials.gov/study/NCT04435990
 
 SUMMARY:
 
+
 ## NCT06743490
 Capturing Key Symptoms Using Smartphone Recordings in Patients With Myasthenia Gravis (CAPTURE-MG)
 
@@ -690,6 +762,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06743490
 
 SUMMARY:
+
 
 ## NCT03562273
 Tumor Bed Boost Using a Breast Specific Radiosurgery Device, The GammaPodTM: Registry Study and Evaluation of Quality of Life With Development of Sizing Nomogram
@@ -701,6 +774,7 @@ Link: https://clinicaltrials.gov/study/NCT03562273
 
 SUMMARY:
 
+
 ## NCT03644732
 Atlas of Human Cognition by SEEG
 
@@ -709,6 +783,7 @@ Link: https://clinicaltrials.gov/study/NCT03644732
 
 SUMMARY:
 
+
 ## NCT04745390
 A Phase III Randomized Trial of Standard Dose Stereotactic Body Radiation Therapy (SBRT) Versus Radiobiologically-Guided Dose Selected SBRT In Primary or Secondary Liver Carcinoma (SAVIOR).
 
@@ -716,6 +791,7 @@ Intervention: : Radiation therapy — Patients will be randomized between standa
 Link: https://clinicaltrials.gov/study/NCT04745390
 
 SUMMARY:
+
 
 ## NCT05836272
 Early Administration of Norepinephrine in Sepsis (Tunisian Multicenter Randomized Trial)
@@ -728,6 +804,7 @@ Link: https://clinicaltrials.gov/study/NCT05836272
 
 SUMMARY:
 
+
 ## NCT07505602
 Respiratory Benefits of Indoor Air Purification in Patients With Chronic Obstructive Pulmonary Disease: A Randomized Controlled Trial
 
@@ -737,6 +814,7 @@ Link: https://clinicaltrials.gov/study/NCT07505602
 
 SUMMARY:
 
+
 ## NCT07425535
 Optic Nerve Head Strain in Non-glaucoma Subjects
 
@@ -745,6 +823,7 @@ Link: https://clinicaltrials.gov/study/NCT07425535
 
 SUMMARY:
 
+
 ## NCT06434597
 A Multicenter, Open, Single-arm Phase II Clinical Study to Evaluate the Efficacy and Safety of SPH5030 Tablets in Subjects With Her2-positive/Mutated Biliary Tract OR Colorectal Cancer.
 
@@ -752,6 +831,7 @@ Intervention: : SPH5030 — SPH5030：Oral, QD, 600mg
 Link: https://clinicaltrials.gov/study/NCT06434597
 
 SUMMARY:
+
 
 ## NCT06619626
 The Effect of Alveolar Recruitment on Perioperative Outcomes in Obese Patients in Major Gynaecological Cancer Surgery: a Prospective Randomised Controlled Trial
@@ -762,6 +842,7 @@ Link: https://clinicaltrials.gov/study/NCT06619626
 
 SUMMARY:
 
+
 ## NCT06322810
 Comparison of Erector Spiane Plan Block (ESPB) Versus Pecto-intercostal Fascial Block(PIFB) for Analgesia and Respiratory Function Recovery in Cardiac Surgery: a Randomized Control Trial
 
@@ -770,6 +851,7 @@ Intervention: : Erector spinae plane block (ESPB) — Bilateral ESP: 0.5% ropiva
 Link: https://clinicaltrials.gov/study/NCT06322810
 
 SUMMARY:
+
 
 ## NCT06644807
 Neuromodulation Methods for Suppressing Phantom Limb Pain
@@ -782,6 +864,7 @@ Link: https://clinicaltrials.gov/study/NCT06644807
 
 SUMMARY:
 
+
 ## NCT06601712
 Delivery Strategies for Malaria Chemoprevention in the Post-discharge Management of Children Hospitalised With Severe Anaemia or Severe Malaria: a Cluster Randomised Controlled Implementation Trial in Benin
 
@@ -792,6 +875,7 @@ Link: https://clinicaltrials.gov/study/NCT06601712
 
 SUMMARY:
 
+
 ## NCT07245121
 Perineural Prolotherapy in Chronic Knee Osteoarthritis Pain: A Randomized Controlled Trial.
 
@@ -800,6 +884,7 @@ Intervention: : Dextrose 5% and Lidocaine — In the Dextrose + Lidocaine group 
 Link: https://clinicaltrials.gov/study/NCT07245121
 
 SUMMARY:
+
 
 ## NCT05489705
 Deliver Insights in Hypertrophic Cardiomyopathy and Observational Outcomes in Real World: United States and European Prospective Registry Study
@@ -810,6 +895,7 @@ Link: https://clinicaltrials.gov/study/NCT05489705
 
 SUMMARY:
 
+
 ## NCT07720232
 Effect of Bacillus Subtilis and Enterococcus Faecium Combination Therapy Combined With Conventional Lipid-Lowering Treatment on Triglyceride Levels in Patients With Hypertriglyceridemic Acute Pancreatitis: A Prospective Randomized Controlled Trial
 
@@ -818,6 +904,7 @@ Intervention: : Live Combined Bacillus subtilis and Enterococcus faecium Enteric
 Link: https://clinicaltrials.gov/study/NCT07720232
 
 SUMMARY:
+
 
 ## NCT06849505
 Closed - Loop Neuromodulation of Post - Stroke Motor Dysfunction by Transcranial Magnetic Stimulation Synchronized with Specific Motor Task Training
@@ -829,6 +916,7 @@ Link: https://clinicaltrials.gov/study/NCT06849505
 
 SUMMARY:
 
+
 ## NCT07022483
 A Phase 3, Multicenter, Randomized, Open-label Trial of Trastuzumab Deruxtecan Versus Standard of Care Chemotherapy With or Without Radiotherapy as Adjuvant Treatment for HER2-Expressing (IHC 3+/2+) Endometrial Cancer (DESTINY-Endometrial02/ GOG-3122/ ENGOT-en30/GINECO)
 
@@ -837,6 +925,7 @@ Intervention: : Trastuzumab Deruxtecan — T-DXd will be administered at a dose 
 Link: https://clinicaltrials.gov/study/NCT07022483
 
 SUMMARY:
+
 
 ## NCT06386887
 The Feasibility, Safety, and Clinical Outcomes of Fasting During Neoadjuvant Chemotherapy in Patients With Epithelial Ovarian Cancer
@@ -847,6 +936,7 @@ Link: https://clinicaltrials.gov/study/NCT06386887
 
 SUMMARY:
 
+
 ## NCT07091526
 Whether Controlling Serum Uric Acid (SUA) Can Benefit Postoperative Survival in Patients With Pancreatic Cancer
 
@@ -855,6 +945,7 @@ Link: https://clinicaltrials.gov/study/NCT07091526
 
 SUMMARY:
 
+
 ## NCT06680986
 Echocardiographic Analysis by Artificial Intelligence in Hypertension
 
@@ -862,6 +953,7 @@ Intervention: : Clinical cardiac parameters (Arterial pressure, number of anti-h
 Link: https://clinicaltrials.gov/study/NCT06680986
 
 SUMMARY:
+
 
 ## NCT06850194
 Evaluating the Efficacy of Vertical Ramus Osteotomy With Iliac Graft Versus Bilateral Sagittal Split Osteotomy for the Correction of Mandibular Deficiency in Skeletal Class II Cases Management. A Randomized Controlled Trial
@@ -872,6 +964,7 @@ Link: https://clinicaltrials.gov/study/NCT06850194
 
 SUMMARY:
 
+
 ## NCT07553351
 A Multicenter, Randomized, Open-Label, Positive-Controlled Phase III Clinical Trial to Study the Efficacy and Safety of Human Growth Hormone Injection (GB06) in Treating Growth Disorders Caused by Pediatric Growth Hormone Deficiency
 
@@ -881,6 +974,7 @@ Link: https://clinicaltrials.gov/study/NCT07553351
 
 SUMMARY:
 
+
 ## NCT07237256
 No Chemotherapy in Intermediate-risk HR+ HER2- Early Breast Cancer Treated With Ribociclib (LEE-011) in the Adjuvant Setting, a Non-inferiority Phase III Trial
 
@@ -889,6 +983,7 @@ Intervention: : Chemotherapy followed by endocrine therapy and ribociclib treatm
 Link: https://clinicaltrials.gov/study/NCT07237256
 
 SUMMARY:
+
 
 ## NCT07381829
 Safety, Tolerability, Pharmacokinetics, Immunogenicity and Preliminary Efficacy Study of the Combination Therapy With HC010 for Injection in Patients With Advanced Solid Tumors:A Multicenter, Open-Label, Dose Range-Finding and Multiple Cohort Dose Expansion Phase Ib Clinical Trial-Lung Cancer Population
@@ -902,6 +997,7 @@ Intervention: : HC010 — HC010 once every 3 weeks (Q3W) by intravenous drip
 Link: https://clinicaltrials.gov/study/NCT07381829
 
 SUMMARY:
+
 
 ## NCT06437002
 Exploring the Full Body Representation in Anorexia Nervosa and Bulimia Nervosa
@@ -919,6 +1015,7 @@ Link: https://clinicaltrials.gov/study/NCT06437002
 
 SUMMARY:
 
+
 ## NCT05659485
 Measuring Family Engagement in Care (The FAME Study)
 
@@ -926,6 +1023,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05659485
 
 SUMMARY:
+
 
 ## NCT05540548
 Contribution of the Podiatrist-Posturologist in the Evaluation of the Link Between the Stabilometric Parameters and the Pain Felt in Patients With Chronic Low Back Pain
@@ -935,6 +1033,7 @@ Link: https://clinicaltrials.gov/study/NCT05540548
 
 SUMMARY:
 
+
 ## NCT07640893
 A Multi-Dose, Randomized, Multicenter Phase II Clinical Trial to Evaluate the Efficacy, Safety, and Pharmacokinetic Profile of SR604 Injection in Patients With Von Willebrand Disease
 
@@ -942,6 +1041,7 @@ Intervention: : SR604 — SR604 will be administered as SC injection.
 Link: https://clinicaltrials.gov/study/NCT07640893
 
 SUMMARY:
+
 
 ## NCT07399093
 Preoperative Evaluation of IVC Collapsibility Index and Caval Aorta Index for Prediction of Hypotension After Induction of General Anesthesia in Patients Undergoing Craniotomy Surgeries
@@ -958,6 +1058,7 @@ Link: https://clinicaltrials.gov/study/NCT07399093
 
 SUMMARY:
 
+
 ## NCT05365412
 Clinicopathological Characteristics of Colon Cancer in Young Age
 
@@ -965,6 +1066,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05365412
 
 SUMMARY:
+
 
 ## NCT05495633
 SteamOne - Prospective Database for Rezum Water Vapor Therapy of the Prostate
@@ -975,6 +1077,7 @@ Link: https://clinicaltrials.gov/study/NCT05495633
 
 SUMMARY:
 
+
 ## NCT06735027
 A Randomized Comparative Cohort Study of the Use of Intra-articular Corticosteroid Injection Compared to Suprascapular Nerve Block for Treatment of Shoulder Pain
 
@@ -984,6 +1087,7 @@ Link: https://clinicaltrials.gov/study/NCT06735027
 
 SUMMARY:
 
+
 ## NCT05150795
 The Effect of Preoperative Oral Pregabalin and Intraoperative Fentanyl on Postoperative Analgesia in Diagnostic Laparoscopic Gynecologic Surgery: a Comparative Study
 
@@ -992,6 +1096,7 @@ Intervention: : Pregabalin 150mg — Compare the postoperative analgesic effect 
 Link: https://clinicaltrials.gov/study/NCT05150795
 
 SUMMARY:
+
 
 ## NCT06964438
 A Three-Arm Randomised Controlled Trial to Establish Effectiveness of NMES With or Without Protein Supplementation to Preserve Muscle Mass and Strength and Improve Functional Outcomes After Abdominal Surgery for GI Cancer
@@ -1003,6 +1108,7 @@ The supplement will be provided in a powder form to participants. Participants w
 Link: https://clinicaltrials.gov/study/NCT06964438
 
 SUMMARY:
+
 
 ## NCT06733675
 A Phase 1, Open-label Study to Evaluate the Safety and to Characterize the Pharmacokinetics of a Fixed-Dose Combination Formulation of Ceftibuten-Ledaborbactam Etzadroxil
@@ -1016,6 +1122,7 @@ Link: https://clinicaltrials.gov/study/NCT06733675
 
 SUMMARY:
 
+
 ## NCT06452654
 Anti-viral Action Against Type 1 Diabetes Autoimmunity
 
@@ -1025,6 +1132,7 @@ Link: https://clinicaltrials.gov/study/NCT06452654
 
 SUMMARY:
 
+
 ## NCT05370287
 Adaptive Optics Retinal Imaging
 
@@ -1033,6 +1141,7 @@ Intervention: : oxygen inhalation — Subjects will breath 100% oxygen through a
 Link: https://clinicaltrials.gov/study/NCT05370287
 
 SUMMARY:
+
 
 ## NCT05676099
 TSC Alliance Tuberous Sclerosis Complex (TSC) Biosample Repository and Natural History Database
@@ -1044,6 +1153,7 @@ Intervention: : Phlebotomy — Participants may elect to submit a blood sample t
 Link: https://clinicaltrials.gov/study/NCT05676099
 
 SUMMARY:
+
 
 ## NCT06385236
 Leveraging Pharmacogenomics in Asthma for Predication, Mechanism and Endotyping
@@ -1057,6 +1167,7 @@ Participants may self-administer injection after proper training.
 Link: https://clinicaltrials.gov/study/NCT06385236
 
 SUMMARY:
+
 
 ## NCT07150806
 Progressive/Recurrent Intracranial Meningioma Treated With SSTR-Targeted Alpha Emitter RYZ101 (PRIMe-STAR)
@@ -1075,6 +1186,7 @@ Link: https://clinicaltrials.gov/study/NCT07150806
 
 SUMMARY:
 
+
 ## NCT07172256
 A Pilot Study of CUE-101 in Combination With Pembrolizumab in Subjects With Newly Diagnosed, Locally Advanced HPV-16 Associated Head and Neck Cancer
 
@@ -1084,6 +1196,7 @@ Link: https://clinicaltrials.gov/study/NCT07172256
 
 SUMMARY:
 
+
 ## NCT05255926
 An Exploratory, Open-Label, Single Center Study of CXCR4-targeted PET/CT Imaging for Evaluation of Hematological Malignancies
 
@@ -1092,6 +1205,7 @@ Intervention: : 68Ga-pentixafor — All participants undergo intravenous adminis
 Link: https://clinicaltrials.gov/study/NCT05255926
 
 SUMMARY:
+
 
 ## NCT07383038
 The Effect of Mobilization With Movement on Function, Disability, and Pain in Patients With Rotator Cuff Lesions: A Double-Blind Randomized Controlled Trial
@@ -1106,6 +1220,7 @@ Link: https://clinicaltrials.gov/study/NCT07383038
 
 SUMMARY:
 
+
 ## NCT06017622
 Multi-center Observational Study of Plasma Concentrations of THC and Its Metabolites in Pediatric Patients Visiting Emergency Departments for Acute Cannabis-induced CNS Depression
 
@@ -1113,6 +1228,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06017622
 
 SUMMARY:
+
 
 ## NCT06715722
 Comparison of Abutments Engagement Configurations in Implant Supported Fixed Partial Dentures: a Randomized Clinical Trial
@@ -1122,6 +1238,7 @@ Intervention: : hexed non hexed — A 3-unit screw-retained implant bridge over 
 Link: https://clinicaltrials.gov/study/NCT06715722
 
 SUMMARY:
+
 
 ## NCT06900829
 #AWARE.HIV Europe: Supporting Healthcare Professionals to Find Undiagnosed HIV in European Hospitals: An Effectiveness-implementation Trial.
@@ -1136,6 +1253,7 @@ Link: https://clinicaltrials.gov/study/NCT06900829
 
 SUMMARY:
 
+
 ## NCT07071051
 Exploring the Effect of Calaspargase Pegol on the Coagulation System in Pediatric Acute Lymphoblastic Leukemia (ALL) Patients: Pilot Study
 
@@ -1143,6 +1261,7 @@ Intervention: : Non-Interventional Study — Non-interventional study
 Link: https://clinicaltrials.gov/study/NCT07071051
 
 SUMMARY:
+
 
 ## NCT07245615
 The Effects of Different Vibro-tactile Stimulation Intensities on Head Posture in Cervical Dystonia
@@ -1154,6 +1273,7 @@ Link: https://clinicaltrials.gov/study/NCT07245615
 
 SUMMARY:
 
+
 ## NCT05862558
 Intravascular Lithotripsy in High Risk Calcified Iliac Anatomy for Transfemoral TAVR
 
@@ -1162,6 +1282,7 @@ Link: https://clinicaltrials.gov/study/NCT05862558
 
 SUMMARY:
 
+
 ## NCT05739825
 Assessment Of Changes In Gut Microbiota Of Patients With Recurrent Clostridioides Difficile Infection After Fecal Microbiota Transplantation: Prospective Study
 
@@ -1169,6 +1290,7 @@ Intervention: : FMT from healthy donors — This intervention is represented by 
 Link: https://clinicaltrials.gov/study/NCT05739825
 
 SUMMARY:
+
 
 ## NCT07246044
 High-Definition Transcranial Direct Current Stimulation (HD-tDCS) Targeting the Primary Somatosensory Cortex for Bipolar Depression in Adolescents: A Randomized Double-Blind Controlled Trial
@@ -1180,6 +1302,7 @@ Link: https://clinicaltrials.gov/study/NCT07246044
 
 SUMMARY:
 
+
 ## NCT06529718
 A Randomised, Phase II Trial to Evaluate the Efficacy of Ivonescimab, a PD 1/VEGF Bispecific Antibody, Versus FOLFOX as Second Line Therapy for Locally Advanced/Metastatic Biliary Cancers
 
@@ -1189,6 +1312,7 @@ Link: https://clinicaltrials.gov/study/NCT06529718
 
 SUMMARY:
 
+
 ## NCT07246031
 An Open-Label, Single-Arm, Phase Ⅱb Clinical Study of BPC2001 for the Prevention of Acute Graft-Versus-Host Disease Following Haploidentical Stem Cell Transplantation
 
@@ -1197,6 +1321,7 @@ Link: https://clinicaltrials.gov/study/NCT07246031
 
 SUMMARY:
 
+
 ## NCT06713187
 Role of Interleukin 23 in Systemic Lupus Erythematosus Related Interstial Lung Disease
 
@@ -1204,6 +1329,7 @@ Intervention: : interleukin 23 — assessment of interleukin 23 in Sera of patie
 Link: https://clinicaltrials.gov/study/NCT06713187
 
 SUMMARY:
+
 
 ## NCT07479173
 Effects of an Acid-Active Protease (P24) on Postprandial Aminoacidemia Following a Standardized Mixed-Protein Burger Meal in Healthy Adults
@@ -1214,6 +1340,7 @@ Link: https://clinicaltrials.gov/study/NCT07479173
 
 SUMMARY:
 
+
 ## NCT07243327
 A Prospective Randomized Controlled Trial Comparing the Effectiveness of Extracorporeal Shockwave Therapy and Conventional Physical Therapy in Patients With Greater Trochanteric Pain Syndrome
 
@@ -1222,6 +1349,7 @@ Intervention: : Extracorporeal Shockwave Therapy (ESWT) — ESWT applied with El
 Link: https://clinicaltrials.gov/study/NCT07243327
 
 SUMMARY:
+
 
 ## NCT05292742
 A Randomized, Open-label, Multicenter Study Comparing Continuation of Original Targeted Therapy With Trastuzumab Combined With Pyrotinib and Capecitabine as Postoperative Adjuvant Therapy in Non-pCR Patients With HER2 Positive Early Breast Cancer
@@ -1232,6 +1360,7 @@ Link: https://clinicaltrials.gov/study/NCT05292742
 
 SUMMARY:
 
+
 ## NCT06878469
 SIMPLIF-AI: SIMPLIFication and Standardization of Care Pathways for Patients With Rare Brain Tumors Through Artificial Intelligence
 
@@ -1239,6 +1368,7 @@ Intervention: : RehaCom — Participants will receive a personalized neuro-cogni
 Link: https://clinicaltrials.gov/study/NCT06878469
 
 SUMMARY:
+
 
 ## NCT05157581
 Open Label, Single-cohort, and Multi-center Phase II Study Evaluating Tumor-specific Immunity After Extracorporeal Photopheresis in Patients With Sézary Syndrome at Single-cell Resolution
@@ -1249,6 +1379,7 @@ Link: https://clinicaltrials.gov/study/NCT05157581
 
 SUMMARY:
 
+
 ## NCT06567626
 Mixed Methods Co-design and Evaluation of a DECIsion Support Tool to Enable Shared DEcision Making With People Who Are Considering Revascularisation Options for Coronary Artery Disease
 
@@ -1256,6 +1387,7 @@ Intervention: : Decision Support Tool (DECIDE-CAD) — DECIDE-CAD is a decision 
 Link: https://clinicaltrials.gov/study/NCT06567626
 
 SUMMARY:
+
 
 ## NCT07350434
 The Acute Effects of Neurodynamic Stretching on the Shear Wave Velocity: the Effects of Hip Adduction and Abduction
@@ -1265,6 +1397,7 @@ Link: https://clinicaltrials.gov/study/NCT07350434
 
 SUMMARY:
 
+
 ## NCT05700071
 Magnetic Resonance Spectroscopy Markers of Glioma Genomics
 
@@ -1272,6 +1405,7 @@ Intervention: : MRI — MRI without contrast agent
 Link: https://clinicaltrials.gov/study/NCT05700071
 
 SUMMARY:
+
 
 ## NCT06537843
 Safety and Efficacy of Venetoclax, Cytarabine and Metformin (VenCM) for Relapsed-Refractory and Induction-Ineligible Acute Myeloid Leukemia: Multicenter, Phase 2, Clinical Trial
@@ -1283,6 +1417,7 @@ Link: https://clinicaltrials.gov/study/NCT06537843
 
 SUMMARY:
 
+
 ## NCT07246096
 Exploratory Clinical Study on the Safety and Efficacy of Anti-CD19/BCMA Universal CAR-T Cell Injection for the Treatment of Relapsed/Refractory Autoimmune Diseases
 
@@ -1290,6 +1425,7 @@ Intervention: : anti-CD19/BCMA U CAR T cells — Patients will receive Fludarabi
 Link: https://clinicaltrials.gov/study/NCT07246096
 
 SUMMARY:
+
 
 ## NCT07570017
 A Phase Ib Study to Evaluate the Safety and Efficacy of Rocbrutinib in Combination With Rituximab, Gemcitabine, Oxaliplatin (R-GemOx) in Patients With Refractory or Relapsed Diffuse Large B-cell Lymphoma
@@ -1300,6 +1436,7 @@ Link: https://clinicaltrials.gov/study/NCT07570017
 
 SUMMARY:
 
+
 ## NCT03383419
 Transplant of Redeemed Organs by Judicious Administration of New Direct-Acting Antivirals for Hepatitis-C Heart Recipients
 
@@ -1307,6 +1444,7 @@ Intervention: : Epclusa — If and when these recipients develop confirmed virem
 Link: https://clinicaltrials.gov/study/NCT03383419
 
 SUMMARY:
+
 
 ## NCT04595019
 The HERMES Trial Hypofractionated Expedited Radiotherapy for Men With localisEd proState Cancer. A Phase II Randomised Trial of Ultrahypofractionated Stereotactic Body Radiotherapy in Men With Localised Prostate Cancer
@@ -1316,6 +1454,7 @@ Link: https://clinicaltrials.gov/study/NCT04595019
 
 SUMMARY:
 
+
 ## NCT02219984
 Phase 4 Study on Clinical History of Patients Who Start a Chronic Anticoagulant Treatment
 
@@ -1323,6 +1462,7 @@ Intervention: : Anticoagulants
 Link: https://clinicaltrials.gov/study/NCT02219984
 
 SUMMARY:
+
 
 ## NCT07022535
 Personalised Timing of Interval Debulking Surgery Based on KELIM After Neoadjuvant Chemotherapy in Advanced Ovarian Cancer - a Pilot Study
@@ -1336,6 +1476,7 @@ Link: https://clinicaltrials.gov/study/NCT07022535
 
 SUMMARY:
 
+
 ## NCT06993415
 Optimize Risk Prediction After Myocardial Infarction Through Artificial Intelligence and Multidimensional Evaluation: The ORACLE Study
 
@@ -1343,6 +1484,7 @@ Intervention: : data collection — The ORACLE program is a prospective, deep ph
 Link: https://clinicaltrials.gov/study/NCT06993415
 
 SUMMARY:
+
 
 ## NCT07596030
 Feasibility of Self-Applied Vagus Nerve Stimulation for Chemotherapy Induced Peripheral Neuropathy
@@ -1352,6 +1494,7 @@ Link: https://clinicaltrials.gov/study/NCT07596030
 
 SUMMARY:
 
+
 ## NCT06640205
 Clinical and Radiographic Assessment of I-PRF Versus Nano Mineral Trioxide Aggregate Combined with I-PRF Scaffold in Vital Pulp Therapy in Mandibular First Molars with Closed Apices: "Randomized Controlled Trial"
 
@@ -1359,6 +1502,7 @@ Intervention: : pulpotomy — Removal of coronal pulp tissue and then placing pu
 Link: https://clinicaltrials.gov/study/NCT06640205
 
 SUMMARY:
+
 
 ## NCT06930443
 Oxygen Consumption, Early Postoperative Hypoperfusion and Organ Injury After Cardio-pulmonary Bypass: a Prospective Observational Study
@@ -1368,6 +1512,7 @@ Link: https://clinicaltrials.gov/study/NCT06930443
 
 SUMMARY:
 
+
 ## NCT05166499
 HMB Enriched Amino Acids to Reverse Muscle Loss in Cirrhosis
 
@@ -1376,6 +1521,7 @@ Intervention: : Hydroxy Methyl Butyrate — Hydroxy Methyl Butyrate
 Link: https://clinicaltrials.gov/study/NCT05166499
 
 SUMMARY:
+
 
 ## NCT05873608
 Communication Issues in Patient/Provider Discussions of Immunotherapy
@@ -1387,6 +1533,7 @@ Link: https://clinicaltrials.gov/study/NCT05873608
 
 SUMMARY:
 
+
 ## NCT07246265
 Morphine Clearance and Glomerular Filtration in Sickle Cell Patients in Crisis in Intensive Care
 
@@ -1397,6 +1544,7 @@ Link: https://clinicaltrials.gov/study/NCT07246265
 
 SUMMARY:
 
+
 ## NCT07246993
 Targeting Neuroplasticity for Persistent Post-Concussive Cognitive Symptoms: A Trial of tDCS and Cognitive Training 3-12 Months Post-mTBI
 
@@ -1406,6 +1554,7 @@ Link: https://clinicaltrials.gov/study/NCT07246993
 
 SUMMARY:
 
+
 ## NCT07218055
 Assessment of Music Experiences in Navigating Depression (AMEND)
 
@@ -1413,6 +1562,7 @@ Intervention: : Music therapy — hourly weekly music therapy sessions
 Link: https://clinicaltrials.gov/study/NCT07218055
 
 SUMMARY:
+
 
 ## NCT05098717
 End-expiratory Trans-pulmonary Pressure Guided PEEP Titration in Patients With Pulmonary Fibrosis and UIP Pattern Undergoing Mechanical Ventilation
@@ -1422,6 +1572,7 @@ Link: https://clinicaltrials.gov/study/NCT05098717
 
 SUMMARY:
 
+
 ## NCT07083856
 Comparison of the Effects of Reiki and Self-Acupressure Applications on Functionality and Quality of Life in Patients With Multiple Sclerosis: A Randomized Controlled Trial
 
@@ -1430,6 +1581,7 @@ Intervention: : Reiki — Reiki
 Link: https://clinicaltrials.gov/study/NCT07083856
 
 SUMMARY:
+
 
 ## NCT05464498
 Evaluation of Collagen-based Medical Device Treatment Combined With Physiotherapy in Subjects With Achilles Tendinopathy. Multicenter Randomized Clinical Investigation; AKITENMED STUDY.
@@ -1441,6 +1593,7 @@ Subjects will be treated with No. 6 peri-tendon injections (2 infiltrations per 
 Link: https://clinicaltrials.gov/study/NCT05464498
 
 SUMMARY:
+
 
 ## NCT06497530
 An Exploratory Study of Maintenance Lurbinectedin in Combination With Serplulimab for Patients With Extensive-Stage Small Cell Lung Cancer
@@ -1455,6 +1608,7 @@ Link: https://clinicaltrials.gov/study/NCT06497530
 
 SUMMARY:
 
+
 ## NCT07488351
 "Associations of Self-Compassion and Self-Efficacy With Symptom Severity, Functional Status, and Quality of Life in Individuals With Parkinson's Disease: A Cross-Sectional Study"
 
@@ -1463,6 +1617,7 @@ Link: https://clinicaltrials.gov/study/NCT07488351
 
 SUMMARY:
 
+
 ## NCT06374745
 An Integrated Algorithm for Surgical Intervention in Chronic Lymphedema After Breast Cancer Treatment: The Basel Lymphedema Protocol
 
@@ -1470,6 +1625,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06374745
 
 SUMMARY:
+
 
 ## NCT06854198
 Novel Telehealth Technologies to Detect and Manage Glaucoma and Vision-threatening Eye Diseases in High-risk Populations
@@ -1480,6 +1636,7 @@ Link: https://clinicaltrials.gov/study/NCT06854198
 
 SUMMARY:
 
+
 ## NCT07310693
 External Validation of a Predictive Model for Occult Cancer Risk in Patients With Venous Thromboembolism Developed Using Machine Learning
 
@@ -1488,6 +1645,7 @@ Link: https://clinicaltrials.gov/study/NCT07310693
 
 SUMMARY:
 
+
 ## NCT07014163
 Evaluating the Efficacy and Safety of Embella (Deoxycholic Acid, Produced by Espad Pharmed Co.) Injection in the Management of Superficial Lipomas
 
@@ -1495,6 +1653,7 @@ Intervention: : Embella (Deoxycholic acid, produced by Espad Pharmed Co.) — 0.
 Link: https://clinicaltrials.gov/study/NCT07014163
 
 SUMMARY:
+
 
 ## NCT06099717
 Clinical Performance of a Novel Implant-supported Fixed Dental Prostheses (iFDP): the Dual-cantilevered Single-implant Bridge (T-bridge)
@@ -1505,6 +1664,7 @@ Link: https://clinicaltrials.gov/study/NCT06099717
 
 SUMMARY:
 
+
 ## NCT06355063
 Initial Safety and Performance of the CellFX® nsPFA™ Cardiac Surgery System for the Treatment of Atrial Fibrillation
 
@@ -1512,6 +1672,7 @@ Intervention: : CellFX® nsPFA™ Cardiac Surgery System — Adult patients pres
 Link: https://clinicaltrials.gov/study/NCT06355063
 
 SUMMARY:
+
 
 ## NCT04845893
 Observational Study on Treatment of Skeletal Ewing Sarcoma at Diagnosis
@@ -1521,6 +1682,7 @@ Link: https://clinicaltrials.gov/study/NCT04845893
 
 SUMMARY:
 
+
 ## NCT06038019
 Thresholds In Food Allergy evaluaTion And predictioN, a Prospective, Multicentre Registry Study
 
@@ -1529,6 +1691,7 @@ Link: https://clinicaltrials.gov/study/NCT06038019
 
 SUMMARY:
 
+
 ## NCT06713161
 Tumor-Targeted-NIR-II Fluorescent Molecular Probes for the Identification of Breast Cancer Tissue and SLN Metastatic Status
 
@@ -1536,6 +1699,7 @@ Intervention: : NIR-II Probe(i.e ICG-POL6326) incubation solution — After the 
 Link: https://clinicaltrials.gov/study/NCT06713161
 
 SUMMARY:
+
 
 ## NCT05547633
 Detection and Management of Sinusitis in a Single-center Prospective Cohort of Patients With Exudative AMD (SINE)
@@ -1546,6 +1710,7 @@ Patients with signs of sinusitis will be managed according to current recommenda
 Link: https://clinicaltrials.gov/study/NCT05547633
 
 SUMMARY:
+
 
 ## NCT06666621
 Antagonism of Endogenous Opioids: Use in Interpretation of Injections
@@ -1558,6 +1723,7 @@ Link: https://clinicaltrials.gov/study/NCT06666621
 
 SUMMARY:
 
+
 ## NCT05469945
 Lower Limb Lymphedema After Gyneco-oncologic Therapy: Can we Prevent Irreversible Lymphedema?
 
@@ -1565,6 +1731,7 @@ Intervention: : Compressive garments class II — Daily wearing of compressive g
 Link: https://clinicaltrials.gov/study/NCT05469945
 
 SUMMARY:
+
 
 ## NCT06560242
 Tracking Early Emergence of Sound Perception Impairments in FXS With Multimodal fNIRS/EEG- Infant
@@ -1574,6 +1741,7 @@ Link: https://clinicaltrials.gov/study/NCT06560242
 
 SUMMARY:
 
+
 ## NCT04712461
 Implementation Supports to Reduce Burnout in Therapists Delivering Child Trauma EBPs
 
@@ -1581,6 +1749,7 @@ Intervention: : SUPPORTS — The SUPPORTS implementation model will be developed
 Link: https://clinicaltrials.gov/study/NCT04712461
 
 SUMMARY:
+
 
 ## NCT07784231
 The Use of Photobiomodulation in the Treatment of Spasticity After Stroke: a Blinded Clinical Trial.
@@ -1592,6 +1761,7 @@ Link: https://clinicaltrials.gov/study/NCT07784231
 
 SUMMARY:
 
+
 ## NCT05724992
 Standardised Genetic Profiling of Subjects Belonging to the Italian Multicenter Registry of Prospective Surveillance of Subjects at Genetic Risk of Pancreatic Cancer
 
@@ -1600,6 +1770,7 @@ Link: https://clinicaltrials.gov/study/NCT05724992
 
 SUMMARY:
 
+
 ## NCT07028463
 ALERT-ED: Awareness and Linkage to Resources for At-Risk Emergency Department Patients
 
@@ -1607,6 +1778,7 @@ Intervention: : ALERT-ED — Patient receives link to the Livi Chatbot in After 
 Link: https://clinicaltrials.gov/study/NCT07028463
 
 SUMMARY:
+
 
 ## NCT07427121
 Rehabilitation-based Approaches to Prevent Mechanical Ventilation-induced Breathing Dysfunction
@@ -1618,6 +1790,7 @@ Link: https://clinicaltrials.gov/study/NCT07427121
 
 SUMMARY:
 
+
 ## NCT06261658
 Improving the Quality of Cryopreserved Ovarian Tissue Reimplantation Using Platelet-enriched Autologous Plasma
 
@@ -1625,6 +1798,7 @@ Intervention: : Cryopreserved Ovarian Tissue Reimplantation — Cryopreserved Ov
 Link: https://clinicaltrials.gov/study/NCT06261658
 
 SUMMARY:
+
 
 ## NCT07247279
 A Multicenter Non Interventional Single Arm Retrospective-prospective Observational Study in Therapeutic Approaches in AChR-Antibody Positive Generalized Myasthenia Gravis (gMG) in Real Clinical Practice in Russia
@@ -1634,6 +1808,7 @@ Link: https://clinicaltrials.gov/study/NCT07247279
 
 SUMMARY:
 
+
 ## NCT06840314
 VIBRENT- VIBRating vs Traditional Therapy for Treatment of ENTry Dyspareunia
 
@@ -1641,6 +1816,7 @@ Intervention: : Pelvic floor therapy — Once randomized to either the vibrating
 Link: https://clinicaltrials.gov/study/NCT06840314
 
 SUMMARY:
+
 
 ## NCT07252414
 A Phase 1, Multicenter, Open-Label, First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Anti-Tumor Activity of GenSci143 in Participants With Advanced Solid Tumors
@@ -1650,6 +1826,7 @@ Link: https://clinicaltrials.gov/study/NCT07252414
 
 SUMMARY:
 
+
 ## NCT07248254
 Effects of Wilbarger Deep Pressure and Proprioceptive Technique (DPPT) on Motor Skills and Sleep Pattern in Children With Autism Spectrum Disorder.
 
@@ -1657,6 +1834,7 @@ Intervention: : Wilbarger Deep Pressure and Proprioceptive Technique (DPPT) — 
 Link: https://clinicaltrials.gov/study/NCT07248254
 
 SUMMARY:
+
 
 ## NCT06622031
 Transjugular Intrahepatic Portosystemic Shunt Combined With Lenvatinib and PD-1 Inhibitor for Advanced Hepatocellular Carcinoma With Main Trunk Portal Vein Tumor Thrombus: a Multicenter Phase II Study
@@ -1668,6 +1846,7 @@ Link: https://clinicaltrials.gov/study/NCT06622031
 
 SUMMARY:
 
+
 ## NCT06143449
 Taiwan Diabetes Registry (TDR)
 
@@ -1675,6 +1854,7 @@ Intervention: : Observational study - registry — Observational study - registr
 Link: https://clinicaltrials.gov/study/NCT06143449
 
 SUMMARY:
+
 
 ## NCT06706037
 Do Reformer Pilates Exercises Change Pain Perception in Patients With Chronic Musculoskeletal Pain?A Comparative Study.
@@ -1684,6 +1864,7 @@ Link: https://clinicaltrials.gov/study/NCT06706037
 
 SUMMARY:
 
+
 ## NCT07287631
 Clinical Evaluation of Precision for the Potassium and Ionized Calcium Tests Using the i-STAT CG8+ Cartridge With the i-STAT 1 Analyzer for Capillary Specimens
 
@@ -1691,6 +1872,7 @@ Intervention: : Capillary blood draw — Capillary whole blood specimens collect
 Link: https://clinicaltrials.gov/study/NCT07287631
 
 SUMMARY:
+
 
 ## NCT07227636
 Phase II Study of Adjuvant Botensilimab in Combination With Balstilimab in Patients With Colorectal Cancer and Persistent Circulating Tumor DNA Following Surgery and Chemotherapy
@@ -1702,6 +1884,7 @@ Link: https://clinicaltrials.gov/study/NCT07227636
 
 SUMMARY:
 
+
 ## NCT07220122
 Impact of Exogenous Ketones on Sleep and Breathing in Healthy Volunteers
 
@@ -1711,6 +1894,7 @@ Link: https://clinicaltrials.gov/study/NCT07220122
 
 SUMMARY:
 
+
 ## NCT07520890
 Bleeding Outcomes Following Oral Soft Tissue Biopsy in Patients Receiving Direct Oral Anticoagulants
 
@@ -1718,6 +1902,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07520890
 
 SUMMARY:
+
 
 ## NCT04917302
 Combination of NMDA-enhancing and Anti-inflammatory Treatments for Schizophrenia
@@ -1728,6 +1913,7 @@ Link: https://clinicaltrials.gov/study/NCT04917302
 
 SUMMARY:
 
+
 ## NCT07576829
 Comparative Impact of Wrist Heavy Slow Resistance and Shoulder Stabilization Exercises on Pain, Grip Strength and Functional Ability in Lateral Epicondylitis
 
@@ -1737,6 +1923,7 @@ Link: https://clinicaltrials.gov/study/NCT07576829
 
 SUMMARY:
 
+
 ## NCT05423210
 A Pilot Study to Evaluate the Immunogenic Effects of Window-of-Opportunity Fractionated Stereotactic Radiotherapy Combined With Atezolizumab for Patients With Newly Diagnosed WHO CNS Grade 4 Glioma (Glioblastoma Multiforme)
 
@@ -1744,6 +1931,7 @@ Intervention: : Atezolizumab + FSRT radiation — Atezolizumab 840mg IV every 2 
 Link: https://clinicaltrials.gov/study/NCT05423210
 
 SUMMARY:
+
 
 ## NCT07361224
 CLS-015-TAMSC-LBCL-PR An Exploratory, Investigator Initiated Study to Assess the Safety of Combination of CLS-015 (DFF) With Anti-CD-19 CAR-T Cells in Patients With Stable/ Progressive Large B Cell Lymphoma at Lymphodepletion.
@@ -1753,6 +1941,7 @@ Link: https://clinicaltrials.gov/study/NCT07361224
 
 SUMMARY:
 
+
 ## NCT05344716
 Monocentric, Prospective Pilot Study to Test the Efficacy and Safety of the FotonaSmooth Erbium:YAG Laser for the Treatment of Urethral Pain Syndrome in Women
 
@@ -1760,6 +1949,7 @@ Intervention: : Laser — Intraurethral and vaginal laser treatment
 Link: https://clinicaltrials.gov/study/NCT05344716
 
 SUMMARY:
+
 
 ## NCT03804853
 Immediate Accelerated Shoulder Rehabilitation Versus a Standard Protocol Following Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial
@@ -1769,6 +1959,7 @@ Link: https://clinicaltrials.gov/study/NCT03804853
 
 SUMMARY:
 
+
 ## NCT07302763
 Four-Timepoint Multi-tracer PET Imaging to Characterize Metastatic prOstate Cancer Heterogeneity
 
@@ -1776,6 +1967,7 @@ Intervention: : PET Tracer — Multi-tracer PET imaging to characterize metastat
 Link: https://clinicaltrials.gov/study/NCT07302763
 
 SUMMARY:
+
 
 ## NCT03092180
 Optimizing Treatment on Idiopathic Inflammatory Myopathies
@@ -1785,6 +1977,7 @@ Link: https://clinicaltrials.gov/study/NCT03092180
 
 SUMMARY:
 
+
 ## NCT07557381
 The Effect of a 2-month Somatic Serious Games on the Cognition of Schizophrenia Patients
 
@@ -1792,6 +1985,7 @@ Intervention: : Somatic Serious Games — A serious game for 5 cognitive functio
 Link: https://clinicaltrials.gov/study/NCT07557381
 
 SUMMARY:
+
 
 ## NCT05593458
 A Multicenter, Randomized, Controlled Study of S-1 Combined With Oxaliplatin by Arterial Infusion Plus PD-1 Antibody Versus Conventional SOX Chemotherapy Plus PD-1 Antibody for Locally Advanced Gastric Cancer
@@ -1808,6 +2002,7 @@ Link: https://clinicaltrials.gov/study/NCT05593458
 
 SUMMARY:
 
+
 ## NCT07248631
 Combined Effects of Foot-Ankle Therapeutic Exercises and Mindful Walking on Pain, Foot and Ankle Disability and Quality of Life in Patients With Diabetic Polyneuropathy
 
@@ -1816,6 +2011,7 @@ Intervention: : Foot-Ankle therapeutic exercises and Mindful Walking. — The in
 Link: https://clinicaltrials.gov/study/NCT07248631
 
 SUMMARY:
+
 
 ## NCT04581447
 Extending Time Without Diabetes After Bariatric Surgery: a Randomized Controlled Trial Comparing the Metformin Addition or Not to Standard Care
@@ -1827,6 +2023,7 @@ Link: https://clinicaltrials.gov/study/NCT04581447
 
 SUMMARY:
 
+
 ## NCT07087626
 Prediction of Perioperative Complication Risk Using Chronic Obstructive Pulmonary Disease Assessment Test Score in Chronic Obstructive Pulmonary Disease Patients: A Prospective Cohort Study
 
@@ -1834,6 +2031,7 @@ Intervention: : Arterial Blood Gas Analysis — Arterial blood gas analysis will
 Link: https://clinicaltrials.gov/study/NCT07087626
 
 SUMMARY:
+
 
 ## NCT07750158
 Randomized Phase 3 Study of Zanzalintinib ± Subcutaneous Pembrolizumab and Berahyaluronidase Alfa (MK-3475A) Versus Placebo in Participants With Colorectal Cancer With Stage II/III Molecular Residual Disease Following Definitive Therapy
@@ -1845,6 +2043,7 @@ Link: https://clinicaltrials.gov/study/NCT07750158
 
 SUMMARY:
 
+
 ## NCT07560748
 Prospective Prostate Cancer Infrastructure
 
@@ -1852,6 +2051,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07560748
 
 SUMMARY:
+
 
 ## NCT06839716
 Prospective Randomized Controlled Study of Ropivacaine-Poloxamer 407 Based Gel Application and TAP Block for Postoperative Pain Management Following Laparoscopic/Robotic Gastrectomy
@@ -1864,6 +2064,7 @@ Link: https://clinicaltrials.gov/study/NCT06839716
 
 SUMMARY:
 
+
 ## NCT01205815
 Storage and Research Use of Human Bio-specimens From Melanoma Patients and Clinical Testing for Assignment of Treatment
 
@@ -1871,6 +2072,7 @@ Intervention: : Tissue and blood collection — Tissue will be obtained from a p
 Link: https://clinicaltrials.gov/study/NCT01205815
 
 SUMMARY:
+
 
 ## NCT07809308
 Clinical Investigation of an Ozonated Oil for the Regeneration and Healing of Surgical Wounds in Patients Undergoing Breast Surgery
@@ -1881,6 +2083,7 @@ Link: https://clinicaltrials.gov/study/NCT07809308
 
 SUMMARY:
 
+
 ## NCT07671326
 Antibacterial Efficacy of Bioceramic and Calcium Hydroxide-Based Intracanal Medicaments in Endodontic Treatment
 
@@ -1889,6 +2092,7 @@ Intervention: : Root canal treatment with Bio-C Temp, a calcium silicate-based b
 Link: https://clinicaltrials.gov/study/NCT07671326
 
 SUMMARY:
+
 
 ## NCT07249216
 Identification of Molecular Signals in Vitreous Humor Associated With Suboptimal Response to VEGF Inhibition in nAMD Within a Clinical Trial Setting
@@ -1903,6 +2107,7 @@ Link: https://clinicaltrials.gov/study/NCT07249216
 
 SUMMARY:
 
+
 ## NCT06255535
 Repetitive Transcranial Magnetic Stimulation Guided by Personalized Brain Functional Sectors (pBFS) for Low-Functioning Autism Spectrum Disorder: a Multi-center, Randomized, Sham-controlled Trial
 
@@ -1912,6 +2117,7 @@ Link: https://clinicaltrials.gov/study/NCT06255535
 
 SUMMARY:
 
+
 ## NCT06822972
 A Phase II Safety and Efficacy Study of Selinexor in Combination With Bispecific Antibody in Patients With Relapsed/Refractory Multiple Myeloma
 
@@ -1919,6 +2125,7 @@ Intervention: : Selinexor 40 mg — Patients will receive 40mg of oral SEL, week
 Link: https://clinicaltrials.gov/study/NCT06822972
 
 SUMMARY:
+
 
 ## NCT07057245
 Effects of Daily Protein Supplementation on Brain Function in Older Adults With Overweight or Obesity
@@ -1930,6 +2137,7 @@ Link: https://clinicaltrials.gov/study/NCT07057245
 
 SUMMARY:
 
+
 ## NCT06968845
 A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study of the Safety, Tolerability and Efficacy of Caveolin-1-Scaffolding-Protein-Derived Peptide (LTI-03) in Patients With Idiopathic Pulmonary Fibrosis
 
@@ -1939,6 +2147,7 @@ Intervention: : LTI-03 — Caveolin-1-Scaffolding-Protein-Derived Peptide
 Link: https://clinicaltrials.gov/study/NCT06968845
 
 SUMMARY:
+
 
 ## NCT05868395
 Efficacy of Polatuzumab, Bendamustine and Rituximab in Patients With Relapsed/ Refractory Mantle Cell Lymphoma - a Single Center Phase II Trial
@@ -1952,6 +2161,7 @@ Link: https://clinicaltrials.gov/study/NCT05868395
 
 SUMMARY:
 
+
 ## NCT07686406
 Biomarker Discovery, Validation, and Multi-Omics Profiling for Disease Activity Assessment, Treatment Monitoring, and Risk Stratification in Inflammatory Bowel Disease: A Multicenter Prospective Biospecimen-Based Observational Cohort Study
 
@@ -1960,6 +2170,7 @@ Link: https://clinicaltrials.gov/study/NCT07686406
 
 SUMMARY:
 
+
 ## NCT07054684
 An Open-Label Biomarker Study of BHV-1400 in IgA Nephropathy
 
@@ -1967,6 +2178,7 @@ Intervention: : BHV-1400 — BHV-1400 is delivered subcutaneously (SC)
 Link: https://clinicaltrials.gov/study/NCT07054684
 
 SUMMARY:
+
 
 ## NCT06170710
 Postoperative Concurrent Chemoradiotherapy Followed by Anti-PD-1 Antibody Maintenance Therapy in High-Risk Locally Advanced Head and Neck Squamous Cell Carcinoma
@@ -1979,6 +2191,7 @@ Link: https://clinicaltrials.gov/study/NCT06170710
 
 SUMMARY:
 
+
 ## NCT07436195
 Imprinting in Metabolic Diseases - Identifying Epigenetic Mechanisms in Human Gestational Diabetes Through Cell-free DNA
 
@@ -1989,6 +2202,7 @@ Link: https://clinicaltrials.gov/study/NCT07436195
 
 SUMMARY:
 
+
 ## NCT07556484
 Pharmacokinetics Of Emulsified Avacopan In ANCA-associated Vasculitis With Severe Diffuse Alveolar Hemorrhage
 
@@ -1996,6 +2210,7 @@ Intervention: : Avacopan — Avacopan capsules will be solubilized in heated wat
 Link: https://clinicaltrials.gov/study/NCT07556484
 
 SUMMARY:
+
 
 ## NCT07783984
 Endocardial Catheter Ablation Versus Thoracoscopic Ablation in De Novo Persistent Atrial Fibrillation Patients With Enlarged Left Atrium: A Randomized Controlled Trial
@@ -2006,6 +2221,7 @@ Link: https://clinicaltrials.gov/study/NCT07783984
 
 SUMMARY:
 
+
 ## NCT07294183
 The Effect of an Emotion-Focused Intervention Based on Travelbee's Human-to-Human Relationship Model on Emotion Regulation Skills and Well-Being of Individuals With Renal Transplantation
 
@@ -2013,6 +2229,7 @@ Intervention: : Emotion-Focused Intervention — Emotion-Focused Intervention me
 Link: https://clinicaltrials.gov/study/NCT07294183
 
 SUMMARY:
+
 
 ## NCT07663669
 Use of Extracorporeal Photopheresis in Kidney Transplantation: Effects on Antibody-Mediated Rejection
@@ -2022,6 +2239,7 @@ Link: https://clinicaltrials.gov/study/NCT07663669
 
 SUMMARY:
 
+
 ## NCT04451551
 Myocardial Perfusion Imaging by 15O-H2O PET/CT: Reference Values and Prognostic Value
 
@@ -2029,6 +2247,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT04451551
 
 SUMMARY:
+
 
 ## NCT05998772
 Influence of Glucose on Metabolism and Clinical Symptoms of Patients With Parkinson's Disease
@@ -2039,6 +2258,7 @@ Link: https://clinicaltrials.gov/study/NCT05998772
 
 SUMMARY:
 
+
 ## NCT07249528
 Voice as a Digital Biomarker of Neurotoxicity in CAR T-Cell Therapy
 
@@ -2046,6 +2266,7 @@ Intervention: : Audio Tasks — Voice recordings will be collected at baseline (
 Link: https://clinicaltrials.gov/study/NCT07249528
 
 SUMMARY:
+
 
 ## NCT07174739
 Efficacy of Quantum Molecular Resonance in Neuropathic Corneal Pain and Corneal Nerve Regeneration
@@ -2055,6 +2276,7 @@ Link: https://clinicaltrials.gov/study/NCT07174739
 
 SUMMARY:
 
+
 ## NCT05089695
 Helmet Noninvasive Ventilation vs. Continuous Positive Airway Pressure vs. High-flow Nasal Oxygen as First-line Treatment of Acute Hypoxemic Respiratory Failure (HENIVOT2). An Open-label, Multicentre Randomized Trial
 
@@ -2062,6 +2284,7 @@ Intervention: : Noninvasive respiratory support — Treatment of acute hypoxemic
 Link: https://clinicaltrials.gov/study/NCT05089695
 
 SUMMARY:
+
 
 ## NCT06604052
 A Prospective, Randomized, Parallel-Controlled Study Comparing Laparoscopic/Robotic Stoma Reduced-Port Fusion Surgery with Traditional Surgery in Patients with Temporary Ileostomy
@@ -2071,6 +2294,7 @@ Intervention: : Reduced-Port Fusion Surgery — (1) The Joint Trocar/Stoma Zone 
 Link: https://clinicaltrials.gov/study/NCT06604052
 
 SUMMARY:
+
 
 ## NCT07527858
 A Phase 2, Open Label, Multicenter, Randomized Study, to Evaluate the Efficacy and Safety of Denikitug Monotherapy and Denikitug-based Combinations in Participants With Advanced Microsatellite Stable (MSS) Colorectal Cancer (CRC)
@@ -2083,6 +2307,7 @@ Link: https://clinicaltrials.gov/study/NCT07527858
 
 SUMMARY:
 
+
 ## NCT06829147
 Development and Validation of a Deep Learning Model for Diagnosing Lymph Node Metastasis in Nasopharyngeal Carcinoma Using Histologic Whole Slide Images and Time-dependent Magnetic Resonance Images
 
@@ -2090,6 +2315,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06829147
 
 SUMMARY:
+
 
 ## NCT07765355
 Bottom-Up Virtual Nature Versus Top-Down Guided Imagery in Hospitalized Older Adults: A Randomized Parallel-Group Clinical Trial
@@ -2099,6 +2325,7 @@ Intervention: : Immersive virtual reality nature exposure — Three sessions of 
 Link: https://clinicaltrials.gov/study/NCT07765355
 
 SUMMARY:
+
 
 ## NCT06893926
 Evaluating the Utility of S100B Protein Concentration for Diagnosing Fetal Central Nervous System Hypoxia-Ischemia in Children With Late Fetal Growth Retardation: A Prospective Cohort Study
@@ -2114,6 +2341,7 @@ Link: https://clinicaltrials.gov/study/NCT06893926
 
 SUMMARY:
 
+
 ## NCT07357558
 A Qualitative Study Investigating the Lived Experiences and Impact of Reproductive Issues in Adults With Primary Ciliary Dyskinesia
 
@@ -2121,6 +2349,7 @@ Intervention: : Interview only — No intervention
 Link: https://clinicaltrials.gov/study/NCT07357558
 
 SUMMARY:
+
 
 ## NCT04304625
 TRAnexamic Acid for Preventing Blood Loss Following a Cesarean Delivery in Women With Placenta pREVIA: a Multicenter Randomised, Double Blind Placebo Controlled Trial
@@ -2130,6 +2359,7 @@ Link: https://clinicaltrials.gov/study/NCT04304625
 
 SUMMARY:
 
+
 ## NCT07640295
 A Multicenter, Phase Ib/III Study to Evaluate JAB-23E73 in Combination With Nab-Paclitaxel and Gemcitabine in Participants With Metastatic Pancreatic Ductal Adenocarcinoma Harboring KRAS Gene Alterations
 
@@ -2137,6 +2367,7 @@ Intervention: : JAB-23E73 tablet，nab-paclitaxel，gemcitabine — Orally, intr
 Link: https://clinicaltrials.gov/study/NCT07640295
 
 SUMMARY:
+
 
 ## NCT06807424
 A Phase 3, Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Efficacy and Safety of JNJ-77242113 for the Treatment of Biologic-experienced and Biologic-naive Participants With Active Psoriatic Arthritis
@@ -2146,6 +2377,7 @@ Intervention: : Icotrokinra — Icotrokinra will be administered.
 Link: https://clinicaltrials.gov/study/NCT06807424
 
 SUMMARY:
+
 
 ## NCT06052826
 Geriatric (G) Assessment Guided Optimization (O) to Accelerate Functional Recovery After Chimeric Antigen Receptor T-Cell (CAR-T) Therapy for Patients 60 Years and Older With B-Cell Non-Hodgkin Lymphoma or Multiple Myeloma (GOCART)
@@ -2160,6 +2392,7 @@ Link: https://clinicaltrials.gov/study/NCT06052826
 
 SUMMARY:
 
+
 ## NCT04989803
 A Phase 1/2 Open-label, Multicenter Study Evaluating the Safety and Efficacy of KITE-363 or KITE-753, Autologous Anti-CD19/CD20 CAR T-cell Therapies, in Subjects With Relapsed and/or Refractory B-cell Lymphoma
 
@@ -2170,6 +2403,7 @@ Intervention: : Cyclophosphamide — Lymphodepleting chemotherapy administered i
 Link: https://clinicaltrials.gov/study/NCT04989803
 
 SUMMARY:
+
 
 ## NCT06045247
 Phase 2 Trial of Epcoritamab in Combination With Rituximab-mini CVP for Older Unfit/Frail Patients or Anthracycline-Ineligible Adult Patients With Newly Diagnosed Diffuse Large B-cell Lymphoma
@@ -2183,6 +2417,7 @@ Link: https://clinicaltrials.gov/study/NCT06045247
 
 SUMMARY:
 
+
 ## NCT05877300
 Safety and Feasibility Study of the CELLSPAN Esophageal Implant (CEI) in Patients Requiring Short Segment Esophageal Replacement
 
@@ -2191,6 +2426,7 @@ Intervention: : CEI Thoracic Surgical Implantation-Cellspan™ Esophageal Implan
 Link: https://clinicaltrials.gov/study/NCT05877300
 
 SUMMARY:
+
 
 ## NCT06842524
 Dihydroartemisinin for the Treatment of Polycystic Ovary Syndrome: a Multi-centre Placebo-controlled Randomized Clinical Trial
@@ -2201,6 +2437,7 @@ Link: https://clinicaltrials.gov/study/NCT06842524
 
 SUMMARY:
 
+
 ## NCT07538102
 Effect of Respiratory Physiotherapy on Diaphragmatic Thickness in Mechanically Ventilated Patients in Intensive Care Unit: A Prospective Observational Controlled Trial
 
@@ -2210,6 +2447,7 @@ Link: https://clinicaltrials.gov/study/NCT07538102
 
 SUMMARY:
 
+
 ## NCT05146180
 Interest of Parametric Positron Emission Computed Tomography Imaging in the Diagnosis of Infections on Cardiac Valve Prosthesis : PARAVA Study
 
@@ -2218,6 +2456,7 @@ Link: https://clinicaltrials.gov/study/NCT05146180
 
 SUMMARY:
 
+
 ## NCT06631001
 The Effect of Abdominal Massage on Gastrointestinal Functions in Mechanically Ventilated Patients Receiving Enteral Nutrition in Intensive Care
 
@@ -2225,6 +2464,7 @@ Intervention: : Abdominal Massage — Abdominal massage will be administered twi
 Link: https://clinicaltrials.gov/study/NCT06631001
 
 SUMMARY:
+
 
 ## NCT06599762
 Evaluation of Tranexamic Acid Among Outpatients With Myelodysplastic Syndromes and Acute Myeloid Leukemia: a Multicenter Pilot Trial
@@ -2235,6 +2475,7 @@ Link: https://clinicaltrials.gov/study/NCT06599762
 
 SUMMARY:
 
+
 ## NCT06077747
 Lumbar Vein Embolization for the Treatment of Chronic Headache in Patients With Nutcracker Physiology and Retrograde Lumbar Vein Flow With Epidural Venous Plexus Enhancement
 
@@ -2243,6 +2484,7 @@ Link: https://clinicaltrials.gov/study/NCT06077747
 
 SUMMARY:
 
+
 ## NCT06803719
 Public Awareness, Trust, and Risk Perception Toward Robotic Surgery, Telesurgery and Telemedicine
 
@@ -2250,6 +2492,7 @@ Intervention: : Survey Questionnaire — Anonymous online questionnaire assessin
 Link: https://clinicaltrials.gov/study/NCT06803719
 
 SUMMARY:
+
 
 ## NCT07229586
 A Phase IB/II Clinical Study of the Safety, Tolerability and Efficacy of SHR-7367 in Combination With Anti-tumor Agents in Subjects With Solid Tumors
@@ -2262,6 +2505,7 @@ Link: https://clinicaltrials.gov/study/NCT07229586
 
 SUMMARY:
 
+
 ## NCT05733130
 Registro Italiano Pancreatite Cronica
 
@@ -2269,6 +2513,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05733130
 
 SUMMARY:
+
 
 ## NCT04736667
 Mitral Valve Screening Survey (MVSS)
@@ -2278,6 +2523,7 @@ Link: https://clinicaltrials.gov/study/NCT04736667
 
 SUMMARY:
 
+
 ## NCT07448727
 Prospective Observational Study On The Impact Of Early Response To First-line Anti-PD-1 Therapy In Patients With Recurrent And/Or Metastatic (R/M) Head And Neck Squamous Cell Carcinoma, Assessed By 18F-FDG PET/CT
 
@@ -2285,6 +2531,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07448727
 
 SUMMARY:
+
 
 ## NCT07126262
 A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Safety and Efficacy of Vosoritide in Infants and Young Children With Hypochondroplasia, Aged 0 to < 36 Months
@@ -2295,6 +2542,7 @@ Link: https://clinicaltrials.gov/study/NCT07126262
 
 SUMMARY:
 
+
 ## NCT07280026
 Effectiveness of an Edge AI-based Augmented Reality System for Hand Hygiene Training: a Multi-centre, Mixed-methods Cluster Randomised Controlled Trial
 
@@ -2304,6 +2552,7 @@ Link: https://clinicaltrials.gov/study/NCT07280026
 
 SUMMARY:
 
+
 ## NCT06414278
 Early Identification of Cognitive Side-Effects of Immunotherapy
 
@@ -2311,6 +2560,7 @@ Intervention: : Non-Interventional Study — Non-interventional study
 Link: https://clinicaltrials.gov/study/NCT06414278
 
 SUMMARY:
+
 
 ## NCT07000643
 Proton Therapy Versus Photon Therapy for the Treatment of Nasopharyngeal Carcinoma: A Prospective, Open-Label, Multicenter, Phase III Non-Inferiority Clinical Trial
@@ -2333,6 +2583,7 @@ Link: https://clinicaltrials.gov/study/NCT07000643
 
 SUMMARY:
 
+
 ## NCT06750055
 Comparison of Walking With Wearable Gait Analysis System in Patients Undergoing Lumbar Spinal Stenosis Surgery
 
@@ -2340,6 +2591,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06750055
 
 SUMMARY:
+
 
 ## NCT05813015
 Comparison of With and Without Sequential Single Drug Therapy of S-1 After Adjuvant Chemotherapy With Docetaxel Plus S-1 in Stage III Gastric Cancer
@@ -2350,6 +2602,7 @@ Link: https://clinicaltrials.gov/study/NCT05813015
 
 SUMMARY:
 
+
 ## NCT07331558
 Effects of Multimodal Virtual Reality-based Rehabilitation on Dyspnea, Cardiorespiratory Fitness, Left Ventricular Ejection Fraction, and Quality of Life in CABG Phase II
 
@@ -2359,6 +2612,7 @@ Intervention: : multimodal circuit training while viewing nature scenes through 
 Link: https://clinicaltrials.gov/study/NCT07331558
 
 SUMMARY:
+
 
 ## NCT03593408
 Pharmacokinetics of Sedatives and Analgesics During Extracorporeal Membrane Oxygenation (ECMO) Support
@@ -2371,6 +2625,7 @@ Link: https://clinicaltrials.gov/study/NCT03593408
 
 SUMMARY:
 
+
 ## NCT06402708
 Postoperative Adjuvant Treatment for Thymic Cancer With Completed Resection (Radiotherapy vs Chemoradiotherapy): A Prospective, Multicenter, Open-label, Phase III, Randomized Controlled Trial
 
@@ -2380,6 +2635,7 @@ Link: https://clinicaltrials.gov/study/NCT06402708
 
 SUMMARY:
 
+
 ## NCT07262606
 Salivary Mitofusin-1 Levels in Periodontitis: Associations With Disease Severity, Smoking, and Treatment Response
 
@@ -2388,6 +2644,7 @@ Intervention: : Non-surgical Periodontal Therapy (Scaling and Root Planing) — 
 Link: https://clinicaltrials.gov/study/NCT07262606
 
 SUMMARY:
+
 
 ## NCT07581457
 Efficacy and Safety of Two Intravenous Tranexamic Acid Regimens Versus Placebo in Pediatric Idiopathic Scoliosis Surgery: A Randomized Double-Blind Trial
@@ -2399,6 +2656,7 @@ Link: https://clinicaltrials.gov/study/NCT07581457
 
 SUMMARY:
 
+
 ## NCT07262645
 A Multicenter, Randomized, Double-Blind, Sham-Controlled Study on The Efficacy And Safety of Near-Infrared Light Therapy Device in Participants With Mild-Moderate Alzheimer's Disease (NirsCure-03A)
 
@@ -2408,6 +2666,7 @@ Link: https://clinicaltrials.gov/study/NCT07262645
 
 SUMMARY:
 
+
 ## NCT05997186
 Sensory Recovery and Functional Outcome After Reinnervated Profunda Artery Perforator Flap for Oral Cavity and Oropharyngeal Defect Reconstruction - Prospective Pilot Study
 
@@ -2415,6 +2674,7 @@ Intervention: : Surgical reconstruction — Surgical reconstruction with a free 
 Link: https://clinicaltrials.gov/study/NCT05997186
 
 SUMMARY:
+
 
 ## NCT06965725
 Evaluation of a Novel Paired-Ring Mitral Annuloplasty Sizing Method and Device
@@ -2424,6 +2684,7 @@ Link: https://clinicaltrials.gov/study/NCT06965725
 
 SUMMARY:
 
+
 ## NCT06092450
 Deep Learning Radiomics Model for Predicting Post-cystectomy Outcome From Preoperative CT in Muscle Invasive Bladder Cancer
 
@@ -2432,6 +2693,7 @@ Link: https://clinicaltrials.gov/study/NCT06092450
 
 SUMMARY:
 
+
 ## NCT07430774
 CONNECT Study: Parent-Adolescent Relationships, Emotional Regulation, and HRV in Adolescents With Depression
 
@@ -2439,6 +2701,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07430774
 
 SUMMARY:
+
 
 ## NCT04544774
 The Role of the Nasal Allergen Provocation Test in Starting and Monitoring Allergen Immunotherapy: An Academic Multicentre Clinical Study
@@ -2449,6 +2712,7 @@ Link: https://clinicaltrials.gov/study/NCT04544774
 
 SUMMARY:
 
+
 ## NCT06497881
 Monitoring Post Stroke Upper-Limb Movement in The Wild
 
@@ -2456,6 +2720,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06497881
 
 SUMMARY:
+
 
 ## NCT07262788
 A Feasibility Study of Optimal Non-Pharmacological Lifestyle Modifications in People With Type 2 Diabetes (ON LiMiT)
@@ -2466,6 +2731,7 @@ Link: https://clinicaltrials.gov/study/NCT07262788
 
 SUMMARY:
 
+
 ## NCT07742982
 Efficacy of Topical Tyrosine Versus Topical 5-Fluorouracil With Fractional Erbium YAG Laser in Focal Vitiligo: A Randomised Clinical Trial
 
@@ -2473,6 +2739,7 @@ Intervention: : Tyrosine — to evaluate and compare the therapeutic effects of 
 Link: https://clinicaltrials.gov/study/NCT07742982
 
 SUMMARY:
+
 
 ## NCT06319560
 Hydroxychloroquine as an Adjunct Therapy in the Management of Type 2 Diabetes in Pregnancy: A Randomised Controlled Trial
@@ -2482,6 +2749,7 @@ Link: https://clinicaltrials.gov/study/NCT06319560
 
 SUMMARY:
 
+
 ## NCT02798705
 Physiologic Assessment of Microvascular Function in Patients With Cardiac Amyloidosis: Prospective Registry and Pilot Study
 
@@ -2490,6 +2758,7 @@ Link: https://clinicaltrials.gov/study/NCT02798705
 
 SUMMARY:
 
+
 ## NCT00398177
 Clinical and Pathologic Studies in Non-Hodgkin's Lymphoma and Hodgkin's Disease
 
@@ -2497,6 +2766,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT00398177
 
 SUMMARY:
+
 
 ## NCT06663618
 Comparison of Short-term Glucocorticoid Monotherapy and Short-term Glucocorticoid Combined with Mycophenolate Mofetil in the Treatment of IgG4 Related Disease
@@ -2507,6 +2777,7 @@ Link: https://clinicaltrials.gov/study/NCT06663618
 
 SUMMARY:
 
+
 ## NCT07048990
 The Effects of Empowerment Group Therapy on Ukrainian Adult Outpatients Located Inside the Country During the War
 
@@ -2514,6 +2785,7 @@ Intervention: : Empowerment Group Therapy — Empowerment is a manualized, cultu
 Link: https://clinicaltrials.gov/study/NCT07048990
 
 SUMMARY:
+
 
 ## NCT04214990
 Effect of Low-dose Aspirin for Stomach Cancer Prevention After Endoscopic Resection of Gastric Neoplasm (EASTERN): a Randomized Controlled Trial
@@ -2523,6 +2795,7 @@ Intervention: : Aspirin 100mg — Daily aspirin 100 mg for 5 years
 Link: https://clinicaltrials.gov/study/NCT04214990
 
 SUMMARY:
+
 
 ## NCT06974110
 A Phase 1 Study of MOMA-341 as Monotherapy or Combination Therapy in Participants With Advanced or Metastatic Solid Tumors
@@ -2534,6 +2807,7 @@ Link: https://clinicaltrials.gov/study/NCT06974110
 
 SUMMARY:
 
+
 ## NCT06966323
 Hold me Tight/Let me Go: Effectiveness of a Course to Enhance Parent-adolescent Relationship
 
@@ -2544,6 +2818,7 @@ Link: https://clinicaltrials.gov/study/NCT06966323
 
 SUMMARY:
 
+
 ## NCT07222618
 "Selfie" Videos: A Novel, Patient-centered, Comprehensive Approach to Measuring Function in MS
 
@@ -2551,6 +2826,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07222618
 
 SUMMARY:
+
 
 ## NCT07222735
 Hypofractionated Radiation in Combination With B7-H3-CAR T Cells for Pediatric Patients With Relapsed/Refractory Sarcomas
@@ -2563,6 +2839,7 @@ Link: https://clinicaltrials.gov/study/NCT07222735
 
 SUMMARY:
 
+
 ## NCT04738708
 Telegenetics or In-Person Genetic Counselling: A Comparison of Clinical Outcomes and Cost
 
@@ -2570,6 +2847,7 @@ Intervention: : Patients referred to CGS at NCCS for HBOC or Lynch syndrome pre-
 Link: https://clinicaltrials.gov/study/NCT04738708
 
 SUMMARY:
+
 
 ## NCT06626178
 ARtificial Intelligence for heAlth and Prevention of Smoking-related Diseases
@@ -2586,6 +2864,7 @@ Link: https://clinicaltrials.gov/study/NCT06626178
 
 SUMMARY:
 
+
 ## NCT03758976
 SCAN-B-rec: Infrastructure, Technology Platform and Clinical Research Development to Profile and Monitor Metastatic Breast Cancer
 
@@ -2593,6 +2872,7 @@ Intervention: : Biopsies, blood — We will perform targeted exon sequencing on 
 Link: https://clinicaltrials.gov/study/NCT03758976
 
 SUMMARY:
+
 
 ## NCT06897410
 Reforça't: A Randomized Community Clinical Trial With a Social and Healthcare Approach to Improve Functional Outcomes in Patients With Chronic Cardiac, Respiratory, or Mixed Conditions After Hospital Discharge
@@ -2620,6 +2900,7 @@ Link: https://clinicaltrials.gov/study/NCT06897410
 
 SUMMARY:
 
+
 ## NCT07699159
 Cohort Network for Adolescents and Youth With multipLe Mental Health Conditions (CALM): A Master Observational Trial
 
@@ -2627,6 +2908,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07699159
 
 SUMMARY:
+
 
 ## NCT07081282
 Precision Care Pathway Through Frailty and Cognitive Assessment Among Older Adults and Development of Care4Senior App, Intensive Aerobic Resistance Training and Brain Health Program in the Community
@@ -2637,6 +2919,7 @@ Link: https://clinicaltrials.gov/study/NCT07081282
 
 SUMMARY:
 
+
 ## NCT05616559
 The BrainDrugs-Depression Study: A Prospective Precision Psychiatry Cohort Study in the Treatment of Depression
 
@@ -2644,6 +2927,7 @@ Intervention: : Treatment Package for First-Episode Depression — The outpatien
 Link: https://clinicaltrials.gov/study/NCT05616559
 
 SUMMARY:
+
 
 ## NCT06024759
 Long Term Registry of Patients With Left Ventricular Non-Compaction and Predictors of Adverse Outcomes
@@ -2653,6 +2937,7 @@ Link: https://clinicaltrials.gov/study/NCT06024759
 
 SUMMARY:
 
+
 ## NCT07680803
 A Single Arm, Open Label, Multicenter, Single-dose, Phase 2b Clinical Study Evaluating Efficacy and Safety of Gene Therapy Using Autologous CD34+ Hematopoietic Stem Cells Transduced With the GLOBE Lentiviral Vector Using an Improved Transduction Protocol in Subjects With Transfusion-dependent Beta-thalassemia
 
@@ -2661,6 +2946,7 @@ Link: https://clinicaltrials.gov/study/NCT07680803
 
 SUMMARY:
 
+
 ## NCT07344623
 Factors Associated With Clinical Pregnancy Outcomes in Intrauterine Insemination (IUI) Cycles
 
@@ -2668,6 +2954,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07344623
 
 SUMMARY:
+
 
 ## NCT07114055
 Effect of Ebastine in Patients With Diarrhea Predominant Irritable Bowel Syndrome
@@ -2678,6 +2965,7 @@ Link: https://clinicaltrials.gov/study/NCT07114055
 
 SUMMARY:
 
+
 ## NCT05854615
 An Observational, Practice-Based, Open Label, Feasibility Study to Observe the Efficacy and Safety of Intramuscular Administration of Stempeucel® in Malaysian Patients With Critical Limb Ischemia (CLI) Due to Buerger's Disease
 
@@ -2685,6 +2973,7 @@ Intervention: : Adult human bone marrow derived, cultured, pooled, allogeneic me
 Link: https://clinicaltrials.gov/study/NCT05854615
 
 SUMMARY:
+
 
 ## NCT06641115
 Integrated Treatment for Co-Occurring Opioid Use Disorder and Posttraumatic Stress Disorder
@@ -2694,6 +2983,7 @@ Link: https://clinicaltrials.gov/study/NCT06641115
 
 SUMMARY:
 
+
 ## NCT05485077
 Colorectal Cancer Screening Cohort Study in Shougang Community Population Based on Polygene Methylation Detection Technology
 
@@ -2701,6 +2991,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05485077
 
 SUMMARY:
+
 
 ## NCT07704567
 MOBoxy: MoblO2 to Maintain Oxygenation
@@ -2711,6 +3002,7 @@ Link: https://clinicaltrials.gov/study/NCT07704567
 
 SUMMARY:
 
+
 ## NCT07222852
 Cardiovascular Protection After Preeclampsia With Enalapril
 
@@ -2719,6 +3011,7 @@ Intervention: : Enalapril — First-line anti-hypertensive treatment with enalap
 Link: https://clinicaltrials.gov/study/NCT07222852
 
 SUMMARY:
+
 
 ## NCT03305861
 GreenLight (532nm) LASER (XPS) Enucleation vs. Thulium LASER Enucleation of Prostate for Treatment of Benign Prostatic Hyperplasia
@@ -2729,6 +3022,7 @@ Link: https://clinicaltrials.gov/study/NCT03305861
 
 SUMMARY:
 
+
 ## NCT07188363
 Prospective Follow-up Study of Patients Undergoing Ankle Ligament Surgery
 
@@ -2737,6 +3031,7 @@ Link: https://clinicaltrials.gov/study/NCT07188363
 
 SUMMARY:
 
+
 ## NCT07198503
 Study on Carotenoid-Based Instrumental Index
 
@@ -2744,6 +3039,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07198503
 
 SUMMARY:
+
 
 ## NCT04925479
 A Multi-center, Open-label Study to Determine the Dose and Safety of Oral Asciminib in Pediatric Patients With Philadelphia Chromosome Positive Chronic Myeloid Leukemia in Chronic Phase (Ph+ CML-CP), Previously Treated With One or More Tyrosine Kinase Inhibitors
@@ -2758,6 +3054,7 @@ Link: https://clinicaltrials.gov/study/NCT04925479
 
 SUMMARY:
 
+
 ## NCT04292288
 Hypercalcemia After Paraffin Oil Injection: Aetiology, Pathogenesis and Possible Treatment Options
 
@@ -2765,6 +3062,7 @@ Intervention: : Biochemical observational — no intervention - observational
 Link: https://clinicaltrials.gov/study/NCT04292288
 
 SUMMARY:
+
 
 ## NCT04083417
 A Randomized Controlled Clinical Trial of Streptococcus Group A-negative Acute Tonsillitis in Primary Health Care - a Comparison of Phenoxymethylpenicillin and No Antibiotic Treatment
@@ -2775,6 +3073,7 @@ Link: https://clinicaltrials.gov/study/NCT04083417
 
 SUMMARY:
 
+
 ## NCT07262853
 Examining the Effectiveness of a Dual Executive Function Training Package: Protocol for a Randomised Controlled Trial
 
@@ -2782,6 +3081,7 @@ Intervention: : Executive Function Training — All students will participate in
 Link: https://clinicaltrials.gov/study/NCT07262853
 
 SUMMARY:
+
 
 ## NCT06896695
 Financial Compass: A Pilot Feasibility Study of a Novel Intervention to Identify and Address Financial Hardship Among Cancer Patients
@@ -2794,6 +3094,7 @@ Link: https://clinicaltrials.gov/study/NCT06896695
 
 SUMMARY:
 
+
 ## NCT07112391
 Invasive Hemodynamic Study of Structural Heart Diseases: A Monocentric, Non-Randomized Approach
 
@@ -2801,6 +3102,7 @@ Intervention: : Observational Invasive Hemodynamic Assessment — Collection and
 Link: https://clinicaltrials.gov/study/NCT07112391
 
 SUMMARY:
+
 
 ## NCT06586710
 Interferon Pathway Activation in Monogenic and Non-monogenic Forms of Pediatric SLE With Renal Involvement. Multicenter Observational Study of Biological Samples.
@@ -2812,6 +3114,7 @@ Link: https://clinicaltrials.gov/study/NCT06586710
 
 SUMMARY:
 
+
 ## NCT02778724
 France PCI Registry : National Observatory of Interventional Cardiology
 
@@ -2819,6 +3122,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT02778724
 
 SUMMARY:
+
 
 ## NCT06647940
 Orelabrutinib in Combination with R-CHOP for CD5-positive DLBCL Patients: a Single-arm, Multicenter, Phase II Clinical Trial（Rocket Trial）
@@ -2829,6 +3133,7 @@ Link: https://clinicaltrials.gov/study/NCT06647940
 
 SUMMARY:
 
+
 ## NCT06641310
 Phase 1a/b Trial of Exercise Therapy in Familial Adenomatous Polyp (FAP)
 
@@ -2836,6 +3141,7 @@ Intervention: : Exercise Therapy — Exercise therapy comprising treadmill walki
 Link: https://clinicaltrials.gov/study/NCT06641310
 
 SUMMARY:
+
 
 ## NCT06505187
 Celecoxib Pain Management Following Superficial Parotidectomy: Opioid Sparing Protocol
@@ -2848,6 +3154,7 @@ Link: https://clinicaltrials.gov/study/NCT06505187
 
 SUMMARY:
 
+
 ## NCT06209645
 Non-invasive Analgesic Stimulation of the Patient's Motor Cortex With an Oscillating Electric Current at the Dominant Frequency Recorded by EEG
 
@@ -2856,6 +3163,7 @@ Intervention: : tDCS (Transcranial Direct Current Stimulation) — The tDCS grou
 Link: https://clinicaltrials.gov/study/NCT06209645
 
 SUMMARY:
+
 
 ## NCT06731881
 Leveraging Photodynamic Therapy to Inhibit Microorganisms - Assessing the Efficacy of Photodynamic Therapy for Preventing Surgical Site Infections in Nasal Surgery Patients: A Pilot Study
@@ -2877,6 +3185,7 @@ Link: https://clinicaltrials.gov/study/NCT06731881
 
 SUMMARY:
 
+
 ## NCT06189924
 Proteomic Analysis of Exhaled Breath Condensate in Mechanically Ventilated Intensive Care Patients
 
@@ -2884,6 +3193,7 @@ Intervention: : Proteomic analysis of exhaled breath condensate — Mechanically
 Link: https://clinicaltrials.gov/study/NCT06189924
 
 SUMMARY:
+
 
 ## NCT06106945
 A Modular Phase I/II, Open-label, Multicenter Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Immunogenicity, Pharmacodynamics, and Preliminary Efficacy of AZD0305 as Monotherapy or in Combination With Anticancer Agent(s) in Participants With Multiple Myeloma
@@ -2896,6 +3206,7 @@ Link: https://clinicaltrials.gov/study/NCT06106945
 
 SUMMARY:
 
+
 ## NCT06793072
 Assessment of Adipokine Concentrations and Their Association With the Metabolic Profile of Women With PCOS
 
@@ -2906,6 +3217,7 @@ Link: https://clinicaltrials.gov/study/NCT06793072
 
 SUMMARY:
 
+
 ## NCT07054866
 Rural Autistic Individuals - Supporting Expression
 
@@ -2913,6 +3225,7 @@ Intervention: : Speech-Gesture combinations — this is a pretest, test, posttes
 Link: https://clinicaltrials.gov/study/NCT07054866
 
 SUMMARY:
+
 
 ## NCT06993688
 Revealing Information Genuinely & Honestly Across Time - Communication Preferences Visit (RIGHTimeCPV) Pilot
@@ -2930,6 +3243,7 @@ Link: https://clinicaltrials.gov/study/NCT06993688
 
 SUMMARY:
 
+
 ## NCT07263204
 Precision Diagnosis and Prognostic Prediction of Hypertrophic Cardiomyopathy Using Artificial Intelligence: A Multicenter Study
 
@@ -2938,6 +3252,7 @@ Link: https://clinicaltrials.gov/study/NCT07263204
 
 SUMMARY:
 
+
 ## NCT07000539
 Prospective Single-center Diagnostic Parallel-group Study to Determine the Minimal Dose of Indocyanine Green to Observe Vascular Perfussion in Revisional Bariatric Surgery.
 
@@ -2945,6 +3260,7 @@ Intervention: : Indocyanine Green Angiogram — Three different doses of indocya
 Link: https://clinicaltrials.gov/study/NCT07000539
 
 SUMMARY:
+
 
 ## NCT07263139
 A Phase 2a Trial to Investigate Safety, Tolerability and Exploratory Clinical Efficacy of AGP100 in Patients With Catecholaminergic Polymorphic Ventricular Tachycardia (PACE-CPVT)
@@ -2956,6 +3272,7 @@ Link: https://clinicaltrials.gov/study/NCT07263139
 
 SUMMARY:
 
+
 ## NCT06529185
 Effect of Breather on Ventilatory and Vascular Function in Chronic Obstructive Pulmonary Disease Patients With Intermittent Claudication.
 
@@ -2964,6 +3281,7 @@ Intervention: : The BREATHER — The BREATHER is Light/Medium resistance inspira
 Link: https://clinicaltrials.gov/study/NCT06529185
 
 SUMMARY:
+
 
 ## NCT07724522
 A Placebo Randomized Cross-Over Controlled Trial of Inulin Supplementation to Improve Cardiometabolic, Gut, and Vaginal Microbiome in Perimenopausal Women
@@ -2974,6 +3292,7 @@ Link: https://clinicaltrials.gov/study/NCT07724522
 
 SUMMARY:
 
+
 ## NCT06545331
 A Dose-Escalation and Expansion Study of XB010 as a Single Agent and Combination Therapy in Subjects With Locally Advanced or Metastatic Solid Tumors
 
@@ -2983,6 +3302,7 @@ Link: https://clinicaltrials.gov/study/NCT06545331
 
 SUMMARY:
 
+
 ## NCT06903962
 Mind Body Intervention for Chronic Upper Extremity Pain (Repetitive Stress Injury)
 
@@ -2990,6 +3310,7 @@ Intervention: : Mind-Body Intervention — The mind-body intervention will inclu
 Link: https://clinicaltrials.gov/study/NCT06903962
 
 SUMMARY:
+
 
 ## NCT06535113
 Decoding the Inflammasome Influence on Treatment Response in Acute Myeloid Leukemia
@@ -3001,6 +3322,7 @@ Link: https://clinicaltrials.gov/study/NCT06535113
 
 SUMMARY:
 
+
 ## NCT07694895
 "The Effect of AI-Assisted Mobilization Education on Kinesiophobia and Readiness for Hospital Discharge in Patients Undergoing Total Knee Arthroplasty''
 
@@ -3009,6 +3331,7 @@ Link: https://clinicaltrials.gov/study/NCT07694895
 
 SUMMARY:
 
+
 ## NCT06199401
 Safety and Efficacy of XJ-Procedure in Patients With Acute Type A Aortic Dissection Surgery (ADVANCED-XJ-Ⅱ): A National, Multi-center, Open-label, Randomized, Controlled, Blinded-end Point Trial
 
@@ -3016,6 +3339,7 @@ Intervention: : Vascular Grafts Eversion and Built-in Technique(XJ-Procedure) �
 Link: https://clinicaltrials.gov/study/NCT06199401
 
 SUMMARY:
+
 
 ## NCT06510582
 Chronic Subdural Hematoma Treatment With Avastin® (Bevacizumab) Intra-Arterial Injection: A Non-Randomized, Open-Label Phase 1/2 Clinical Trial
@@ -3026,6 +3350,7 @@ Link: https://clinicaltrials.gov/study/NCT06510582
 
 SUMMARY:
 
+
 ## NCT03425812
 Effects of Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) in Recurrence of Spondyloarthritis (SPA) Patients After Remission：A Multicenter, Randomized, Controlled Study
 
@@ -3034,6 +3359,7 @@ Intervention: : To withdraw NSAIDs therapy — NSAIDs therapy will be withdrew a
 Link: https://clinicaltrials.gov/study/NCT03425812
 
 SUMMARY:
+
 
 ## NCT05635227
 Dexamethasone, Olanzapine, Flow-targeted Versus Pressure-targeted Hemodynamic Management, and Low Tidal Volume Ventilation in Patients Undergoing On-pump Cardiac Surgery - a Multifactorial Design Randomized Trial
@@ -3050,6 +3376,7 @@ Link: https://clinicaltrials.gov/study/NCT05635227
 
 SUMMARY:
 
+
 ## NCT06311890
 Study to Evaluate the Efficacy, Safety and Tolerability of Photodynamic Therapy(PDT) With Chlorin-e6 in Treating Moderate to Severe Acne
 
@@ -3059,6 +3386,7 @@ Link: https://clinicaltrials.gov/study/NCT06311890
 
 SUMMARY:
 
+
 ## NCT06762873
 Assessment of Obstructive Sleep Apnea in the Latin American Population and Response to Neuromodulation Therapy to Treat Obstructive Sleep Apnea
 
@@ -3066,6 +3394,7 @@ Intervention: : Drug Induced Sleep Endoscopy with PNS — Enrolled subjects will
 Link: https://clinicaltrials.gov/study/NCT06762873
 
 SUMMARY:
+
 
 ## NCT06767345
 Comparing the Moderate Intensity STatin With Ezetimibe COmbination TheraPy With High Intensity Statin Monotherapy on Coronary PLAQUE Stabilization
@@ -3076,6 +3405,7 @@ Link: https://clinicaltrials.gov/study/NCT06767345
 
 SUMMARY:
 
+
 ## NCT07249281
 Development of MR Microstructural Imaging Markers for Prostate Cancer Diagnosis and Investigation of the Associated Molecular Mechanisms
 
@@ -3084,6 +3414,7 @@ Link: https://clinicaltrials.gov/study/NCT07249281
 
 SUMMARY:
 
+
 ## NCT06334029
 Observational Study of the Structural-functional Connectome in Patients With Epilepsy
 
@@ -3091,6 +3422,7 @@ Intervention: : Functional and structural Connectome — Reconstruction of EEG d
 Link: https://clinicaltrials.gov/study/NCT06334029
 
 SUMMARY:
+
 
 ## NCT03180320
 Effect of an Exercise-based Cardiac Rehabilitation Program 'Baduanjin-eight-silken-movement With Self-efficacy Building' for Patients With Chronic Heart Failure in Guangzhou, China (BESMILE-HF Study)
@@ -3106,6 +3438,7 @@ Intervention: : BESMILE-HF program — The following activities will be conducte
 Link: https://clinicaltrials.gov/study/NCT03180320
 
 SUMMARY:
+
 
 ## NCT06902272
 A Phase 2 Study of Circulating Tumor DNA to Predict Response to Neoadjuvant Treatment and De-escalation Adjuvant Immunotherapy in Early-Stage NSCLC (DNA-PREDICT)
@@ -3123,6 +3456,7 @@ Link: https://clinicaltrials.gov/study/NCT06902272
 
 SUMMARY:
 
+
 ## NCT04761120
 Annuloplasty Rings and Band Post-Market Clinical Follow-Up (ARB-PMCF) Study
 
@@ -3134,6 +3468,7 @@ Link: https://clinicaltrials.gov/study/NCT04761120
 
 SUMMARY:
 
+
 ## NCT07159919
 The Effect of Insect vs Animal Protein on Post-exercise Skeletal Muscle Anabolic Response and Chronic Adaption to Resistance Training
 
@@ -3143,6 +3478,7 @@ Link: https://clinicaltrials.gov/study/NCT07159919
 
 SUMMARY:
 
+
 ## NCT07385430
 Phase 1 Study of LGW16-03 To Identify Nerves
 
@@ -3151,6 +3487,7 @@ Link: https://clinicaltrials.gov/study/NCT07385430
 
 SUMMARY:
 
+
 ## NCT06866730
 Effect of Intensive Repetitive Motor Training in Toy Manipulation Supported by Gamified Physical Training Software in Children and Adolescents with Neurological Disorders Impacting Motor Skills
 
@@ -3158,6 +3495,7 @@ Intervention: : Serious game — Serious game in which participants manipulate i
 Link: https://clinicaltrials.gov/study/NCT06866730
 
 SUMMARY:
+
 
 ## NCT07124377
 Phenotypic Manifestations of Hereditary ATTR Amyloidosis Val50Met Variant in a Non-endemic Area. Descriptive Study
@@ -3177,6 +3515,7 @@ Link: https://clinicaltrials.gov/study/NCT07124377
 
 SUMMARY:
 
+
 ## NCT03872102
 Quantitative Diagnostics of Parkinsonian Syndromes Using Multi-modal Neuroimaging and Deep Learning
 
@@ -3184,6 +3523,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT03872102
 
 SUMMARY:
+
 
 ## NCT06906679
 Effectiveness of a Robotic End-effector Device for Upper Limb Rehabilitation in People With Parkinson's Disease: a Multicenter Randomized Controlled Pilot Study
@@ -3205,6 +3545,7 @@ Link: https://clinicaltrials.gov/study/NCT06906679
 
 SUMMARY:
 
+
 ## NCT04184479
 Placebo-Controlled, Randomized Weight Loss InterventionTrial in Subjects With Overweight or Obesity in Primary Health Care
 
@@ -3212,6 +3553,7 @@ Intervention: : LEVAmethod by Bertz et al — Ordinary treatment
 Link: https://clinicaltrials.gov/study/NCT04184479
 
 SUMMARY:
+
 
 ## NCT07784192
 Evaluation of Post-operative Pain Management Methods in Patients Undergoing Total Hip Arthroplasty.
@@ -3223,6 +3565,7 @@ Link: https://clinicaltrials.gov/study/NCT07784192
 
 SUMMARY:
 
+
 ## NCT06140927
 Effect of Ketamine on Intraoperative Motor Evoked Potentials
 
@@ -3230,6 +3573,7 @@ Intervention: : Ketamine — Patients will be administered ketamine at increasin
 Link: https://clinicaltrials.gov/study/NCT06140927
 
 SUMMARY:
+
 
 ## NCT07321977
 Assessment of a Portable Digital Device for Quantified Analysis of Markerless Walking in Volunteers With Neuromuscular Diseases or Asymptomatic Volunteers
@@ -3239,6 +3583,7 @@ Link: https://clinicaltrials.gov/study/NCT07321977
 
 SUMMARY:
 
+
 ## NCT04633356
 EUS Guided Portal-systemic Pressure Gradient Measurement in Patients With Chronic Hepatitis.
 
@@ -3246,6 +3591,7 @@ Intervention: : EUS-portal pressure gradient measurement (PPGM) — EUS-guided P
 Link: https://clinicaltrials.gov/study/NCT04633356
 
 SUMMARY:
+
 
 ## NCT06103864
 A Phase III, Open-label, Randomised Study of Datopotamab Deruxtecan (Dato-DXd) With or Without Durvalumab Compared With Investigator's Choice of Chemotherapy (Paclitaxel, Nab-paclitaxel or Gemcitabine + Carboplatin) in Combination With Pembrolizumab in Patients With PD-L1 Positive Locally Recurrent Inoperable or Metastatic Triple-negative Breast Cancer (TROPION-Breast05)
@@ -3261,6 +3607,7 @@ Link: https://clinicaltrials.gov/study/NCT06103864
 
 SUMMARY:
 
+
 ## NCT06667661
 A Home-Based Intervention to Improve Adherence to the 24-Hour Movement Guidelines in Young Children
 
@@ -3268,6 +3615,7 @@ Intervention: : Shining Star mHealth App — The Shining Star mHealth App Interv
 Link: https://clinicaltrials.gov/study/NCT06667661
 
 SUMMARY:
+
 
 ## NCT05862818
 Can Food Timing Reduce Your Diabetes Risk?
@@ -3280,6 +3628,7 @@ Link: https://clinicaltrials.gov/study/NCT05862818
 
 SUMMARY:
 
+
 ## NCT07525960
 A Phase 1b, Open-label Trial to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of NDI-5001 in a Capsule Following Daily Oral Doses to Adult Males With X-linked Congenital Nephrogenic Diabetes Insipidus
 
@@ -3287,6 +3636,7 @@ Intervention: : NDI-5001 — Capsule.
 Link: https://clinicaltrials.gov/study/NCT07525960
 
 SUMMARY:
+
 
 ## NCT06746220
 Effect of Physical Activity and/or Probiotics on Body Composition and Physiological Parameters in Women
@@ -3302,6 +3652,7 @@ Link: https://clinicaltrials.gov/study/NCT06746220
 
 SUMMARY:
 
+
 ## NCT06102109
 Long-term Results of Two Surgical Methods for Scleral IOL Implantation and Fixation in Eyes Without Capsular Support: Yamane- Versus 4-flanged Technique
 
@@ -3313,6 +3664,7 @@ Link: https://clinicaltrials.gov/study/NCT06102109
 
 SUMMARY:
 
+
 ## NCT03889899
 A Safety and Effectiveness Study of Intratumoral Diffusing Alpha Radiation Emitters for the Treatment of Malignant Cutaneous, Mucosal or Superficial Soft Tissue Neoplasia
 
@@ -3320,6 +3672,7 @@ Intervention: : Radiation: Diffusing Alpha Radiation Emitters Therapy (DaRT) —
 Link: https://clinicaltrials.gov/study/NCT03889899
 
 SUMMARY:
+
 
 ## NCT07386522
 Reaching Persons With Spinal Cord Injury With Important Health Information Through a Text-messaging Intervention: Adaptation and Pilot Study
@@ -3330,6 +3683,7 @@ Link: https://clinicaltrials.gov/study/NCT07386522
 
 SUMMARY:
 
+
 ## NCT06629649
 Implementing AI-based Glaucoma Screening Within Federally Qualified Health Centers
 
@@ -3337,6 +3691,7 @@ Intervention: : Glaucoma screening using an AI-algorithm and screening for diabe
 Link: https://clinicaltrials.gov/study/NCT06629649
 
 SUMMARY:
+
 
 ## NCT06120049
 Prospective Head-to-head Comparison of Cardiac [18F]-MFBG PET Versus [123I]-MIBG SPECT in the Differentiation Between Parkinson's Disease and Multiple System Atrophy and Between Dementia With Lewy Bodies and Alzheimer's Disease
@@ -3361,6 +3716,7 @@ Link: https://clinicaltrials.gov/study/NCT06120049
 
 SUMMARY:
 
+
 ## NCT03559569
 Impact of Endothelial and Leukocyte Senescence in Circulatory Shock States
 
@@ -3368,6 +3724,7 @@ Intervention: : Biological samples will be done to evaluate the endothelial and 
 Link: https://clinicaltrials.gov/study/NCT03559569
 
 SUMMARY:
+
 
 ## NCT06828016
 A Randomized Controlled Study of Foot Reflexology for the Management of Chronic Low Back Pain
@@ -3378,6 +3735,7 @@ Link: https://clinicaltrials.gov/study/NCT06828016
 
 SUMMARY:
 
+
 ## NCT06592248
 Evaluation of a New Bi-Condylar Total Knee Prosthesis (TKP) With All-Ceramic Friction
 
@@ -3385,6 +3743,7 @@ Intervention: : Coc Knee — Implementation of a ceramic on ceramic knee prosthe
 Link: https://clinicaltrials.gov/study/NCT06592248
 
 SUMMARY:
+
 
 ## NCT07110116
 Comparison of Effects of Alternate Nostril Breathing Exercise With Incentive Spirometer Technique on Lung Functions Among Asthma Patients
@@ -3395,6 +3754,7 @@ Link: https://clinicaltrials.gov/study/NCT07110116
 
 SUMMARY:
 
+
 ## NCT07223086
 Use of Tinted Contact Lenses for Concussion-Related Light Sensitivity
 
@@ -3404,6 +3764,7 @@ Link: https://clinicaltrials.gov/study/NCT07223086
 
 SUMMARY:
 
+
 ## NCT07803510
 Role of Presurgical Illustration on Patients' Psychological Stress Monitored by Salivary Cortisol in Mandibular Third Molar Surgery
 
@@ -3412,6 +3773,7 @@ Link: https://clinicaltrials.gov/study/NCT07803510
 
 SUMMARY:
 
+
 ## NCT05054413
 Key Elements for Standardized Reporting in Prostate Cancer Management: An Expert Delphi Consensus Study
 
@@ -3419,6 +3781,7 @@ Intervention: : Questionnaire Administration — Complete questionnaires
 Link: https://clinicaltrials.gov/study/NCT05054413
 
 SUMMARY:
+
 
 ## NCT05327062
 CRT-DRIVE: Cardiac Resynchronization Therapy Delivery Guided Non-Invasive Electrical and Venous Anatomy Assessment
@@ -3434,6 +3797,7 @@ Link: https://clinicaltrials.gov/study/NCT05327062
 
 SUMMARY:
 
+
 ## NCT06319456
 A Global Multicenter Open Label Randomized Phase III Confirmatory Study of Lisaftoclax (APG-2575) in Combination With Acalabrutinib vs Immunochemotherapy in Patients With Newly Diagnosed Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma.
 
@@ -3447,6 +3811,7 @@ Link: https://clinicaltrials.gov/study/NCT06319456
 
 SUMMARY:
 
+
 ## NCT06545786
 Intraoperative Diagnosis of Neurocognitive Complications Via Electroencephalographic (IDEA Network)
 
@@ -3454,6 +3819,7 @@ Intervention: : Intraoperative electroencephalography — EEG recording will be 
 Link: https://clinicaltrials.gov/study/NCT06545786
 
 SUMMARY:
+
 
 ## NCT07263490
 PRIOR Study (Pre-eclampsia Risk In Oocyte Recipients) - Investigating Matching, Biomarkers and Outcomes.
@@ -3463,6 +3829,7 @@ Link: https://clinicaltrials.gov/study/NCT07263490
 
 SUMMARY:
 
+
 ## NCT06761196
 Assessing Quality of Life After Breast Cancer Surgery: a Prospective Cohort Study
 
@@ -3470,6 +3837,7 @@ Intervention: : Questionnaire — The quality of life measured with different sc
 Link: https://clinicaltrials.gov/study/NCT06761196
 
 SUMMARY:
+
 
 ## NCT07072351
 A Phase Ib/II Study of Hypofractionated Radiotherapy Combined With Immunochemotherapy as Conversion Therapy for Locally Advanced Gastroesophageal Junction Adenocarcinoma
@@ -3481,6 +3849,7 @@ Link: https://clinicaltrials.gov/study/NCT07072351
 
 SUMMARY:
 
+
 ## NCT07125417
 Non-Antithrombotic Versus. Single antiPlatelet Therapy Following Left Atrial Appendage Closure：NAPT-LAAC Randomized Controlled Trial
 
@@ -3490,6 +3859,7 @@ Link: https://clinicaltrials.gov/study/NCT07125417
 
 SUMMARY:
 
+
 ## NCT02346396
 Non-invasive Analgesic Stimulation of the Motor Cortex at Home
 
@@ -3497,6 +3867,7 @@ Intervention: : tDCS (use at home) — During 4 weeks (every week : 20 minutes /
 Link: https://clinicaltrials.gov/study/NCT02346396
 
 SUMMARY:
+
 
 ## NCT04192422
 Glucose Control and Metabolic Adaptation in Offspring of Women With Gestational Diabetes Recruited to the DiGest Study
@@ -3506,6 +3877,7 @@ Link: https://clinicaltrials.gov/study/NCT04192422
 
 SUMMARY:
 
+
 ## NCT02923973
 Transvaginal Ultrasound Cervical Length Screening in Singleton Pregnancy With Prior Spontaneous Preterm Birth
 
@@ -3513,6 +3885,7 @@ Intervention: : Transvaginal ultrasound cervical length screening — Serial tra
 Link: https://clinicaltrials.gov/study/NCT02923973
 
 SUMMARY:
+
 
 ## NCT07348640
 A Prospective, Multi-National, Randomized, Double-Blind, Crossover Study to Evaluate the Efficacy and Safety of Gadopiclenol-enhanced MRA Compared to Gadoterate Meglumine-enhanced MRA in the Assessment of Steno-occlusive Disease in Adult Patients With Suspected Vascular Disease
@@ -3523,6 +3896,7 @@ Link: https://clinicaltrials.gov/study/NCT07348640
 
 SUMMARY:
 
+
 ## NCT05064540
 JAGUAR Trial: ObJective Analysis to GaUge EVAR Outcomes Through Randomization
 
@@ -3532,6 +3906,7 @@ Link: https://clinicaltrials.gov/study/NCT05064540
 
 SUMMARY:
 
+
 ## NCT07177391
 Discontinuous Echocardiographic Subcostal Cardiac Output Measurement by the Right Ventricular Outflow Tract in Critical Care
 
@@ -3539,6 +3914,7 @@ Intervention: : Discontinuous subcostal echocardiographic cardiac output assessm
 Link: https://clinicaltrials.gov/study/NCT07177391
 
 SUMMARY:
+
 
 ## NCT07000656
 Prospective Evaluation of Micturition Desire-Relaxation Training Device for Treating Lower Urinary Tract Dysfunction in Children: A Randomized Controlled Pilot Study
@@ -3549,6 +3925,7 @@ Link: https://clinicaltrials.gov/study/NCT07000656
 
 SUMMARY:
 
+
 ## NCT07808177
 An Exploratory Clinical Study to Evaluate the Safety, Tolerability and Biodistribution Characteristics of 177 Lu FAP VG11 Injection in Patients With Advanced Solid Tumours
 
@@ -3556,6 +3933,7 @@ Intervention: : 177Lu-FAP-VG11 — Patients will receive 177Lu-FAP-VG11 administ
 Link: https://clinicaltrials.gov/study/NCT07808177
 
 SUMMARY:
+
 
 ## NCT05035342
 Fecal Transplantation to Eradicate Colonizing Emergent Superbugs
@@ -3565,6 +3943,7 @@ Intervention: : Fecal Microbiota Transplantation (FMT) capsules — Donated feca
 Link: https://clinicaltrials.gov/study/NCT05035342
 
 SUMMARY:
+
 
 ## NCT07522957
 Effect of I-gel and Air-Q SP LMAs on Oropharyngeal Leak Pressure and Gastric Insufflation in Children: An Ultrasonography-Guided Randomized Study
@@ -3579,6 +3958,7 @@ Link: https://clinicaltrials.gov/study/NCT07522957
 
 SUMMARY:
 
+
 ## NCT07637578
 A Phase II, Nonrandomized, Single-Arm Study of Elranatamab Outpatient Administration in Patients With Relapsed/Refractory Multiple Myeloma (CORE-MM)
 
@@ -3587,6 +3967,7 @@ Intervention: : Elranatamab — Elranatamab will be administered subcutaneously 
 Link: https://clinicaltrials.gov/study/NCT07637578
 
 SUMMARY:
+
 
 ## NCT06328686
 Arginine With Whole Brain Radiation Therapy for the Treatment of Brain Metastases
@@ -3601,6 +3982,7 @@ Link: https://clinicaltrials.gov/study/NCT06328686
 
 SUMMARY:
 
+
 ## NCT07120178
 Imaging and Evolution of Pigmented Tumors of the Anterior Ocular System in Children
 
@@ -3611,6 +3993,7 @@ Link: https://clinicaltrials.gov/study/NCT07120178
 
 SUMMARY:
 
+
 ## NCT07284485
 A Phase 2 Trial of Nadunolimab for Current or Former Smokers With High-risk Lung Nodules.
 
@@ -3619,6 +4002,7 @@ Link: https://clinicaltrials.gov/study/NCT07284485
 
 SUMMARY:
 
+
 ## NCT06462378
 Proton Therapy in Locally Advanced Cervical Cancer in Combination With Concomitant Chemotherapy and Brachytherapy
 
@@ -3626,6 +4010,7 @@ Intervention: : Proton therapy — External beam proton therapy combined with st
 Link: https://clinicaltrials.gov/study/NCT06462378
 
 SUMMARY:
+
 
 ## NCT06742788
 The Feasibility of Transcutaneous Auricular Vagus Nerve Stimulation on Pregnancy Outcomes of Infertility Patients Undergoing in Vitro Fertilization: Study Protocol for a Pilot Randomized Controlled Trial
@@ -3640,6 +4025,7 @@ Link: https://clinicaltrials.gov/study/NCT06742788
 
 SUMMARY:
 
+
 ## NCT07092943
 A Comparison of Driving Pressure Guided Mechanical Ventilation With Lung Protective Ventilation Among Patients Presenting for Elective Surgeries at a Tertiary Care Hospital; A Randomized Control Trial
 
@@ -3649,6 +4035,7 @@ Link: https://clinicaltrials.gov/study/NCT07092943
 
 SUMMARY:
 
+
 ## NCT05719935
 The KinematX Midcarpal Total Wrist Arthroplasty: A Multicenter Prospective Registry of Clinical and Patient-Reported Outcomes
 
@@ -3656,6 +4043,7 @@ Intervention: : KinematX total wrist arthroplasty system — The KinematX total 
 Link: https://clinicaltrials.gov/study/NCT05719935
 
 SUMMARY:
+
 
 ## NCT04074135
 Evaluation of the Natural History and Management of Von Hippel-Lindau (VHL) Associated Pancreatic Neuroendocrine Tumors
@@ -3665,6 +4053,7 @@ Link: https://clinicaltrials.gov/study/NCT04074135
 
 SUMMARY:
 
+
 ## NCT07264634
 A Study to Assess the Amount of Palopegteriparatide in Breast Milk of Lactating Females Requiring YORVIPATH® (Palopegteriparatide)
 
@@ -3672,6 +4061,7 @@ Intervention: : Palopegteriparatide — Palopegteriparatide prescribed as per no
 Link: https://clinicaltrials.gov/study/NCT07264634
 
 SUMMARY:
+
 
 ## NCT07632820
 Ultrasound-guided Erector Spinae Plane (ESP) Block Versus Trigger Point Injection (TPI) for Chronic Thoracic Myofascial Pain: A Randomized Controlled Trial
@@ -3682,6 +4072,7 @@ Link: https://clinicaltrials.gov/study/NCT07632820
 
 SUMMARY:
 
+
 ## NCT07499791
 A Prospective, Multicenter, Randomized Controlled Trial of an Absorbable Drug-Eluting Lacrimal Sac Stent in Recurrent Chronic Dacryocystitis Undergoing Endoscopic Endonasal Dacryocystorhinostomy
 
@@ -3690,6 +4081,7 @@ Intervention: : Absorbable Lacrimal Sac Drug-Eluting Stent — During E-DCR, the
 Link: https://clinicaltrials.gov/study/NCT07499791
 
 SUMMARY:
+
 
 ## NCT06963125
 The Effects of Different Doses of Prune Juice on Bowel Movement Patterns, Constipation Symptoms, and Quality of Life Among Older Adults in Long-Term Care Facilities
@@ -3700,6 +4092,7 @@ Intervention: : Low-Dose Prune Juice — Intervention Name: Prune Juice 100 mL/d
 Link: https://clinicaltrials.gov/study/NCT06963125
 
 SUMMARY:
+
 
 ## NCT04506008
 Prospective Observational Trial of Two Neoadjuvant Hypofractionated Radiotherapy Regimens Followed by Surgical Resection in the Treatment of Soft Tissue Sarcomas
@@ -3712,6 +4105,7 @@ Link: https://clinicaltrials.gov/study/NCT04506008
 
 SUMMARY:
 
+
 ## NCT05104710
 Intermuscular Coherence: A Biomarker for Early Diagnosis and Follow-up of ALS
 
@@ -3719,6 +4113,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05104710
 
 SUMMARY:
+
 
 ## NCT05165095
 Clinical Assessment of Essential Remote Monitoring Functions in Pacemakers
@@ -3728,6 +4123,7 @@ Link: https://clinicaltrials.gov/study/NCT05165095
 
 SUMMARY:
 
+
 ## NCT04905160
 Care cOordination Using Mobile Technology to Enhance Patient Empowerment in Acute Comorbidities to aSSess Improvement in Outcomes in Hospital readmissioNs
 
@@ -3736,6 +4132,7 @@ Link: https://clinicaltrials.gov/study/NCT04905160
 
 SUMMARY:
 
+
 ## NCT00722527
 Molecular Biology of Polycythemia and Thrombocytosis
 
@@ -3743,6 +4140,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT00722527
 
 SUMMARY:
+
 
 ## NCT06072482
 A Randomized, Double-blind, Placebo-controlled Phase 4 Clinical Trial to Evaluate the Long-term Safety and Efficacy of Avacopan in Participants With Antineutrophil Cytoplasmic Antibody (ANCA)-Associated Vasculitis
@@ -3754,6 +4152,7 @@ Link: https://clinicaltrials.gov/study/NCT06072482
 
 SUMMARY:
 
+
 ## NCT05650229
 An Interventional, Randomised, Double-blind, Parallel-group, Placebo-controlled, Flexible-dose, Adaptive Study of the Efficacy of KL1333 in Adult Patients With Primary Mitochondrial Disease
 
@@ -3762,6 +4161,7 @@ Intervention: : KL1333 — Twice daily
 Link: https://clinicaltrials.gov/study/NCT05650229
 
 SUMMARY:
+
 
 ## NCT05708755
 Cytomegalovirus T Cell Immunity and Antiviral Prophylaxis Minimization in Lung Transplant Recipients
@@ -3773,6 +4173,7 @@ Link: https://clinicaltrials.gov/study/NCT05708755
 
 SUMMARY:
 
+
 ## NCT07726082
 Micro-choice-based Intervention for Multicausal Fatigue: Proof of Concept Study
 
@@ -3781,6 +4182,7 @@ Link: https://clinicaltrials.gov/study/NCT07726082
 
 SUMMARY:
 
+
 ## NCT06271577
 Smartphone Twelve-Lead ECG Utility In ST-Elevation Myocardial Infarction II (STLEUISII)
 
@@ -3788,6 +4190,7 @@ Intervention: : AliveCor 12-lead ECG — The primary objective of this study is 
 Link: https://clinicaltrials.gov/study/NCT06271577
 
 SUMMARY:
+
 
 ## NCT04624373
 Molecular Analysis of the Surnantant of Echoguidated Bronchoscopic Cytopunctions in Lung Cancer
@@ -3803,6 +4206,7 @@ Link: https://clinicaltrials.gov/study/NCT04624373
 
 SUMMARY:
 
+
 ## NCT05721378
 (Cost-)effectiveness of Permissive Weight Bearing in Surgically Treated Trauma Patients with Displaced Intra-Articular Calcaneal Fractures: a Multicenter, Randomized Controlled Trial
 
@@ -3811,6 +4215,7 @@ Intervention: : Permissive Weight Bearing group — The Permissive Weight Bearin
 Link: https://clinicaltrials.gov/study/NCT05721378
 
 SUMMARY:
+
 
 ## NCT07356635
 Investigating Cardiovascular Reactivity and Recovery of Young Adults During Grief-Recall, With Self-Affirmation as Potential Intervention
@@ -3822,6 +4227,7 @@ Link: https://clinicaltrials.gov/study/NCT07356635
 
 SUMMARY:
 
+
 ## NCT07265284
 A Phase Ⅰ/Ⅲ Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Picankibart in Adolescent Patients With Moderate to Severe Plaque Psoriasis
 
@@ -3831,6 +4237,7 @@ Link: https://clinicaltrials.gov/study/NCT07265284
 
 SUMMARY:
 
+
 ## NCT06192940
 Impact of Smart Connected Insulin Pens on Quality of Life in Dependent Patients with Diabetes Using Continuous Glucose Measurement
 
@@ -3838,6 +4245,7 @@ Intervention: : Counseling home caregivers — Advice on the proper use of insul
 Link: https://clinicaltrials.gov/study/NCT06192940
 
 SUMMARY:
+
 
 ## NCT06889168
 A Phase 1, Randomized, Double-blinded, Placebo Controlled, Trial Evaluating the Long-term Safety and Tolerability of Imatinib for the Treatment of Lymphangioleiomyomatosis [LAMP-2 Trial]
@@ -3848,6 +4256,7 @@ Link: https://clinicaltrials.gov/study/NCT06889168
 
 SUMMARY:
 
+
 ## NCT03275480
 Institut Paoli Calmettes Myelodysplastic Syndromes Database
 
@@ -3856,6 +4265,7 @@ Link: https://clinicaltrials.gov/study/NCT03275480
 
 SUMMARY:
 
+
 ## NCT05284877
 The Organ Transplant Recipient HPV and Skin Cancer Study
 
@@ -3863,6 +4273,7 @@ Intervention: : No intervention — The study is an observational study without 
 Link: https://clinicaltrials.gov/study/NCT05284877
 
 SUMMARY:
+
 
 ## NCT07018050
 A Multicenter, Open-Label Phase II Study to Evaluate QLS32015 Combination Therapy in the Treatment of Multiple Myeloma
@@ -3877,6 +4288,7 @@ Link: https://clinicaltrials.gov/study/NCT07018050
 
 SUMMARY:
 
+
 ## NCT06941441
 Remotely-Monitored Exercise to Enhance Functional Outcomes in Patients With Pulmonary Arterial Hypertension (PAH) Initiating Sotatercept Therapy: A Single-site Feasibility Study
 
@@ -3884,6 +4296,7 @@ Intervention: : Home exercise program — A tailored, progressive home exercise 
 Link: https://clinicaltrials.gov/study/NCT06941441
 
 SUMMARY:
+
 
 ## NCT07375316
 A ctDNA-guided Phase II Trial of Osimertinib in Combination With Sacituzumab Tirumotecan in EGFR-mutated Advanced NSCLC Patients With Positvie ctDNA After lead-in Osimertinib Monotherapy
@@ -3893,6 +4306,7 @@ Intervention: : Osimertinib + Sacituzumab Tirumotecan — Osimertinib (80mg QD) 
 Link: https://clinicaltrials.gov/study/NCT07375316
 
 SUMMARY:
+
 
 ## NCT05513872
 A Mechanistic Test of Treatment Strategies to Foster Practice Quitting
@@ -3904,6 +4318,7 @@ Link: https://clinicaltrials.gov/study/NCT05513872
 
 SUMMARY:
 
+
 ## NCT02961413
 A Multi-center, Prospective, Non-interventional Cohort Study on Drug Induced Liver Injury in Mainland China
 
@@ -3912,6 +4327,7 @@ Link: https://clinicaltrials.gov/study/NCT02961413
 
 SUMMARY:
 
+
 ## NCT07634081
 Use of SDS/EDTA-Treated Chromatography Strips for Sampling, Transportation and Laboratory Confirmation of Mpox Virus Infection
 
@@ -3919,6 +4335,7 @@ Intervention: : SDS-EDTA-treated chromatography strip — Chromatography strip t
 Link: https://clinicaltrials.gov/study/NCT07634081
 
 SUMMARY:
+
 
 ## NCT07633730
 Efficacy of the Erector Spinae Plane Block for Persistent Back Pain in Patients With Ankylosing Spondylitis
@@ -3930,6 +4347,7 @@ Link: https://clinicaltrials.gov/study/NCT07633730
 
 SUMMARY:
 
+
 ## NCT07375758
 A Phase I/II, Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of MIL116 in Healthy Participants and Patients With IgA Nephropathy
 
@@ -3939,6 +4357,7 @@ Link: https://clinicaltrials.gov/study/NCT07375758
 
 SUMMARY:
 
+
 ## NCT07634523
 The Effect of BCAA on Sarcopenia in Total Knee Arthroplasty Patients: A Multi-center, Randomized Controlled Trial
 
@@ -3946,6 +4365,7 @@ Intervention: : Livact Granule — Livact granules 4.15 g are administered orall
 Link: https://clinicaltrials.gov/study/NCT07634523
 
 SUMMARY:
+
 
 ## NCT06517641
 A Phase II Trial of Non-Myeloablative Conditioning and Transplantation of Haploidentical Related, Partially HLA-Mismatched, or Matched Unrelated Bone Marrow for Newly Diagnosed Patients With Severe Aplastic Anemia
@@ -3986,6 +4406,7 @@ Link: https://clinicaltrials.gov/study/NCT06517641
 
 SUMMARY:
 
+
 ## NCT06760169
 Efficacy and Safety of the ELIOS Laser in Combined Cataract and Glaucoma Surgery
 
@@ -3993,6 +4414,7 @@ Intervention: : Surgery with ELIOS laser — This surgery involves visualizing t
 Link: https://clinicaltrials.gov/study/NCT06760169
 
 SUMMARY:
+
 
 ## NCT07430553
 Randomised Investigation of Physiological, Conventional and Optimised Resynchronisation Therapy in Heart Failure With Prolonged QRS Duration (RIPCORD-CRT)
@@ -4003,6 +4425,7 @@ Intervention: : Biventricular pacing — Cardiac resynchronisation therapy with 
 Link: https://clinicaltrials.gov/study/NCT07430553
 
 SUMMARY:
+
 
 ## NCT06201065
 Hepatic Arterial Infusion of Oxaliplatin, Fluorouracil, and Leucovorin Plus Lenvatinib and Toripalimab Versus Hepatic Arterial Infusion of Oxaliplatin, Fluorouracil, and Leucovorin Plus Lenvatinib for Advanced Hepatocellular Carcinoma: a Phase 3, Randomized Controlled and Double-blind Trial
@@ -4015,6 +4438,7 @@ Link: https://clinicaltrials.gov/study/NCT06201065
 
 SUMMARY:
 
+
 ## NCT04289467
 A Phase II Study of Fenfluramine for Treatment of Refractory Infantile Spasms
 
@@ -4022,6 +4446,7 @@ Intervention: : Fenfluramine — Open-label
 Link: https://clinicaltrials.gov/study/NCT04289467
 
 SUMMARY:
+
 
 ## NCT07635160
 Prospective Observational Evaluation of Renal Perfusion Using Doppler Ultrasonography and Near-Infrared Spectroscopy in Patients Undergoing Elective Minimally Invasive Abdominal Surgery
@@ -4031,6 +4456,7 @@ Link: https://clinicaltrials.gov/study/NCT07635160
 
 SUMMARY:
 
+
 ## NCT07370337
 Phase II, Single-Arm, Multicenter Clinical Study of Induction Chemotherapy Combined With Tislelizumab as Neoadjuvant Therapy for Locally Advanced Squamous Cell Carcinoma of the External Auditory Canal
 
@@ -4038,6 +4464,7 @@ Intervention: : Tislelizumab — Eligible patients will receive 2-3 cycles of ne
 Link: https://clinicaltrials.gov/study/NCT07370337
 
 SUMMARY:
+
 
 ## NCT07408193
 The Role of Coadministration of Lidocaine and Ketamine in Opioid-Refractory Chronic Cancer-Related Pain: a Randomized, Double-Blinded, Placebo-Controlled, Cross-Over Trial.
@@ -4048,6 +4475,7 @@ Link: https://clinicaltrials.gov/study/NCT07408193
 
 SUMMARY:
 
+
 ## NCT07594821
 MeDe Study: A Randomized Controlled Trial Comparing Median Nerve Decompression at the Carpal Tunnel Alone Versus Median Nerve Decompression at Both the Carpal Tunnel and Lacertus Fibrosis in Adults With Carpal Tunnel Syndrome
 
@@ -4057,6 +4485,7 @@ Link: https://clinicaltrials.gov/study/NCT07594821
 
 SUMMARY:
 
+
 ## NCT06567145
 Assessing the Effectiveness and Feasibility of Group-based Treatment for Self-stigma in People With Mental Disorders: a Pragmatic Multisite Randomized Controlled Trial in Routine Mental Health Services in North-east Italy
 
@@ -4064,6 +4493,7 @@ Intervention: : Narrative Enhancement Cognitive Therapy (NECT) — The Narrative
 Link: https://clinicaltrials.gov/study/NCT06567145
 
 SUMMARY:
+
 
 ## NCT02817360
 NT-proBNP Selected PreventiOn of Cardiac eveNts in a populaTion of dIabetic Patients Without A History of Cardiac Disease: a Prospective Randomized Trial
@@ -4074,6 +4504,7 @@ Link: https://clinicaltrials.gov/study/NCT02817360
 
 SUMMARY:
 
+
 ## NCT05103345
 A Phase I/IIa, Open-label, Dose Escalation and Dose-Expansion Study to Evaluate the Safety and Tolerability of Modified Salmonella Typhimurium SGN1 Administered Via Intratumoral Injection in Patients With Advanced Solid Tumors
 
@@ -4081,6 +4512,7 @@ Intervention: : SGN1 — SGN1,will be administered intratumorally,which dosage i
 Link: https://clinicaltrials.gov/study/NCT05103345
 
 SUMMARY:
+
 
 ## NCT07660965
 The Effect of Podcast Breastfeeding Training on Breastfeeding Outcomes of Mothers of Preterm Infants Hospitalized in the Neonatal Intensive Care Unit (NICU): A Randomized Controlled Study
@@ -4090,6 +4522,7 @@ Link: https://clinicaltrials.gov/study/NCT07660965
 
 SUMMARY:
 
+
 ## NCT07635784
 Creation Of a Prospective Registry For Hemorrhoid Artery Embolization At The Joint & Vascular Institute
 
@@ -4097,6 +4530,7 @@ Intervention: : Hemorrhoid Artery Embolization — Hemorrhoidal Artery Embolizat
 Link: https://clinicaltrials.gov/study/NCT07635784
 
 SUMMARY:
+
 
 ## NCT07387328
 Validation of New sEMG Electrode Placement Guidelines for the Triceps Surae in Post-stroke Individuals
@@ -4106,6 +4540,7 @@ Link: https://clinicaltrials.gov/study/NCT07387328
 
 SUMMARY:
 
+
 ## NCT07376655
 Effect of the Thrive AI Health App on Lifestyle Behaviors and Quality of Life
 
@@ -4114,6 +4549,7 @@ Link: https://clinicaltrials.gov/study/NCT07376655
 
 SUMMARY:
 
+
 ## NCT07285941
 Efficacy and Safety of Distamab Vedotin Combined With Carboplatin for Advanced Ovarian Cancer in the First Line Treatment
 
@@ -4121,6 +4557,7 @@ Intervention: : RC48 + Carboplatin — RC48, 2.5 mg/kg, on day 1, every 3 weeks;
 Link: https://clinicaltrials.gov/study/NCT07285941
 
 SUMMARY:
+
 
 ## NCT05387005
 Identification of the Optimal Screening Strategy for Gastric Cancer Prevention
@@ -4133,6 +4570,7 @@ Link: https://clinicaltrials.gov/study/NCT05387005
 
 SUMMARY:
 
+
 ## NCT01166009
 Protocol For A Research Database For Hematopoietic Stem Cell Transplantation, Other Cellular Therapies and Marrow Toxic Injuries
 
@@ -4140,6 +4578,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT01166009
 
 SUMMARY:
+
 
 ## NCT07637773
 Efficacy and Mechanisms of Personalized tACS Targeting Anhedonia in Late-Life Depression
@@ -4150,6 +4589,7 @@ Link: https://clinicaltrials.gov/study/NCT07637773
 
 SUMMARY:
 
+
 ## NCT05913063
 Direct Discrimination of Quantum States by the Human Eye With Macular Degeneration
 
@@ -4157,6 +4597,7 @@ Intervention: : Structured Light Imaging Microscopy — Conducting the psychophy
 Link: https://clinicaltrials.gov/study/NCT05913063
 
 SUMMARY:
+
 
 ## NCT06532994
 Development and Validation of a Prediction Algorithms to Estimate the Clinical Effect of Early Rehabilitation on ICU Survivors Received Mechanical Ventilation in the ICU
@@ -4166,6 +4607,7 @@ Link: https://clinicaltrials.gov/study/NCT06532994
 
 SUMMARY:
 
+
 ## NCT05893966
 Prospective Cohort for Tumor Bed Boost Radiotherapy in HER2 Positive Breast Cancer
 
@@ -4173,6 +4615,7 @@ Intervention: : Whole breast irradiation +/- tumor bed boost — Postoperative w
 Link: https://clinicaltrials.gov/study/NCT05893966
 
 SUMMARY:
+
 
 ## NCT06875622
 Comparison of Behaviorally-Based Remote Approaches to Optimize Weight Loss and Identification of Factors Which Characterize Treatment Response
@@ -4184,6 +4627,7 @@ Link: https://clinicaltrials.gov/study/NCT06875622
 
 SUMMARY:
 
+
 ## NCT07690163
 Evaluation of Continuous Glucose Monitoring Systems for Optimizing Glycemic Control in Patients With Newly Diagnosed Type 2 Diabetes: A Postmarketing Clinical Analysis
 
@@ -4193,6 +4637,7 @@ Link: https://clinicaltrials.gov/study/NCT07690163
 
 SUMMARY:
 
+
 ## NCT07638319
 Assessment of Safety and Performance of Neobone®: A Prospective Observational Study in the Field of Dentistry
 
@@ -4201,6 +4646,7 @@ Link: https://clinicaltrials.gov/study/NCT07638319
 
 SUMMARY:
 
+
 ## NCT07378254
 Co-Producing a Trauma and Substance Use Mental Health Literacy Intervention
 
@@ -4208,6 +4654,7 @@ Intervention: : Finding Emotional Empowerment and Lifelong Strength — A group-
 Link: https://clinicaltrials.gov/study/NCT07378254
 
 SUMMARY:
+
 
 ## NCT07640425
 A Phase 1/2, Multicenter, Dose Escalating, Dose Expanding, Adaptive Study to Assess Safety, Tolerability, Efficacy and Pharmacokinetics of Collagenase CNT201 in Adult Participants With Dupuytren's Contracture
@@ -4230,6 +4677,7 @@ Link: https://clinicaltrials.gov/study/NCT07640425
 
 SUMMARY:
 
+
 ## NCT07013929
 Spyral InSight Early Clinical Feasibility Study
 
@@ -4238,6 +4686,7 @@ Link: https://clinicaltrials.gov/study/NCT07013929
 
 SUMMARY:
 
+
 ## NCT03849430
 Longitudinal Analysis of the Health-related Quality of Life in Glioma Patients and Setting Up a Large-scale, Prospective Database for Glioma Patients Treated in UZ Leuven
 
@@ -4245,6 +4694,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT03849430
 
 SUMMARY:
+
 
 ## NCT07378423
 Questionnaire on Congenital Cancer Signs Through Self-Assessment (QUOCCAS)
@@ -4257,6 +4707,7 @@ Link: https://clinicaltrials.gov/study/NCT07378423
 
 SUMMARY:
 
+
 ## NCT07522931
 Systematic Anatomical Description of the Female Pelvic Retroperitoneum in Cadavers: A Descriptive Study for Gynecologic Surgery
 
@@ -4264,6 +4715,7 @@ Intervention: : Anatomical Dissection — Standardized pelvic retroperitoneal di
 Link: https://clinicaltrials.gov/study/NCT07522931
 
 SUMMARY:
+
 
 ## NCT06787937
 Communicating About Nicotine and Differential Risks of Tobacco Products in Priority Populations
@@ -4274,6 +4726,7 @@ Link: https://clinicaltrials.gov/study/NCT06787937
 
 SUMMARY:
 
+
 ## NCT07640555
 Evaluation of [¹⁸F]MODAG-009 PET Imaging in Synucleinopathies
 
@@ -4281,6 +4734,7 @@ Intervention: : [¹⁸F]MODAG-009 PET imaging — Participants enrolled in the s
 Link: https://clinicaltrials.gov/study/NCT07640555
 
 SUMMARY:
+
 
 ## NCT06783114
 A Clinical Study to Evaluate the Efficacy and Safety of Recombinant Botulinum Toxin Type A (YY001) for Injection in The Treatment of Upper Limb Spasticity in Adults (REHAB-1)
@@ -4292,6 +4746,7 @@ Link: https://clinicaltrials.gov/study/NCT06783114
 
 SUMMARY:
 
+
 ## NCT07350837
 An Early-Phase Study of AZD0120 (Also Known as GC012F), a Chimeric Antigen Receptor-T Cell (CAR-T) Therapy Targeting CD19 and B Cell Maturation Antigen (BCMA), for Desensitization in Highly Sensitized Participants With End Stage Kidney Disease Awaiting Kidney Transplant
 
@@ -4299,6 +4754,7 @@ Intervention: : AZD0120 — Treatment duration: A single dose of AZD0120 via IV 
 Link: https://clinicaltrials.gov/study/NCT07350837
 
 SUMMARY:
+
 
 ## NCT04787744
 Veterans Affairs Seamless Phase II/III Randomized Trial of STAndard Systemic theRapy With or Without PET-directed Local Therapy for OligoRecurrenT Prostate Cancer (VA STARPORT)
@@ -4330,6 +4786,7 @@ Link: https://clinicaltrials.gov/study/NCT04787744
 
 SUMMARY:
 
+
 ## NCT07641933
 Biological, Radiographic and Clinical Evaluation of Various Inter-Visit Root Canal Dressings in Retreatment Cases: A Randomized Controlled Clinical Trial
 
@@ -4340,6 +4797,7 @@ Link: https://clinicaltrials.gov/study/NCT07641933
 
 SUMMARY:
 
+
 ## NCT07378670
 Robot-assisted vs. Open Inguinal Lymphadenectomy for Penile Cancer - a Prospective Randomized Trial With a Supporting Translational Program
 
@@ -4349,6 +4807,7 @@ Link: https://clinicaltrials.gov/study/NCT07378670
 
 SUMMARY:
 
+
 ## NCT07649317
 Ketoconazole Effects on Cortisol Circadian Rhythm in Mild Autonomous Cortisol Secretion: A Pilot Study
 
@@ -4356,6 +4815,7 @@ Intervention: : Ketoconazole — Antifungal medication that blocks adrenal stero
 Link: https://clinicaltrials.gov/study/NCT07649317
 
 SUMMARY:
+
 
 ## NCT06615271
 Pressure Injuries in the Operating Room and Their Perioperative Incidence in Patients Undergoing Neurosurgery.
@@ -4365,6 +4825,7 @@ Link: https://clinicaltrials.gov/study/NCT06615271
 
 SUMMARY:
 
+
 ## NCT07379099
 Implementation of the Personalized Care Plan (PCP) Proposed at the End of Step 2 of the ICOPE Program : Description of the Procedures for Negotiating the PCP With the Patient, the Procedures for Implementing the PCP in a Multi-professional Setting, and Implementation of the PCP at 1 Year
 
@@ -4372,6 +4833,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07379099
 
 SUMMARY:
+
 
 ## NCT07175935
 A Prospective, Multicenter Registry Study of Amyotrophic Lateral Sclerosis in Thailand
@@ -4381,6 +4843,7 @@ Link: https://clinicaltrials.gov/study/NCT07175935
 
 SUMMARY:
 
+
 ## NCT01731444
 Phenylephrine Tumescence for Hemostasis in Surgery for Burn Injury - A Randomized Control Trial
 
@@ -4388,6 +4851,7 @@ Intervention: : Phenylephrine
 Link: https://clinicaltrials.gov/study/NCT01731444
 
 SUMMARY:
+
 
 ## NCT07642154
 Comparison Between Lower Limb Sensorimotor Training and Whole-Body Vibration Therapy on Postural Stability, Dynamic Balance and Fear of Fall in Post Stroke Patients.
@@ -4442,6 +4906,7 @@ Link: https://clinicaltrials.gov/study/NCT07642154
 
 SUMMARY:
 
+
 ## NCT07187609
 Clinical and Radiographic Evaluation of Zinc Incorporated Bovine Derived- Hydroxyappatite Xenograft in Immediately Placed Implant: A Randomized Clinical Study
 
@@ -4450,6 +4915,7 @@ Intervention: : Immediate implant with bovine drived hydroxyapatite xenograft. �
 Link: https://clinicaltrials.gov/study/NCT07187609
 
 SUMMARY:
+
 
 ## NCT05868863
 Percutaneous Cementoplasty With or Without Screw Fixation for Bony Pelvis Lesions in Elderly Patients : Feasibility, Safety and Clinical Outcomes.
@@ -4464,6 +4930,7 @@ Link: https://clinicaltrials.gov/study/NCT05868863
 
 SUMMARY:
 
+
 ## NCT07642882
 Analgesic Efficacy of Multisite rTMS in Depressed and Nondepressed Patients With Fibromyalgia and Prediction of the Response: a Double-Blind Randomized Sham-Controlled Study.
 
@@ -4472,6 +4939,7 @@ Intervention: : rTMS — The active protocol will include 5 daily stimulation se
 Link: https://clinicaltrials.gov/study/NCT07642882
 
 SUMMARY:
+
 
 ## NCT06741722
 Safety and Efficacy of Mitoxantrone Hydrochloride Liposome Based DCMG Regimen for Relapsed/refractory Acute Myeloid Leukemia
@@ -4485,6 +4953,7 @@ Link: https://clinicaltrials.gov/study/NCT06741722
 
 SUMMARY:
 
+
 ## NCT07486791
 A Clinical Study on the Effect of Cardiopulmonary Function and Quality of Life in Patients With Acute Coronary Syndrome Complicated by Heart Failure by "Lying-Sitting-Standing" Sequential Baduanjin
 
@@ -4493,6 +4962,7 @@ Intervention: : standard treatment and routine rehabilitation nursing guidance �
 Link: https://clinicaltrials.gov/study/NCT07486791
 
 SUMMARY:
+
 
 ## NCT07643558
 SUPPORT-Study = Effects of a Dietary SUPPlementation With Omega3-fatty Acids/ Fish Oil and Progressive Resistence Training on Skeletal Muscle Status in Gynaecological, Gastrointestinal, and Urological Cancer Patients
@@ -4504,6 +4974,7 @@ Link: https://clinicaltrials.gov/study/NCT07643558
 
 SUMMARY:
 
+
 ## NCT03876288
 Gastroparesis Outcome Longitudinal Database Enrolled Numerically
 
@@ -4513,6 +4984,7 @@ Intervention: : GI Neuromodulation — The investigators would include follow up
 Link: https://clinicaltrials.gov/study/NCT03876288
 
 SUMMARY:
+
 
 ## NCT07058727
 The Effect of Different Hemostatic Agents Used in Partial Pulpotomy on Pulp Survival and Postoperative Pain: A Randomized Clinical Trial
@@ -4524,6 +4996,7 @@ Link: https://clinicaltrials.gov/study/NCT07058727
 
 SUMMARY:
 
+
 ## NCT03047369
 The Myelin Disorders Biorepository Project and Global Leukodystrophy Initiative Clinical Trials Network
 
@@ -4531,6 +5004,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT03047369
 
 SUMMARY:
+
 
 ## NCT07227025
 A Phase 1/2 Study Evaluating the Safety and Efficacy of Amivantamab and Olomorasib Combination Therapy in Metastatic Non-small Cell Lung Cancer
@@ -4541,6 +5015,7 @@ Link: https://clinicaltrials.gov/study/NCT07227025
 
 SUMMARY:
 
+
 ## NCT07742917
 Application of a Precision Lifestyle Medicine Clinical Program for a Sample of IFHAS Screening Cohort
 
@@ -4550,6 +5025,7 @@ Link: https://clinicaltrials.gov/study/NCT07742917
 
 SUMMARY:
 
+
 ## NCT07271966
 B6 Administration for Levetiracetam-Associated Neurobehavioral Changes and Epilepsy (BALANCE)
 
@@ -4557,6 +5033,7 @@ Intervention: : Vitamin B6 100 MG — Patients will be prescribed 100 mg of Vita
 Link: https://clinicaltrials.gov/study/NCT07271966
 
 SUMMARY:
+
 
 ## NCT06749366
 Genomic-Wide Sequencing and Functional Studies to Identify the Genes Responsible for Mendelian Disorders Characterized by Cartilage Tumors and Vascular Anomalies
@@ -4566,6 +5043,7 @@ Link: https://clinicaltrials.gov/study/NCT06749366
 
 SUMMARY:
 
+
 ## NCT07644325
 Assessment of Diagnostic Concordance for Transthyretin Amyloidosis Between Synovial Biopsy and Anterior Carpal Ligament Biopsy in Patients Who Underwent Endoscopic Carpal Tunnel Syndrome Surgery
 
@@ -4574,6 +5052,7 @@ Link: https://clinicaltrials.gov/study/NCT07644325
 
 SUMMARY:
 
+
 ## NCT06446453
 Echography-guided Surfactant THERapy (ESTHER) For Preterm Infants With Respiratory Failure
 
@@ -4581,6 +5060,7 @@ Intervention: : Echography-guided Surfactant THERapy (ESTHER) — Decision to ad
 Link: https://clinicaltrials.gov/study/NCT06446453
 
 SUMMARY:
+
 
 ## NCT07053072
 A Prospective，Single Arm Clinicial Trial Evaluating PD-1 mRNA LNP Vaccine for the Treatment of Advanced Primary Hepatocellular Carcinoma Failing Standard Therapy
@@ -4591,6 +5071,7 @@ Link: https://clinicaltrials.gov/study/NCT07053072
 
 SUMMARY:
 
+
 ## NCT07644624
 Sling vs. Dynamic Shoulder Stabilizer After Soft Tissue Shoulder Instability Surgery ("SLIDY"): A Pilot Randomized Controlled Trial Assessing Feasibility, Early Functional Recovery, and Structural Healing
 
@@ -4599,6 +5080,7 @@ Intervention: : Dynamic Immobilizer — An adjustable strap system applied immed
 Link: https://clinicaltrials.gov/study/NCT07644624
 
 SUMMARY:
+
 
 ## NCT07379333
 A Multicenter, Randomized, Double-blind, Phase 3 Study to Evaluate Efficacy and Safety of HM11260C in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Metformin and Dapagliflozin
@@ -4609,6 +5091,7 @@ Link: https://clinicaltrials.gov/study/NCT07379333
 
 SUMMARY:
 
+
 ## NCT05451563
 Double-S: a Wearable Device for Erectile Dysfunction
 
@@ -4616,6 +5099,7 @@ Intervention: : Double-S — Wearable device for intercourse
 Link: https://clinicaltrials.gov/study/NCT05451563
 
 SUMMARY:
+
 
 ## NCT07818200
 Development of Post-falls Management Principles for Older People in Care Homes
@@ -4625,6 +5109,7 @@ Link: https://clinicaltrials.gov/study/NCT07818200
 
 SUMMARY:
 
+
 ## NCT07656181
 Delphi Study on Quality Indicators for CEUS Imaging of the Liver Using SonoVue® Contrast Agent
 
@@ -4632,6 +5117,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07656181
 
 SUMMARY:
+
 
 ## NCT07318610
 A Master Protocol for a Phase 3, Multicenter, Randomized Study to Evaluate the Efficacy and Safety of REGN7508 and REGN9933, Monoclonal Antibodies Against Factor XI, in Participants With Recent Lower Extremity Revascularization for Symptomatic Peripheral Artery Disease (ROXI-PALISADE)
@@ -4643,6 +5129,7 @@ Intervention: : REGN7508 — Administered per the protocol
 Link: https://clinicaltrials.gov/study/NCT07318610
 
 SUMMARY:
+
 
 ## NCT07304466
 Comparison of the Effects of Terlipressin and Somatostatin on Portal Pressure in Patients Undergoing Living Donor Liver Transplantation
@@ -4659,6 +5146,7 @@ Link: https://clinicaltrials.gov/study/NCT07304466
 
 SUMMARY:
 
+
 ## NCT05957536
 A Phase 1, Open-label Dose Escalation and Dose-Expansion Study Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy of D3L-001 Monotherapy in Subjects With HER2-Positive Advanced Solid Tumors.
 
@@ -4666,6 +5154,7 @@ Intervention: : D3L-001 — Intravenous administration
 Link: https://clinicaltrials.gov/study/NCT05957536
 
 SUMMARY:
+
 
 ## NCT07671703
 What is the Effectiveness of an Evidence-based Multimodal Intervention When Compared With Conventional Physiotherapy, and Which Factors Determine Treatment Success in Patients With Migraine- a Pilot Study
@@ -4676,6 +5165,7 @@ Link: https://clinicaltrials.gov/study/NCT07671703
 
 SUMMARY:
 
+
 ## NCT04011566
 Assessment of ShuntCheck Performance Characteristics in Asymptomatic Patients With Normal Pressure Hydrocephalus
 
@@ -4683,6 +5173,7 @@ Intervention: : ShuntCheck — The intervention is an FDA-cleared device utilizi
 Link: https://clinicaltrials.gov/study/NCT04011566
 
 SUMMARY:
+
 
 ## NCT07771829
 Comparison of Ultrasound-Guided QLESP Block Versus Pericapsular Nerve Group Block Combined With Lateral Femoral Cutaneous Nerve Block on Postoperative Analgesia and Functional Recovery in Total Hip Arthroplasty: A Randomized Controlled Trial
@@ -4694,6 +5185,7 @@ Link: https://clinicaltrials.gov/study/NCT07771829
 
 SUMMARY:
 
+
 ## NCT06401239
 Investigating Dyadic Expectations About ARF Survivorship (IDEAS)
 
@@ -4703,6 +5195,7 @@ Intervention: : Dyadic expectations about the ARF survivor's perceived health 6 
 Link: https://clinicaltrials.gov/study/NCT06401239
 
 SUMMARY:
+
 
 ## NCT07672171
 To Explore the Effect of Far Infrared Therapy on Cognitive Function of Patients With Dementia
@@ -4728,6 +5221,7 @@ Link: https://clinicaltrials.gov/study/NCT07672171
 
 SUMMARY:
 
+
 ## NCT06475807
 Cancer Nutrition Study: CaNS - A Pilot Study of Dietary Interventions in Cancer Patients Treated With Immune Checkpoint Inhibitors
 
@@ -4736,6 +5230,7 @@ Intervention: : High-fermented food — Step 1: patients will consume high-ferme
 Link: https://clinicaltrials.gov/study/NCT06475807
 
 SUMMARY:
+
 
 ## NCT06525571
 Outcomes of High-risk Non-muscle Invasive Bladder Cancer Treated With Blue Light Resection
@@ -4746,6 +5241,7 @@ Link: https://clinicaltrials.gov/study/NCT06525571
 
 SUMMARY:
 
+
 ## NCT05848557
 mSaada: A Mobile Health Tool to Improve Cervical Cancer Screening in Western Kenya
 
@@ -4754,6 +5250,7 @@ Link: https://clinicaltrials.gov/study/NCT05848557
 
 SUMMARY:
 
+
 ## NCT07388381
 Superficial Vein Thrombosis of the Upper Limb in Bacteremia Associated With PICCline and Midline Catheters: Frequency and Clinical Consequences
 
@@ -4761,6 +5258,7 @@ Intervention: : Follow-up for catheter-related bacteremia — Clinical follow-up
 Link: https://clinicaltrials.gov/study/NCT07388381
 
 SUMMARY:
+
 
 ## NCT05950867
 Prevalence of Wild-type TTR Cardiac Amyloidosis in Patients With Polyneuropathy of Unknown Cause: a Prospective Monocentric Study (CAP-TTR)
@@ -4771,6 +5269,7 @@ Link: https://clinicaltrials.gov/study/NCT05950867
 
 SUMMARY:
 
+
 ## NCT07730034
 Early Postoperative Physiotherapy in the Prevention Respiratory Insufficiency After Elective Heart Surgery
 
@@ -4780,6 +5279,7 @@ Link: https://clinicaltrials.gov/study/NCT07730034
 
 SUMMARY:
 
+
 ## NCT07672925
 Feasibility of Using a Meditation App in Adults With Anxiety Disorder
 
@@ -4788,6 +5288,7 @@ Link: https://clinicaltrials.gov/study/NCT07672925
 
 SUMMARY:
 
+
 ## NCT06458075
 Intervention to Improve Patient-provider Communication and Medication Adherence Among Patients With Systemic Lupus Erythematosus (SLE)
 
@@ -4795,6 +5296,7 @@ Intervention: : CO-LEAD — The investigators will provide clinicians with a pro
 Link: https://clinicaltrials.gov/study/NCT06458075
 
 SUMMARY:
+
 
 ## NCT06803485
 Effect of Venlafaxine Versus Dosulepin on Clinical Outcomes, Neuroinflammation and Cortisol Level in Pain Predominant Somatic Symptom Disorder: A Group-sequential Randomized Controlled Trial
@@ -4805,6 +5307,7 @@ Link: https://clinicaltrials.gov/study/NCT06803485
 
 SUMMARY:
 
+
 ## NCT07700251
 Retrograde Intrarenal Surgery Versus Mini Percutaneous Nephrolithotomy In Management Of Pediatric Renal Stone Less Than 2 Cm: A Prospective Randomized Study
 
@@ -4813,6 +5316,7 @@ Link: https://clinicaltrials.gov/study/NCT07700251
 
 SUMMARY:
 
+
 ## NCT05711758
 Efficacy and Safety of Endoscopic Antral Myotomy as a Novel Weight Loss Procedure: A Pilot Study
 
@@ -4820,6 +5324,7 @@ Intervention: : PSAM Treatment Patients — PSAM is a pylorus-sparing antral myo
 Link: https://clinicaltrials.gov/study/NCT05711758
 
 SUMMARY:
+
 
 ## NCT07673302
 Safety and Efficacy of Hemoglobin F Inducers in Patients With Beta Thalassemia: a Prospective 12 Months Study
@@ -4830,6 +5335,7 @@ Link: https://clinicaltrials.gov/study/NCT07673302
 
 SUMMARY:
 
+
 ## NCT06651658
 Pleural Blood Patch for Lung Ablation: a Randomised Trial (Oxford Pleural Embolisation Trial - OxPET)
 
@@ -4837,6 +5343,7 @@ Intervention: : Pleural embolisation — Administration of pleural blood patch w
 Link: https://clinicaltrials.gov/study/NCT06651658
 
 SUMMARY:
+
 
 ## NCT06292377
 Better Understanding of Fatigue After STroke
@@ -4848,6 +5355,7 @@ Link: https://clinicaltrials.gov/study/NCT06292377
 
 SUMMARY:
 
+
 ## NCT07673588
 The Effect of an Instagram- and Podcast-Based Intervention on Women's Breast Cancer Awareness, Health Beliefs, and Screening Behaviors: A Randomized Controlled Trial
 
@@ -4857,6 +5365,7 @@ Link: https://clinicaltrials.gov/study/NCT07673588
 
 SUMMARY:
 
+
 ## NCT07328152
 CoMbination of Data From European Cohorts as Part of the European MORPHEUS Project [HORIZON-HLTH-2022-11-01] - "MC-MORPHEUS".
 
@@ -4865,6 +5374,7 @@ Link: https://clinicaltrials.gov/study/NCT07328152
 
 SUMMARY:
 
+
 ## NCT07388628
 ARTISTRY - ARTICE® Therapy Registry Study
 
@@ -4872,6 +5382,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07388628
 
 SUMMARY:
+
 
 ## NCT05838547
 PET-MR Imaging of Natriuretic Peptide Receptor C (NPR-C) in Carotid Atherosclerosis With Cu[64]-25%-CANF-Comb-II
@@ -4882,6 +5393,7 @@ Link: https://clinicaltrials.gov/study/NCT05838547
 
 SUMMARY:
 
+
 ## NCT07388615
 The Effect of Echinacea (Immulant ®) in the Treatment of CRYPTOSPORIDIOSIS in Immunocompromised Children
 
@@ -4889,6 +5401,7 @@ Intervention: : Echinacea Extract — Immulant ® (an extract derived from Echin
 Link: https://clinicaltrials.gov/study/NCT07388615
 
 SUMMARY:
+
 
 ## NCT07112053
 A Phase II Study of STEMVAC Vaccine Therapy for Patients With Hormone Receptor Positive Metastatic Breast Cancer
@@ -4908,6 +5421,7 @@ Link: https://clinicaltrials.gov/study/NCT07112053
 
 SUMMARY:
 
+
 ## NCT04421365
 Adaptive Closed-loop Brain-computer Interface Therapeutic Intervention in Laryngeal Dystonia
 
@@ -4915,6 +5429,7 @@ Intervention: : neurofeedback brain-computer interface (BCI) — The integrated 
 Link: https://clinicaltrials.gov/study/NCT04421365
 
 SUMMARY:
+
 
 ## NCT07388953
 Peripheral Autonomic Block (BAP) Plus Transversus Abdominis Plane Block (TAP) for Postoperative Analgesia After Minimally Invasive Left-Sided Colorectal Resection (BAPTAP): A Randomized, Controlled, Double-Blind Trial
@@ -4926,6 +5441,7 @@ Link: https://clinicaltrials.gov/study/NCT07388953
 
 SUMMARY:
 
+
 ## NCT07820943
 Clinical, Subjective, and Instrumental Evaluation of Dermatological Acceptability and Efficacy in Improving Dryness, Hydration, and Skin Barrier Function in Participants With Xerosis
 
@@ -4933,6 +5449,7 @@ Intervention: : moisturizing cream — A topical moisturizing product intended f
 Link: https://clinicaltrials.gov/study/NCT07820943
 
 SUMMARY:
+
 
 ## NCT07674290
 Real-World Effectiveness, Safety and Patient-reported Outcomes of Setmelanotide in Patients With Bardet-Biedl Syndrome: A Prospective Mono Centric Observational Interventional Study
@@ -4942,6 +5459,7 @@ Link: https://clinicaltrials.gov/study/NCT07674290
 
 SUMMARY:
 
+
 ## NCT07675122
 Endoscopic Duodenal-jejunal Bypass Sleeve for Treatment of Obesity and Metabolic Syndrome - a Multicenter Pilot Study
 
@@ -4949,6 +5467,7 @@ Intervention: : Implantation of duodenal-jejunal bypass sleeve — The duodenal-
 Link: https://clinicaltrials.gov/study/NCT07675122
 
 SUMMARY:
+
 
 ## NCT07389005
 Timed Exercise in Prediabetes With Extreme Chronotype
@@ -4959,6 +5478,7 @@ Intervention: : Timing of exercise — An acute exercise bout of cycling perform
 Link: https://clinicaltrials.gov/study/NCT07389005
 
 SUMMARY:
+
 
 ## NCT06758037
 A Single-arm, Multicenter Phase II Clinical Study of HiR+X Therapy for Newly Diagnosed Diffuse Large B-cell Lymphoma (DLBCL) in Elderly Patients Intolerant to Chemotherapy, Guided by Molecular Subtyping and Clinical Characteristics.
@@ -4980,6 +5500,7 @@ Link: https://clinicaltrials.gov/study/NCT06758037
 
 SUMMARY:
 
+
 ## NCT05288777
 A Study of Adjuvant Chemoradiation and Biomarkers of Response in High-risk Breast Cancer
 
@@ -4991,6 +5512,7 @@ Link: https://clinicaltrials.gov/study/NCT05288777
 
 SUMMARY:
 
+
 ## NCT07257107
 Effect of Transcutaneous Auricular Vagus Nerve Stimulation Combined With Upper Extremity Robot-Assisted Training on Upper Extremity Motor Functions in Stroke Patients
 
@@ -5000,6 +5522,7 @@ Link: https://clinicaltrials.gov/study/NCT07257107
 
 SUMMARY:
 
+
 ## NCT07675642
 The Effect of Ultrasound Visual Feedback on Birth Outcomes in Nulliparous Women With Levator Ani Muscle Co-activation at Term Pregnancy: A Randomized Controlled Trial
 
@@ -5008,6 +5531,7 @@ Link: https://clinicaltrials.gov/study/NCT07675642
 
 SUMMARY:
 
+
 ## NCT05904145
 Pregnancy Risk, Infant Surveillance, and Measurement Alliance (PRiSMA) Maternal and Newborn Health (MNH) Study: A Multi-center, Prospective Cohort Study of Maternal, Newborn, and Infant Health
 
@@ -5015,6 +5539,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05904145
 
 SUMMARY:
+
 
 ## NCT07389460
 Intravenous rhPro-UK Versus Placebo Before Endovascular Thrombectomy For Stroke Patient With Large Vessel Occlusion In The Extended Time Window: the Randomized, Placebo-controlled, Double-blind Trial (BRIDGE-PUK EXTEND )
@@ -5026,6 +5551,7 @@ Link: https://clinicaltrials.gov/study/NCT07389460
 
 SUMMARY:
 
+
 ## NCT07676110
 Impacts of Music, Audio Enhancements, Audio Guidance, and Visuals on Physical and Emotional Well-being. (Emotional Health - Longitudinal 1 Randomized, Controlled Multi-center Study)
 
@@ -5033,6 +5559,7 @@ Intervention: : soundBrilliance software application - Emotional Health — Use 
 Link: https://clinicaltrials.gov/study/NCT07676110
 
 SUMMARY:
+
 
 ## NCT07101601
 An Open-label, Dose-finding, Phase 1 Study to Assess the Safety, Tolerability, Efficacy, and Pharmacokinetic Profile, and to Explore the Pharmacodynamic Profile of DM5167 in Patients With Advanced Solid Tumors
@@ -5042,6 +5569,7 @@ Link: https://clinicaltrials.gov/study/NCT07101601
 
 SUMMARY:
 
+
 ## NCT07389135
 The Role of Heart Rate Variability and Anxiety in Predicting Emergence Agitation in Patients Undergoing Septorhinoplasty : A Prospective Observational Study
 
@@ -5049,6 +5577,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07389135
 
 SUMMARY:
+
 
 ## NCT05649865
 Analysis of HPV DNA in Plasma in Patients With HPV-positive Oropharyngeal Squamous Cell Carcinoma - a Prospective Study of HPV DNA Levels for Treatment Response and Surveillance
@@ -5058,6 +5587,7 @@ Link: https://clinicaltrials.gov/study/NCT05649865
 
 SUMMARY:
 
+
 ## NCT06518317
 Short Versus Long Antiplatelet Therapy After TAVI
 
@@ -5065,6 +5595,7 @@ Intervention: : Aspirin — Short duration of aspirin (3 months) is compared to 
 Link: https://clinicaltrials.gov/study/NCT06518317
 
 SUMMARY:
+
 
 ## NCT07676890
 A Single-Arm, Open-Label, Prospective Study Evaluating the Safety, Tolerability, and Immunogenicity of the NeoOVIV Vaccine in Patients With Ovarian Cancer After Surgery
@@ -5076,6 +5607,7 @@ Link: https://clinicaltrials.gov/study/NCT07676890
 
 SUMMARY:
 
+
 ## NCT07677124
 Risk Classification and Prediction of Histopathological Subtypes in Basal Cell Carcinoma Using a CNN-Based Artificial Intelligence Model on Dermoscopic Images
 
@@ -5083,6 +5615,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07677124
 
 SUMMARY:
+
 
 ## NCT06768840
 Serum s100B in Generalized Vitiligo and Its Relation to Oral Baricitinib, Narrow Band Ultraviolet (B) Therapy
@@ -5094,6 +5627,7 @@ Link: https://clinicaltrials.gov/study/NCT06768840
 
 SUMMARY:
 
+
 ## NCT07674667
 A Randomized, Double-Blind, Placebo-Controlled, Phase 1 / 2 Trial Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Exploratory Efficacy of TRCN-1023 Administered by Intrathecal Injections to Adult People Living With Amyotrophic Lateral Sclerosis
 
@@ -5103,6 +5637,7 @@ Link: https://clinicaltrials.gov/study/NCT07674667
 
 SUMMARY:
 
+
 ## NCT07389473
 An Observational Study to Evaluate the Effects of Long-term Use of Psychotropic Medications on Eye Movement Patterns With the Gaize Device
 
@@ -5110,6 +5645,7 @@ Intervention: : Prescription Psychotropic Medications — Currently using a psyc
 Link: https://clinicaltrials.gov/study/NCT07389473
 
 SUMMARY:
+
 
 ## NCT06821399
 Optimization and Evaluation of the Diagnosis and Treatment System for Diabetic Retinopathy in Type 2 Diabetes Mellitus
@@ -5119,6 +5655,7 @@ Intervention: : Fundus Examination — Performing fundus photography on patients
 Link: https://clinicaltrials.gov/study/NCT06821399
 
 SUMMARY:
+
 
 ## NCT07082244
 Phenotype Modification Via Guided Bone Regeneration and Acellular Dermal Matrix Simultaneous to Delayed Implant Placement: A Double Arm Randomized Controlled Clinical Trial.
@@ -5130,6 +5667,7 @@ Link: https://clinicaltrials.gov/study/NCT07082244
 
 SUMMARY:
 
+
 ## NCT04300257
 Swiss Sarcoma Network: Prediction Model for Patient Selection in Sarcoma Care
 
@@ -5137,6 +5675,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT04300257
 
 SUMMARY:
+
 
 ## NCT06387732
 The Mechanisms Underlying the Antidepressant Effects of Physical Activity
@@ -5146,6 +5685,7 @@ Intervention: : Aerobic exercise — This will be delivered by coaches in a smal
 Link: https://clinicaltrials.gov/study/NCT06387732
 
 SUMMARY:
+
 
 ## NCT07677839
 Redefining the Normal: Ultra-High Frequency Ultrasound Characterization of Lymphatic Anatomy in Patients With Breast Cancer
@@ -5158,6 +5698,7 @@ Link: https://clinicaltrials.gov/study/NCT07677839
 
 SUMMARY:
 
+
 ## NCT07224789
 Liquid Biopsy for Early Detection of Colorectal Cancer Using Circular RNA
 
@@ -5165,6 +5706,7 @@ Intervention: : cf-circRNA assay — Circular RNA detection in plasma or serum b
 Link: https://clinicaltrials.gov/study/NCT07224789
 
 SUMMARY:
+
 
 ## NCT02906865
 Proximal Hamstring Avulsion Surgery Cohort Study
@@ -5174,6 +5716,7 @@ Link: https://clinicaltrials.gov/study/NCT02906865
 
 SUMMARY:
 
+
 ## NCT06978699
 A Multicenter, Randomized, Single-blind Phase II Study Evaluating the Efficacy and Safety of XH-S003 Capsules in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)
 
@@ -5181,6 +5724,7 @@ Intervention: : XH-S003 Capsule — 25mg \& 100mg
 Link: https://clinicaltrials.gov/study/NCT06978699
 
 SUMMARY:
+
 
 ## NCT07748832
 NIS103487 Duration of Streptococcus Pneumoniae Carriage in U.S. Children Under Five: A Pilot Longitudinal Study
@@ -5190,6 +5734,7 @@ Link: https://clinicaltrials.gov/study/NCT07748832
 
 SUMMARY:
 
+
 ## NCT07678684
 A Multicenter, Open-Label, Adaptive Phase Ⅱ Clinical Study of HF1K16 Combined With Bevacizumab in Recurrent or Progressive Glioma
 
@@ -5197,6 +5742,7 @@ Intervention: : HF1K16 — An investigational drug administered via intravenous 
 Link: https://clinicaltrials.gov/study/NCT07678684
 
 SUMMARY:
+
 
 ## NCT05901298
 Development of 'My Breastfeeding Guide' Mobile Nursing Application and Its Effect on Breastfeeding Process, Self-Efficacy, Infant Nutrition and Attachment
@@ -5206,6 +5752,7 @@ Link: https://clinicaltrials.gov/study/NCT05901298
 
 SUMMARY:
 
+
 ## NCT04579900
 Dissecting Host-microbiome Modifiers of Type 2 Diabetes Risk
 
@@ -5214,6 +5761,7 @@ Link: https://clinicaltrials.gov/study/NCT04579900
 
 SUMMARY:
 
+
 ## NCT06494033
 Prophylaxis Guided by Cytomegalovirus-specific T Cell Immunity to Prevent Cytomegalovirus Disease in Lung Transplant Recipients: a Single Center Prospective Study
 
@@ -5221,6 +5769,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06494033
 
 SUMMARY:
+
 
 ## NCT07068763
 Node-Sparing Short-Course Radiation Combined With Capecitabine and PD-1/CTLA-4 for MSS Early Middle and Low Rectal Cancer (mRCAT-E): An Open-label, Single-arm, Prospective Multicenter Clinical Trial
@@ -5231,6 +5780,7 @@ Intervention: : Lymph-node-sparing short-course radiotherapy — Three-dimension
 Link: https://clinicaltrials.gov/study/NCT07068763
 
 SUMMARY:
+
 
 ## NCT05681299
 Effects of Administration of Growth Hormone, Without and With Liraglutide, on AgRP, Energy and Glucose Metabolism in Healthy and GH Deficient Humans
@@ -5243,6 +5793,7 @@ Link: https://clinicaltrials.gov/study/NCT05681299
 
 SUMMARY:
 
+
 ## NCT07678736
 The Muscle Phenotype and Cardiometabolic Health Monitoring Project
 
@@ -5251,6 +5802,7 @@ Link: https://clinicaltrials.gov/study/NCT07678736
 
 SUMMARY:
 
+
 ## NCT02358187
 A Phase II Study of Vaccinations With HLA-A2 Restricted Glioma Antigen Peptides in Combination With Poly-ICLC for Children With Recurrent Unresectable Low-Grade Gliomas (LGG)
 
@@ -5258,6 +5810,7 @@ Intervention: : Experimental: HLA-A2 Restricted Glioma Antigen-Peptides with Pol
 Link: https://clinicaltrials.gov/study/NCT02358187
 
 SUMMARY:
+
 
 ## NCT07569198
 Combining Ketamine With Dialectical Behavioural Therapy (DBT) for Suicidality in Individuals With Treatment-Resistant Depression and Borderline Personality Disorder: A Phase II Randomized, Midazolam-Controlled Clinical Trial (KET-DBT)
@@ -5268,6 +5821,7 @@ Intervention: : Ketamine Hydrochloride — Participants in this arm will receive
 Link: https://clinicaltrials.gov/study/NCT07569198
 
 SUMMARY:
+
 
 ## NCT07389720
 Characterization of (A)Typical Sensorimotor Pathways in Individuals With Autism
@@ -5280,6 +5834,7 @@ Link: https://clinicaltrials.gov/study/NCT07389720
 
 SUMMARY:
 
+
 ## NCT07724184
 Percutaneous Coronary Intervention of Calcified Lesions and the Use of Artificial Intelligence to Predict Successful Outcome
 
@@ -5287,6 +5842,7 @@ Intervention: : Measurement of coronary flow and pressure — The pressure and f
 Link: https://clinicaltrials.gov/study/NCT07724184
 
 SUMMARY:
+
 
 ## NCT07303387
 An Open Label Phase II Platform Modular Study Exploring the Efficacy and Safety of the Valemetostat (EZH1/2 Inhibitor) in Patients With Selected Solid Tumors
@@ -5296,6 +5852,7 @@ Link: https://clinicaltrials.gov/study/NCT07303387
 
 SUMMARY:
 
+
 ## NCT04312412
 Outcomes of Flexor Tendons Repair in Zones I-III From 2014-2025: a Swiss Multicenter Cohort Study
 
@@ -5303,6 +5860,7 @@ Intervention: : Controlled active motion (CAM) — Rehabilitation, post-surgery 
 Link: https://clinicaltrials.gov/study/NCT04312412
 
 SUMMARY:
+
 
 ## NCT07389824
 Efficacy of Acupuncture Combined With Mesalazine in Inducing and Maintaining Clinical Remission in Mild-to-Moderate Active Ulcerative Colitis: A Single-Center, Randomized Controlled Clinical Trial.
@@ -5314,6 +5872,7 @@ Link: https://clinicaltrials.gov/study/NCT07389824
 
 SUMMARY:
 
+
 ## NCT06982274
 Combination of Oral Arsenic With ATRA and Minimal-Dose Chemotherapy for Newly Diagnosed Patients With Acute Promyelocytic Leukemia: a Study by the International Consortium on APL
 
@@ -5321,6 +5880,7 @@ Intervention: : Realgar-Indigo Naturalis Formulation — Oral Arsenic (Realgar-I
 Link: https://clinicaltrials.gov/study/NCT06982274
 
 SUMMARY:
+
 
 ## NCT06845514
 High Blood Pressure and Effect of Acute Resistance Training: Influence of Different Load Intensities on Postexercise Hypotension and Ambulatory Blood Pressure in Aging Females
@@ -5336,6 +5896,7 @@ Link: https://clinicaltrials.gov/study/NCT06845514
 
 SUMMARY:
 
+
 ## NCT07682714
 Capturing Food Intake in Patients Undergoing Radiation Therapy for Cancer
 
@@ -5343,6 +5904,7 @@ Intervention: : Mobile food record using myCircadian Clock app — Participants 
 Link: https://clinicaltrials.gov/study/NCT07682714
 
 SUMMARY:
+
 
 ## NCT05808543
 A Randomised Controlled Trial to Evaluate the Effectiveness of Spatial-listening Training Delivered Via the Both EARS Training Package (BEARS) in Older Children and Teenagers With Bilateral Cochlear Implants
@@ -5352,6 +5914,7 @@ Intervention: : Both EARS training package (BEARS) — The BEARS training packag
 Link: https://clinicaltrials.gov/study/NCT05808543
 
 SUMMARY:
+
 
 ## NCT07749963
 A Data Collection Study to Collect Blood Pressure (BP) Data Using the CardiacSense BP Watch and CardiacSense Pillow Systems for Algorithm Development
@@ -5363,6 +5926,7 @@ Link: https://clinicaltrials.gov/study/NCT07749963
 
 SUMMARY:
 
+
 ## NCT07682896
 A Randomized, Blinded, Placebo-Controlled, Two-Part, Phase 2 Study to Assess Safety, Tolerability, Pharmacokinetics, and Efficacy of YB-101 in Participants With Graves' Disease
 
@@ -5372,6 +5936,7 @@ Link: https://clinicaltrials.gov/study/NCT07682896
 
 SUMMARY:
 
+
 ## NCT06407063
 Long-term Frequency of Reoperations After Micro-decompression Alone Versus Decompression and Instrumented Fusion in Patients With Lumbar Spinal Stenosis and Degenerative Spondylolisthesis
 
@@ -5380,6 +5945,7 @@ Intervention: : Micro-decompression alone — In surgical treatment of Degenerat
 Link: https://clinicaltrials.gov/study/NCT06407063
 
 SUMMARY:
+
 
 ## NCT07694063
 A Randomized Controlled Trial of an Online Hatha Yoga Program as an Add-On Therapy for Episodic High-Frequency Migraine
@@ -5397,6 +5963,7 @@ Link: https://clinicaltrials.gov/study/NCT07694063
 
 SUMMARY:
 
+
 ## NCT07683585
 Comparative Effectiveness of Dual Antihypertensive Regimens in Patients After Percutaneous Coronary Intervention
 
@@ -5406,6 +5973,7 @@ Link: https://clinicaltrials.gov/study/NCT07683585
 
 SUMMARY:
 
+
 ## NCT07684053
 Digital Screening for Atrial Fibrillation to Prevent Stroke: The Randomized Austrian Digital Heart Study
 
@@ -5413,6 +5981,7 @@ Intervention: : Smartphone-based digital atrial fibrillation screening and manag
 Link: https://clinicaltrials.gov/study/NCT07684053
 
 SUMMARY:
+
 
 ## NCT07417228
 Impact of Concurrent Training on Physical and Psychological Health in Women Experiencing Menopause
@@ -5422,6 +5991,7 @@ Link: https://clinicaltrials.gov/study/NCT07417228
 
 SUMMARY:
 
+
 ## NCT07390500
 Randomized Controlled Double Masked, Trial to Assess the Efficacy and Safety of a DYnaMic Peripheral DegradatiON Myopia Disorder Control in Myopic Children Compared to No Treatment (DYMOND Study)
 
@@ -5429,6 +5999,7 @@ Intervention: : TrackSight — applying a predefined combination of peripheral c
 Link: https://clinicaltrials.gov/study/NCT07390500
 
 SUMMARY:
+
 
 ## NCT06741865
 Intervention Strategies for Preserving Intellectual Resilience and Engagement
@@ -5439,6 +6010,7 @@ Link: https://clinicaltrials.gov/study/NCT06741865
 
 SUMMARY:
 
+
 ## NCT07685405
 Feasibility Study for the Identification of Circulating Biomarkers Associated With Extracellular Vesicles in Sarcomas
 
@@ -5447,6 +6019,7 @@ Intervention: : one blood sample — non onco
 Link: https://clinicaltrials.gov/study/NCT07685405
 
 SUMMARY:
+
 
 ## NCT07601932
 Optimal Patient Positioning and Strategy for the Treatment of Proximal Ureteral Stones
@@ -5457,6 +6030,7 @@ Link: https://clinicaltrials.gov/study/NCT07601932
 
 SUMMARY:
 
+
 ## NCT06543407
 Harm Reduction for Smokers With Mental Illness: RCT of E-cigarette Provision With or Without Behavioral Support to Boost Switching
 
@@ -5465,6 +6039,7 @@ Intervention: : SWITCH IT — Behavioral support for switching, 7-10 sessions wi
 Link: https://clinicaltrials.gov/study/NCT06543407
 
 SUMMARY:
+
 
 ## NCT05775471
 Neoadjuvant Combination Pembrolizumab / Enfortumab Vedotin With Adjuvant Pembrolizumab Prior to and After Radical Nephroureterectomy for High-Risk Upper Tract Urothelial Carcinoma
@@ -5479,6 +6054,7 @@ Link: https://clinicaltrials.gov/study/NCT05775471
 
 SUMMARY:
 
+
 ## NCT07390539
 A Phase 1/1b Study of Autologous b7-h3 Chimeric Antigen Receptor t Cells (b7-h3.cd28z.Cart) in Children and Young Adults With Recurrent or Progressive Cns Neoplasms Expressing b7-h3 Target
 
@@ -5489,6 +6065,7 @@ Link: https://clinicaltrials.gov/study/NCT07390539
 
 SUMMARY:
 
+
 ## NCT07686783
 Ovarian Reserve After Laparoscopic Cystectomy for Endometriotic and Non-Endometriotic Cysts: A Comparative Prospective Cohort Study
 
@@ -5496,6 +6073,7 @@ Intervention: : Laparoscopic Ovarian Cystectomy — Laparoscopic excision of ova
 Link: https://clinicaltrials.gov/study/NCT07686783
 
 SUMMARY:
+
 
 ## NCT07686029
 Use of Maltodextrins in the ERAS Preoperative Fasting Protocol in Pediatric Surgery: A Pilot Randomized Controlled Study
@@ -5506,6 +6084,7 @@ Link: https://clinicaltrials.gov/study/NCT07686029
 
 SUMMARY:
 
+
 ## NCT06282809
 The HistoSonics Edison™ System for Treatment of Pancreatic Adenocarcinoma Using Histotripsy
 
@@ -5514,6 +6093,7 @@ Link: https://clinicaltrials.gov/study/NCT06282809
 
 SUMMARY:
 
+
 ## NCT07390786
 Integration of a Behavioral Health Collaborative Care Model Into an ICU Recovery Clinic-Pilot for Families
 
@@ -5521,6 +6101,7 @@ Intervention: : Behavioral Treatment — behavioral health collaborative care mo
 Link: https://clinicaltrials.gov/study/NCT07390786
 
 SUMMARY:
+
 
 ## NCT06574009
 Better Options for Chronic Cancer Pain: a SMART Study
@@ -5533,6 +6114,7 @@ Link: https://clinicaltrials.gov/study/NCT06574009
 
 SUMMARY:
 
+
 ## NCT07390591
 Intravesical Gentamicin Coupled With Lactobacillus Rhamnosus for Urinary Health- Early Career
 
@@ -5540,6 +6122,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07390591
 
 SUMMARY:
+
 
 ## NCT07687849
 Assessing Dietary Patterns and the Longer-term Impact of a Firefighter Nutrition Education Programme (RESCUE)
@@ -5549,6 +6132,7 @@ Link: https://clinicaltrials.gov/study/NCT07687849
 
 SUMMARY:
 
+
 ## NCT07363811
 Large Granular Lymphocytes as a Prognostic Factor in Metastatic Non-small Cell Lung Cancer Treated With Nivolumab
 
@@ -5556,6 +6140,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07363811
 
 SUMMARY:
+
 
 ## NCT03761121
 Developing Fast Pediatric Imaging
@@ -5565,6 +6150,7 @@ Link: https://clinicaltrials.gov/study/NCT03761121
 
 SUMMARY:
 
+
 ## NCT07175714
 Evaluating Methods to Replicate Stumbles and Slips During Walking
 
@@ -5572,6 +6158,7 @@ Intervention: : Methodologies to induce gait perturbations — Method 1: Obstacl
 Link: https://clinicaltrials.gov/study/NCT07175714
 
 SUMMARY:
+
 
 ## NCT06932809
 Center Without Walls for Imaging Proteinopathies With PET (CW2IP2): Phase I Pilot Study of Biodistribution, Metabolism, Excretion and Brain Uptake of 18F-JSS20-183A
@@ -5584,6 +6171,7 @@ Link: https://clinicaltrials.gov/study/NCT06932809
 
 SUMMARY:
 
+
 ## NCT06938971
 Effects of Exercise Training on Health-related Quality of Life in Patients With Unresectable Metastatic Colorectal Cancer: A Multi-center Randomized Controlled Trial
 
@@ -5591,6 +6179,7 @@ Intervention: : Exercise training — Participants allocated to the exercise int
 Link: https://clinicaltrials.gov/study/NCT06938971
 
 SUMMARY:
+
 
 ## NCT07052071
 Impact of Transcatheter Aortic Valve Implantation (TAVI) on the Gut Microbiota in Patients With Aortic Valve Stenosis
@@ -5600,6 +6189,7 @@ Link: https://clinicaltrials.gov/study/NCT07052071
 
 SUMMARY:
 
+
 ## NCT05540834
 A Phase 2 Safety, Dose-finding and Efficacy Study Evaluating Viscoelastic Testing (VET) Guided Tissue Plasminogen Activator (tPA) Treatment in Critically-ill Pro-thrombotic Acute Respiratory Failure
 
@@ -5607,6 +6197,7 @@ Intervention: : Alteplase — The enzyme tissue plasminogen activator that cleav
 Link: https://clinicaltrials.gov/study/NCT05540834
 
 SUMMARY:
+
 
 ## NCT05353504
 "SFB 1052/3 - Mechanismen Der Adipositas, Projekt A1: Veränderung Der Neurobiologischen Grundlagen Von Ess-Entscheidungen Bei Adipositas" Engl. "CRC 1052/3 - Obesity Mechanisms, Project A1: Targeting Neurobehavioral Determinants of Obesity"
@@ -5618,6 +6209,7 @@ Link: https://clinicaltrials.gov/study/NCT05353504
 
 SUMMARY:
 
+
 ## NCT06248671
 EpisodicStatinMig. A Multicentre, Triple Blind, Placebo Controlled, Parallel Group Study of Atorvastatin in Episodic Migraine
 
@@ -5628,6 +6220,7 @@ Link: https://clinicaltrials.gov/study/NCT06248671
 
 SUMMARY:
 
+
 ## NCT07491328
 Liquid Biopsy in Paraneoplastic Neurological Syndromes With High- and Intermediate-Risk Antibodies
 
@@ -5635,6 +6228,7 @@ Intervention: : CTC & ctDNA analysis — Analysis of circulating tumor cells (CT
 Link: https://clinicaltrials.gov/study/NCT07491328
 
 SUMMARY:
+
 
 ## NCT06352632
 A Multi-faCtorial, mulTi-arm, Multi-staGe, Randomised, gLOBal Adaptive pLatform Trial for Stroke (ACT-GLOBAL)
@@ -5659,6 +6253,7 @@ Link: https://clinicaltrials.gov/study/NCT06352632
 
 SUMMARY:
 
+
 ## NCT07391202
 Effectiveness of Non-Surgical Mechanical Therapy of Peri-Implantitis With or Without Prosthetic Crown Removal: A Randomized Controlled Trial
 
@@ -5668,6 +6263,7 @@ Link: https://clinicaltrials.gov/study/NCT07391202
 
 SUMMARY:
 
+
 ## NCT03583684
 Neuroimaging Predictors of Improvement to Pivotal Response Treatment (PRT) in Young Children With Autism
 
@@ -5675,6 +6271,7 @@ Intervention: : Pivotal Response Treatment Program (PRT-P) — The Pivotal Respo
 Link: https://clinicaltrials.gov/study/NCT03583684
 
 SUMMARY:
+
 
 ## NCT02925234
 A Dutch National Study on Behalf of the CPCT to Facilitate Patient Access to Commercially Available, Targeted Anti-cancer Drugs to Determine the Potential Efficacy in Treatment of Advanced Cancers With a Known Molecular Profile
@@ -5720,6 +6317,7 @@ Link: https://clinicaltrials.gov/study/NCT02925234
 
 SUMMARY:
 
+
 ## NCT07391839
 A Multicenter, Open-label, Single-Arm Phase I/II Clinical Study to Evaluate the Safety and Efficacy of a Single Dose of MDN-001 Injection in Patients With Unresectable Primary Hepatocellular Carcinoma (HCC).
 
@@ -5728,6 +6326,7 @@ Link: https://clinicaltrials.gov/study/NCT07391839
 
 SUMMARY:
 
+
 ## NCT04679584
 COVIDOM: Longterm Morbidity of SARS-CoV-2 Infection and COVID-19 Disease - Consequences for Health Status and Quality of Life (NAPKON-POP)
 
@@ -5735,6 +6334,7 @@ Intervention: : Observation of different courses of SARS-CoV-2 infection in diff
 Link: https://clinicaltrials.gov/study/NCT04679584
 
 SUMMARY:
+
 
 ## NCT06706752
 A Randomized, Blinded, Placebo-controlled Trial of Shengbai Oral Formula to Assess Safety and Alleviation of Adverse Effects in Patients With Cancer Undergoing Chemotherapy
@@ -5745,6 +6345,7 @@ Link: https://clinicaltrials.gov/study/NCT06706752
 
 SUMMARY:
 
+
 ## NCT02836158
 Therapeutic Effects of R-IDARAM and Intrathecal Immunochemotherapy on Elderly Patients With Primary CNS Lymphoma
 
@@ -5752,6 +6353,7 @@ Intervention: : R-IDARAM plus intrathecal chemotherapy — R-IDARAM comprised of
 Link: https://clinicaltrials.gov/study/NCT02836158
 
 SUMMARY:
+
 
 ## NCT06921967
 A Comparison of Ocular Health and Visual Quality With Corneal and Scleral Rigid Gas Permeable Lenses in Keratoconus Patients
@@ -5762,6 +6364,7 @@ Link: https://clinicaltrials.gov/study/NCT06921967
 
 SUMMARY:
 
+
 ## NCT06936878
 BOLSTER: Strengthening Patient and Caregiver Supports in Advanced Gynecologic and Gastrointestinal Cancers
 
@@ -5769,6 +6372,7 @@ Intervention: : BOLSTER Program — This supportive care program includes six te
 Link: https://clinicaltrials.gov/study/NCT06936878
 
 SUMMARY:
+
 
 ## NCT07391995
 Evaluation of a New Diagnostic Tool (MinION) for Identifying Microorganisms in the Foot Wounds of Patients Living With Diabetic Foot Osteomyelitis (DFOM)
@@ -5778,6 +6382,7 @@ Link: https://clinicaltrials.gov/study/NCT07391995
 
 SUMMARY:
 
+
 ## NCT06159478
 Phase II Investigator-initiated Trial of Binimetinib in Patients With BRAF Fusion-positive Low-grade Glioma or Pancreatic Cancer (Perfume)
 
@@ -5785,6 +6390,7 @@ Intervention: : Binimetinib 15 MG — Binimetinib 45mg is orally administered tw
 Link: https://clinicaltrials.gov/study/NCT06159478
 
 SUMMARY:
+
 
 ## NCT07180368
 Assessment and Management of Multiple Drug Use in Elderly Chronic Disease Patients
@@ -5794,6 +6400,7 @@ Link: https://clinicaltrials.gov/study/NCT07180368
 
 SUMMARY:
 
+
 ## NCT07108621
 Eight Weeks of Low Dose hCG Priming in Women With Diminished Ovarian Reserve Undergoing IVF/ICSI - a Randomized Controlled Trial
 
@@ -5802,6 +6409,7 @@ Intervention: : Choriongonadotropin alfa (hCG) — hCG 260 IU once daily for two
 Link: https://clinicaltrials.gov/study/NCT07108621
 
 SUMMARY:
+
 
 ## NCT07392242
 A Phase II Study of IDH1 Inhibition With Ivosidenib as Maintenance Therapy After Ivosidenib, Azacitidine, and Venetoclax for Acute Myeloid Leukemia
@@ -5813,6 +6421,7 @@ Link: https://clinicaltrials.gov/study/NCT07392242
 
 SUMMARY:
 
+
 ## NCT06637345
 Identification of Prognostic and Predictive Biomarkers of Toxicity in Patients With Malignant Pleural Mesothelioma and Treated With High Doses of Radiotherapy (MESORTIBO)
 
@@ -5820,6 +6429,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06637345
 
 SUMMARY:
+
 
 ## NCT07692763
 The Young Adult Taking Action Program: Protocol for a Pilot Randomized Controlled Trial of Cancer Rehabilitation for Young Adults
@@ -5832,6 +6442,7 @@ Link: https://clinicaltrials.gov/study/NCT07692763
 
 SUMMARY:
 
+
 ## NCT07392580
 A Single-Arm, Open-Label Study of Intralesional Treatment of Laryngeal Squamous Cell Carcinoma With Cisplatin
 
@@ -5843,6 +6454,7 @@ Link: https://clinicaltrials.gov/study/NCT07392580
 
 SUMMARY:
 
+
 ## NCT06466772
 Precision Sensorimotor Neurorehabilitation Through Personalized Stimulation Loops
 
@@ -5852,6 +6464,7 @@ Intervention: : Hyper-personalized feedback (HPF intervention) — For lower lim
 Link: https://clinicaltrials.gov/study/NCT06466772
 
 SUMMARY:
+
 
 ## NCT07392723
 Alpha Linolenic Acid-enriched Nutrition for Prevention of Cognitive Decline in APOE4 Older Adults With Mild Cognitive Impairment: Targeting Cerebrovascular and Blood-brain Barrier Health
@@ -5866,6 +6479,7 @@ Link: https://clinicaltrials.gov/study/NCT07392723
 
 SUMMARY:
 
+
 ## NCT06140134
 A Single-Arm Nonrandomized Phase II Study of Liver Transplantation in Locally Advanced Unresectable Non-Metastatic Intrahepatic Cholangiocarcinoma Treated With Neoadjuvant Systemic Therapy
 
@@ -5873,6 +6487,7 @@ Intervention: : Liver Transplant — Whole liver allotransplantation will be per
 Link: https://clinicaltrials.gov/study/NCT06140134
 
 SUMMARY:
+
 
 ## NCT07694479
 A Habit-Based Intervention to Reduce Sedentary Behaviour in Cancer Survivors: A Feasibility Study
@@ -5883,6 +6498,7 @@ Link: https://clinicaltrials.gov/study/NCT07694479
 
 SUMMARY:
 
+
 ## NCT07694544
 Assessment of Single Dose Pharmacokinetics of Oral EC5026 in a Population With Chronic Kidney Disease
 
@@ -5890,6 +6506,7 @@ Intervention: : EC5026 oral tablet — Oral 8 mg EC5026 tablet
 Link: https://clinicaltrials.gov/study/NCT07694544
 
 SUMMARY:
+
 
 ## NCT07130864
 Early Vs Late Laparoscopic Cholecystectomy After Ercp For Choledocholithiasis, A Randomised Control Trial.
@@ -5900,6 +6517,7 @@ Link: https://clinicaltrials.gov/study/NCT07130864
 
 SUMMARY:
 
+
 ## NCT07392944
 Effects of a Multicomponent Exercise Program on Physical Function, Cognition and Falls Risk Among Older Adults Living in Nursing Homes: MOVE4CARE
 
@@ -5908,6 +6526,7 @@ Intervention: : Multicomponent exercise intervention — Twice-weekly for the 12
 Link: https://clinicaltrials.gov/study/NCT07392944
 
 SUMMARY:
+
 
 ## NCT06919744
 Direct Intracranial Venous Stenting Evaluation in Patients With Idiopathic INtracranial Hypertension in the Early Phase
@@ -5918,6 +6537,7 @@ Link: https://clinicaltrials.gov/study/NCT06919744
 
 SUMMARY:
 
+
 ## NCT05622409
 A Taiwanese Oncogenetic Panel and Integrated Clinical Data Registry Study for Diffuse Glioma
 
@@ -5925,6 +6545,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05622409
 
 SUMMARY:
+
 
 ## NCT07695935
 Comparison of Ultrasound-Guided Transversalis Fascia Plane Block and Low-Dose Intrathecal Morphine for Postoperative Analgesia After Open Inguinal Hernia Repair: A Prospective Randomized Controlled Trial
@@ -5935,6 +6556,7 @@ Link: https://clinicaltrials.gov/study/NCT07695935
 
 SUMMARY:
 
+
 ## NCT07696637
 Access my Breast Cancer Care - Use of an eHealth App in Navigating the Breast Cancer Trajectory: A Randomized Controlled Trial
 
@@ -5944,6 +6566,7 @@ Link: https://clinicaltrials.gov/study/NCT07696637
 
 SUMMARY:
 
+
 ## NCT07247864
 A Comparative Study of Carotid Artery Stenosis Stenting With Balloon Guide Catheter Combined With Distal Filter Versus Distal Filter Alone-A Multicenter, Prospective, Open-label, Endpoint-blinded, Randomized Controlled Study
 
@@ -5952,6 +6575,7 @@ Intervention: : Balloon Guide Catheter — A catheter with a balloon at the dist
 Link: https://clinicaltrials.gov/study/NCT07247864
 
 SUMMARY:
+
 
 ## NCT05843695
 Enhancing Intensive Transdiagnostic Cognitive Behavioral Therapy for Veterans With PTSD and Anxiety Disorders
@@ -5963,6 +6587,7 @@ Link: https://clinicaltrials.gov/study/NCT05843695
 
 SUMMARY:
 
+
 ## NCT07546097
 Comparative Effectiveness of Upadacitinib vs Corticosteroids as First-Line Therapy for Acute Severe Ulcerative Colitis: Multicenter, Open-label, Non-inferiority, Randomized Controlled Study
 
@@ -5971,6 +6596,7 @@ Intervention: : Upadacitinib — Safety and efficacy of the drug
 Link: https://clinicaltrials.gov/study/NCT07546097
 
 SUMMARY:
+
 
 ## NCT06731439
 Does Starting Feeds on the First Day of Life Help Premature Infants Reach Full Volume Feeds Sooner?
@@ -5981,6 +6607,7 @@ Link: https://clinicaltrials.gov/study/NCT06731439
 
 SUMMARY:
 
+
 ## NCT07296497
 A Randomized, Multicenter, Single-blind, Sham-controlled Clinical Trial on the Efficacy and Safety of Acupuncture in the Treatment of Refractory Rosacea.
 
@@ -5990,6 +6617,7 @@ Link: https://clinicaltrials.gov/study/NCT07296497
 
 SUMMARY:
 
+
 ## NCT07698743
 Eating Disorders in Patients With Phenylketonuria
 
@@ -5998,6 +6626,7 @@ Link: https://clinicaltrials.gov/study/NCT07698743
 
 SUMMARY:
 
+
 ## NCT02793999
 Perinatal Brain Injury: Potential of Innovative NIRS to Optimize Hypothermia
 
@@ -6005,6 +6634,7 @@ Intervention: : Near-Infrared Spectroscopy (NIRS)
 Link: https://clinicaltrials.gov/study/NCT02793999
 
 SUMMARY:
+
 
 ## NCT06742892
 A Phase II Clinical Study to Evaluate HLX43 (Anti-PD-L1 ADC) in Patients With Locally Advanced or Metastatic Hepatocellular Carcinoma (HCC) Failed or Intolerance to Standard Therapy
@@ -6015,6 +6645,7 @@ Intervention: : HLX43 DOSE 1 — Dose 1; HLX43 is an anti-PD-L1 monoclonal antib
 Link: https://clinicaltrials.gov/study/NCT06742892
 
 SUMMARY:
+
 
 ## NCT07393880
 Non-Invasively Re-Training the Tinnitus Brain Using Bimodal Electrical-Sound Stimulation (NITESGON-ADT): Protocol for a Prospective, Double-Blind, Randomised Controlled Trial
@@ -6027,6 +6658,7 @@ Link: https://clinicaltrials.gov/study/NCT07393880
 
 SUMMARY:
 
+
 ## NCT07394114
 A Multicenter, Randomized, Double-blind, Placebo-Controlled , Phase 3 Study Comparing the Efficacy and Safety of HDM1005 Versus Placebo in Subjects With T2DM Inadequate Glycemic Control With Diet and Exercise Alone
 
@@ -6037,6 +6669,7 @@ Link: https://clinicaltrials.gov/study/NCT07394114
 
 SUMMARY:
 
+
 ## NCT03520699
 Beijing Friendship Hospital Metabolic Surgery Clinical Database
 
@@ -6044,6 +6677,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT03520699
 
 SUMMARY:
+
 
 ## NCT05550298
 Multi-Center Molecular Diagnosis and Host Response of Respiratory Viral Infections in Pediatric Transplant Recipients
@@ -6053,6 +6687,7 @@ Link: https://clinicaltrials.gov/study/NCT05550298
 
 SUMMARY:
 
+
 ## NCT07057232
 Estimating the Prevalence of Chronic Insomnia in Patients With Non-cancer Chronic Pain
 
@@ -6061,6 +6696,7 @@ Link: https://clinicaltrials.gov/study/NCT07057232
 
 SUMMARY:
 
+
 ## NCT07699276
 Steroid-sparing Regimen With Olanzapine and Ondansetron to Prevent Emesis Caused by High Dose Cisplatin in Solid Cancer Patient : A Single Arm Phase II Study
 
@@ -6068,6 +6704,7 @@ Intervention: : dexamethasone sparing — omit dexamethasone on day 2-4
 Link: https://clinicaltrials.gov/study/NCT07699276
 
 SUMMARY:
+
 
 ## NCT07700901
 Electro-Acupuncture Combined With Exercise for Chemotherapy-Induced Peripheral Neuropathy in Patients Receiving Taxanes or Platinum-based Agents: A Randomized Controlled Trial
@@ -6086,6 +6723,7 @@ Link: https://clinicaltrials.gov/study/NCT07700901
 
 SUMMARY:
 
+
 ## NCT05855200
 A Phase 3, Open-Label, Randomized Study of Perioperative Dostarlimab Monotherapy Versus Standard of Care in Participants With Untreated T4N0 or Stage III dMMR/MSI-H Resectable Colon Cancer
 
@@ -6096,6 +6734,7 @@ Link: https://clinicaltrials.gov/study/NCT05855200
 
 SUMMARY:
 
+
 ## NCT06660381
 Pilot Study of Psilocybin-assisted Treatment for Cannabis Use Disorder
 
@@ -6104,6 +6743,7 @@ Link: https://clinicaltrials.gov/study/NCT06660381
 
 SUMMARY:
 
+
 ## NCT06868628
 A Phase 2a Study to Evaluate Microglial Activation, Safety, and Clinical Effects of Foralumab Nasal in Patients With Multiple System Atrophy (MSA)
 
@@ -6111,6 +6751,7 @@ Intervention: : Foralumab Nasal — Foralumab is an anti-CD3 monoclonal antibody
 Link: https://clinicaltrials.gov/study/NCT06868628
 
 SUMMARY:
+
 
 ## NCT07701512
 Clinical Study to Evaluate the Efficacy of Febuxostat in the Treatment of Conservatively Managed Intracranial Hemorrhage Patients
@@ -6121,6 +6762,7 @@ Link: https://clinicaltrials.gov/study/NCT07701512
 
 SUMMARY:
 
+
 ## NCT07395960
 The Efficacy and Safety of Metformin Intervention in Elderly Overweight or Obesity With Mild Cognitive Impairment by a Single-center, Randomized, Placebo-controlled Interventional Study (Include Elderly Patients With Obesity or Overweight)
 
@@ -6128,6 +6770,7 @@ Intervention: : Metfomin — The intervention group is administered metformin su
 Link: https://clinicaltrials.gov/study/NCT07395960
 
 SUMMARY:
+
 
 ## NCT06926868
 IZABRIGHT-Breast01: A Randomized, Open-label, Phase 2/3 Study of Izalontamab Brengitecan (BMS-986507) Versus Treatment of Physician's Choice in Patients With Previously Untreated, Locally Advanced, Recurrent Inoperable, or Metastatic Triple-negative Breast Cancer (TNBC) or ER-low, HER2-negative BC Who Are Ineligible for Anti-PD1/PD-L1 Treatment
@@ -6142,6 +6785,7 @@ Link: https://clinicaltrials.gov/study/NCT06926868
 
 SUMMARY:
 
+
 ## NCT07395635
 Impact of Immunonutrition in Patients Undergoing Hepatectomies for Liver Tumors: A Randomized Controlled Phase II Trial
 
@@ -6150,6 +6794,7 @@ Link: https://clinicaltrials.gov/study/NCT07395635
 
 SUMMARY:
 
+
 ## NCT07395206
 Acceptability, Feasibility and Preliminary Outcomes of the Kiso Mind App for Outpatients With Schizophrenia Spectrum Disorders: A Randomized Controlled Pilot Trial
 
@@ -6157,6 +6802,7 @@ Intervention: : Digital: Kiso Mind App — See above.
 Link: https://clinicaltrials.gov/study/NCT07395206
 
 SUMMARY:
+
 
 ## NCT06662292
 Using Existing Social Ties to Promote Physical Activity: Effects of Digitally Delivered Team Social Support Training
@@ -6168,6 +6814,7 @@ Link: https://clinicaltrials.gov/study/NCT06662292
 
 SUMMARY:
 
+
 ## NCT05031507
 Clinical and Laboratory Study of Rare Skeletal Disorders
 
@@ -6175,6 +6822,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05031507
 
 SUMMARY:
+
 
 ## NCT06145581
 Remote Monitoring With Health-Coaching for Lifestyle Changes in Older Patients With Multiple Myeloma
@@ -6190,6 +6838,7 @@ Link: https://clinicaltrials.gov/study/NCT06145581
 
 SUMMARY:
 
+
 ## NCT07396337
 A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase IIb Clinical Trial of QHRD106 Injection for the Treatment of Acute Ischemic Stroke
 
@@ -6201,6 +6850,7 @@ Link: https://clinicaltrials.gov/study/NCT07396337
 
 SUMMARY:
 
+
 ## NCT00027274
 Etiologic Investigation of Cancer Susceptibility in Inherited Bone Marrow Failure Syndromes: A Natural History Study
 
@@ -6208,6 +6858,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT00027274
 
 SUMMARY:
+
 
 ## NCT07182890
 Efficacy of Clostridium Butyricum in Alleviating Anxiety and Depression in Patients With Functional Dyspepsia：A Prospective, Double-Blind, Randomized, Placebo-Controlled Clinical Trial
@@ -6222,6 +6873,7 @@ Link: https://clinicaltrials.gov/study/NCT07182890
 
 SUMMARY:
 
+
 ## NCT07703033
 ARTILLERY-CarDI, Early Detection of Non-communicable Disease Risk in People With Breast Cancer: Multicenter Cardiac Decision Impact Study
 
@@ -6229,6 +6881,7 @@ Intervention: : Measuring coronary artery calcifications (Agatston score) using 
 Link: https://clinicaltrials.gov/study/NCT07703033
 
 SUMMARY:
+
 
 ## NCT07396532
 Nurse-Led Audio-Recorded Reorientation to Reduce Delirium in Elderly Hip Fractures: A Pilot Randomized Control Trial
@@ -6238,6 +6891,7 @@ Link: https://clinicaltrials.gov/study/NCT07396532
 
 SUMMARY:
 
+
 ## NCT07041619
 Changes in Brain Activity as a Function of Scalp and Subcutaneous Electrical Stimulation Parameters in Epileptic Patients
 
@@ -6245,6 +6899,7 @@ Intervention: : Intersection short-pulse (ISP) stimulation — The intervention 
 Link: https://clinicaltrials.gov/study/NCT07041619
 
 SUMMARY:
+
 
 ## NCT07282665
 A PHASE 3, PLACEBO-CONTROLLED, DOUBLE-BLINDED, RANDOMIZED STUDY TO EVALUATE THE EFFICACY, SAFETY, AND TOLERABILITY OF A CLOSTRIDIOIDES DIFFICILE VACCINE IN ADULTS 65 YEARS OF AGE AND OLDER
@@ -6255,6 +6910,7 @@ Link: https://clinicaltrials.gov/study/NCT07282665
 
 SUMMARY:
 
+
 ## NCT07397572
 Prophylactic Oral Iron Supplementation for the Prevention of Iron Deficiency Anemia After Sleeve Gastrectomy: A Prospective Comparative Cohort Study
 
@@ -6264,6 +6920,7 @@ Link: https://clinicaltrials.gov/study/NCT07397572
 
 SUMMARY:
 
+
 ## NCT07397728
 TREX1 Gene Mutations and Their Role in Systemic Lupus Erythematosus: A Genotype-Phenotype Correlation Study
 
@@ -6271,6 +6928,7 @@ Intervention: : TREX1 gene polymorphisms — To assess the prevalence of selecte
 Link: https://clinicaltrials.gov/study/NCT07397728
 
 SUMMARY:
+
 
 ## NCT07704164
 A Randomised, Double-Blind, Multicenter, Placebo-Controlled Clinical Trial of Colchicine to Reduce Coronary Artery Inflammation in People With HIV. COLCOHIV
@@ -6280,6 +6938,7 @@ Intervention: : Colchicine 0.5 mg — Colchicine 0.5 mg administered orally once
 Link: https://clinicaltrials.gov/study/NCT07704164
 
 SUMMARY:
+
 
 ## NCT07123207
 The Impact of Bacillus Subtilis on the Efficacy of Infliximab in Patients With Crohn's Disease: a Multicenter, Randomized, Single-blind, Blank-controlled Clinical Study
@@ -6291,6 +6950,7 @@ Link: https://clinicaltrials.gov/study/NCT07123207
 
 SUMMARY:
 
+
 ## NCT06694792
 Integration of Multiomics Markers for Invasive IPMNs Identification Through the Set-up of the INvasive Cyst bIomarkers Detection (INCITE) Consortium
 
@@ -6299,6 +6959,7 @@ Link: https://clinicaltrials.gov/study/NCT06694792
 
 SUMMARY:
 
+
 ## NCT04468178
 Clinical Results and RSA Migration Analysis of the GLOBAL ICON - Stemless Anatomic Shoulder
 
@@ -6306,6 +6967,7 @@ Intervention: : Total joint arthroplasty of the glenohumeral joint — The arthr
 Link: https://clinicaltrials.gov/study/NCT04468178
 
 SUMMARY:
+
 
 ## NCT07398300
 Dynamic Whole-Body FDG and H₂¹⁵O PET-CT to Assess Insulin-Mediated Glucose Uptake and Organ Perfusion During GIP and GLP-1 Infusion in Healthy Individuals and Patients With Type 2 Diabetes
@@ -6317,6 +6979,7 @@ Link: https://clinicaltrials.gov/study/NCT07398300
 
 SUMMARY:
 
+
 ## NCT07704554
 Dural Puncture Epidural (DPE) Technique: Efficacy and Safety Overview.
 
@@ -6324,6 +6987,7 @@ Intervention: : Dural Puncture Epidural (DPE) Technique — All eligible anesthe
 Link: https://clinicaltrials.gov/study/NCT07704554
 
 SUMMARY:
+
 
 ## NCT07397975
 A Prospective Multicenter Study for Relapse Risk Assessment Through Language Analysis in Individuals With Psychosis
@@ -6333,6 +6997,7 @@ Link: https://clinicaltrials.gov/study/NCT07397975
 
 SUMMARY:
 
+
 ## NCT06507917
 Concordance and Acceptability of Self-screening Versus Screening by a Healthcare Professional for HPV, a Risk Factor for Anal Cancer, by Swab in People Living With HIV
 
@@ -6340,6 +7005,7 @@ Intervention: : anal swabbing — anal swabbing
 Link: https://clinicaltrials.gov/study/NCT06507917
 
 SUMMARY:
+
 
 ## NCT06734013
 Transcriptomics as an Aid in the Histological Diagnosis of Acute Rejection After Liver Transplantation
@@ -6349,6 +7015,7 @@ Link: https://clinicaltrials.gov/study/NCT06734013
 
 SUMMARY:
 
+
 ## NCT06287736
 A Novel Neuromodulation Approach to Target Small Fiber Neuropathy Early in Diabetes and Measure Functional Recovery
 
@@ -6356,6 +7023,7 @@ Intervention: : Spinal Cord Stimulator Implantation (SCS) — Spinal cord stimul
 Link: https://clinicaltrials.gov/study/NCT06287736
 
 SUMMARY:
+
 
 ## NCT07679971
 Effects of Different Inter-Set Rest Intervals on Indirect Markers of Muscle Damage and Mechanical Parameters After Flywheel Resistance Training in Untrained Men: A Randomized Parallel-Group Clinical Trial
@@ -6367,6 +7035,7 @@ Link: https://clinicaltrials.gov/study/NCT07679971
 
 SUMMARY:
 
+
 ## NCT07398365
 Medical Phenotyping of NHS General Adult Psychiatry (GAP) Inpatients
 
@@ -6375,6 +7044,7 @@ Link: https://clinicaltrials.gov/study/NCT07398365
 
 SUMMARY:
 
+
 ## NCT07706686
 Phase 1 Challenge Study Using rDEN2delta30-7169 to Evaluate Host-Pathogen Interactions in Primary, Homotypic, and Heterotypic Dengue Virus Infection
 
@@ -6382,6 +7052,7 @@ Intervention: : rDEN2delta30-7169 — The rDEN2delta30-7169 strain is a live att
 Link: https://clinicaltrials.gov/study/NCT07706686
 
 SUMMARY:
+
 
 ## NCT07398664
 Recombinant Human Adenovirus 5 (H101) Combined With Transcatheter Arterial Chemoembolization (TACE) for the Treatment of Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma: A Single-Center, Prospective Study
@@ -6392,6 +7063,7 @@ Link: https://clinicaltrials.gov/study/NCT07398664
 
 SUMMARY:
 
+
 ## NCT06827613
 A Phase 1b/2, Open-label Study to Investigate the Safety and Efficacy of Invikafusp Alfa (STAR0602), a Selective T Cell Receptor (TCR)-Targeting, Bifunctional Antibody-fusion Molecule, in Combination With Sacituzumab Govitecan in Participants With Unresectable, Locally Advanced, or Metastatic Solid Tumors (START-002)
 
@@ -6401,6 +7073,7 @@ Link: https://clinicaltrials.gov/study/NCT06827613
 
 SUMMARY:
 
+
 ## NCT05909839
 The STEREO-DBS Study: 7-Tesla MRI Brain Network Analysis for Deep Brain Stimulation in Essential Tremor
 
@@ -6408,6 +7081,7 @@ Intervention: : 7T MRI network analysis for deep brain stimulation in essential 
 Link: https://clinicaltrials.gov/study/NCT05909839
 
 SUMMARY:
+
 
 ## NCT07551934
 Integrative Model of Factors Influencing Reproductive Behavior and Perinatal Mental Health of Women Amidst War
@@ -6418,6 +7092,7 @@ Link: https://clinicaltrials.gov/study/NCT07551934
 
 SUMMARY:
 
+
 ## NCT07707037
 Removing Surrogates Uncertainty to Reduce Fear and Anxiety After Cardiac Events - Kids
 
@@ -6426,6 +7101,7 @@ Link: https://clinicaltrials.gov/study/NCT07707037
 
 SUMMARY:
 
+
 ## NCT05444907
 Understanding Deep Brain Stimulation-induced Mania: Finding Potential Predictors to Optimize Treatment
 
@@ -6433,6 +7109,7 @@ Intervention: : No Intervention / Exposure — No intervention / exposure since 
 Link: https://clinicaltrials.gov/study/NCT05444907
 
 SUMMARY:
+
 
 ## NCT07398690
 Integrated Noninvasive Strategy Guided by Multiparametric MRI and the Prostate Health Index for Risk-Adapted Detection of Clinically Significant Prostate Cancer: A Multicenter Randomized Controlled Trial (INSIGHT-PCa Study)
@@ -6445,6 +7122,7 @@ Link: https://clinicaltrials.gov/study/NCT07398690
 
 SUMMARY:
 
+
 ## NCT02594813
 Bleeding Rate After EGD and Colonoscopy in Patients Who Continue to Take Antithrombotic Agents
 
@@ -6452,6 +7130,7 @@ Intervention: : Biopsy, cold or hot snare polypectomy, or EMR
 Link: https://clinicaltrials.gov/study/NCT02594813
 
 SUMMARY:
+
 
 ## NCT04746209
 Alpha/Beta T-cell and B-cell Depleted Allogeneic Transplantation (IDE 13641) Followed by Blinatumomab Therapy for High-Risk B-Acute Lymphoblastic Leukemia: A Pilot Study
@@ -6462,6 +7141,7 @@ Link: https://clinicaltrials.gov/study/NCT04746209
 
 SUMMARY:
 
+
 ## NCT07707700
 Testing the Visual-Attentional Pathway in Chinese Developmental Dyslexia: A Randomized Controlled Trial to Validate a Neurocognitive Cascade Model of Remediation
 
@@ -6470,6 +7150,7 @@ Intervention: : Action video game intervention group — Participants will under
 Link: https://clinicaltrials.gov/study/NCT07707700
 
 SUMMARY:
+
 
 ## NCT05963971
 A Bilingual Virtually-based Intervention (PEDALL) for the Prevention of Weight Gain in Childhood ALL Patients Considering Key Genetic and Sociodemographic Risk Factors
@@ -6480,6 +7161,7 @@ Link: https://clinicaltrials.gov/study/NCT05963971
 
 SUMMARY:
 
+
 ## NCT07708116
 A Phase 1 First-In-Human, Double-Blind, Single and Multiple Ascending Dose Trial to Evaluate Safety, Tolerability, Pharmacokinetics, and Immunogenicity of Intravenous Doses of CTX-187 in Healthy Volunteers Followed by Multiple Doses in Patients With a Bacterial Infection
 
@@ -6489,6 +7171,7 @@ Link: https://clinicaltrials.gov/study/NCT07708116
 
 SUMMARY:
 
+
 ## NCT07708662
 Effectiveness of BoostEd COMpresson for the Treatment of Lower Limb Chronic Edema (BECOME): a Pragmatic Multi-centric Randomized Trial
 
@@ -6497,6 +7180,7 @@ Intervention: : Conservative edema treatment (complex decongestive therapy) — 
 Link: https://clinicaltrials.gov/study/NCT07708662
 
 SUMMARY:
+
 
 ## NCT07708194
 An Open-Label, Single-Center, Exploratory Phase Ib/II Clinical Study of Entinostat Combined With Pyrotinib Plus Endocrine Therapy in Patients With Advanced Triple-Positive Breast Cancer After Trastuzumab Failure
@@ -6508,6 +7192,7 @@ Link: https://clinicaltrials.gov/study/NCT07708194
 
 SUMMARY:
 
+
 ## NCT07085975
 The Safety, Feasibility, and Repeatability of Inhaled ATP Cough Challenges
 
@@ -6515,6 +7200,7 @@ Intervention: : Adenosine 5'-triphosphate — Participants will inhale increasin
 Link: https://clinicaltrials.gov/study/NCT07085975
 
 SUMMARY:
+
 
 ## NCT07398976
 Sex Differences in E-Cigarette Perception: Study 2
@@ -6526,6 +7212,7 @@ Link: https://clinicaltrials.gov/study/NCT07398976
 
 SUMMARY:
 
+
 ## NCT05995964
 A PHASE 2, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO INVESTIGATE THE EFFICACY AND SAFETY OF PF-07275315 AND PF-07264660 IN ADULT PARTICIPANTS WITH MODERATE-SEVERE ATOPIC DERMATITIS
 
@@ -6536,6 +7223,7 @@ Link: https://clinicaltrials.gov/study/NCT05995964
 
 SUMMARY:
 
+
 ## NCT07399028
 A Single-center, Open-label Study to Characterize Human Skin Changes From Biostimulator Treatments Via Non-invasive Imaging
 
@@ -6544,6 +7232,7 @@ Link: https://clinicaltrials.gov/study/NCT07399028
 
 SUMMARY:
 
+
 ## NCT06785909
 The Role of Proprioceptive, Fear-related and Inflammatory Factors in the Persistence of Pregnancy-related Lumbopelvic Pain in Pregnant Women.
 
@@ -6551,6 +7240,7 @@ Intervention: : Assessment of postural control, body perception, psychosocial fa
 Link: https://clinicaltrials.gov/study/NCT06785909
 
 SUMMARY:
+
 
 ## NCT06942598
 Feasibility of an ADAPTive Intervention to Improve Food Security and Maternal-Child Health (ADAPT-MCH)
@@ -6563,6 +7253,7 @@ Link: https://clinicaltrials.gov/study/NCT06942598
 
 SUMMARY:
 
+
 ## NCT07355387
 Home Based Functional Balance Intervention (FBI) for Physical and Cognitive Symptoms of Multiple Sclerosis
 
@@ -6571,6 +7262,7 @@ Intervention: : Multicomponent balance intervention consisting of four component
 Link: https://clinicaltrials.gov/study/NCT07355387
 
 SUMMARY:
+
 
 ## NCT06673771
 Effects of Vestibular Rehabilitation on Balance and Post Stroke Fatigue: a Randomized Control Trial
@@ -6583,6 +7275,7 @@ Link: https://clinicaltrials.gov/study/NCT06673771
 
 SUMMARY:
 
+
 ## NCT05551299
 Cholangiocarcinoma Treatment with Radiofrequency Ablation or Photodynamic Therapy: a Randomized Controlled Trial
 
@@ -6592,6 +7285,7 @@ Link: https://clinicaltrials.gov/study/NCT05551299
 
 SUMMARY:
 
+
 ## NCT07709858
 Clinical Outcomes in Patients Undergoing Transcatheter Aortic Valve Replacement: The Collaborative Hexagon-Asian Transcatheter Aortic Valve Replacement Union (CHATEAU) Registry
 
@@ -6599,6 +7293,7 @@ Intervention: : Transcatheter Aortic Valve Replacement — Transcatheter aortic 
 Link: https://clinicaltrials.gov/study/NCT07709858
 
 SUMMARY:
+
 
 ## NCT06803784
 Discovery and Validation of Protein Structural Complexes in Circulating Biofluids As Novel Biomarkers for Early Diagnosis, Prognosis and Therapeutic Management of Patients Affected by Neurodegenerative Disorders
@@ -6627,6 +7322,7 @@ Link: https://clinicaltrials.gov/study/NCT06803784
 
 SUMMARY:
 
+
 ## NCT07399704
 Open-label Study to Evaluate the Long-term Safety, Tolerability, Pharmacokinetics and Efficacy of Nizubaglustat (AZ-3102) in Patients With GM2 Gangliosidosis or Niemann-Pick Type C Disease, With or Without Previous Administration of Miglustat
 
@@ -6634,6 +7330,7 @@ Intervention: : AZ-3102 — Daily oral intake of AZ-3102 dispersible tablets
 Link: https://clinicaltrials.gov/study/NCT07399704
 
 SUMMARY:
+
 
 ## NCT05306899
 A Multi-center Randomized Controlled Trial of Efficacy and Safety of Intravenous Ketamine for Chronic Daily Headaches: The KetHead Study
@@ -6644,6 +7341,7 @@ Link: https://clinicaltrials.gov/study/NCT05306899
 
 SUMMARY:
 
+
 ## NCT07710287
 Histologic Healing in IBD: Comparison of "Standard" Scores With Expression of Claudin 2 and Impact on Outcomes
 
@@ -6651,6 +7349,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07710287
 
 SUMMARY:
+
 
 ## NCT07598409
 Computerized Executive Function Training in Healthy Older Adults and Individuals With Mild Cognitive Impairment: Transfer Effects on Memory and Emotional Outcomes. A Randomized Controlled Trial
@@ -6661,6 +7360,7 @@ Link: https://clinicaltrials.gov/study/NCT07598409
 
 SUMMARY:
 
+
 ## NCT07568834
 "Impact of an Educational Podcast for Patients With Chronic Pelvic Pain"
 
@@ -6668,6 +7368,7 @@ Intervention: : Podcast — Audio podcast on chronic pelvic pain topics
 Link: https://clinicaltrials.gov/study/NCT07568834
 
 SUMMARY:
+
 
 ## NCT06912763
 Reversing External-beam Radiotherapy-associated Fibrosis Syndrome: an Interventional Bayesian Adaptive Randomized-controlled Orphan Drug Platform Trial for Orodental Sequelae (Reverse-fibrose)
@@ -6682,6 +7383,7 @@ Link: https://clinicaltrials.gov/study/NCT06912763
 
 SUMMARY:
 
+
 ## NCT07353463
 Shanghai Clinical Cohort - Parkinson's Disease (Reserve)
 
@@ -6690,6 +7392,7 @@ Link: https://clinicaltrials.gov/study/NCT07353463
 
 SUMMARY:
 
+
 ## NCT06404684
 Paraphilic Disorders and Other Conditions With Risk for Sexual Violence: the Evaluation of an Adapted Cognitive Behavioral Therapy (CBT) Manual for Paraphilic Disorders
 
@@ -6697,6 +7400,7 @@ Intervention: : Cognitive behavioral therapy (CBT) — se above
 Link: https://clinicaltrials.gov/study/NCT06404684
 
 SUMMARY:
+
 
 ## NCT06899334
 Direct Comparison of Altered States of Consciousness Induced by LSD, Psilocybin, and DMT in a Randomized, Placebo-controlled, Cross-over Trial in Healthy Participants (LPD-Study)
@@ -6709,6 +7413,7 @@ Link: https://clinicaltrials.gov/study/NCT06899334
 
 SUMMARY:
 
+
 ## NCT06052033
 The Effect of 5-aminolaevulinic Acid Photodynamic Therapy Versus C02 Laser in the Treatment of Persistent Cervical Low-grade Squamous Intraepithelial Lesions With High-risk HPV Infection:A Non-randomized Controlled Trail Study
 
@@ -6716,6 +7421,7 @@ Intervention: : CO2 — CO2 laser treatment is a surgical procedure that employs
 Link: https://clinicaltrials.gov/study/NCT06052033
 
 SUMMARY:
+
 
 ## NCT02558699
 Clinical Usefulness of Virtual Ablation Guided Catheter Ablation of Atrial Fibrillation: Virtual Rotor Mapping and Catheter Ablation
@@ -6726,6 +7432,7 @@ Link: https://clinicaltrials.gov/study/NCT02558699
 
 SUMMARY:
 
+
 ## NCT07399977
 A Nonrandomized Trial Using DNA Liquid Biopsies to Guide Anticoagulation For Patients With Cancer-Associated Thromboembolism
 
@@ -6735,6 +7442,7 @@ Link: https://clinicaltrials.gov/study/NCT07399977
 
 SUMMARY:
 
+
 ## NCT04255563
 Drug-coating Balloon Treatment in Coronary Artery Disease: a Prospective, Multicenter, Registry Study (ULTIMATE-DCB)
 
@@ -6742,6 +7450,7 @@ Intervention: : DCB treatment — DCB (Sequent® Please) treatment for CAD patie
 Link: https://clinicaltrials.gov/study/NCT04255563
 
 SUMMARY:
+
 
 ## NCT07711691
 Empowering Patients' Lung Cancer Screening Uptake (Empower LCS/Call+): A Multi-Site Pilot Randomized Controlled Trial
@@ -6754,6 +7463,7 @@ Link: https://clinicaltrials.gov/study/NCT07711691
 
 SUMMARY:
 
+
 ## NCT00801333
 Derivation of Induced Pluripotent Stem Cells From an Existing Collection of Human Somatic Cells
 
@@ -6761,6 +7471,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT00801333
 
 SUMMARY:
+
 
 ## NCT07400042
 Reducing the Length of Stay and Incidence of Rehospitalization in Heart Failure Patients by Measuring Peripheral Venous Pressure; a Randomized Clinical Trial
@@ -6771,6 +7482,7 @@ Link: https://clinicaltrials.gov/study/NCT07400042
 
 SUMMARY:
 
+
 ## NCT07266493
 A Single-arm, Open-label, Single-center Prospective Study of Neoadjuvant Envafolimab Combined With Albumin-bound Paclitaxel and Carboplatin for Resectable Locally Advanced Esophageal Squamous Cell Carcinoma
 
@@ -6778,6 +7490,7 @@ Intervention: : Chemotherapy （Albumin bound paclitaxel and Carboplatin） — 
 Link: https://clinicaltrials.gov/study/NCT07266493
 
 SUMMARY:
+
 
 ## NCT07400029
 A Phase II Trial of Obecabtagene Autoleucel Consolidation in Adult Patients With Acute Lymphoblastic Leukemia in First Complete Remission Without Measurable Residual Disease
@@ -6787,6 +7500,7 @@ Link: https://clinicaltrials.gov/study/NCT07400029
 
 SUMMARY:
 
+
 ## NCT07400224
 Clinical Application of Al18F-NOTA-FAPI-04 PET/CT or PET/MRI Imaging in Malignant Tumor,Cardiovascular or Immune Disease
 
@@ -6794,6 +7508,7 @@ Intervention: : Al18F-NOTA-FAPI PET/CT(or PET/MRI) — Participants will receive
 Link: https://clinicaltrials.gov/study/NCT07400224
 
 SUMMARY:
+
 
 ## NCT07712393
 Open-Label, Randomized, Single Dose, Parallel Group, Phase 1 Study in Healthy Volunteers to Evaluate the Relative Bioavailability of Two Formulations of GSK5784283 Administered by Subcutaneous Injection
@@ -6803,6 +7518,7 @@ Link: https://clinicaltrials.gov/study/NCT07712393
 
 SUMMARY:
 
+
 ## NCT06755671
 A Prospective Multicentre Real-world Assessment of the Efficacy of Danning Tablets in Alleviating Digestive Symptoms
 
@@ -6810,6 +7526,7 @@ Intervention: : Danning Tablet — Danning Tablet is the only exposure in this o
 Link: https://clinicaltrials.gov/study/NCT06755671
 
 SUMMARY:
+
 
 ## NCT05799092
 Invasive Versus Non-invasive Approach in Symptomatic Patients With Non-High Risk Coronary Artery Stenosis (SMART-STEP Trial)
@@ -6819,6 +7536,7 @@ Intervention: : Invasive coronary angiography — As alternative to non-invasive
 Link: https://clinicaltrials.gov/study/NCT05799092
 
 SUMMARY:
+
 
 ## NCT06921512
 TCM Daoyin for Anxiety and Depression Symptoms: Psychological Effects and Biological Mechanisms
@@ -6832,6 +7550,7 @@ Link: https://clinicaltrials.gov/study/NCT06921512
 
 SUMMARY:
 
+
 ## NCT07713537
 Risk Score of Embolism in Patients With Atrial Fibrillation (AF) Undergoing Treatment With Direct Oral Anticoagulant (DOAC)
 
@@ -6839,6 +7558,7 @@ Intervention: : DOAC Level — Testing for plasma DOAC level concentration to de
 Link: https://clinicaltrials.gov/study/NCT07713537
 
 SUMMARY:
+
 
 ## NCT07713641
 Investigating the Role of Short-Chain Fatty Acids in Endotoxemia-Induced Inflammation and Core Executive Functioning: A Randomized, Triple-Blind, Placebo-Controlled Trial
@@ -6850,6 +7570,7 @@ Link: https://clinicaltrials.gov/study/NCT07713641
 
 SUMMARY:
 
+
 ## NCT06485947
 Phase Ib Study Combining Dinutuximab Beta With Induction Chemotherapy Regimens in Patients With Newly Diagnosed High-risk Neuroblastoma
 
@@ -6860,6 +7581,7 @@ Link: https://clinicaltrials.gov/study/NCT06485947
 
 SUMMARY:
 
+
 ## NCT07400640
 Which Is More Effective in the Treatment of Postherpetic Neuralgia: Erector Spinae Plane Block or Transcutaneous Radiofrequency?
 
@@ -6869,6 +7591,7 @@ Link: https://clinicaltrials.gov/study/NCT07400640
 
 SUMMARY:
 
+
 ## NCT07713797
 A Prospective, Observational and Multicentric Study to Evaluate the Performance and Clinical Utility of EndoID ELISA Kit to Determine Circulating Synuclein Gamma (SNCG) and B-cell Lymphoma-6 (BCL6) Levels as Potential Biomarkers for Endometriosis"
 
@@ -6877,6 +7600,7 @@ Intervention: : SNCG Protein — Synuclein gamma (SNCG), a member of the synucle
 Link: https://clinicaltrials.gov/study/NCT07713797
 
 SUMMARY:
+
 
 ## NCT07451171
 A Phase II Trial to Prevent Linear Growth Stunting and Malnutrition in Impoverished Children From a Low-Income Country by Treating Small Intestine Bacterial Overgrowth
@@ -6890,6 +7614,7 @@ Link: https://clinicaltrials.gov/study/NCT07451171
 
 SUMMARY:
 
+
 ## NCT07400952
 Multicenter, Randomized, Double-Masked, Placebo-Controlled Study to Evaluate the Safety and Efficacy of GLK-221 Ophthalmic Solution in Subjects With Keratoconus
 
@@ -6898,6 +7623,7 @@ Intervention: : GLK-221 Ophthalmic Solution — GLK-221 Ophthalmic Solution admi
 Link: https://clinicaltrials.gov/study/NCT07400952
 
 SUMMARY:
+
 
 ## NCT06817330
 the Effect of a MUsic Intervention on poStictal Agitation in Electroconvulsive Therapy Patients: the MUSE Trial
@@ -6908,6 +7634,7 @@ Link: https://clinicaltrials.gov/study/NCT06817330
 
 SUMMARY:
 
+
 ## NCT07018700
 A Phase 3, Randomized, Double-blind, Placebo-controlled, Multicenter, Clinical Trial With Extension Period to Evaluate the Efficacy and Safety of Xeomin® Injections for the Prevention of Episodic Migraine
 
@@ -6917,6 +7644,7 @@ Link: https://clinicaltrials.gov/study/NCT07018700
 
 SUMMARY:
 
+
 ## NCT07315204
 Viability Assessment Using Flavin Mononucleotide (FMN) Measured in Perfusate and Bile During Normothermic Machine Perfusion: an International, Multi-center Validation Study
 
@@ -6924,6 +7652,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07315204
 
 SUMMARY:
+
 
 ## NCT06704633
 Health Status After Switching Angiotensin-converting Enzyme Inhibitors or Angiotensin Receptor Blockers to Sacubitril-valsartan in Patients With Heart Failure With Reduced Ejection Fraction From Rural Tanzania: An Interventional Study
@@ -6933,6 +7662,7 @@ Link: https://clinicaltrials.gov/study/NCT06704633
 
 SUMMARY:
 
+
 ## NCT06208007
 Arterial Stiffening as a Predictor for Diastolic Cardiac Dysfunction and HFpEF
 
@@ -6940,6 +7670,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06208007
 
 SUMMARY:
+
 
 ## NCT07356492
 Expanding Veteran Sponsorship Initiative+ to Support High-Risk Transitioning Servicemembers and Veterans: A Precision Medicine Approach (PEC 24-113)
@@ -6950,6 +7681,7 @@ Link: https://clinicaltrials.gov/study/NCT07356492
 
 SUMMARY:
 
+
 ## NCT07714811
 Comparative Analysis of the Efficacy of Hyaluronic Acid and Platelet-Rich Plasma Injections in the Treatment of Chronic Tendinopathies and Enthesopathies: A Prospective, Randomized Comparative Study
 
@@ -6958,6 +7690,7 @@ Intervention: : Hyaluronic acid injection — Assigned to: Arm 1
 Link: https://clinicaltrials.gov/study/NCT07714811
 
 SUMMARY:
+
 
 ## NCT07714902
 Administration of Calcium Gluconate for the Reduction of Blood Loss During Vaginal Delivery: A Randomized, Double-Blind, Placebo-Controlled Trial
@@ -6968,6 +7701,7 @@ Link: https://clinicaltrials.gov/study/NCT07714902
 
 SUMMARY:
 
+
 ## NCT06553443
 Randomised Clinical Trial Comparing Drug-coated Balloon to Plain Balloon for All Peripheral AVF Stenosis
 
@@ -6975,6 +7709,7 @@ Intervention: : Angioplasty of all peripheral AVF stenosis — All peripheral AV
 Link: https://clinicaltrials.gov/study/NCT06553443
 
 SUMMARY:
+
 
 ## NCT07715682
 The Effect of Gentle Human Touch and Stimulus Reduction on Pain and Comfort During Heel Blood Collection in Premature Newborns
@@ -6989,6 +7724,7 @@ Link: https://clinicaltrials.gov/study/NCT07715682
 
 SUMMARY:
 
+
 ## NCT07715435
 Pilot Observational Study Involving the Collection of Biological Samples and Clinical Data From Patients With Echinococcosis: Implementation and Evaluation of a Home-made PCR Method
 
@@ -6996,6 +7732,7 @@ Intervention: : Collection of biological samples from echinococcosis patients fo
 Link: https://clinicaltrials.gov/study/NCT07715435
 
 SUMMARY:
+
 
 ## NCT05722236
 A Randomized, Wait List-Controlled, Clinical Trial of IBD Strong Peer for Self-Management of Psychological Distress by Persons Living With Inflammatory Bowel Diseases (IBD)
@@ -7006,6 +7743,7 @@ Link: https://clinicaltrials.gov/study/NCT05722236
 
 SUMMARY:
 
+
 ## NCT07207148
 People With Multiple Sclerosis Treated With Ocrelizumab and GLP-1 Agonists
 
@@ -7015,6 +7753,7 @@ Link: https://clinicaltrials.gov/study/NCT07207148
 
 SUMMARY:
 
+
 ## NCT07401121
 Koanewa: A First in Human, Phase 1b, Open-label, Non-randomised, Single Dose Study to Assess the Safety and Tolerability of CTx1000 in Participants Diagnosed With Amyotrophic Lateral Sclerosis
 
@@ -7022,6 +7761,7 @@ Intervention: : AAV9 Gene therapy — Single dose gene therapy
 Link: https://clinicaltrials.gov/study/NCT07401121
 
 SUMMARY:
+
 
 ## NCT07230236
 Investigation of the Relationship Between LS Chirp ABR and Comprehension In Noise Skills In Individuals With Suspected Hidden Hearing Loss
@@ -7031,6 +7771,7 @@ Link: https://clinicaltrials.gov/study/NCT07230236
 
 SUMMARY:
 
+
 ## NCT07708844
 Structured Opportunities for Connection to Improve Aging-related Loneliness
 
@@ -7039,6 +7780,7 @@ Link: https://clinicaltrials.gov/study/NCT07708844
 
 SUMMARY:
 
+
 ## NCT05196334
 Pharmacotyping of Patient-derived Pancreatic Cancer Organoids From Endoscopic Ultrasound-guided Biopsy as a Tool for Predicting Oncological Response
 
@@ -7046,6 +7788,7 @@ Intervention: : No intervention — No intervention
 Link: https://clinicaltrials.gov/study/NCT05196334
 
 SUMMARY:
+
 
 ## NCT07401537
 Efficacy and Safety of Extended-Dose Interval Immunotherapy Versus Standard-Dose Interval Immunotherapy for Advanced Triple-Negative Breast Cancer: A Multicenter Randomized Controlled Clinical Trial
@@ -7056,6 +7799,7 @@ Link: https://clinicaltrials.gov/study/NCT07401537
 
 SUMMARY:
 
+
 ## NCT07077434
 A Phase 1 Open-Label, Multi-Center Study to Evaluate Pharmacokinetics, Safety and Tolerability of Navlimetostat (BMS-986504) in Japanese and Chinese Participants With Advanced Solid Tumors With Homozygous MTAP Deletion
 
@@ -7063,6 +7807,7 @@ Intervention: : BMS-986504 — Specified dose on specified days
 Link: https://clinicaltrials.gov/study/NCT07077434
 
 SUMMARY:
+
 
 ## NCT07717268
 Radioterapia estereotáctica Fraccionada más antiandrógeno de Segunda generación Para Pacientes oligometastásicos Con cáncer de próstata Resistente a la castración. Estudio español Fase II, Prospectivo, multicéntrico.
@@ -7074,6 +7819,7 @@ Link: https://clinicaltrials.gov/study/NCT07717268
 
 SUMMARY:
 
+
 ## NCT07717333
 Longitudinal Evaluation Of Sarkopenia-Related Parameters After Bariatric Surgery
 
@@ -7081,6 +7827,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07717333
 
 SUMMARY:
+
 
 ## NCT06184009
 Treatment of Newly Diagnosed High Risk Pediatric Acute Lymphoblastic Leukemia-prospective, Nationwide, Multi-center Study
@@ -7106,6 +7853,7 @@ Link: https://clinicaltrials.gov/study/NCT06184009
 
 SUMMARY:
 
+
 ## NCT07401875
 A Phase 1b Study of HC-7366, an Agonist of ISR With Immunotherapy in Kidney Cancer (SHARK)
 
@@ -7116,6 +7864,7 @@ Link: https://clinicaltrials.gov/study/NCT07401875
 
 SUMMARY:
 
+
 ## NCT07717463
 Comparison of Preoperative Pericapsular Nerve Group (PENG) Block Versus Femoral Nerve Block for Optimizing Spinal Anaesthesia in Proximal Femur Fracture Surgery: A Prospective Randomized Controlled Trial
 
@@ -7125,6 +7874,7 @@ Intervention: : Ultrasound-Guided Pericapsular Nerve Group (PENG) Block — Ultr
 Link: https://clinicaltrials.gov/study/NCT07717463
 
 SUMMARY:
+
 
 ## NCT05583617
 A Platform Study Evaluating the Safety and Efficacy of Multiple Treatments in Patients With Multiple Myeloma
@@ -7140,6 +7890,7 @@ Link: https://clinicaltrials.gov/study/NCT05583617
 
 SUMMARY:
 
+
 ## NCT07401966
 Amputations in Childhood and Neuropathic Pain
 
@@ -7147,6 +7898,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07401966
 
 SUMMARY:
+
 
 ## NCT07717827
 Connectome-guided Onco-functional Resection With Tractography-Extended Neuronavigation in Brain Tumor Surgery Involving Eloquent Regions: a Prospective Single-centre Cohort Study Integrating Advanced Diffusion MRI Into Clinical Neuronavigation for Gliomas and Metastases
@@ -7157,6 +7909,7 @@ Link: https://clinicaltrials.gov/study/NCT07717827
 
 SUMMARY:
 
+
 ## NCT07402018
 Arterial Compliance as a Predictor of Clinical Outcomes With Intra-aortic Balloon Counterpulsation: A Prospective Observational Pilot Study
 
@@ -7165,6 +7918,7 @@ Link: https://clinicaltrials.gov/study/NCT07402018
 
 SUMMARY:
 
+
 ## NCT06214208
 Neuromodulation of Spinal Circuits: Effects on Spasticity, Nociception, and Motor Activation (Phase II)
 
@@ -7172,6 +7926,7 @@ Intervention: : Transcutaneous Spinal Stimulation — Transcutaneous spinal stim
 Link: https://clinicaltrials.gov/study/NCT06214208
 
 SUMMARY:
+
 
 ## NCT07057063
 Effect of Light Therapy on Pain and Synovitis in Patients With Knee Synovitis: Study Protocol for a Randomized Controlled Trial
@@ -7182,6 +7937,7 @@ Link: https://clinicaltrials.gov/study/NCT07057063
 
 SUMMARY:
 
+
 ## NCT06766526
 Internet-based Support for Adjustment to Prostate Cancer (ISAC) - A Randomized Controlled Trial of ICBT for Distress Related to Prostate Cancer
 
@@ -7191,6 +7947,7 @@ Link: https://clinicaltrials.gov/study/NCT06766526
 
 SUMMARY:
 
+
 ## NCT05968794
 The Effectiveness of Cerclage for the Reduction of Extreme Preterm Birth and Perinatal Mortality in Twin Pregnancies With a Short Cervix or Dilatation
 
@@ -7198,6 +7955,7 @@ Intervention: : Vaginal cerclage — A vaginal cerclage is a short and minor sur
 Link: https://clinicaltrials.gov/study/NCT05968794
 
 SUMMARY:
+
 
 ## NCT07193303
 The Immediate Effect of Mental Imagery on Upper Extremity Skills With the Patients of Parkinson's Disease
@@ -7207,6 +7965,7 @@ Link: https://clinicaltrials.gov/study/NCT07193303
 
 SUMMARY:
 
+
 ## NCT07255378
 Use of Vasopressin in Septic Shock.
 
@@ -7214,6 +7973,7 @@ Intervention: : Usage of vasopressin (VAP) as a second-line vasopressor in septi
 Link: https://clinicaltrials.gov/study/NCT07255378
 
 SUMMARY:
+
 
 ## NCT06072781
 A Phase 3, Randomized, Open-Label Study of Combination Therapy With Avutometinib Plus Defactinib Versus Investigator's Choice of Treatment in Patients With Recurrent Low-Grade Serous Ovarian Cancer (LGSOC) (RAMP 301)
@@ -7228,6 +7988,7 @@ Link: https://clinicaltrials.gov/study/NCT06072781
 
 SUMMARY:
 
+
 ## NCT05865119
 OPTImal Treatment of Sinus VENOSUS Defect - Efficacy and Safety of Transcatheter Correction Compared to Surgical Treatment in Patients With Sinus Venosus Defect
 
@@ -7237,6 +7998,7 @@ Link: https://clinicaltrials.gov/study/NCT05865119
 
 SUMMARY:
 
+
 ## NCT06623487
 The Application Value of 68Ga-grazytracer PET in Immunotherapy for Stage III Non-small-cell Lung Cancer: a Prospective, Observationa Trial
 
@@ -7244,6 +8006,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06623487
 
 SUMMARY:
+
 
 ## NCT07402239
 The Study of a tHerApeutic and monitoRing Device iMplanted at the Atrial Septum prOvides Heart Failure maNagement in sYmptomatic Patients (HARMONY Trial)
@@ -7254,6 +8017,7 @@ Link: https://clinicaltrials.gov/study/NCT07402239
 
 SUMMARY:
 
+
 ## NCT07402213
 A Multicenter, Randomized, Double-blind, Placebo-controlled Phase III Clinical Study to Evaluate the Efficacy and Safety of JYB1904 Injection in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1 Antihistamines
 
@@ -7263,6 +8027,7 @@ Link: https://clinicaltrials.gov/study/NCT07402213
 
 SUMMARY:
 
+
 ## NCT07402343
 A Single Arm Phase II Study Evaluating Intracranial Efficacy of Tarlatamab in Patients With Asymptomatic Active Brain Metastases From Small Cell Lung Cancer
 
@@ -7271,6 +8036,7 @@ Link: https://clinicaltrials.gov/study/NCT07402343
 
 SUMMARY:
 
+
 ## NCT07718932
 The Role of Enamel Matrix Derivative in Reducing the Periodontal Defect Distal to the Mandibular Second Molar Following Surgical Extraction of the Third Molar
 
@@ -7278,6 +8044,7 @@ Intervention: : Enamel Matrix Derivative (Emdogain®) — Application of 24% EDT
 Link: https://clinicaltrials.gov/study/NCT07718932
 
 SUMMARY:
+
 
 ## NCT07213063
 Effects of Chronic Creatine and Beta-Hydroxy-Beta-Methylbutyrate Supplementation on Oxidative Stress, Inflammation, Muscle Strength, and Body Composition in Individuals With Down Syndrome
@@ -7289,6 +8056,7 @@ Link: https://clinicaltrials.gov/study/NCT07213063
 
 SUMMARY:
 
+
 ## NCT07706127
 mHealth to Improve Medication Adherence Among Latina Breast Cancer Patients Experiencing Non-Medical Drivers of Health
 
@@ -7299,6 +8067,7 @@ Link: https://clinicaltrials.gov/study/NCT07706127
 
 SUMMARY:
 
+
 ## NCT07402356
 Task-evoked Pupillometry in AD, MCI, and Depression-Related Cognitive Impairment
 
@@ -7307,6 +8076,7 @@ Link: https://clinicaltrials.gov/study/NCT07402356
 
 SUMMARY:
 
+
 ## NCT07719660
 Wearable Blood-Pressure Monitoring Comparison Study (WBPMCS)
 
@@ -7314,6 +8084,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07719660
 
 SUMMARY:
+
 
 ## NCT07719959
 A Randomized Controlled Clinical Study on the Precise Positioning of Double-lumen Bronchial Intubation Guided by Medical Imaging-based Airway Three-dimensional Reconstruction Technology
@@ -7324,6 +8095,7 @@ Link: https://clinicaltrials.gov/study/NCT07719959
 
 SUMMARY:
 
+
 ## NCT07402512
 A Phase III, Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy and Safety of Deurremidevir Hydrobromide for Oral Suspension in Infants and Young Children With Respiratory Syncytial Virus Infection
 
@@ -7333,6 +8105,7 @@ Link: https://clinicaltrials.gov/study/NCT07402512
 
 SUMMARY:
 
+
 ## NCT07020910
 The Bad Berka Heart Rhythm Registry (2B2R) is a Prospective, Single-center Observational Cohort Evaluating Safety, Efficacy, and Outcomes in Patients Undergoing Arrhythmia Therapy or CIED Implantation at the Heart Center Bad Berka
 
@@ -7340,6 +8113,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07020910
 
 SUMMARY:
+
 
 ## NCT06416397
 Diagnostic Approach for Cholangiocarcinoma Using Liquid Bile Biopsy
@@ -7351,6 +8125,7 @@ Link: https://clinicaltrials.gov/study/NCT06416397
 
 SUMMARY:
 
+
 ## NCT07734116
 A Multicenter, Open-label, Uncontrolled Phase I/II Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of ONO-4538HSC in Pediatric Patients With Malignant Solid Tumors and in Patients With Epithelioid Sarcoma, and to Evaluate the Tolerability in Pediatric Patients.
 
@@ -7358,6 +8133,7 @@ Intervention: : ONO-4538HSC — ONO-4538HSC will be administered subcutaneously 
 Link: https://clinicaltrials.gov/study/NCT07734116
 
 SUMMARY:
+
 
 ## NCT07720700
 Prospective Evaluation of Functional Performance in Patients With Lower Limb Orthoses
@@ -7367,6 +8143,7 @@ Link: https://clinicaltrials.gov/study/NCT07720700
 
 SUMMARY:
 
+
 ## NCT06787014
 Resection of the Primary Tumor vs. Systemic Treatment Alone for Patients With Small Intestinal Neuroendocrine Tumors and Unresectable Metastases: a Retrospective, Europe-wide, Pooled Cohort Study (ENETS-SurgSmInt)
 
@@ -7375,6 +8152,7 @@ Link: https://clinicaltrials.gov/study/NCT06787014
 
 SUMMARY:
 
+
 ## NCT07402824
 Investigation of Mobbing Exposure and Job Satisfaction Levels Among Physiotherapists
 
@@ -7382,6 +8160,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07402824
 
 SUMMARY:
+
 
 ## NCT05271916
 An Open Label, Multicenter, Phase I/IIB Study of Dacomitinib Plus Anlotinib for Advanced Non-Small Cell Lung Cancer (NSCLC) Harboring Epidermal Growth Factor Receptor (EGFR) 21-L858R Mutations.
@@ -7392,6 +8171,7 @@ Link: https://clinicaltrials.gov/study/NCT05271916
 
 SUMMARY:
 
+
 ## NCT04774848
 High Frequency Oscillatory Ventilation Versus High Frequency Jet Ventilation as Initial Mode of Ventilation for Congenital Diaphragmatic Hernia
 
@@ -7401,6 +8181,7 @@ Link: https://clinicaltrials.gov/study/NCT04774848
 
 SUMMARY:
 
+
 ## NCT06600789
 A Modular, Multi-Part, Multi-Arm, Phase 1/2 Study to Evaluate the Safety and Tolerability of CT7439 Alone and in Combination With Anticancer Treatments in Participants With Solid Malignancies
 
@@ -7408,6 +8189,7 @@ Intervention: : CT7439 Capsules (0.5 mg, 1mg, 3mg, 10mg, 15mg, 20mg) — CT7439 
 Link: https://clinicaltrials.gov/study/NCT06600789
 
 SUMMARY:
+
 
 ## NCT06836206
 The Effect of Gum Arabic (GA) on Adult Dialysis Patients in Abu Dhabi: A Prospective Randomized-controlled Trial (The GADAD Study)
@@ -7418,6 +8200,7 @@ Link: https://clinicaltrials.gov/study/NCT06836206
 
 SUMMARY:
 
+
 ## NCT07720856
 Surgical Recovery Support Pillow for Spine Surgeries
 
@@ -7425,6 +8208,7 @@ Intervention: : Surgical Recovery Support Pillow — The Surgical Recovery Suppo
 Link: https://clinicaltrials.gov/study/NCT07720856
 
 SUMMARY:
+
 
 ## NCT05217589
 The Influence of Different Mood States and Emotions on the Physiologic, Metabolic, and Perceptual Responses to Feeding Before Exercise
@@ -7436,6 +8220,7 @@ Link: https://clinicaltrials.gov/study/NCT05217589
 
 SUMMARY:
 
+
 ## NCT07720739
 Efficacy of Adding Intrathecal Morphine to Erector Spinae Plane Block for Postoperative Analgesia After Midline Laparotomy: A Prospective Randomized Study
 
@@ -7445,6 +8230,7 @@ Link: https://clinicaltrials.gov/study/NCT07720739
 
 SUMMARY:
 
+
 ## NCT07403097
 Study of Autologous CD19-Targeted Chimeric Antigen Receptor T (CAR- T) Therapy for Refractory Systemic Lupus Erythematosus
 
@@ -7453,6 +8239,7 @@ Link: https://clinicaltrials.gov/study/NCT07403097
 
 SUMMARY:
 
+
 ## NCT07403188
 A Long-Term Follow-Up Study for Participants Previously Treated With KYV-101
 
@@ -7460,6 +8247,7 @@ Intervention: : KYV-101 — Autologous fully-human anti-CD19 chimeric antigen re
 Link: https://clinicaltrials.gov/study/NCT07403188
 
 SUMMARY:
+
 
 ## NCT06049355
 EMBark on RAdiation Therapy With a Clinic-based Exercise Program: EXERCISING TOGETHER
@@ -7471,6 +8259,7 @@ Link: https://clinicaltrials.gov/study/NCT06049355
 
 SUMMARY:
 
+
 ## NCT06918652
 Surgical vs Endoscopic Treatments as ImmunoModulating Interventions in High-Risk Acute Calculous Cholecystitis
 
@@ -7479,6 +8268,7 @@ Intervention: : Transmural ultrasound-guided gallbladder drainage — TUGD will 
 Link: https://clinicaltrials.gov/study/NCT06918652
 
 SUMMARY:
+
 
 ## NCT06400849
 Comparison of the Efficacy of Cryotherapy Combined With Compression in Preventing the Development of Paclitaxel-induced Peripheral Neuropathy in Non-metastatic Breast Cancer: A Prospective, Single-centre, Self-controlled Trial
@@ -7489,6 +8279,7 @@ Link: https://clinicaltrials.gov/study/NCT06400849
 
 SUMMARY:
 
+
 ## NCT07724756
 A Multicenter, Open-label Phase II Clinical Study Evaluating the Pharmacokinetics, Pharmacodynamics, Safety, and Efficacy of Albipagrastim Alfa for Injection (QLC2519) in Pediatric Solid Tumor Participants
 
@@ -7497,6 +8288,7 @@ Link: https://clinicaltrials.gov/study/NCT07724756
 
 SUMMARY:
 
+
 ## NCT07403396
 Quantitative Assessment of Static Balance in Children With Autism Spectrum Disorder Using VRRS
 
@@ -7504,6 +8296,7 @@ Intervention: : Virtual Reality Rehabilitation System (VRRS) in conjunction with
 Link: https://clinicaltrials.gov/study/NCT07403396
 
 SUMMARY:
+
 
 ## NCT07724730
 Effects of Task-Oriented Training With and Without Rhythmic Auditory Stimulation on Lower Limb Motor Function, Dynamic Balance, Proprioception, Motivation, and Adherence in Post-Stroke Patients
@@ -7520,6 +8313,7 @@ Link: https://clinicaltrials.gov/study/NCT07724730
 
 SUMMARY:
 
+
 ## NCT07403604
 Human Models of Selective Insulin Resistance: Diazoxide, Part I
 
@@ -7531,6 +8325,7 @@ Link: https://clinicaltrials.gov/study/NCT07403604
 
 SUMMARY:
 
+
 ## NCT06984614
 Effect of Snoezelen Room on Birth Process: a Randomized Controlled Study
 
@@ -7538,6 +8333,7 @@ Intervention: : Snoezelen room — 'Snoezelen room' is a meaning a room designed
 Link: https://clinicaltrials.gov/study/NCT06984614
 
 SUMMARY:
+
 
 ## NCT07403539
 Relationship Between Speech Perceptual Learning and Speech Production in Parkinson's Disease
@@ -7550,6 +8346,7 @@ Link: https://clinicaltrials.gov/study/NCT07403539
 
 SUMMARY:
 
+
 ## NCT07153549
 A Parallel-Group, Randomized, Open-Label, Controlled Study to Evaluate the Efficacy and Safety of a Zinc-Containing Dietary Supplement (Biolizin) in Improving Functional Poor Appetite in Children Aged 6 to 36 Months
 
@@ -7559,6 +8356,7 @@ Link: https://clinicaltrials.gov/study/NCT07153549
 
 SUMMARY:
 
+
 ## NCT05810701
 FRAGINOC Study: The Impact of FRAilty Screening and Geriatric Assessment and Intervention in Older Patients With Epithelial Ovarian Cancer
 
@@ -7566,6 +8364,7 @@ Intervention: : Comprehensive geriatric assessment and individualised physical t
 Link: https://clinicaltrials.gov/study/NCT05810701
 
 SUMMARY:
+
 
 ## NCT07553572
 Pilot Randomized Controlled Trial of a Remote Monitoring and Symptom Management Intervention (ASSIST) Among Patients Receiving Systemic Therapy
@@ -7575,6 +8374,7 @@ Link: https://clinicaltrials.gov/study/NCT07553572
 
 SUMMARY:
 
+
 ## NCT07725601
 VNS Algorithm for Advanced Dosing: Example Guided Mode Titrations "The Augusta Way"
 
@@ -7583,6 +8383,7 @@ Intervention: : Rapid Titration VNS programming — Modified programming of VNS 
 Link: https://clinicaltrials.gov/study/NCT07725601
 
 SUMMARY:
+
 
 ## NCT05924347
 Longitudinal MRI Study to Catch EARLY Scoliotic Changes of the Bone and Intervertebral Disc in Younger Sisters and Daughters of Adolescent Idiopathic Scoliosis Patients and the 22q11.2DS Population.
@@ -7594,6 +8395,7 @@ Link: https://clinicaltrials.gov/study/NCT05924347
 
 SUMMARY:
 
+
 ## NCT06718972
 Database of Real-world Study on the Treatment of Non-small Cell Lung Cancer With Leptomeningeal Metastasis in China
 
@@ -7601,6 +8403,7 @@ Intervention: : Not applicable- observational study — This is a retrospective 
 Link: https://clinicaltrials.gov/study/NCT06718972
 
 SUMMARY:
+
 
 ## NCT07403630
 INTEGRATIVE "MULTI-OMICS" AND FUNCTIONAL PLATFORM FOR THE COMPLETE DIAGNOSTIC CHARACTERIZATION OF TUMORS: THE ITALIAN TUMOR CHEMOGENOMIC PROFILER (IT-TCP)
@@ -7612,6 +8415,7 @@ Link: https://clinicaltrials.gov/study/NCT07403630
 
 SUMMARY:
 
+
 ## NCT03145077
 Using Magnetic Resonance Imaging (MRI) to Assess Mandibular and Soft Tissue Responses to Radiation Therapy
 
@@ -7621,6 +8425,7 @@ Link: https://clinicaltrials.gov/study/NCT03145077
 
 SUMMARY:
 
+
 ## NCT03989778
 Efficacy of Vitamin D Supplementation and Metformin Compared to Metformin Alone for Improvement in Follicle Size of Infertile Females With Polycystic Ovary Syndrome: a Randomized Open Label Trial
 
@@ -7628,6 +8433,7 @@ Intervention: : Vitamin D — Vitamin D supplementation
 Link: https://clinicaltrials.gov/study/NCT03989778
 
 SUMMARY:
+
 
 ## NCT06003101
 Effect of Platelet-Rich Plasma, Platelet-Poor Plasma, & Bone Marrow Aspirate Concentrate Application on Functional Outcomes Following Hip Arthroscopy for Acetabular Labral Pathologies: A Prospective Randomized Controlled Trial
@@ -7637,6 +8443,7 @@ Intervention: : Bone marrow aspirate concentrate (BMAC) — Bone marrow aspirati
 Link: https://clinicaltrials.gov/study/NCT06003101
 
 SUMMARY:
+
 
 ## NCT07737054
 Trauma-informed Psilocybin Assisted Psychotherapy (TiPAP) for Post-Traumatic Stress Disorder
@@ -7649,6 +8456,7 @@ Link: https://clinicaltrials.gov/study/NCT07737054
 
 SUMMARY:
 
+
 ## NCT07198230
 Drug-Eluting Bead-Based Transarterial Chemoembolization (DEB-TACE) as a Local Salvage Therapy for Large Lesions in Relapsed and Refractory Diffuse Large B-Cell Lymphoma
 
@@ -7656,6 +8464,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07198230
 
 SUMMARY:
+
 
 ## NCT07329933
 Effect of Dexamethasone, Dexmedetomidine and Their Combination on Postoperative Gastrointestinal Function Measured by I-FEED Score After Elective Laparoscopic Cholecystectomy Surgery: a Randomized Controlled Trial
@@ -7668,6 +8477,7 @@ Link: https://clinicaltrials.gov/study/NCT07329933
 
 SUMMARY:
 
+
 ## NCT05326828
 Implantable Cardiac Monitor to Detect Atrial Fibrillation in Patients With MINOCA
 
@@ -7677,6 +8487,7 @@ Link: https://clinicaltrials.gov/study/NCT05326828
 
 SUMMARY:
 
+
 ## NCT07380854
 Thyroid Hormone Replacement After Coronary Artery Bypass Grafting for Patients With Subclinical Hypothyroidism
 
@@ -7684,6 +8495,7 @@ Intervention: : levothyroxine — Intervention description: Participants assigne
 Link: https://clinicaltrials.gov/study/NCT07380854
 
 SUMMARY:
+
 
 ## NCT07404436
 Efficacy of Rivaroxaban for Thromboprophylaxis in Idiopathic Membranous Nephropathy: A Prospective, Single-Center, Randomized Controlled Trial
@@ -7694,6 +8506,7 @@ Link: https://clinicaltrials.gov/study/NCT07404436
 
 SUMMARY:
 
+
 ## NCT00483249
 Endovascular Exclusion of Thoracoabdominal and/or Paravisceral Abdominal Aortic Aneurysm
 
@@ -7701,6 +8514,7 @@ Intervention: : Endovascular Branched Stent-Graft — Industry manufactured bran
 Link: https://clinicaltrials.gov/study/NCT00483249
 
 SUMMARY:
+
 
 ## NCT05476991
 Reducing Inflammation in Ischemic Stroke With Colchicine, and Ticagrelor in High-risk Patients-extended Treatment in Ischemic Stroke
@@ -7712,6 +8526,7 @@ Link: https://clinicaltrials.gov/study/NCT05476991
 
 SUMMARY:
 
+
 ## NCT07728058
 Effects of Routine Umbilical Cord Care and Natural Drying Care on Neonatal Infection Rates, Cord Separation Time, and Cost-Effectiveness: A Randomized Controlled Trial
 
@@ -7721,6 +8536,7 @@ Link: https://clinicaltrials.gov/study/NCT07728058
 
 SUMMARY:
 
+
 ## NCT07404761
 A Multicenter, Randomized, Controlled Study to Evaluate the Efficacy and Safety of the SSMD in Neuromotor Rehabilitation
 
@@ -7729,6 +8545,7 @@ Intervention: : Spatial StimelMD (SSMD) — Spatial StimelMD (SSMD) is a device-
 Link: https://clinicaltrials.gov/study/NCT07404761
 
 SUMMARY:
+
 
 ## NCT06397235
 DEB-TACE in Combination With or Without RALOX-based HAIC for Unresectable Large Hepatocellular Carcinoma: A Randomized, Controlled Trial
@@ -7741,6 +8558,7 @@ Link: https://clinicaltrials.gov/study/NCT06397235
 
 SUMMARY:
 
+
 ## NCT07728487
 A Phase 1, First-in-Human (FIH), Single-center, Randomized, Double-blind, Placebo-controlled, Single and Multiple Ascending Dose Trial to Evaluate the Safety, Tolerability, and Pharmacokinetics (PK) of AT-587 in Healthy Adult Participants
 
@@ -7750,6 +8568,7 @@ Link: https://clinicaltrials.gov/study/NCT07728487
 
 SUMMARY:
 
+
 ## NCT06093867
 A Prospective Approach for the Early Detection of Infectious and Noninfectious Lung Diseases Following Allogeneic Hematopoietic Stem Cell Transplantation
 
@@ -7757,6 +8576,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06093867
 
 SUMMARY:
+
 
 ## NCT07729423
 The Tolerability of Mepitel Film for the Prevention of Radiation Dermatitis in Breast Cancer Patients in Hot Weather: A Feasibility Study
@@ -7766,6 +8586,7 @@ Link: https://clinicaltrials.gov/study/NCT07729423
 
 SUMMARY:
 
+
 ## NCT07404839
 Scaling up Building Healthy Families in Rural Areas and Small Towns
 
@@ -7773,6 +8594,7 @@ Intervention: : Building Healthy Families Program — Building Healthy Families 
 Link: https://clinicaltrials.gov/study/NCT07404839
 
 SUMMARY:
+
 
 ## NCT04360200
 Cognitive Impairment in Ageing People: A Longitudinal Observational Prospective Study
@@ -7782,6 +8604,7 @@ Link: https://clinicaltrials.gov/study/NCT04360200
 
 SUMMARY:
 
+
 ## NCT06579326
 Multistructural Quantitative Photoacoustic Imaging of Human Feet With Lower Extremity Artery Disease
 
@@ -7790,6 +8613,7 @@ Link: https://clinicaltrials.gov/study/NCT06579326
 
 SUMMARY:
 
+
 ## NCT03206099
 NIAID Centralized Sequencing Protocol
 
@@ -7797,6 +8621,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT03206099
 
 SUMMARY:
+
 
 ## NCT05689944
 Effect of Dance-therapy on Chronic Adolescent Pain Patients - a Randomized Controlled Trial Study
@@ -7833,6 +8658,7 @@ Link: https://clinicaltrials.gov/study/NCT05689944
 
 SUMMARY:
 
+
 ## NCT07730879
 Acute Blood Pressure Responses to Isometric Wall Squat Exercise in Adults With Hypertension and CPAP-Treated Obstructive Sleep Apnea: A Randomized Crossover Trial
 
@@ -7840,6 +8666,7 @@ Intervention: : Isometric Wall Squat — 4x2-min isometric wall squat contractio
 Link: https://clinicaltrials.gov/study/NCT07730879
 
 SUMMARY:
+
 
 ## NCT07729982
 Clinical Characterisation of OPA1-Associated Autosomal-Dominant Optic Atrophy
@@ -7849,6 +8676,7 @@ Link: https://clinicaltrials.gov/study/NCT07729982
 
 SUMMARY:
 
+
 ## NCT05718063
 MAP for Coaches: A Web-Based Musculoskeletal Athletic Injury Prevention Training Course to Increase the Routine Use of Neuromuscular Training Warm-Up Programs
 
@@ -7857,6 +8685,7 @@ Intervention: : MAP for Coaches - Complete Course — The MAP for Coaches is an 
 Link: https://clinicaltrials.gov/study/NCT05718063
 
 SUMMARY:
+
 
 ## NCT07405021
 Effect of Vagus Nerve Stimulation on Pain Intensity, Nerve Conduction Studies and Functional Outcomes in Diabetic Peripheral Neuropathy Patients
@@ -7872,6 +8701,7 @@ Link: https://clinicaltrials.gov/study/NCT07405021
 
 SUMMARY:
 
+
 ## NCT07405151
 A Phase 2 Open-Label, Umbrella Platform Design Study of Investigational Agent(s) in Participants With 2L/3L Unresectable Locally Advanced or Metastatic Esophageal Cancer: KEYMAKER-U06 Substudy 06F
 
@@ -7881,6 +8711,7 @@ Link: https://clinicaltrials.gov/study/NCT07405151
 
 SUMMARY:
 
+
 ## NCT07731477
 The Effect of a Virtual Reality-Based Mindfulness Intervention on Anxiety, Comfort, Sleep, and Fatigue in Breast Cancer Patients Undergoing Chemotherapy
 
@@ -7888,6 +8719,7 @@ Intervention: : VR-Based Mindfulness Intervention — The mindfulness interventi
 Link: https://clinicaltrials.gov/study/NCT07731477
 
 SUMMARY:
+
 
 ## NCT07443397
 Anlotinib Plus Whole-Brain Radiotherapy for Brain Metastases in Small Cell Lung Cancer Patients: A Multicenter Phase III Trail.
@@ -7898,6 +8730,7 @@ Link: https://clinicaltrials.gov/study/NCT07443397
 
 SUMMARY:
 
+
 ## NCT05030207
 Respiratory Adaptive Computed Tomography: A Pilot Feasibility Study on the Use of Real-Time Gated 4DCT for Lung Cancer Radiation Therapy
 
@@ -7906,6 +8739,7 @@ Intervention: : Real-time Gated 4DCT — Real-time gated four-dimensional cone b
 Link: https://clinicaltrials.gov/study/NCT05030207
 
 SUMMARY:
+
 
 ## NCT07204314
 A Randomized, Double-blind, Placebo-Controlled Phase 3 Study to Evaluate the Efficacy, Safety and Pharmacokinetics of Once-Daily Oral Administration of Vortioxetine in Japanese Pediatric Patients 12 to 17 Years of Age With Major Depressive Disorder (MDD)
@@ -7916,6 +8750,7 @@ Link: https://clinicaltrials.gov/study/NCT07204314
 
 SUMMARY:
 
+
 ## NCT05852522
 NCT MASTER Plattform Molecularly Aided Stratification for Tumor Eradication Research
 
@@ -7923,6 +8758,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05852522
 
 SUMMARY:
+
 
 ## NCT07732491
 A Phase II, Multicenter, Open-Label, Single-Arm Study of Culmerciclib Combined With Anti-HER2 Targeted Therapy and Endocrine Therapy as Maintenance Treatment in Patients With HR-Positive, HER2-Positive Advanced Breast Cancer
@@ -7932,6 +8768,7 @@ Link: https://clinicaltrials.gov/study/NCT07732491
 
 SUMMARY:
 
+
 ## NCT07431892
 Pain Evaluation Across Robotic and Laparoscopic Surgery for Colorectal Procedures
 
@@ -7939,6 +8776,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07431892
 
 SUMMARY:
+
 
 ## NCT05237089
 Effects of Electroacupuncture on Weight Loss in Obese Patients With Prediabetes: a Randomized Controlled Trial
@@ -7950,6 +8788,7 @@ Link: https://clinicaltrials.gov/study/NCT05237089
 
 SUMMARY:
 
+
 ## NCT07732660
 Kupambana: A Combined Microeconomic Strengthening and Stigma Reduction Intervention for Young People With HIV in Zambia
 
@@ -7960,6 +8799,7 @@ Link: https://clinicaltrials.gov/study/NCT07732660
 
 SUMMARY:
 
+
 ## NCT04278651
 Early Antenatal Support for Iron Deficiency Anemia: A Randomized Controlled Trial of Early Initiation of Intravenous Versus Oral Iron Therapy for Treatment of Iron Deficiency Anemia in Pregnancy
 
@@ -7968,6 +8808,7 @@ Intervention: : Ferumoxytol — 510mg infusion x 2 doses 3-8 days apart
 Link: https://clinicaltrials.gov/study/NCT04278651
 
 SUMMARY:
+
 
 ## NCT07494110
 Aurora: Evaluation of an AI-Based Narrative Intervention for Emotional Well-Being, Identity Processes, and Recovery-Oriented Outcomes in Clinical and Non-Clinical Populations
@@ -7979,6 +8820,7 @@ Link: https://clinicaltrials.gov/study/NCT07494110
 
 SUMMARY:
 
+
 ## NCT07800936
 Phase I Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetic (PK) and Pharmacodynamic (PD) Profiles of Intratumoral Injection of HP007 Injection as Monotherapy in Patients With Relapsed or Refractory Advanced Solid Tumors, and to Explore the Preliminary Efficacy of HP007
 
@@ -7986,6 +8828,7 @@ Intervention: : HP007 — Participate will recepit HP007 monotherpy with 4 dose 
 Link: https://clinicaltrials.gov/study/NCT07800936
 
 SUMMARY:
+
 
 ## NCT06541652
 A French Multicenter Observational Retrospective Study of Rare Primary Liver Cancers
@@ -7995,6 +8838,7 @@ Link: https://clinicaltrials.gov/study/NCT06541652
 
 SUMMARY:
 
+
 ## NCT07696533
 Carotid Ultrasound Vs Computed Tomography (CT) Coronary Calcium Scoring to Reclassify Symptomatic Patients With Suspected Chronic Coronary Syndrome Using Risk Factor Clinical Likelihood for Obstructive Coronary Artery Disease
 
@@ -8002,6 +8846,7 @@ Intervention: : Carotid Ultrasound — Carotid ultrasound
 Link: https://clinicaltrials.gov/study/NCT07696533
 
 SUMMARY:
+
 
 ## NCT07733271
 Key Technology Research and Development for Intelligent Minimally Invasive Precision Treatment of Fractures (Sub-project 4: A Randomized Controlled Trial of Robot-Assisted Closed Reduction and Internal Fixation for Distal Tibial Fractures)
@@ -8012,6 +8857,7 @@ Link: https://clinicaltrials.gov/study/NCT07733271
 
 SUMMARY:
 
+
 ## NCT05657652
 Venetoclax, Cladribine Plus Low-dose Cytarabine for Relapsed/Refractory Philadelphia Chromosome-negative (Ph-) B-cell Acute Lymphoblastic Leukemia (B-ALL): a Single-arm, Multicenter Study
 
@@ -8019,6 +8865,7 @@ Intervention: : cladribine, cytarabine,venetoclax — Cladribine 5 mg/m2/day, cy
 Link: https://clinicaltrials.gov/study/NCT05657652
 
 SUMMARY:
+
 
 ## NCT07405970
 A Phase 3 Clinical Study to Evaluate the Safety and Efficacy of Recombinant Humanized Monoclonal Antibody MIL62 Injection in the Treatment of Systemic Lupus Erythematosus.
@@ -8029,6 +8876,7 @@ Link: https://clinicaltrials.gov/study/NCT07405970
 
 SUMMARY:
 
+
 ## NCT07343271
 Dual-energy CT vs. MRI in the Evaluation of Squamous Cell Carcinomas of the Oral Cavity and Oropharynx
 
@@ -8037,6 +8885,7 @@ Link: https://clinicaltrials.gov/study/NCT07343271
 
 SUMMARY:
 
+
 ## NCT07406022
 Optical Characterization and Multi-modality, Multi-scale Modeling of Human Skin Applied to Cancer Diagnosis.
 
@@ -8044,6 +8893,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07406022
 
 SUMMARY:
+
 
 ## NCT06961968
 A Multicenter, Double-Blind, Randomized Withdrawal Study in Patients With Schizophrenia Receiving Either Iloperidone Long-Acting Injection (LAI) or Placebo Injection
@@ -8054,6 +8904,7 @@ Link: https://clinicaltrials.gov/study/NCT06961968
 
 SUMMARY:
 
+
 ## NCT06279247
 Proteomics and Metabolomics of Body Fluid in Patients With Narcolepsy
 
@@ -8061,6 +8912,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06279247
 
 SUMMARY:
+
 
 ## NCT07733960
 Conduction System Pacing Display Research System for SmartSync Pacing System Analyzer
@@ -8070,6 +8922,7 @@ Link: https://clinicaltrials.gov/study/NCT07733960
 
 SUMMARY:
 
+
 ## NCT06763354
 An Exploratory Clinical Study of the Efficacy of Gallium[68Ga]NOTA-DNA Multivalent SGC8 Injection for Bladder Tumour Imaging
 
@@ -8077,6 +8930,7 @@ Intervention: : Gallium[68Ga]NOTA-DNA Multivalent SGC8 Injection — On the exam
 Link: https://clinicaltrials.gov/study/NCT06763354
 
 SUMMARY:
+
 
 ## NCT07447102
 A Phase II Clinical Study to Evaluate the Efficacy and Safety of BC006 in Patients With Idiopathic Pulmonary Fibrosis
@@ -8087,6 +8941,7 @@ Link: https://clinicaltrials.gov/study/NCT07447102
 
 SUMMARY:
 
+
 ## NCT07655570
 Pilot Study of Ivonescimab in Advanced/Metastatic Cutaneous Angiosarcoma
 
@@ -8095,6 +8950,7 @@ Link: https://clinicaltrials.gov/study/NCT07655570
 
 SUMMARY:
 
+
 ## NCT06023771
 Drainage and Debridement of Local Complications of Acute Pancreatitis: A Single-center Real-world Prospective Study
 
@@ -8102,6 +8958,7 @@ Intervention: : Invasive intervention for acute pancreatitis — Invasive interv
 Link: https://clinicaltrials.gov/study/NCT06023771
 
 SUMMARY:
+
 
 ## NCT06665100
 Efficacy and Safety of PUL-042 Inhalation Solution in Reducing Lower Respiratory Tract Complications in Patients With Hematologic Malignancies and Recipients of Hematopoietic Stem Cell Transplantation (HSCT) With Documented Viral Infections With PIV, hMPV or RSV
@@ -8112,6 +8969,7 @@ Link: https://clinicaltrials.gov/study/NCT06665100
 
 SUMMARY:
 
+
 ## NCT04070040
 An Exploratory Study on Camrelizumab（SHR-1210）for Recurrent Primary Central Nervous System Lymphoma (PCNSL)
 
@@ -8119,6 +8977,7 @@ Intervention: : Camrelizumab — Camrelizumab(SHR-1210) 200mg, once every 2 week
 Link: https://clinicaltrials.gov/study/NCT04070040
 
 SUMMARY:
+
 
 ## NCT04289571
 An Observational Cross-Sectional Study of Virtual Reality Mobility Assessment of Functional Vision in Retinal Disease
@@ -8128,6 +8987,7 @@ Link: https://clinicaltrials.gov/study/NCT04289571
 
 SUMMARY:
 
+
 ## NCT05003934
 Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for the Treatment of Rheumatoid Arthritis
 
@@ -8135,6 +8995,7 @@ Intervention: : AlloRx — cultured allogeneic adult umbilical cord derived mese
 Link: https://clinicaltrials.gov/study/NCT05003934
 
 SUMMARY:
+
 
 ## NCT07735221
 Effects of Peanut Consumption on Physiological and Psychosocial Stress, Circulating Immune Cell Status, Markers of Inflammation and Cardiovascular Disease Risk, and Gastrointestinal Health in High-Stress Individuals
@@ -8145,6 +9006,7 @@ Link: https://clinicaltrials.gov/study/NCT07735221
 
 SUMMARY:
 
+
 ## NCT07735442
 Better Real-time Information on Documentation of Goals of Care for Engagement in Serious Illness Communication (BRIDGE-SIC)
 
@@ -8152,6 +9014,7 @@ Intervention: : LLM-generated SIC summary email to clinical teams — An email c
 Link: https://clinicaltrials.gov/study/NCT07735442
 
 SUMMARY:
+
 
 ## NCT06696664
 Exploring the Genome-wide Association Study of the Advantageous Population for Clinical Cure of Chronic Hepatitis B With Long-acting Interferon Therapy
@@ -8161,6 +9024,7 @@ Link: https://clinicaltrials.gov/study/NCT06696664
 
 SUMMARY:
 
+
 ## NCT07736937
 A Multicenter, Phase Ib/II Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Clinical Activity of TUB-040, in Combination With Standard Ovarian Cancer Drugs in Patients With High-grade Epithelial Serous or Endometrioid Epithelial Ovarian Cancer OC)
 
@@ -8168,6 +9032,7 @@ Intervention: : TUB-040 + Carbo + BEV — Ph1b: A complete treatment cycle is de
 Link: https://clinicaltrials.gov/study/NCT07736937
 
 SUMMARY:
+
 
 ## NCT07579832
 Quantitative Monitoring of Disability Care Quality for Long-Term Care Facilities 2
@@ -8177,6 +9042,7 @@ Link: https://clinicaltrials.gov/study/NCT07579832
 
 SUMMARY:
 
+
 ## NCT07069595
 PREDICT-RD: Postoperative Molecular Residual Disease by ctDNA Surveillance in TNBC With Residual Disease
 
@@ -8185,6 +9051,7 @@ Intervention: : Datopotamab deruxtecan — Dato-DXd is administered adjuvantly a
 Link: https://clinicaltrials.gov/study/NCT07069595
 
 SUMMARY:
+
 
 ## NCT07608289
 Socket Preservation After Tooth Extraction Using Autogenous Dentin in Comparison With Other Techniques
@@ -8197,6 +9064,7 @@ Link: https://clinicaltrials.gov/study/NCT07608289
 
 SUMMARY:
 
+
 ## NCT06332963
 Interoceptive Mechanisms of Body Image Disturbance in Anorexia Nervosa
 
@@ -8207,6 +9075,7 @@ Link: https://clinicaltrials.gov/study/NCT06332963
 
 SUMMARY:
 
+
 ## NCT07406685
 The Comparison of Ibandronate and Zoledronic Acid After Denosumab Discontinuation: A Randomized Non-inferiority Trial
 
@@ -8216,6 +9085,7 @@ Link: https://clinicaltrials.gov/study/NCT07406685
 
 SUMMARY:
 
+
 ## NCT00041600
 Human Epilepsy Genetics--Neuronal Migration Disorders Study
 
@@ -8224,6 +9094,7 @@ Link: https://clinicaltrials.gov/study/NCT00041600
 
 SUMMARY:
 
+
 ## NCT05547893
 Clinical Learning Through Extended Immersion in Medical Simulation (CLEIMS)-A New Approach to Teaching Clinical Ethics
 
@@ -8231,6 +9102,7 @@ Intervention: : simulation — participating a simulated clinical ethical situat
 Link: https://clinicaltrials.gov/study/NCT05547893
 
 SUMMARY:
+
 
 ## NCT07698600
 A Randomized, Placebo-controlled, Phase I/II Clinical Trial to Evaluate the Safety, Immunogenicity, and Impact on Virological Control of the Investigational RNA-based Vaccine BNT168 in Adults Living With or Without HIV
@@ -8241,6 +9113,7 @@ Link: https://clinicaltrials.gov/study/NCT07698600
 
 SUMMARY:
 
+
 ## NCT07738120
 Effects of a Physiotherapy Program With High-Intensity Exercise and Immersive Virtual Reality in Multiple Sclerosis: Randomized Controlled Trial
 
@@ -8249,6 +9122,7 @@ Intervention: : Virtual Exercise based program — The intervention will consist
 Link: https://clinicaltrials.gov/study/NCT07738120
 
 SUMMARY:
+
 
 ## NCT05230199
 Multisensory Interventions to Improve Neurodevelopmental Outcomes of Preterm Infants Hospitalized in the Neonatal Intensive Care Unit
@@ -8259,6 +9133,7 @@ Link: https://clinicaltrials.gov/study/NCT05230199
 
 SUMMARY:
 
+
 ## NCT06772077
 Safety and Usability of the ATLAS 2030 Exoskeleton in Pediatric Patients With Spinal Cord Injury
 
@@ -8266,6 +9141,7 @@ Intervention: : Rehabilitation treatment with ATLAS2030 — 10 sessions of Rehab
 Link: https://clinicaltrials.gov/study/NCT06772077
 
 SUMMARY:
+
 
 ## NCT07406945
 Safety and Efficacy of the Novel SpydrBlade Flex With Radiofrequency and Microwave Ablation Flexible Bipolar for Per-Oral Endoscopic Myotomy in Patients With Achalasia: A Multicenter Prospective Study
@@ -8275,6 +9151,7 @@ Link: https://clinicaltrials.gov/study/NCT07406945
 
 SUMMARY:
 
+
 ## NCT06711055
 A Cohort Study of Adjuvant Therapy With Taxane Combined Targeted Therapy for Low-risk HER2 Positive and Lymph Node Negative Breast Cancer
 
@@ -8282,6 +9159,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06711055
 
 SUMMARY:
+
 
 ## NCT07738406
 Key Technology Research and Development for Intelligent Minimally Invasive Precision Treatment of Fractures (Sub-project 3: A Randomized Controlled Trial of Robot-Assisted Closed Reduction and Internal Fixation for Supracondylar Femoral Fractures)
@@ -8292,6 +9170,7 @@ Link: https://clinicaltrials.gov/study/NCT07738406
 
 SUMMARY:
 
+
 ## NCT03862677
 Determining Prognostic Immune Markers in Patients With Ovarian Cancer
 
@@ -8300,6 +9179,7 @@ Link: https://clinicaltrials.gov/study/NCT03862677
 
 SUMMARY:
 
+
 ## NCT05035901
 Geometric-Based Handwriting Intervention: Development, Feasibility and Randomized Clinical Trial
 
@@ -8307,6 +9187,7 @@ Intervention: : visual-perception motor-coordination integration program — Vis
 Link: https://clinicaltrials.gov/study/NCT05035901
 
 SUMMARY:
+
 
 ## NCT07407283
 A Multicenter, Open-label, Phase Ib/II Clinical Study to Evaluate the Safety, Tolerability, and Efficacy of SHR-4394 in Combination With Anti-tumor Therapy in Participants With Prostate Cancer
@@ -8319,6 +9200,7 @@ Link: https://clinicaltrials.gov/study/NCT07407283
 
 SUMMARY:
 
+
 ## NCT07739225
 Effect of a Structured Patient-Centered Educational Program on Postoperative Outcomes Following Hip Fracture Surgery: A Randomized Controlled Trial
 
@@ -8326,6 +9208,7 @@ Intervention: : Structured Patient-Centered Educational Program. — A structure
 Link: https://clinicaltrials.gov/study/NCT07739225
 
 SUMMARY:
+
 
 ## NCT07407543
 A Randomized, Double-blind, Placebo-controlled, Multiple Doses, Dose-escalation Phase 1 Clinical Trial to Evaluate Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of SRN001 in Healthy Korean and Caucasian Adult Males
@@ -8336,6 +9219,7 @@ Link: https://clinicaltrials.gov/study/NCT07407543
 
 SUMMARY:
 
+
 ## NCT07153055
 Phase I/II Trial of Lurbinectedin With Osimertinib in Transformed Small Cell Lung Cancer
 
@@ -8345,6 +9229,7 @@ Link: https://clinicaltrials.gov/study/NCT07153055
 
 SUMMARY:
 
+
 ## NCT07780812
 Evaluation of Speech and Voice Biomarkers in Association With Burnout
 
@@ -8352,6 +9237,7 @@ Intervention: : Calmigo — use of the calmigo device 3 times a day for 3 minute
 Link: https://clinicaltrials.gov/study/NCT07780812
 
 SUMMARY:
+
 
 ## NCT07407725
 Development of a Clinical Outcome Assessment for Assistive Technologies and Brain-Computer-Interfaces
@@ -8366,6 +9252,7 @@ Link: https://clinicaltrials.gov/study/NCT07407725
 
 SUMMARY:
 
+
 ## NCT07739524
 Predicting Iron Deficiency and Related Iron Parameters Outside Inflammation in Hospitalized Elderly Patients: A Prospective Study
 
@@ -8379,6 +9266,7 @@ Link: https://clinicaltrials.gov/study/NCT07739524
 
 SUMMARY:
 
+
 ## NCT07407803
 Randomized, Double-Blind, Parallel-Controlled, Multicenter Phase III Clinical Trial Evaluating the Efficacy and Safety of TQ-B3234 Capsules Versus Placebo in Patients With Symptomatic, Non-Surgical Type 1 Neurofibromatosis-Associated Plexiform Neurofibromas
 
@@ -8387,6 +9275,7 @@ Intervention: : TQ-B3234 capsules — TQ-B3234 is an antitumor molecular targete
 Link: https://clinicaltrials.gov/study/NCT07407803
 
 SUMMARY:
+
 
 ## NCT06180681
 Enhancing Team Effectiveness for a Collaborative School-based Intervention for ADHD
@@ -8397,6 +9286,7 @@ Link: https://clinicaltrials.gov/study/NCT06180681
 
 SUMMARY:
 
+
 ## NCT07739784
 Personality Traits and Their Relation to Ocular Adverse Effects From Glaucoma Medications
 
@@ -8404,6 +9294,7 @@ Intervention: : No Interventions — There is no intervention
 Link: https://clinicaltrials.gov/study/NCT07739784
 
 SUMMARY:
+
 
 ## NCT07740434
 Work-Related Frustration and Higher Cardiovascular Risk Blood Pressure Profiles: A Regional Proof-of-Concept Study on Work-Related Quality of Life and Cardiovascular Prevention.
@@ -8413,6 +9304,7 @@ Link: https://clinicaltrials.gov/study/NCT07740434
 
 SUMMARY:
 
+
 ## NCT07740447
 Effects of Minimally Non-surgical Periodontal Treatment Versus Quadrantwise Subgingival Instrumentations on Targeted Metabolomics in Gingival Crevicular Fluid
 
@@ -8420,6 +9312,7 @@ Intervention: : Probing depth reduction — Probing depth reduction in millimetr
 Link: https://clinicaltrials.gov/study/NCT07740447
 
 SUMMARY:
+
 
 ## NCT07351175
 Investigating The Potential Of A Hay-Aged Cheese To Reduce Cholesterol As Mediated By Changes In The Gut Microbiome: A Randomised Control Trial
@@ -8430,6 +9323,7 @@ Link: https://clinicaltrials.gov/study/NCT07351175
 
 SUMMARY:
 
+
 ## NCT07741292
 A Study of the Clinical Benefits of Niaoduqing Granules in Older Adults With Impaired Renal Function
 
@@ -8437,6 +9331,7 @@ Intervention: : Intervention Name — Niaoduqing Granules will be administered o
 Link: https://clinicaltrials.gov/study/NCT07741292
 
 SUMMARY:
+
 
 ## NCT07407816
 Feasibility Study of the Supira System in Patients Undergoing High-Risk Percutaneous Coronary Intervention (HRPCI) Who May Benefit From Mechanical Circulatory Support Beyond the PCI Procedure
@@ -8446,6 +9341,7 @@ Link: https://clinicaltrials.gov/study/NCT07407816
 
 SUMMARY:
 
+
 ## NCT05853419
 Change History and Adopt a Robotic SolutioN for anGioplasty procedurE
 
@@ -8453,6 +9349,7 @@ Intervention: : Robotic-assisted PCI — Robotic-assisted PCI will be performed 
 Link: https://clinicaltrials.gov/study/NCT05853419
 
 SUMMARY:
+
 
 ## NCT07742020
 Effects of Neurodevelopmental Technique Versus Mirror Therapy on Coordination, Functions and Ambulation in Sub-acute Hemiplegic Stroke Patients
@@ -8465,6 +9362,7 @@ Link: https://clinicaltrials.gov/study/NCT07742020
 
 SUMMARY:
 
+
 ## NCT07481630
 Efficacy and Safety of NNC0487-0111 s.c. Once-weekly in Participants With Overweight or Obesity, and Knee Osteoarthritis (AMAZE 5)
 
@@ -8473,6 +9371,7 @@ Intervention: : NNC0487-0111 — NNC0487-0111 dose level 1 and dose level 2 will
 Link: https://clinicaltrials.gov/study/NCT07481630
 
 SUMMARY:
+
 
 ## NCT07721571
 Efficacy of Nephrostomy Tract Local Anesthetic Infiltration for Postoperative Pain Control Following Prone Percutaneous Nephrolithotomy: A Prospective Randomized Controlled Trial
@@ -8483,6 +9382,7 @@ Link: https://clinicaltrials.gov/study/NCT07721571
 
 SUMMARY:
 
+
 ## NCT06286501
 Identification of Adolescent Patients at Risk of Oral Diseases and Targeting of Preventive Treatment, and the Use of Antibacterial Photodynamic Therapy as an Adjunctive Treatment Method
 
@@ -8492,6 +9392,7 @@ Link: https://clinicaltrials.gov/study/NCT06286501
 
 SUMMARY:
 
+
 ## NCT05958901
 A Observational Study in Chinese Patients With Pulmonary Hypertension (PH)
 
@@ -8499,6 +9400,7 @@ Intervention: : pulmonary hypertension — The final outcome observed was a diag
 Link: https://clinicaltrials.gov/study/NCT05958901
 
 SUMMARY:
+
 
 ## NCT07408219
 RELIEF: Remibrutinib in Chronic Spontaneous Urticaria: Early Real World Effectiveness and Satisfaction Survey
@@ -8508,6 +9410,7 @@ Link: https://clinicaltrials.gov/study/NCT07408219
 
 SUMMARY:
 
+
 ## NCT07312565
 The Occurrence of Abdominal Aortic Aneurysms in Patients With Ruptured Intracranial Aneurysms
 
@@ -8515,6 +9418,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07312565
 
 SUMMARY:
+
 
 ## NCT06833567
 Brief Mentalization-based Group Psychotherapy for Anxiety and Depression Disorders and Spanish Cultural Adaptation and Validation of the Epistemic Trust Questionnaire (QET)
@@ -8553,6 +9457,7 @@ Link: https://clinicaltrials.gov/study/NCT06833567
 
 SUMMARY:
 
+
 ## NCT07743476
 Bone Marrow Imaging and Clinical Outcomes Across Hematologic, Oncologic, and Other Relevant Conditions
 
@@ -8560,6 +9465,7 @@ Intervention: : Data Collection — Clinical, imaging, laboratory, treatment, an
 Link: https://clinicaltrials.gov/study/NCT07743476
 
 SUMMARY:
+
 
 ## NCT07743567
 Gestational Response, Outcomes, and Weight After GLP-1 Use
@@ -8569,6 +9475,7 @@ Link: https://clinicaltrials.gov/study/NCT07743567
 
 SUMMARY:
 
+
 ## NCT02169518
 Changes in Paraoxonase Activity, HDL Properties, Inflammatory Markers and Corneal Innervation in Post-bariatric Surgery Patients, Type 1 Diabetics With and Without Nephropathy, Type 2 Diabetics, and During an Oral Glucose Tolerance Test.
 
@@ -8576,6 +9483,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT02169518
 
 SUMMARY:
+
 
 ## NCT07467122
 Exploratory Clinical Study of TCR-T in MAGE-A4-positive Mesenchymal Malignancies
@@ -8585,6 +9493,7 @@ Link: https://clinicaltrials.gov/study/NCT07467122
 
 SUMMARY:
 
+
 ## NCT07466797
 e-IMPACT: Evaluating an eHealth and Healthcare Professional Support Program to Promote Physical Activity During Pregnancy
 
@@ -8592,6 +9501,7 @@ Intervention: : e-IMPACT programme — a three-part prenatal physical activity i
 Link: https://clinicaltrials.gov/study/NCT07466797
 
 SUMMARY:
+
 
 ## NCT06858930
 Assessing the Efficacy of a Preoperative Navigation System in Anterior Cruciate Ligament Reconstruction
@@ -8602,6 +9512,7 @@ Link: https://clinicaltrials.gov/study/NCT06858930
 
 SUMMARY:
 
+
 ## NCT07745712
 Clinical Investigation to Validate the Safety and Performance of the ABLE Kids Device in Pediatric Patients With Neurological Gait Disorders in a Clinical Setting
 
@@ -8609,6 +9520,7 @@ Intervention: : ABLE Kids — Participants will undergo a 10-session gait traini
 Link: https://clinicaltrials.gov/study/NCT07745712
 
 SUMMARY:
+
 
 ## NCT03568630
 A Longitudinal Cohort Study to Identify Clinical and Blood Markers of Early Pancreas Cancer
@@ -8618,6 +9530,7 @@ Link: https://clinicaltrials.gov/study/NCT03568630
 
 SUMMARY:
 
+
 ## NCT07299734
 Assessing the Feasibility and Safety of a Combined Closed Loop Functional Electrical Stimulation and Augmented Reality System for Individuals With Cervical Spinal Cord Injury
 
@@ -8625,6 +9538,7 @@ Intervention: : AR + FES — Within each one-hour experimental session, particip
 Link: https://clinicaltrials.gov/study/NCT07299734
 
 SUMMARY:
+
 
 ## NCT05749588
 Precision Platform Study of Refractory Triple-negative Breast Cancer Based on Molecular Subtyping（(A Phase II, Open-label, Single-center Platform Study）
@@ -8655,6 +9569,7 @@ Link: https://clinicaltrials.gov/study/NCT05749588
 
 SUMMARY:
 
+
 ## NCT07224503
 Phase II Randomized Controlled Trial of C-SMART Versus BE Well for Patients With Brain Tumors on Neurocognitive and Neuroimaging Outcomes
 
@@ -8664,6 +9579,7 @@ Link: https://clinicaltrials.gov/study/NCT07224503
 
 SUMMARY:
 
+
 ## NCT06835907
 Investigating the Efficacy of Baclofen in Patients with Alcohol Use Disorder (AUD) and Comorbid Anxiety Symptoms
 
@@ -8671,6 +9587,7 @@ Intervention: : Questionnaires — Questionnaires include: the Alcohol Use Disor
 Link: https://clinicaltrials.gov/study/NCT06835907
 
 SUMMARY:
+
 
 ## NCT06658236
 Comparative Effects of Upper Extremity Proprioceptive Neuromuscular Facilitation and Chest Expansion Exercises on Thoracic Mobility in Children With Cerebral Palsy
@@ -8681,6 +9598,7 @@ Link: https://clinicaltrials.gov/study/NCT06658236
 
 SUMMARY:
 
+
 ## NCT07085390
 Balloon Guide Versus Conventional Guide Catheter in Stroke Thrombectomy
 
@@ -8690,6 +9608,7 @@ Link: https://clinicaltrials.gov/study/NCT07085390
 
 SUMMARY:
 
+
 ## NCT03772561
 An Investigator Sponsored Phase I Study of the Safety, Tolerability and Pharmacodynamics of Escalating Doses of Combination Treatment of AZD5363 + Olaparib + Durvalumab (MEDI4736) in Patients With Advanced or Metastatic Solid Tumor Malignancies.
 
@@ -8697,6 +9616,7 @@ Intervention: : AZD5363+Olaparib+Durvalumab — Patients will receive AZD5363 or
 Link: https://clinicaltrials.gov/study/NCT03772561
 
 SUMMARY:
+
 
 ## NCT07409714
 SMART 2D: Study of Montelukast's Effects on Renal and Cardiovascular Health in Adolescents and Young Adults With Type 2 Diabetes
@@ -8706,6 +9626,7 @@ Intervention: : Montelukast — montelukast 10 mg daily for patients aged 15 and
 Link: https://clinicaltrials.gov/study/NCT07409714
 
 SUMMARY:
+
 
 ## NCT06672536
 A Multicenter, Dose-escalation and Dose-expansion, Phase I/II Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Efficacy Characteristics of SCT520FF in Patients With Neovascular Age-related Macular Degeneration
@@ -8718,6 +9639,7 @@ Link: https://clinicaltrials.gov/study/NCT06672536
 
 SUMMARY:
 
+
 ## NCT06834594
 Bleeding Patterns in Sequential and Continuous Progesterone Supplementation in Adolescents With Turner Syndrome: A Non-randomized Prospective Trial (The BOOST Study)
 
@@ -8726,6 +9648,7 @@ Intervention: : Micronized progesterone 200 MG — Oral micronized progesterone 
 Link: https://clinicaltrials.gov/study/NCT06834594
 
 SUMMARY:
+
 
 ## NCT06637111
 Ultrasound Guidance of Office Hysteroscopy in Patients With History of Failure of Office Hysteroscopy Due to Cervical Stenosis.A Randomized Controlled Study
@@ -8746,6 +9669,7 @@ Link: https://clinicaltrials.gov/study/NCT06637111
 
 SUMMARY:
 
+
 ## NCT02347111
 A Prospective, Multi-Center, Randomized, Open Label Trial to Determine if a Common Atrial Fibrillation Risk Locus Modulates Differential Response to Antiarrhythmic Drugs
 
@@ -8754,6 +9678,7 @@ Intervention: : Flecainide — flecainide up to 150mg twice daily for the contro
 Link: https://clinicaltrials.gov/study/NCT02347111
 
 SUMMARY:
+
 
 ## NCT07749118
 The Effect of HB05P Supplementation on Muscle Strength Improvement: A Randomized, Double-blind, Controlled Preliminary Clinical Trial (HB05P-Muscle Trial)
@@ -8764,6 +9689,7 @@ Link: https://clinicaltrials.gov/study/NCT07749118
 
 SUMMARY:
 
+
 ## NCT07673744
 A Phase 2, Randomized, Double-blind, Multicenter, Placebo-controlled Study to Evaluate the Efficacy and Safety of Maintenance Ublituximab Treatment Following Induction With Efgartigimod Administration in Adults With Myasthenia Gravis
 
@@ -8773,6 +9699,7 @@ Link: https://clinicaltrials.gov/study/NCT07673744
 
 SUMMARY:
 
+
 ## NCT06416306
 Speech Intervention for Bilingual Children
 
@@ -8780,6 +9707,7 @@ Intervention: : Speech Intervention — The treatment will begin with imitation,
 Link: https://clinicaltrials.gov/study/NCT06416306
 
 SUMMARY:
+
 
 ## NCT05046600
 Multi-Center, Prospective Registry to Evaluate the Continued Safety and Effectiveness of Hand and Wrist Products
@@ -8789,6 +9717,7 @@ Link: https://clinicaltrials.gov/study/NCT05046600
 
 SUMMARY:
 
+
 ## NCT07432009
 Orthopedic Procedures and Postoperative Delirium in the Czech Republic
 
@@ -8797,6 +9726,7 @@ Link: https://clinicaltrials.gov/study/NCT07432009
 
 SUMMARY:
 
+
 ## NCT07410624
 Augmented Renal Clearance in Neurocritical Care Population: A Prospective Multicenter Study
 
@@ -8804,6 +9734,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07410624
 
 SUMMARY:
+
 
 ## NCT06563999
 Neoadjuvant Umbrella Trial Directed by Next Generation Sequencing for Patients With Unresectable Stage III NSCLC Harboring Rare Mutations (Without EGFR Sensitizing Mutations)
@@ -8821,6 +9752,7 @@ Link: https://clinicaltrials.gov/study/NCT06563999
 
 SUMMARY:
 
+
 ## NCT06667232
 Evaluating Modulation Effects of Burst Stimulation Patterns Using SEEG
 
@@ -8832,6 +9764,7 @@ Link: https://clinicaltrials.gov/study/NCT06667232
 
 SUMMARY:
 
+
 ## NCT06850220
 Observational Study on the Impact of Obstructive Sleep Apnea on Executive Function and Empathy Development in Children
 
@@ -8839,6 +9772,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06850220
 
 SUMMARY:
+
 
 ## NCT07750795
 Effect of Nutrition and Physical Activity Education on Anthropometric Measurements, Eating Behavior, and Quality of Life in Children With Celiac Disease
@@ -8849,6 +9783,7 @@ Link: https://clinicaltrials.gov/study/NCT07750795
 
 SUMMARY:
 
+
 ## NCT04169152
 Cap-assisted Endoscopic Sclerotherapy for Internal Hemorrhoids and Rectal Prolapse: a National Multi-centre Prospective Cohort Study
 
@@ -8857,6 +9792,7 @@ Link: https://clinicaltrials.gov/study/NCT04169152
 
 SUMMARY:
 
+
 ## NCT07411417
 The Effects of Acupressure Combination on Post-Thoracotomy Pain and Lung Volume During Rest, Breathing-Coughing Exercises: A Randomized Controlled Study
 
@@ -8864,6 +9800,7 @@ Intervention: : Acupressure group — A series of acupressure applications
 Link: https://clinicaltrials.gov/study/NCT07411417
 
 SUMMARY:
+
 
 ## NCT05760378
 An Open, Randomized Phase III Study of Famitinib With Camrelizumab Plus Treatment of Physician's Choice (TPC) Versus Camrelizumab Plus TPC in The First-line Treatment of Immunomodulatory Locally Advanced or Metastatic Triple-negative Breast Cancer
@@ -8875,6 +9812,7 @@ Link: https://clinicaltrials.gov/study/NCT05760378
 
 SUMMARY:
 
+
 ## NCT06358248
 Standardized Physician-modified Fenestrated Endograft Registry
 
@@ -8885,6 +9823,7 @@ Link: https://clinicaltrials.gov/study/NCT06358248
 
 SUMMARY:
 
+
 ## NCT05745298
 The Use of Functional Electrical Stimulation in Conjunction With Respiratory Muscle Training to Improve Unaided Cough in Individuals With Acute Spinal Cord Injury
 
@@ -8892,6 +9831,7 @@ Intervention: : Xcite Clinical Station — The abdominal functional electrical s
 Link: https://clinicaltrials.gov/study/NCT05745298
 
 SUMMARY:
+
 
 ## NCT07752433
 Combining Noninvasive Brain Stimulation and Augmented Reality-based Dichoptic Therapy for Treating Amblyopic Adults
@@ -8903,6 +9843,7 @@ Link: https://clinicaltrials.gov/study/NCT07752433
 
 SUMMARY:
 
+
 ## NCT01185132
 A Phase III Randomized Study Comparing Intensity Modulated Planning Versus 3-Dimensional Planning for Accelerated Partial Breast Radiotherapy
 
@@ -8912,6 +9853,7 @@ Link: https://clinicaltrials.gov/study/NCT01185132
 
 SUMMARY:
 
+
 ## NCT06817993
 Development of a New Social Media fMRI Task to Better Investigate Bidirectional Links Between Social Media Use and Emotional Health in Youth
 
@@ -8919,6 +9861,7 @@ Intervention: : Rejection and Acceptance Feedback — Participants will be admin
 Link: https://clinicaltrials.gov/study/NCT06817993
 
 SUMMARY:
+
 
 ## NCT05169385
 Improving Outcomes of Adolescents in Residential Substance Use Treatment Via a Technology-Assisted Parenting Intervention
@@ -8929,6 +9872,7 @@ Link: https://clinicaltrials.gov/study/NCT05169385
 
 SUMMARY:
 
+
 ## NCT07753720
 Efficacy of Daily 5-mg Tadalafil as Adjunctive Therapy Versus Monotherapy in Men With On-Demand PDE5 Inhibitor-Resistant Erectile Dysfunction: A Prospective Randomized Trial
 
@@ -8938,6 +9882,7 @@ Link: https://clinicaltrials.gov/study/NCT07753720
 
 SUMMARY:
 
+
 ## NCT03683433
 Phase II Study of the Targeted Mutant IDH2 Inhibitor Enasidenib in Combination With Azacitidine for Relapsed/Refractory AML
 
@@ -8946,6 +9891,7 @@ Intervention: : Azacitidine — Given SC or IV
 Link: https://clinicaltrials.gov/study/NCT03683433
 
 SUMMARY:
+
 
 ## NCT07411599
 Dual Administration Of Intraperitoneal And Intravenous TROP2-Directed CAR-NK With TGF-Beta Receptor 2 (TGFBR2) Knock Out (KO) Therapy For Colorectal Cancer-Related Peritoneal Carcinomatosis: A Phase 1/2 Trial ("Chip-CRC Trial")
@@ -8958,6 +9904,7 @@ Link: https://clinicaltrials.gov/study/NCT07411599
 
 SUMMARY:
 
+
 ## NCT06834646
 Comparison of 30-day Morbidity and Mortality in Cancer Patients Based on Emergency Department Location: Referring Oncology Hospital vs Other Hospitals.
 
@@ -8965,6 +9912,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06834646
 
 SUMMARY:
+
 
 ## NCT04578249
 Effects of Blocking Blue Light at Night on Patient Outcomes After Elective CABG, AVR, MVR, CABG AVR, CABG MVR, or SAH
@@ -8975,6 +9923,7 @@ Link: https://clinicaltrials.gov/study/NCT04578249
 
 SUMMARY:
 
+
 ## NCT06691893
 A Randomized Controlled Trial to Evaluate the Efficacy of Immobilized Lipase (RELiZORB) During Enteral Nutrition in Patients With Exocrine Pancreatic Insufficiency Secondary to Acute Pancreatitis
 
@@ -8982,6 +9931,7 @@ Intervention: : RELiZORB — RELiZORB (immobilized lipase) is a therapeutic devi
 Link: https://clinicaltrials.gov/study/NCT06691893
 
 SUMMARY:
+
 
 ## NCT07411612
 The Association Between Postoperative Inflammatory and Neuroogical Serum Biomarker Concentrations and Occurrence of Postoperative Delirium - a Prospective Observational Study
@@ -8991,6 +9941,7 @@ Intervention: : laboratory biomarker analysis — Neuronal, inflammatory and str
 Link: https://clinicaltrials.gov/study/NCT07411612
 
 SUMMARY:
+
 
 ## NCT07042438
 A Phase 2 Randomized Trial of Remodeling Intestinal Microbiota Using Fecal Microbiome Transplant (FMT) Among Recipients of Chimeric Antigen Receptor T Cells (CAR T)
@@ -9005,6 +9956,7 @@ Link: https://clinicaltrials.gov/study/NCT07042438
 
 SUMMARY:
 
+
 ## NCT07316556
 Prospective Systematic Data Collection for Post-Marketing Surveillance of Vliwazell® Pro Wound Dressing
 
@@ -9012,6 +9964,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07316556
 
 SUMMARY:
+
 
 ## NCT04414878
 A Prospective, Multicenter, Single-arm, Objective Performance Clinical Investigation For Evaluation of the Safety and Effectiveness of MicroPort™ CardioFlow VitaFlow ™ II Transcatheter Aortic Valve System in the Treatment of Severe Aortic Valve Stenosis
@@ -9021,6 +9974,7 @@ Link: https://clinicaltrials.gov/study/NCT04414878
 
 SUMMARY:
 
+
 ## NCT07411729
 Establishment of a Biobank for the Evaluation of Rapid Diagnostic Solutions for Emerging Infectious Diseases and CBRN Threats - DiagRaMIE Biobanque
 
@@ -9028,6 +9982,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07411729
 
 SUMMARY:
+
 
 ## NCT03496792
 The Venous Distension Reflex and Orthostatic Hypertension
@@ -9040,6 +9995,7 @@ Link: https://clinicaltrials.gov/study/NCT03496792
 
 SUMMARY:
 
+
 ## NCT07755956
 A Phase Ia Clinical Trial to Compare Pharmacokinetics, Pharmacodynamics, Safety and Preliminary Efficacy of HHK001 Versus Enantone in Patients With Endometriosis
 
@@ -9048,6 +10004,7 @@ Intervention: : Leuprorelin Acetate — Participants will receive a single subcu
 Link: https://clinicaltrials.gov/study/NCT07755956
 
 SUMMARY:
+
 
 ## NCT07412028
 Identification of Women With Severe Insulin Resistant Syndromes of Genetic Origin Among Patients With "Classic" Polycystic Ovary Syndrome (PCOS)
@@ -9060,6 +10017,7 @@ Link: https://clinicaltrials.gov/study/NCT07412028
 
 SUMMARY:
 
+
 ## NCT07412041
 Precise Exercise Regimen for Cancer Care (PERCC): A Pilot Study
 
@@ -9070,6 +10028,7 @@ Link: https://clinicaltrials.gov/study/NCT07412041
 
 SUMMARY:
 
+
 ## NCT07056283
 The Study of Urinary Biomarkers in Patients With Hypomagnesemia
 
@@ -9077,6 +10036,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07056283
 
 SUMMARY:
+
 
 ## NCT06789029
 The Effect of Dexamethasone Administration Route and Local Anesthetic Concentration on Pain, Inflammatory Response, and Neuromonitoring in Children Undergoing Scoliosis Correction
@@ -9086,6 +10046,7 @@ Intervention: : perineural Dexamethasone — Erector Spinae Plane Block with 0.2
 Link: https://clinicaltrials.gov/study/NCT06789029
 
 SUMMARY:
+
 
 ## NCT07526493
 An Open-Label Clinical Study to Evaluate the Safety and Pharmacodynamics of QH103 Cell Injection in the Treatment of Patients With Relapsed/Refractory Antibody-Mediated Neurological Autoimmune Diseases.
@@ -9097,6 +10058,7 @@ Link: https://clinicaltrials.gov/study/NCT07526493
 
 SUMMARY:
 
+
 ## NCT06933303
 Distraction as Treatment for Pain in Children in Resource-scarce Settings
 
@@ -9105,6 +10067,7 @@ Link: https://clinicaltrials.gov/study/NCT06933303
 
 SUMMARY:
 
+
 ## NCT07412327
 A Single-Center, Prospective Phase II Clinical Study of Stereotactic Body Proton Therapy (SBPT) for Early-Stage Non-Small Cell Lung Cancer
 
@@ -9112,6 +10075,7 @@ Intervention: : Stereotactic Body Proton Therapy — They were divided into peri
 Link: https://clinicaltrials.gov/study/NCT07412327
 
 SUMMARY:
+
 
 ## NCT02107105
 Prospective Evaluation of Quality of Life and Utilities Following Surgical Treatment of Rectal Cancer
@@ -9122,6 +10086,7 @@ Link: https://clinicaltrials.gov/study/NCT02107105
 
 SUMMARY:
 
+
 ## NCT07412756
 A Phase 3, Multicenter, Randomized, Double-Blind, Parallel-Arm Study to Investigate the Efficacy and Safety of Adjunctive Treatment With Brenipatide in Delaying Time to Relapse Compared With Placebo in Adult Participants With Major Depressive Disorder (RENEW-MDD 1)
 
@@ -9130,6 +10095,7 @@ Intervention: : Brenipatide — Administered SC
 Link: https://clinicaltrials.gov/study/NCT07412756
 
 SUMMARY:
+
 
 ## NCT07757763
 The Effectiveness of Slow Jogging on Sleep, Fatigue, and Quality of Life in Breast Cancer Survivors
@@ -9140,6 +10106,7 @@ Link: https://clinicaltrials.gov/study/NCT07757763
 
 SUMMARY:
 
+
 ## NCT04532606
 Impact of Remimazolam Tosilate for General Anesthesia on Prognosis After Bladder Cancer Surgery: a Randomized Controlled Trial
 
@@ -9148,6 +10115,7 @@ Intervention: : Remimazolam — Remimazolam is administered intravenously for an
 Link: https://clinicaltrials.gov/study/NCT04532606
 
 SUMMARY:
+
 
 ## NCT07460804
 Focus of Attention Effect on Sit to Stand Symmetry in Individuals Post Chronic Stroke: A Randomized Cross-over Trial
@@ -9159,6 +10127,7 @@ Link: https://clinicaltrials.gov/study/NCT07460804
 
 SUMMARY:
 
+
 ## NCT07412860
 Interventional, Multi-center, Randomized, Controlled, Open Label Clinical Investigation Between the Topical Administration of a Tear Substitute Containing Ancillary Medicinal Substance and Hyaluronic Acid 0.3% (FBV_01) Versus Hyaluronic Acid 0.3% in Subjects in the Treatment From Moderate to Severe Dry Eye Syndrome
 
@@ -9168,6 +10137,7 @@ Link: https://clinicaltrials.gov/study/NCT07412860
 
 SUMMARY:
 
+
 ## NCT07413107
 Development and Validation of the Italian Version of the Waddell Chronic Disability Index for People With Low Back Pain
 
@@ -9175,6 +10145,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07413107
 
 SUMMARY:
+
 
 ## NCT07758569
 Validation of the Artificial Intelligence Subsystem of the DDART Medical Device for the Automated Detection of Lesions Compatible With Glaucoma in a Random Sample of Retinal Fundus Photograph
@@ -9186,6 +10157,7 @@ Link: https://clinicaltrials.gov/study/NCT07758569
 
 SUMMARY:
 
+
 ## NCT06703892
 An Open-Label, Non-Randomized, Phase I, Prospective, Dose- Finding Study to Evaluate the Safety and Clinical Activity of GF- CART01 (CD20/19 CAR T Cell) in Subjects With Relapsed or Refractory B-Cell Hematological Malignancies
 
@@ -9196,6 +10168,7 @@ Link: https://clinicaltrials.gov/study/NCT06703892
 
 SUMMARY:
 
+
 ## NCT06143137
 Recovery From Acute Immune Failure in Septic Shock by Immune Cell Extracorporeal Therapy - Observational Long-term Outcome Follow up
 
@@ -9204,6 +10177,7 @@ Link: https://clinicaltrials.gov/study/NCT06143137
 
 SUMMARY:
 
+
 ## NCT07444281
 An Investigator-initiated Phase I Trial of an Armored and GPC3-targeted Autologous CAR T-cell Infusion C-CAR031 in Participants With GPC3+ Advanced/Metastatic Squamous Cell Lung Cancer
 
@@ -9211,6 +10185,7 @@ Intervention: : C-CAR031 — C-CAR031 is an autologous CAR T-cell product that e
 Link: https://clinicaltrials.gov/study/NCT07444281
 
 SUMMARY:
+
 
 ## NCT06680830
 A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study and Open-Label Extension to Evaluate the Safety and Efficacy of NEU-411 in Companion Diagnostic-Positive Participants With Early Parkinson's Disease (NEULARK)
@@ -9221,6 +10196,7 @@ Link: https://clinicaltrials.gov/study/NCT06680830
 
 SUMMARY:
 
+
 ## NCT07413341
 A Clinical Study on the Safety and Efficacy of in Vivo CAR-T Cell Therapy (TI-0032-III Injection) for the Treatment of Relapsed and Refractory Autoimmune Diseases
 
@@ -9228,6 +10204,7 @@ Intervention: : TI-0032-III injection — Multiple doses of TI-0032-III injectio
 Link: https://clinicaltrials.gov/study/NCT07413341
 
 SUMMARY:
+
 
 ## NCT06198400
 Indocyanine Green Fluorescence in Evaluation of Post-resection Pancreatic Remnant Perfusion After Pancreaticoduodenectomy
@@ -9237,6 +10214,7 @@ Link: https://clinicaltrials.gov/study/NCT06198400
 
 SUMMARY:
 
+
 ## NCT07196839
 Determining the Association of TTR Stabilizing Therapy With Circulating TTR Amyloid Aggregates Over Time in Patients With ATTR-CM: Longitudinal Biomarker Study
 
@@ -9244,6 +10222,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07196839
 
 SUMMARY:
+
 
 ## NCT07740629
 Use of a Pre-Procedure Educational Video for Urodynamic Testing as a Tool to Reduce Anxiety: A Prospective Randomized Study
@@ -9253,6 +10232,7 @@ Link: https://clinicaltrials.gov/study/NCT07740629
 
 SUMMARY:
 
+
 ## NCT05247645
 Structured Collection of Data Relating to Rare Diseases With Predominantly Skeletal Involvement
 
@@ -9260,6 +10240,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05247645
 
 SUMMARY:
+
 
 ## NCT06670807
 Clinical Trial to Evaluate the Efficacy of a Probiotic Formula on Cognitive Function in Mild Cognitive Impairement Patients.
@@ -9270,6 +10251,7 @@ Link: https://clinicaltrials.gov/study/NCT06670807
 
 SUMMARY:
 
+
 ## NCT07623811
 Efficacy and Safety of Acute Topical and Aromatic Essential Oil-Based Products for Cognitive Support. A Double-Blind, Placebo-Controlled, Parallel, Adaptive Trial.
 
@@ -9279,6 +10261,7 @@ Link: https://clinicaltrials.gov/study/NCT07623811
 
 SUMMARY:
 
+
 ## NCT03811470
 China Diabetes Registry - a Prospective Cohort Study of Patients With Diabetes in National Metabolic Management Centers in China
 
@@ -9286,6 +10269,7 @@ Intervention: : Standard diabetes management model in each MMC center — Standa
 Link: https://clinicaltrials.gov/study/NCT03811470
 
 SUMMARY:
+
 
 ## NCT07413562
 Feasibility, Safety, and Preliminary Efficacy of Median Nerve Stimulation for Cognitive Dysfunction in Patients With Acute Traumatic Brain Injury (MARS-TBI): Study Protocol for a Pilot Randomized Controlled Trial
@@ -9296,6 +10280,7 @@ Link: https://clinicaltrials.gov/study/NCT07413562
 
 SUMMARY:
 
+
 ## NCT07413874
 Telehealth Music Therapy for Adults With Endocrine System Based Autoimmune Disease and a Depressive Disorder: An Intervention Development Study
 
@@ -9304,6 +10289,7 @@ Link: https://clinicaltrials.gov/study/NCT07413874
 
 SUMMARY:
 
+
 ## NCT07413757
 A Cross-sectional Survey-based Study Using Preference Elicitation Method to Assess Decision-making Impact Factor of Chinese Patients and Physicians for First-line EGFR-TKIs Treatment of Stage IV NSCLC (CHOICE)
 
@@ -9311,6 +10297,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07413757
 
 SUMMARY:
+
 
 ## NCT07761936
 Effects of Safinamide Versus Placebo on Pain in Patients With Parkinson's Disease With Motor Fluctuations: A Randomized, Controlled, Double-Blind Clinical Trial
@@ -9321,6 +10308,7 @@ Link: https://clinicaltrials.gov/study/NCT07761936
 
 SUMMARY:
 
+
 ## NCT07414095
 Investigation of the Relationship Between Frailty, Sarcopenia, Malnutrition, and Psychosocial Parameters and Post-Transplant Outcomes in Liver Transplant Candidates
 
@@ -9328,6 +10316,7 @@ Intervention: : Comprehensive Observational Assessment in Liver Transplant Candi
 Link: https://clinicaltrials.gov/study/NCT07414095
 
 SUMMARY:
+
 
 ## NCT07413978
 A Phase I-II, Open-label, Single-arm, Dose-escalation Clinical Trial to Evaluate the Safety and Tolerability of Human Umbilical Cord Mesenchymal Stem Cell Injection in the Treatment of Moderate to Severe Acute Respiratory Distress Syndrome
@@ -9340,6 +10329,7 @@ Link: https://clinicaltrials.gov/study/NCT07413978
 
 SUMMARY:
 
+
 ## NCT05197764
 The Integration of Macroscopic and Microscopic Muscle Properties With Cell Modelling to Feature Altered Neuromuscular Behavior in Cerebral Palsy: 3D-Macroscopic Muscle Architecture in Cerebral Palsy
 
@@ -9347,6 +10337,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05197764
 
 SUMMARY:
+
 
 ## NCT06732622
 Laser Acupuncture for Idiopathic Bell's Palsy: a Randomized Controlled Trial
@@ -9370,6 +10361,7 @@ Link: https://clinicaltrials.gov/study/NCT06732622
 
 SUMMARY:
 
+
 ## NCT07008664
 Signature Development and Validation Protocol for an Epigenetic Assay in Diagnosing Lung Cancer
 
@@ -9377,6 +10369,7 @@ Intervention: : Epigenetic Signature Assay — Up to 15 ml of blood will be coll
 Link: https://clinicaltrials.gov/study/NCT07008664
 
 SUMMARY:
+
 
 ## NCT06861153
 Pulses: Optimizing Pulse Consumption for Cardiometabolic Health
@@ -9388,6 +10381,7 @@ Link: https://clinicaltrials.gov/study/NCT06861153
 
 SUMMARY:
 
+
 ## NCT07414511
 Hemophilia A Research Program (HARP): An Observational Intergenerational Cohort Study of Hemophilia A and Factor VIII Immunogenicity
 
@@ -9395,6 +10389,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07414511
 
 SUMMARY:
+
 
 ## NCT07226895
 A Study to Explore Changes in Cognitive, Clinical, Biological and Digital Measures Following 8 Weeks of Twice-daily Dosing of MT1988 and to Evaluate Safety & Tolerability of MT1988, in Participants at Clinical High Risk (CHR) for Psychosis
@@ -9406,6 +10401,7 @@ Link: https://clinicaltrials.gov/study/NCT07226895
 
 SUMMARY:
 
+
 ## NCT07070622
 Planed Organ Preservation for Early- and Intermediate-risk Low Rectal Cancer With Good Response to Neoadjuvant Chemotherapy
 
@@ -9413,6 +10409,7 @@ Intervention: : patients were assigned to receive TNT or iTNT management — TNT
 Link: https://clinicaltrials.gov/study/NCT07070622
 
 SUMMARY:
+
 
 ## NCT07414576
 Clinical Decision Support for Total Parenteral Nutrition Constituents in Neonatal Intensive Care Unit (NICU) Patients: A Pilot Study
@@ -9422,6 +10419,7 @@ Link: https://clinicaltrials.gov/study/NCT07414576
 
 SUMMARY:
 
+
 ## NCT05233891
 Validation of Scales in Reconstructive Breast Surgery
 
@@ -9430,6 +10428,7 @@ Intervention: : Breast reconstruction — Breast reconstruction after breast can
 Link: https://clinicaltrials.gov/study/NCT05233891
 
 SUMMARY:
+
 
 ## NCT07764198
 A Randomized Controlled Trial of Gabor-Based Perceptual Learning for Adult Amblyopia
@@ -9441,6 +10440,7 @@ Link: https://clinicaltrials.gov/study/NCT07764198
 
 SUMMARY:
 
+
 ## NCT07414732
 The "Savvy for Stroke Survivors" Study: Testing a Novel Tool to Help Stroke Survivors Take Their Medication
 
@@ -9448,6 +10448,7 @@ Intervention: : Savvy Medication Adherence Intervention — The intervention gro
 Link: https://clinicaltrials.gov/study/NCT07414732
 
 SUMMARY:
+
 
 ## NCT07278934
 Testing the Impact of Family-Based Intervention to Improve Developmental and Health Outcomes for Female Adolescents
@@ -9459,6 +10460,7 @@ Link: https://clinicaltrials.gov/study/NCT07278934
 
 SUMMARY:
 
+
 ## NCT07414745
 MDT-0123 Clinical Trial Targeting Patients Who Require Lumbar Vertebral Fusion in Japan
 
@@ -9468,6 +10470,7 @@ Link: https://clinicaltrials.gov/study/NCT07414745
 
 SUMMARY:
 
+
 ## NCT07764380
 Epigenetic and Cortisol Level Reflections of Maternal Stress During Pregnancy: A Randomized Controlled Trial on the Effectiveness of Educational Programs
 
@@ -9476,6 +10479,7 @@ Link: https://clinicaltrials.gov/study/NCT07764380
 
 SUMMARY:
 
+
 ## NCT07414940
 A Multi-site, Prospective, Open-label Phase I/II Trial of Actinium (225Ac) rhPSMA 10.1 to Evaluate Safety and Anti-tumour Activity in Men With Metastatic Castrate-resistant Prostate Cancer (mCRPC) Including Those Who Have Previously Responded to Lutetium-PSMA
 
@@ -9483,6 +10487,7 @@ Intervention: : Actinium (225Ac) rhPSMA-10.1 — Dose will vary depending on tri
 Link: https://clinicaltrials.gov/study/NCT07414940
 
 SUMMARY:
+
 
 ## NCT06745895
 Multilevel Action Toward Colorectal Cancer and Hepatitis C Education and Screening (MATCHES)
@@ -9498,6 +10503,7 @@ Link: https://clinicaltrials.gov/study/NCT06745895
 
 SUMMARY:
 
+
 ## NCT06375239
 Observational, Non-Interventional Study to Determine the Operational Feasibility and Measurement Properties of Endpoints in Patients with Retinal Degeneration
 
@@ -9505,6 +10511,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06375239
 
 SUMMARY:
+
 
 ## NCT07415564
 Symptom Management and Survivorship Plus Coaching to Reduce Symptom Severity and Improve Health Related-quality of Life (HR-QOL) for Breast, GI and Melanoma Cancer Survivors and Their Caregivers
@@ -9515,6 +10522,7 @@ Link: https://clinicaltrials.gov/study/NCT07415564
 
 SUMMARY:
 
+
 ## NCT06422793
 The Impact of Nasogastric Tube Gastric Decompression on Postoperative Nausea and Vomiting in Orthognathic Surgery
 
@@ -9523,6 +10531,7 @@ Link: https://clinicaltrials.gov/study/NCT06422793
 
 SUMMARY:
 
+
 ## NCT07780903
 Making Cents of Medical Costs: A Digital Financial Toxicity Intervention for Adolescent and Young Adult Cancer Survivors
 
@@ -9530,6 +10539,7 @@ Intervention: : Making Cents of Medical Costs — Making Cents of Medical Costs 
 Link: https://clinicaltrials.gov/study/NCT07780903
 
 SUMMARY:
+
 
 ## NCT05645107
 A Randomized, Multi-Center, Parallel, Double-Blinded, Placebo-Controlled Clinical Trial to Evaluate Efficacy, Safety, and Pharmacokinetics of XEMBIFY® Plus Standard Medical Treatment Compared to Placebo Plus Standard Medical Treatment to Prevent Infections in Patients With Hypogammaglobulinemia and Recurrent or Severe Infections Associated With B-cell Chronic Lymphocytic Leukemia, Multiple Myeloma, and Non-Hodgkin Lymphoma
@@ -9540,6 +10550,7 @@ Link: https://clinicaltrials.gov/study/NCT05645107
 
 SUMMARY:
 
+
 ## NCT06150664
 A Phase 1, Open-Label, Multiple-Ascending Dose Study of the Safety and Tolerability of CTX-8371 in Patients With Advanced Malignancies
 
@@ -9547,6 +10558,7 @@ Intervention: : CTX-8371 — Intravenous (IV) infusion every two weeks.
 Link: https://clinicaltrials.gov/study/NCT06150664
 
 SUMMARY:
+
 
 ## NCT07415681
 A Phase II, Randomized, Open-Label, Single-Center Study Comparing Intensity Modulated Proton Therapy Versus Volume Modulated Arc Therapy in Patients Receiving Pelvic Nodal Irradiation for Newly Diagnosed Gynecologic Primaries
@@ -9561,6 +10573,7 @@ Link: https://clinicaltrials.gov/study/NCT07415681
 
 SUMMARY:
 
+
 ## NCT07416162
 A Post-marketing Surveillance of Fabhalta® (Iptacopan) in Korean Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) or C3 Glomerulopathy (C3G)
 
@@ -9568,6 +10581,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07416162
 
 SUMMARY:
+
 
 ## NCT07498270
 Location- and Frequency-Dependent Effects of Thalamic Temporal Interference Stimulation During Sleep
@@ -9589,6 +10603,7 @@ Link: https://clinicaltrials.gov/study/NCT07498270
 
 SUMMARY:
 
+
 ## NCT06836609
 A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Two-Part Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of a Single Dose of ALN-CIDEB in Adult Participants With Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) and Two Doses of ALN-CIDEB in Adult Participants With Metabolic Dysfunction-Associated Steatohepatitis (MASH)
 
@@ -9597,6 +10612,7 @@ Intervention: : ALN-CIDEB — Administered per the protocol
 Link: https://clinicaltrials.gov/study/NCT06836609
 
 SUMMARY:
+
 
 ## NCT02584244
 Feasibility of the LUM Imaging System for Detection of Gastrointestinal Cancers
@@ -9607,6 +10623,7 @@ Link: https://clinicaltrials.gov/study/NCT02584244
 
 SUMMARY:
 
+
 ## NCT07675694
 A Within-Subject Eye-Tracking Study Examining How the Timing of AI Decision Support Influences Visual Search Behaviour, Diagnostic Accuracy, and Trust During Chest X-ray Interpretation
 
@@ -9615,6 +10632,7 @@ Intervention: : Original CXR First Timing — Participants first review the orig
 Link: https://clinicaltrials.gov/study/NCT07675694
 
 SUMMARY:
+
 
 ## NCT07416448
 Comprehensive Multicenter Study on the Management of Neuroma-Associated Pain Following Combat-Related Trauma in Ukraine
@@ -9625,6 +10643,7 @@ Link: https://clinicaltrials.gov/study/NCT07416448
 
 SUMMARY:
 
+
 ## NCT07165132
 Phase 1 First-in-Human, Dose Escalation and Dose Expansion Study of RYZ401, a Novel Radiopharmaceutical Therapy Labeled With Actinium-225, in Subjects With Neuroendocrine Tumors and Other Solid Tumors Expressing Somatostatin Receptors.
 
@@ -9632,6 +10651,7 @@ Intervention: : RYZ401 — Ac-225
 Link: https://clinicaltrials.gov/study/NCT07165132
 
 SUMMARY:
+
 
 ## NCT06461793
 Safety of Dose Escalation in Definitive Hypofractionated Radiation Therapy and Hormone Therapy With SpaceOAR TM for Patients With High - Risk Localized Prostate Cancer (DESAR-H)
@@ -9641,6 +10661,7 @@ Link: https://clinicaltrials.gov/study/NCT06461793
 
 SUMMARY:
 
+
 ## NCT07768670
 Artificial Intelligence-based Personalized Exercise Prescription Through Mobile Health on Physical Activity and Health Outcomes in Older Adults: A Feasibility Study
 
@@ -9649,6 +10670,7 @@ Link: https://clinicaltrials.gov/study/NCT07768670
 
 SUMMARY:
 
+
 ## NCT07769281
 Safety and Efficacy of NeuroTechR3 System for Upper Extremity Recovery After Stroke
 
@@ -9656,6 +10678,7 @@ Intervention: : NeuroTechR3 Computer Rehabilitation System — Participants will
 Link: https://clinicaltrials.gov/study/NCT07769281
 
 SUMMARY:
+
 
 ## NCT06758817
 The Triad of Nutrition, Intestinal Microbiota and Rheumatoid Arthritis (TASTY)
@@ -9666,6 +10689,7 @@ Link: https://clinicaltrials.gov/study/NCT06758817
 
 SUMMARY:
 
+
 ## NCT07192614
 A Phase I/II Open-label, Dose Escalation and Dose Expansion Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of AZD6621, a T Cell-engaging Antibody That Targets STEAP2, CD3, and CD8 in Adult Participants With Metastatic Prostate Cancer
 
@@ -9673,6 +10697,7 @@ Intervention: : AZD6621 — A T Cell-engaging Antibody that targets STEAP2, CD3,
 Link: https://clinicaltrials.gov/study/NCT07192614
 
 SUMMARY:
+
 
 ## NCT06465966
 UFPTI 2403-PR12: Real-Time Volumetric Ionizing Radiation Acoustic Imaging for In-vivo Proton Treatment Monitoring in Pencil-Beam Scanning
@@ -9682,6 +10707,7 @@ Link: https://clinicaltrials.gov/study/NCT06465966
 
 SUMMARY:
 
+
 ## NCT07278375
 Target Trial Emulation for Pharmacologic Treatment of Neonatal Opioid Withdrawal Syndrome
 
@@ -9690,6 +10716,7 @@ Link: https://clinicaltrials.gov/study/NCT07278375
 
 SUMMARY:
 
+
 ## NCT07769814
 Evaluation of Ultra-high Resolution Photon-counting CT Angiography for Intracranial Stent Assessment: A Prospective Diagnostic Study With Digital Subtraction Angiography as Reference Standard
 
@@ -9697,6 +10724,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07769814
 
 SUMMARY:
+
 
 ## NCT07770685
 A Phase 1, Multicenter, Open-Label, Ascending-Dose and Phase 2, Randomized, Double-Masked, Sham-Controlled, Clinical Study to Evaluate the Safety and Efficacy of ASP2767 in Participants With Optic Neuropathy Due to Glaucoma
@@ -9710,6 +10738,7 @@ Link: https://clinicaltrials.gov/study/NCT07770685
 
 SUMMARY:
 
+
 ## NCT05880914
 Precision Medicine Approaches to Renal Osteodystrophy
 
@@ -9719,6 +10748,7 @@ Link: https://clinicaltrials.gov/study/NCT05880914
 
 SUMMARY:
 
+
 ## NCT07770425
 Lesion Size Measurement During Gastrointestinal Endoscopies
 
@@ -9727,6 +10757,7 @@ Link: https://clinicaltrials.gov/study/NCT07770425
 
 SUMMARY:
 
+
 ## NCT07077239
 MAgnetic Resonance Imaging or Computed Tomography Guided Stereotactic Body Radiotherapy With Online Adaptive Technology for Minimizing Toxicity During Salvage or AdjUvaNt Radiotherapy for ProstatE Cancer (MASAMUNE)
 
@@ -9734,6 +10765,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07077239
 
 SUMMARY:
+
 
 ## NCT07416994
 A Multicenter, Randomized, Open-label, Phase III Study to Compare the Efficacy and Safety of YL202 and Docetaxel in Patients With Locally Advanced or Metastatic EGFR Sensitive Mutation Non-Squamous Non-Small Cell Lung Cancer
@@ -9744,6 +10776,7 @@ Link: https://clinicaltrials.gov/study/NCT07416994
 
 SUMMARY:
 
+
 ## NCT04198792
 Predictors for Survival and Good Neurological Outcome in E-CPR and Non CPR Treated Patients
 
@@ -9751,6 +10784,7 @@ Intervention: : No intervention — No intervention, but ECPR patients will be c
 Link: https://clinicaltrials.gov/study/NCT04198792
 
 SUMMARY:
+
 
 ## NCT06899581
 Monitor Gut Health in Children Undergoing Treatment for Acute Myeloid Leukaemia Treatment: Case-control Study
@@ -9762,6 +10796,7 @@ Link: https://clinicaltrials.gov/study/NCT06899581
 
 SUMMARY:
 
+
 ## NCT06970275
 A Multicentric, Observational, Post-marketing, Registry Study to Assess the Correlation of High-resolution Specimen PET-CT Imaging, Using the XEOS AURA 10 PET-CT, With the Histopathology Results and Long-term Outcome of Patients Undergoing Resective Cancer Surgery.
 
@@ -9769,6 +10804,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06970275
 
 SUMMARY:
+
 
 ## NCT04149977
 Blood Flow Restriction Therapy in Lower Limb Extensor Injuries: A Randomized Controlled Double-Blind Study
@@ -9779,6 +10815,7 @@ Link: https://clinicaltrials.gov/study/NCT04149977
 
 SUMMARY:
 
+
 ## NCT06275919
 Regorafenib for Recurrent Meningioma. A Multicenter, Randomized Phase II Study (MIRAGE Trial)
 
@@ -9788,6 +10825,7 @@ Link: https://clinicaltrials.gov/study/NCT06275919
 
 SUMMARY:
 
+
 ## NCT07772791
 Online Cohort of Sexual and Gender Minorities: Evaluating the Effect of Digital Interventions on the Uptake and Adherence to HIV Pre-Exposure Prophylaxis and Antiretroviral Treatment
 
@@ -9795,6 +10833,7 @@ Intervention: : Weekly WhatsApp Adherence Messages — Participants randomized t
 Link: https://clinicaltrials.gov/study/NCT07772791
 
 SUMMARY:
+
 
 ## NCT06482996
 the Impact of General Anesthesia on Blood Pressure and Intraocular Pressure in Geriatric Patients Undergoing Cataract Surgery
@@ -9804,6 +10843,7 @@ Link: https://clinicaltrials.gov/study/NCT06482996
 
 SUMMARY:
 
+
 ## NCT04604041
 Investigation of Subclinical Markers of Multiple Sclerosis
 
@@ -9811,6 +10851,7 @@ Intervention: : 1. Clinical testing; 2. Neurophysiological examination (TMS, EMN
 Link: https://clinicaltrials.gov/study/NCT04604041
 
 SUMMARY:
+
 
 ## NCT07054216
 Efficacy of a Probiotic on Gut Health, Immune Maturation, and Well-being in Term Newborns - a Randomized, Double-blinded, Placebo-controlled Study
@@ -9820,6 +10861,7 @@ Intervention: : Probiotic — Given daily from 14 days of age until 9 months of 
 Link: https://clinicaltrials.gov/study/NCT07054216
 
 SUMMARY:
+
 
 ## NCT06946316
 Dairy Versus Plant-based Beverages Combined With Resistance-training for Improving Bone Health
@@ -9831,6 +10873,7 @@ Link: https://clinicaltrials.gov/study/NCT06946316
 
 SUMMARY:
 
+
 ## NCT06520488
 Phase IB/II Clinical Study of the Safety, Tolerability and Efficacy of HRS-4642 in Combination With Anti-tumor Agents in Subjects With Advanced Solid Tumors
 
@@ -9839,6 +10882,7 @@ Link: https://clinicaltrials.gov/study/NCT06520488
 
 SUMMARY:
 
+
 ## NCT07369804
 Safety and Efficacy of Focused LED-Based Repeated Low-Level Red-Light Therapy in Myopic Adults: A Single-Arm Pilot Study
 
@@ -9846,6 +10890,7 @@ Intervention: : fLED-based red-light therapy — Eligible subjects will receive 
 Link: https://clinicaltrials.gov/study/NCT07369804
 
 SUMMARY:
+
 
 ## NCT06786039
 Clinical Impact of Non-invasive Neurally Adjusted Ventilatory Assist in Very Preterm Infants
@@ -9857,6 +10902,7 @@ Link: https://clinicaltrials.gov/study/NCT06786039
 
 SUMMARY:
 
+
 ## NCT06506084
 Observational Study on the Use of Ropeginterferon Alfa-2b in Polycythemia Vera (ROPEG-PV)
 
@@ -9867,6 +10913,7 @@ Link: https://clinicaltrials.gov/study/NCT06506084
 
 SUMMARY:
 
+
 ## NCT07173504
 The Effect of Continuous Versus Intermittent Enteral Nutrition on Metabolic Outcomes in Critically Ill Patients
 
@@ -9875,6 +10922,7 @@ Link: https://clinicaltrials.gov/study/NCT07173504
 
 SUMMARY:
 
+
 ## NCT07722260
 Effect of Implementing Cough Augmentation Techniques on Weaning Outcomes Among Critically Ill Patients
 
@@ -9882,6 +10930,7 @@ Intervention: : cough augmentation techniques — the lung volume recruitment ma
 Link: https://clinicaltrials.gov/study/NCT07722260
 
 SUMMARY:
+
 
 ## NCT07023952
 Effect of Phenol Addition to Laser Treatment on Epithelialization and Healing Process in Pilonidal Sinus: A Prospective Randomized Controlled Clinical Trial
@@ -9892,6 +10941,7 @@ Link: https://clinicaltrials.gov/study/NCT07023952
 
 SUMMARY:
 
+
 ## NCT04783597
 Early Prediction of Preeclampsia Using arteriaL Stiffness in High-risk prEgnancies; a Multinational Study (PULSE)
 
@@ -9899,6 +10949,7 @@ Intervention: : Arterial Stiffness and Wave Reflection — Arterial stiffness an
 Link: https://clinicaltrials.gov/study/NCT04783597
 
 SUMMARY:
+
 
 ## NCT07213557
 Randomized Phase 2 Study of Simvastatin in Patients With ARID1A Mutated Advanced Gastrooesophageal Carcinoma Treated With Nivolumab and Oxaliplatin- Based Chemotherapy as First-line Treatment (The ARES Trial)
@@ -9916,6 +10967,7 @@ Link: https://clinicaltrials.gov/study/NCT07213557
 
 SUMMARY:
 
+
 ## NCT07776054
 Clinical Impact of SGLT2 Inhibitor After DC Cardioversion in Persistent Atrial Fibrillation Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Controlled Trial
 
@@ -9923,6 +10975,7 @@ Intervention: : SGLT2 inhibitors (Dapagliflozin and Empagliflozin) — Patients 
 Link: https://clinicaltrials.gov/study/NCT07776054
 
 SUMMARY:
+
 
 ## NCT06972628
 177Lu-PSMA-617 (Pluvicto) for the Treatment of Patients With Progressive PSMA-Positive Metastatic Castration-Resistant Prostate Cancer (mCRPC) and Super Scan Bone Scan
@@ -9932,6 +10985,7 @@ Link: https://clinicaltrials.gov/study/NCT06972628
 
 SUMMARY:
 
+
 ## NCT07775833
 Study Protocol: The Efficacy of Mushroom to Reduce Cognitive Decline in At-Risk Middle-aged Adults and Young-olds Living in the Community
 
@@ -9939,6 +10993,7 @@ Intervention: : Golden oyster mushroom powder — Participants in the interventi
 Link: https://clinicaltrials.gov/study/NCT07775833
 
 SUMMARY:
+
 
 ## NCT05905328
 Phase 1B/2A Study of CTO1681 for the Prevention and Treatment of Cytokine Release Syndrome in Patients Receiving Chimeric Antigen Receptor T-Cell Therapy
@@ -9952,6 +11007,7 @@ Link: https://clinicaltrials.gov/study/NCT05905328
 
 SUMMARY:
 
+
 ## NCT06562283
 Evaluation of the Reproducibility of a Fatigability Test Fitted to Patients With Spinal Muscular Atrophy
 
@@ -9961,6 +11017,7 @@ Intervention: : Thumb test — Thumb adduction test consisting of intermittent, 
 Link: https://clinicaltrials.gov/study/NCT06562283
 
 SUMMARY:
+
 
 ## NCT06268652
 Patient Derived Organoid-guided Personalized Treatment Versus Treatment of Physician's Choice in Patients With Relapsed and Refractory Breast Cancer：a Multicenter, Randomized, Controlled Phase III Trial
@@ -9974,6 +11031,7 @@ Link: https://clinicaltrials.gov/study/NCT06268652
 
 SUMMARY:
 
+
 ## NCT06728865
 Evaluation of the Efficacy and Safety of Furmonertinib Combined with Bevacizumab As First-Line Treatment for EGFR-Positive Non-Small Cell Lung Cancer with Brain Metastases: a Single-Arm, Open-Label, Prospective Phase II Clinical Study
 
@@ -9981,6 +11039,7 @@ Intervention: : The treatment regimen is Furmonertinib combined with Bevacizumab
 Link: https://clinicaltrials.gov/study/NCT06728865
 
 SUMMARY:
+
 
 ## NCT07383051
 Predictors of Successful Extubation of Pediatric Patients From Mechanical Ventilation With or Without Post Extubation High Velocity Nasal Insufflation
@@ -9991,6 +11050,7 @@ Link: https://clinicaltrials.gov/study/NCT07383051
 
 SUMMARY:
 
+
 ## NCT05837286
 Conservative Treatment of Trigger Finger: Outcomes of a Randomized Controlled Trial
 
@@ -9999,6 +11059,7 @@ Intervention: : Oval-8 ® Orthosis — The experimental group will consist of re
 Link: https://clinicaltrials.gov/study/NCT05837286
 
 SUMMARY:
+
 
 ## NCT07777627
 Intrathecal Morphine Versus Intrathecal Dexmedetomidine Compared to Placebo for Postoperative Pain Relief After Spine Fixation Surgeries: A Randomized Double-Blinded Study
@@ -10010,6 +11071,7 @@ Link: https://clinicaltrials.gov/study/NCT07777627
 
 SUMMARY:
 
+
 ## NCT07418099
 Multicenter External Validation of the APTTO Predictive Model Based on Clot Waveform Analysis for the Assessment of Prolonged Activated Partial Thromboplastin Time
 
@@ -10018,6 +11080,7 @@ Link: https://clinicaltrials.gov/study/NCT07418099
 
 SUMMARY:
 
+
 ## NCT07470411
 Prospective, Multi-center, Single-arm, Open Label Study Designed to Assess the Safety and Feasibility of the MACS in Surgery Procedures
 
@@ -10025,6 +11088,7 @@ Intervention: : MACS System — The MACS System is an investigational surgical d
 Link: https://clinicaltrials.gov/study/NCT07470411
 
 SUMMARY:
+
 
 ## NCT07418151
 Effect of Maternal Consumption of Dark Chocolate on the Reactivity of the Fetal Non-Stress Test (NST): A Single-Blind, Randomized Clinical Trial.
@@ -10035,6 +11099,7 @@ Link: https://clinicaltrials.gov/study/NCT07418151
 
 SUMMARY:
 
+
 ## NCT07828847
 Involvement of Muscle Mitochondrial Dysfunction in Frailty in Older Adults. Role of Exercise
 
@@ -10043,6 +11108,7 @@ Link: https://clinicaltrials.gov/study/NCT07828847
 
 SUMMARY:
 
+
 ## NCT05807841
 Influence of Novel Intravascular Ultrasound-Based Artificial Intelligence Technologies on Event Reduction Following Percutaneous Coronary Intervention (INNOVATE-PCI)
 
@@ -10050,6 +11116,7 @@ Intervention: : percutaneous coronary intervention — IVUS-guided stent implant
 Link: https://clinicaltrials.gov/study/NCT05807841
 
 SUMMARY:
+
 
 ## NCT07560631
 SeeMe: A Multimodal Behavioral-Electrophysiological Tool for Real-Time Detection of Motor Behavior in Brain Injury Patients
@@ -10069,6 +11136,7 @@ Link: https://clinicaltrials.gov/study/NCT07560631
 
 SUMMARY:
 
+
 ## NCT07779018
 An Exploratory Clinical Study on CAR-T Cell Immunotherapy Targeting CD22/CD19 for Consolidation Therapy in Relapsed/Refractory Aggressive B-cell Lymphoma After Second-line Treatment
 
@@ -10077,6 +11145,7 @@ Link: https://clinicaltrials.gov/study/NCT07779018
 
 SUMMARY:
 
+
 ## NCT07780058
 Psychological Impact of Bariatric Surgery in Patients With Morbid Obesity: a Longitudinal Study Protocol
 
@@ -10084,6 +11153,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07780058
 
 SUMMARY:
+
 
 ## NCT06408246
 Accelerating Cognition-guided Signatures to Enhance Translation in Depression Aim 3: Clinical Cognitive Trial
@@ -10094,6 +11164,7 @@ Link: https://clinicaltrials.gov/study/NCT06408246
 
 SUMMARY:
 
+
 ## NCT04684147
 Phase Ⅱ Clinical Trial of CNCT19 Cell Injection in the Treatment of CD19 Positive Relapsed or Refractory Acute Lymphoblastic Leukemia
 
@@ -10101,6 +11172,7 @@ Intervention: : single dose of CNCT19 — Dose: 0.5 x 10\^8 CNCT19 Cell Injectio
 Link: https://clinicaltrials.gov/study/NCT04684147
 
 SUMMARY:
+
 
 ## NCT07302347
 A Phase I/II Study of Pembrolizumab (MK-3475) in Japanese Pediatric Participants With Specific Solid Tumors or Lymphomas, or in Japanese Adult Participants With Advanced Merkel Cell Carcinoma (KEYNOTE-G21)
@@ -10110,6 +11182,7 @@ Link: https://clinicaltrials.gov/study/NCT07302347
 
 SUMMARY:
 
+
 ## NCT04661449
 Childhood Health Outcomes in Term, Large-for-gestational-age Infants: Effects of Lifestyle Intervention in the Postnatal First Year
 
@@ -10117,6 +11190,7 @@ Intervention: : Comprehensive lifestyle intervention — Feeding guidance: promo
 Link: https://clinicaltrials.gov/study/NCT04661449
 
 SUMMARY:
+
 
 ## NCT07251257
 The Seafarers' Continuous Glucose Monitoring Systems Study
@@ -10126,6 +11200,7 @@ Link: https://clinicaltrials.gov/study/NCT07251257
 
 SUMMARY:
 
+
 ## NCT07780942
 Observational and Prospective Diagnostic Validation Study of the SMARTwatch for ST-segment Elevation Myocardial Infarction in Health Area of Cartagena
 
@@ -10133,6 +11208,7 @@ Intervention: : ECG smartwatch recording — Recording a 9-lead ECG with a smart
 Link: https://clinicaltrials.gov/study/NCT07780942
 
 SUMMARY:
+
 
 ## NCT07418593
 Malabsorption Blood Test (MBT) to Determine Exocrine Pancreatic Function and Related Quality of Life in Chronic Pancreatitis
@@ -10145,6 +11221,7 @@ Link: https://clinicaltrials.gov/study/NCT07418593
 
 SUMMARY:
 
+
 ## NCT06608849
 A Non-interventional, Prospective, Cross-sectional Study of the Incidence of Pulmonary, Cardiovascular and Renal System Non-communicable Complications Associated With the Post-acute Phase of the Infection by Sars-Cov-2
 
@@ -10154,6 +11231,7 @@ Link: https://clinicaltrials.gov/study/NCT06608849
 
 SUMMARY:
 
+
 ## NCT05017142
 Swiss Pediatric Inflammatory Bain Disease Cohort Study
 
@@ -10161,6 +11239,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05017142
 
 SUMMARY:
+
 
 ## NCT06207799
 Pre-transplant Purging and Post-transplant MRD-guided Maintenance Therapy With Elranatamab in Patients With High-risk Multiple Myeloma
@@ -10176,6 +11255,7 @@ Link: https://clinicaltrials.gov/study/NCT06207799
 
 SUMMARY:
 
+
 ## NCT06823752
 A Dual Orexin Receptor Antagonist to Reduce Biomarkers of Neurodegeneration in Adults With Insomnia Disorder: a Randomised Placebo-controlled Cross-over Study.
 
@@ -10184,6 +11264,7 @@ Intervention: : Lemborexant 10 MG — An orally ingested tablet containing 10mg 
 Link: https://clinicaltrials.gov/study/NCT06823752
 
 SUMMARY:
+
 
 ## NCT07355075
 A Double-Blind, Vehicle-Controlled Study to Assess the Efficacy of GX-03 When Used in a Population of Adult Individuals With Moderate to Severe Eczema
@@ -10194,6 +11275,7 @@ Link: https://clinicaltrials.gov/study/NCT07355075
 
 SUMMARY:
 
+
 ## NCT07781579
 Development and Validation of a Hemorrhage Risk Prediction Model for Moyamoya Disease Based on 5T MRI and Metabolomic Features: A Prospective Cohort Study
 
@@ -10201,6 +11283,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07781579
 
 SUMMARY:
+
 
 ## NCT06737081
 A Parallel, Open-label Phase II Clinical Study of Enarodustat (SAL-0951) Tablets in the Treatment of Chemotherapy-induced Anemia in Patients With Non-myeloid Malignancies
@@ -10211,6 +11294,7 @@ Link: https://clinicaltrials.gov/study/NCT06737081
 
 SUMMARY:
 
+
 ## NCT06577870
 Immersive Sensory Projections: Evaluating the Impact of an Immersive Sensory Environment (Visual, Auditory and Olfactory) on Reducing the Overall Discomfort of Patients Hospitalized in the Resuscitation and Continuing Care Units
 
@@ -10218,6 +11302,7 @@ Intervention: : Hospitalization in intensive care or continuing care unit — Ho
 Link: https://clinicaltrials.gov/study/NCT06577870
 
 SUMMARY:
+
 
 ## NCT06591819
 Safety of Hypofractionated Whole-Pelvis Proton Therapy With HDR Boost
@@ -10227,6 +11312,7 @@ Link: https://clinicaltrials.gov/study/NCT06591819
 
 SUMMARY:
 
+
 ## NCT06949228
 Adjunctive Intra-arterial Tenecteplase Following Mechanical Thrombectomy (ALLY) II Trial
 
@@ -10234,6 +11320,7 @@ Intervention: : tenecteplase — Patients treated with standard of care mechanic
 Link: https://clinicaltrials.gov/study/NCT06949228
 
 SUMMARY:
+
 
 ## NCT07718828
 Laparoscopic Nissen Versus Toupet Fundoplication for Gastroesophageal Reflux Management in Patients With Hiatal Hernia: A Patient- and Assessor-Blinded Randomized Controlled Trial
@@ -10244,6 +11331,7 @@ Link: https://clinicaltrials.gov/study/NCT07718828
 
 SUMMARY:
 
+
 ## NCT05617365
 Treating Chronic Cervicogenic Head and Neck Pain With Osteopathic Manipulation and Exercise Therapy
 
@@ -10253,6 +11341,7 @@ The THE protocol will involve subjects performing cyclic voluntary retraction an
 Link: https://clinicaltrials.gov/study/NCT05617365
 
 SUMMARY:
+
 
 ## NCT05136846
 A Phase I Trial Targeting Mitochondrial Metabolism With Papaverine in Combination With Chemoradiation for Stage II-III Non-Small Cell Lung Cancer
@@ -10273,6 +11362,7 @@ Link: https://clinicaltrials.gov/study/NCT05136846
 
 SUMMARY:
 
+
 ## NCT06550622
 Improved Sensitivity Detection of Serum HBsAg in Chronic Hepatitis B Patients Achieving Functional Cure and Its Association With HBsAg Reversion
 
@@ -10280,6 +11370,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06550622
 
 SUMMARY:
+
 
 ## NCT06330779
 Trauma-adapted Yoga in Child & Adolescent Psychiatry: A Multicenter Study.
@@ -10291,6 +11382,7 @@ Link: https://clinicaltrials.gov/study/NCT06330779
 
 SUMMARY:
 
+
 ## NCT06731972
 The Impact of Using Mobile Games on Rehabilitation Outcomes in Thumb Rehabilitation
 
@@ -10300,6 +11392,7 @@ Link: https://clinicaltrials.gov/study/NCT06731972
 
 SUMMARY:
 
+
 ## NCT07419724
 Construction of a Biobank for a Specialized Cohort of Portal Hypertension
 
@@ -10307,6 +11400,7 @@ Intervention: : Endoscopic treatment — Endoscopic treatment including ligation
 Link: https://clinicaltrials.gov/study/NCT07419724
 
 SUMMARY:
+
 
 ## NCT06680700
 Controlled Desaturation Study for Perin Health Patch Pulse Oximetry Validation
@@ -10316,6 +11410,7 @@ Link: https://clinicaltrials.gov/study/NCT06680700
 
 SUMMARY:
 
+
 ## NCT07419802
 Endotoxin and Cytokine Adsorption Properties of the Oxiris Hemofilter in Septic Shock: Evaluation of Saturation Phenomena and Inflammatory Mediators' Clearance Capacity
 
@@ -10323,6 +11418,7 @@ Intervention: : AN69-polyethylenimine hemofilter (Oxiris®) used for continuous 
 Link: https://clinicaltrials.gov/study/NCT07419802
 
 SUMMARY:
+
 
 ## NCT07701772
 A PROSPECTIVE RANDOMIZED COMPARISON OF LASER ABLATION AND CRYSTALLIZED PHENOL APPLICATION IN PRIMARY UNCOMPLICATED SACROCOCCYGEAL PILONIDAL SINUS DISEASE
@@ -10333,6 +11429,7 @@ Link: https://clinicaltrials.gov/study/NCT07701772
 
 SUMMARY:
 
+
 ## NCT05628207
 Evaluation of the SCALED (SCaling AcceptabLE cDs) Approach for the Implementation of Interoperable CDS for Venous Thromboembolism Prevention - CDS Data
 
@@ -10342,6 +11439,7 @@ Link: https://clinicaltrials.gov/study/NCT05628207
 
 SUMMARY:
 
+
 ## NCT07419841
 A Phase 1, Open-Label, Multiple-Ascending Dose Study of the Safety and Tolerability of CTX-10726 in Patients With Advanced Malignancies
 
@@ -10350,6 +11448,7 @@ Link: https://clinicaltrials.gov/study/NCT07419841
 
 SUMMARY:
 
+
 ## NCT07021495
 A Prospective, Multi-Center, Observational Biomarker Real-World Evidence Study for In-Depth Profiling of Patients With Chronic Immune-Mediated Inflammatory Skin Diseases in Daily Practice
 
@@ -10357,6 +11456,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07021495
 
 SUMMARY:
+
 
 ## NCT03838536
 Synergistic Activity of Choline, Lutein, and Docosahexaenoic Acid in Human Milk in Support of Cognitive Development: An Egg Intervention Feasibility Study
@@ -10367,6 +11467,7 @@ Link: https://clinicaltrials.gov/study/NCT03838536
 
 SUMMARY:
 
+
 ## NCT06729203
 Effect of Ultrasound Cavitation on Insulin Resistance in Patients with Central Obesity in Female
 
@@ -10375,6 +11476,7 @@ Intervention: : Ultrasound cavitation — Ultrasound Fat Cavitation (USFC) is th
 Link: https://clinicaltrials.gov/study/NCT06729203
 
 SUMMARY:
+
 
 ## NCT07420192
 The Effect of Regenerative Peripheral Nerve Interface (RPNI) Surgery on Neuropathic Pain and Functional Outcomes in Major Lower Extremity Amputations
@@ -10389,6 +11491,7 @@ Link: https://clinicaltrials.gov/study/NCT07420192
 
 SUMMARY:
 
+
 ## NCT07420478
 Implementation Science-Guided Pilot Study of Trauma-Focused Cognitive Behavioral Therapy for Autistic Youth in Community Mental Health Settings
 
@@ -10396,6 +11499,7 @@ Intervention: : Trauma-Focused Cognitive Behavioral Therapy, modified for autist
 Link: https://clinicaltrials.gov/study/NCT07420478
 
 SUMMARY:
+
 
 ## NCT07420465
 Cardiometabolic Risk in Pregnancy and Postpartum
@@ -10405,6 +11509,7 @@ Intervention: : Postpartum Cardiovascular Disease (CVD) Risk Reduction Program �
 Link: https://clinicaltrials.gov/study/NCT07420465
 
 SUMMARY:
+
 
 ## NCT06006273
 A Phase Ib Trial of Eribulin in Combination With Irinotecan and Temozolamide in Children With Relapsed or Refractory Solid Tumors
@@ -10416,6 +11521,7 @@ Link: https://clinicaltrials.gov/study/NCT06006273
 
 SUMMARY:
 
+
 ## NCT07787221
 Quadratus Lumborum Block Versus External Oblique Plane Block for Analgesia After Open Nephrectomy: A Prospective Randomized Clinical Trial
 
@@ -10425,6 +11531,7 @@ Link: https://clinicaltrials.gov/study/NCT07787221
 
 SUMMARY:
 
+
 ## NCT07420517
 A Phase II Prospective Single-arm Study of Dutasteride in Patients With Low Grade Non-muscle Invasive Bladder Cancer
 
@@ -10432,6 +11539,7 @@ Intervention: : Dutasteride (0.5mg) — Dutasteride 0.5 mg orally once daily. Tr
 Link: https://clinicaltrials.gov/study/NCT07420517
 
 SUMMARY:
+
 
 ## NCT07787091
 A Phase 1 Randomized, Double-Blind, Placebo-Controlled, Single-Ascending-Dose Study Investigating the Safety and Tolerability of ARD001 in Healthy Adult Subjects and a Phase 2 Open-Label, Multiple-Dose Study in Adult Subjects With Hemophilia A
@@ -10442,6 +11550,7 @@ Link: https://clinicaltrials.gov/study/NCT07787091
 
 SUMMARY:
 
+
 ## NCT07420530
 Respiratory and Real-time Dynamics in Exercise-Induced Paradoxical Vocal Fold Motion
 
@@ -10450,6 +11559,7 @@ Intervention: : Carbon Dioxide — Breathing Hypercapnic Gas (10% CO2 (carbon di
 Link: https://clinicaltrials.gov/study/NCT07420530
 
 SUMMARY:
+
 
 ## NCT07420777
 Evaluating the Effectiveness of 3D Directly Printed Shape Memory Aligners in the Management of Anterior Open Bite
@@ -10461,6 +11571,7 @@ Link: https://clinicaltrials.gov/study/NCT07420777
 
 SUMMARY:
 
+
 ## NCT07420790
 Designing a Generative AI Model and Propensity Score Matching Methodology for Validation of "The Phase II Study on Venetoclax (VEN) Plus Decitabine (DEC) (VEN-DEC) in Elderly (e60 <75years) Patients With Newly Diagnosed Acute Myeloid Leukemia (AML) Eligible for Allogeneic Stem Cell Transplantation (Allo-SCT)". Evaluation of an Exploratory Approach Respect to a Randomized Phase III Trial
 
@@ -10468,6 +11579,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07420790
 
 SUMMARY:
+
 
 ## NCT06426277
 Effectiveness of the Diabetes Prevention Program on the Incidence of Type 2 Diabetes Mellitus Among Brazilian Individuals: Randomized Clinical Trial (PROVEN-DIA Study)
@@ -10479,6 +11591,7 @@ Link: https://clinicaltrials.gov/study/NCT06426277
 
 SUMMARY:
 
+
 ## NCT07420738
 The Effects of Different Extracorporeal Circulation Techniques on Cerebral Perfusion Markers and Postoperative Awakening in Coronary Artery Bypass Graft Surgery
 
@@ -10486,6 +11599,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07420738
 
 SUMMARY:
+
 
 ## NCT06241430
 Hemodynamic-Guided Optimization With the CardioMEMS Device of Patients With Heart Failure and Secondary Mitral Regurgitation Undergoing Mitral Transcatheter Edge-to-Edge Repair With the MitraClip Device
@@ -10495,6 +11609,7 @@ Link: https://clinicaltrials.gov/study/NCT06241430
 
 SUMMARY:
 
+
 ## NCT05985811
 Ketamine Analgesia Enhances Functional Quality and Mood in Chronic Pain Patients
 
@@ -10502,6 +11617,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05985811
 
 SUMMARY:
+
 
 ## NCT07014111
 Fight Fatigue: A Progressive Muscle Relaxation and Walking Intervention to Reduce Fatigue in Adults With ESKD
@@ -10512,6 +11628,7 @@ Link: https://clinicaltrials.gov/study/NCT07014111
 
 SUMMARY:
 
+
 ## NCT06891599
 Advanced Coagulation Diagnostics Using ROTEM and Standard Coagulation Tests in Hospitalized Patients With Sepsis or Trauma - A Prospective Observational Study (ROSTIC - ROTEM for Sepsis and Trauma Induced Coagulopathy)
 
@@ -10520,6 +11637,7 @@ Link: https://clinicaltrials.gov/study/NCT06891599
 
 SUMMARY:
 
+
 ## NCT07420907
 A Non-interventional Observational Study of the Sustained Use of Prolaio Digital Health Devices to Monitor the Natural History of Chronic Cardiovascular Conditions in Ambulatory Patients
 
@@ -10527,6 +11645,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07420907
 
 SUMMARY:
+
 
 ## NCT06756139
 Effects of Cognitive Behavioral Therapy Through a Mobile App on Patients With Refractory Functional Dyspepsia: a Multicenter, Single-blinded, Randomized Controlled Trial
@@ -10537,6 +11656,7 @@ Link: https://clinicaltrials.gov/study/NCT06756139
 
 SUMMARY:
 
+
 ## NCT07366099
 Application of Al18F-NOTA-LM3 PET/CT in the Diagnosis and Evaluation of Tumor-Induced Osteomalacia
 
@@ -10546,6 +11666,7 @@ Link: https://clinicaltrials.gov/study/NCT07366099
 
 SUMMARY:
 
+
 ## NCT06370884
 An Open-Label, Pilot Clinical Trial To Test The Safety And Feasibility Of Intestinal Microbiota Transplantation In Patients Undergoing Colon Resection
 
@@ -10553,6 +11674,7 @@ Intervention: : IMT — a feeding tube placed at the time of surgery and receive
 Link: https://clinicaltrials.gov/study/NCT06370884
 
 SUMMARY:
+
 
 ## NCT06706700
 Definition of Radiological and Endocrine/metabolic/inflammatory Biomarker(s) to Identify Highgrade Dysplasia/invasive Carcinoma in Patients with Intraductal Papillary Mucinous Neoplasms of the Pancreas
@@ -10562,6 +11684,7 @@ Link: https://clinicaltrials.gov/study/NCT06706700
 
 SUMMARY:
 
+
 ## NCT07420946
 Mechanical Insufflation-Exsufflation in Critically Ill Patients: An International DELphi Consensus (DELMI-E)
 
@@ -10569,6 +11692,7 @@ Intervention: : Delphi Questionnaire — Statements on MI-E topics, rated along 
 Link: https://clinicaltrials.gov/study/NCT07420946
 
 SUMMARY:
+
 
 ## NCT06570447
 An Open-label, Single-arm, Single-center, Phase II Clinical Trial of Glofitamab Combination With Chidamide in Patients With Recurrent and Refractory Diffuse Large B-Cell Lymphoma
@@ -10579,6 +11703,7 @@ Link: https://clinicaltrials.gov/study/NCT06570447
 
 SUMMARY:
 
+
 ## NCT07521436
 Awareness of Risk Factors and Perception of Cardiovascular Risk in Secondary Prevention: A Comparison Between Women and Men
 
@@ -10587,6 +11712,7 @@ Link: https://clinicaltrials.gov/study/NCT07521436
 
 SUMMARY:
 
+
 ## NCT07030166
 A Machine Learning Prediction Model for Postoperative Acute Kidney Injury in Non-Cardiac Surgery Patients: Development, Validation, and the Incremental Value of Frailty Assessment
 
@@ -10594,6 +11720,7 @@ Intervention: : No intervention measures were used. — The exposure factors wer
 Link: https://clinicaltrials.gov/study/NCT07030166
 
 SUMMARY:
+
 
 ## NCT07788859
 Comparison of the Reliability and Convergent Validity of Three Dual-Task Timed Up and Go Protocols in People With Multiple Sclerosis
@@ -10605,6 +11732,7 @@ Link: https://clinicaltrials.gov/study/NCT07788859
 
 SUMMARY:
 
+
 ## NCT03418961
 Prospective Observational Cohort Study of Patients With Metastatic HER-2+ Breast Cancer at Risk of Cardiac Toxicity
 
@@ -10615,6 +11743,7 @@ Link: https://clinicaltrials.gov/study/NCT03418961
 
 SUMMARY:
 
+
 ## NCT07605481
 Prospective Observational Study on the Utility of Continuous Glucose Monitoring for the Diagnosis of Dumping Syndrome After Esophagectomy
 
@@ -10622,6 +11751,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07605481
 
 SUMMARY:
+
 
 ## NCT07420998
 Randomized Clinical Trial on the Effect of a Nutritional Product Containing Carob Extract (NUTIFOOD) on Carbohydrate Metabolism in Glucose-intolerant Subjects
@@ -10632,6 +11762,7 @@ Link: https://clinicaltrials.gov/study/NCT07420998
 
 SUMMARY:
 
+
 ## NCT07789717
 Pharmacopuncture for Aromatase Inhibitor Induced Arthralgia (AIA) on Effectiveness, Safety, and Cost-Effectiveness in Patients With Breast Cancer : An Open-Label, Assessor-Blinded, Pragmatic Randomized Controlled Pilot Trial
 
@@ -10641,6 +11772,7 @@ Link: https://clinicaltrials.gov/study/NCT07789717
 
 SUMMARY:
 
+
 ## NCT05583942
 A Pilot Randomized Clinical Trial of Transcutaneous Auricular Vagus Nerve Stimulation for the Treatment of Steroid Resistant Nephrotic Syndrome in Children
 
@@ -10649,6 +11781,7 @@ Intervention: : trascutaneous auricular vagus nerve stimulation — The device t
 Link: https://clinicaltrials.gov/study/NCT05583942
 
 SUMMARY:
+
 
 ## NCT07790874
 Effects of Oculomotor Exercises on Pain, Disability, Dizziness and Gaze Stability in Patients With Non Traumatic Cervical Dizziness
@@ -10661,6 +11794,7 @@ Link: https://clinicaltrials.gov/study/NCT07790874
 
 SUMMARY:
 
+
 ## NCT07421102
 A Pragmatic Remote Approach to Improve Transitions of Care and Retention in Opioid Use Disorder Treatment
 
@@ -10669,6 +11803,7 @@ Link: https://clinicaltrials.gov/study/NCT07421102
 
 SUMMARY:
 
+
 ## NCT07421011
 A Randomized, Open-label, Crossover Study to Assess the Comparative Pharmacokinetics, Bioequivalence, and Safety of Trimedat® 76,95 mg Orally Disintegrating Tablets and Trimedat® 100 mg Tablets in Healthy Volunteers.
 
@@ -10676,6 +11811,7 @@ Intervention: : Trimedat® — A single dose of R or T drug in each of 2 periods
 Link: https://clinicaltrials.gov/study/NCT07421011
 
 SUMMARY:
+
 
 ## NCT07421752
 Evaluation of the Accuracy of the eCential Robotics Robot in Spinal Surgery at Amiens Picardie University Hospital
@@ -10694,6 +11830,7 @@ Link: https://clinicaltrials.gov/study/NCT07421752
 
 SUMMARY:
 
+
 ## NCT07421453
 Enhanced Recovery Pathway for Chronic Subdural Hematoma
 
@@ -10701,6 +11838,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07421453
 
 SUMMARY:
+
 
 ## NCT05521399
 Comprehensive Cardiac Structure-Function Analysis in Heart Transplantation - Renewal
@@ -10712,6 +11850,7 @@ Link: https://clinicaltrials.gov/study/NCT05521399
 
 SUMMARY:
 
+
 ## NCT07791472
 DElirium and LIGHT: Exploring Modifiable Risk Factors of Delirium - a Pilot Study
 
@@ -10719,6 +11858,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07791472
 
 SUMMARY:
+
 
 ## NCT07792655
 Telerehabilitation for Post-Stroke Hand Function
@@ -10728,6 +11868,7 @@ Intervention: : Technology-Supported Hand Training — Participants will undergo
 Link: https://clinicaltrials.gov/study/NCT07792655
 
 SUMMARY:
+
 
 ## NCT07071753
 OPT-FRESH: Optimizing Online Purchasing of Fruits, Vegetables, and Legumes for Low-Income Families
@@ -10741,6 +11882,7 @@ Link: https://clinicaltrials.gov/study/NCT07071753
 
 SUMMARY:
 
+
 ## NCT07421765
 Evaluation de l'Interaction Entre Les Horaires Atypiques et/ou Les Temps d'inactivité Sur Les Pratiques de Jeu à Risque Chez Les Adultes Travaillant Dans Ces Conditions
 
@@ -10748,6 +11890,7 @@ Intervention: : semi-structured interview — After having completed a consent f
 Link: https://clinicaltrials.gov/study/NCT07421765
 
 SUMMARY:
+
 
 ## NCT06560398
 Working Through Outreach, Navigation and Digital Enabled Referral and Recruitment Strategies (ACT WONDER²S)
@@ -10767,6 +11910,7 @@ Link: https://clinicaltrials.gov/study/NCT06560398
 
 SUMMARY:
 
+
 ## NCT07732114
 Diagnostic Accuracy of Hepatic Vein Systolic Filling Fraction Compared With TAPSE for Assessment of Right Ventricular Systolic Function in Mechanically Ventilated Critically Ill Patients
 
@@ -10777,6 +11921,7 @@ Link: https://clinicaltrials.gov/study/NCT07732114
 
 SUMMARY:
 
+
 ## NCT07481253
 COMPATi: A Randomized Controlled Trial on the Efficacy of the PSYCHOPATHY.COMP Program Among Male Prison Inmates With Psychopathy
 
@@ -10786,6 +11931,7 @@ Link: https://clinicaltrials.gov/study/NCT07481253
 
 SUMMARY:
 
+
 ## NCT07810920
 Innovation for Women's Health: the Integration of Artificial Intelligence in the Diagnostic Ultrasound Assessment of Reproductive Medicine
 
@@ -10794,6 +11940,7 @@ Link: https://clinicaltrials.gov/study/NCT07810920
 
 SUMMARY:
 
+
 ## NCT06782802
 Clinical Significance and Prognostic Value of Prenatal Diagnosis of Obliteration of the Cavum Septum Pellucidum
 
@@ -10801,6 +11948,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06782802
 
 SUMMARY:
+
 
 ## NCT07363772
 Evaluation of Efficacy and Effectiveness of Mixed Reality Cardiopulmonary Resuscitation Training
@@ -10811,6 +11959,7 @@ Link: https://clinicaltrials.gov/study/NCT07363772
 
 SUMMARY:
 
+
 ## NCT05361798
 A Phase II Study Evaluating T-Cell Clonality After Stereotactic Body Radiation Therapy Alone and in Combination With the Immunocytokine PDS01ADC in Localized High and Intermediate Risk Prostate Cancer Treated With Androgen Deprivation Therapy
 
@@ -10819,6 +11968,7 @@ Intervention: : PDS01ADC — In the safety lead in, PDS01ADC will be given in de
 Link: https://clinicaltrials.gov/study/NCT05361798
 
 SUMMARY:
+
 
 ## NCT07757529
 Effect of SageXtra Supplementation on Cognitive Function in Middle-Aged Men and Women
@@ -10829,6 +11979,7 @@ Link: https://clinicaltrials.gov/study/NCT07757529
 
 SUMMARY:
 
+
 ## NCT06502873
 Setting up a Cohort of Patients With Inflammatory Bowel Disease and a Cohort of Patients Without Chronic Inflammatory Bowel Disease in the Context of the Translational Study of Biomarkers of Intestinal Dysbiosis (ELITE Walloon Project)
 
@@ -10836,6 +11987,7 @@ Intervention: : biological samples collection — Collection of biological sampl
 Link: https://clinicaltrials.gov/study/NCT06502873
 
 SUMMARY:
+
 
 ## NCT06582199
 Precision Medicine in Alzheimer's Disease: Integration of Resilience Metrics and Risk Factors - Validation Cohort BioCogBank-AD
@@ -10854,6 +12006,7 @@ Link: https://clinicaltrials.gov/study/NCT06582199
 
 SUMMARY:
 
+
 ## NCT07421960
 An Evaluation of the Relationship Between Sleep Quality and Periodontitis
 
@@ -10866,6 +12019,7 @@ The MAF scale is particularly used for multidimensional assessment of fatigue in
 Link: https://clinicaltrials.gov/study/NCT07421960
 
 SUMMARY:
+
 
 ## NCT07796113
 A Single-arm Exploratory Study of Adebrelimab Combined With Famitinib and Chemotherapy as Neoadjuvant Treatment for Thoracic Esophageal Squamous Cell Carcinoma
@@ -10883,6 +12037,7 @@ Link: https://clinicaltrials.gov/study/NCT07796113
 
 SUMMARY:
 
+
 ## NCT07797296
 Predictors of Attitudes Toward Religious Orientation in Menopausal Women: A Cross-Sectional Study
 
@@ -10890,6 +12045,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07797296
 
 SUMMARY:
+
 
 ## NCT07341763
 A Randomized, Double-Blind, Placebo-Controlled Pilot Study to Evaluate Non-invasive Brain Stimulation Effects on Orientation and Mobility Performance in Adults With Visual Impairments
@@ -10904,6 +12060,7 @@ Link: https://clinicaltrials.gov/study/NCT07341763
 
 SUMMARY:
 
+
 ## NCT07422077
 Impact of Energy Resonance by Skin Stimulation on Perceived Stress in Patients Hospitalized in the Post-resuscitation Rehabilitation Service
 
@@ -10912,6 +12069,7 @@ Link: https://clinicaltrials.gov/study/NCT07422077
 
 SUMMARY:
 
+
 ## NCT07422220
 Long-Term Effects of Walnut Consumption on Brain Function in Men and Women With Abdominal Obesity
 
@@ -10919,6 +12077,7 @@ Intervention: : Walnuts — 24-week consumption of 50 g/day of walnuts as part o
 Link: https://clinicaltrials.gov/study/NCT07422220
 
 SUMMARY:
+
 
 ## NCT05024929
 Targeted Therapy to Increase RAI Uptake in Patients With Metastatic Differentiated Thyroid Cancer
@@ -10930,6 +12089,7 @@ Link: https://clinicaltrials.gov/study/NCT05024929
 
 SUMMARY:
 
+
 ## NCT07422337
 Blinatumomab's Outcome On Serologic Titers and Efficacy of Revaccination
 
@@ -10937,6 +12097,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07422337
 
 SUMMARY:
+
 
 ## NCT07797712
 Impact of Mirror Therapy Combined With Conventional Training on Gait and Lower Limb Motor Function Among Post-Stroke Patients
@@ -10979,6 +12140,7 @@ Link: https://clinicaltrials.gov/study/NCT07797712
 
 SUMMARY:
 
+
 ## NCT07187063
 Using Urine Tumor DNA to De-Intensify Surveillance in Non-Muscle Invasive Bladder Cancer
 
@@ -10986,6 +12148,7 @@ Intervention: : UroAmp Test (Convergent Genomics, Inc.) — Non-invasive genomic
 Link: https://clinicaltrials.gov/study/NCT07187063
 
 SUMMARY:
+
 
 ## NCT06207253
 The Antimicrobial Potential of Diclofenac Sodium as an Intracanal Medicament During Root Canal Treatment: A Randomized Clinical Trial
@@ -10996,6 +12159,7 @@ Link: https://clinicaltrials.gov/study/NCT06207253
 
 SUMMARY:
 
+
 ## NCT06947187
 Vaccine Confidence and Infodemic in Southeast Asia's Nusantara Sociocultural Sphere: A Transdisciplinary, Transnational Study
 
@@ -11005,6 +12169,7 @@ Link: https://clinicaltrials.gov/study/NCT06947187
 
 SUMMARY:
 
+
 ## NCT07685587
 Comparison of the Effects of Flexible and Navigable Suction With Conventional Ureteral Access Sheaths During Retrograde Intrarenal Surgery on Postoperative Acute Renal Injury With IL-18 and L-FABP Biomarkers: A Prospective Randomised Study
 
@@ -11013,6 +12178,7 @@ Intervention: : flexible and navigable ureteral access sheath — Patients of RI
 Link: https://clinicaltrials.gov/study/NCT07685587
 
 SUMMARY:
+
 
 ## NCT07422519
 A Pilot Randomised Controlled Study Evaluating the Efficacy and Tolerability of Virtual Reality-Based Mindfulness as an Adjunct to Treatment as Usual in Treatment-Resistant Depression
@@ -11029,6 +12195,7 @@ Link: https://clinicaltrials.gov/study/NCT07422519
 
 SUMMARY:
 
+
 ## NCT07764172
 Sarcopenia in Patients During the Acute Phase of Ischemic Stroke: Multimodal Assessment and Three-Month Functional Outcomes
 
@@ -11036,6 +12203,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07764172
 
 SUMMARY:
+
 
 ## NCT07023614
 A Global Phase 2b, Randomized, Double-Blinded, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Ninerafaxstat in Patients With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy - FORTITUDE-HCM
@@ -11046,6 +12214,7 @@ Link: https://clinicaltrials.gov/study/NCT07023614
 
 SUMMARY:
 
+
 ## NCT06178614
 A Phase 1 Study of JNJ-87890387, an Ectonucleotide Pyrophosphatase/Phosphodiesterase Family Member 3 (ENPP3) x CD3 Bispecific Antibody, for Advanced Solid Tumors
 
@@ -11053,6 +12222,7 @@ Intervention: : JNJ-87890387 — JNJ-87890387 will be administered.
 Link: https://clinicaltrials.gov/study/NCT06178614
 
 SUMMARY:
+
 
 ## NCT07422779
 Efficacy of Immunotherapy in the First-Line Treatment of Metastatic Melanoma in Slovenia and Predictive Value of PD-L1 Expression in Tumor and Blood
@@ -11064,6 +12234,7 @@ Link: https://clinicaltrials.gov/study/NCT07422779
 
 SUMMARY:
 
+
 ## NCT07803003
 Effects of Maximum Versus Minimum Supervised Telerehabilitation on Upper Limb Function in Post Stroke Patients
 
@@ -11073,6 +12244,7 @@ Link: https://clinicaltrials.gov/study/NCT07803003
 
 SUMMARY:
 
+
 ## NCT07422870
 A Retrospective / Prospective Cohort Study to Evaluate the Incidence, Diagnostic Features, Clinical Course and Treatment Strategies in Histologically Confirmed Idiopathic Granulomatous Mastitis
 
@@ -11081,6 +12253,7 @@ Link: https://clinicaltrials.gov/study/NCT07422870
 
 SUMMARY:
 
+
 ## NCT07422792
 Anabolic Response To Protein And Assessment Of Metabolic Phenotype In Patients With Home Parenteral Nutrition And Chronic Intestinal Failure
 
@@ -11088,6 +12261,7 @@ Intervention: : Intravenous Amino Acids — Intravenous amino acid administratio
 Link: https://clinicaltrials.gov/study/NCT07422792
 
 SUMMARY:
+
 
 ## NCT06749587
 A Prospective, Multi-center, Randomized, No-Treatment Controlled, Evaluator-Blinded, Superiority Clinical Investigation of the Safety and Effectiveness of TEOSYAL RHA® 1 for the Correction of Moderate to Severe Tissue Volume Deficiency in the Infraorbital Region in Chinese Adults
@@ -11098,6 +12272,7 @@ TEOSYAL RHA® 1 is a sterile, transparent, non-pyrogenic, viscoelastic gel made 
 Link: https://clinicaltrials.gov/study/NCT06749587
 
 SUMMARY:
+
 
 ## NCT07803016
 Comparative Effects of Task-specific Drawing Exercises and Fine Motor Training on Dexterity and Hand Motor Function After Stroke
@@ -11112,6 +12287,7 @@ Link: https://clinicaltrials.gov/study/NCT07803016
 
 SUMMARY:
 
+
 ## NCT07803068
 The Impact of 12-week Ashwagandha Supplementation Induced by Resistance Training on Strength, Levels of Neurotrophic and Stress Response Proteins, Oxidative and Psychological Stress, and Cognitive Function in Physically Active Male Adults
 
@@ -11122,6 +12298,7 @@ Link: https://clinicaltrials.gov/study/NCT07803068
 
 SUMMARY:
 
+
 ## NCT07422922
 A Longitudinal, Randomized-Controlled Experiment of Healthy Food Policies in Online Retail Settings
 
@@ -11129,6 +12306,7 @@ Intervention: : Suite of healthy food policies — A suite of healthy food polic
 Link: https://clinicaltrials.gov/study/NCT07422922
 
 SUMMARY:
+
 
 ## NCT06558981
 The Role of Adjuvant Radiotherapy in High Risk Locally Advanced Differentiated Thyroid Cancer：a 1:1 Randomized Phase III Clinical Trial
@@ -11139,6 +12317,7 @@ Link: https://clinicaltrials.gov/study/NCT06558981
 
 SUMMARY:
 
+
 ## NCT07623512
 Functional Near-infrared Spectroscopy (fNIRS) is an Ideal Tool to Monitor Cortical Brain Activity and Understand the Mechanism Underlying Recovery Following Stroke
 
@@ -11147,6 +12326,7 @@ Link: https://clinicaltrials.gov/study/NCT07623512
 
 SUMMARY:
 
+
 ## NCT07423169
 Rechallenge Using Combined Partial Tumor Irradiation and Immune Checkpoint Inhibitor-based Immunotherapy for Unresectable Lung Adenocarcinoma: a Pilot Study
 
@@ -11154,6 +12334,7 @@ Intervention: : Partial Tumor Irradiation — A very high, ablative radiation do
 Link: https://clinicaltrials.gov/study/NCT07423169
 
 SUMMARY:
+
 
 ## NCT07423013
 Evaluating the Efficacy and Safety of Teprotumumab N01 in Patients With Thyroid Eye Disease by FAPI PET/CT and 5.0T-MRI
@@ -11164,6 +12345,7 @@ Link: https://clinicaltrials.gov/study/NCT07423013
 
 SUMMARY:
 
+
 ## NCT07804186
 A Randomized, Phase 3, Open-label Study of Adjuvant Darovasertib and Crizotinib in Participants With Primary Non-metastatic Uveal Melanoma
 
@@ -11173,6 +12355,7 @@ Link: https://clinicaltrials.gov/study/NCT07804186
 
 SUMMARY:
 
+
 ## NCT06245512
 RECHERCHE DE MARQUEURS DIAGNOSTIQUES ET PRONOSTIQUES DE L'ENDOMETRIOSE DANS LE SANG DES REGLES CHEZ LES FEMMES EN AGE DE PROCREER
 
@@ -11180,6 +12363,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06245512
 
 SUMMARY:
+
 
 ## NCT04561557
 An Open Label Clinical Trial to Evaluate the Safety and Efficacy of CT103A Cells for the Treatment of Relapsed/Refractory Antibody-associated Inflammatory Diseases of the Nervous System
@@ -11191,6 +12375,7 @@ Subjects will be given IV infusion of cyclophosphamide 300 mg/m2/day on day -4, 
 Link: https://clinicaltrials.gov/study/NCT04561557
 
 SUMMARY:
+
 
 ## NCT07423910
 Effect of Medial Transversus Abdominis Plane (TAP) Block and Rectus Sheath (RS) Block on Inguinal Hernia Surgery Recovery, a Prospective Randomized Double-blind Study (PRO-RSTAP)
@@ -11206,6 +12391,7 @@ Link: https://clinicaltrials.gov/study/NCT07423910
 
 SUMMARY:
 
+
 ## NCT06811675
 The Efficacy of Dexamethasone in Combination With N-acetylcysteine in Preventing Neurocognitive Sequelae Due to Carbon Monoxide Poisoning
 
@@ -11214,6 +12400,7 @@ Intervention: : Dexamethasone and N-acetylcysteine (NAC) — Dexamethasone 10mg 
 Link: https://clinicaltrials.gov/study/NCT06811675
 
 SUMMARY:
+
 
 ## NCT07205614
 The Good Pain Consultation in Endometriosis.
@@ -11226,6 +12413,7 @@ Link: https://clinicaltrials.gov/study/NCT07205614
 
 SUMMARY:
 
+
 ## NCT06809101
 Home Monitoring of Complete Blood Count Performed by Patients - a Pilot Study on the Implementation Process in South Baltic Countries.
 
@@ -11233,6 +12421,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06809101
 
 SUMMARY:
+
 
 ## NCT07806864
 Understanding Engagement and Effectiveness of the 'Things You Do' Program
@@ -11243,6 +12432,7 @@ Link: https://clinicaltrials.gov/study/NCT07806864
 
 SUMMARY:
 
+
 ## NCT07805707
 A Phase 3 Randomized, Observer-Blind, Controlled Study to Evaluate the Clinical Efficacy of an mRNA Based Seasonal Influenza Vaccine in Older Adults ≥65 Years of Age
 
@@ -11251,6 +12441,7 @@ Intervention: : mRNA Seasonal Flu vaccine — Single-dose intramuscular administ
 Link: https://clinicaltrials.gov/study/NCT07805707
 
 SUMMARY:
+
 
 ## NCT07805655
 A Prospective, Pragmatic, Open-Label Clinical Trial of Sequential Radiofrequency Treatment Compared With Standard Topical Therapy for Mild-to-Moderate Inflammatory Facial Acne Vulgaris
@@ -11261,6 +12452,7 @@ Link: https://clinicaltrials.gov/study/NCT07805655
 
 SUMMARY:
 
+
 ## NCT07272616
 A Prospective Comparative Study of a Novel Gadolinium-Weighted MRI Sequence Versus Conventional T1-Weighted Imaging for the Detection of Brain Metastases
 
@@ -11268,6 +12460,7 @@ Intervention: : Novel Gadolinium-Weighted MRI Sequence — A post-contrast MRI s
 Link: https://clinicaltrials.gov/study/NCT07272616
 
 SUMMARY:
+
 
 ## NCT06617806
 Advanced Practice Nurses for Fall Incidence PrevenTion in Robust Very Old Adults: Protocol for the APN-FIT Hybrid Randomized Controlled Trial
@@ -11287,6 +12480,7 @@ Link: https://clinicaltrials.gov/study/NCT06617806
 
 SUMMARY:
 
+
 ## NCT07553481
 Chemotherapy-Induced Hearing Loss and Health Inequality
 
@@ -11294,6 +12488,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07553481
 
 SUMMARY:
+
 
 ## NCT05153057
 Longitudinal Cohort Study of Patients With Birdshot Chorioretinopathy.
@@ -11303,6 +12498,7 @@ Link: https://clinicaltrials.gov/study/NCT05153057
 
 SUMMARY:
 
+
 ## NCT07308457
 Comparison of Enhanced Molecular-Level Microbiological Surveillance and Ceftriaxone Prophylaxis in Patients Undergoing Hematopoietic Cell Transplantation: A Randomized, Prospective Medical Experiment
 
@@ -11310,6 +12506,7 @@ Intervention: : Ceftriaxone 1000 MG — Participants in this arm receive prophyl
 Link: https://clinicaltrials.gov/study/NCT07308457
 
 SUMMARY:
+
 
 ## NCT07335887
 An Optimized Treatment for Patients With Primary Systemic Light Chain Amyloidosis
@@ -11335,6 +12532,7 @@ Link: https://clinicaltrials.gov/study/NCT07335887
 
 SUMMARY:
 
+
 ## NCT04916990
 Improving the Timeliness and Quality of Care for Rural Cancer Patients With Solid Tumors
 
@@ -11343,6 +12541,7 @@ Link: https://clinicaltrials.gov/study/NCT04916990
 
 SUMMARY:
 
+
 ## NCT06777030
 Role of Exosomes in Pancreatic Cancer Progression
 
@@ -11350,6 +12549,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06777030
 
 SUMMARY:
+
 
 ## NCT03434392
 QST Study: Predicting Treatment Response in Chronic Pancreatitis Using Quantitative Sensory Testing
@@ -11361,6 +12561,7 @@ Link: https://clinicaltrials.gov/study/NCT03434392
 
 SUMMARY:
 
+
 ## NCT07183592
 Impact of Infusion Line Change Frequency on Infectious Complications Related to Central Venous Catheters in the Intensive Care Unit ICU
 
@@ -11370,6 +12571,7 @@ Link: https://clinicaltrials.gov/study/NCT07183592
 
 SUMMARY:
 
+
 ## NCT05926700
 Efficacy and Safety of Cadonilimab Combined With Anlotinibin in the Treatment of Advanced or Metastatic Soft Tissue Sarcoma With Previous First-Line Standard Treatment Failure.
 
@@ -11377,6 +12579,7 @@ Intervention: : Candonilimab — The patients were treated with Candonilimab + a
 Link: https://clinicaltrials.gov/study/NCT05926700
 
 SUMMARY:
+
 
 ## NCT07424560
 Comprehensive Analysis of the Key Mutation Spectrum in Bladder Cancer: Establishment and Clinical Validation of a Multiplex Mutation Detection System Based on Nucleic Acid Mass Spectrometry
@@ -11386,6 +12589,7 @@ Link: https://clinicaltrials.gov/study/NCT07424560
 
 SUMMARY:
 
+
 ## NCT06138457
 The ECOSTRESS Study: Influence of the Objective Structured Clinical Examination on Stress Among Medical Student
 
@@ -11394,6 +12598,7 @@ Link: https://clinicaltrials.gov/study/NCT06138457
 
 SUMMARY:
 
+
 ## NCT04843111
 The MenQuadfi® Pregnancy Registry: A Surveillance Registry to Assess the Safety of MenQuadfi® Among Exposed Pregnant Women and Their Offspring
 
@@ -11401,6 +12606,7 @@ Intervention: : Meningococcal polysaccharide (serogroups A, C, Y, and W) tetanus
 Link: https://clinicaltrials.gov/study/NCT04843111
 
 SUMMARY:
+
 
 ## NCT04234022
 Zn-DDC to Target Hypoxia-NFkappaB-CSCs Pathway and Improve the Treatment Outcomes of Haematological Malignancies - A Translation Bench Study
@@ -11411,6 +12617,7 @@ Intervention: : Zn-DDC — Zn-DDC added to myeloma samples for culturing
 Link: https://clinicaltrials.gov/study/NCT04234022
 
 SUMMARY:
+
 
 ## NCT07417371
 Study on the Mechanism of Pei Tu Ning Feng Tang in Alleviating Tourette Syndrome Via Functional Near-Infrared Spectroscopy (fNIRS) and the DA-MAPK-BDNF Pathway
@@ -11426,6 +12633,7 @@ Link: https://clinicaltrials.gov/study/NCT07417371
 
 SUMMARY:
 
+
 ## NCT07527624
 Evaluation of Socio-professional Inclusion for Young Adults Aged 15-25 Living With a Rare Genetic Disability
 
@@ -11433,6 +12641,7 @@ Intervention: : survey — Patients take part in a survey, completing a form in 
 Link: https://clinicaltrials.gov/study/NCT07527624
 
 SUMMARY:
+
 
 ## NCT07284082
 The Synergistic Effects of Menopause and HIV on Cardiovascular Disease Risk in Women
@@ -11442,6 +12651,7 @@ Link: https://clinicaltrials.gov/study/NCT07284082
 
 SUMMARY:
 
+
 ## NCT06767722
 Effectiveness of a Lifestyle Intervention for Pregnant Women With Abnormal Glucose Metabolism in Early Pregnancy: EAGM Randomized Controlled Trial
 
@@ -11449,6 +12659,7 @@ Intervention: : Lifestyle intervention and self-monitoring of blood glucose — 
 Link: https://clinicaltrials.gov/study/NCT06767722
 
 SUMMARY:
+
 
 ## NCT07494812
 Examining the Feasibility of Using Pressure Gradient Regulated Automated Cerebral Spinal Fluid Drainage During External Lumbar Drain Trials
@@ -11459,6 +12670,7 @@ Link: https://clinicaltrials.gov/study/NCT07494812
 
 SUMMARY:
 
+
 ## NCT06588244
 Ischemia in Patients with Non- Obstructive Disease (INOCA) - a Local Prospective Registry (INOCA-Naples)
 
@@ -11466,6 +12678,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06588244
 
 SUMMARY:
+
 
 ## NCT07424963
 Hepatic Venous Pressure Gradient Versus Endoscopic Ultrasound-Guided Portal Pressure Gradient - Comparative Analysis
@@ -11476,6 +12689,7 @@ Link: https://clinicaltrials.gov/study/NCT07424963
 
 SUMMARY:
 
+
 ## NCT07424846
 Xylitol and the Prevention of Periodontal Disease and Preterm Birth (XaPPP) Trial
 
@@ -11484,6 +12698,7 @@ Intervention: : Xylitol Chewing gum — Xylitol chewing gum (1 gram per pellet o
 Link: https://clinicaltrials.gov/study/NCT07424846
 
 SUMMARY:
+
 
 ## NCT07812389
 Opioid-Free Anesthesia in Functional Endoscopic Sinus Surgery: Effects on Perioperative Outcomes - A Prospective Observational ERAS Study
@@ -11494,6 +12709,7 @@ Link: https://clinicaltrials.gov/study/NCT07812389
 
 SUMMARY:
 
+
 ## NCT07812259
 Evaluation of the Clinical Tolerance of an Intraparotid Injection of Bupivacaine, Combined With Dexamethasone, After Parotidectomy for Benign Tumor - A Single-center Prospective Cohort Study.
 
@@ -11503,6 +12719,7 @@ Link: https://clinicaltrials.gov/study/NCT07812259
 
 SUMMARY:
 
+
 ## NCT07811674
 Study on the Activation Effect of Vibration Training Under Plantar Stimulation and Baduanjin on Lower Limb Muscles
 
@@ -11510,6 +12727,7 @@ Intervention: : Whole-body Vibration Training,Whole-Body Vibration With Regional
 Link: https://clinicaltrials.gov/study/NCT07811674
 
 SUMMARY:
+
 
 ## NCT06626230
 An Incremental Dose Escalation Trial of Safety and Tolerability of Curcumin
@@ -11521,6 +12739,7 @@ Link: https://clinicaltrials.gov/study/NCT06626230
 
 SUMMARY:
 
+
 ## NCT07813598
 An Observational Longitudinal Cohort Study on the Clinical Application of Anterior Segment Ocular Coherence Tomography (AS-OCT) as an Imaging Tool in Detecting, Grading and Monitoring Non-infectious Anterior Uveitis, in Age 2 to 16 Years Old, in a Single Regional Multi-disciplinary Paediatric Uveitis Service, Comparing With the Standard Slit Lamp Examination, and Development of Deep Learning in Automated Analysis
 
@@ -11530,6 +12749,7 @@ Link: https://clinicaltrials.gov/study/NCT07813598
 
 SUMMARY:
 
+
 ## NCT07425015
 Ambulatory Long Length URodynamics Evaluation
 
@@ -11537,6 +12757,7 @@ Intervention: : Glean Urodynamics System — Glean Urodynamics System including 
 Link: https://clinicaltrials.gov/study/NCT07425015
 
 SUMMARY:
+
 
 ## NCT06203496
 Monitoring of Patients With Diffuse Gliomas Using Circulating miRNAs
@@ -11546,6 +12767,7 @@ Link: https://clinicaltrials.gov/study/NCT06203496
 
 SUMMARY:
 
+
 ## NCT06818734
 Implementation of a Clinical Decision Support Tool for Postpartum Depression
 
@@ -11553,6 +12775,7 @@ Intervention: : Clinical Decision Support Tool — The CDS in and AI algorithm t
 Link: https://clinicaltrials.gov/study/NCT06818734
 
 SUMMARY:
+
 
 ## NCT07167927
 Developing an Innovative Decision Support Tool for Pediatric Neuromuscular Scoliosis - Aims 2 and 3
@@ -11562,6 +12785,7 @@ Link: https://clinicaltrials.gov/study/NCT07167927
 
 SUMMARY:
 
+
 ## NCT05227534
 A Prospective Multi-canceR Early-detection and interVENTional Study in Asymptomatic Individuals: PREVENT
 
@@ -11569,6 +12793,7 @@ Intervention: : OverC multi-cancer detection blood test — Blood collection for
 Link: https://clinicaltrials.gov/study/NCT05227534
 
 SUMMARY:
+
 
 ## NCT06331364
 TREATment of Lower Respiratory Tract Infection in Selected Hospitals in Southern Sri Lanka (TREAT-SL): A Stepped-wedge Cluster Randomized Trial of an Electronic Clinical Decision Support Tool (eCDST) for the Diagnosis and Treatment of Lower Respiratory Tract Infection (LRTI) in Selected Hospitals in Southern Sri Lanka
@@ -11578,6 +12803,7 @@ Link: https://clinicaltrials.gov/study/NCT06331364
 
 SUMMARY:
 
+
 ## NCT07814716
 Clinical Performance of Orthodontic Bands in the Restorative Treatment of Hypomineralised Primary Second Molars: a Randomised Clinical Trial
 
@@ -11586,6 +12812,7 @@ Intervention: : Orthodontic band restorative treatment — Selective removal of 
 Link: https://clinicaltrials.gov/study/NCT07814716
 
 SUMMARY:
+
 
 ## NCT07814976
 Intraoperative Hyoscine Butylbromide During Laparoscopic Transcystic Papillary Balloon Dilation for Choledocholithiasis: A Prospective Interventional Study With Historical Controls
@@ -11599,6 +12826,7 @@ Link: https://clinicaltrials.gov/study/NCT07814976
 
 SUMMARY:
 
+
 ## NCT07425132
 Non-Invasive Electrocardiographic Imaging for Personalized Arrhythmia Care in Congenital Heart Disease
 
@@ -11606,6 +12834,7 @@ Intervention: : Electrocardiographic imaging — A 128-electrode vest is placed 
 Link: https://clinicaltrials.gov/study/NCT07425132
 
 SUMMARY:
+
 
 ## NCT06253234
 Phase I Clinical Trial of Personalized Dendritic Cell Injection ZSNeo-DC1.1 in the Treatment of Recurrent or Progressive High-grade Glioma
@@ -11615,6 +12844,7 @@ Link: https://clinicaltrials.gov/study/NCT06253234
 
 SUMMARY:
 
+
 ## NCT07425483
 A Clinical Study of CAR-NK Cells (CL-NK-003) in Patients With Advanced Pancreatic Cancer
 
@@ -11622,6 +12852,7 @@ Intervention: : CL-NK-003 — Fixed-dose (3 × 10\^9 cells)
 Link: https://clinicaltrials.gov/study/NCT07425483
 
 SUMMARY:
+
 
 ## NCT06005181
 The Synchrony Study: A Randomized Controlled Trial of Music Training for Children With a Fetal Alcohol Spectrum Disorder (FASD)
@@ -11632,6 +12863,7 @@ Link: https://clinicaltrials.gov/study/NCT06005181
 
 SUMMARY:
 
+
 ## NCT07815678
 A Randomized, Double-blind, Placebo-controlled, First-in-human Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Food-effect of ACCG-2671
 
@@ -11641,6 +12873,7 @@ Link: https://clinicaltrials.gov/study/NCT07815678
 
 SUMMARY:
 
+
 ## NCT07425496
 Dynamic Ocular Tonometry Study During Intraocular Surgery
 
@@ -11649,6 +12882,7 @@ Link: https://clinicaltrials.gov/study/NCT07425496
 
 SUMMARY:
 
+
 ## NCT05721937
 CIBINQO™ Pregnancy Registry: An Observational Study of the Safety of Abrocitinib Exposure in Pregnant Women and Their Offspring
 
@@ -11656,6 +12890,7 @@ Intervention: : Abrocitinib — taken by mouth
 Link: https://clinicaltrials.gov/study/NCT05721937
 
 SUMMARY:
+
 
 ## NCT07425782
 A Prospective, Randomized, Open-Label Study of Venetoclax Combined With Azacitidine for Consolidation Therapy in Adult Acute Myeloid Leukemia
@@ -11666,6 +12901,7 @@ Link: https://clinicaltrials.gov/study/NCT07425782
 
 SUMMARY:
 
+
 ## NCT05189639
 A PROSPECTIVE, SINGLE-ARM, OPEN-LABEL, NON-INTERVENTIONAL, MULTI-CENTRE, POST MARKETING SURVEILLANCE (PMS) STUDY OF MYLOTARG®
 
@@ -11673,6 +12909,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05189639
 
 SUMMARY:
+
 
 ## NCT04850053
 Detection of Alzheimer's Disease (AD)-Related Seeds as Biomarkers for Accurate Diagnosis of AD（AD-seeds-detector）
@@ -11682,6 +12919,7 @@ Link: https://clinicaltrials.gov/study/NCT04850053
 
 SUMMARY:
 
+
 ## NCT06691490
 Functional MRI Protocols for Studying the Neural Correlates of Effort Perception and the Effects of Targeted rTMS Protocols on Perceived Effort and Effort-based Decision-making
 
@@ -11689,6 +12927,7 @@ Intervention: : Transcranial Magnetic Stimulation Sham — cTBS over SMA and cTB
 Link: https://clinicaltrials.gov/study/NCT06691490
 
 SUMMARY:
+
 
 ## NCT07426094
 PRO-BOOST-N: A Randomized Phase II/III Trial Evaluating Prostate-First Versus Combined Prostate and Nodal Dose Escalation in PSMA PET-Staged Node-Positive Prostate Cancer Using an Ultrahypofractionated Whole-Pelvis Radiotherapy Platform
@@ -11704,6 +12943,7 @@ Link: https://clinicaltrials.gov/study/NCT07426094
 
 SUMMARY:
 
+
 ## NCT07426315
 M.I.N.E.R.V.A., Metodologie Innovative Per la Neuroplasticità in Età Evolutiva Con l'Uso Della Realtà Virtuale a Scopo Abilitativo
 
@@ -11715,6 +12955,7 @@ Link: https://clinicaltrials.gov/study/NCT07426315
 
 SUMMARY:
 
+
 ## NCT07818525
 The Impact of Baseline Hormonal Profiles (DHEAS, FSH, LH) on Treatment Response to Systemic Isotretinoin in Adult Female Patients With Acne Vulgaris
 
@@ -11723,6 +12964,7 @@ Link: https://clinicaltrials.gov/study/NCT07818525
 
 SUMMARY:
 
+
 ## NCT06851975
 Research Into Biomarkers Predictive of Survival and Response to Cancer Treatment
 
@@ -11730,6 +12972,7 @@ Intervention: : blood sampling — 36ml of blood will be taken during a blood sa
 Link: https://clinicaltrials.gov/study/NCT06851975
 
 SUMMARY:
+
 
 ## NCT07426484
 A Phase IV Master Protocol of Cosibelimab in Special Populations With Advanced Cutaneous Squamous Cell Carcinoma (CosiMaster)
@@ -11742,6 +12985,7 @@ Link: https://clinicaltrials.gov/study/NCT07426484
 
 SUMMARY:
 
+
 ## NCT05674487
 Prostaglandins Versus Trans-Cervical Balloon for Induction of Labor in Fetal Growth Restriction: a Multicenter Open-label Randomized Trial
 
@@ -11750,6 +12994,7 @@ Intervention: : Trans-cervical balloon — Induction of labor by cervical ripeni
 Link: https://clinicaltrials.gov/study/NCT05674487
 
 SUMMARY:
+
 
 ## NCT06938269
 A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single-and Multiple-Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of MWN109 Tablets in Healthy Adult Participants
@@ -11760,6 +13005,7 @@ Link: https://clinicaltrials.gov/study/NCT06938269
 
 SUMMARY:
 
+
 ## NCT06923657
 Application of PSMA PET/MRI-guided Prostate Targeted Biopsy in Patients With PI-RADS ≤ 3 and Negative Previous Biopsy: A Single-center, Prospective, Open-label, Randomized Controlled Trial
 
@@ -11768,6 +13014,7 @@ Intervention: : PSMA PET/MRI-TRUS guided prostate targeted combined saturation b
 Link: https://clinicaltrials.gov/study/NCT06923657
 
 SUMMARY:
+
 
 ## NCT07789223
 A Randomised, Double-Blind, Placebo-Controlled Trial Evaluating the Effects of elénzia CONTROL® on Weight and Metabolic Health in Adults Naïve to or Who Have Recently Discontinued Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist Use
@@ -11778,6 +13025,7 @@ Link: https://clinicaltrials.gov/study/NCT07789223
 
 SUMMARY:
 
+
 ## NCT07426861
 Pre-Operative Nurse-Led Education With Direct Physiotherapy Referral to Reduce Post-Prostatectomy Incontinence
 
@@ -11787,6 +13035,7 @@ Link: https://clinicaltrials.gov/study/NCT07426861
 
 SUMMARY:
 
+
 ## NCT02310867
 Immunomodulation to Optimize Vascularized Composite Allograft Integration for Limb Loss Therapy
 
@@ -11795,6 +13044,7 @@ Intervention: : Belatacept — This study will also test a new immunosuppressant
 Link: https://clinicaltrials.gov/study/NCT02310867
 
 SUMMARY:
+
 
 ## NCT04671667
 A Phase II Randomized Trial of Adjuvant Therapy With Pembrolizumab After Resection of Recurrent/Second Primary Head and Neck Squamous Cell Carcinoma With High Risk Features
@@ -11810,6 +13060,7 @@ Link: https://clinicaltrials.gov/study/NCT04671667
 
 SUMMARY:
 
+
 ## NCT07426926
 Home-Based Photobiomodulation Effects in the Postoperative Period of Distal Radius Fractures: A Double-Blind, Randomized, Controlled Clinical Trial
 
@@ -11820,6 +13071,7 @@ Intervention: : Open reduction and internal fixation (ORIF) with locked volar pl
 Link: https://clinicaltrials.gov/study/NCT07426926
 
 SUMMARY:
+
 
 ## NCT07822646
 A Phase 3, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Safety and Efficacy of Manganese-primed Immunochemotherapy in Subjects With Advanced Ovarian Cancer
@@ -11833,6 +13085,7 @@ Link: https://clinicaltrials.gov/study/NCT07822646
 
 SUMMARY:
 
+
 ## NCT05140993
 The Role of Emotional and Orientation Support in Prevention of Postoperative Delirium Among Elderly Surgical Patients - a Multiple-crossover Clinical Trial
 
@@ -11841,6 +13094,7 @@ Link: https://clinicaltrials.gov/study/NCT05140993
 
 SUMMARY:
 
+
 ## NCT07822737
 Prognostic Value of Photon-Counting Detector CT-Derived High-Risk Coronary Plaque Features for Predicting Major Adverse Cardiovascular Events: a Prospective Cohort Study
 
@@ -11848,6 +13102,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07822737
 
 SUMMARY:
+
 
 ## NCT07030270
 A Clinical Trial Comparing Surfactant Administration Through Supraglottic Airway or Thin Catheter for Preterm Infants
@@ -11860,6 +13115,7 @@ Link: https://clinicaltrials.gov/study/NCT07030270
 
 SUMMARY:
 
+
 ## NCT06824532
 Veteran's Perceptions of Ketamine-Assisted Psychotherapy (KAP) for Depression and End-of-Life
 
@@ -11867,6 +13123,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06824532
 
 SUMMARY:
+
 
 ## NCT05364606
 Patient Specific Talus Spacer Post Approval Study
@@ -11876,6 +13133,7 @@ Link: https://clinicaltrials.gov/study/NCT05364606
 
 SUMMARY:
 
+
 ## NCT06280105
 A Single-arm, Multicenter, Phase II Trial of Cadonilimab Plus Regorafenib in Patients With Hepatocellular Carcinoma Who Progressed on Camrelizumab Combined With Apatinib
 
@@ -11883,6 +13141,7 @@ Intervention: : Cadonilimab+regorafenib — cadonilimab: 6mg/kg iv D1 Q2W; regor
 Link: https://clinicaltrials.gov/study/NCT06280105
 
 SUMMARY:
+
 
 ## NCT07823036
 Assessing Pulmonary Changes in Hematopoietic Stem-Cell Transplantation Patients and Patients With Rare-Lung Diseases Using Hyperpolarized Xe MR Lung Imaging
@@ -11892,6 +13151,7 @@ Link: https://clinicaltrials.gov/study/NCT07823036
 
 SUMMARY:
 
+
 ## NCT07427251
 Low-Dose Glucagon and Automated Insulin Delivery for Prevention of Spontaneous Exercise-Induced Hypoglycemia in People With Type 1 Diabetes
 
@@ -11900,6 +13160,7 @@ Intervention: : Low-Dose Glucagon — Participants will be given a low-dose of g
 Link: https://clinicaltrials.gov/study/NCT07427251
 
 SUMMARY:
+
 
 ## NCT04903912
 Campania Registry On Peripheral Artery Disease
@@ -11912,6 +13173,7 @@ Link: https://clinicaltrials.gov/study/NCT04903912
 
 SUMMARY:
 
+
 ## NCT07427134
 Prospective, Parallel-Group Randomised Controlled Trial Evaluating a Flexible Insulin Dose Calculator in Paediatric Type 1 Diabetes Management
 
@@ -11920,6 +13182,7 @@ Link: https://clinicaltrials.gov/study/NCT07427134
 
 SUMMARY:
 
+
 ## NCT07824414
 Prognostic Significance of Multi-site Pulse Oximetry Differences in Dyspneic Emergency Department Patients
 
@@ -11927,6 +13190,7 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT07824414
 
 SUMMARY:
+
 
 ## NCT06918067
 Comparison of Urinary Flow Speed Using 14 Fr Two Eyelet Coloplast Female SpeediCath Urinary Catheter Versus 14 Fr Coloplast Micro Zone Luja Female Catheter in Female Patients Using Intermittent Catheters
@@ -11937,6 +13201,7 @@ Link: https://clinicaltrials.gov/study/NCT06918067
 
 SUMMARY:
 
+
 ## NCT07427563
 Cerebellar Deep Brain Stimulation for the Treatment of Refractory Ataxia and Gait Disorders: Pilot Trial
 
@@ -11944,6 +13209,7 @@ Intervention: : Deep Brain Stimulation — Standard of care Neurosugical implant
 Link: https://clinicaltrials.gov/study/NCT07427563
 
 SUMMARY:
+
 
 ## NCT06941272
 LIGHTBEAM-U01 Substudy 01C: A Phase 1/2 Substudy to Evaluate the Safety and Efficacy of Patritumab Deruxtecan in Pediatric Participants With Relapsed or Refractory Solid Tumors
@@ -11953,6 +13219,7 @@ Link: https://clinicaltrials.gov/study/NCT06941272
 
 SUMMARY:
 
+
 ## NCT05708807
 FIND Stroke Recovery: A Longitudinal Frequent Evaluation Long-term Follow-up Study
 
@@ -11960,6 +13227,7 @@ Intervention: : Observational - all — All stroke patients are included.
 Link: https://clinicaltrials.gov/study/NCT05708807
 
 SUMMARY:
+
 
 ## NCT07402681
 Evaluating Symptom Variations and Observing Longitudinal Individual Change Effects in TF-CBT
@@ -11969,6 +13237,7 @@ Link: https://clinicaltrials.gov/study/NCT07402681
 
 SUMMARY:
 
+
 ## NCT07643324
 Comparison of Normal Ventilation and Low Tidal Volume Ventilation During Retrograde Intrarenal Surgery (RIRS) Using Video-Based Motion Index: A Randomized Controlled Trial
 
@@ -11977,6 +13246,7 @@ Link: https://clinicaltrials.gov/study/NCT07643324
 
 SUMMARY:
 
+
 ## NCT07219407
 An Open-label, Long-term Study Evaluating RAP-219 in Adult Participants With Refractory Onset Seizures
 
@@ -11984,6 +13254,7 @@ Intervention: : RAP-219 — Participants will receive one RAP-219 0.125 mg capsu
 Link: https://clinicaltrials.gov/study/NCT07219407
 
 SUMMARY:
+
 
 ## NCT07826663
 Telephone-Coached Sleep Bibliotherapy for Informal Caregivers of People With Dementia: A Randomized Controlled Trial
@@ -11994,6 +13265,7 @@ Link: https://clinicaltrials.gov/study/NCT07826663
 
 SUMMARY:
 
+
 ## NCT04917419
 Prise en Charge infirmière Des Anomalies du Sommeil et du Rythme Circadien Par luminothérapie et/ou un Programme Court de psychoéducation Chez Des Patients Souffrant de Troubles Bipolaires
 
@@ -12001,6 +13273,7 @@ Intervention: : Luminotherapy and /or Psychoeducation Program — TO complete
 Link: https://clinicaltrials.gov/study/NCT04917419
 
 SUMMARY:
+
 
 ## NCT07827196
 Transcranial Random Noise (tRNS) for Behavioral and Psychological Symptoms in Alzheimer's Disease (BPSD): A Randomized, Double-blind, Sham-Controlled Trial
@@ -12011,6 +13284,7 @@ Link: https://clinicaltrials.gov/study/NCT07827196
 
 SUMMARY:
 
+
 ## NCT07298395
 A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, 12-Week Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of ENV-294 in Adult Participants With Moderate-to-Severe Atopic Dermatitis
 
@@ -12019,6 +13293,7 @@ Intervention: : ENV-294 — ENV-294 is an orally administered investigational dr
 Link: https://clinicaltrials.gov/study/NCT07298395
 
 SUMMARY:
+
 
 ## NCT07827417
 Comparative Effects of Reactive Balance Training and Task-Oriented Training on Postural Stability in Patients With Diabetic Peripheral Neuropathy
@@ -12037,6 +13312,7 @@ Link: https://clinicaltrials.gov/study/NCT07827417
 
 SUMMARY:
 
+
 ## NCT07827664
 The Impact of Insomnia on Pain Sensitivity and the Trajectory of Exercise Induced Muscular Pain: a Case Control Study
 
@@ -12045,6 +13321,7 @@ Link: https://clinicaltrials.gov/study/NCT07827664
 
 SUMMARY:
 
+
 ## NCT07427940
 Omic Profile in Autism Spectrum Disorder: From Cellular Level Towards Future Treatments
 
@@ -12052,6 +13329,7 @@ Intervention: : Blood sample collection for ASD cells model production and Omic 
 Link: https://clinicaltrials.gov/study/NCT07427940
 
 SUMMARY:
+
 
 ## NCT06785636
 PATHWAY: A Phase 1b/2a, Multicenter, Open- Label Study of Pocenbrodib as Monotherapy and in Combination With Darolutamide in Participants With Metastatic Castration-Resistant Prostate Cancer (mCRPC)
@@ -12062,6 +13340,7 @@ Link: https://clinicaltrials.gov/study/NCT06785636
 
 SUMMARY:
 
+
 ## NCT07381972
 Optimization of Photodynamic Therapy Through the Association With Sonodynamic Therapy for the Treatment of Nodular Basal Cell Carcinoma
 
@@ -12071,6 +13350,7 @@ Link: https://clinicaltrials.gov/study/NCT07381972
 
 SUMMARY:
 
+
 ## NCT07495072
 Optimal Timing of Intravesical GAG Restoration Therapy for BCG-Induced Bladder Toxicity in Patients With Non-Muscle-Invasive Bladder Cancer: A Prospective Randomized Study
 
@@ -12078,6 +13358,7 @@ Intervention: : Hyaluronic Acid and Chondroitin Sulfate (Blad-Care™) — Intra
 Link: https://clinicaltrials.gov/study/NCT07495072
 
 SUMMARY:
+
 
 ## NCT07560553
 Impact of Lactation Antenatal Teaching by Clinicians and Healthcare Providers: Randomized Control Trial
