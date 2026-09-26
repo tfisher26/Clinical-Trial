@@ -121,15 +121,6 @@ Link: https://clinicaltrials.gov/study/NCT06464926
 SUMMARY:
 
 
-## NCT03953768
-Prospective Non-randomized Single-arm Trial of Efferent Neuromodulation Immune and Gastrointestinal Systems by VNS in the Epilepsy Population
-
-Intervention: : Vagal nerve stimulation (VNS) — Implantation with vagal nerve stimulator for epilepsy
-Link: https://clinicaltrials.gov/study/NCT03953768
-
-SUMMARY:
-
-
 ## NCT04659291
 Prospective Study on Patients With Obstructive Sleep Apnea in Hong Kong (PrOSA)
 
@@ -363,24 +354,6 @@ Link: https://clinicaltrials.gov/study/NCT04918186
 SUMMARY:
 
 
-## NCT03266640
-A Pilot Study in the Treatment of Refractory Cytomegalovirus (CMV) Infections With Related Donor CMV Specific Cytotoxic T-cells (CTLs) in Children, Adolescents and Young Adult Recipients
-
-Intervention: : viral specific cytotoxic t-lymphocytes — CMV specific CTLs will be collected from HLA matched or mismatched donors and manufactured in a GMP facility and administered to patients with refractory CMV infection.
-Link: https://clinicaltrials.gov/study/NCT03266640
-
-SUMMARY:
-
-
-## NCT02090530
-Precision Cancer Medicine for Advanced Cancer Through High-throughput Sequencing
-
-Intervention: : Biospecimen collection — Specimens to be collected include a fresh tumor biopsy, previously obtained tumor specimens or blocks (if available), whole blood, serum, plasma and buccal smear.
-Link: https://clinicaltrials.gov/study/NCT02090530
-
-SUMMARY:
-
-
 ## NCT06477406
 Evaluating the Impact of a Novel Cannabinoid Product for Endometriosis
 
@@ -447,15 +420,6 @@ Intervention: : Exhaled breath condensate sampling — Patient will breath for a
 : Vital signs — Blood pressure, weight, height, pulse, oxygen saturation will be measured.
 : Spirometry — Spirometry will be performed.
 Link: https://clinicaltrials.gov/study/NCT06016569
-
-SUMMARY:
-
-
-## NCT02165059
-Indiana University GI Neuromuscular Pathology Prospective Registry
-
-Intervention: : Surgical Full Thickness Biopsy — Eligible subjects will undergo a surgical full thickness biopsy of the stomach and/or proximal jejunum as part of their planned surgery.
-Link: https://clinicaltrials.gov/study/NCT02165059
 
 SUMMARY:
 
@@ -800,15 +764,6 @@ Link: https://clinicaltrials.gov/study/NCT05286931
 SUMMARY:
 
 
-## NCT02315729
-Analysis of Prognostic Cell Signaling Factors in Adolescent Idiopathic Scoliosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02315729
-
-SUMMARY:
-
-
 ## NCT06398873
 Effect of Dupilumab on Nasal Epithelial Barrier Function in Patients With Chronic Rhinosinusitis With Nasal Polyps (CRSwNP) - an Exploratory Pilot Study
 
@@ -976,15 +931,6 @@ A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Ef
 Intervention: : LY3537031 — Administered SC
 : Placebo — Administered SC
 Link: https://clinicaltrials.gov/study/NCT07545759
-
-SUMMARY:
-
-
-## NCT04193475
-Machine Learning in Quantitative Stress Echocardiography
-
-Intervention: : Analysis — No intervention planned. Novel analysis of echocardiographic data.
-Link: https://clinicaltrials.gov/study/NCT04193475
 
 SUMMARY:
 
@@ -1222,16 +1168,6 @@ CD19-BCMA CART Cell Therapy for Refractory Systemic Lupus Erythematosus Nephriti
 
 Intervention: : CD19-BCMA CAR-T cells infusion — Approximately 3-5 days prior to CD19-BCMA CAR-T cell infusion, subjects are treated with FC regimen (fludarabine and cyclophosphamide) for lymphodepletion. CAR-T cell infusion are performed 48 h after completion of chemotherapy.
 Link: https://clinicaltrials.gov/study/NCT06947460
-
-SUMMARY:
-
-
-## NCT03600779
-Application of the Inhomogeneous Magnetisation Transfer MRI (ihMT) Technique, a New Myelin-specific MRI Technique, in Multiple Sclerosis
-
-Intervention: : inhomogeneous Magnetisation Transfer (ihMT) sequence — robust technique has shown great sensitivity for evaluating the demyelination processes using MRI at 1.5T
-: inhomogeneous Magnetisation Transfer (ihMT) sequence at 3T — robust technique has shown great sensitivity for evaluating the demyelination processes using MRI at 3T
-Link: https://clinicaltrials.gov/study/NCT03600779
 
 SUMMARY:
 
@@ -1571,16 +1507,6 @@ Link: https://clinicaltrials.gov/study/NCT06943846
 SUMMARY:
 
 
-## NCT04370587
-A Phase 1/2a, Open-Label, Dose Escalation and Expansion Study of the Safety and Tolerability of T3011 Administered Via Intratumoral Injection as a Single Agent and in Combination With Intravenous Pembrolizumab in Patients With Advanced or Metastatic Solid Tumors
-
-Intervention: : T3011 — T3011 will be administered up to 4mL as an intratumoral injection given Q2W.
-: T3011 + pembrolizumab — T3011 will be administered up to 4mL as an intratumoral injection in combination with intravenous pembrolizumab given Q3W.
-Link: https://clinicaltrials.gov/study/NCT04370587
-
-SUMMARY:
-
-
 ## NCT05532813
 Evaluation of the Efficacy and Safety of Metformin in the Myotonic Dystrophy Type 1 (Steinert's Disease). A Phase III, Prospective, Multicentre, Randomized, Double-blind Controlled Study
 
@@ -1633,15 +1559,6 @@ Link: https://clinicaltrials.gov/study/NCT07275190
 SUMMARY:
 
 
-## NCT02038660
-Evaluation of Effectiveness and Safety of Drug-Eluting Balloon in Routine Clinical Practice; A Multicenter Prospective Observational Cohort Study
-
-Intervention: : Balloon angioplasty
-Link: https://clinicaltrials.gov/study/NCT02038660
-
-SUMMARY:
-
-
 ## NCT05825820
 Pilot Study Health System/Community Partnership for Enhanced Outreach to Prevent Suicide Attempts
 
@@ -1651,16 +1568,6 @@ A phone call (or text messaging) from Samaritans staff will be conducted every w
 
 Participants will also receive standard care that hospitals give for individuals who present to the ED with suicidal thoughts.
 Link: https://clinicaltrials.gov/study/NCT05825820
-
-SUMMARY:
-
-
-## NCT02648009
-Metabolic Imaging of the Heart Using Hyperpolarized (13C) Pyruvate Injection
-
-Intervention: : Hyperpolarized (13) Pyruvate Injection — MRI with Hyperpolarized Pyruvate (13) Injection
-: Gadolinium — MRI with Gadolinium
-Link: https://clinicaltrials.gov/study/NCT02648009
 
 SUMMARY:
 
@@ -1680,17 +1587,6 @@ Surgical Compared to Bronchoscopic Lung Volume Reduction in Patients With Severe
 Intervention: : Lung volume reduction surgery — Lung volume reduction by surgery
 : Bronchoscopic lung volume reduction with valves — Lung volume reduction with endobronchial valves.
 Link: https://clinicaltrials.gov/study/NCT04537182
-
-SUMMARY:
-
-
-## NCT03484299
-Chemotherapy and Irreversible Electroporation (IRE) in the Treatment of Advanced Pancreatic Adenocarcinoma
-
-Intervention: : Irreversible Electroporation (IRE) — Non-thermal ablation of tumor
-: Gemcitabine — 25% dose - first 3 enrolled; 50% dose - next 3 enrolled; 75% dose - remaining 4 enrolled
-: FOLFIRINOX — 25% dose - first 3 enrolled; 50% dose - next 3 enrolled; 75% dose - remaining 4 enrolled
-Link: https://clinicaltrials.gov/study/NCT03484299
 
 SUMMARY:
 
@@ -1756,29 +1652,6 @@ Efficacy and Safety of Combo-stim Deep Brain Stimulation for Treatment-refractor
 
 Intervention: : deep brain stimulation — DBS electrodes will be implanted into the ALIC and the NAcc, electric stimulation of those areas are used to treat mental disorders and to evaluate the efficacy and safety of DBS system.
 Link: https://clinicaltrials.gov/study/NCT06112067
-
-SUMMARY:
-
-
-## NCT04040413
-Institutional Bariatric Database Registry
-
-Intervention: : bariatric surgery — All bariatric procedures
-Link: https://clinicaltrials.gov/study/NCT04040413
-
-SUMMARY:
-
-
-## NCT03511807
-Acoustic and Electrical Stimulation for the Treatment of Tinnitus
-
-Intervention: : Electrical — For the electrical stimulation:
-
-An electrode will be inserted into the ear canal which will be stimulated.
-: Acoustic — For the acoustic stimulation:
-
-A typical sound will be presented for 6 minutes. Loudness is reported for 4 minutes after the stimulus offset to measure the presence and duration of the residual inhibition. If a successful acoustic stimulus is found, the subject will be given a series of sound files to listen to on a digital music player (CD or MP3 player) and will be asked to listen to each sound file (5 minute duration) and record their tinnitus loudness/annoyance during and after each sound stimulation. For some subjects, the investigators will use music on a digital music player (MP3 player) to see if music listening and music exercises will help reduce the intensity or annoyance level of the tinnitus (using the same surveys). These music-based exercises will involve training in recognition of musical intervals (e.g., octaves, fifths, and thirds).
-Link: https://clinicaltrials.gov/study/NCT03511807
 
 SUMMARY:
 

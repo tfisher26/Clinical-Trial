@@ -20,15 +20,6 @@ Link: https://clinicaltrials.gov/study/NCT06426810
 SUMMARY:
 
 
-## NCT03779009
-Minimally INvasive Colon Cancer Surgery Through IMmunomics and Optical Mapping of the Sentinel Lymph Node.
-
-Intervention: : ICG-nanocoll (indocyanine green coupled to the human albumin colloidal particle nanocoll) — Under laparoscopic control, 2.0 ml of ICG-nanocoll will be injected into the subserosa at four quadrants around the tumor. Directly after injection, near infrared (NIR) fluorescence images (Olympus, Tokyo, Japan) will be acquired. SLNs will be identified and marked.
-Link: https://clinicaltrials.gov/study/NCT03779009
-
-SUMMARY:
-
-
 ## NCT06967922
 Evaluation of Analytic-integrative Cognitive Behavioural Therapy for Acute Insomnia Disorder (Stress)
 
@@ -160,15 +151,6 @@ Link: https://clinicaltrials.gov/study/NCT06338514
 SUMMARY:
 
 
-## NCT03878706
-The Effect of GLP-1 Agonist, SGLT2 Inhibitor and Their Combination on Endothelial Function, Arterial Stiffness and Left Ventricular Deformation in Patients With Type 2 Diabetes With High Cardiovascular Risk
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03878706
-
-SUMMARY:
-
-
 ## NCT06924398
 Postoperative EGFR-TKI Therapy for High-Risk Synchronous Resectable Contralateral Pulmonary Nodules in Patients With EGFR-Mutant Non-Small Cell Lung Cancer（ARMOR2501）
 
@@ -178,15 +160,6 @@ Before formal enrollment, participants must be completely free from perioperativ
 
 If the lesion persists after three months, a multidisciplinary team will determine whether to proceed with surgical treatment.
 Link: https://clinicaltrials.gov/study/NCT06924398
-
-SUMMARY:
-
-
-## NCT02257892
-Novel Genetic Disorders of the Immune System
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02257892
 
 SUMMARY:
 
@@ -425,15 +398,6 @@ Link: https://clinicaltrials.gov/study/NCT06686745
 SUMMARY:
 
 
-## NCT03855592
-Observational Epidemiological Study of Cancer-associated Thrombosis: Registry of Thrombosis & NEoplasia of SEOM (TESEO Study)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03855592
-
-SUMMARY:
-
-
 ## NCT06911671
 Innovative Upper Limb Stroke Rehabilitation Approach Combining Myoelectric Control Assistance in Virtual Reality and Cerebellar TBS Plasticity Enhancement
 
@@ -532,15 +496,6 @@ Transperineal Laser Ablation Treatment for Prostate Cancer Registry: a Retrospec
 
 Intervention: : Transperineal Laser Ablation of Prostate Cancer — Minimal invasive transperineal laser ablation treatment for prostate cancer
 Link: https://clinicaltrials.gov/study/NCT05163197
-
-SUMMARY:
-
-
-## NCT02745158
-FOP Registry: A Global Registry for the Fibrodysplasia Ossificans Progressiva Community
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02745158
 
 SUMMARY:
 
@@ -1109,31 +1064,12 @@ Link: https://clinicaltrials.gov/study/NCT06065852
 SUMMARY:
 
 
-## NCT04257747
-Qualitative and Quantitative Evaluation of Vascular Flows of Radial, Ulnar and Interdigital Arterial Trees Under Normal and Pathological Conditions by 3 Tesla MRI
-
-Intervention: : MRI acquisitions — MRI acquisitions will be performed on the ACHIEVA 3T TX DStream Philips® Research MRI of the GIE Faire Faces.
-: Doppler ultrasound procedure — The Doppler ultrasound procedure will be conducted in the traditional way in the Vascular Medicine Department of the Amiens-Picardie University Hospital
-Link: https://clinicaltrials.gov/study/NCT04257747
-
-SUMMARY:
-
-
 ## NCT06067906
 Weight Loss Following an Episode of Pre-eclampsia Using a Dissociated or Hypocaloric Diet in Overweight or Obese Patients
 
 Intervention: : Hypocaloric diet — Hypocaloric diet
 : Dissociated diet — Dissociated diet
 Link: https://clinicaltrials.gov/study/NCT06067906
-
-SUMMARY:
-
-
-## NCT03829033
-Photon Therapy Versus Proton Therapy in Early Tonsil Cancer.
-
-Intervention: : Radiotherapy — Radiotherapy with either photons or protons.
-Link: https://clinicaltrials.gov/study/NCT03829033
 
 SUMMARY:
 
@@ -1430,16 +1366,6 @@ Effect of Endoscopic Sleeve Gastroplasty on Patients With Obesity and Concomitan
 Intervention: : ESG + lifestyle modification — Endoscopic sleeve gastroplasty - an endoscopic weight loss procedure where an endoscopic suturing device is utilized to reduce the size of the stomach by 70%.
 : Lifestyle modification — Lifestyle modification program consisting of diet and exercise therapy
 Link: https://clinicaltrials.gov/study/NCT06138821
-
-SUMMARY:
-
-
-## NCT02823821
-Randomised Evaluation of Sodium Dialysate Levels on Vascular Events
-
-Intervention: : Default dialysate sodium concentration of 137mmol/l — Default defined here as use of allocated dialysate sodium concentration for at least 90% of delivered dialysis sessions.
-: Default dialysate sodium concentration of 140mmol/l — Default defined here as use of allocated dialysate sodium concentration for at least 90% of delivered dialysis sessions.
-Link: https://clinicaltrials.gov/study/NCT02823821
 
 SUMMARY:
 
@@ -1949,15 +1875,6 @@ Link: https://clinicaltrials.gov/study/NCT05257746
 SUMMARY:
 
 
-## NCT03845946
-International Registry of Isolated Angioedema
-
-Intervention: : angioedema — electronic tracking book
-Link: https://clinicaltrials.gov/study/NCT03845946
-
-SUMMARY:
-
-
 ## NCT06904599
 Evaluation of Human Chorionic Gonadotropin for the Treatment of Acute Graft-versus-host Disease in Patients With Allogeneic Hematopoietic Cell Transplantation
 
@@ -1965,15 +1882,6 @@ Intervention: : Human chorionic gonadotropin (hCG) — 2500 IU intramuscular on 
 : Prednisone — Oral prednisone 1 mg/kg/day for 14 days
 : Dexamethasone — IV dexamethasone 0.15 mg/kg/day for 14 days
 Link: https://clinicaltrials.gov/study/NCT06904599
-
-SUMMARY:
-
-
-## NCT04395495
-Investigation Into the Natural History and Metabolic and Molecular Basis of RASopathies.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04395495
 
 SUMMARY:
 
@@ -2361,17 +2269,6 @@ Link: https://clinicaltrials.gov/study/NCT07491913
 SUMMARY:
 
 
-## NCT02813642
-Evaluation of Non Traditional Cardiovascular Risk Factors in Chronic Kidney Disease Patients Starting Dialysis
-
-Intervention: : Plasma osteoprotegerin level — dosage of plasma osteoprotegerin
-: Plasma fibroblast growth factor 23 level — dosage of plasma fibroblast growth factor 23
-: Vascular calcification score — measurement of vascular calcification score by X-ray of the lateral abdominal aorta
-Link: https://clinicaltrials.gov/study/NCT02813642
-
-SUMMARY:
-
-
 ## NCT06590532
 French Randomised Controlled Trial Investigating the Clinical and Cost-effectiveness Role of a Cloud-based, Artificial Intelligent Image Fusion System to Guide Endovascular Aortic Aneurysm Repair and Aorto Iliac Revascularisation.
 
@@ -2407,18 +2304,6 @@ A Multi-center Observational Clinical Study on the Development of Artificial Int
 
 Intervention: : Tongue imaging, tougue coating, saliva, gastric juice, and feces — Tongue images, coating, saliva, gastric juice, and feces on the tongue and clinical data of patients with gastric cancer and healthy participants will be collected.
 Link: https://clinicaltrials.gov/study/NCT06078930
-
-SUMMARY:
-
-
-## NCT03236987
-CLArithromycin Versus AZIthromycin in the Treatment of Mycobacterium Avium Complex (MAC) Lung Infections
-
-Intervention: : Clarithromycin 1000 MG — The patient will be received for at least 12 months, a daily antibiotic treatment who is a combination of Clarithromycin, Ethambutol and Rifampicin.
-: Azithromycin 250 mg — The patient will be received for at least 12 months, a daily antibiotic treatment who is a combination of Azithromycin, Ethambutol and Rifampicin.
-: Rifampicin — The patient will be received for at least 12 months, a dailty antibiotic treatment who is a combination of Azithromycin or Clarithromycin (according to the randomisation), Ethambutol and Rifampicin.
-: Ethambutol — The patient will be received for at least 12 months, a dailty antibiotic treatment who is a combination of Azithromycin or Clarithromycin (according to the randomisation), Ethambutol and Rifampicin.
-Link: https://clinicaltrials.gov/study/NCT03236987
 
 SUMMARY:
 
@@ -2591,17 +2476,6 @@ Link: https://clinicaltrials.gov/study/NCT05552287
 SUMMARY:
 
 
-## NCT03759028
-A Randomized Controlled Trial of Acetaminophen and Ibuprofen Versus Acetaminophen and Oxycodone for Postoperative Pain Control in Operative Pediatric Supracondylar Humerus Fracture
-
-Intervention: : Ibuprofen — Post-operative pain control protocol of closed reduction percutaneous pinning of supracondylar humerus fracture.
-: Oxycodone — Post-operative pain control protocol of closed reduction percutaneous pinning of supracondylar humerus fracture.
-: Acetaminophen — Post-operative pain control protocol of closed reduction percutaneous pinning of supracondylar humerus fracture.
-Link: https://clinicaltrials.gov/study/NCT03759028
-
-SUMMARY:
-
-
 ## NCT07373626
 Prospective Study on Physical Activity Trends in Cancer Survivors Treated at the 'MOvement and REhabilitation' (MO.RE) Clinic
 
@@ -2642,16 +2516,6 @@ Performance of Two Daily Disposable Multifocal Contact Lenses
 Intervention: : Lens A (kalfilcon A) — Daily disposable, soft contact lenses worn for one week
 : Lens B (stenfilcon A) — Daily disposable, soft contact lenses worn for one week
 Link: https://clinicaltrials.gov/study/NCT07444658
-
-SUMMARY:
-
-
-## NCT04260165
-A Double-blinded Randomized Controlled Multicenter Trial Comparing Proximal ROw carpectOmy and Four-corner Fusion (PROOF) for Osteoarthritis of the Wrist
-
-Intervention: : Proximal Row Carpectomy — Excision of the proximal carpal row - the scaphoid, lunate and triquetrum
-: Four-corner fusion — Scaphoid excision and four-corner fusion with cannulated headless compression screws/dorsal plate
-Link: https://clinicaltrials.gov/study/NCT04260165
 
 SUMMARY:
 
@@ -2742,15 +2606,6 @@ Impact of Bariatric Surgery on Female Sexual Function, Sex Hormones, and Psychol
 Intervention: : Sleeve Gastrectomy — Laparoscopic sleeve gastrectomy involves resection of approximately 80% of the stomach, creating a tubular gastric pouch. This restrictive procedure reduces gastric capacity and alters gut hormones.
 : Gastric Bypass — Laparoscopic gastric bypass creates a small gastric pouch (15-30 mL) that is anastomosed to the jejunum, bypassing the remainder of the stomach and proximal small intestine. This combined restrictive and malabsorptive procedure produces significant weight loss and metabolic improvements.
 Link: https://clinicaltrials.gov/study/NCT07446972
-
-SUMMARY:
-
-
-## NCT03742687
-HERAN-Heterogeneously Hypofractionated Radiotherapy for Locally Advanced NSCLC
-
-Intervention: : Heterogeneously Hypofractionated Radiotherapy — A heterogeneous hypofractionated schedule for the treatment of high-risk locally advanced NSCLC patients in which the central idea is to decrease dose to normal tissue by ascribing a heterogeneous dose to the PTV. The dose to the periphery of the PTV as well as to the majority of lymph node targets is decreased compared to a standard treatment. The gross volume of the primary tumour and bulky lymph nodes receive mean doses of up to 66 Gy in 24 fractions, and thus receive a hypofractionated higher biological effective dose than standard 66 Gy in 33 fractions.
-Link: https://clinicaltrials.gov/study/NCT03742687
 
 SUMMARY:
 
@@ -2861,17 +2716,6 @@ Link: https://clinicaltrials.gov/study/NCT06431334
 SUMMARY:
 
 
-## NCT04047264
-Intra- and Post-operative Microdialysis During Neurosurgery for Central Nervous System Lesions
-
-Intervention: : Microdialysis — Undergo microdialysis
-: Magnetic Resonance Imaging — Undergo MRI
-: Computed Tomography — Undergo CT
-Link: https://clinicaltrials.gov/study/NCT04047264
-
-SUMMARY:
-
-
 ## NCT07448779
 Investigating the Pathogenic Role of N-glycosylation in AL Amyloidosis: Molecular Bases, Diagnosis, and Treatment
 
@@ -2924,16 +2768,6 @@ Adaptability of an Undetectable = Untransmissible Model for HBV: Are Suppressed 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07449091
-
-SUMMARY:
-
-
-## NCT04168099
-Comparative Study Between the Efficacy of Oral Gemifloxacin and Intravenous Cefotaxime in Treatment of Spontaneous Bacterial Peritonitis
-
-Intervention: : Cefotaxime — Cefotaxime IV
-: Gemifloxacin — Gemifloxacin oral
-Link: https://clinicaltrials.gov/study/NCT04168099
 
 SUMMARY:
 

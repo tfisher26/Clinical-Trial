@@ -11,29 +11,11 @@ Link: https://clinicaltrials.gov/study/NCT06791668
 SUMMARY:
 
 
-## NCT01927783
-Cardiovascular Health and Needs Assessment in Washington D.C. - Development of a Community-Based Behavioral Weight Loss Intervention
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01927783
-
-SUMMARY:
-
-
 ## NCT07506005
 Anastomotic Bleeding in Primary Double-stapled Colorectal Anastomosis Relating to the Placement of the Stapler Spike to the Staple Line
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07506005
-
-SUMMARY:
-
-
-## NCT02182921
-Evaluation of Surgical Outcomes of Cataract Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02182921
 
 SUMMARY:
 
@@ -74,15 +56,6 @@ Link: https://clinicaltrials.gov/study/NCT06580392
 SUMMARY:
 
 
-## NCT01503190
-A Translational Study of the Interactions Between Prior Pregnancy and the Biologic Subtype of Breast Cancer in Defining the Cancer: Host Immunologic Interaction
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01503190
-
-SUMMARY:
-
-
 ## NCT07154394
 Investigation of Cardiac Amyloid Deposits as a Cause of Cardiac Dysfunction in Alzheimer's Disease (Untersuchung Von Kardialen Amyloidablagerungen Als Ursache Einer Funktionseinschränkung Des Herzens Bei Alzheimer Demenz)
 
@@ -106,15 +79,6 @@ Surveillance of Antimicrobial Resistance in Semirural Kinshasa, Democratic Repub
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06821282
-
-SUMMARY:
-
-
-## NCT02000895
-Biological Legacy of Origin in Mother-Infant Dyads
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02000895
 
 SUMMARY:
 
@@ -263,29 +227,11 @@ Link: https://clinicaltrials.gov/study/NCT07158554
 SUMMARY:
 
 
-## NCT03400345
-Human Upper Extremity Allotransplantation: Transplanted Patient Follow-Up Protocol
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03400345
-
-SUMMARY:
-
-
 ## NCT07762677
 Evaluation of Ultra-High-Resolution Photon-Counting CT Angiography for Intracranial Venous Sinus Stent Assessment
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07762677
-
-SUMMARY:
-
-
-## NCT03530826
-A Crowd Sourcing Platform for Patients With Cancer
-
-Intervention: : No intervention — No Intervention
-Link: https://clinicaltrials.gov/study/NCT03530826
 
 SUMMARY:
 
@@ -389,15 +335,6 @@ Link: https://clinicaltrials.gov/study/NCT07482124
 SUMMARY:
 
 
-## NCT02432625
-Rare Diseases Clinical Research Network Brittle Bone Disease Consortium Longitudinal Study of Osteogenesis Imperfecta
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02432625
-
-SUMMARY:
-
-
 ## NCT06541626
 Sun Yat-Sen Prospective Cohort Study of Central Nervous System Idiopathic Inflammatory Demyelinating Diseases
 
@@ -425,24 +362,6 @@ Link: https://clinicaltrials.gov/study/NCT07070596
 SUMMARY:
 
 
-## NCT02000687
-Long Term Surveillance of Islet Transplant Recipients Following Complete Graft Loss
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02000687
-
-SUMMARY:
-
-
-## NCT03946930
-A Cohort Study of Cognitive Decline in Alzheimer Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03946930
-
-SUMMARY:
-
-
 ## NCT06804265
 Molecular Biology (Multiplex PCR) in the Identification of Pathogens at Reimplantation in the Two-Stage Treatment of Periprosthetic Infections (PJI)
 
@@ -466,15 +385,6 @@ External Validation of the Volume-Velocity Index for Weaning Prediction: a Multi
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07372664
-
-SUMMARY:
-
-
-## NCT01730092
-A Natural History Study of Novel Biomarkers in Pulmonary Arterial Hypertension
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01730092
 
 SUMMARY:
 
@@ -564,24 +474,6 @@ Link: https://clinicaltrials.gov/study/NCT07412145
 SUMMARY:
 
 
-## NCT04230447
-Peking Union Medical College Hospital
-
-Intervention: : No intervention — No intervention
-Link: https://clinicaltrials.gov/study/NCT04230447
-
-SUMMARY:
-
-
-## NCT02420067
-An International Collaborative Study: Screening for Endolymphatic Sac Tumours (ELSTs) in Von Hippel-Lindau (vHL) Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02420067
-
-SUMMARY:
-
-
 ## NCT07098247
 Exploring Photon-Counting CT for Enhanced Target Delineation and Dose Accuracy in Personalized Radiotherapy - ANTHEM
 
@@ -609,15 +501,6 @@ Link: https://clinicaltrials.gov/study/NCT07085299
 SUMMARY:
 
 
-## NCT04256330
-Cardiometabolic Health and Inflammatory Resolution (Kardiometabol hälsa Och Inflammatorisk Resolution)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04256330
-
-SUMMARY:
-
-
 ## NCT07036536
 The NEET Registry: a Prospective, Observational Study for Outcomes of Non-euploid Embryo Transfers (NEET)
 
@@ -632,15 +515,6 @@ Ejaculatory and Orgasmic Dysfunction Registry (Climax Registry)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06605469
-
-SUMMARY:
-
-
-## NCT03986021
-Reproductive Axis Maturation in the Early Post-Menarchal Years: A Pilot Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03986021
 
 SUMMARY:
 
@@ -686,15 +560,6 @@ ATROPOS: Assessing morTality and Risk factOrs in Immune checkPoint Inhibitor-ind
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07633587
-
-SUMMARY:
-
-
-## NCT00404898
-NYU/Bellevue Red Cross WTC Health Impacts Research Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00404898
 
 SUMMARY:
 
@@ -816,40 +681,11 @@ Link: https://clinicaltrials.gov/study/NCT07754175
 SUMMARY:
 
 
-## NCT04111692
-A Prospective Observational Study of Foam Sclerotherapy for the Treatment of Symptomatic Kidney or Liver Cysts in Patients With Autosomal Dominant Polycystic Kidney and Liver Disease.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04111692
-
-SUMMARY:
-
-
 ## NCT06378905
 Cukurova Score Validation Study in Prediction of Primary Cytoreduction in Advanced Ovarian Cancer
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06378905
-
-SUMMARY:
-
-
-## NCT03222375
-The Home-Use of Semiconducting QUantum Excitonic Device: Image Converter/Sound Converter/Electromagnetic Converter to Improve Communicative Efforts, Speech, Language and Related Cognitive Functions in Children With Autism
-
-Intervention: : SQUED™ series 28.1 home-use — Semiconducting QUantum Excitonic Device - artifificial active medium, where the processes of self-organization lead to creation and converter of Autowaves energy.
-
-Some autowaves have the properties of quasi-particles!
-Link: https://clinicaltrials.gov/study/NCT03222375
-
-SUMMARY:
-
-
-## NCT04340024
-Discovery of Biomarkers for Intrinsic Radiation Sensitivity in Cancer Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04340024
 
 SUMMARY:
 
@@ -890,24 +726,6 @@ Link: https://clinicaltrials.gov/study/NCT06653816
 SUMMARY:
 
 
-## NCT02936232
-Severe Sepsis and Septic Shock Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02936232
-
-SUMMARY:
-
-
-## NCT00762333
-Circulating Markers for Ischemic Heart Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00762333
-
-SUMMARY:
-
-
 ## NCT07169123
 Protease Regulation and Impact of Sodium as Mechanisms of Inflammation in IBD
 
@@ -922,15 +740,6 @@ Early Identification of Malignant Brain Edema in laRge Artery oCclusive Stroke A
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06451887
-
-SUMMARY:
-
-
-## NCT01580982
-Molecular Analysis of Oncogenes and Resistance Mechanisms in Lung and Other Thoracic Cancers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01580982
 
 SUMMARY:
 
@@ -1007,24 +816,6 @@ Link: https://clinicaltrials.gov/study/NCT06742008
 SUMMARY:
 
 
-## NCT03511586
-Total Shoulder Arthroplasty Multi-Center Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03511586
-
-SUMMARY:
-
-
-## NCT02855476
-HDClarity: a Multi-site Cerebrospinal Fluid Collection Initiative to Facilitate Therapeutic Development for Huntington's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02855476
-
-SUMMARY:
-
-
 ## NCT06587854
 a PRagmatic Observational Study of Congestion proFILes in patiEnts With Acute Heart
 
@@ -1052,15 +843,6 @@ Link: https://clinicaltrials.gov/study/NCT07109154
 SUMMARY:
 
 
-## NCT04133285
-Registry of Multiple Osteochondromas That Collects Clinical, Functional, Genetic, Genealogical, Imaging, Surgical, Treatment, Quality of Life Data. Data is Linked to Patients' Biological Samples, When Available.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04133285
-
-SUMMARY:
-
-
 ## NCT05936957
 The Ibadan Acute and Chronic Heart Failure Project
 
@@ -1070,38 +852,11 @@ Link: https://clinicaltrials.gov/study/NCT05936957
 SUMMARY:
 
 
-## NCT03914391
-To Identify Potential New Urine Markers for the Screening of Prostate Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03914391
-
-SUMMARY:
-
-
 ## NCT06241521
 Myasthenia Gravis Registry in China
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06241521
-
-SUMMARY:
-
-
-## NCT03768271
-French Cohort on the Becoming of Recent Articular Psoriatic Rheumatism (A Psoriatic Arthritis CoHort)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03768271
-
-SUMMARY:
-
-
-## NCT02450006
-INtermountain Healthcare Biological Samples Collection Project and Investigational REgistry for the On-going Study of Disease Origin, Progression and Treatment (Intermountain INSPIRE Registry)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02450006
 
 SUMMARY:
 
@@ -1178,29 +933,11 @@ Link: https://clinicaltrials.gov/study/NCT06863883
 SUMMARY:
 
 
-## NCT02083835
-Improvement in Postoperative Pain Outcome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02083835
-
-SUMMARY:
-
-
 ## NCT07113769
 Explore Plasma Biomarkers and Platelet Morphological Signatures for Predicting Prognosis in Patients With Extracorporeal CardioPulmonary Resuscitation (ECPR) Using Multi-omics and Platelet Morphology Analysis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07113769
-
-SUMMARY:
-
-
-## NCT00071526
-Urinary Vitamin C Loss in Subjects With and Without Diabetes
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00071526
 
 SUMMARY:
 
@@ -1277,15 +1014,6 @@ Link: https://clinicaltrials.gov/study/NCT07284446
 SUMMARY:
 
 
-## NCT00128973
-Screening and Baseline Assessment of Patients With Abnormalities of Immune Function
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00128973
-
-SUMMARY:
-
-
 ## NCT06708910
 Multiparametric 18F-FDG PET/MRI for Assessment and Prediction of Locoregional Therapy Response in HER2-positive Breast Cancer Patients Using Artificial Intelligence
 
@@ -1340,15 +1068,6 @@ Link: https://clinicaltrials.gov/study/NCT07175532
 SUMMARY:
 
 
-## NCT03505216
-Swiss Paediatric Airway Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03505216
-
-SUMMARY:
-
-
 ## NCT07637084
 Effect of MLS® Class IV Laser Photobiomodulation on Chronic Pain and Fatigue in Hypermobile Ehlers-Danlos Syndrome: A Prospective Observational Pilot Study in Private Medical Practice
 
@@ -1363,15 +1082,6 @@ Determination of Temporomandibular Joint Function, Oral Habits and Pain Complain
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06760884
-
-SUMMARY:
-
-
-## NCT03382158
-International Pleuropulmonary Blastoma/DICER1 Registry (for PPB, DICER1 and Associated Conditions)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03382158
 
 SUMMARY:
 
@@ -1466,15 +1176,6 @@ Link: https://clinicaltrials.gov/study/NCT05997719
 SUMMARY:
 
 
-## NCT03837574
-French National Registry of Patients With Tetralogy of Fallot and Implantable Cardioverter Defibrillator
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03837574
-
-SUMMARY:
-
-
 ## NCT07531953
 Nutritional Knowledge and Characteristics of HYROX Athletes: A Cross-Sectional Study
 
@@ -1529,24 +1230,6 @@ Link: https://clinicaltrials.gov/study/NCT05002023
 SUMMARY:
 
 
-## NCT03316261
-Freder1k-Study - Identification of Infants With Increased Type 1 Diabetes Risk for Enrollment Into Primary Prevention Trials
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03316261
-
-SUMMARY:
-
-
-## NCT04318119
-Cerebral Small Vessel Disease Registry Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04318119
-
-SUMMARY:
-
-
 ## NCT07458971
 ICF-Based Biopsychosocial Assessment With Artificial Intelligence-Assisted Profile Prediction: Trapeziometacarpal Osteoarthritis Model
 
@@ -1565,29 +1248,11 @@ Link: https://clinicaltrials.gov/study/NCT07302685
 SUMMARY:
 
 
-## NCT04177134
-French Register of Patients With Spinal Muscular Atrophy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04177134
-
-SUMMARY:
-
-
 ## NCT06774729
 Development of a Radiomics Model With 3T Multiparametric MR to Predict the Occurence of a Perilesional Infiltration of Muscoskeletal Tumor During the Pre- Surgery Planning
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06774729
-
-SUMMARY:
-
-
-## NCT01248767
-A Prospective Clinical Study of a Cohort of Pathological Patients Seeking Treatment for a Behavioral Addiction in the University Hospital of Nantes
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01248767
 
 SUMMARY:
 
@@ -1628,29 +1293,11 @@ Link: https://clinicaltrials.gov/study/NCT06896266
 SUMMARY:
 
 
-## NCT02890342
-The Natural History, Physiology, Microbiome and Biochemistry Studies of Propionic Acidemia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02890342
-
-SUMMARY:
-
-
 ## NCT07423741
 Clinical and Ultrasonographic Assessment of Airway Indices Among Nonpregnant, Normotensive Pregnant and Pre-eclamptic Patients: a Prospective Observational Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07423741
-
-SUMMARY:
-
-
-## NCT04364334
-Collecting Diagnostic, Treatment and Follow-up Data on Knee Treatments.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04364334
 
 SUMMARY:
 
@@ -1745,15 +1392,6 @@ Link: https://clinicaltrials.gov/study/NCT06477172
 SUMMARY:
 
 
-## NCT04108936
-Longitudinal Study of the Effect of Cytoreductive Surgery and HIPEC in Patients With Peritoneal Carcinomatoses
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04108936
-
-SUMMARY:
-
-
 ## NCT04992923
 Prospective Cohort Study of Patients With Infective Endocarditis Admitted at Cardiology Institute of Pitié-Salpêtrière Hospital
 
@@ -1844,15 +1482,6 @@ Link: https://clinicaltrials.gov/study/NCT06894602
 SUMMARY:
 
 
-## NCT03789383
-Risk Factors and Outcome of Biliary Complications Following Adult Living Donor Liver Transplantation in Al-Rajhy Liver Hospital in Upper Egypt.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03789383
-
-SUMMARY:
-
-
 ## NCT06416761
 The Genetic Contribution to Progression of Kidney Disease
 
@@ -1898,29 +1527,11 @@ Link: https://clinicaltrials.gov/study/NCT05099939
 SUMMARY:
 
 
-## NCT03662178
-Investigating the Structured Use of Ultrasound Scanning for Fetal Growth (Oxford Growth Restriction Identification Programme (OxGRIP)) on Risk Factors for and the Incidences of Adverse Maternal, Fetal and Neonatal Outcome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03662178
-
-SUMMARY:
-
-
 ## NCT07032194
 Use of the Da Vinci Single Port Robotic System in Urological Surgery: A Prospective Observational Study (SP-URO)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07032194
-
-SUMMARY:
-
-
-## NCT01286519
-Pharmacokinetics of Off Label Pediatric Medications
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01286519
 
 SUMMARY:
 

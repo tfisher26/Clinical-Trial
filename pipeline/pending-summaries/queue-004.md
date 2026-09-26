@@ -92,29 +92,11 @@ Link: https://clinicaltrials.gov/study/NCT07249333
 SUMMARY:
 
 
-## NCT00040352
-Clinical, Laboratory, and Epidemiologic Characterization of Individuals and Families at High Risk of Melanoma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00040352
-
-SUMMARY:
-
-
 ## NCT05770817
 Surface-Knit and Reformulate CADENCE-Kids for Translation: The SKyRoCKeT Study
 
 Intervention: : N/A: SKyRoCKeT is an observational study — None; this is an observational study
 Link: https://clinicaltrials.gov/study/NCT05770817
-
-SUMMARY:
-
-
-## NCT00344188
-Host Response to Infection and Treatment in Leishmania Infection of Humans
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00344188
 
 SUMMARY:
 
@@ -126,15 +108,6 @@ Intervention: : XY0206 — 12.5 mg/table,On the morning of the day of dosing , s
 : Moxifloxacin (400 mg) — 400mg，On the morning of the day of dosing , subjects received moxifloxacin orally on an empty stomach
 : XY0206 Placebo — 12.5mg/table,On the morning of the day of dosing, subjects received XY0206 placebo orally on an empty stomach.Each group of 15 subjects was randomly assigned in a 3:1:1 ratio, with 9 receiving XY0206, 3 receiving a placebo of XY0206, and 3 receiving moxifloxacin.Group A (XY0206 tablets: 37.5 mg; moxifloxacin : 400 mg; placebo: 37.5 mg)；Group B(XY0206 tablets: 75 mg; moxifloxacin : 400 mg; placebo: 150mg)；Group C(XY0206 tablets:150 mg; moxifloxacin : 400 mg; placebo: 150mg)
 Link: https://clinicaltrials.gov/study/NCT07162116
-
-SUMMARY:
-
-
-## NCT02856620
-The Role of Cardiac Mechanics, Circulating Biomarkers and Frailty in Aortic Stenosis in Predicting Outcomes After Aortic Valve Intervention.
-
-Intervention: : Observational only — Observational only
-Link: https://clinicaltrials.gov/study/NCT02856620
 
 SUMMARY:
 
@@ -166,15 +139,6 @@ Link: https://clinicaltrials.gov/study/NCT07009834
 SUMMARY:
 
 
-## NCT02819882
-A Prospective Registry Study in Patients With Unresectable Locally Advanced or Metastatic Breast Cancer (MBC)
-
-Intervention: : No intervention
-Link: https://clinicaltrials.gov/study/NCT02819882
-
-SUMMARY:
-
-
 ## NCT06541860
 Salvage Regimens in Multiple Myeloma Patients Double Refractory to Lenalidomide and MoAbs: Evidence From Real World Experience
 
@@ -189,15 +153,6 @@ An Observational Study in Patients With Indolent Systemic Mastocytosis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07264959
-
-SUMMARY:
-
-
-## NCT03399929
-Effects of Rehabilitation Following Traumatic Brain Injury and Stroke: A Long Term Outcome Study.
-
-Intervention: : Post Acute Rehabiltation
-Link: https://clinicaltrials.gov/study/NCT03399929
 
 SUMMARY:
 
@@ -234,15 +189,6 @@ A Phase 1 Study to Assess the Effect of Renal Impairment on the Pharmacokinetics
 
 Intervention: : GL0034 — Subcutaneous (SC) administration of a single dose of GL0034
 Link: https://clinicaltrials.gov/study/NCT07385547
-
-SUMMARY:
-
-
-## NCT00428987
-Study of the Phenotype of Overweight and Obese Adults
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00428987
 
 SUMMARY:
 
@@ -328,24 +274,6 @@ Link: https://clinicaltrials.gov/study/NCT06695169
 SUMMARY:
 
 
-## NCT01050296
-Molecular Analysis Of Solid Tumors
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01050296
-
-SUMMARY:
-
-
-## NCT01094327
-Evaluation of Recipients With and Without Proteinuria, Pre and Post Kidney Transplantation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01094327
-
-SUMMARY:
-
-
 ## NCT07664410
 Theranostic PET for Target Validation and Tumor Detection
 
@@ -382,29 +310,11 @@ Link: https://clinicaltrials.gov/study/NCT06499480
 SUMMARY:
 
 
-## NCT03358979
-Three-dimensional Analysis of EMMPRIN on Conjunctival Epithelial Cells Surface in Severe Dry Eye Syndrome (ALTESSE)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03358979
-
-SUMMARY:
-
-
 ## NCT04783701
 Coronary CT Angio Evaluating Graft Patency in ACS Patients Treated With DAPT or Single ASA After CABG (CoCAP)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04783701
-
-SUMMARY:
-
-
-## NCT00869817
-Dominantly Inherited Alzheimer Network (DIAN)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00869817
 
 SUMMARY:
 
@@ -490,15 +400,6 @@ Link: https://clinicaltrials.gov/study/NCT07424872
 SUMMARY:
 
 
-## NCT01087320
-Genome Medical Sequencing for Gene Discovery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01087320
-
-SUMMARY:
-
-
 ## NCT07450898
 Retrospective Analysis of Acute Pancreatitis After Percutaneous Mechanical Thrombectomy In Treatment Of Thrombotic Disorders (The RATIO Study)
 
@@ -513,15 +414,6 @@ Development of Clinical Prediction Models for Pulmonary Outcomes in Sarcoidosis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05567133
-
-SUMMARY:
-
-
-## NCT00231400
-Pompe Disease Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00231400
 
 SUMMARY:
 
@@ -607,15 +499,6 @@ Link: https://clinicaltrials.gov/study/NCT05653141
 SUMMARY:
 
 
-## NCT03569735
-Nanshan Elderly Cohort Study：a Community-based Prospective Cohort Study in Nanshan， Shenzhen Residents
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03569735
-
-SUMMARY:
-
-
 ## NCT06648044
 Research of Therapeutic Targets in the Frame of Nephronophthisis and Renal Associated Ciliopathies - NPH_1
 
@@ -658,15 +541,6 @@ Using Microbiome to Predict Durvalumab Toxicity in Post-CCRT NSCLC Patients (Mic
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04680377
-
-SUMMARY:
-
-
-## NCT03577041
-Medico-economic Evaluation of Anti-VEGF Treatments in the Treatment of naïve Age-related Macular Degeneration (AMD): a Model Adapted to the French Context
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03577041
 
 SUMMARY:
 
@@ -780,29 +654,11 @@ Link: https://clinicaltrials.gov/study/NCT07228650
 SUMMARY:
 
 
-## NCT04286360
-Hematological Anomalies in Children With Rasopathy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04286360
-
-SUMMARY:
-
-
 ## NCT05954299
 Vincere Biobank Research Protocol
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05954299
-
-SUMMARY:
-
-
-## NCT01761981
-Institutional Registry of Haemorrhagic Hereditary Telangiectasia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01761981
 
 SUMMARY:
 
@@ -834,15 +690,6 @@ Link: https://clinicaltrials.gov/study/NCT06078553
 SUMMARY:
 
 
-## NCT02249923
-Pediatric Pulmonary Hypertension Network (PPHNet) Informatics Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02249923
-
-SUMMARY:
-
-
 ## NCT07650435
 Prospective Observational Study to Evaluate the Use of Computer-Aided Vacuum Thrombectomy Within the Context of Intermediate and High-Risk Pulmonary Embolism
 
@@ -870,15 +717,6 @@ Link: https://clinicaltrials.gov/study/NCT06080633
 SUMMARY:
 
 
-## NCT03991507
-Prospective Cohort Study for PCOS Patients in Clinical Reproductive Medicine Management System/Electronic Medical Record Cohort Database (CCRM/EMRCD)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03991507
-
-SUMMARY:
-
-
 ## NCT07289282
 The Relationship Between microRNAs in Breast Cancer Subtypes and Response to Neoadjuvant Chemotherapy and Pathological Response
 
@@ -897,15 +735,6 @@ Link: https://clinicaltrials.gov/study/NCT07317388
 SUMMARY:
 
 
-## NCT02886611
-Limbal Stem Cell Deficiency of Genetic Origin: Genotype-phenotype Correlation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02886611
-
-SUMMARY:
-
-
 ## NCT06744985
 Mortality Prediction in Multiple Trauma Patients: A Comparison of the Revised Trauma Score and MGAP Score at a Trauma Center
 
@@ -915,38 +744,11 @@ Link: https://clinicaltrials.gov/study/NCT06744985
 SUMMARY:
 
 
-## NCT01799915
-Natural History Study of Synucleinopathies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01799915
-
-SUMMARY:
-
-
 ## NCT06772025
 Methodology Study in Patients Undergoing Cardiac Surgery With Cardiopulmonary Bypass to Investigate Mechanisms Involved in Cardiac Surgery-associated Acute Kidney Injury.
 
 Intervention: : No investigational study intervention — No investigational study interventions will be administered in this study. Participants will undergo therapeutic and diagnostic procedures as per local standard medical care and as deemed appropriate by the treating physicians. Collection of blood (not exceeding 200 mL) and urine samples and of available clinical data are the only activities performed in addition.
 Link: https://clinicaltrials.gov/study/NCT06772025
-
-SUMMARY:
-
-
-## NCT00499317
-Genetic Study of Chronic Prostatitis/Chronic Pelvic Pain Syndrome (CP/CPPS)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00499317
-
-SUMMARY:
-
-
-## NCT02696135
-The Chinese Hypertrophic Cardiomyopathy Study(CHCS)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02696135
 
 SUMMARY:
 
@@ -1001,15 +803,6 @@ Investigate Neuro-rehabilitation Active Ingredients of Specific Task-oriented Tr
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06826638
-
-SUMMARY:
-
-
-## NCT00899405
-EGFR Pathway Mutations in Lung Cancer Patient Tumors and Blood
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00899405
 
 SUMMARY:
 
@@ -1104,15 +897,6 @@ Link: https://clinicaltrials.gov/study/NCT06430762
 SUMMARY:
 
 
-## NCT03695978
-Practical Utilisation of Octapharma FVIII Concentrates in Previously Untreated & Minimally Treated Haemophilia A Patients Entering Routine Clinical Treatment With Nuwiq, Octanate or Wilate - Efficacy & Safety Observational Study-Protect-NOW
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03695978
-
-SUMMARY:
-
-
 ## NCT06988150
 A Prospective Study to Assess the Prevalence of Small Intestinal Bacterial Overgrowth (SIBO) in Pancreatic Adenocarcinoma (PDAC) Patients With Weight Loss
 
@@ -1127,15 +911,6 @@ Precision-based Care for People With Musculoskeletal Conditions Seeking Primary 
 
 Intervention: : No intervention — The patients are followed over 6 month through patient reported outcome measures. No intervention other than the regular treatment that the physiotherapists give. In this project the participating physiotherapists are not instructed to treat the participating patients according to the recommended treatment level based on the risk group. The physiotherapists are instructed to use the Start MSK the first visit and to use the results in the dialogue with the patients. The investigators will follow up on what treatment that is given with a short survey at 8 weeks. This survey comprises questions on how many treatment sessions were given, and include a multiple choice question with a list of possible treatments (exercise, information, home exercise, mobilisation, manipulation, stretching, modalities etc). The physiotherapists report treatment given by checking boxes of the different treatments. This information will later be analysed in relation to risk group (low, medium and high risk).
 Link: https://clinicaltrials.gov/study/NCT07603674
-
-SUMMARY:
-
-
-## NCT02230826
-Multicentric Observational PMCF Study to Evaluate Long-term Outcome, Performance and Safety of Implantable Devices in Hip Arthroplasty
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02230826
 
 SUMMARY:
 
@@ -1178,15 +953,6 @@ Link: https://clinicaltrials.gov/study/NCT06724640
 SUMMARY:
 
 
-## NCT04239079
-Autoimmune Features of Neurodegenerative Disorders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04239079
-
-SUMMARY:
-
-
 ## NCT07250308
 A Prospective Observational Study on the Correlation Between Pathologically Confirmed Chronic Atrophic Gastritis and Functional Dyspepsia Symptoms
 
@@ -1201,15 +967,6 @@ A Study on Multimodal Data Prediction of Outcome to Neoadjuvant Therapy in NSCLC
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07388771
-
-SUMMARY:
-
-
-## NCT03309384
-Intraoperative Monitoring (Parathormone Values and Continuous Neuromonitoring) to Predict Postoperative Complications After Total Thyroidectomy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03309384
 
 SUMMARY:
 
@@ -1264,15 +1021,6 @@ Genetic and Environmental Influences on Development of Type 2 Diabetes in Childh
 
 Intervention: : Observational screening study
 Link: https://clinicaltrials.gov/study/NCT04621396
-
-SUMMARY:
-
-
-## NCT02817997
-ACCELERATE (Advancing Castleman Care With an Electronic Longitudinal Registry, E-Repository, And Treatment/Effectiveness Research): An International Registry for Patients With Castleman Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02817997
 
 SUMMARY:
 
@@ -1337,15 +1085,6 @@ Application of Methylation Markers in Early Detection and MRD Monitoring of Lung
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07257458
-
-SUMMARY:
-
-
-## NCT00327860
-Chronic Kidney Disease in Children Prospective Cohort Study (CKiD)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00327860
 
 SUMMARY:
 
@@ -1878,15 +1617,6 @@ Institut Paoli Calmettes Thyroid Cancer Database
 
 Intervention: : Data collection
 Link: https://clinicaltrials.gov/study/NCT02869620
-
-SUMMARY:
-
-
-## NCT03510442
-Investigation of the Natural History, Genetics, and Pathophysiology of Systemic Juvenile Idiopathic Arthritis, Adult-Onset Still's Disease and Related Inflammatory Conditions
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03510442
 
 SUMMARY:
 

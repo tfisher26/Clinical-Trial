@@ -20,15 +20,6 @@ Link: https://clinicaltrials.gov/study/NCT05160584
 SUMMARY:
 
 
-## NCT01266915
-Molecular Studies on Cutaneous Lupus
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01266915
-
-SUMMARY:
-
-
 ## NCT07435935
 Investigation of Postural Stability and Load-Sensitive Neuromuscular Control Mechanisms in Vitamin D Deficiency
 
@@ -308,15 +299,6 @@ Link: https://clinicaltrials.gov/study/NCT06514482
 SUMMARY:
 
 
-## NCT03586895
-e-Connect: A Service System Intervention for Justice Youth at Risk for Suicide
-
-Intervention: : e-Connect — e-Connect
-Link: https://clinicaltrials.gov/study/NCT03586895
-
-SUMMARY:
-
-
 ## NCT07006272
 Cohort Study to Refine the Positioning of Closed-loop Therapy Versus Islet Transplantation in the Management of Patients With Unstable Type 1 Diabetes
 
@@ -331,15 +313,6 @@ An International Multi-centre Prospective Cohort Study in Patients Hospitalized 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05008081
-
-SUMMARY:
-
-
-## NCT01571531
-European Multicentre Study of Human SCI
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01571531
 
 SUMMARY:
 
@@ -367,15 +340,6 @@ A Noninterventional Extension Study for Patients Treated in Study R5459-RT-1944 
 
 Intervention: : Noninterventional — No investigational treatment will be given in this noninterventional extension study
 Link: https://clinicaltrials.gov/study/NCT05106387
-
-SUMMARY:
-
-
-## NCT02801253
-Prospective Cohort of Patients With Prosthetic Joint Infection
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02801253
 
 SUMMARY:
 
@@ -434,38 +398,11 @@ Link: https://clinicaltrials.gov/study/NCT06240572
 SUMMARY:
 
 
-## NCT00160771
-University of Florida Biomechanics/Motion Analysis Laboratory Data Bank
-
-Intervention: : Joint Motion Analysis — Joint motion will be recorded for analysis.
-Link: https://clinicaltrials.gov/study/NCT00160771
-
-SUMMARY:
-
-
-## NCT00033137
-Birt-Hogg-Dub(SqrRoot)(Copyright) Syndrome: Characterization of the FLCN Disease Gene and Predisposition to Renal Cancer, Cutaneous Fibrofolliculoma and Pulmonary Cysts
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00033137
-
-SUMMARY:
-
-
 ## NCT07192679
 MAGNIFY - Pulmonary Magnetic Resonance Imaging for Cystic Fibrosis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07192679
-
-SUMMARY:
-
-
-## NCT03001947
-IgA Nephropathy Registration Initiative of High Quality (INSIGHT)
-
-Intervention: : No intervention — Registration of all IgAN patients in the First Affiliated Hospital of Sun Yat-sen University and other hospitals which have signed the contract in China.
-Link: https://clinicaltrials.gov/study/NCT03001947
 
 SUMMARY:
 
@@ -506,24 +443,6 @@ Link: https://clinicaltrials.gov/study/NCT06791408
 SUMMARY:
 
 
-## NCT03161067
-Investigation on the Bidirectional Cortical Neuroprosthetic System
-
-Intervention: : BiCNS — Surgical implantation
-Link: https://clinicaltrials.gov/study/NCT03161067
-
-SUMMARY:
-
-
-## NCT00598351
-A Prospective Natural History Study of Patients With Neurofibromatosis Type 2 (NF2).
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00598351
-
-SUMMARY:
-
-
 ## NCT05593692
 Gender Differences and Age Related Differences in Emergency Department Admission
 
@@ -547,15 +466,6 @@ Prospective Collection of Endoscopic and Histopathologic Data from Endoscopic Pr
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06467929
-
-SUMMARY:
-
-
-## NCT01601171
-The Genetics of Neuroendocrine Reproductive Disorders and of the Cleft Lip and/or Palate
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01601171
 
 SUMMARY:
 
@@ -587,24 +497,6 @@ Link: https://clinicaltrials.gov/study/NCT06008561
 SUMMARY:
 
 
-## NCT03523104
-The Chinese Parkinson's Disease With LRRK2 Variants Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03523104
-
-SUMMARY:
-
-
-## NCT02055105
-Modulation of Molecular Fingerprinting in Pediatric Sepsis
-
-Intervention: : miRNA in Sepsis — miRNA in Sepsis
-Link: https://clinicaltrials.gov/study/NCT02055105
-
-SUMMARY:
-
-
 ## NCT06793163
 Diagnosis and Allergen Identification of Perioperative Anaphylaxis: a Multicenter Prospective Cohort Study
 
@@ -623,29 +515,11 @@ Link: https://clinicaltrials.gov/study/NCT07708493
 SUMMARY:
 
 
-## NCT01619553
-Identification of Genetic Variants That Contribute to Keloid Formation in Families and Isolated Cases.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01619553
-
-SUMMARY:
-
-
 ## NCT07126444
 Effects of an Exercise Snack Intervention on Employee Health and Work Performance: A Study at Kaohsiung Medical University
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07126444
-
-SUMMARY:
-
-
-## NCT01750619
-Clinical Outcomes of the Endoscopic Resection of Premalignant and Malignant Gastrointestinal Lesions
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01750619
 
 SUMMARY:
 
@@ -673,15 +547,6 @@ Generation of Organoids of Neuroendocrine Neoplasms of the Gastro-Entero-Pancrea
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06519500
-
-SUMMARY:
-
-
-## NCT01802034
-Repository of Novel Analytes Leading to Autoimmune, Inflammatory and Diabetic Nephropathies (RENAL AID)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01802034
 
 SUMMARY:
 
@@ -957,15 +822,6 @@ Link: https://clinicaltrials.gov/study/NCT07313410
 SUMMARY:
 
 
-## NCT01780168
-The NIH Mini Study: Metabolism, INfection and Immunity in Inborn Errors of Mitochondrial Metabolism
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01780168
-
-SUMMARY:
-
-
 ## NCT06933550
 FFG PREMEDICAL (Clinical Investigation of a Medical Device According to MDR Article 82, Para.1 and Austrian Law §13 Para. 3 MPG, BGBI. I No. 122/2021 - Study Without Influence on Diagnostics/Therapy)
 
@@ -993,15 +849,6 @@ Link: https://clinicaltrials.gov/study/NCT06704490
 SUMMARY:
 
 
-## NCT02980640
-Swiss Multiple Sclerosis Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02980640
-
-SUMMARY:
-
-
 ## NCT07178860
 Respiratory Health and Wellbeing Post Pulmonary Tuberculosis
 
@@ -1016,15 +863,6 @@ Non-Invasive Testing of Blood Biomarkers in Pregnant Women
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07361380
-
-SUMMARY:
-
-
-## NCT00001846
-Collection and Distribution of Blood Components From Healthy Donors for In Vitro Research Use
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001846
 
 SUMMARY:
 
@@ -1156,29 +994,11 @@ Link: https://clinicaltrials.gov/study/NCT07743944
 SUMMARY:
 
 
-## NCT01386424
-Screening for LID Clinical Studies Unit Healthy Volunteer Protocols
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01386424
-
-SUMMARY:
-
-
 ## NCT06332677
 Targeting the Epigenetic Regulators Suv420h1/2 in Hepatocytes to Treat Nonalcoholic Fatty Liver Disease
 
 Intervention: : the main genes and expression by comparing the transcriptomic lipidomic profile — To identify the main genes and pathways differentially expressed and the main factors associ- ated in order to evaluate the role of SUV420H1/H2
 Link: https://clinicaltrials.gov/study/NCT06332677
-
-SUMMARY:
-
-
-## NCT04427462
-Linking Bioenergetic Phenotypes in Circulating Cells with Cardiometabolic Health in School-age Children
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04427462
 
 SUMMARY:
 
@@ -1237,15 +1057,6 @@ Link: https://clinicaltrials.gov/study/NCT07336017
 SUMMARY:
 
 
-## NCT01277419
-German Spondyloarthritis Inception Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01277419
-
-SUMMARY:
-
-
 ## NCT06256419
 Department of Pharmacy, the Affiliated Hospital of Xuzhou Medical University
 
@@ -1278,15 +1089,6 @@ Link: https://clinicaltrials.gov/study/NCT06162975
 SUMMARY:
 
 
-## NCT00640107
-Evaluation and Optimization of Ultrasound and/or MRI Hardware and Software in Existing SUNY Ultrasound and/or MRI Units and Newly Installed Commercially Available Units
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00640107
-
-SUMMARY:
-
-
 ## NCT06965764
 Study of Contrast - Induced Nephropathy After Intravenous Contrast Procedures at Sohag University Hospitals
 
@@ -1314,15 +1116,6 @@ Link: https://clinicaltrials.gov/study/NCT07041606
 SUMMARY:
 
 
-## NCT03981653
-Angiogenic Function at Normal Term on Placenta
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03981653
-
-SUMMARY:
-
-
 ## NCT06927193
 Regional Analgesia at the Pediatric Emergency Department
 
@@ -1346,15 +1139,6 @@ Does Preoperative Physical Activity Predict Postoperative Complications After In
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07192978
-
-SUMMARY:
-
-
-## NCT01633489
-An Observational Disease and Clinical Outcomes Registry of Patients With Lysosomal Acid Lipase (LAL) Deficiency
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01633489
 
 SUMMARY:
 
@@ -1445,15 +1229,6 @@ Long-term Surgical Treatment Outcome of Peri-implantitis Lesions
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05339789
-
-SUMMARY:
-
-
-## NCT04237701
-Retrospective and Real-Time Monitoring of Heart Failure Across the Yale New Haven Health System Via a Live Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04237701
 
 SUMMARY:
 
@@ -1566,15 +1341,6 @@ Link: https://clinicaltrials.gov/study/NCT06827314
 SUMMARY:
 
 
-## NCT04066465
-Neurocognitive Function /executive Functions After Proton Therapy in Children and Adolescents.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04066465
-
-SUMMARY:
-
-
 ## NCT06795711
 Validation and Optimisation of Ultrasound Diagnosis of Adenomyosis: a Prospective Observational Study
 
@@ -1611,15 +1377,6 @@ Link: https://clinicaltrials.gov/study/NCT07720830
 SUMMARY:
 
 
-## NCT00442195
-Procurement and Analysis of Blood, Bone Marrow, and Buccal Mucosa Samples From Healthy Volunteers to Support Clinical and Translational Research Projects in the NHLBI
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00442195
-
-SUMMARY:
-
-
 ## NCT07239063
 Validation of a High-Throughput, Large-Format, Tissue-Specific Preprocessing Protocol for Lung and Colorectal Cancer
 
@@ -1634,15 +1391,6 @@ The Association of Liver Disease With Other Systemic Diseases, Focus on Diseases
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04525833
-
-SUMMARY:
-
-
-## NCT03797495
-Hypoplasminogenemia: An International RetroSpecTive and PrOspective CohoRt StudY (HISTORY)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03797495
 
 SUMMARY:
 
@@ -1747,29 +1495,11 @@ Link: https://clinicaltrials.gov/study/NCT07254312
 SUMMARY:
 
 
-## NCT04455906
-Mechanisms of Increased Disease Severity in AD Patients With the IL-4Ra R576 Polymorphism
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04455906
-
-SUMMARY:
-
-
 ## NCT06875167
 Semi-closed Loop Automated Insulin Therapy in the Pediatric Population Aged 2-6 Years With Type 1 Diabetes: Impact on Quality of Life and Glycemic Control
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06875167
-
-SUMMARY:
-
-
-## NCT03473912
-Rheumatologic Biobank for Clinical and Basic Research: Isolation, Extraction and Storage of Protein, DNA and RNA Extracted From Tissues of Patients With Rheumatoid Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03473912
 
 SUMMARY:
 
@@ -1801,29 +1531,11 @@ Link: https://clinicaltrials.gov/study/NCT07429344
 SUMMARY:
 
 
-## NCT02012699
-Integrated Cancer Repository for Cancer Research
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02012699
-
-SUMMARY:
-
-
 ## NCT06777914
 Familial Intrahepatic Cholestasis-related Genes Associated with Disease Susceptibility in Hepato-biliary Cancers
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06777914
-
-SUMMARY:
-
-
-## NCT03030755
-Corneal Elastography and Patient Specific Modeling
-
-Intervention: : Optical coherence tomography
-Link: https://clinicaltrials.gov/study/NCT03030755
 
 SUMMARY:
 
@@ -1882,24 +1594,6 @@ Link: https://clinicaltrials.gov/study/NCT06576284
 SUMMARY:
 
 
-## NCT01109368
-The Rogosin Institute Homozygous Familial Hypercholesterolemia Repository
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01109368
-
-SUMMARY:
-
-
-## NCT04190849
-The European Paediatric Non-alcoholic Fatty Liver Disease Registry (EU-PNAFLD): a Prospective, Longitudinal Follow-up of Children With Non-alcoholic Fatty Liver Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04190849
-
-SUMMARY:
-
-
 ## NCT07177742
 Prospective Cohort Study on the Relationship Between Peroxiredoxin 1 (PRDX1) in Blood Exosomes From Colorectal Cancer Radical Resection Specimens and Postoperative Liver Metastasis
 
@@ -1950,15 +1644,6 @@ Screening of Valvular Heart Disease Using Single-channel Electrocardiogram Analy
 
 Intervention: : No intervention (observational study) — No intervention (observational study)
 Link: https://clinicaltrials.gov/study/NCT07099417
-
-SUMMARY:
-
-
-## NCT04006418
-A Registered Cohort Study on Spastic Paraplegia
-
-Intervention: : 
-Link: https://clinicaltrials.gov/study/NCT04006418
 
 SUMMARY:
 
@@ -2058,15 +1743,6 @@ Prevalence and Long Tem Follow up of ATTR Cardiac Amyloidosis in a Selected Popu
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06458374
-
-SUMMARY:
-
-
-## NCT02329210
-Clinical Registry Investigating Bardet-Biedl Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02329210
 
 SUMMARY:
 

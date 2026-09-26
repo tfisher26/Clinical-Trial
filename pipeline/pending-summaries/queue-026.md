@@ -50,17 +50,6 @@ Link: https://clinicaltrials.gov/study/NCT05884333
 SUMMARY:
 
 
-## NCT04049890
-Development and Validation of a New Instrument to Evaluate Parents' Adjustment to Their Child's Chronic Disease: the Family Adjustment Inventory
-
-Intervention: : FAI-O — Administration of Family Adjustment Inventory in the version "Only-child"
-: FAI-S — Administration of Family Adjustment Inventory in the version "Sibling"
-: Personal Data Questionnaire — This form requires informations about child, respondent and partner (if any), and evaluates the presence of any distressful event happened during the last year
-Link: https://clinicaltrials.gov/study/NCT04049890
-
-SUMMARY:
-
-
 ## NCT06696625
 Transcutaneous Auricular Vagus Nerve Stimulation in Dry Eye: a Randomized Clinical Trial
 
@@ -140,17 +129,6 @@ Link: https://clinicaltrials.gov/study/NCT07229729
 SUMMARY:
 
 
-## NCT02966886
-Comparison of Shoulder Arthroplasty Techniques in the Treatment of Glenohumeral Osteoarthritis: Protocol
-
-Intervention: : Eccentric Reaming — Pre-operative CT imaging and surgical planning software based on pre-operative CT scans will be used in each case to determine the degree of eccentric ("high side") anterior reaming to within \< 10 degrees of neutral glenoid version.
-: Augmented Glenoid Component Implantation — Patients will undergo standard glenoid preparation and implantation of a posteriorly augmented glenoid component. The degree of posterior augment will be based on pre-operative CT scan assessment and templating software with the goal of correcting glenoid retroversion to within 10 degrees of neutral version.
-: Posterior Glenoid Bone Grafting — Patient will undergo a total shoulder arthroplasty as per standard technique. Glenoid version will be restored to within 10 degrees of neutral with a posterior glenoid bone graft. The bone graft will be harvested from the humeral head and fixed to the posterior glenoid with mini-fragment screws.
-Link: https://clinicaltrials.gov/study/NCT02966886
-
-SUMMARY:
-
-
 ## NCT06583408
 The REgistry of Very Early Estrogen and AnovuLation
 
@@ -222,17 +200,6 @@ Link: https://clinicaltrials.gov/study/NCT06997276
 SUMMARY:
 
 
-## NCT04390308
-Is There A Role For Mechanical Stimulation In Ovarian Follicular Activation? A Randomized Control Trial.
-
-Intervention: : Ovarian puncture — Egg collection
-: Hormonal blood Test — AMH (ng/ml), FSH (IU/mL), E2(pg/mL), P4(ng/mL), LH (IU/mL)
-: Transvaginal ultrasound — Doppler of arteria ovarica. Resistance index
-Link: https://clinicaltrials.gov/study/NCT04390308
-
-SUMMARY:
-
-
 ## NCT07732608
 PROSPECT: A Registry and Longitudinal Natural History Study of Individuals at Risk for Genetic Prion Disease
 
@@ -260,29 +227,11 @@ Link: https://clinicaltrials.gov/study/NCT06275789
 SUMMARY:
 
 
-## NCT04055818
-Proof-of-concept Study of Nicotinamide and Oral Tetrahydrouridine (THU) and Decitabine to Treat High Risk Sickle Cell Disease
-
-Intervention: : Nicotinamide — Oral nicotinamide (Vitamin B3) alone compared to THU Decitabine combination
-Link: https://clinicaltrials.gov/study/NCT04055818
-
-SUMMARY:
-
-
 ## NCT06604650
 Community Park-Based Programs for Health Promotion: Active Older Adults Prospective Cohort Study
 
 Intervention: : Active older Adults — The program entails one-hour sessions two or three times per week including aerobic workout, strength training, balance and flexibility exercise delivered online or in-person. Miami-Dade Parks and Recreation is the sponsor of the Active Older Adults prospective cohort study. Duke is conducting a secondary data analysis on data collected as part of the Active Older Adults study.
 Link: https://clinicaltrials.gov/study/NCT06604650
-
-SUMMARY:
-
-
-## NCT02978521
-Effect of a Pulmonary Rehabilitation Program on Skeletal Muscle Mass, Pulmonary Function, Inflammatory Response and Overall Survival on Patients Diagnosed With Non-small-cell Advanced Cancer
-
-Intervention: : Pulmonary rehabilitation — Session 1: ventilatory pattern training Session 2,3: ventilatory pattern + respiratory training with incentive spirometer Session 4-6: Sessions 1-3 training continues + training with Positive expiratory pressure device (Threshold PEP) and breathing trainer Threshold IMT) Sessions 7-9: Continue respiratory training + resistance training with RECK MOTOmed2 ergometer at a 30% intensity until 60% is achieved Session 10-12: Continue with previous training + treadmill training
-Link: https://clinicaltrials.gov/study/NCT02978521
 
 SUMMARY:
 
@@ -371,27 +320,6 @@ Link: https://clinicaltrials.gov/study/NCT07115225
 SUMMARY:
 
 
-## NCT03827876
-An Open-Label Study Evaluating Enstilar® (Calcipotriene and Betamethasone Dipropionate) Foam, 0.005%/0.064% QD in Psoriasis Patients Being Treated With Etanercept or Adalimumab
-
-Intervention: : Enstilar 0.005%-0.064% Topical Foam — Enstilar 0.005%-0.064% Topical Foam applied once daily for 4 weeks followed by QOD for 12 weeks for patients receiving Enbrel or Humira
-Link: https://clinicaltrials.gov/study/NCT03827876
-
-SUMMARY:
-
-
-## NCT02530983
-Mayo Clinic Upper Digestive Disease Survey
-
-Intervention: : Mayo Clinic Upper Digestive Disease Survey on Paper — Mayo Clinic patients will be asked to complete the Mayo Clinic Upper Digestive Disease Survey at their one month surgical follow up visit and then every three months for 1 year after surgery, then with each surveillance clinic visit or a minimum of once per year for their lifetime. The questionnaire can be completed at their clinic visit, over the telephone, or by mail. The patient's medical record will also be reviewed to gather any other contributing information.
-: Upper Digestive Disease (UDD Monitor) App — Mayo Clinic and non Mayo Clinic patients can participate by loading the app through the app store. Patient consent will be completed in the app. Patients will be asked to complete questionnaires at their 1.5 month surgical or diagnosis follow up and then every three months for 1 year after their surgery or diagnosis, then with each surveillance clinic visit or a minimum of once per year for their lifetime or as long as they want to participate.
-
-for iOS: https://apps.apple.com/us/app/upper-digestive-disease/id6448756724 for Android: https://play.google.com/store/apps/details?id=com.mayoclinic.uddmobile\&pli=1
-Link: https://clinicaltrials.gov/study/NCT02530983
-
-SUMMARY:
-
-
 ## NCT05816850
 Multilayer Biological Characterization of Advanced Follicular Lymphoma: a Translational Study From FIL_FOLL12 Trial
 
@@ -409,19 +337,6 @@ Intervention: : Total Pulpotomy — Total pulpotomy procedures explained in arm 
 : Radicular pulpotomy — Radicular pulpotomy procedures explained in arm descriptions.
 : Root canal treatment — Root canal treatment procedures explained in arm descriptions.
 Link: https://clinicaltrials.gov/study/NCT07375576
-
-SUMMARY:
-
-
-## NCT03713866
-Peri-Procedural Transmural Electrophysiological Imaging of Scar-Related Ventricular Tachycardia
-
-Intervention: : EP Imaging and Testing — Magnetic Resonance Imaging: pre-procedure imaging is standard care prior to catheter ablation procedures for VT to document anatomy of the heart.
-
-120-Lead Body Surface Mapping: a 120-lead ECG will be recorded using a standardized mapping protocol. 120 disposable radiolucent silver chloride (Ag/AgCl) surface electrodes will be placed on the torso in 18 strips and connected via cables to an advanced acquisition system.
-
-Noninvasive programmed stimulation (NIPS) study will be performed using the patient's implanted defibrillator, and is part of standard practice during a VT catheter ablation.
-Link: https://clinicaltrials.gov/study/NCT03713866
 
 SUMMARY:
 
@@ -750,15 +665,6 @@ National Implementation of Highly Efficient Evidence-Informed Treatment for Yout
 
 Intervention: : Guided Self Help Family Based Therapy (GSH FBT) — Each family will participate in ten virtual sessions of GSH FBT with a trained GSH practitioner local to their provincial study site. Parents will meet their coach for a 60-minute onboarding session where the parents/caregivers are familiarized with the video platform used in treatment. Then, the treatment consists of ten virtual 20-minute sessions over 6 months. In GSH FBT, the parents weigh the adolescent patient prior to the session, on the same day as the session, and report the weight to the coach. Throughout treatment, parents have access to an online platform with a series of videos that outline the core components of FBT: the urgency to act, parental empowerment, medical complications, strategies to use during and after mealtime, and how to externalize the illness. In line with GSH approaches, coach-therapists direct parents to watch or review videos and text content rather than directly affecting behavioral change.
 Link: https://clinicaltrials.gov/study/NCT06851273
-
-SUMMARY:
-
-
-## NCT04365751
-A Prospective Multicenter Cohort Control Study of Percutaneous Microwave Ablation and Laparoscopic Resection for Hepatocellular Carcinoma With a Diameter of 3.1 ~ 5.0cm
-
-Intervention: : Percutaneous microwave ablation, Laparoscopic hepatectomy — For patients with hepatocellular carcinoma who meet the enrollment requirements, under the guidance of ultrasound, microwave ablation electrodes were implanted into the tumor tissues by percutaneous puncture, and the high-temperature heat energy was generated to cause coagulation necrosis of the tumor, so as to achieve the goal of local tumor treatment with minimally invasive technology.
-Link: https://clinicaltrials.gov/study/NCT04365751
 
 SUMMARY:
 
@@ -1152,16 +1058,6 @@ Link: https://clinicaltrials.gov/study/NCT05401227
 SUMMARY:
 
 
-## NCT04335994
-ENhancing Outcomes in Cognitive Impairment Through Use of Home Sleep ApNea Testing: A Randomized Controlled Trial (ENCHANT Study)
-
-Intervention: : In-laboratory polysomnography — Level 1 in-laboratory polysomnography for the detection of obstructive sleep apnea.
-: Home Sleep Apnea Test — Use of a home sleep apnea test that records respiratory effort, pulse, oxygen saturation and nasal flow, and reports apneas, hypopneas, flow limitation, snoring and blood oxygen saturation in order to detect obstructive sleep apnea.
-Link: https://clinicaltrials.gov/study/NCT04335994
-
-SUMMARY:
-
-
 ## NCT06983808
 The PREBEAT Trial: Digital PREhaBilitation in thE Cardiac Surgical populATion
 
@@ -1418,15 +1314,6 @@ Link: https://clinicaltrials.gov/study/NCT06937905
 SUMMARY:
 
 
-## NCT03366168
-A Pilot Study of Taste Bud-Derived Stem Cells in Humans
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03366168
-
-SUMMARY:
-
-
 ## NCT07774390
 Long-Term Outcomes of Ibrutinib Plus Venetoclax in Patients With Chronic Lymphocytic Leukemia in Routine Clinical Practice
 
@@ -1500,15 +1387,6 @@ Intervention: : bone densitometric examination using REMS technology — An asse
 Thanks to an innovative parameter called Fragility Score (FS), intrinsically correlated with bone quality and independent of BMD, REMS allows assessment of bone fragility and its resulting fracture risk, representing a useful diagnostic tool also in predicting the risk of fragility fractures.
 : questionnaires — Specific questionnaires developed by the Fragility Fracture Observatory (OFF) will be administered. Their purpose is to assess all risk factors that could lead to fractures during pregnancy, as well as to evaluate both dietary habits and adherence to the Mediterranean diet
 Link: https://clinicaltrials.gov/study/NCT07508553
-
-SUMMARY:
-
-
-## NCT04050345
-Tracking Mutations in Cell Free Tumour DNA to Predict Relapse in Early Colorectal Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04050345
 
 SUMMARY:
 
@@ -1606,15 +1484,6 @@ Link: https://clinicaltrials.gov/study/NCT05636969
 SUMMARY:
 
 
-## NCT03209791
-Mechanisms of Skeletal Muscle Proteolysis With Ethanol Consumption: an Integrated Molecular Metabolic Approach
-
-Intervention: : Biopsies — Biopsy will be done on the Vastus Lateralis muscle in all groups
-Link: https://clinicaltrials.gov/study/NCT03209791
-
-SUMMARY:
-
-
 ## NCT06375369
 Adoption and Enhancement of a Care Pathway for Children With Medical Complexity: an Implementation Evaluation Project for Tracheostomy in Pediatrics
 
@@ -1672,15 +1541,6 @@ Link: https://clinicaltrials.gov/study/NCT07028112
 SUMMARY:
 
 
-## NCT04242017
-A Randomized, Multicenter, Prospective Phase II Trial to Assess the Effect of Short- Versus Long-term Adjuvant ADT With High Dose Salvage Radiotherapy on Distant Metastasis Free Survival in Patients With Biochemical Relapse After Radical Prostatectomy
-
-Intervention: : Triptoreline — Comparison of the duration of ADT (Triptoreline)
-Link: https://clinicaltrials.gov/study/NCT04242017
-
-SUMMARY:
-
-
 ## NCT05787197
 Circulating Tumor DNA in Patients With Colorectal Cancer Undergoing Curative-intent Surgery for Liver Metastases: Prospective, Multicenter, GERCOR Cohort
 
@@ -1732,15 +1592,6 @@ Link: https://clinicaltrials.gov/study/NCT07472244
 SUMMARY:
 
 
-## NCT00001186
-Psychological Benefits of a Normalized Camping Experience for Children With Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001186
-
-SUMMARY:
-
-
 ## NCT06598891
 Effect of Combined PAS Balance Training on Individuals With PD
 
@@ -1776,15 +1627,6 @@ An Open-Label, Phase 2 Study of NEO100 in Participants With Residual, Progressiv
 
 Intervention: : NEO100 — NEO100 is a purified form of perillyl alcohol.
 Link: https://clinicaltrials.gov/study/NCT05023018
-
-SUMMARY:
-
-
-## NCT02329093
-Non-weight Bearing in Hip Joint With Accompanying Joint Pain Might Not Progress Radiographic OA
-
-Intervention: : To MRI-detecting bone signal changes in radiographic hip OA — To examine whether or not non-weight bearing reduced OA progression
-Link: https://clinicaltrials.gov/study/NCT02329093
 
 SUMMARY:
 
@@ -1855,15 +1697,6 @@ A Long-Term Follow-up Study for Subjects With Chronic Hepatitis B Previously Tre
 
 Intervention: : Non-interventional — This is a rollover study
 Link: https://clinicaltrials.gov/study/NCT06277037
-
-SUMMARY:
-
-
-## NCT01964261
-A Feasibility Study of the Ability of the Neural Prosthetic System 2 to Provide Direct Closed Loop Cortical Control of Extracorporeal Devices Through the Use of Intracortical Microstimulation in Patients With Quadriplegia
-
-Intervention: : Neural Prosthetic System 2 (NPS2) — The NPS2 comprises 3 NeuroPort Arrays (SIROF). The tip of the electrodes are sputtered iridium oxide film (SIROF). Each array is comprised of 100 1.5 mm microelectrodes organized on a 4mm x 4mm silicon base that is 0.25 mm thick. Each microelectrode is insulated with Parylene-C polymer and is electrically isolated from neighboring electrodes by non-conducting glass. Of the 100 electrodes, 96 are wire bonded using 25m gold alloy insulated wires sealed with a silicone elastomer. The wire bundle is potted to a printed circuit board with epoxy, the circuit board is inserted into the Patient Pedestal (percutaneous connector), and then the Patient Pedestal is filled with silicone elastomer. Two fine platinum reference wires are also attached to the Patient Pedestal. The Patient Pedestal is 19 mm wide at the skin interface.
-Link: https://clinicaltrials.gov/study/NCT01964261
 
 SUMMARY:
 
@@ -1939,15 +1772,6 @@ Link: https://clinicaltrials.gov/study/NCT04580420
 SUMMARY:
 
 
-## NCT04425421
-Recommendations for the Treatment of Children With Burkitt's Lymphoma
-
-Intervention: : OBSERVATIONAL — OBSERVAITON OF THE CAPACITY OF THE GROUP TO TREAT ACCORDING TO THE PROTOCOLE AND LOOK AT OUTCOME FOR STAGE I AND II DISEASE
-Link: https://clinicaltrials.gov/study/NCT04425421
-
-SUMMARY:
-
-
 ## NCT06145477
 Parenting for Tomorrow: A New Model for Supporting Preschool Children's Mental Health in Head Start
 
@@ -1976,15 +1800,6 @@ Intervention: : Pain pump — Spinal catheter place under local anesthesia.
 
 Currently, there are six manufacturers of spinal cord stimulation devices with implanted programmable generators or receivers.
 Link: https://clinicaltrials.gov/study/NCT07091123
-
-SUMMARY:
-
-
-## NCT04320732
-Risk Factors for Community- and Workplace Transmission of COVID-19
-
-Intervention: : Observation of behavior and COVID-19 infection will be conducted. — No intervention, only prospective observation of behavior will be conducted by a questionnaire.
-Link: https://clinicaltrials.gov/study/NCT04320732
 
 SUMMARY:
 
@@ -2095,15 +1910,6 @@ Link: https://clinicaltrials.gov/study/NCT07441226
 SUMMARY:
 
 
-## NCT02237625
-Natural History Study of Adult and Pediatric Patients With Hypophosphatasia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02237625
-
-SUMMARY:
-
-
 ## NCT07119203
 Surgical Techniques: Robotic Versus Conventional Laparoscopic Cholecystectomy IN Benign Gallbladder Disease: A Randomized Controlled, Open, Parallel, Non-inferiority, Single-center Trial (STaRLING Trial)
 
@@ -2129,15 +1935,6 @@ A Phase 1b, Open-label, Multicenter Dose-escalation Study to Evaluate the Safety
 
 Intervention: : ASP2020 — Subretinal Injection
 Link: https://clinicaltrials.gov/study/NCT07734064
-
-SUMMARY:
-
-
-## NCT00001403
-The Phenotype and Etiology of Proteus Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001403
 
 SUMMARY:
 
@@ -2307,16 +2104,6 @@ Link: https://clinicaltrials.gov/study/NCT06799403
 SUMMARY:
 
 
-## NCT03917303
-Control Crohn Safe With Episodic Adalimumab Monotherapy as First Line Treatment Study.
-
-Intervention: : Adalimumab — episodic treatment with subcutaneous adalimumab for 6 months
-: standard step-up care — conventional step-up care starting with corticosteroids
-Link: https://clinicaltrials.gov/study/NCT03917303
-
-SUMMARY:
-
-
 ## NCT07053826
 Prospective, Randomized, Controlled Trial to Evaluate the Effect of Preoperative Penile Traction Therapy on Post-penile Implant Length and Patient Satisfaction
 
@@ -2389,15 +2176,6 @@ Trial of Endovascular Treatment in Acute Basilar Artery Occlusion Patients With 
 
 Intervention: : Endovascular Treatment — The vascular access route is selected based on the patient's anatomical characteristics and operator discretion. Endovascular treatment (EVT) procedures must adhere to each participating center's standardized operating protocols. Upon confirmation of vascular occlusion, EVT may be performed using devices approved by China's National Medical Products Administration (NMPA). Based on lesion-specific features and operator judgment, permissible techniques include stent retriever thrombectomy, aspiration thrombectomy, balloon angioplasty with or without stenting, or intra-arterial thrombolysis. Investigational devices are strictly prohibited.
 Link: https://clinicaltrials.gov/study/NCT07090941
-
-SUMMARY:
-
-
-## NCT03381794
-Trends in Corneal Transplantation From 2001 in Germany: Reports of the DOG-Section Cornea and Its Keratoplasty Registry
-
-Intervention: : Corneal transplantation — PKP: Penetrating Keratoplasty DALK: Deep Anterior Lamellar Keratoplasty DMEK: Descemet Membrane Endothelial Keratoplasty DSAEK: Descemet's Stripping Automated Endothelial Keratoplasty
-Link: https://clinicaltrials.gov/study/NCT03381794
 
 SUMMARY:
 
@@ -2544,29 +2322,11 @@ Link: https://clinicaltrials.gov/study/NCT06295120
 SUMMARY:
 
 
-## NCT03992625
-Clinical Outcomes for Deep Brain Stimulation for Parkinson Disease, Tremor, and Dystonia
-
-Intervention: : Deep Brain Stimulation — High frequency electrical stimulation of deep brain nuclei for the treatment of movement disorders
-Link: https://clinicaltrials.gov/study/NCT03992625
-
-SUMMARY:
-
-
 ## NCT07469059
 Characterization of Renal Microvascular Alterations in Patients With Active Urinary Sediment and/or Proteinuria Using Ultrasound Localization Microscopy
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07469059
-
-SUMMARY:
-
-
-## NCT01192048
-Genetic Testing of Individuals and Families With Congenital Heart Disease
-
-Intervention: : Blood Sample Collection — Blood sample collection for direct sequencing, microarray, single nucleotide polymorphism, whole-genome array comparative genomic hybridization DNA analyses, and/or whole exome or genome sequencing.
-Link: https://clinicaltrials.gov/study/NCT01192048
 
 SUMMARY:
 
@@ -2746,15 +2506,6 @@ Glycemic Effects of Substituting Pecans for Snacks Higher in Saturated Fat and A
 Intervention: : Pecan snacking — Replacement of typically consumed snacks with 1.5 oz/day of pecans
 : Usual diet — Continue with usual diet
 Link: https://clinicaltrials.gov/study/NCT07235358
-
-SUMMARY:
-
-
-## NCT04036357
-Progression of LIver Damage and Cardiometabolic Disorders in Non-alcoholic Fatty Liver dIsease: an Observational Cohort STUDY. The Plinio Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04036357
 
 SUMMARY:
 
@@ -2996,15 +2747,6 @@ Fibroblast Growth Factor 23 and Risk of Cardiac Arrhythmias in Hemodialysis Pati
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06668831
-
-SUMMARY:
-
-
-## NCT04276870
-CD19-Directed Chimeric Antigen Receptor CD19 Redirected Autologous T Cells (CART19) for Orphan Indications of Pediatric B Cell Acute Lymphoblastic Leukemia (B ALL)
-
-Intervention: : Murine CART19 — CART19 cells transduced with a lentiviral vector to express anti-CD19 scFv:41-BB:TCRζ, administered by IV injection with a planned dose of 5x106 CART19 cells/kg on day 0 with possible reinfusion/retreatment
-Link: https://clinicaltrials.gov/study/NCT04276870
 
 SUMMARY:
 

@@ -220,15 +220,6 @@ Link: https://clinicaltrials.gov/study/NCT06069505
 SUMMARY:
 
 
-## NCT03460366
-Bariatric Surgery and Pharmacokinetics Enalapril: BAR-MEDS Enalapril
-
-Intervention: : Enalapril — Patients are tested for their normal prescription enalapril medication
-Link: https://clinicaltrials.gov/study/NCT03460366
-
-SUMMARY:
-
-
 ## NCT07067164
 Clinical Performance of Highly Viscous Glass Ionomer Versus Bulk Fill Resin Composite Restorative Materials in Moderate Class II Cavities of Permanent Posterior Teeth " A 12-Month Randomized Clinical Study"
 
@@ -329,15 +320,6 @@ Link: https://clinicaltrials.gov/study/NCT07606339
 SUMMARY:
 
 
-## NCT02250352
-Core Biopsies of Breast Tumor Tissue Repository
-
-Intervention: : cytology specimen collection procedure — Correlative studies
-Link: https://clinicaltrials.gov/study/NCT02250352
-
-SUMMARY:
-
-
 ## NCT06685094
 Cross-cultural Adaptation, Translation and Validation of the Assessment Scales of the Upper and Lower Limbs, Pain, Autonomy, Depression, Anxiety and Quality of Life for Use in the Albanian-speaking Population
 
@@ -387,24 +369,6 @@ Solriamfetol for the Treatment of Fatigue in Patients With Multiple Sclerosis an
 Intervention: : Solriamfetol — solriamfetol 75 mg daily for 3 days and will increase the dose to 150 mg daily starting on day 4 of the treatment period (total of four weeks)
 : Placebo — Four weeks of oral placebo
 Link: https://clinicaltrials.gov/study/NCT06170970
-
-SUMMARY:
-
-
-## NCT02677961
-An Electronic Health Record (EHR)-Based Comprehensive Bone and Soft Tissue Tumor Registry
-
-Intervention: : Observation
-Link: https://clinicaltrials.gov/study/NCT02677961
-
-SUMMARY:
-
-
-## NCT02670408
-Diagnostic and Therapeutic Applications of Microarrays in Heart Transplantation, a Multicenter Study (INTERHEART)
-
-Intervention: : Endomyocardial biopsy — One of several endomyocardial biopsy bites taken as the standard of care. We are asking now for two endomyocardial biopsy bites, to determine tissue sampling variability.
-Link: https://clinicaltrials.gov/study/NCT02670408
 
 SUMMARY:
 
@@ -504,25 +468,6 @@ Comparison of Efficacy of Topical Insulin With Amniotic Membrane Transplant in P
 Intervention: : Topical insulin eye drops — Topical Insulin eye drops will be administered every 6 hours till healing of corneal epithelial defects
 : Amniotic Membrane Graft — Surgically amniotic membrane grafts will be applied to bridge and heal the corneal defects
 Link: https://clinicaltrials.gov/study/NCT07561398
-
-SUMMARY:
-
-
-## NCT03898596
-Umbilical Vessel Catheterization Under ECG Monitoring and Guidance
-
-Intervention: : ECG — An ECG collects superficial readings of heart activity
-Link: https://clinicaltrials.gov/study/NCT03898596
-
-SUMMARY:
-
-
-## NCT04040920
-The Effect of Ozone Application Before Fissure Sealants: a Split Mouth Randomized Controlled Trial
-
-Intervention: : Ozone — One minute of pretreatment with ozone by using the OzoneDTA device
-: Pits and fissure sealants — cleansing of the occlusal surfaces with a nylon brush and polishing toothpaste; surface etching with 36% orthophosphoric acid for 30'', surface cleaning and drying for 30 '', application of the sealing material, polymerization for 60'';
-Link: https://clinicaltrials.gov/study/NCT04040920
 
 SUMMARY:
 
@@ -783,15 +728,6 @@ Link: https://clinicaltrials.gov/study/NCT07027709
 SUMMARY:
 
 
-## NCT02570815
-Near-Infrared Fluorescence Guided Robotic Pulmonary Segmentectomy for Early Stage Lung Cancer: Analysis of Accuracy and Added Value
-
-Intervention: : indocyanine green — ICG will be prepared as a sterile solution (2.5 mg/10mL) for injection. After vascular ligation, a 6 to 8mL bolus of ICG solution will be injected into the peripheral vein catheter, followed by a 10mL saline solution bolus. The Firefly camera will then be used for the NIF imaging. It is expected that the entire lung, except the segment which was previously isolated from blood supply, will fluoresce within 30-40 seconds, exhibiting a green hue. The surgeon will perform the pulmonary resection and the resected 'dark' lung segment will be immediately evaluated by a pathologist, depending on the pathologist findings the operation may be concluded or the patient will receive a pulmonary lobectomy.
-Link: https://clinicaltrials.gov/study/NCT02570815
-
-SUMMARY:
-
-
 ## NCT07263113
 Evaluation of the Association Between the Effects of Generalized Stage 3 and 4 Periodontitis on Arterial Stiffness and Cardiovascular Risk: the PAROCAR Study
 
@@ -816,19 +752,6 @@ Objectifying Performance Assessments and Personalized Rehabilitation Trajectorie
 Intervention: : Usual Care trajectory — Usual care after Spinal Cord Stimulation implantation
 : A biopsychosocial rehabilitation program — A personalized biopsychosocial rehabilitation program specifically targeting return to work.
 Link: https://clinicaltrials.gov/study/NCT05269212
-
-SUMMARY:
-
-
-## NCT04081896
-Evaluation of the Effects of Exercise-based Rehabilitation in Individuals with Spine Pain
-
-Intervention: : Exercise — Exercise prescribed to participants includes spine-specific strengthening exercises targeting core musculature (i.e. Multifidus, Erector Spinae, Transversus Abdominus, Obliques, and Rectus Abdominus). The in-clinic exercise program recommends a minimum of 20 visits at 2 visits/week, with a goal of 24 total visits over a 12-week period. Exercise is progressed by 5-10% of their exercise load once they are able to do \>20 repetitions. If they are able to reach \>10 but \<20 repetitions, exercise load remains the same. If they are unable to reach 10 repetitions, exercise load is decreased 5-10% at their next visit.
-
-The online exercise program includes non-machine based home exercises targeting the same muscles of interest, and are personalized to each participant based on their home resources and comfort level.
-
-Concurrent interventions may or may not include nutrition education, mindfulness, cognitive behavioral therapy.
-Link: https://clinicaltrials.gov/study/NCT04081896
 
 SUMMARY:
 
@@ -1321,16 +1244,6 @@ Link: https://clinicaltrials.gov/study/NCT07432165
 SUMMARY:
 
 
-## NCT03415828
-Intradiscal Gelified Ethanol Versus Intradiscal Steroid in Refractory Lumbar Discogenic Pain: a Randomized Single-blind Study
-
-Intervention: : Ethanol gel — Intradiscal injection of ethanol gel
-: Prednisolone acetate — Intradiscal infiltration of steroids
-Link: https://clinicaltrials.gov/study/NCT03415828
-
-SUMMARY:
-
-
 ## NCT06828692
 Implementation of Machine Learning and Hemodynamic Profiles Based Clinical Decision Support Systems for Personalized Guideline Accordant Antihypertensive Regimens in Primary Care: a Pragmatic Cluster Randomized Controlled Trial
 
@@ -1522,16 +1435,6 @@ Link: https://clinicaltrials.gov/study/NCT07196644
 SUMMARY:
 
 
-## NCT04196244
-INtravenous Contrast Computed Tomography Versus Native Computed Tomography in Patients With Acute Abdomen and Impaired Renal functiOn (INCARO) - a Multicentre, Open-label, Randomised Controlled Trial
-
-Intervention: : Abdominal or body CT with intravenous contrast — Abdominal or body CT with intravenous contrast
-: Abdominal or body CT without intravenous contrast (native CT) — Abdominal or body CT without intravenous contrast (native CT)
-Link: https://clinicaltrials.gov/study/NCT04196244
-
-SUMMARY:
-
-
 ## NCT07294014
 Investigation of Medial Longitudinal Arch and Foot Function in Patients With Lipedema: A Cross-Sectional Study
 
@@ -1715,15 +1618,6 @@ Link: https://clinicaltrials.gov/study/NCT07308639
 SUMMARY:
 
 
-## NCT04449991
-Per-protocol Repeat Kidney Biopsy in Incident Cases of Lupus Nephritis
-
-Intervention: : Repeat kidney biopsy — Intensification of immunosuppression if NIH AI \> 3
-Link: https://clinicaltrials.gov/study/NCT04449991
-
-SUMMARY:
-
-
 ## NCT06350292
 SLEEP-COPE: Sleep Enhancement and Effective Parenting for Children with Oppositional and Problematic Expressions
 
@@ -1776,19 +1670,6 @@ BoneFit: A Student-led Multimodal Prehabilitation Service for Orthopaedic Surgic
 Intervention: : Experimental: BoneFit intervention — Exercise, nutrition and psychological support provided in 8 weeks prior to surgery
 : Placebo Comparator: Control — Control group receive usual care (zero intervention)
 Link: https://clinicaltrials.gov/study/NCT06341920
-
-SUMMARY:
-
-
-## NCT04218409
-Opioid-Sparing and Pain-Reducing Properties of Syntocinon: A Dose-Effect Determination
-
-Intervention: : OxyCODONE 5 mg Oral Tablet — Oral oxycodone 5 mg orally
-: Oxytocin nasal spray — Intranasal oxytocin administration (48 IU)
-: Placebo Oxycodone — Oxycodone 0 mg orally
-: Placebo oxytocin — Intranasal placebo administration
-: OxyCODONE 2.5 mg Oral Tablet — Oral oxycodone 2.5 mg orally
-Link: https://clinicaltrials.gov/study/NCT04218409
 
 SUMMARY:
 
@@ -2157,15 +2038,6 @@ Link: https://clinicaltrials.gov/study/NCT06122233
 SUMMARY:
 
 
-## NCT02610439
-Exploratory Next Generation Sequencing to Identify Causative Variants for Taxane-Induced Peripheral Neuropathy From Breast Cancer Study E5103 Germline DNA Samples
-
-Intervention: : Laboratory Biomarker Analysis — Correlative studies
-Link: https://clinicaltrials.gov/study/NCT02610439
-
-SUMMARY:
-
-
 ## NCT07482228
 Long-Term Cardiovascular and Cerebrovascular Outcomes After Retinal Artery Occlusion: A Nationwide Study
 
@@ -2293,15 +2165,6 @@ Impact of Skipping Rope and Informational Pamphlet on Physical Activity Among Ad
 
 Intervention: : Skipping rope and informational pamphlet — The provision of a skipping rope and an informational pamphlet to the intervention arm participants will happen during the participant interview within the overall DASH cohort study. The enumerator conducting the survey interview will provide each participant in the intervention group with a skipping rope and pamphlet and will read a short script explaining how to use the rope, outlining the main benefits of physical activity for adolescents, and asking participants to read the pamphlet in their own time.
 Link: https://clinicaltrials.gov/study/NCT06516549
-
-SUMMARY:
-
-
-## NCT04429100
-Assessment of Fibrosis by Non-invasive Quantitative Imaging of Collagen in the Liver Using Breath-hold MRI With Comparison With MR Elastography and Liver Biopsy
-
-Intervention: : Magnetic Resonance Imaging — One novel MRI sequence, i.e. the quantitative imaging of macromolecular proton fraction (MPF), will be introduced into this study. MPF is defined as the relative amount of protons associated with macromolecules involved in magnetization exchange with free water protons. This parameter is independent of the pool model used for quantification and the pulse sequences used for data acquisition. Recent studies have found a strong association between MPF and collagen content in the fibrotic liver, indicating MPF is a potential biomarker of early-stage liver fibrosis.
-Link: https://clinicaltrials.gov/study/NCT04429100
 
 SUMMARY:
 
@@ -2467,16 +2330,6 @@ Combining Machine Learning and Ecological Momentary Assessment of Depression, Co
 
 Intervention: : Ecological Momentary Assessment based Self-management Program — The research team collects participants' EMA data (ie., depression, cognitive function, daily activity, and contextual data) from participants for 7-day and analyze the data by machine learning in the first phase, while provide real-time, individualized, self-care messages to the participants via a personalized self-care AI app in the second phase.
 Link: https://clinicaltrials.gov/study/NCT07691411
-
-SUMMARY:
-
-
-## NCT04179981
-Impact of Positive Airway Pressure Therapy on Clinical Outcomes in Older Veterans With Chronic Obstructive Pulmonary Disease and Comorbid Obstructive Sleep Apnea (Overlap Syndrome)
-
-Intervention: : Positive airway pressure — Positive airway pressure therapy. OVS patients randomized to PAP therapy arm will be titrated to optimal PAP therapy per standard protocol and assigned to use PAP therapy.
-: Conservative care (control arm) — Eligible OVS patients will receive conservative care/usual care with education about sleep apnea and sleep hygiene via handouts and video instructions. This is the control arm.
-Link: https://clinicaltrials.gov/study/NCT04179981
 
 SUMMARY:
 
@@ -2684,15 +2537,6 @@ Link: https://clinicaltrials.gov/study/NCT06714500
 SUMMARY:
 
 
-## NCT03423758
-Investigating the Genetic Basis of Pseudoexfoliation Syndrome, Angle-closure Glaucoma and Primary Open-angle Glaucoma
-
-Intervention: : Blood sample — Blood sample
-Link: https://clinicaltrials.gov/study/NCT03423758
-
-SUMMARY:
-
-
 ## NCT04700826
 Preventing Stroke, Premature Death and Cognitive Decline in a Broader Community of Patients With Atrial Fibrillation Using Healthcare Data for Pragmatic Research: A Randomised Controlled Trial
 
@@ -2737,17 +2581,6 @@ Effectiveness of Facial Mask Non-Invasive Ventilation in Adults Under General An
 Intervention: : V-E facial mask ventilation maneuver — The V-E maneuver is achieved by placing the thumbs and thenar eminence of each hand on the sides of the mask, creating a "V" shape, while the rest of the fingers perform a jaw thrust described as an "E" shape. This will be performed after anesthetic induction when the patient is unconscious and apneic. The C-E maneuver is achieved by placing the thumb and index finger of each hand on the mask in a "C" shape, while the third, fourth, and fifth fingers of both hands perform a jaw thrust towards the mask in an "E" shape. This will also be performed after anesthetic induction when the patient is unconscious and apneic.
 : C-E facial mask ventilation maneuver — The C-E maneuver is achieved by placing the thumb and index finger of each hand on the mask in a "C" shape, while the third, fourth, and fifth fingers of both hands perform a jaw thrust towards the mask in an "E" shape. This will also be performed after anesthetic induction when the patient is unconscious and apneic.
 Link: https://clinicaltrials.gov/study/NCT07179432
-
-SUMMARY:
-
-
-## NCT04130464
-The Impact of the Continuous Infusion of Intraperitoneal Analgesics on Postoperative Pain After Minimally Invasive Hysterectomy: a Randomized Controlled Trial
-
-Intervention: : Ropivacaine Infusion from ON-Q Pump — Infusion of 0.2% ropivacaine at 8 mL/hour for 72 hours
-: Ropivacaine + Ketorolac Infusion from ON-Q Pump — Infusion of 0.2% ropivacaine + 30 mg ketorolac at 8 mL/hour for 72 hours
-: Normal Saline Infusion from ON-Q Pump — Infusion of 0.9% normal saline at 8 mL/hour for 72 hours
-Link: https://clinicaltrials.gov/study/NCT04130464
 
 SUMMARY:
 
@@ -2848,20 +2681,6 @@ A Phase 2A, Prospective, Open Label, Single Institution Study of Pembrolizumab a
 Intervention: : Pembrolizumab — 200 mg IV q 3 weeks
 : Lenvatinib — 20 mg PO daily
 Link: https://clinicaltrials.gov/study/NCT06266338
-
-SUMMARY:
-
-
-## NCT03710928
-Type 1 Diabetes Management Using a Very Low Carbohydrate Versus Standard Diet
-
-Intervention: : very low carbohydrate diet — All meals will be delivered and participants will consume study foods exclusively. Participants will receive a fiber supplement as needed with each meal to support digestive health, and a daily multi-vitamin, magnesium and omega-three supplement to ascertain micronutrient sufficiency. Participants will be weighed at each study visit and the diet plan will be adjusted for satiety and weight-maintenance.
-
-The diet composition will be as follows: 5% carbohydrate, 70% fat, 20% protein.
-: standard carbohydrate diet — All meals will be delivered and participants will consume study foods exclusively. Participants will receive a daily multi-vitamin and omega-3 supplement to ascertain micronutrient sufficiency. Participants will be weighed at each study visit and the diet plan will be adjusted for satiety and weight-maintenance.
-
-The diet composition will be as follows: 50% carbohydrate, 30% fat, 20% protein.
-Link: https://clinicaltrials.gov/study/NCT03710928
 
 SUMMARY:
 
@@ -3122,16 +2941,6 @@ Link: https://clinicaltrials.gov/study/NCT06787911
 SUMMARY:
 
 
-## NCT04348747
-A Phase IIa Study of Dendritic Cell Vaccines Against Her2/Her3 and Pembrolizumab in Patients With Asymptomatic Brain Metastasis From Triple Negative Breast Cancer (TNBC) or HER2+ Breast Cancer (HER2+BC) or Hormone Receptor Positive (HR+) Breast Cancer.
-
-Intervention: : Anti-HER2/HER3 Dendritic Cell Vaccine — Given ID
-: Pembrolizumab — Given IV
-Link: https://clinicaltrials.gov/study/NCT04348747
-
-SUMMARY:
-
-
 ## NCT06924671
 GLA:D Back Canada - a Program for Persistent Low Back Pain.
 
@@ -3223,16 +3032,6 @@ Study of PNPLA3 Genetic Polymorphisms in Patients With Non-Alcoholic Fatty Liver
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07330830
-
-SUMMARY:
-
-
-## NCT03571334
-Botulinum Toxin A for the Treatment of Chemotherapy Induced Peripheral Neuropathy
-
-Intervention: : IncobotulinumtoxinA (Xeomin®, Merz) (INA) — IncobotulinumtoxinA (Xeomin®, Merz) (INA) will be reconstituted with preservative-free normal saline to a dilution of 5mL:100 units. Study participants will receive 50u INA (total volume 2.5mL) injected into each limb, max 2 limbs per subject (either bilateral hands or bilateral feet.) Study participants will receive one series of injections during the trial. In the hands, INA will be injected across the palmar surface of the digits in a grid like pattern covering a total of 25 sites per limb (0.1mL/site). In the feet, INA will be injected across the dorsal surface of the foot in a grid like pattern covering a total of 25 sites per limb (0.1mL/site). Injections will be performed intradermally using a 5/16-inch, 32-g needle
-: Normal saline — Study participants will total volume 2.5mL of 0.9% Normal saline injected into each limb, max 2 limbs per subject (either bilateral hands or bilateral feet.) Study participants will receive one series of injections during the trial. In the hands, 0.9% Normal saline will be injected across the palmar surface of the digits in a grid like pattern covering a total of 25 sites per limb (0.1mL/site). In the feet, 0.9% Normal saline will be injected across the dorsal surface of the foot in a grid like pattern covering a total of 25 sites per limb (0.1mL/site). Injections will be performed intradermally using a 5/16-inch, 32-g needle
-Link: https://clinicaltrials.gov/study/NCT03571334
 
 SUMMARY:
 
@@ -3470,15 +3269,6 @@ Link: https://clinicaltrials.gov/study/NCT07188012
 SUMMARY:
 
 
-## NCT04084938
-Prostatic Artery Embolization vs Transurethral Resection of the Prostate or Open Prostatectomy in Patients With Symptomatic Benign Prostatic Hyperplasia
-
-Intervention: : Prostate operation or prostate artery embolization — As described above.
-Link: https://clinicaltrials.gov/study/NCT04084938
-
-SUMMARY:
-
-
 ## NCT06277219
 A Phase 1/2, Dose-Escalation and Cohort-Expansion Study to Evaluate the Safety, Tolerability, Immunogenicity, Pharmacokinetics, and Efficacy of LAT010 in Patients With Advanced Solid Tumors (LIGHTSPEED-1)
 
@@ -3606,15 +3396,6 @@ Physical Activity, Sleep and Sedentary Behavior on Atherosclerotic Risk Outcomes
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07774507
-
-SUMMARY:
-
-
-## NCT03192436
-Electrophysiological Source Imaging Guided Transcranial Focused Ultrasound
-
-Intervention: : Ultrasound — Low-intensity (Ispta \< 720 mW/cm2, Isppa \< 190 W/cm2) transcranial focused ultrasound
-Link: https://clinicaltrials.gov/study/NCT03192436
 
 SUMMARY:
 
@@ -3870,15 +3651,6 @@ Link: https://clinicaltrials.gov/study/NCT05303415
 SUMMARY:
 
 
-## NCT04259580
-Calgary Registry for Advanced and Therapeutic Endoscopy
-
-Intervention: : Endoscopic retrograde pancreatography (ERCP) — Endoscopic procedure to access biliary and/or pancreatic structures
-Link: https://clinicaltrials.gov/study/NCT04259580
-
-SUMMARY:
-
-
 ## NCT07044596
 Non-invasive Stimulation of the Glymphatic System for Slowing Cognitive Decline
 
@@ -3961,15 +3733,6 @@ Link: https://clinicaltrials.gov/study/NCT07455019
 SUMMARY:
 
 
-## NCT03315546
-Radiotherapy Delivery in Deep Inspiration for Pediatric Patients: TEDDI - a NOPHO Feasibility Study
-
-Intervention: : radiotherapy delivery in deep-inspiration — Radiotherapy delivery i deep-inspiration versus free-breathing
-Link: https://clinicaltrials.gov/study/NCT03315546
-
-SUMMARY:
-
-
 ## NCT07039084
 A Randomized Cross-over Trial Examining the Efficacy of Implementing a Speech-generating Device for Rare Genetic Conditions
 
@@ -4041,15 +3804,6 @@ The Effect of Micro Fragmented Adipose Tissue (MFAT) on Shoulder Osteoarthritis
 Intervention: : Micro Fragmented Adipose Tissue — Harvesting of Micro Fragmented Adipose Tissue with intra-articular injection
 : Corticosteroid injection — Sham harvesting of adipose tissue without intra-articular injection. Intra-articular injection of corticosteroid.
 Link: https://clinicaltrials.gov/study/NCT04929951
-
-SUMMARY:
-
-
-## NCT01629108
-Normative Values in Audiovestibular Testing
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01629108
 
 SUMMARY:
 
@@ -4527,26 +4281,6 @@ Decentralized Clinical Trial of Contingency Management Digital Therapeutic to Tr
 
 Intervention: : Smartphone digital therapeutic system — This intervention is composed of a smartphone app (Apple iOS or Android type) that prompts patients with Stimulant Use Disorder to (1) complete self-assessment questionnaires in the app about their health, health care needs and the services they receive and other health-related functions in life, (2) read educational modules about health and wellness and answer questions about these readings, (3) speak periodically with a Guide about their use of the app, and (4) take periodic saliva substance tests using video-selfies with their smartphone camera. The intervention includes testing and interviews with the study staff over a 12 month period. There is a follow-up period to measure the longer-term results at 15 months, as well.
 Link: https://clinicaltrials.gov/study/NCT07092059
-
-SUMMARY:
-
-
-## NCT04423874
-The Effect of Exposure to Aversive Non-verbal Vocalizations on Pain Tolerance
-
-Intervention: : Cold pressor task (CPT) — The cold pressor test is among the most common and established methods for studying human reactions to pain and pain tolerance.
-
-Participants submerge a hand in cold water (approx. 5°C) and are asked to keep their hand submerged for as long as can (until the sensation is intolerable), up to a maximum of 5 min.
-
-The procedure is safe because the hand is removed before adverse effects can occur.
-
-The participant will be given a break of 5 min in between trials, and will interchange hands between trials.
-
-During this break hand may to be place in warm water (25-35°C) for up to 4 min to normalise hand temperature, which will be measured before and after each trial using a digital thermometer held firmly in the palm of the hand. Each participant will complete no more than three trials (conditions) in a randomised order.
-: index NOL — Measurement of the index NOL™: Four sensors, placed non-invasively on one of the four participants' fingers, will make it possible to calculate a dozen physiological parameters converts in real time into a pain index called NOL (for Nociception Level Index).
-: Playback Experiments — During the experience, participants are led to listen, via headphones, to aversive non-verbal vocalizations (baby crying). The sound levels used to broadcast the non-verbal vocalisations will be scrupulously measured using approved and certified equipment during the preparation of the experiments. These sound volumes will be chosen so as not to inconvenience participants.
-: Video-pupillometry — This technique is based on the observation of the dilatation of the pupil during the perception of a nociceptive stimulus in test persons.
-Link: https://clinicaltrials.gov/study/NCT04423874
 
 SUMMARY:
 

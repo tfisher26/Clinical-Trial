@@ -11,15 +11,6 @@ Link: https://clinicaltrials.gov/study/NCT07133464
 SUMMARY:
 
 
-## NCT02438631
-Placental Passage and Disposition of Drugs: A Physiology-based Approach
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02438631
-
-SUMMARY:
-
-
 ## NCT06774586
 Study of the Characteristics of the Vascular Wall in Pediatric Age
 
@@ -47,24 +38,6 @@ Link: https://clinicaltrials.gov/study/NCT06185569
 SUMMARY:
 
 
-## NCT02841553
-Wolfram Syndrome and WFS1-related Disorders International Registry and Clinical Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02841553
-
-SUMMARY:
-
-
-## NCT01510067
-Prevalence and Clinical Severity of Cutaneous Lupus Erythematosus
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01510067
-
-SUMMARY:
-
-
 ## NCT07374679
 A Single Center, Open Label, Long-Term Follow-up Study to Evaluate Long-Term Safety and Efficacy of Allogenic Umbilical Cord-derived Mesenchymal Stem Cell in Patients With Rotator Cuff Disease
 
@@ -88,24 +61,6 @@ The Role of POLE Mutation in High Risk Endometrial Cancer.
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07114653
-
-SUMMARY:
-
-
-## NCT02269592
-Study of Precursor Hematological Malignancies to Assess the Relationship Between Molecular Events of Progression and Clinical Outcome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02269592
-
-SUMMARY:
-
-
-## NCT03951311
-Estimation of Metabolic Abnormalities,Lifestyle Behaviors and Diet Pattern in Adults With Heart Failure
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03951311
 
 SUMMARY:
 
@@ -715,29 +670,11 @@ Link: https://clinicaltrials.gov/study/NCT07736482
 SUMMARY:
 
 
-## NCT00009633
-Follow-up Visit of High Risk Infants
-
-Intervention: : No Intervention — No Intervention
-Link: https://clinicaltrials.gov/study/NCT00009633
-
-SUMMARY:
-
-
 ## NCT04833751
 Registry of Cardiovascular Anesthesia Including the Database of Biological Signals During Anesthesia, Preoperative Assessment and Prognosis in Patients: Severance Cardiovascular Surgery Prospective (SECURE) Database
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04833751
-
-SUMMARY:
-
-
-## NCT03793257
-The EXCEL Registry: A Comprehensive Binational Registry on the Treatment and Outcomes of Patients Requiring ECMO
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03793257
 
 SUMMARY:
 
@@ -756,15 +693,6 @@ Validity of ICU Clinician's Appraisal of Proportionality in CPR
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07026773
-
-SUMMARY:
-
-
-## NCT02824822
-Genetic Markers of Cardiovascular Diseases and the Potential Role in Sudden Unexpected Death in Epilepsy.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02824822
 
 SUMMARY:
 

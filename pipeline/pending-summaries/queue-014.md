@@ -319,15 +319,6 @@ Link: https://clinicaltrials.gov/study/NCT07786233
 SUMMARY:
 
 
-## NCT03546231
-Clinical and Echocardiographic Characteristics and Prognosis of trIcuspid regurgiTation (EPIT): Prospective and Retrospective Follow-up of a Cohort of Patients With Moderate or Severe Tricuspid Regurgitation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03546231
-
-SUMMARY:
-
-
 ## NCT07446894
 A Multicenter, Randomized, Double-blind, Placebo-controlled Phase III Study of MSA-01 in Patients With Multiple System Atrophy
 
@@ -387,32 +378,12 @@ Link: https://clinicaltrials.gov/study/NCT05454267
 SUMMARY:
 
 
-## NCT04073706
-A Phase III Randomised Clinical Trial Comparing Sentinel Node Biopsy With No Retroperitoneal Node Dissection in Apparent Early-Stage Endometrial Cancer
-
-Intervention: : TH BSO with SNB Note: If participants (≤45yo), Grade 1 endometrial adenocarcinoma with myometrial invasion <50%, wish to retain their ovaries a BSO may be omitted — Removal of uterus, tubes and ovaries with a sentinel node biopsy. A tracer dye (ICG) +/- Methylene Blue Dye is injected into the surroundings of the primary tumour, it is transported via local lymphatic channels towards the draining lymphatic basin, and the first node that the tracer reaches is called the "sentinel node". These one or two nodes are thought to be first involved with cancer spread.
-: TH BSO without retroperitoneal node dissection Note: If participants (≤45yo), Grade 1 endometrial adenocarcinoma with myometrial invasion <50%, wish to retain their ovaries a BSO may be omitted — Removal of uterus, tubes and ovaries without retroperitoneal node dissection
-Link: https://clinicaltrials.gov/study/NCT04073706
-
-SUMMARY:
-
-
 ## NCT07362966
 Precision Colchicine Intervention to Suppress Atherosclerosis in TET2 Clonal Hematopoiesis : a Pilot Clinical Trial (PRECISE)
 
 Intervention: : Colchicine 0.5 mg orally once daily for 12 months. — SoC therapy includes but is not limited to appropriate lipid lowering, anti-platelet therapy, anti-hypertensive and beta blockers as defined by local guidelines.
 : SoC therapy — SoC therapy
 Link: https://clinicaltrials.gov/study/NCT07362966
-
-SUMMARY:
-
-
-## NCT00004847
-Diagnosis, Pathophysiology, and Molecular Biology of Pheochromocytoma and Paraganglioma
-
-Intervention: : ([18F]-DOPA) — is L 3, 4 dihydroxyphenylalanine (L-DOPA) labeled with the radioactive isotope 18F. In general, PPGLs belong to the group of neuroendocrine tumors. This heterogeneous group of tumors takes up amino acids, transforms them into biogenic amines (dopamine and serotonin) by decarboxylation and stores the amines in vesicles. L DOPA is a precursor of catecholamines (dopamine, norepinephrine and epinephrine). Epinephrine conversion to dopamine is catalyzed by the aromatic amino acid decarboxylase. According to previous and current studies, \[18F\]-DOPA PET is highly sensitive and specific for detection of PHEO/PGL67-69. However, there are only a few reports in the literature using \[18F\]-DOPA as a PET agent and particularly for patients with metastatic PPGLs. PET imaging will be done together with either a CT, an MRI or both modalities.
-: ([18F]-6F-DA) — is an imaging agent developed at the NIH, that may improve specificity and sensitivity in the localization of PPGLs. \[18F\]-6F-DA enters cells via the membrane norepinephrine transporter. Once inside cells, \[18F\]-6F-DA is translocated via the vesicular monoamine transporter into storage vesicles, where the radioactivity is concentrated. After injection of \[18F\]-6F-DA, the much faster disappearance of \[18F\]-6F-DA-derived radioactivity from the bloodstream and non-neuronal cells than from chromaffin cells should enable rapid visualization of PPGLs by PET scanning.
-Link: https://clinicaltrials.gov/study/NCT00004847
 
 SUMMARY:
 
@@ -460,19 +431,6 @@ Link: https://clinicaltrials.gov/study/NCT07030556
 SUMMARY:
 
 
-## NCT03427736
-Pharmacokinetics of Anesthetics and Analgesics in Children and Adolescent
-
-Intervention: : Ketorolac Tromethamine — IV ketorolac will be given per standard of care, not prescribed for this study
-: Hydromorphone — IV Hydromorphone will be given per standard of care, not prescribed for this study
-: Ketamine — IV Ketamine will be given per standard of care, not prescribed for this study
-: Oxycodone — PO Oxycodone(solution or tablet) will be given per standard of care, not prescribed for this study
-: Morphine — IV Morphine will be given per standard of care, not prescribed for this study
-Link: https://clinicaltrials.gov/study/NCT03427736
-
-SUMMARY:
-
-
 ## NCT05237973
 Investigational Use of Neuromuscular Ultrasound
 
@@ -487,15 +445,6 @@ A Multicenter Clinical Study on the Safety and Efficacy of Nanobody-based Biepit
 
 Intervention: : Nanobody-based biepitope BCMA-targeting CAR-T cells — Each patient will receive nanobody-based biepitope BCMA-targeting CAR-T cell by intravenous infusion on day 0.
 Link: https://clinicaltrials.gov/study/NCT06503107
-
-SUMMARY:
-
-
-## NCT04126148
-Breathing-Maneuver-Induced Myocardial Oxygenation Reserve Validated by FFR (B-MORE)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04126148
 
 SUMMARY:
 
@@ -785,15 +734,6 @@ The Effect of Placental Cord Drainage on the Third Stage of Labor and the Amount
 
 Intervention: : Placental cord drainage — Placental cord drainage is the process of clamping and cutting the umbilical cord after the birth of the baby, then opening the clamp at the maternal end of the cord and allowing the blood in the placenta to flow outward (Soltani et al, 2011; Vasconcelos et al, 2018; Pandey et al, 2019; Upadya et al, 2019; Chaudhary et al, 2020; Kazı et al, 2020; Mittal et al, 2020; Nabıl and Marzouk, 2020; Mansour et al, 2021; El Sayed et al, 2021; Karimi et al, 2022; Wedn and Hassanin, 2022).
 Link: https://clinicaltrials.gov/study/NCT07279545
-
-SUMMARY:
-
-
-## NCT04265872
-Pilot Clinical Trial of Treatment With Bortezomib to Inhibit Homologous Recombination (HR) Followed by Pembrolizumab and Cisplatin in Patients With Chemotherapy-Pretreated Metastatic Triple Negative Breast Cancer
-
-Intervention: : Bortezomib; pembrolizumab and cisplatin injections--bortezomib followed by pembro/cis — injection into a vein
-Link: https://clinicaltrials.gov/study/NCT04265872
 
 SUMMARY:
 
@@ -1228,15 +1168,6 @@ Link: https://clinicaltrials.gov/study/NCT06861244
 SUMMARY:
 
 
-## NCT01694953
-The Rare Disease Clinical Research Network Natural History Study of MNGIE
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01694953
-
-SUMMARY:
-
-
 ## NCT06128304
 ACCESS: Accelerating Cervical Cancer Elimination Through the Integration of Screen-and-treat Services
 
@@ -1332,15 +1263,6 @@ Link: https://clinicaltrials.gov/study/NCT06143488
 SUMMARY:
 
 
-## NCT03342144
-Observational Study of the Use of Venetoclax in Patients With Chronic Lymphocytic Leukemia (CLL) Under Real-Life Setting in Austria, Germany and Switzerland
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03342144
-
-SUMMARY:
-
-
 ## NCT07219212
 A Study of JNJ-90301900 in Combination With Concurrent Chemoradiation Therapy in Participants With Locally Advanced Head and Neck Squamous Cell Carcinoma
 
@@ -1426,15 +1348,6 @@ A Phase 1, Multicenter, Parallel-Design, Single-Dose, Open-Label Study to Evalua
 
 Intervention: : LY3537031 — Administered SC
 Link: https://clinicaltrials.gov/study/NCT07165002
-
-SUMMARY:
-
-
-## NCT03984253
-Swiss Severe Asthma Register
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03984253
 
 SUMMARY:
 
@@ -1865,30 +1778,6 @@ Link: https://clinicaltrials.gov/study/NCT07556874
 SUMMARY:
 
 
-## NCT02828592
-A Study of T-Cell Replete, HLA-Mismatched Haploidentical Bone Marrow Transplantation With Post-Transplant Cyclophosphamide for Patients With Severe Aplastic Anemia Lacking HLA-Matched Related Donor
-
-Intervention: : Fludarabine — 30 mg/m2 IV QD x 5 days (Days -6 to -2)
-: Cyclophosphamide — 14.5 mg/kg/day IV x 2 doses (Days -6 \& -5)
-: Total Body Irradiation — 300 cGy x1 dose (Day -1)
-: Rabbit ATG — 1.5 mg/kg/day x 3 days (Days -3 to -1)
-: Cyclophosphamide — Post-transplant: 50 mg/kg IV QD (Day +3 to +4)
-Link: https://clinicaltrials.gov/study/NCT02828592
-
-SUMMARY:
-
-
-## NCT03506282
-The Effects of Listening to Music During Running on Ground Contact Forces and Running Mechanics: the "IMPACT Factor" Trial
-
-Intervention: : Running while listening to a traffic audio track — While running three 2-minute sets at different velocities (6, 8 and 10 km/h, respectively) on a sensorized treadmill, each participant will be exposed via earphones to an audio track resembling average outdoor conditions (70 dB).
-: Running with music at moderate volume — While running three 2-minute sets at different velocities (6, 8 and 10 km/h, respectively) on a sensorized treadmill, each participant will be provided the same music track ("We take care of our own", by Bruce Springsteen from the "Wrecking Ball" album, 2012). The music track will be given at a moderate volume (80 dB).
-: Running with music at moderate-to-high volume — While running three 2-minute sets at different velocities (6, 8 and 10 km/h, respectively) on a sensorized treadmill, each participant will be provided the same music track ("We take care of our own", by Bruce Springsteen from the "Wrecking Ball" album, 2012). The music track will be given at a moderate-to-high volume (85 dB).
-Link: https://clinicaltrials.gov/study/NCT03506282
-
-SUMMARY:
-
-
 ## NCT07783022
 Real-World Study of Niraparib in First-Line Maintenance Therapy for Advanced Epithelial Ovarian Cancer and the Establishment and Promotion of Its Standardized Application System
 
@@ -2041,17 +1930,6 @@ Link: https://clinicaltrials.gov/study/NCT05736146
 SUMMARY:
 
 
-## NCT04135807
-A Pilot Study of an Implantable Microdevice for In Situ Evaluation of Drug Response in Patients With Primary Brain Tumors
-
-Intervention: : Microdevice — Placement of 1-3 microdevices (depending on the size of the tumor) before tumor resection is started.
-
-The microdevices will dwell in the tumor tissue for a time window of 2-4 hours to allow time for tissue effects of the drugs (Temozolomide, Lomustine, Irinotecan, Carboplatin, Lapatinib, Osimertinib, Abenaciclib, and Everolimus) released by the microdevice reservoirs. The drugs used in this study will only include drugs already used systemically for the treatment of gliomas.
-Link: https://clinicaltrials.gov/study/NCT04135807
-
-SUMMARY:
-
-
 ## NCT06088732
 Effects of Acute Exercise and Ibuprofen on Symptoms, Immunity, and Neural Circuits in Bipolar Depression
 
@@ -2087,16 +1965,6 @@ Brain-lung Interactions in Patients Receiving High-flow Humidified Oxygen for de
 
 Intervention: : EEG/NIRS/EMG — Two 10-minute recordings will be made. Each recording will include continuous collection of EEG, NIRS, and EMG data from the scalene muscles, as well as collection of intensive care monitoring variables every minute.
 Link: https://clinicaltrials.gov/study/NCT07279831
-
-SUMMARY:
-
-
-## NCT02851043
-Non-Invasive Respiratory Monitor
-
-Intervention: : pneuRIP (breathing with resistance) — subjects are given a resistance element to breath through
-: Respitrace system (Carefusion) (breathing without resistance) — subjects are asked to breath normally
-Link: https://clinicaltrials.gov/study/NCT02851043
 
 SUMMARY:
 
@@ -2139,15 +2007,6 @@ Intervention: : Ganciclovir Oral Capsule — 2-week treatment phase：Ganciclovi
 : Ganciclovir Simulant Oral Capsule — 2-week treatment phase：Ganciclovir simulant capsules(0mg), take 2 capsules twice a day
 : Mometasone Nasal — From screening phase to follow-up phase：Mometasone furoate aqueous nasal spray(50μg/spray), take 1 spray once a day
 Link: https://clinicaltrials.gov/study/NCT06436534
-
-SUMMARY:
-
-
-## NCT00181259
-In Vivo Cardiac Metabolism in Normal, Ischemic, and Cardiomyopathic Patients During Rest and Stress
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00181259
 
 SUMMARY:
 

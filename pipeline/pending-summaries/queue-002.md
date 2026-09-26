@@ -56,29 +56,11 @@ Link: https://clinicaltrials.gov/study/NCT04755205
 SUMMARY:
 
 
-## NCT03374215
-Clinical and Molecular Characteristics of Primary Aldosteronism in Blacks
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03374215
-
-SUMMARY:
-
-
 ## NCT07574970
 A COMBINATION OF RECTAL INDOMETHACIN AND COLD WATER EXPOSURE OF THE AMPULLA AFTER ERCP IS SUPERIOR TO RECTAL INDOMETHACIN ALONE IN REDUCING THE INCIDENCE OF PEP
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07574970
-
-SUMMARY:
-
-
-## NCT00005909
-Clinical, Biochemical, and Molecular Investigations Into Alkaptonuria
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00005909
 
 SUMMARY:
 
@@ -173,15 +155,6 @@ Link: https://clinicaltrials.gov/study/NCT07071051
 SUMMARY:
 
 
-## NCT02219984
-Phase 4 Study on Clinical History of Patients Who Start a Chronic Anticoagulant Treatment
-
-Intervention: : Anticoagulants
-Link: https://clinicaltrials.gov/study/NCT02219984
-
-SUMMARY:
-
-
 ## NCT05098717
 End-expiratory Trans-pulmonary Pressure Guided PEEP Titration in Patients With Pulmonary Fibrosis and UIP Pattern Undergoing Mechanical Ventilation
 
@@ -263,15 +236,6 @@ Link: https://clinicaltrials.gov/study/NCT07663669
 SUMMARY:
 
 
-## NCT04451551
-Myocardial Perfusion Imaging by 15O-H2O PET/CT: Reference Values and Prognostic Value
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04451551
-
-SUMMARY:
-
-
 ## NCT06829147
 Development and Validation of a Deep Learning Model for Diagnosing Lymph Node Metastasis in Nasopharyngeal Carcinoma Using Histologic Whole Slide Images and Time-dependent Magnetic Resonance Images
 
@@ -344,24 +308,6 @@ Link: https://clinicaltrials.gov/study/NCT06497881
 SUMMARY:
 
 
-## NCT02798705
-Physiologic Assessment of Microvascular Function in Patients With Cardiac Amyloidosis: Prospective Registry and Pilot Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02798705
-
-SUMMARY:
-
-
-## NCT00398177
-Clinical and Pathologic Studies in Non-Hodgkin's Lymphoma and Hodgkin's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00398177
-
-SUMMARY:
-
-
 ## NCT07222618
 "Selfie" Videos: A Novel, Patient-centered, Comprehensive Approach to Measuring Function in MS
 
@@ -416,47 +362,11 @@ Link: https://clinicaltrials.gov/study/NCT07198503
 SUMMARY:
 
 
-## NCT04292288
-Hypercalcemia After Paraffin Oil Injection: Aetiology, Pathogenesis and Possible Treatment Options
-
-Intervention: : Biochemical observational — no intervention - observational
-Link: https://clinicaltrials.gov/study/NCT04292288
-
-SUMMARY:
-
-
-## NCT02778724
-France PCI Registry : National Observatory of Interventional Cardiology
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02778724
-
-SUMMARY:
-
-
 ## NCT07263204
 Precision Diagnosis and Prognostic Prediction of Hypertrophic Cardiomyopathy Using Artificial Intelligence: A Multicenter Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07263204
-
-SUMMARY:
-
-
-## NCT03872102
-Quantitative Diagnostics of Parkinsonian Syndromes Using Multi-modal Neuroimaging and Deep Learning
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03872102
-
-SUMMARY:
-
-
-## NCT04184479
-Placebo-Controlled, Randomized Weight Loss InterventionTrial in Subjects With Overweight or Obesity in Primary Health Care
-
-Intervention: : LEVAmethod by Bertz et al — Ordinary treatment
-Link: https://clinicaltrials.gov/study/NCT04184479
 
 SUMMARY:
 
@@ -470,15 +380,6 @@ Link: https://clinicaltrials.gov/study/NCT07263490
 SUMMARY:
 
 
-## NCT04192422
-Glucose Control and Metabolic Adaptation in Offspring of Women With Gestational Diabetes Recruited to the DiGest Study
-
-Intervention: : no intervention — This is a cohort study no intervention
-Link: https://clinicaltrials.gov/study/NCT04192422
-
-SUMMARY:
-
-
 ## NCT05104710
 Intermuscular Coherence: A Biomarker for Early Diagnosis and Follow-up of ALS
 
@@ -488,38 +389,11 @@ Link: https://clinicaltrials.gov/study/NCT05104710
 SUMMARY:
 
 
-## NCT00722527
-Molecular Biology of Polycythemia and Thrombocytosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00722527
-
-SUMMARY:
-
-
-## NCT03275480
-Institut Paoli Calmettes Myelodysplastic Syndromes Database
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03275480
-
-SUMMARY:
-
-
 ## NCT05284877
 The Organ Transplant Recipient HPV and Skin Cancer Study
 
 Intervention: : No intervention — The study is an observational study without intervention.
 Link: https://clinicaltrials.gov/study/NCT05284877
-
-SUMMARY:
-
-
-## NCT02961413
-A Multi-center, Prospective, Non-interventional Cohort Study on Drug Induced Liver Injury in Mainland China
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02961413
 
 SUMMARY:
 
@@ -542,24 +416,6 @@ Link: https://clinicaltrials.gov/study/NCT07387328
 SUMMARY:
 
 
-## NCT01166009
-Protocol For A Research Database For Hematopoietic Stem Cell Transplantation, Other Cellular Therapies and Marrow Toxic Injuries
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01166009
-
-SUMMARY:
-
-
-## NCT03849430
-Longitudinal Analysis of the Health-related Quality of Life in Glioma Patients and Setting Up a Large-scale, Prospective Database for Glioma Patients Treated in UZ Leuven
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03849430
-
-SUMMARY:
-
-
 ## NCT07379099
 Implementation of the Personalized Care Plan (PCP) Proposed at the End of Step 2 of the ICOPE Program : Description of the Procedures for Negotiating the PCP With the Patient, the Procedures for Implementing the PCP in a Multi-professional Setting, and Implementation of the PCP at 1 Year
 
@@ -574,15 +430,6 @@ A Prospective, Multicenter Registry Study of Amyotrophic Lateral Sclerosis in Th
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07175935
-
-SUMMARY:
-
-
-## NCT03047369
-The Myelin Disorders Biorepository Project and Global Leukodystrophy Initiative Clinical Trials Network
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03047369
 
 SUMMARY:
 
@@ -655,15 +502,6 @@ Risk Classification and Prediction of Histopathological Subtypes in Basal Cell C
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07677124
-
-SUMMARY:
-
-
-## NCT04300257
-Swiss Sarcoma Network: Prediction Model for Patient Selection in Sarcoma Care
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04300257
 
 SUMMARY:
 
@@ -749,15 +587,6 @@ Link: https://clinicaltrials.gov/study/NCT07698743
 SUMMARY:
 
 
-## NCT03520699
-Beijing Friendship Hospital Metabolic Surgery Clinical Database
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03520699
-
-SUMMARY:
-
-
 ## NCT05550298
 Multi-Center Molecular Diagnosis and Host Response of Respiratory Viral Infections in Pediatric Transplant Recipients
 
@@ -772,15 +601,6 @@ Clinical and Laboratory Study of Rare Skeletal Disorders
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05031507
-
-SUMMARY:
-
-
-## NCT00027274
-Etiologic Investigation of Cancer Susceptibility in Inherited Bone Marrow Failure Syndromes: A Natural History Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00027274
 
 SUMMARY:
 
@@ -817,15 +637,6 @@ Shanghai Clinical Cohort - Parkinson's Disease (Reserve)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07353463
-
-SUMMARY:
-
-
-## NCT00801333
-Derivation of Induced Pluripotent Stem Cells From an Existing Collection of Human Somatic Cells
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00801333
 
 SUMMARY:
 
@@ -984,24 +795,6 @@ Link: https://clinicaltrials.gov/study/NCT07729423
 SUMMARY:
 
 
-## NCT04360200
-Cognitive Impairment in Ageing People: A Longitudinal Observational Prospective Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04360200
-
-SUMMARY:
-
-
-## NCT03206099
-NIAID Centralized Sequencing Protocol
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03206099
-
-SUMMARY:
-
-
 ## NCT07729982
 Clinical Characterisation of OPA1-Associated Autosomal-Dominant Optic Atrophy
 
@@ -1065,29 +858,11 @@ Link: https://clinicaltrials.gov/study/NCT06279247
 SUMMARY:
 
 
-## NCT00041600
-Human Epilepsy Genetics--Neuronal Migration Disorders Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00041600
-
-SUMMARY:
-
-
 ## NCT06711055
 A Cohort Study of Adjuvant Therapy With Taxane Combined Targeted Therapy for Low-risk HER2 Positive and Lymph Node Negative Breast Cancer
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06711055
-
-SUMMARY:
-
-
-## NCT03862677
-Determining Prognostic Immune Markers in Patients With Ovarian Cancer
-
-Intervention: : No intervention — Observational study, no intervention
-Link: https://clinicaltrials.gov/study/NCT03862677
 
 SUMMARY:
 
@@ -1170,24 +945,6 @@ Gestational Response, Outcomes, and Weight After GLP-1 Use
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07743567
-
-SUMMARY:
-
-
-## NCT02169518
-Changes in Paraoxonase Activity, HDL Properties, Inflammatory Markers and Corneal Innervation in Post-bariatric Surgery Patients, Type 1 Diabetics With and Without Nephropathy, Type 2 Diabetics, and During an Oral Glucose Tolerance Test.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02169518
-
-SUMMARY:
-
-
-## NCT03568630
-A Longitudinal Cohort Study to Identify Clinical and Blood Markers of Early Pancreas Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03568630
 
 SUMMARY:
 
@@ -1309,15 +1066,6 @@ Link: https://clinicaltrials.gov/study/NCT05247645
 SUMMARY:
 
 
-## NCT03811470
-China Diabetes Registry - a Prospective Cohort Study of Patients With Diabetes in National Metabolic Management Centers in China
-
-Intervention: : Standard diabetes management model in each MMC center — Standard diabetes management model in each MMC center
-Link: https://clinicaltrials.gov/study/NCT03811470
-
-SUMMARY:
-
-
 ## NCT07413757
 A Cross-sectional Survey-based Study Using Preference Elicitation Method to Assess Decision-making Impact Factor of Chinese Patients and Physicians for First-line EGFR-TKIs Treatment of Stage IV NSCLC (CHOICE)
 
@@ -1395,15 +1143,6 @@ MAgnetic Resonance Imaging or Computed Tomography Guided Stereotactic Body Radio
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07077239
-
-SUMMARY:
-
-
-## NCT04198792
-Predictors for Survival and Good Neurological Outcome in E-CPR and Non CPR Treated Patients
-
-Intervention: : No intervention — No intervention, but ECPR patients will be compared to ECMO-patients that have not had cardiac arrest
-Link: https://clinicaltrials.gov/study/NCT04198792
 
 SUMMARY:
 
