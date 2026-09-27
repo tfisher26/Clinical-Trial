@@ -4389,15 +4389,6 @@ Link: https://clinicaltrials.gov/study/NCT07152132
 SUMMARY:
 
 
-## NCT04493632
-OncoSil Pancreatic Cancer Post-marketing Clinical REgistrY (OSPREY)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04493632
-
-SUMMARY:
-
-
 ## NCT07301476
 Evaluation of Local Anesthetic Diffusion to the Sciatic Nerve During Adductor Canal Block: an Observational Study
 
@@ -6399,15 +6390,6 @@ Washed Microbiota Transplantation for Attention-deficit/Hyperactivity Disorder a
 
 Intervention: : washed microbiota transplantation — The prepared microbiota suspension was infused into the participates' lower gut.
 Link: https://clinicaltrials.gov/study/NCT06376331
-
-SUMMARY:
-
-
-## NCT04461171
-Enhanced Recovery After Surgery in Extremity Sarcoma
-
-Intervention: : Enhanced Recovery After Surgery — Undergo an enhanced recovery after surgery program
-Link: https://clinicaltrials.gov/study/NCT04461171
 
 SUMMARY:
 

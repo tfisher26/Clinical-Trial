@@ -916,18 +916,6 @@ Link: https://clinicaltrials.gov/study/NCT06571487
 SUMMARY:
 
 
-## NCT04479696
-Novel Intervention to Reduce Patient and Caregiver Anxiety Around Radiation Treatment for Brain Tumors With a Customized Neuro-Imaging Referenced Symptom Video
-
-Intervention: : Educational Intervention — Receive standard of care verbal and written education materials
-: Questionnaire Administration — Ancillary studies
-: Survey Administration — Complete optional survey
-: Video — Watch NIRS video
-Link: https://clinicaltrials.gov/study/NCT04479696
-
-SUMMARY:
-
-
 ## NCT05033028
 Smartphones for Opiate Addiction Recovery
 
@@ -3727,15 +3715,6 @@ Link: https://clinicaltrials.gov/study/NCT05421650
 SUMMARY:
 
 
-## NCT04471493
-Real Time Surveillance of Pediatric Infectious Diseases in French Ambulatory Care: PARI Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04471493
-
-SUMMARY:
-
-
 ## NCT07168382
 AI-Based Personalized Health and Self-Care: Investigating A Mobile Virtual Assistant to Address Health-Related Social Needs
 
@@ -6196,17 +6175,6 @@ Using Ecological Momentary Assessment to Develop an Adaptive Psychological Inter
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06932432
-
-SUMMARY:
-
-
-## NCT04481932
-Trastuzumab Combined With Pyrotinib and Chemotherapy for Locally Advanced, Inflammatory, or Early HER2-positive Mammary glandsCancer: One Arm, Open, Phase II Clinical Study
-
-Intervention: : Trastuzumab combined with Pyrotinib and chemotherapy — Pyrotinib is a small molecule, irreversible tyrosine kinase inhibitor with targets of epidermal growth factor receptor 1 (EGFR/HER1/ErbB1), human epidermal factor receptor 2 (HER2/ErbB2/Neu) and human epidermis Factor Receptor 4 (HER4/ErbB4).
-
-As a new generation of anti-HER2 therapeutic targeted drugs, pirotinib covalently binds to the ATP binding sites of the kinase regions of EGFR, HER2 and HER4 in cells to prevent homogeneity and heterogeneity of EGFR, HER2 and HER4 in tumor cells Dimer formation, inhibiting its own phosphorylation, blocking the activation of downstream signaling pathways, thereby inhibiting tumor cell growth
-Link: https://clinicaltrials.gov/study/NCT04481932
 
 SUMMARY:
 

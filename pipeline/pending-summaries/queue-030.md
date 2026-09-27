@@ -767,15 +767,6 @@ Link: https://clinicaltrials.gov/study/NCT06250257
 SUMMARY:
 
 
-## NCT04460859
-RecruitmEnt Assessed by eleCtRical Impedance Tomography: Feasibility, Correlation With Clinical oUtcomes and pIloT Data on Personalised PEEP Selection.
-
-Intervention: : Specific lung recruitment maneuvers — Specific lung recruitment maneuvers will be performed to measure the potential for lung recruitment at different levels of positive end-expiratory pressure (PEEP) provided by the mechanical ventilator. Electrical impedance tomography signals, synchronized signals of airway pressure and flow, esophageal pressure (if available), and volumetric capnography (if available) will be recorded continuously, during the time span of the protocol for offline analysis.
-Link: https://clinicaltrials.gov/study/NCT04460859
-
-SUMMARY:
-
-
 ## NCT07595926
 Height Measurement Procedures Influence the Risk of Ventilator-induced Lung Injury in ARDS
 

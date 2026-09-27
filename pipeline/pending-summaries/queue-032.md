@@ -8625,16 +8625,6 @@ Link: https://clinicaltrials.gov/study/NCT07517588
 SUMMARY:
 
 
-## NCT04481763
-A Study of the Efficacy and Safety of Camrelizumab Plus Radiotherapy for Patients With Early Triple-Negative Breast
-
-Intervention: : Camrelizumab — Camrelizumab is 200 mg iv. administered every 2 weeks for 3 cycles with radiotherapy ( 50gy, 25 times for 5weeks)
-: radiotherapy — radiotherapy
-Link: https://clinicaltrials.gov/study/NCT04481763
-
-SUMMARY:
-
-
 ## NCT07824583
 A ProSPEctivE Study of NGDS DMAT Workflow Feasibility
 
@@ -11679,16 +11669,6 @@ Link: https://clinicaltrials.gov/study/NCT05766254
 SUMMARY:
 
 
-## NCT04472845
-HYPofractionated Adjuvant RadioTherapy in 1 Versus 2 Weeks in High-risk Patients With Breast Cancer (HYPART): A Non-inferiority, Open-label, Phase III Randomized Trial.
-
-Intervention: : 1 week RT — RT will be delivered over 1 week
-: 2 week RT — RT will be delivered over 2 week
-Link: https://clinicaltrials.gov/study/NCT04472845
-
-SUMMARY:
-
-
 ## NCT07505719
 AI-Simplified Patient Educational Materials: Investigating the Potential for Improved Patient Comprehension and Health Literacy
 
@@ -14401,18 +14381,6 @@ Transdiagnostic Circuit Mapping of Prefrontal Targets in Accelerated Transcrania
 
 Intervention: : Transcranial magnetic stimulation — Accelerated TMS will be provided for 2 days using the same dosing regimen as the FDA-cleared SAINT protocol, ten 9-minute treatments per day.
 Link: https://clinicaltrials.gov/study/NCT06376734
-
-SUMMARY:
-
-
-## NCT04472767
-Phase 2 Study of Cabozantinib Combined With Ipilimumab/Nivolumab and Transarterial Chemoembolization (TACE) in Patients With Hepatocellular Carcinoma (HCC) Who Are Not Candidates for Curative Intent Treatment
-
-Intervention: : Nivolumab — Given IV
-: Ipilimumab — Given IV
-: Cabozantinib — Given PO
-: Transarterial Chemoembolization — TACE treatment will be administered using either the DEB-TACE or cTACE modality in a series of up to 3 individual procedures within the 9-12 weeks following Day 21 (= cycle 1 day 21) of a patient's first infusion of nivolumab/ipilimumab. The first TACE treatment should start no more than 7 working days after being cycle 1 day 21.
-Link: https://clinicaltrials.gov/study/NCT04472767
 
 SUMMARY:
 
@@ -17680,15 +17648,6 @@ Link: https://clinicaltrials.gov/study/NCT07488585
 SUMMARY:
 
 
-## NCT04474132
-Feasibility Study for Finger Prick Testing of Presence of Current and or Previous T. Gondii Infection
-
-Intervention: : toxoplasma ICT IgG-IgM BK — a point-of-care device, using blood from finger stick to measure the presence or absence of anti Toxoplasma gondii antibody
-Link: https://clinicaltrials.gov/study/NCT04474132
-
-SUMMARY:
-
-
 ## NCT07136532
 Prediction of Fluid Responsiveness in Paediatric Patients With Septic Shock Using Carotid Doppler Ultrasonography and Echocardiography
 
@@ -18511,16 +18470,6 @@ Clinical and dEmographic chaRacteristics of Patients With Frequent COPD Exacerba
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07307781
-
-SUMMARY:
-
-
-## NCT04462042
-Proton Versus Photon Therapy in Anal Squamous Cell Carcinoma - Swedish Anal Carcinoma Study
-
-Intervention: : Proton radiotherapy — Proton radiotherapy
-: Photon radiotherapy — Conventional photon radiotherapy
-Link: https://clinicaltrials.gov/study/NCT04462042
 
 SUMMARY:
 

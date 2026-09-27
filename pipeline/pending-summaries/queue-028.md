@@ -2884,17 +2884,6 @@ Link: https://clinicaltrials.gov/study/NCT05701592
 SUMMARY:
 
 
-## NCT04458545
-Phase 1A/1B Clinical Trials of Multivalent Opioid Vaccine Components
-
-Intervention: : Oxy(Gly)4-sKLH vaccine - Low Dose — Oxy(Gly)4-sKLH vaccine - Low Dose
-: Oxy(Gly)4-sKLH vaccine - High Dose — Oxy(Gly)4-sKLH vaccine - high dose
-: Placebo Oxy(Gly)4-sKLH vaccine — Oxy(Gly)4-sKLH vaccine - Placebo
-Link: https://clinicaltrials.gov/study/NCT04458545
-
-SUMMARY:
-
-
 ## NCT05051072
 Assessment in Patients With Essential Trigeminal Neuralgia of Nerve Involvement by MRI in DTI and Functional Connectivity in "Resting State"
 
@@ -4167,15 +4156,6 @@ Link: https://clinicaltrials.gov/study/NCT06275022
 SUMMARY:
 
 
-## NCT04477967
-Children's Hospital of Chongqing Medical University
-
-Intervention: : No intervention — There are no interventions because it is a protocol study
-Link: https://clinicaltrials.gov/study/NCT04477967
-
-SUMMARY:
-
-
 ## NCT07833280
 The Relationship Between Kinesiophobia and Physical Activity, Sleep Quality, and Quality of Life in Women With Chronic Pelvic Pain
 
@@ -4834,15 +4814,6 @@ Link: https://clinicaltrials.gov/study/NCT05010772
 SUMMARY:
 
 
-## NCT04469439
-The Impact of Sinus Surgery in the Era of Highly Effective Modulatory Therapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04469439
-
-SUMMARY:
-
-
 ## NCT06572501
 Robot-assisted Laparoscopic Partial Nephrectomy Via the Extraperitoneal Approach in the Prone Position Versus the Lateral position-a Study Protocol for a Single-centre, Prospective, Randomised Controlled Trial
 
@@ -5122,31 +5093,11 @@ Link: https://clinicaltrials.gov/study/NCT06440694
 SUMMARY:
 
 
-## NCT04003051
-Mobile Delivery of a Coping and Adherence Program for Head and Neck Cancer Patients Being Treated in Community Care Settings
-
-Intervention: : Internet-Based Intervention — Use Project Prepare website
-: Quality-of-Life Assessment — Ancillary studies
-: Questionnaire Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT04003051
-
-SUMMARY:
-
-
 ## NCT05449756
 A Virtual, Decentralised Observational Follow-up Study Investigating Feeding Patterns in Infancy and the Associated Parent-reported Allergic Manifestations, Allergies and Infections in Childhood.
 
 Intervention: : Self-administered questionnaires — Three-monthly self-administered digital questionnaires (accessed on smartphone, tablet or computer)
 Link: https://clinicaltrials.gov/study/NCT05449756
-
-SUMMARY:
-
-
-## NCT03193541
-A Novel Multiplex ELISA Assay for Evaluating Patients With Microscopic Hematuria for Bladder Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03193541
 
 SUMMARY:
 
@@ -5322,24 +5273,6 @@ Link: https://clinicaltrials.gov/study/NCT06876753
 SUMMARY:
 
 
-## NCT04375904
-'SOURCE - LUNG' Stereotactic Ablative Radiation Therapy Of UltRaCEntral LUNG Tumours
-
-Intervention: : Image-Guided Stereotactic Ablative Radiotherapy (IG-SABR) — Image-Guided Stereotactic Ablative Radiotherapy (IG-SABR) delivered in 8 fractions of 7.5 Gy. OAR constraints must be respected but a minimum dose coverage to 95% of the PTV will be allowed down to 75% and a minimum dose to 99% of the GTV allowed at 75%. Respiratory monitoring/active respiratory management will be used. Plans will be created and delivered using photon beams with energies between 6-10 MV.
-Link: https://clinicaltrials.gov/study/NCT04375904
-
-SUMMARY:
-
-
-## NCT03894254
-Predictive Factors Associated With Impairment in Functional Autonomy in a Regional Real-life Cohort of Patients With Alzheimer's Disease or Related Disorders (ADRD)
-
-Intervention: : no intervention — This is study carried out in current practice. Patients are undergoing a medical examination in a memory center, with extensive and systematic evaluations for the study involving the following tests: IADL, DAD6, New AGGIR, NPI, and mini-Zarit) assessing the functions (autonomy, behavior and caregiver burden).
-Link: https://clinicaltrials.gov/study/NCT03894254
-
-SUMMARY:
-
-
 ## NCT05838404
 M-O-M-S on the Bayou: Implementation of an Intervention for Mental Health in Pregnancy
 
@@ -5500,15 +5433,6 @@ Link: https://clinicaltrials.gov/study/NCT07052799
 SUMMARY:
 
 
-## NCT00579566
-Novel Biochemical and Molecular Determinants for Soft Tissue Sarcoma
-
-Intervention: : Specimen protocol — The research specimen will be obtained from the residual specimen that would otherwise be discarded per usual hospital procedure.
-Link: https://clinicaltrials.gov/study/NCT00579566
-
-SUMMARY:
-
-
 ## NCT07559656
 Effects of Intransal Oxytocin on Real-time fMRI Neurofeedback Training of Anterior Insula Activity Using an Interoceptive Strategy
 
@@ -5551,15 +5475,6 @@ A Nonrandomized, Open-label, Multicenter, Phase I Clinical Trial to Evaluate the
 
 Intervention: : CM369 — Specified dose on specified days.
 Link: https://clinicaltrials.gov/study/NCT05690581
-
-SUMMARY:
-
-
-## NCT02732860
-Prospective Evaluation of Freshly Implanted Cancers in Mice to Test Drug Response in Matching Host
-
-Intervention: : Molecular Profiling & In Vivo drug testing in pPDX and organoid cultures — Molecular profiling of host tumour sample and pPDX will be performed and analyzed by an expert panel. In vitro organoid culture generation may also be performed if sufficient fresh tissue is available. Matched treatment recommendation based on profiling and in vivo pPDX drug testing results will be made, if available. This recommendation will be communicated to the primary oncologist.
-Link: https://clinicaltrials.gov/study/NCT02732860
 
 SUMMARY:
 
@@ -5609,15 +5524,6 @@ Evolution of Masticatory Function, Orofacial Functions and Quality of Life of Pa
 
 Intervention: : Prosthetic oral rehabilitation — Prosthetic oral rehabilitation to restore oral function in patients with a history of upper aerodigestive tract cancer.
 Link: https://clinicaltrials.gov/study/NCT07471451
-
-SUMMARY:
-
-
-## NCT03823820
-Bioimpedance In Pregnancy and Labour: A Fluid Balance Concept Study.
-
-Intervention: : Bioimpedance Analyser — Bio-electrical impedance analysis (BIA) measures whole body (or regional) impedance by means of an electric current transmitted at different frequencies.
-Link: https://clinicaltrials.gov/study/NCT03823820
 
 SUMMARY:
 

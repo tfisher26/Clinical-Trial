@@ -1908,15 +1908,6 @@ Link: https://clinicaltrials.gov/study/NCT05433441
 SUMMARY:
 
 
-## NCT04459689
-Worldwide COVID-19 in Children and Adult Patients With Primary ImmunoDeficiencies (PID) Survey
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04459689
-
-SUMMARY:
-
-
 ## NCT06246968
 Does Ablation (Cryoablation or Histotripsy) Boost Immune Response Improving the Benefits of Pembrolizumab in Patients With Metastatic or Locally Advanced Triple Negative Breast Cancer?
 
@@ -6991,17 +6982,6 @@ Link: https://clinicaltrials.gov/study/NCT04781140
 SUMMARY:
 
 
-## NCT04458584
-Restoration of Thumb Strength and Function in Basal Joint Arthritis: A Comparative Effectiveness Trial (RESTART)
-
-Intervention: : Trapeziectomy with ligament reconstruction (I; LRTI) — Thumb basal joint arthroplasty (surgical) using Trapeziectomy with ligament reconstruction (I; LRTI)
-: Trapeziectomy with suture suspensionplasty (II; SS) — Thumb basal joint arthroplasty (surgical) using Trapeziectomy with suture suspension-lastly (II; SS)
-: Arthroscopic Trapeziectomy (III; AT) — Thumb basal joint arthroplasty (surgical) using Arthroscopic Trapeziectomy (III; AT)
-Link: https://clinicaltrials.gov/study/NCT04458584
-
-SUMMARY:
-
-
 ## NCT07049757
 Healthy Family Project: Ending Tobacco Use and Smoke Exposure in Asian American Communities
 
@@ -8306,15 +8286,6 @@ Predictive Multimodal MRI Factors in Subacute Cerebral Artery Occlusiontreated b
 
 Intervention: : Multimodal MRI — Multimodal MRI will be realized between 12 and 24 hours after thrombectomy
 Link: https://clinicaltrials.gov/study/NCT04651010
-
-SUMMARY:
-
-
-## NCT04476485
-A Newly Discovered Clinical Recurrence Predictor for High-risk Hormone Receptor-positive Breast Cancer: a Real Word Study
-
-Intervention: : endocrine therapy — If the expression of sj-subway in the surgical wax block is eligible, it is recommended but not mandatory that patients follow the guidelines to choose the appropriate extended endocrine therapy. 1. For postmenopausal patients: Extend treatment with aromatase inhibitors 10 years: letrozole or anastrozole or exemestane. 2. For premenopausal patients: An initial 5 years tamoxifen treatment followed by additional 5 years extended tamoxifen treatment. Postmenopausals are treated with aromatase inhibitors 5 years. 3. For patients have completed ovarian function suppression plus initial 5-year aromatase inhibitor treatment: Menopausals: Aromatase inhibitors; Non-menopausals: 5 years of tamoxifen treatment or ovarian function suppression plus 5 years of aromatase inhibitor treatment. 4. For patients have completed ovarian function suppression plus initial 5-year tamoxifen treatment: Menopausals: Aromatase inhibitors for additional 5 years; Non-menopausals: Tamoxifen for additional 5 years.
-Link: https://clinicaltrials.gov/study/NCT04476485
 
 SUMMARY:
 
@@ -13777,17 +13748,6 @@ A Study of Equecabtagene Autoleucel Injection (Eque-cel) in the Treatment of Rel
 
 Intervention: : Equecabtagene Autoleucel Injection — dosage form: injection, dosage: 1.0×10\^6 CAR-T/kg, frequency: single dose.
 Link: https://clinicaltrials.gov/study/NCT06902844
-
-SUMMARY:
-
-
-## NCT04480203
-Coping After Breast Cancer - CABC - Stressmestring Etter Brystkreft - SEB
-
-Intervention: : Stressproffen cognitive based stress management — The participants will download an app (Stressproffen 2A) with cognitive based stress management.
-: Stressproffen mindfulness based intervention — The participants will download an app (Stressproffen 2B) with mindfulness based intervention.
-: Control — The participants will receive no app. (They will be able to download it after the end of the 3 year study).
-Link: https://clinicaltrials.gov/study/NCT04480203
 
 SUMMARY:
 

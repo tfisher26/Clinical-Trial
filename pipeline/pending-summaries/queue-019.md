@@ -338,17 +338,6 @@ Link: https://clinicaltrials.gov/study/NCT05945602
 SUMMARY:
 
 
-## NCT04467502
-Virtual Reality Exposure Therapy for Gambling Disorder: Randomized Controlled Trial
-
-Intervention: : cognitive-behavioral therapy for gambling disorder — 6 sessions of cognitive-behavioral therapy for gambling disorder
-: imaginal exposure therapy focus on gambling cues — 6 sessions of imaginal exposure therapy focus on gambling cues
-: virtual reality exposure therapy focus on gambling cues — 6 sessions of virtual reality exposure therapy focus on gambling cues
-Link: https://clinicaltrials.gov/study/NCT04467502
-
-SUMMARY:
-
-
 ## NCT05984342
 Adjuvant Chemotherapy in Combination With Tislelizumab in Lymph Node-Positive Esophageal Squamous Cell Carcinoma
 
@@ -2808,15 +2797,6 @@ A Phase III Clinical Study to Evaluate the Efficacy, Tolerability, and Safety of
 Intervention: : Bempedoic Acid Tablet — Once daily, oral
 : Placebo — Once daily, oral
 Link: https://clinicaltrials.gov/study/NCT06780410
-
-SUMMARY:
-
-
-## NCT04461301
-Multimodal Prehabilitation for Major Surgery in Elderly Patients to Lower Complications and to Increase Cost Effectiveness: a Randomised, Prospective, Multicenter, Multidisciplinary Trial (PREHABIL Trial).
-
-Intervention: : Multimodal Prehabilitation — A multimodal prehabilitation program (exercise, nutrition, anemia correction and smoking cessation).
-Link: https://clinicaltrials.gov/study/NCT04461301
 
 SUMMARY:
 
@@ -5480,16 +5460,6 @@ Link: https://clinicaltrials.gov/study/NCT06063577
 SUMMARY:
 
 
-## NCT04478734
-Multicentric Trial on the Use of Combined Therapy of Thiamine and Biotine in Patients With Huntington´s Disease
-
-Intervention: : Moderate doses of Thiamine y Biotin — Thiamine 600 mg every day + Biotin 150mg every day
-: High doses of Thiamine y Biotin — Thiamine 1200 mg every day + Biotin 300mg every day
-Link: https://clinicaltrials.gov/study/NCT04478734
-
-SUMMARY:
-
-
 ## NCT07788846
 A Multicentre, Prospective, Randomized, Controlled, Three-Arm Superiority Trial Comparing Hemocoll® FTC, Avitene™ MCH, and Conventional Bone Wax for Cancellous Bone Bleeding Following Single-Ray Amputation
 
@@ -8006,15 +7976,6 @@ Active Surveillance Versus Definitive Local Therapy for Patients Showing Clinica
 Intervention: : Active Surveillance — Participant found to have a cCR will be randomized to either standard of care or investigational active surveillance.
 : Control arm - Definitive bladder treatment — Standard of care, consisting of radical cystectomy or chemo-radiation of the bladder
 Link: https://clinicaltrials.gov/study/NCT06537154
-
-SUMMARY:
-
-
-## NCT04484727
-"Lung Barometric Measurements in Normal And in Respiratory Distressed Lungs"
-
-Intervention: : PEEP-step method — By changing PEEP in one or two steps up and down, transpulmonary pressure and the lung P/V curve can be determined using a dedicated software collecting data on tidal-volume changes and pressure changes during the PEEP-changes from the standard monitoring equipment or ventilator.
-Link: https://clinicaltrials.gov/study/NCT04484727
 
 SUMMARY:
 
@@ -12071,19 +12032,6 @@ Feasibility Study of Deep Learning-based MDixon Quant for Quantitative Assessmen
 
 Intervention: : Neoadjuvant chemotherapy — Neoadjuvant chemotherapy
 Link: https://clinicaltrials.gov/study/NCT06735118
-
-SUMMARY:
-
-
-## NCT04461821
-Exhaled Breath Analysis by Secondary Electrospray Ionization - Mass Spectrometry in Children and Adolescents (EBECA)
-
-Intervention: : Real-time SESI-MS breath analysis — Participants will be asked to refrain from eating, drinking, chewing gum use or brushing their teeth at least 1 hour before the measurements will be performed. Room temperature and lighting will be set at the same level for all measurements. Participants will exhale through a disposable mouthpiece into a commercially available SESI source (FIT S.L., Spain). While performing full exhalations, the subjects will keep the pressure through the sampling line at a fixed value monitored by a digital manometer. Breath prints will be collected in real-time recording multiple replicates (typically six in positive and negative ion mode). The whole procedure is absolutely non-invasive and is usually accomplished without any effort in around 15 min per subject.
-: Off-line breath analysis — In young children below the age of 4 not capable of completing the on-line exhalation maneuvers, or in cases when the patient needs cannot approach the mass spectrometer, the sample will be collected off-line. They will be asked to exhale into a bag that will be transported to the lab and deflated into the mass spectrometer for analysis. Exhaled breath of patients under anesthesia will also collected using available ventilation system in the operation theatre.
-: Blood analysis — Blood analysis done in patients who undergo regular blood sampling needed for clinical routine laboratory controls. This includes i) children and adolescents receiving medications which require TDM ii) patients with acute diseases such as TD1 and pneumonia and iii) patients with chronic diseases such as asthma bronchiale. For those patients where a blood sample is drawn during the clinical routine, an additional blood sample consisting of only several blood drops will be collected using the same blood sampling line. No additional venous puncture for research purpose will be done.
-: Saliva analysis — During the diagnostic and therapeutic work-up of T1D patients, saliva samples are collected during the clinical routine. For those patients, additional samples will be obtained by clinically trained investigators.
-: Urine analysis — During the diagnostic and therapeutic work-up of T1D patients, urine samples are collected during the clinical routine. For those patients, additional samples will be obtained by clinically trained investigators.
-Link: https://clinicaltrials.gov/study/NCT04461821
 
 SUMMARY:
 

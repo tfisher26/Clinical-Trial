@@ -3215,12 +3215,3 @@ Link: https://clinicaltrials.gov/study/NCT05823142
 
 SUMMARY:
 
-
-## NCT04486638
-Dengvaxia US Pregnancy Registry: A Surveillance Study to Assess the Safety of Dengvaxia Among Exposed Pregnant Women and Their Offsprings (DNG00044)
-
-Intervention: : Dengue Tetravalent Vaccine, Live — Pharmaceutical form: Powder and solvent for suspension for injection Route of administration: Subcutaneous
-Link: https://clinicaltrials.gov/study/NCT04486638
-
-SUMMARY:
-

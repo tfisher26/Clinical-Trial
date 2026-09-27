@@ -2,15 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT04460573
-Improving the Science of Adherence Reinforcement and Safe Mobility in People With Diabetic Foot Ulcers Using Smart Offloading
-
-Intervention: : Offloading Boot — Removable offloading boot in one of three configurations provided to participants
-Link: https://clinicaltrials.gov/study/NCT04460573
-
-SUMMARY:
-
-
 ## NCT05991193
 A Non-interventional Study and Its Clinical Relevance With Central Nervous System Metastatic Epidermal Growth Factor Receptor Mutation Positive Non-small Cell Lung Cancer
 
@@ -1729,15 +1720,6 @@ A Study to Assess Safety and Effectiveness of the JenaValve Trilogy™ Transcath
 Intervention: : Transcatheter Aortic Valve Replacement (TAVR) using Trilogy THV System — Transcatheter Aortic Valve Replacement (TAVR) with Trilogy Device
 : SAVR — SAVR using commercially available surgical prosthetic valves.
 Link: https://clinicaltrials.gov/study/NCT06608823
-
-SUMMARY:
-
-
-## NCT04465591
-Troponin T Fragmentation in the Assessment of Myocardial Injury Study
-
-Intervention: : troponin T fragmentation test — laboratory test from blood sample
-Link: https://clinicaltrials.gov/study/NCT04465591
 
 SUMMARY:
 

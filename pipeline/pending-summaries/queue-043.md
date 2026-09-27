@@ -1843,23 +1843,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04456816
-An Exploratory, Randomized, Double-blind, Multicenter, Placebo-controlled Study to Assess the Safety, Tolerability, Pharmacokinetics, and Efficacy of AP1189 Versus Placebo Administered for 12 Weeks as an add-on to Patients, in ACE Inhibitor or Angiotensin II Receptor Blocker Treatment, With Idiopathic Membranous Nephropathy and Severe Proteinuria
-
-Intervention: : 100 mg AP1189 — 100 mg AP1189 tablet
-: Placebo — Matching placebo tablet
-Link: https://clinicaltrials.gov/study/NCT04456816
-
-SUMMARY:
-
-## NCT04457544
-Spontaneous Coronary Artery Dissection (SCAD) National Swiss Registry (SwissSCAD)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04457544
-
-SUMMARY:
-
 ## NCT04458532
 A Randomized Trial to Minimize Non-Response to Aerobic Training in Post-Menopausal Women With Early Stage Breast Cancer
 
@@ -1877,17 +1860,6 @@ Development of a Monocentric and Prospective Clinical and Biological Database in
 Intervention: : Paraffin tissue samples — Paraffin tissue samples collected during surgery (neoplasic tissue and normal tissue
 : blood sample — MDM2 project : Blood samples collected at different times : Before the surgery, and 1 month after the surgery circulant DNA project : Blood samples collected at different times : Before the surgery, and 1 month after the surgery radiotherapy toxicity : Blood samples collected before the radiotherapy
 Link: https://clinicaltrials.gov/study/NCT04458792
-
-SUMMARY:
-
-## NCT04460235
-Immunogénicité de la Vaccination Anti-pneumococcique (PCV13+PPV23 Versus PREVENAR20) Dans le Lymphome Chez l'Adulte
-
-Intervention: : Prevenar 13 + Pneumovax 23 — Cohort study A before modification of vaccination national guidelines
-: PREVENAR20 — Health authorities changed guidelines to recommend one injection of PREVENAR20 instead of the 2-vaccine scheme general practitioners are usually in charge of this vaccination.
-
-Cohort study B
-Link: https://clinicaltrials.gov/study/NCT04460235
 
 SUMMARY:
 
@@ -1909,14 +1881,6 @@ Link: https://clinicaltrials.gov/study/NCT04460352
 
 SUMMARY:
 
-## NCT04462978
-Investigating Clinical Features, Natural Course and Pathophysiology of Non-Immunoglobulin E-mediated Food Allergies in the Pediatric Age
-
-Intervention: : Non IgE-mediated food allergy
-Link: https://clinicaltrials.gov/study/NCT04462978
-
-SUMMARY:
-
 ## NCT04466059
 A Case-Control Study To Determine The Suitability Of Artificial Intelligence For Leukemia Diagnostics
 
@@ -1925,55 +1889,11 @@ Link: https://clinicaltrials.gov/study/NCT04466059
 
 SUMMARY:
 
-## NCT04467437
-Transcutaneous Spinal Stimulation With Intensive Gait Training for Individuals With Neurologic Conditions
-
-Intervention: : Gait Training — Training that targets rehabilitation of walking function
-: Transcutaneous Spinal Stimulation — Non-invasive electrical stimulation of the spinal cord over the skin combined with gait training
-Link: https://clinicaltrials.gov/study/NCT04467437
-
-SUMMARY:
-
-## NCT04467671
-Prospective, Open-labeled, Single-arm Clinical Trial to Evaluate the Safety and Efficacy of the Second-generation Tissue Engineered Vascular Graft as Vascular Conduits for Extracardiac Total Cavopulmonary Connection.
-
-Intervention: : Tissue Engineered Vascular Grafts — Patients will undergo EC TCPC interposition grafting with a tissue engineered vascular graft and serial magnetic resonance imaging (MRI)
-Link: https://clinicaltrials.gov/study/NCT04467671
-
-SUMMARY:
-
 ## NCT04467723
 CAFs (Combination of Atezolizumab and Pirfenidone in Second-line and Beyond NSCLC): a Phase I/II Study
 
 Intervention: : Atezolizumab — Atezolizumab is given as an intravenous infusion at 1200 mg every 3 weeks. Pirfenidone is taken by mouth 3 times a day with the dose increasing every 2 week until day 30
 Link: https://clinicaltrials.gov/study/NCT04467723
-
-SUMMARY:
-
-## NCT04467944
-Effect of Pre-existing Adjacent Segment Degeneration on Long-term Effectiveness After Lumbar Fusion Surgery: a Prospective Cohort Study
-
-Intervention: : Pre-existing degenerative factors at adjacent segment — Pre-existing degenerative factors at adjacent segment, including disc factors and canal stenosis factors
-Link: https://clinicaltrials.gov/study/NCT04467944
-
-SUMMARY:
-
-## NCT04468061
-Saci-IO TNBC: Randomized Phase II Study of Sacituzumab Govitecan With or Without Pembrolizumab in PD-L1-negative Metastatic Triple Negative Breast Cancer (TNBC)
-
-Intervention: : Sacituzumab Govitecan — Intravenous Infusion
-: Pembrolizumab — Intravenous Infusion
-Link: https://clinicaltrials.gov/study/NCT04468061
-
-SUMMARY:
-
-## NCT04468932
-Cerebellar Transcranial Magnetic Stimulation for Motor Control in Progressive Supranuclear Palsy
-
-Intervention: : Repetitive transcranial magnetic stimulation (rTMS) — Aim 1: To determine the clinical effects of rTMS targeting the cerebellum on postural instability in PSP. The hypothesis to be tested is that TMS augmentation of cerebellar inhibition will improve cerebellum-dependent balance symptoms of PSP for a period of time sufficient to improve rehabilitation outcomes. The investigators will measure a battery of objective posturography metrics and other measures of motor control, including sway and center of pressure changes to backward tilt and forward translation.
-
-Aim 2: We will use functional near infrared spectroscopy (fNIRS) to examine changes in motor and premotor cortical activity after cerebellar rTMS. The hypothesis to be tested is that premotor and motor cortical activity will decrease after cerebellar rTMS compared to sham TMS, reflecting improved cerebellar inhibition of the motor cortex after the intervention.
-Link: https://clinicaltrials.gov/study/NCT04468932
 
 SUMMARY:
 
@@ -1987,51 +1907,6 @@ The solution should be diluted in 20-30 ml of appropriate liquid before administ
 : Etoposide — A semisynthetic derivative of podophyllotoxin which functions as mitotic inhibitor but does not interfere with microtubular assembly. The drug is administered orally daily, in the formulation appropriate for age.
 : Celecoxib — The drug is administered orally daily, in the formulation appropriate for age.The solution is safe for administration through a nasogastric or G-tube.
 Link: https://clinicaltrials.gov/study/NCT04469530
-
-SUMMARY:
-
-## NCT04469764
-An Open Label Phase II Study of the Efficacy and Safety of Abemaciclib, a Cyclin Dependent Kinase (CDK4/6) Inhibitor in Selected Patients With Recurrent Ovarian or Endometrial Cancer
-
-Intervention: : Abemaciclib — Given PO
-: Anastrozole — Given PO
-: Letrozole — Given PO
-Link: https://clinicaltrials.gov/study/NCT04469764
-
-SUMMARY:
-
-## NCT04472130
-Biomarkers in Neurodegenerative Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04472130
-
-SUMMARY:
-
-## NCT04472338
-PATROL: Prostate Cancer Screening for People AT Genetic Risk FOr Aggressive Disease
-
-Intervention: : Biospecimen Collection — Undergo collection of blood, urine, and/or tissue samples
-: Laboratory Biomarker Analysis — Correlative studies
-: Quality-of-Life Assessment — Ancillary studies
-: Questionnaire Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT04472338
-
-SUMMARY:
-
-## NCT04473794
-Diagnostic Strategies, Risk Assessment and Progression of Pancreatic Cysts
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04473794
-
-SUMMARY:
-
-## NCT04475289
-Registry for Invasive and Non-invasive Anatomical Assessment and Outcome of Coronary Artery Anomalies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04475289
 
 SUMMARY:
 
@@ -2049,149 +1924,6 @@ GEMINI - Cancer Genetic Testing in Ethnic Populations
 Intervention: : Biospecimen Collection — Undergo collection of blood sample
 : Genetic Testing — Undergo genetic testing
 Link: https://clinicaltrials.gov/study/NCT04475640
-
-SUMMARY:
-
-## NCT04475705
-The Effects of Propofol Based Intravenous vs Sevoflurane Inhalation Anaesthesia on Inflammation and Circulating Tumor Cells in Paediatric Tumor Surgery - a Pilot Study
-
-Intervention: : propofol — intravenous propofol using Target Controlled Infusion 'Paedfusor' model 2-5 as the main anaesthetic to achieve Bispectral Index 40-60
-: sevoflurane — sevoflurane at Minimal Alveolar Concentration 0.7-1.3 as the main anaesthetic to achieve Bispectral Index 40-60.
-Link: https://clinicaltrials.gov/study/NCT04475705
-
-SUMMARY:
-
-## NCT04475952
-Early Diagnosis of Upper Digestive Tract Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04475952
-
-SUMMARY:
-
-## NCT04477330
-Cortical Priming to Optimize Gait Rehabilitation: Renewal
-
-Intervention: : Transcranial direct current stimulation (tDCS) — 1 mA tDCS
-: Ankle motor training — Visuomotor target tracking task
-: High intensity interval speed based treadmill training (HIISTT) — Each treadmill session to include warm-up, high intensity speed-based intervals interleaved with active recovery, and cool down.
-Link: https://clinicaltrials.gov/study/NCT04477330
-
-SUMMARY:
-
-## NCT04477629
-Belatacept in De Novo Heart Transplantation - Pilot Study
-
-Intervention: : Belatacept — Belatacept will be given in the following way - 10mg/kg IV day 1, 5, end of weeks 2, 4, 8, 12 then 5mg/kg every 4 weeks.
-: Tacrolimus — Non-experimental: Tacrolimus will be given in the following way - trough level at month 1, 10-12ng/mL; month 2-3, 6-10ng/mL; month 4-6, 4-6ng/mL; months 7-9 taper off.
-: Mycophenolate Mofetil — Non-experimental: MMF is part of standard of care after heart transplant and will follow dosing recommendations as per standard clinical practice at 500-1500mg twice a day (BID) (dosed to tolerance and effect).
-: Corticosteroid — Non-experimental: CS is part of standard of care after heart transplant and will follow dosing recommendations as per standard clinical practice at a dose no less than 5mg/d.
-Link: https://clinicaltrials.gov/study/NCT04477629
-
-SUMMARY:
-
-## NCT04479072
-Aspirin to Prevent Cardiac Dysfunction in Preeclampsia
-
-Intervention: : Aspirin 81 mg — Subjects in the interventional arm will receive a daily dose of aspirin 81 mg, starting at their baseline visit and to be taken up to their 6-month follow-up visit.
-: Placebo — Subjects in this group will receive a daily dose of a placebo pill, starting at their baseline visit and to be taken up to their 6-month follow-up visit.
-Link: https://clinicaltrials.gov/study/NCT04479072
-
-SUMMARY:
-
-## NCT04479683
-"COTIDEA COmparison Between Continued Inpatient Treatment Versus Day Patient Treatment (Partial Hospitalization) After Short Inpatient Care in Early Onset Anorexia Nervosa: a Non-inferiority Trial A Non-inferiority Study"
-
-Intervention: : FTH then DH support — FTH output and DH relay one day a week until the minimum healthy weight. This treatment combines over one day a medical evaluation by a senior psychiatrist, family work (parents group and multi-family therapy session), a therapeutic education group, a cognitive remediation group and a dietary follow-up with therapeutic meals.
-
-During this phase, all children are evaluated once a week on a somatic level.
-: standard care — continuation of full-time hospitalization until the minimum healthy weight is reached, defined as the weight corresponding to the return to the previous BMI corridor (previous BMI +/- 1 BMI corridor, e.g. change from 25th to 10th percentile). This management combines bi-weekly medical follow-up by a senior psychiatrist, weekly family work, weekly therapeutic education group, weekly cognitive remediation group and bi-weekly dietary follow-up with therapeutic meals.
-Link: https://clinicaltrials.gov/study/NCT04479683
-
-SUMMARY:
-
-## NCT04480918
-University of Iowa Interventional Psychiatry Service Patient Registry
-
-Intervention: : Electroconvulsive Therapy (ECT) — ECT for the treatment of treatment-resistant depression OR Bipolar Disorder in an active major depressive episode
-: Transcranial Magnetic Stimulation (TMS) — TMS for the treatment of treatment-resistant depression in an active major depressive episode
-: Ketamine — Intravenous ketamine infusion for the treatment of treatment-resistant depression in an active major depressive episode
-: Esketamine — Intranasal esketamine insufflation for the treatment of treatment-resistant depression in an active major depressive episode
-: Deep Transcranial Magnetic Stimulation (dTMS) — TMS for the treatment of OCD
-Link: https://clinicaltrials.gov/study/NCT04480918
-
-SUMMARY:
-
-## NCT04481321
-ENDOCHAP Monocentric Cohort: Clinical and Molecular Study of Endometriosis and Adenomyosis
-
-Intervention: : Biological/Vaccine
-Link: https://clinicaltrials.gov/study/NCT04481321
-
-SUMMARY:
-
-## NCT04482374
-Effects of Puberty and Pubertal Suppression on Insulin Sensitivity, Metabolic Rate and Vascular Health
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04482374
-
-SUMMARY:
-
-## NCT04484675
-Comparative Study Between Inhaled and Intravenous Milrinone in Patients With Severe Pulmonary Hypertension Undergoing Cardiac Surgery
-
-Intervention: : Milrinone inhalation — After induction of anesthesia and stable hemodynamics inhaled milrinone( 1 mg/ml) is initiated and intravenous placebo ( normal saline )infusion are administered
-: Milrinone infusion — After induction of anesthesia and stable hemodynamics inhaled placebo( normal saline) is initiated and intravenous ( 1 mg/ml) (0.5 μg/kg/min)infusion are administered
-Link: https://clinicaltrials.gov/study/NCT04484675
-
-SUMMARY:
-
-## NCT04486131
-Lateral Nodal Recurrence in Rectal Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04486131
-
-SUMMARY:
-
-## NCT04487340
-Computer-based Online Database of Acute Stroke Patients for Stroke Management Quality Evaluation
-
-Intervention: : Education — Provide each center with relevant education of guidelines, and help the clinicians to improve medical quality.
-Link: https://clinicaltrials.gov/study/NCT04487340
-
-SUMMARY:
-
-## NCT04490317
-CARbon monoxidE intoxiCatiOn in Korea: Prospective Cohort (CARE CO Cohort)
-
-Intervention: : Cardiac MRI — 1. Cardiac MRI be taken to CO poisoned patients
-2. Cardiac CT be taken to CO poisoned patients
-3. TTE be taken to CO poisoned patients
-4. Brain MRI be taken to CO poisoned patients
-5. Neurocognitive function tests be taken to CO poisoned patients
-6. Laboratory tests be taken to CO poisoned patients
-: Hyperbaric oxygen therapy — 1. Hyperbaric oxygen therapy be used for CO poisoned patients
-2. Therapeutic hypothermia be used for CO poisoned patients
-Link: https://clinicaltrials.gov/study/NCT04490317
-
-SUMMARY:
-
-## NCT04490720
-The Efficacy Evaluation of Buckwheat Husk Extract on Cardiovascular Disease Risk Factors
-
-Intervention: : Placebo — consume 1 sachet per day for 2 months
-: Buckwheat husk extract — consume 1 sachet per day for 2 months
-Link: https://clinicaltrials.gov/study/NCT04490720
-
-SUMMARY:
-
-## NCT04490733
-Developing Risk Prediction Model of Mild Cognitive Impairment in Patients With Colorectal Cancer From Active Treatment to Survivor and Testing the Effect of Dual Task Walking on Improving Cognitive Function
-
-Intervention: : dual-task walking — Participants in the experimental group will receive 3 times interventions during chemotherapy and 12 weekly phone calls or via LINE to assess barriers of dual-task walking.
-Link: https://clinicaltrials.gov/study/NCT04490733
 
 SUMMARY:
 

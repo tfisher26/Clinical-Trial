@@ -5836,32 +5836,11 @@ Link: https://clinicaltrials.gov/study/NCT05669339
 SUMMARY:
 
 
-## NCT04207580
-A National Prospective Cohort of Patients With Idiopathic Nephrotic Syndrome Beginning in Childhood.
-
-Intervention: : Inclusion and follow up of pediatric patients with an idiopathic nephrotic syndrome, — The study consists in collecting clinical, biological, psychological and social data of INS pediatric patients.
-
-A bio collection is also created: blood, urine, hair and nails will be collected at the beginning of the INS (before starting immunosuppressive treatment).
-Link: https://clinicaltrials.gov/study/NCT04207580
-
-SUMMARY:
-
-
 ## NCT07392437
 Prevalence of Diabetes-related Distress Among Patients Living With Type 2 Diabetes in a University Hospital Center and Identification of Its Associated Factors.
 
 Intervention: : Questionnaire and Physical Exam — Patients will be asked to complete questionnaires.
 Link: https://clinicaltrials.gov/study/NCT07392437
-
-SUMMARY:
-
-
-## NCT03977493
-IncobotulinumtoxinA (Xeomin) to Treat Focal Hand Dystonia: a Double-blind Placebo-controlled Randomized Multicenter Study: The "SwissHandSpasm" Study
-
-Intervention: : Xeomin — One injection of 2.5 to 40 U in each muscle. Injection repeated after 6 weeks if considered necessary
-: Placebo - Concentrate — One injection in each muscle.
-Link: https://clinicaltrials.gov/study/NCT03977493
 
 SUMMARY:
 
@@ -5971,15 +5950,6 @@ Link: https://clinicaltrials.gov/study/NCT05724745
 SUMMARY:
 
 
-## NCT01351545
-A Multicenter Access and Distribution Protocol for Unlicensed Cryopreserved Cord Blood Units (CBUs) for Transplantation in Pediatric and Adult Patients With Hematologic Malignancies and Other Indications
-
-Intervention: : A multicenter access and distribution protocol for unlicensed cryopreserved cord blood units (CBUs) — A multicenter access and distribution protocol for unlicensed cryopreserved cord blood units (CBUs) for transplantation in pediatric and adult patients with hematologic malignancies and other indications
-Link: https://clinicaltrials.gov/study/NCT01351545
-
-SUMMARY:
-
-
 ## NCT07203612
 Prevention of Injuries Among Young Children: Tailoring a Home Supervision Intervention for Latinx Caregivers
 
@@ -6034,17 +6004,6 @@ Link: https://clinicaltrials.gov/study/NCT05916755
 SUMMARY:
 
 
-## NCT03855800
-Molecular Detection of Advanced Neoplasia in Pancreatic Cysts (IN-CYST)
-
-Intervention: : Blood, stool, pancreatic juice and cyst fluid collection — Blood and stool will be collected at baseline from all study participants. Those in the Immediate Surgery group may undergo endoscopic pancreatic juice collection before surgery, either at the time of a clinically indicated endoscopic ultrasound (EUS) exam or during an optional pre-operative research endoscopy. Pancreatic cyst fluid will also be obtained from all participants in the Immediate Surgery group, either at the time of surgery, or during a clinically indicated preoperative EUS FNA procedure, or both. Pancreatic juice and cyst fluid will be collected opportunistically from participants in the Clinical Follow-up group who undergo a clinically indicated EUS, EUS FNA, or endoscopy exam.
-: Pancreatic Surgery — Surgical resection of pancreatic cyst
-: Endoscopy Exam — Clinically indicated endoscopic ultrasound
-Link: https://clinicaltrials.gov/study/NCT03855800
-
-SUMMARY:
-
-
 ## NCT05965518
 A Pilot Trial of High-Intensity Exercise to Combat Vascular and Cognitive Dysfunction in Older Adults With HIV
 
@@ -6080,16 +6039,6 @@ Evaluation of the Effects of Rehabilitative Exergame Exercises on Foot Muscle Ac
 Intervention: : Exergame-based Balance and Foot Muscle Training — The interventions will carried out two days a week and 40 minutes, for eight weeks.
 : Conventional Functional Balance Training — he interventions will carried out two days a week and 40 minutes, for eight weeks.
 Link: https://clinicaltrials.gov/study/NCT07357662
-
-SUMMARY:
-
-
-## NCT03667326
-Low-Dose Aspirin in the Postpartum Period and Endothelial Function in Patients With Preeclampsia
-
-Intervention: : Aspirin tablet — Low dose aspirin, 81mg tablets, PO
-: Placebo oral capsule — Placebo oral capsule, PO
-Link: https://clinicaltrials.gov/study/NCT03667326
 
 SUMMARY:
 
@@ -6227,16 +6176,6 @@ Prospective Multicentric Cohort Study of Severe and Very Severe COPD Patients in
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06780046
-
-SUMMARY:
-
-
-## NCT03372733
-Effect of Dietary Omega-7 Palmitoleic Acid-Rich Oil on Lipoprotein Metabolism and Satiety in Adults
-
-Intervention: : control olive oil (COO) — 2 capsules, 2 times a day after meals in a total of 4 capsules a day
-: palmitoleate-rich oil (PLO) — 2 capsules, 2 times a day after meals in a total of 4 capsules a day
-Link: https://clinicaltrials.gov/study/NCT03372733
 
 SUMMARY:
 
@@ -6607,15 +6546,6 @@ Link: https://clinicaltrials.gov/study/NCT07547670
 SUMMARY:
 
 
-## NCT00104325
-Cytapheresis of Volunteer Donors
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00104325
-
-SUMMARY:
-
-
 ## NCT06031688
 A Randomized Phase II Study of Tepotinib With or Without Ramucirumab in Participants With MET Exon 14 Skipping Positive Stage IV or Recurrent Non-Small Cell Lung Cancer (LUNG-MAP SUB-STUDY)
 
@@ -6626,15 +6556,6 @@ Intervention: : Biospecimen Collection — Undergo blood and urine sample collec
 : Ramucirumab — Given IV
 : Tepotinib — Given PO
 Link: https://clinicaltrials.gov/study/NCT06031688
-
-SUMMARY:
-
-
-## NCT03494374
-The Effect of Orthosis and Exercise in Pes Planus
-
-Intervention: : UCBL orthosis — toe walking exercise
-Link: https://clinicaltrials.gov/study/NCT03494374
 
 SUMMARY:
 
@@ -6813,15 +6734,6 @@ Link: https://clinicaltrials.gov/study/NCT05967819
 SUMMARY:
 
 
-## NCT03740503
-Genomic Investigation of Unusual Responders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03740503
-
-SUMMARY:
-
-
 ## NCT06122064
 Shared Decision-Making Encounter Tool for Adjuvant Treatment of Lung Cancer: Randomized Control Trial
 
@@ -6878,15 +6790,6 @@ Clinical Evaluation of Functional Near-infrared Spectroscopy for Anxiety Monitor
 Intervention: : AI-fNIRS neurofeedback device — The device, with AI-fNIRS signals serving as brain monitor to indicate the level of anxiety, provides mindfulness training through visual and auditory cues to help participants modulate their brain activity, and thus alleviates anxious states.
 : AI-fNIRS neurofeedback device with sham signals — The sham control consists of playbacks of someone else's real AI-fNIRS neurofeedback and will be provided 3 times a week, for a total of 4 weeks.
 Link: https://clinicaltrials.gov/study/NCT05921773
-
-SUMMARY:
-
-
-## NCT00024479
-Studies of the Natural History of Rheumatic Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00024479
 
 SUMMARY:
 
@@ -7172,15 +7075,6 @@ Link: https://clinicaltrials.gov/study/NCT06433349
 SUMMARY:
 
 
-## NCT02471287
-The Genetics of Inherited Eye Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02471287
-
-SUMMARY:
-
-
 ## NCT06797752
 Effect of the Stellate Ganglion Block on the Retinal Microcirculation: A Pilot Study
 
@@ -7204,16 +7098,6 @@ Detection of Circulating Tumour Cells, Spread Through Air Space and Lymph-nodal 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06833632
-
-SUMMARY:
-
-
-## NCT04350255
-STEISURE - Trident II - A Registerbased Multicentric Prospective Study
-
-Intervention: : Total hip arthroplasty — Total hip arthroplasty with a Trident II hemispherical cup
-: Total hip arthroplasty — Total hip arthroplasty with a Trident II Tritanium cup
-Link: https://clinicaltrials.gov/study/NCT04350255
 
 SUMMARY:
 
@@ -7376,29 +7260,11 @@ Link: https://clinicaltrials.gov/study/NCT06764472
 SUMMARY:
 
 
-## NCT03374267
-Clinical Research Platform On Urologic Cancer Treatment And Outcome (Registry Platform Urologic Cancer; CARAT)
-
-Intervention: : Routine care as per site standard. — Physician's choice according to patient's needs.
-Link: https://clinicaltrials.gov/study/NCT03374267
-
-SUMMARY:
-
-
 ## NCT05476523
 Development and Validation of a Novel Eye-Tracking Software-based Platform to Extract Oculometric Measures
 
 Intervention: : NeuraLight — NeuraLight is an investigational software-based platform used for measuring eye movements in response to visual stimuli and captured using a simple webcam
 Link: https://clinicaltrials.gov/study/NCT05476523
-
-SUMMARY:
-
-
-## NCT00233272
-The Baltimore Longitudinal Study of Aging (BLSA)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00233272
 
 SUMMARY:
 
@@ -7438,15 +7304,6 @@ Link: https://clinicaltrials.gov/study/NCT06446869
 SUMMARY:
 
 
-## NCT00512343
-Establishment of a Bank of Synovial Fluids and Paired Sera From Arthritic Patients for the Evaluation of New Methods Facilitating the Diagnosis and the Monitoring of Progression and Therapy of Arthritis.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00512343
-
-SUMMARY:
-
-
 ## NCT06308367
 The Effect of Betaine in Refractory Syringomyelia（RS）
 
@@ -7462,15 +7319,6 @@ Assessment of Weight-bearing Ankle Range of Motion Using the Ankle Test and Lowe
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07589218
-
-SUMMARY:
-
-
-## NCT03417336
-Multicenter, Randomized, Pilot Study Evaluating the Efficacy and the Tolerance of Pelvic-prostatic Hypo-fractionated Radiotherapy Followed by Boost (Stereotaxic External Radiotherapy or High Dose Rate Brachytherapy) in Patients With Prostate Adenocarcinoma Adverse Intermediate Risk or High Localized Risk
-
-Intervention: : prostatic boost in brachytherapy with high dose rate (HDR) — prostatic boost in brachytherapy with high dose rate (HDR)
-Link: https://clinicaltrials.gov/study/NCT03417336
 
 SUMMARY:
 
@@ -7836,17 +7684,6 @@ Link: https://clinicaltrials.gov/study/NCT05101304
 SUMMARY:
 
 
-## NCT04176094
-Intensive Care Unit Resident Scheduling Trial
-
-Intervention: : 16h overnight duty — schedule observed by participating ICUs.
-: 24h overnight duty — schedule observed by participating ICUs.
-: Handover training — Formal handover training for residents in both interventions. ICUs with a pre-existing standardized handover training and process will be asked to continue handover practices throughout the study. In ICUs without a pre-existing standardized handover training and process, ICU education directors will be provided with materials to include in orientation of residents to the ICU and local training to ICU staff physicians at least once per year.
-Link: https://clinicaltrials.gov/study/NCT04176094
-
-SUMMARY:
-
-
 ## NCT07098351
 A Clinical Study on the Efficacy and Safety of Nalfurafine Hydrochloride Orally Disintegrating Tablets in the Treatment of Moderate to Severe Pruritus in Peritoneal Dialysis Patients
 
@@ -7862,16 +7699,6 @@ A Multicentre, Randomised, Double-blind, Placebo-controlled Phase III Study, Eva
 Intervention: : Dapagliflozin — 10 mg tablet q.d
 : Placebo — tablet matching dapagliflozin 10 mg q.d
 Link: https://clinicaltrials.gov/study/NCT06304857
-
-SUMMARY:
-
-
-## NCT04395937
-SAMBA Trial: Towards a Paradigm Shift in Severe Asthma Management: Deep Analysis of the Effect of suBmaximal Aerobic Training
-
-Intervention: : Aerobic exercise training — Arm Description: The aerobic training program will be performed indoor three times a week for 12 weeks, under the direct supervision of a chest physician and a physiotherapist. Each aerobic training session will last 75 minutes and will be divided in 5 min of warm-up, 60 min of aerobic training (including 20 minutes on three different ergometers: bicycle, treadmill and rower/elliptical trainers) and 10 min of cool-down. Training intensity is determined by the maximal aerobic power (MAP) previously measured during an initial cardiopulmonary exercise test. Progressive increase in training load during the first three weeks (3x20 minutes at 50% of MAP), followed by 3x20 min at 60% of MAP from weeks 4 to 6, then 3x20 min at 70% of MAP from week 7 to week 9. Finally trainings from week 10 to week 12 include one session of interval training and two sessions of continuous training.
-: Respiratory physiotherapy — Arm Description: Exercises to improve the way of breathing. The breathing exercise sessions will last 30 minutes and be supervised by a physiotherapist 3 times per week.
-Link: https://clinicaltrials.gov/study/NCT04395937
 
 SUMMARY:
 
@@ -8072,15 +7899,6 @@ Study of the Transition From Child Psychiatry to Adult Psychiatry in Nice Within
 
 Intervention: : Group of 17-year-old patients living in Nice and receiving psychiatric care — Prospective study aiming to determine the annual prevalence of 17-year-old patients living in Nice who attend hospital-based child and adolescent psychiatry services. Secondary objectives include: estimating prevalence among under-18 psychiatric patients; describing clinical and sociodemographic profiles (sample of 100 patients); mapping 1-year care trajectories; evaluating clinical outcomes; assessing transition preparedness (to adult psychiatry); and identifying factors associated with psychiatric care continuity at 12 months.
 Link: https://clinicaltrials.gov/study/NCT07068945
-
-SUMMARY:
-
-
-## NCT00571389
-A Biospecimen Collection Study to Facilitate Development of an Ex-Vivo Device Platform for Culture, Immune Assay, and Biobanking of Leukapheresis-Derived Circulating Tumor Cells, Immune Cells, and Progenitor Cells.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00571389
 
 SUMMARY:
 
@@ -13887,15 +13705,6 @@ A Multicenter, Double-Blind, Randomized, Placebo-Controlled Study of Orticumab i
 Intervention: : Orticumab — Orticumab treatment for 24 weeks for post MI population
 : Placebo — Placebo for 24 weeks for the post MI population
 Link: https://clinicaltrials.gov/study/NCT06927739
-
-SUMMARY:
-
-
-## NCT04490031
-Randomized Control Study Evaluating Ketamine as Sedative Agent in Endoscopic Retrograde Cholangiopancreatography (ERCP)
-
-Intervention: : Ketamine Hydrochloride — patient in Ketamine group will be given Ketamine as sedative agent
-Link: https://clinicaltrials.gov/study/NCT04490031
 
 SUMMARY:
 

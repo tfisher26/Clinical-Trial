@@ -2000,16 +2000,6 @@ Link: https://clinicaltrials.gov/study/NCT07347678
 SUMMARY:
 
 
-## NCT04459000
-Substance Use Treatment and Access to Resources (STARS) Project
-
-Intervention: : STARS + maternal Attachment Biobehavioral Catchup home visiting model — Mothers receive up to 12 home visits from a licensed therapist focused on attachment and positive parenting in substance exposed babies. This includes 1 prenatal home visit and up to 11 postnatal visits.
-: STARs Only — Participants receive prenatal care in the STAR clinic (a clinic specifically designed to support mothers with substance abuse who are at risk of losing their children to child welfare at birth).
-Link: https://clinicaltrials.gov/study/NCT04459000
-
-SUMMARY:
-
-
 ## NCT06906432
 Multimodal Omics and Imaging Study on the Mechanisms of Brain-heart Injury in Patients With Intracranial Hemorrhage
 
@@ -4210,16 +4200,6 @@ A Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-G
 Intervention: : Galvokimig — Drug: Galvokimig Pharmaceutical form: Solution for injection
 : Placebo — Drug: Placebo Pharmaceutical form: Solution for injection
 Link: https://clinicaltrials.gov/study/NCT07720375
-
-SUMMARY:
-
-
-## NCT04476901
-A Phase IIB Randomized, Placebo-Controlled, Multicenter Study of the Comparative Efficacy and Safety of Administration of Allogeneic-MSC Versus Placebo in Patients With Non- Ischemic Dilated Cardiomyopathy
-
-Intervention: : allogeneic human mesenchymal stem cells (hMSCs) — allo-hMSCs, 16-20 million cells/ml delivered at a dose of 0.5 ml/ injection x 10 injections for a total of 80-100 million allo-hMSCs or a single administration of intravenous allogeneic hMSCs (100 million).
-: Placebo — Placebo will be administered as injections of plasmalyte A supplemented with 1% of 25% human serum albumin (HSA). 0.5 ml/ injection x 10 injections or an intravenous placebo infusion of Cell-free PlasmaLyte-A medium supplemented with 1% of 25% human serum albumin (HSA)
-Link: https://clinicaltrials.gov/study/NCT04476901
 
 SUMMARY:
 
@@ -7862,16 +7842,6 @@ Link: https://clinicaltrials.gov/study/NCT05680012
 SUMMARY:
 
 
-## NCT04460872
-Locomotor Training With Testosterone to Promote Bone and Muscle Health
-
-Intervention: : Testosterone Enanthate — Subjects receive testosterone (100 mg/week) by intramuscular injection
-: Locomotor Training — Subjects receive locomotor training (4 sessions/week for 2-3 months)
-Link: https://clinicaltrials.gov/study/NCT04460872
-
-SUMMARY:
-
-
 ## NCT06791148
 Low-dose Radiotherapy Combined With Albumin-bound Paclitaxel and AK112 as Second-line Treatment in Patients With Advanced Gastric or Gastroesophageal Junction（G.GEJ）Cancer Who Failed First-line Therapy：a Single，Phase II Trial
 
@@ -10583,15 +10553,6 @@ Intervention: : Treosulfan — 12 g/m2 administered intravenously over 2 hours o
 : Cyclophosphamid — Cyclophosphamide 40 mg/kg will be given as an IV infusion over 1-2 hours (depending on volume) on Days +3 post-transplant (between 60 and 72 hours after stem cell infusion) and on Day +4 post-transplant (approximately 24 hours after Day +3 cyclophosphamide).
 : Stem Cell Infusion — Given on day 0.
 Link: https://clinicaltrials.gov/study/NCT07493538
-
-SUMMARY:
-
-
-## NCT04486495
-Minimal Invasive Axillary Staging and Treatment After Neoadjuvant Systemic Therapy in Node Positive Breast Cancer (MINIMAX): a Dutch Multicenter Observational Study to Gain Insight in Less and More Invasive Axillary Staging and Treatment in Relation to Oncologic Safety and Quality of Life to Develop Evidence-based Guidelines.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04486495
 
 SUMMARY:
 

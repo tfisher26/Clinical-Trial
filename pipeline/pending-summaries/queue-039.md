@@ -2256,17 +2256,6 @@ Link: https://clinicaltrials.gov/study/NCT07790666
 SUMMARY:
 
 
-## NCT04478006
-Driving Therapeutic Progress of Childhood Leukemia Through Advanced Translational Research With Immediate and Long-term Impact. Precision Medicine for Childhood Leukemia.
-
-Intervention: : RNA-seq — Gene expression and fusion transcripts analysis
-: whole exon sequencing — Genetic alternation analysis
-: Cytogenetics test — Remission and relapse are monitored by cytogenetic analyses.
-Link: https://clinicaltrials.gov/study/NCT04478006
-
-SUMMARY:
-
-
 ## NCT07292597
 How Do Individual Differences in Circadian Rhythms Influence Time Perception?
 
@@ -10845,15 +10834,6 @@ Detection of Concussion and Recovery Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07190963
-
-SUMMARY:
-
-
-## NCT04463316
-GROWing Up With Rare GENEtic Syndromes ….When Children With Complex Genetic Syndromes Reach Adult Age
-
-Intervention: : Retrospective file studies — No intevention, retrospective file study: medical history, laboratory values, additional tests, physical and psychological complaints.
-Link: https://clinicaltrials.gov/study/NCT04463316
 
 SUMMARY:
 

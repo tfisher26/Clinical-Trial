@@ -3312,15 +3312,6 @@ Link: https://clinicaltrials.gov/study/NCT06973564
 SUMMARY:
 
 
-## NCT04478305
-The Effect of Conjugated Estrogens/ Bazedoxifene (CE/ BZA) on Peri- and Postmenopausal Mood and Anxiety Symptoms: A Pilot Study
-
-Intervention: : Duavive 0.45Mg-20Mg Tablet — Duavee, marketed as Duavive in Canada.
-Link: https://clinicaltrials.gov/study/NCT04478305
-
-SUMMARY:
-
-
 ## NCT06872905
 Real-World Data Collection of the GORE® VIABAHN® VBX Balloon Expandable Endoprosthesis When Used in Covered Endovascular Reconstruction of the Aortic Bifurcation (CERAB) to Treat Aortoiliac Occlusive Disease
 
@@ -7551,15 +7542,6 @@ Link: https://clinicaltrials.gov/study/NCT06767813
 SUMMARY:
 
 
-## NCT04491370
-Safety and Tolerability of Myeloablative Conditioning and Autologous Stem Cell Transplantation Followed by Polatuzumab Vedotin (PV) Immunoconjugate Therapy in Patients With B-cell Non-Hodgkin and Hodgkin Lymphoma
-
-Intervention: : Polatuzumab vedotin — All patients will receive a myeloablative conditioning regimens (BEAM or CBV, as selected by the treating physician) followed by autologous stem cell transplant (ASCT). All patients on this study will receive an autologous stem cell transplant (ASCT) on Day 0 followed by supportive care including the drugs sargarmostim and filgrastim until blood counts are stable. If a complete, partial, or stable response is achieved following ASCT, the patient will receive an IV dose of Polatuzumab Vedotin once every 21 days until he/she receives 8 doses.
-Link: https://clinicaltrials.gov/study/NCT04491370
-
-SUMMARY:
-
-
 ## NCT07239570
 A Biomarker-targeted Clinical Trial to Optimize Treatment for Patients With Chronic Kidney Disease: A Prospective, Randomized, Open-Label, Parallel-Group, Multicenter Study
 
@@ -8191,17 +8173,6 @@ The Intersection of Oncology Care and Worker Well-Being
 Intervention: : WellBQ — National Institue for Occupational Safety and Health Worker Well-Being Questionnaire is comprised of 21 scales (multiple items assessing a single construct) and 31 single items that cover worker well-being. Domains include (i) work evaluation and experience, (ii) workplace policies and culture, (iii) workplace physical environment and safety climate, (iv) health status, and (v) home, community, and society.
 : PROMIS — Patient-Reported Outcomes Measurement Information System is a set of person-centered measures that evaluates and monitors physical, mental, and social health in adults and children.
 Link: https://clinicaltrials.gov/study/NCT05250284
-
-SUMMARY:
-
-
-## NCT04486833
-A Phase 1/2 Open-Label, Dose-Escalation and Clinical Response Study of Quaratusugene Ozeplasmid in Combination With Osimertinib in Patients With Advanced, Metastatic EGFR-Mutant, Metastatic Non-Small Cell Lung Cancer
-
-Intervention: : quaratusugene ozeplasmid — Quaratusugene ozeplasmid is an experimental non-viral immunogene therapy utilizing the TUSC2 gene, designed to target cancer cells by interrupting cell signaling pathways that allow cancer cells to grow, reestablishing pathways that promote cancer cell death and modulating the immune response against cancer cells.
-: osimertinib — Osimertinib is a 3rd generation EGFR tyrosine kinase inhibitor (TKI) oral tablet administered daily, as indicated for treatment of patients with metastatic NSCLC whose tumors have EGFR genetic deletions or mutations.
-: Platinum-Based Chemotherapy — Cisplatin and carboplatin are intravenously administered platinum agents that are combined with other cytotoxic chemotherapy agents such as pemetrexed.
-Link: https://clinicaltrials.gov/study/NCT04486833
 
 SUMMARY:
 
@@ -8960,16 +8931,6 @@ Link: https://clinicaltrials.gov/study/NCT06397937
 SUMMARY:
 
 
-## NCT04474847
-A Randomized Double-Blind, Placebo Controlled Trial of Abatacept (CTLA4-Ig) in Giant Cell Arteritis (ABAGART)
-
-Intervention: : Abatacept — Participants randomized to abatacept will receive abatacept 125 mg administered by subcutaneous injection once a week. Participants randomized to either the abatacept or the placebo arm who experience a non-severe disease relapse, non-severe disease worsening, or who have not achieved remission by month 3 will have the option of entering an open-label trial period whereby they would receive open-label abatacept for up to 12 months.
-: Placebo — Participants randomized to placebo will receive a sterile placebo solution administered by subcutaneous injection once a week. Participants randomized to either the abatacept or the placebo arm who experience a non-severe disease relapse, non-severe disease worsening, or who have not achieved remission by month 3 will have the option of entering an open-label trial period whereby they would receive open-label abatacept for up to 12 months.
-Link: https://clinicaltrials.gov/study/NCT04474847
-
-SUMMARY:
-
-
 ## NCT06493773
 Alcohol Misuse Treatment Delivered in the Hepatology Clinic to Patients Newly Diagnosed With Alcohol-related Liver Disease: a Randomized Controlled Trial
 
@@ -9086,16 +9047,6 @@ Reevaluation of Original Research Results of Integrated Traditional Chinese and 
 Intervention: : Wangbi granules — Methotrexate 7.5-15mg qw plus tofacitab 5mg bid, combined with Wangbi granules 12.0g tid, treatment course 3 months.
 : Wangbi granules simulant — Methotrexate 7.5-15mg qw plus tofacitab 5mg bid, combined with Wangbi granules simulant 12.0g tid, treatment course 3 months.
 Link: https://clinicaltrials.gov/study/NCT05540938
-
-SUMMARY:
-
-
-## NCT04475666
-Replacing Protein Via Enteral Nutrition in a Stepwise Approach in Critically Ill Patients: An International, Multicenter Randomized Controlled Trial
-
-Intervention: : Replenish protein group — For patients with Body mass index(BMI) \<30, use pre-ICU actual body weight(BW) for the calculation; if unavailable, use weight on ICU admission. For patients with BMI \>=30, use adjusted body weight
-: Standard protein group — For patients with BMI \<30, use pre-ICU actual BW for the calculation; if unavailable, use weight on ICU admission. For patients with BMI \>=30, use adjusted body weight
-Link: https://clinicaltrials.gov/study/NCT04475666
 
 SUMMARY:
 

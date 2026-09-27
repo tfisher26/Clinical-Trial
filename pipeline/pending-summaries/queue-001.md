@@ -879,15 +879,6 @@ Link: https://clinicaltrials.gov/study/NCT05541367
 SUMMARY:
 
 
-## NCT04464655
-A 10-Minute Cardiovascular Magnetic Resonance Protocol for Cardiac Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04464655
-
-SUMMARY:
-
-
 ## NCT07129317
 Pediatric Radiation Therapy Registry
 
@@ -1541,15 +1532,6 @@ Functional and Neurodevelopmental Outcomes Following Intensive Multimodal Neuror
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07493096
-
-SUMMARY:
-
-
-## NCT04491929
-Selective Internal Radiation Therapy With 90Y Resin Micropheres for Refractory Colorectal Cancer Liver Metastases - SIRT - A Translational Feasibility Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04491929
 
 SUMMARY:
 

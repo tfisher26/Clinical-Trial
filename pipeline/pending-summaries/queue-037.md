@@ -520,15 +520,6 @@ Link: https://clinicaltrials.gov/study/NCT06787313
 SUMMARY:
 
 
-## NCT04477785
-The Parkinson's Progression Markers Initiative (PPMI) Clinical - Establishing a Deeply Phenotyped PD Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04477785
-
-SUMMARY:
-
-
 ## NCT07166185
 Evaluation of the Efficacy of Subcutaneous Trastuzumab-Pertuzumab Combination in Neoadjuvant Treatment of Non-Metastatic HER2-Positive Breast Cancer in Algerian Women
 
@@ -797,15 +788,6 @@ Effect of Coenzyme Q10 on the Outcome of Metabolic Dysfunction-Associated Fatty 
 
 Intervention: : Coenzyme Q10 Forte® capsules — Coenzyme Q10 in the form of soft gelatin capsules, each capsule containing 100 mg
 Link: https://clinicaltrials.gov/study/NCT05984745
-
-SUMMARY:
-
-
-## NCT04478851
-Project EXCEL: Dissemination, Implementation, and Effectiveness of the Exercise Oncology Survivorship Partnership Model - Reaching Rural Cancer Survivors to Enhance Quality of Life
-
-Intervention: : Group Exercise Classes — The exercise program to be implemented for rural cancer survivors will combine aerobic, resistance, balance, and flexibility exercises delivered in a circuit-type class setting or group personal training format, twice weekly for a 12-week period. If public health restrictions require closure of fitness facilities due to COVID-19, the program will be delivered online. If facilities are open, the sessions will be integrated in the community, delivered in-person. Whether delivered in-class or remotely, the program follows exercise progression principles (ie, frequency, intensity, time, type, overload and progression) over the 12-weeks, with tailoring of any exercise to meet individual participant needs as required, in order to promote fitness and wellness benefits. The exercise intervention is based on the Alberta Cancer Exercise (ACE) program.
-Link: https://clinicaltrials.gov/study/NCT04478851
 
 SUMMARY:
 
@@ -3132,16 +3114,6 @@ Intervention: : Oral roflumilast — Participants will receive oral roflumilast.
 
 Route: Oral Schedule: Daily for 12 weeks Duration: 12 weeks
 Link: https://clinicaltrials.gov/study/NCT07297602
-
-SUMMARY:
-
-
-## NCT04482478
-A 12 Week, Randomized, Double-blind, Placebo-Controlled Clinical Trial for the Evaluation of the Efficacy and Safety of EDL on Dyspepsia
-
-Intervention: : Extract of Dolichos lablab Linne (EDL) — Investigational product (EDL): once a day, 2 tablets orally intake (Extract of Dolichos lablab Linne 715 mg/day)
-: Placebo oral tablet — Placebo: consumed in the same way as the investigational product
-Link: https://clinicaltrials.gov/study/NCT04482478
 
 SUMMARY:
 
@@ -8881,18 +8853,6 @@ Link: https://clinicaltrials.gov/study/NCT04605913
 SUMMARY:
 
 
-## NCT04471987
-A Phase I Study to Evaluate Safety and Early Signs of Efficacy of the Human Monoclonal Antibody-cytokine Fusion Protein IL12-L19L19.
-
-Intervention: : IL12-L19L19 — Part I - The dose escalation is designed with an initial accelerated phase followed by a standard 3+3 design. Cohorts contain one patient until first instance of moderate toxicity or a DLT in the DLT observation period (28 days). With the second occurrence of moderate toxicity or occurrence of a DLT the accelerated phase will be terminated and the dose escalation will continue with a 3+3 dose escalation. Initiation of the study treatment for an individual subject will occur not less than 7 days after initiation of the study treatment for the previous patient. Not more than 2 patients are to be treated simultaneously within their DLT observation period (i.e., Day 1 to Day 28).
-
-Part II - Dose expansion: Once the dose escalation is completed, additional 20 patients will be enrolled at the RD to better understand the safety profile and to explore early signs of efficacy in different disease indications.
-: IL12-L19L19 — Patients initially receive 8 consecutive administrations of IL12-L19L19 every week. At the end of this eight weeks treatment window, a tumor assessment is performed and those patients who achieve a clinical benefit (SD, PR, CR) may continue treatment with IL12-L19L19 as a biweekly maintenance therapy until disease progression, unacceptable toxicity, withdrawal of consent, at the discretion of the investigator or up to 1 year from study treatment start.
-Link: https://clinicaltrials.gov/study/NCT04471987
-
-SUMMARY:
-
-
 ## NCT06028113
 A Novel Obesity Prevention Program for High-Risk Infants in Pediatric Primary Care: The THRIVE Randomized Controlled Trial
 
@@ -10585,15 +10545,6 @@ Research on the Effectiveness of Using Decision Cycle for Person-Centered Glycem
 Intervention: : Decision Cycle for Person-Centered Glycemic Management — It is defined as a purposefully designed holistic care intervention that improve self-management .
 : Traditional diabetes self-management education — Traditional diabetes self-management education content focuses more on teaching relevant knowledge and some skills.
 Link: https://clinicaltrials.gov/study/NCT06331338
-
-SUMMARY:
-
-
-## NCT04493385
-Nationwide Hepatitis C NAT+ Cardiac Transplant Experience
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04493385
 
 SUMMARY:
 

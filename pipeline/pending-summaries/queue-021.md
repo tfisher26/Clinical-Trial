@@ -599,18 +599,6 @@ Link: https://clinicaltrials.gov/study/NCT07631572
 SUMMARY:
 
 
-## NCT04458883
-The Next Leap in Cardiac Magnetic Resonance Imaging:Cycling the Field The TITAN Study
-
-Intervention: : Cardiac Magnetic Resonance Imaging — Cardiac Magnetic Resonance Imaging - Cardiac Scan
-: Fast Field Cycling - Magnetic Resonance Imaging — Fast Field Cycling - Magnetic Resonance Imaging Cardiac Scan
-: Electrocardiogram — Electrocardiogram
-: Echocardiogram — Echocardiogram
-Link: https://clinicaltrials.gov/study/NCT04458883
-
-SUMMARY:
-
-
 ## NCT07206225
 A PHASE 1, OPEN-LABEL, DOSE ESCALATION AND DOSE EXPANSION STUDY TO EVALUATE THE SAFETY, TOLERABILITY, PHARMACOKINETICS, AND ANTITUMOR ACTIVITY OF PF-08052667 AS A SINGLE AGENT AND IN COMBINATION THERAPY IN PARTICIPANTS 18 YEARS OF AGE AND OLDER WITH BLADDER CANCER
 
@@ -2321,15 +2309,6 @@ Effect of Remote Ischemic Preconditioning in Septic Patients on Cell Cycle Arres
 Intervention: : Remote ischemic preconditioning (RIPC) — 3 cycles of 5 min inflation of a blood-pressure cuff to 200 millimetres of mercury (mmHG) (or at least to a pressure 50 mmHG higher than the systolic arterial pressure) to one upper arm followed by 5 min reperfusion with the cuff deflated. In Non-Responder two additional cycles of 10 min cuff inflation will be performed.
 : Sham RIPC — 3 cycles of 5 min inflation of a blood-pressure cuff to 20 mmHG to one upper arm followed by 5 min reperfusion with the cuff deflated. In Non-Responder two additional cycles of 10 min cuff inflation will be performed
 Link: https://clinicaltrials.gov/study/NCT05830669
-
-SUMMARY:
-
-
-## NCT04477681
-Securing Access to Innovative Molecules in Oncology and Hematology for Children, Adolescents and Young Adults in Therapeutic Failure or Relapse and Not Eligible for a Clinical Trial: a Project of the SFCE
-
-Intervention: : Data collection — In particular, the patient's demographic data, medical history, previous and concomitant treatments, data on the treatment of interest (legal framework, compassionate use/ off-label), dosage, start date, etc.), clinical data will be collected. biological (including molecular profiling of the tumor if available) and radiological follow-up, information on adverse effects. The data to be filled in is that of the CERFA pharmacovigilance form of the ANSM, but additional fields can be created if necessary.
-Link: https://clinicaltrials.gov/study/NCT04477681
 
 SUMMARY:
 

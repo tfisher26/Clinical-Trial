@@ -354,15 +354,6 @@ Link: https://clinicaltrials.gov/study/NCT07009392
 SUMMARY:
 
 
-## NCT04037761
-Shanghai Children's Health, Education and Lifestyle Evaluation, Preschool (the SCHEDULE-P) Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04037761
-
-SUMMARY:
-
-
 ## NCT06571981
 Comparison Between Conventional Ultrasound and Remote Ultraportable ulTrasound for Abdominal Examination in the Context of Viral Hepatitis
 
@@ -444,15 +435,6 @@ SUMMARY:
 
 Intervention: : Social Identity — This group will receive the same content as the education+planning as well as two additional sessions. This includes short overviews of the benefits of PA as a family, brainstorming how a family can each assist each other in PA, and an activity for developing a family PA action plan. Behavior change techniques such as identity salience, identity similarity, and identity fit and contrast are included in the coaching session include. This will be supplemented by an organization of fun family PA roles for all members (e.g., activity planner, goal setter, supporter, etc.) to instill involvement as well as items (creation of a family PA t-shirt, family PA photos and display, etc.) to instill distinctiveness, which is a central feature of a social identity. Worksheets and discussion will be included. The second session will involve only the parent(s) to focus on parental support identity and the content is based on the behavior change principles of self-identity theory.
 Link: https://clinicaltrials.gov/study/NCT05794789
-
-SUMMARY:
-
-
-## NCT04291651
-Population-Based Analysis of Neoplastic Changes in Cystic Lesions of the Pancreas.
-
-Intervention: : Survey — There are no study-specific interventions, as this is a prospective registry. However, patients will be asked to complete approximately 1-2 hours worth of surveys on things such as demographics, medical and surgical history, and pancreatic cyst-specific questionnaires.
-Link: https://clinicaltrials.gov/study/NCT04291651
 
 SUMMARY:
 
@@ -718,15 +700,6 @@ Link: https://clinicaltrials.gov/study/NCT07770932
 SUMMARY:
 
 
-## NCT00258583
-Dorothy P. and Richard P Simmons Center for Interstitial Lung Disease Research Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00258583
-
-SUMMARY:
-
-
 ## NCT04746066
 Observational Study Multicentric Phamacological no Profit for the Treatment of Patients With Hemoglobinopathies and Rare Inherited Anemia Affected by Covid 19
 
@@ -796,15 +769,6 @@ Link: https://clinicaltrials.gov/study/NCT06602544
 SUMMARY:
 
 
-## NCT03818412
-Circulating Tumor DNA Detection in Soft Tissue Sarcoma (DNA-TSAR)
-
-Intervention: : Archival tumor tissue collection and blood draws — Archival tumor tissue will be collected for testing of circulating tumor DNA. Blood draws will be taken for testing of circulating tumor DNA.
-Link: https://clinicaltrials.gov/study/NCT03818412
-
-SUMMARY:
-
-
 ## NCT05616312
 Validating a "Teach-back" Protocol to Improve Recall in Orthopedic Trauma Patients
 
@@ -849,15 +813,6 @@ A Phase I, Open-label, Single-dose Study to Evaluate the Effect of Hepatic Impai
 
 Intervention: : BI 3000202 — BI 3000202
 Link: https://clinicaltrials.gov/study/NCT07486102
-
-SUMMARY:
-
-
-## NCT03536312
-Treatment in Thoracic Aortic Aneurysm: Surgery vs Surveillance (TITAN:SvS)
-
-Intervention: : Thoracic Aortic Surgery — Thoracic aortic surgery to treat thoracic aortic aneurysm
-Link: https://clinicaltrials.gov/study/NCT03536312
 
 SUMMARY:
 
@@ -907,16 +862,6 @@ The Use of Vitamin D in Combination With Epigallocatechin Gallate, D-chiro-inosi
 Intervention: : Epigallocatechin gallate, Vitamin D, Vitamin B6, D-chiro-inositol — The patients will take for three months two tablets per day each containing 150mg epigallocatechin gallate, 25 mg D-chiro-inositol, 5mg Vitamin B6 and 25μg Vitamin D
 : Placebo — Maltodextrines
 Link: https://clinicaltrials.gov/study/NCT05448365
-
-SUMMARY:
-
-
-## NCT04161768
-Comparative Study of Norfloxacin Versus Norfloxacin With Itopride in Secondary Prophylaxis of Spontaneous Bacterial Peritonitis
-
-Intervention: : Norfloxacin — Norfloxacin 400 mg daily
-: Itopride — Itopride 50 mg three times daily
-Link: https://clinicaltrials.gov/study/NCT04161768
 
 SUMMARY:
 
@@ -979,15 +924,6 @@ Increasing Access to Mental Health Support for 12-17 Year Old Indigenous Youth W
 
 Intervention: : Usual Practice + JoyPop — Participants will be asked to use the app at least twice daily but will otherwise not be provided with requirements related to feature or total usage.
 Link: https://clinicaltrials.gov/study/NCT05898516
-
-SUMMARY:
-
-
-## NCT03657745
-An Observational Trial of Alzheimer's Disease Treatment With Combination of 40Hz Light and Cognitive Therapy
-
-Intervention: : Combination of 40Hz light and cognitive therapy (ALZLIFE) — Combination of 40Hz light and cognitive therapy delivered by iPad application ALZLIFE
-Link: https://clinicaltrials.gov/study/NCT03657745
 
 SUMMARY:
 

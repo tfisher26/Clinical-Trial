@@ -3024,19 +3024,6 @@ Link: https://clinicaltrials.gov/study/NCT06940180
 SUMMARY:
 
 
-## NCT04471909
-A Multi-arm, Multi-Center, Non-Randomized, Prospective, Clinical Study to Evaluate the Safety and Effectiveness of the NEXUS Aortic Arch Stent Graft System in Treating Thoracic Aortic Lesions Involving the Aortic Arch
-
-Intervention: : NEXUS Aortic Stent Graft System — Arch Stent Graft, whose cranial narrow end is intended to be deployed into the Brachiocephalic artery and whose distal end is intended to be deployed into the Descending Thoracic Aorta.
-
-Ascending Stent Graft intended to be deployed in the Ascending Aorta.
-
-OPTIONAL: Descending Extension can be used in case the aortic lesion elongates further distally and out of the covered length offered by the Arch Stent Graft. Multiple Descending Extensions can be used if needed to cover the entire length of the lesion.
-Link: https://clinicaltrials.gov/study/NCT04471909
-
-SUMMARY:
-
-
 ## NCT05501587
 Measures of Respiratory Health Registry
 
@@ -6172,15 +6159,6 @@ Link: https://clinicaltrials.gov/study/NCT05583721
 SUMMARY:
 
 
-## NCT04484064
-Optimization of Targeted Anticancer Therapies: a Systematic Collection and Modeling of Pharmacokinetic Data and Elaboration of an Adherence Program
-
-Intervention: : Adherence program — This program combines adherence evaluation using an electronic monitor (MEMS®) and feedback with repeated medication adherence interviews with the pharmacist.
-Link: https://clinicaltrials.gov/study/NCT04484064
-
-SUMMARY:
-
-
 ## NCT06670287
 A Multi-Sensor Machine Learning Approach to Precision Sleep Tracking for Nightshift Workers
 
@@ -7561,15 +7539,6 @@ Assessing the Impact of an Artificial Intelligence-Based Model for Intracranial 
 Intervention: : True-AI-integrated intracranial aneurysms diagnosis strategy — The True-AI deep-learning based model for intracranial aneurysms detection had a patient-wise sensitivity, lesion-wise sensitivity and specificity of 0.96, 0.87, and 0.80 in the internal validation dataset.
 : Sham-AI-integrated intracranial aneurysms diagnosis strategy — The Sham-AI deep-learning based model for intracranial aneurysms detection is designed to have a sensitivity close to 0% and a similar specificity to the True-AI. In the internal validation dataset, the Sham-AI had a patient-wise sensitivity, lesion-wise sensitivity, specificity of 0.02, 0.01, and 0.80, respectively.
 Link: https://clinicaltrials.gov/study/NCT06118840
-
-SUMMARY:
-
-
-## NCT04491292
-Psychosocial Impact of COVID-19 Pandemic on MD Anderson Workforce
-
-Intervention: : Questionnaire Administration — Complete questionnaires
-Link: https://clinicaltrials.gov/study/NCT04491292
 
 SUMMARY:
 
@@ -13178,15 +13147,6 @@ Effects of Spirulina Supplementation on Mental Health in Healthy Adults
 Intervention: : Spirulina capsules — active intervention
 : Placebo — no active ingredient
 Link: https://clinicaltrials.gov/study/NCT06936202
-
-SUMMARY:
-
-
-## NCT04472702
-Fluoroscopic Versus Ultrasound Guidance for Cooled Radiofrequency Ablation of Geniculate Nerves in Knee Osteoarthritis: A Randomized Control Trial
-
-Intervention: : cRFA — cRFA intervention will occur under sterile conditions, the patient will be placed in a supine position on a table and a bolster to provide flexion in the treated knee joint. Skin and soft tissues will be anaesthetized with 2 mL 1% lidocaine at each of the three anatomic sites for cRFA, and a introducer needle will then be placed under ultrasound or fluoroscopic guidance to the SLG, SMG, and IMG nerves. Adjustments at these positions will be made when using ultrasound guidance in order to capture the geniculate nerve if the nerve and/or its accompanying vasculature can be directly visualized using greyscale or Doppler modes. When using ultrasound, the physician will note and record whether their positioning of the needle is based on bony landmarks, direct visualization of the nerve, and/or vascularity accompanying the nerve. Once the introducer needle is placed, the cRFA will be placed into the introducer needle.
-Link: https://clinicaltrials.gov/study/NCT04472702
 
 SUMMARY:
 

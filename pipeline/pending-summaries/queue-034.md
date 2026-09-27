@@ -10887,18 +10887,6 @@ Link: https://clinicaltrials.gov/study/NCT06535087
 SUMMARY:
 
 
-## NCT04461444
-COhort for Bardet-Bield Syndrome and Alström Syndrome for Translational Research Etude Interventionnelle Monocentrique
-
-Intervention: : Skin biopsy — COBBALT is considered as an interventional with minor associated risks and constrains study due to the presence of skin biopsies that may not all be part of the usual medical practice. Risks are those linked to the biopsy procedure:
-
-* risk of pain due to the procedure performed under local anaesthesia
-* can leave a visible scar (about 2 x 1 cm)
-Link: https://clinicaltrials.gov/study/NCT04461444
-
-SUMMARY:
-
-
 ## NCT04628026
 A Randomized, Placebo-Controlled Phase III Study of Induction and Consolidation Chemotherapy With Venetoclax in Adult Patients With Newly Diagnosed Acute Myeloid Leukemia or Myelodysplastic Syndrome With Excess Blasts-2
 
@@ -15187,27 +15175,6 @@ Link: https://clinicaltrials.gov/study/NCT06026878
 SUMMARY:
 
 
-## NCT04478292
-A Phase 3 Multi-institutional Study for Treatment of Children With Newly Diagnosed Hepatoblastoma Using a Modified PHITT Strategy Incorporating a Randomized Assessment of Sodium Thiosulfate as Otoprotection for Children With Localized Disease, and Response Adapted Therapy for Patients With Metastatic Disease
-
-Intervention: : Sodium Thiosulfate Injection — Weight ≥ 10 kg: 20 g/m2/dose STS or Weight 5-10 kg: 15 g/m2/dose STS or Weight \< 5 kg: 10 g/m2/dose STS will be administered by IV over 2 hours beginning 6 hours after the completion of each cisplatin infusion.
-: Primary surgery resection — Resection of the primary tumor up-front
-: mono CDDP-Group A2 — Cisplatin 100 mg/m2/dose Day 1 . All non-WDF patients (A2) will receive 2 cycles of mono cisplatin (100 mg/m2/dose) chemotherapy. Each cycle lasts 3 weeks (21 days).
-: Cisplatin, 5-Fluorouracil, Vincristine, Doxorubicin-Group C — All the patients in Group C (2 arms) will receive 6 cycles chemotherapy in total. Cisplatin 100 mg/m2/dose Day 1; 5-Fluorouracil 600 mg/m2/dose Day 1; Vincristine 1.5 mg/m2/dose Day 1,8 and 15; Doxorubicin 30 mg/m2/dose Day 1 and 2; (Dexrazoxane : 300 mg/m2/dose Day 1 and 2, where is available)
-: Biopsy — Tumors are deemed unresectable at diagnosis.
-: Resection or transplant — Ideal timing to resect of the primary tumors or transplant if if excellent response achieved at 1st or 2nd evaluation timepoint. But surgery timing is not mandated. Irrespective of the timing of surgery, patients should complete all planned protocol cycles of chemotherapy (including post transplantation). If surgical resection of the primary tumor is delayed until the end of therapy, no further post-operative chemotherapy should be given.
-: Resection of pulmonary nodules — Resection of pulmonary nodules should be considered in Group D2, patients at any cycle if continuing to respond to consolidation therapy.
-: mono CDDP- Group B — Cisplatin 80 mg/m2/dose Day 1. All patients in Group B (2 arms) will receive 6 cycles of mono cisplatin chemotherapy. Each cycle lasts 2 weeks (14 days).
-: Block 1 to 3 (Cisplatin, Doxorubicin) Group D — Block 1 and 2: Cisplatin 70 mg/m2/dose Day1, 8 and 15; Doxorubicin 30 mg/m2/dose, Day 8 and 9; (Dexrazoxane: 300 mg/m2/dose Day 1 and 2, where is available); Block 3: Cisplatin 70 mg/m2/dose Day1and 8; Doxorubicin 30 mg/m2/dose Day 8 and 9; (Dexrazoxane BSA ≥ 0.6 m2/dose: 300 mg/m2/dose Day 8 and 9, where is available) All patients in Group D will receive 3 blocks in induction, followed by consolidation therapy. Block 1 and 2 last 28 days. Block 3 is 21 cycles.
-: Consolidation (Carboplatin, Doxorubicin) -Group D1 — Following Block 1-3 of induction therapy, Group D1 patients will receive 3 cycles of Carboplatin + Doxorubicin consolidation therapy. Each cycle lasts 3 weeks (21 days). Carboplatin 500 mg/m2/dose Day 1; Doxorubicin 20 mg/m2/dose Day 1 and 2; (Dexrazoxane: 200 mg/m2/dose Day 1 and 2, where is available).
-: Consolidation (Carboplatin +Doxorubicin/Vincristine + Irinotecan)-Group D2 — Following Block 1-3 of induction therapy, patients in Group D2, will receive 6 cycles of consolidation chemotherapy with Carboplatin + Doxorubicin in Cycles 1, 3, and 5 alternating with Vincristine + irinotecan in Cycles 2, 4, and 6. One cycle of therapy lasts 3 weeks (21 days). Cycle 1, 3 and 5: Carboplatin 500 mg/m2/dose Day 1; Doxorubicin 20 mg/m2/dose Day 1 and 2; (Dexrazoxane: 200 mg/m2/dose Day 1 and 2, where is available).
-
-Cycle 2, 4 and 6: Vincristine 1.5 mg/m2/dose, Day 1 and 8; Irinotecan 50 mg/m2/dose, Day 1 to 5;
-Link: https://clinicaltrials.gov/study/NCT04478292
-
-SUMMARY:
-
-
 ## NCT07609823
 A Phase 2, Open-Label, Single-Arm, Multicenter Study to Evaluate the Efficacy and Safety of Lacutoclax (LP-108) in Patients With Relapsed or Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
@@ -16362,16 +16329,6 @@ Link: https://clinicaltrials.gov/study/NCT07610447
 SUMMARY:
 
 
-## NCT04478747
-Women's Apical Pelvic Organ Prolapse Treatment - a Randomized Controlled Trial Comparing Transvaginal and Laparoscopic Mesh Surgery
-
-Intervention: : TVM — Transvaginal mesh operation using BSC mesh (A.M.I., Feldkirch, Austria)
-: Colposacropexy — Colposacropexy using EndoGYNious mesh (A.M.I., Feldkirch, Austria)
-Link: https://clinicaltrials.gov/study/NCT04478747
-
-SUMMARY:
-
-
 ## NCT05624164
 Randomized Controlled Trial of Patients Treated With and Without Lateralized Microfracture During Rotator Cuff Repair
 
@@ -16633,15 +16590,6 @@ SegwayPD: The Effect of Sensory-augmented Postural Training Using Segway on Moto
 
 Intervention: : Sensory-Augmented Postural Training — To examine the safety and efficacy of postural training emphasized on the integration of multiple sensory information into motor control and to assess the effectiveness of postural training using Segway
 Link: https://clinicaltrials.gov/study/NCT05982730
-
-SUMMARY:
-
-
-## NCT04467333
-Giessen Pulmonary Hypertension in Lung Cancer Registry
-
-Intervention: : All lung cancer patients. — There will be no specific interventions. All patients will receive guidelines based therapy of lung cancer and their comorbidities.
-Link: https://clinicaltrials.gov/study/NCT04467333
 
 SUMMARY:
 

@@ -436,15 +436,6 @@ Link: https://clinicaltrials.gov/study/NCT06739005
 SUMMARY:
 
 
-## NCT04487314
-Russian Registry for Chronic Venous Disease Incidence and Natural Course
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04487314
-
-SUMMARY:
-
-
 ## NCT07593794
 Validity and Reliability of the Turkish Quality of Recovery-15 (QoR-15T) Scale in Cardiac Surgery Patients: A Prospective Observational Cohort Study
 
@@ -1126,24 +1117,6 @@ Link: https://clinicaltrials.gov/study/NCT07002697
 SUMMARY:
 
 
-## NCT00250159
-Natural History Study of Patients With Excess Androgen
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00250159
-
-SUMMARY:
-
-
-## NCT00527839
-Prospective Evaluation of the Clinical and Economic Outcomes of Total Joint Replacement: HSS Shoulder Arthroplasty Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00527839
-
-SUMMARY:
-
-
 ## NCT05914961
 ICK-Breast: Immunotherapy-related CRP Kinetics in Early and Metastatic Triple-negative Breast Cancer
 
@@ -1171,15 +1144,6 @@ Link: https://clinicaltrials.gov/study/NCT07715617
 SUMMARY:
 
 
-## NCT02363595
-Genomic Predictors of Papillary Microcarcinoma Disease Progression
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02363595
-
-SUMMARY:
-
-
 ## NCT06774482
 Evaluation of Toxicity and Outcomes of Different Therapeutic Strategies in Patients With Uterine Neoplasms Treated With Radiotherapy at the Sant'Orsola Polyclinic in Bologna.
 
@@ -1194,15 +1158,6 @@ Assessment of Toxicity and Outcomes of Different Therapeutic Strategies in Patie
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06773039
-
-SUMMARY:
-
-
-## NCT00358943
-Gaucher Disease Registry Protocol
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00358943
 
 SUMMARY:
 
@@ -1277,38 +1232,11 @@ Link: https://clinicaltrials.gov/study/NCT04832568
 SUMMARY:
 
 
-## NCT04439916
-Breakthrough CMV DNAemia in CMV Seronegative Recipients of CMV Seropositive Lung Transplantation During Antiviral Prophylaxis With Valganciclovir. A Pilot Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04439916
-
-SUMMARY:
-
-
 ## NCT06939751
 OPtimal Adult Heart Transplant Immunosuppression With MicroRNA Levels
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06939751
-
-SUMMARY:
-
-
-## NCT01805869
-Oral Specimen and Data Acquisition Study of Subjects Requiring Third Molar Removal
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01805869
-
-SUMMARY:
-
-
-## NCT00258570
-Genetic Polymorphisms in Idiopathic Pulmonary Fibrosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00258570
 
 SUMMARY:
 
@@ -1354,15 +1282,6 @@ Clinical Utility Study to Determine Impact of PanCystPro Assay on Physician Deci
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06894329
-
-SUMMARY:
-
-
-## NCT03303833
-The GEOLynch Cohort Study: Genetic, Environmental and Other Factors That Influence Tumour Risk Among Persons With Lynch Syndrome
-
-Intervention: : No intervention, observational study.
-Link: https://clinicaltrials.gov/study/NCT03303833
 
 SUMMARY:
 
@@ -1477,15 +1396,6 @@ Link: https://clinicaltrials.gov/study/NCT07611045
 SUMMARY:
 
 
-## NCT02997254
-COMparison of Physiological Algorithms for Real-time Evaluation of Atrial Fibrillation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02997254
-
-SUMMARY:
-
-
 ## NCT07800585
 The SMILE Protocol: a Longitudinal Study of Mental Health and Inherent Vulnerabilities of French Higher-education Students Through a Symptom-network Analysis
 
@@ -1585,15 +1495,6 @@ Link: https://clinicaltrials.gov/study/NCT07131241
 SUMMARY:
 
 
-## NCT03633162
-Maternal Grandmothers in the Born in Guangzhou Cohort Study
-
-Intervention: : 
-Link: https://clinicaltrials.gov/study/NCT03633162
-
-SUMMARY:
-
-
 ## NCT07467265
 Rapid Shallow Index as Successfully Predictor of Outcome of Extubating
 
@@ -1608,15 +1509,6 @@ Impact of Symptoms and Left Ventricular Systolic Function in Patients With Moder
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06789211
-
-SUMMARY:
-
-
-## NCT02869620
-Institut Paoli Calmettes Thyroid Cancer Database
-
-Intervention: : Data collection
-Link: https://clinicaltrials.gov/study/NCT02869620
 
 SUMMARY:
 
@@ -1639,38 +1531,11 @@ Link: https://clinicaltrials.gov/study/NCT07336394
 SUMMARY:
 
 
-## NCT01670383
-Repository for Samples Collected From Sepsis and Postresuscitation Patients in Emergency Intensive Care Unit
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01670383
-
-SUMMARY:
-
-
 ## NCT06643741
 Collection of Pregnancy Outcome Data and Whole Blood Samples From Women Undergoing Non-Invasive Screening for Early, Preterm, and Term Preeclampsia
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06643741
-
-SUMMARY:
-
-
-## NCT03658512
-Tübinger Diabetes Mellitus Database (TUEDID)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03658512
-
-SUMMARY:
-
-
-## NCT03987633
-EMPOWER-1: A Multi-site Clinical Cohort Study to Reduce Health Inequality: Identifying Ethnic Disparities in Treatment Failures for Medicines Prescribed to Treat Diseases That Cause Significant Mortality and Morbidity in the UK Population
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03987633
 
 SUMMARY:
 
@@ -1711,15 +1576,6 @@ Link: https://clinicaltrials.gov/study/NCT07340931
 SUMMARY:
 
 
-## NCT03676868
-Biology of Cerebral Arteriovenous Malformations : Study of the Link Between Blood Biomarkers and the Haemorrhagic Prognosis of Cerebral Arteriovenous Malformations
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03676868
-
-SUMMARY:
-
-
 ## NCT06709833
 Meningioma and Embolism Thrombosis Risk & Investigation of Coagulation
 
@@ -1743,15 +1599,6 @@ Development of a Home Test for Measuring Blood P-tau217 in Alzheimer's Disease U
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07701161
-
-SUMMARY:
-
-
-## NCT03870620
-Metastatic Breast Cancer in Austria
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03870620
 
 SUMMARY:
 
@@ -1872,15 +1719,6 @@ Evolution Over 15 Years (2008-2023) of the Clinical, Immuno-virological and Agin
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06258122
-
-SUMMARY:
-
-
-## NCT00230165
-Studies of Interactions Among Normal and Abnormal Blood Cells, and the Vessel Wall, and Studies of Genetic and Functional Basis of Inherited Platelet, White Blood Cell, Red Blood Cell and Coagulation Disorders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00230165
 
 SUMMARY:
 

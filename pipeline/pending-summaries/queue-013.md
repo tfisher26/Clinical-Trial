@@ -1141,15 +1141,6 @@ Link: https://clinicaltrials.gov/study/NCT05989893
 SUMMARY:
 
 
-## NCT03538600
-Sample Collection From Healthy Volunteers for Assay Optimization
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03538600
-
-SUMMARY:
-
-
 ## NCT06680492
 The Role of Nutrition in Muscle Function of Bariatric Surgery Patients
 
@@ -1233,48 +1224,11 @@ Link: https://clinicaltrials.gov/study/NCT07049653
 SUMMARY:
 
 
-## NCT04038840
-Imaging Synapses With [11C] UCB-J in the Human Brain
-
-Intervention: : [11C]UCB-J radiotracer — I.V. bolus administration of up to 15 mCi (equivalent to 0.3 rems) in the antecubital vein
-: PET-MR — Positron emission tomography and magnetic resonance imaging, with a scan duration of up to 120 minutes
-Link: https://clinicaltrials.gov/study/NCT04038840
-
-SUMMARY:
-
-
-## NCT02833285
-Periodontitis and Inflammation : Biological and Clinical Approach of B Cell Role.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02833285
-
-SUMMARY:
-
-
-## NCT03199066
-The Incidence, Epidemiology, Clinical Characteristic, Prognostic Factors, Therapy and Outcome of Non-Hodgkin Lymphoma Patients in the Czech Republic. NiHiL- Longitudinal Observational Study of Czech Lymphoma Study Group (CLSG)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03199066
-
-SUMMARY:
-
-
 ## NCT07049042
 Hypogonadotrophic Hypogonadism in Genetic Neurodevelopmental Conditions
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07049042
-
-SUMMARY:
-
-
-## NCT01746537
-Automated Analysis of Anterior Chamber Inflammation by Optical Coherence Tomography
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01746537
 
 SUMMARY:
 
@@ -1331,15 +1285,6 @@ Link: https://clinicaltrials.gov/study/NCT05248763
 SUMMARY:
 
 
-## NCT04310787
-The Investigation on Long-term Outcomes and Prognostic Factors of Patients With Hepatitis B Related Acute-on-chronic Liver Failure
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04310787
-
-SUMMARY:
-
-
 ## NCT06825559
 A Phase 1, Open-label, Single Arm Study to Evaluate Pharmacokinetics, Safety, and Tolerability of Saroglitazar Magnesium Dosed on Alternate Days in Subjects Having Moderate Hepatic Impairment With Cirrhosis Due to Cholestatic Liver Disease
 
@@ -1386,15 +1331,6 @@ Link: https://clinicaltrials.gov/study/NCT06546020
 SUMMARY:
 
 
-## NCT04071327
-Pulmonary Hypertension Association Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04071327
-
-SUMMARY:
-
-
 ## NCT07458074
 MIRAMACS, Multicenter Italian Study on RAdial Mechanically Assisted Circulatory Support
 
@@ -1422,15 +1358,6 @@ Link: https://clinicaltrials.gov/study/NCT07041307
 SUMMARY:
 
 
-## NCT02741349
-Impact of Clinical, Echocardiographic and Biological Parameters to the Risk of Cardiovascular Disease in Patients With Non-valvular Atrial Fibrillation.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02741349
-
-SUMMARY:
-
-
 ## NCT07444034
 A Pilot Study of a Portable Head-Only MRI Scanner
 
@@ -1445,17 +1372,6 @@ TAKINGCARE - TAcKlING the Needs of Carers of People With Chronic respirAtoRy dis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06459011
-
-SUMMARY:
-
-
-## NCT03954483
-Measurement of the Hippocampal Theta Rhythm From the Outer Ear Canal
-
-Intervention: : Buspirone 10 Mg Oral Tablet — Orally administered prior to experiments.
-: Triazolam 0.25 MG Oral Tablet — Orally administered prior to experiments.
-: Placebo oral tablet — Orally administered prior to experiments.
-Link: https://clinicaltrials.gov/study/NCT03954483
 
 SUMMARY:
 
@@ -1504,17 +1420,6 @@ Activation of Biobank for Association Study Between Environmental and Genetic Fa
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06552078
-
-SUMMARY:
-
-
-## NCT03990909
-A Pilot Study of Dietary Supplementation With Branched Chain Amino Acids on Sleep
-
-Intervention: : Branched Chain Amino Acids — 60 grams of BCAA (2:1:1 ratio of Leucine:Isoleucine:Valine) consumed in two doses (30 grams each) mixed into 20 oz of water for up to21days (42 total drinks).
-: Rice Protein — 60 grams of rice protein consumed in two doses (30 grams each) mixed into 20 oz of water for up to 21days (42 total drinks).
-: Microcrystalline Cellulose — 60 grams of microcrystalline cellulose, consumed in two doses (30 grams each) mixed into 20 oz of water for up to 21days (42 total drinks).
-Link: https://clinicaltrials.gov/study/NCT03990909
 
 SUMMARY:
 
@@ -1798,15 +1703,6 @@ Link: https://clinicaltrials.gov/study/NCT07830056
 SUMMARY:
 
 
-## NCT00537004
-Asymmetric Neurodegeneration and Language in Primary Progressive Aphasia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00537004
-
-SUMMARY:
-
-
 ## NCT06643702
 Screening for Benign Paroxysmal Positional Vertigo in Primary Care Among Elderly Presenting With Dizziness, Imbalance, and Increased Tendency to Fall
 
@@ -1821,15 +1717,6 @@ Determining the Mechanisms of Loss of CAR T Cell Persistence
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05809284
-
-SUMMARY:
-
-
-## NCT04050423
-Investigation of Ultrasound Imaging and Spectroscopy for Characterizing Breast Masses
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04050423
 
 SUMMARY:
 
@@ -2111,15 +1998,6 @@ Link: https://clinicaltrials.gov/study/NCT04746534
 SUMMARY:
 
 
-## NCT04462380
-AiCR : Artificial Intelligence in Cardiac aRrest Application of an Algorithm in the Prognosis of Recovered Cardiorespiratory Arrests
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04462380
-
-SUMMARY:
-
-
 ## NCT06504238
 Non-Invasive Monitoring Methods in Patients With Acute Brain Injury
 
@@ -2367,15 +2245,6 @@ Intervention: : Air Leaks — The organs will be placed in an acrylic box and wi
 
 This setting will allow us to perform several different endoscopic and RAB procedures in emulated physiologic conditions to complete the study.
 Link: https://clinicaltrials.gov/study/NCT05854654
-
-SUMMARY:
-
-
-## NCT04457713
-Off-label Use of Anti-cancer Drugs in Norway -a Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04457713
 
 SUMMARY:
 

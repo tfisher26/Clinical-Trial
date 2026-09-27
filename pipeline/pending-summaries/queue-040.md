@@ -1687,15 +1687,6 @@ Link: https://clinicaltrials.gov/study/NCT07574333
 SUMMARY:
 
 
-## NCT04477434
-Observatoire National d'ElectroConvulsivoThérapie (ECT)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04477434
-
-SUMMARY:
-
-
 ## NCT07574593
 NORM-HF (NORM-guided Congestion Management in Heart Failure) Pivotal Study
 
@@ -10081,15 +10072,6 @@ Early-Onset Colorectal Cancer: An Observational Retrospective and Prospective Mu
 
 Intervention: : BIOLOGICAL STUDY aiming at describing clinicophatological features of EO-CRC vs SO-CRC — Description of clinicophatological features of EO-CRC vs SO-CRC
 Link: https://clinicaltrials.gov/study/NCT06965335
-
-SUMMARY:
-
-
-## NCT04485286
-Evaluation of PET Probe [68Ga]CBP8 in the Detection of Radiation Induced Tissue Injury
-
-Intervention: : [68Ga]CBP8 — Up to 15 mCi of \[68Ga\]CBP8 will be administered to each subject. Each subject will undergo baseline imaging prior to radiation and again 3-6 months after radiation therapy.
-Link: https://clinicaltrials.gov/study/NCT04485286
 
 SUMMARY:
 

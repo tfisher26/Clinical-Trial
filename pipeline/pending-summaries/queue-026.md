@@ -255,16 +255,6 @@ Link: https://clinicaltrials.gov/study/NCT05728138
 SUMMARY:
 
 
-## NCT04462770
-A 20-Week Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of EPX-100 (Clemizole Hydrochloride) as Adjunctive Therapy in Children and Adult Participants With Dravet Syndrome (ARGUS Trial)
-
-Intervention: : Clemizole HCl — Clemizole HCl will be administered as an oral solution.
-: Placebo — Placebo will be administered as an oral solution.
-Link: https://clinicaltrials.gov/study/NCT04462770
-
-SUMMARY:
-
-
 ## NCT06910891
 Hemodynamic Evaluation Using Microcirculation for Early Treatment of Septic Patients
 
