@@ -820,16 +820,6 @@ Link: https://clinicaltrials.gov/study/NCT06383962
 SUMMARY:
 
 
-## NCT06442046
-Strengthening the Connections to Opportunities for Prevention Engagement (SCOPE)
-
-Intervention: : Active Case Management — A case manager will work with families post-discharge to ensure that youth are connected to an appropriate community support. Case managers will also work with families to identify any social needs and provide support in accessing services as needed.
-: Treatment as usual — Subjects will receive a list of youth serving community service agencies and provided a recommendation to connect to them.
-Link: https://clinicaltrials.gov/study/NCT06442046
-
-SUMMARY:
-
-
 ## NCT06091254
 A Phase 3, Open-label, Randomized Study to Compare the Efficacy and Safety of Odronextamab (REGN1979), an Anti-CD20 X Anti-CD3 Bispecific Antibody Versus Investigator's Choice in Previously Untreated Participants With Follicular Lymphoma (OLYMPIA-1)
 
@@ -7879,17 +7869,6 @@ Link: https://clinicaltrials.gov/study/NCT07517965
 SUMMARY:
 
 
-## NCT06110793
-A Phase Ib/II Trial of Lenvatinib Plus Pembrolizumab Plus Fulvestrant in ER-positive/ HER2- Negative Metastatic Breast Cancer
-
-Intervention: : Lenvatinib — 20mg orally PO daily
-: Pembrolizuma — 400mg IV Q6W
-: Fulvestrant — 500mg IM Q4W
-Link: https://clinicaltrials.gov/study/NCT06110793
-
-SUMMARY:
-
-
 ## NCT06210178
 Non-Invasive Portal and Hepatic Vein Pressure Estimation: MRI-Guided Diagnostics for Chronic Liver Disease
 
@@ -8905,30 +8884,6 @@ A Prospective, Multi-Center, Double Blind, Randomized Controlled Study, Evaluati
 Intervention: : RD2 Ver.02 — Debridement and suturing of the internal opening of the anal fistula and RD2 Ver.02 coagulating blood application into the fistula tract with a semi flexible cannula.
 : Saline — Debridement and suturing of the internal opening of the anal fistula and Saline administration into the fistula tract with a semi flexible cannula.
 Link: https://clinicaltrials.gov/study/NCT05641844
-
-SUMMARY:
-
-
-## NCT07484464
-Effects of OTAGO Exercise Program On Balance, Endurance And Motor Coordination In Children With Down Syndrome
-
-Intervention: : OTAGO Exercises — 1. WarmUp (510 mins) Marching on the spot Gentle arm swings Neck, shoulder, ankle movements
-2. Strength Exercises (3 times/week using ankle weights):
-
-   Knee Extensions (seated leg straightening) Knee Flexions (standing leg curls) Hip Abductions (leg lifts to the side) Hip Extensions (leg lifts backward) Calf Raises (rise onto toes, holding support) Toe Raises (lift toes while heels remain on ground)
-3. Balance Exercises (at least 3 times/week):
-
-   Heel to Toe Stand One Leg Stand Sit to Stand (from a chair, arms crossed) Turning Around (slow 360 degree turns) Backwards Walking Walking and Turning Head Sideways Walking Stair Climbing
-4. Walking Plan:
-
-   At least 30 minutes of walking, twice weekly
-5. Progression:
-
-   Gradually increase intensity, duration, repetitions
-6. Duration:
-
-Typical duration 8 weeks
-Link: https://clinicaltrials.gov/study/NCT07484464
 
 SUMMARY:
 

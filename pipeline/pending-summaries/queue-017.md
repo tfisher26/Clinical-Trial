@@ -588,15 +588,6 @@ Link: https://clinicaltrials.gov/study/NCT07531511
 SUMMARY:
 
 
-## NCT07723118
-A Phase 1, Single-dose, Open-label Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of Adagrasib (BMS-986503) in Healthy Participants of Japanese Descent
-
-Intervention: : Adagrasib — Specified dose on specified days
-Link: https://clinicaltrials.gov/study/NCT07723118
-
-SUMMARY:
-
-
 ## NCT05185492
 Multi-center Collaborative to Enhance Quality and Outcomes in the Management of Cardiogenic Shock
 

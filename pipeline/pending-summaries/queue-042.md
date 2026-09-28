@@ -4701,14 +4701,6 @@ Link: https://clinicaltrials.gov/study/NCT07407530
 
 SUMMARY:
 
-## NCT06547528
-An Open-label, Uncontrolled, Phase I Dose Escalation Study to Investigate the Tolerability and Safety of ONO-4685 Given as Monotherapy in Patients With Relapsed or Refractory T Cell Lymphoma and Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)
-
-Intervention: : ONO-4685 — ONO-4685 is administered by IV infusion. The administration of ONO-4685 will be continued until disease progression or unacceptable toxicity is observed.
-Link: https://clinicaltrials.gov/study/NCT06547528
-
-SUMMARY:
-
 ## NCT07342855
 Comparison Study to Evaluate the Outcomes Among Children Participating in a Community Healthy Lifestyle Program
 

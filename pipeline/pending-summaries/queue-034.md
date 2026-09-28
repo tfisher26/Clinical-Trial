@@ -4945,21 +4945,6 @@ Link: https://clinicaltrials.gov/study/NCT06553235
 SUMMARY:
 
 
-## NCT06251635
-Effects of Antipsychotics on Brain Insulin Action in Females: A Randomised Placebo-Controlled, Crossover Multi-Modal Neuroimaging Study
-
-Intervention: : Olanzapine 2.5Mg Oral Tablet — Olanzapine capsules (2.5mg) will be administered during one research visit for each menstrual cycle phase. The dosing schedule is as follows:
-
-1. Day 0- 5mg
-2. Day 1- 10mg
-: Placebo — Placebo capsules visually identical to those containing olanzapine will be administered according to the same dosing schedule during one research visit of each menstrual cycle phase.
-: Insulin Lispro 100 UNT/ML — At each visit, participants will be given an intranasal insulin challenge (160 IU) to assess brain insulin signalling via MRI based assay.
-: Saline — At each visit, participants will be given an intranasal saline placebo (1.6 mL) in order to establish baseline brain insulin signalling via MRI based assay.
-Link: https://clinicaltrials.gov/study/NCT06251635
-
-SUMMARY:
-
-
 ## NCT04957628
 Implementation of Tailored Interventions to Treat Harmful Alcohol and Drug Use for Medical Patients in Norwegian Hospitals and the Municipality Service - AlcoTail
 
@@ -8490,15 +8475,6 @@ A Seamless Phase 1/2 Study to Evaluate the Safety and Efficacy of A2B395, an All
 Intervention: : A2B395 — Allogeneic logic-gated Tmod CAR T cells
 : xT CDx with HLA-LOH assay — An investigational next generation sequencing (NGS) in vitro diagnostic (IVD) medical device
 Link: https://clinicaltrials.gov/study/NCT06682793
-
-SUMMARY:
-
-
-## NCT06637904
-TriVerity™ for Improved Management of Emergency Department (ED) Patients With Suspected Infections
-
-Intervention: : TriVerity Test — Participants in the post-phase of the study will have a 2.5 ml whole blood draw obtained via venipuncture into a PAXgene® Blood RNA tube. Blood samples will be processed using the TriVerity Cartridge on the Myrna Instrument located in the ED.
-Link: https://clinicaltrials.gov/study/NCT06637904
 
 SUMMARY:
 
@@ -15180,25 +15156,6 @@ A Phase 2, Open-Label, Single-Arm, Multicenter Study to Evaluate the Efficacy an
 
 Intervention: : Lacutoclax — Participants will first undergo a dose ramp-up period of at least 4 days (Cycle 0: C0D1-C0D4), followed by continuous administration at the target dose of 400 mg once daily starting from Cycle 1. Each treatment cycle will last 28 days. Treatment will continue until disease progression, unacceptable toxicity, or fulfillment of other criteria for treatment discontinuation.
 Link: https://clinicaltrials.gov/study/NCT07609823
-
-SUMMARY:
-
-
-## NCT06986707
-Comparative Effects of Strain Counterstrain Technique and Graston Technique on Trigger Points of Quadratus Lumborum Among Patients With Nonspecific Low Back Pain
-
-Intervention: : Strain counterstrain technique — Group A: Conventional treatment will be given for 45 minutes (repeated 2 sets in each session)
-
-* 1 day per week
-* 4 weeks protocol
-: Graston technique — GROUP B: Conventional treatment will be given for 45 minutes Before starting procedure, brisk walking or stretching is done for 4- 5 minutes
-
-* Applying heat for 3-4 minutes to warm the area
-* 40 seconds on right side
-* 40 seconds on left side
-* 1 day per week
-* 4 weeks protocol After treatment, apply Ice for 2 minutes
-Link: https://clinicaltrials.gov/study/NCT06986707
 
 SUMMARY:
 

@@ -12849,14 +12849,6 @@ Link: https://clinicaltrials.gov/study/NCT06924710
 
 SUMMARY:
 
-## NCT06924801
-Evaluating the Feasibility, Usability, and Integration of the OptiTrack Motion Capture System in Inpatient Physical Therapy
-
-Intervention: : Snipperfingers — Snipperfinger is a self developed engagement focused software platform designed to encourage participation in pediatric physical therapy.
-Link: https://clinicaltrials.gov/study/NCT06924801
-
-SUMMARY:
-
 ## NCT06924944
 Clinical Outcomes of Bilateral Clareon Vivity in Post-Refractive Patients
 

@@ -2795,15 +2795,6 @@ Link: https://clinicaltrials.gov/study/NCT07666789
 SUMMARY:
 
 
-## NCT07780097
-A Pilot Randomized Controlled Trial to Improve Outpatient Initiation of Medication for Opioid Use Disorder (MOUD) Following Hospitalization: The TRTME (Tailored Overdose Risk Feedback, Testimonials for MOUD Treatment, and Education on MOUD and Opioid Overdose) Trial
-
-Intervention: : TRTME — The TRTME intervention includes three elements that have all been previously studied by our research team: 1) brief, personally-tailored education to correct inaccurate, common misconceptions about MOUD and to address knowledge gaps about opioid-overdose; 2) with personally-tailored feedback on the individual's risk factors for experiencing an opioid-overdose; and 3) review of MOUD testimonial videos.
-Link: https://clinicaltrials.gov/study/NCT07780097
-
-SUMMARY:
-
-
 ## NCT07393490
 The Effect of Apneic Oxygenation of the Non-ventilated Lung on the Expression of Hypoxia-inducible Factor-1 Alpha (HIF-1α) and Interleukin-6 (IL-6) in Lung Tissue During Lung Cancer Surgery.
 

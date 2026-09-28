@@ -1051,15 +1051,6 @@ Link: https://clinicaltrials.gov/study/NCT05689255
 SUMMARY:
 
 
-## NCT07650669
-Integration of Wearable Technology Data in Patients With or at Risk of Heart Failure
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07650669
-
-SUMMARY:
-
-
 ## NCT06794970
 Tissue Study on the Chronic Active Humoral Rejection (cAMR) Population of Kidney Transplantation
 

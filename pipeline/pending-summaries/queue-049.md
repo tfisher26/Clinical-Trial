@@ -4067,23 +4067,6 @@ Link: https://clinicaltrials.gov/study/NCT07282080
 
 SUMMARY:
 
-## NCT07282145
-A Randomized, Double-blinded, Single/Multiple Dosing, Dose Escalation, Phase 1 Clinical Trial to Evaluate the Safety, Tolerability and Pharmacokinetic Characteristics of BCD101 in Healthy Adult Volunteers
-
-Intervention: : BCD101 Low Dose Liquid Formulation — \[SAD\] A liquid formulation of BCD101 containing 2 g of the active ingredient per 10 g sachet, administered orally. Used for single dosing at low concentration.
-
-\[MAD\] A liquid formulation of BCD101 containing 2 g of the active ingredient per 10 g sachet, administered orally. Used for multiple dosing at low concentration.
-: BCD101 High Dose Liquid Formulation — \[SAD\] A liquid formulation of BCD101 containing 4 g of the active ingredient per 10 g sachet, administered orally. Used for single dosing at high concentration.
-
-\[MAD\] A liquid formulation of BCD101 containing 4 g of the active ingredient per 10 g sachet, administered orally. Used for multiple dosing at high concentration.
-: BCD101 Low + High Dose Liquid Formulation — \[MAD\] A combination of low-dose and high-dose BCD101 liquid formulations, administered orally as separate sachets simultaneously. Used for multiple dosing.
-: BCD101 Placebo Liquid Formulation — \[SAD Placebo\] A placebo liquid formulation matching the appearance and volume of BCD101 sachets, containing no active ingredient. Administered orally. Used for single dosing.
-
-\[MAD Placebo\] A placebo liquid formulation matching the appearance and volume of BCD101 sachets, containing no active ingredient. Administered orally. Used for multiple dosing.
-Link: https://clinicaltrials.gov/study/NCT07282145
-
-SUMMARY:
-
 ## NCT07282301
 Evaluation of the Clinical Outcomes of the Embolic Protection System in Preventing Distal Embolism During Femoropopliteal Debulking Procedures
 
@@ -13502,15 +13485,6 @@ A Multicenter, Prospective, Single-arm Exploratory Study of Prothrombin Complex 
 
 Intervention: : PCC — On-demand PCC therapy during bleeding episodes. The recommended dose was 50 IU/kg per infusion, administered every 8-12 hours, with a maximum total daily dose not exceeding 150 IU/kg.
 Link: https://clinicaltrials.gov/study/NCT07406139
-
-SUMMARY:
-
-## NCT07406334
-A Phase 1, Observer-Blind, Randomized, Active Controlled Trial to Evaluate the Safety and Reactogenicity of an Investigational Pneumococcal Vaccine in Toddlers 12 To 15 Months of Age Receiving a Single Booster Dose
-
-Intervention: : Pn-MAPS30plus — Pn-MAPS30plus vaccine will be administered intramuscularly.
-: PCV20 — PCV20 vaccine will be administered intramuscularly.
-Link: https://clinicaltrials.gov/study/NCT07406334
 
 SUMMARY:
 

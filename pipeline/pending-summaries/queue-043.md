@@ -4374,15 +4374,6 @@ Link: https://clinicaltrials.gov/study/NCT04689152
 
 SUMMARY:
 
-## NCT04689646
-Mind Body Syndrome Therapy for the Treatment of Chronic Pain
-
-Intervention: : Mind Body Intervention 1 — Mind body techniques for Intervention 1 will be taught in lectures and group discussion sessions.
-: Mind body intervention 2 — Mind body techniques for Intervention 2 will be taught in lectures and group and/or individual sessions.
-Link: https://clinicaltrials.gov/study/NCT04689646
-
-SUMMARY:
-
 ## NCT04689802
 To Identify Potential New Urine Marker Panel for Cancer Screening
 
@@ -6560,14 +6551,6 @@ A Phase I, Open-label, Dose-finding Study to Assess the Safety, Tolerability, Ph
 
 Intervention: : T-1201 Injection 100 mg Kit — T-1201 Injection 100 mg Kit contains lyophilized powder with a sterile aqueous solution formulated for intravenous administration.
 Link: https://clinicaltrials.gov/study/NCT04866641
-
-SUMMARY:
-
-## NCT04868149
-Clinical Outcome and Future Liver Remnant Regenerative Response in Laparoscopic Versus Open ALPPS: A Randomized Clinical Trial
-
-Intervention: : Associating liver partition and portal vein ligation for staged hepatectomy (ALPPS) — Associating liver partition and portal vein ligation for staged hepatectomy (ALPPS) is a surgical procedure that induces rapid liver regeneration in patients with small liver remnant planning for major liver resection. It is a two-staged operation with stage I including portal vein ligation and splitting the right liver away from the left liver. After stage I, the left liver will undergo rapid liver regeneration and the stage II operation can be performed at 7-10 days after stage I operation when the liver remnant reaches an adequate size. In stage II operation, the right liver that contains the tumor is then removed.
-Link: https://clinicaltrials.gov/study/NCT04868149
 
 SUMMARY:
 

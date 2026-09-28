@@ -5227,15 +5227,6 @@ Link: https://clinicaltrials.gov/study/NCT05364879
 SUMMARY:
 
 
-## NCT06837454
-French Prospective Observational Study in Patients Eligible for Systemic Therapy for Atopic Dermatitis (AD)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06837454
-
-SUMMARY:
-
-
 ## NCT05683041
 Prevention of Intra-uterine Adhesions Following Laparoscopic and Laparotomic Myomectomy
 
@@ -5356,16 +5347,6 @@ The Efficacy of Allogeneic Hematopoietic Stem Cell Transplantation in Newly Diag
 Intervention: : Allogeneic Hematopoietic Stem Cell Transplantation — Allogeneic Hematopoietic Stem Cell Transplantation
 : Chemotherapy — Chemotherapy
 Link: https://clinicaltrials.gov/study/NCT06458257
-
-SUMMARY:
-
-
-## NCT04927143
-Encouraging Abstinence Behavior in a Drug Epidemic: Optimizing Dynamic Incentives
-
-Intervention: : App-Based Contingency Management — Participants will receive financial incentives for submitting randomly generated drug-negative saliva tests across the intervention period.
-: Sham Control — Participants get access to the DynamiCare app but will not be provided with financial incentives.
-Link: https://clinicaltrials.gov/study/NCT04927143
 
 SUMMARY:
 

@@ -4313,15 +4313,6 @@ Link: https://clinicaltrials.gov/study/NCT07528365
 
 SUMMARY:
 
-## NCT07528469
-The Effects of PeptiStrong and Low Dose Whey Protein Versus High Dose Whey Protein Alone on Muscle Function In Older Adults
-
-Intervention: : PeptiStrong + whey protein — Fava bean protein hydrolysate containing bioactive peptides mixed with whey protein as dry powder for drinkable protein shake
-: Whey protein — Whey protein as dry powder for drinkable protein shake
-Link: https://clinicaltrials.gov/study/NCT07528469
-
-SUMMARY:
-
 ## NCT07529093
 Combined Effects of Mulligan's Mobilization With Movement and Kinetic Control Training on Pain, Range of Motion, Gait and Functional Disability Among Patients With Sacroiliac Joint Dysfunction
 
@@ -5268,15 +5259,6 @@ CAIX PET/ CT Guided Radiation Therapy in CcRCC.
 
 Intervention: : PETCT-guided radiation therapy — PETCT-guided radiation therapy: All patients will undergo both FDG PET/CT and CAIX PET/CT. Radiotherapy will be planned and delivered based on the imaging findings, with the goal of achieving the most comprehensive feasible (all-site) coverage whenever appropriate.
 Link: https://clinicaltrials.gov/study/NCT07540260
-
-SUMMARY:
-
-## NCT07540286
-An Expanded Cohort Study on the Safety and Efficacy of mRNA Nucleic Acid Drug XH-02 in Treating Adult Hypoparathyroidism
-
-Intervention: : Single subcutaneous injection — Participants will receive a single dose of XH-02 through subcutaneous injection.
-: Multiple subcutaneous injection — Participants will receive XH-02 via subcutaneous injection daily or every other day, for a total of 5 doses.
-Link: https://clinicaltrials.gov/study/NCT07540286
 
 SUMMARY:
 
@@ -13501,15 +13483,6 @@ Assessment of the Benefits of Beetroot Extract for Improving the Quality of Life
 Intervention: : Beetroot Extract Supplementation — Participants receive daily supplementation with beetroot extract juice, with or without participation in a multicomponent physical exercise program, depending on group allocation. When applicable, the exercise program targets strength, balance, mobility, and aerobic capacity, and is supervised by trained professionals during the first 6 weeks and subsequently prescribed but not supervised for the following 6 weeks. This intervention aims to evaluate the independent and combined effects of beetroot extract supplementation and physical exercise on cardiovascular, functional, and cognitive outcomes in adults aged 75 years and older.
 : Placebo group: nitrate-depleted beetroot juice — Participants receive daily supplementation with nitrate-depleted beetroot juice, with or without participation in a multicomponent physical exercise program, according to group allocation. The placebo juice is derived from beetroot but has had its nitrate content removed, maintaining similar appearance, taste, and texture to the active supplement. When applicable, the exercise program targets strength, balance, mobility, and aerobic capacity and is supervised by trained professionals during the first 6 weeks, followed by a prescribed but unsupervised phase for the subsequent 6 weeks. This placebo-controlled intervention is designed to isolate the effects of dietary nitrate from beetroot extract and to evaluate the independent and combined effects of physical exercise on cardiovascular, functional, and cognitive outcomes in adults aged 75 years and older.
 Link: https://clinicaltrials.gov/study/NCT07666685
-
-SUMMARY:
-
-## NCT07666984
-Comparison of the Effects of Neostigmine and Sugammadex on the Optic Nerve Sheath Diameter During the Postoperative Extubation Period
-
-Intervention: : Sugammadex 2 mg/kg — Intravenous bolus injection
-: Neostigmine + Atropine — Intravenous bolus injection
-Link: https://clinicaltrials.gov/study/NCT07666984
 
 SUMMARY:
 

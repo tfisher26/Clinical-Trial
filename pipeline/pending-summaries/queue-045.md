@@ -1486,14 +1486,6 @@ Link: https://clinicaltrials.gov/study/NCT06107933
 
 SUMMARY:
 
-## NCT06108128
-Characterizing Top-down Dimensions of Appetite Self-regulation Among Preschoolers
-
-Intervention: : Executive functioning observational tasks — Interventions take place solely at the measurement level, where children will be seen in observational tasks of general executive functioning and executive functioning around eating in which various food and non-food stimuli are presented and children's responses to task instructions are recorded.
-Link: https://clinicaltrials.gov/study/NCT06108128
-
-SUMMARY:
-
 ## NCT06108375
 Differences in Acceptability of Music Therapy Sessions Played Live Compared to a Recording Thereof
 

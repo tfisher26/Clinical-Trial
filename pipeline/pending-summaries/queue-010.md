@@ -11,15 +11,6 @@ Link: https://clinicaltrials.gov/study/NCT04840056
 SUMMARY:
 
 
-## NCT06053645
-The Weight of Cardiovascular Disease: A Prospective Pilot Study of Obese Adults With Cardiovascular Disease Evaluated in a Novel Cardiometabolic Clinic
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06053645
-
-SUMMARY:
-
-
 ## NCT04882488
 Correlation of FFR and iFR With Cardiac PET Perfusion (at Rest and Under Adenosine) in the Evaluation of Intermediate Coronary Stenoses in Patients With Severe Aortic Valve Stenosis
 

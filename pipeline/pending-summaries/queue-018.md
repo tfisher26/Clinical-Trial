@@ -319,15 +319,6 @@ Link: https://clinicaltrials.gov/study/NCT06950853
 SUMMARY:
 
 
-## NCT07649148
-Dietary Optimization Through Tracking and Integrated Evaluation
-
-Intervention: : Limiting Ultraprocessed Food (UPF) in Diet — Participants in this study will be advised on ways to limit UPF in their diet for a period of 28 days. There is no specific diet to follow. Instead, researchers will ask participants to track what they eat in a mobile app (Cronometer) with the aim of reducing UPF consumption.
-Link: https://clinicaltrials.gov/study/NCT07649148
-
-SUMMARY:
-
-
 ## NCT07816445
 Pilot Study to Test Effects of a New Interparental Conflict Intervention for Separating or Divorcing Parents
 
@@ -390,15 +381,6 @@ Uncovering Sleep and Circadian Mechanisms Contributing to Adverse Metabolic Heal
 
 Intervention: : Sleep Restriction — Participants are randomized into either a group (n=10) that is sleep restricted first or control first (n=10) group; the groups will crossover halfway through the protocol. Both arms are fed 3 meals and have access to ad libitum food between meals. Both groups will also undergo up to 3 mixed-meal tolerance tests to measure glucose tolerance.
 Link: https://clinicaltrials.gov/study/NCT05775627
-
-SUMMARY:
-
-
-## NCT06625203
-Multi Omics and Spatial Atlas In Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06625203
 
 SUMMARY:
 

@@ -5843,15 +5843,6 @@ Link: https://clinicaltrials.gov/study/NCT05516472
 SUMMARY:
 
 
-## NCT06330610
-Evaluation de l'efficacité du Support Nutritionnel entéral Intermittent Sur la défaillance d'Organes de Patients de réanimation Sous Ventilation assistée ENteral NUTrition - Continue Intermittent
-
-Intervention: : Intermittent enteral nutrition — Patients will receive intermittent enteral nutrition, defined as 3 60-minute administrations every 8 hours.
-Link: https://clinicaltrials.gov/study/NCT06330610
-
-SUMMARY:
-
-
 ## NCT06832189
 Everolimus and Epoetin for Sustained Liver Transplant Tolerance (EVEREST)(ITN101ST)
 

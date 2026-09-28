@@ -1002,16 +1002,6 @@ Link: https://clinicaltrials.gov/study/NCT07236177
 SUMMARY:
 
 
-## NCT06676930
-Impact of Computer Aided Detection on Trainee Polyp Miss Rates Using a Tandem Colonoscopy Design
-
-Intervention: : Colonoscopy With Computer-Aided Detection — Use of Computer-Aided Detection During Colonoscopy
-: Colonoscopy without Computer-Aided Detection — Colonoscopy without Computer-Aided Detection (AI)
-Link: https://clinicaltrials.gov/study/NCT06676930
-
-SUMMARY:
-
-
 ## NCT06526520
 Relaxin Measurement in Different Endometrial Preparation Approaches for Frozen Embryo Transfer
 

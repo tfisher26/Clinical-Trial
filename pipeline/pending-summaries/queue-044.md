@@ -7434,15 +7434,6 @@ Link: https://clinicaltrials.gov/study/NCT05753124
 
 SUMMARY:
 
-## NCT05753722
-An Open-Label Phase 1 Dose-Escalation and Expansion Study Investigating the Safety, Pharmacokinetics, Pharmacodynamics, and Activity of PRTH-101 Alone or in Combination With Pembrolizumab in Adults With Advanced or Metastatic Solid Tumors
-
-Intervention: : PRTH-101 — PRTH-101 is a humanized immunoglobulin gamma-1 (IgG1) monoclonal antibody
-: Pembrolizumab — PRTH-101 in combination with Pembrolizumab
-Link: https://clinicaltrials.gov/study/NCT05753722
-
-SUMMARY:
-
 ## NCT05753826
 A Single-arm, Exploratory Study of Adebrelimab Combined With Fuzuloparib in the Treatment of Patients With Recurrent Platinum-resistant Ovarian Cancer
 
@@ -12742,15 +12733,6 @@ Standardising Care for Hepatitis Delta in the Netherlands
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05903742
-
-SUMMARY:
-
-## NCT05903885
-Using a Cross-sectional Partnership to Improve Prevention and Health Equity Among African Americans
-
-Intervention: : On-site Fecal Immunochemical Test (FIT) Kit Distribution — Participants will receive home based Fecal Immunochemical Test (FIT) kit directly at the Department of Motor Vehicles (DMV) location at 4606 N 56th St Suite 100, Omaha, NE 68104, by research staff.
-: On-site With Social Media Advertising Fecal Immunochemical Test (FIT) Kit Distribution — Participants will receive home-based Fecal Immunochemical Test (FIT) kits directly at the Department of Motor Vehicles (DMV) location at 4606 N 56th St Suite 100, Omaha, NE 68104, by research staff supplemented by exposure to targeted social media advertisements.
-Link: https://clinicaltrials.gov/study/NCT05903885
 
 SUMMARY:
 

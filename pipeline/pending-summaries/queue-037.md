@@ -1268,15 +1268,6 @@ Link: https://clinicaltrials.gov/study/NCT05989854
 SUMMARY:
 
 
-## NCT06031805
-A French Observational Longitudinal Multicenter Study of Adult Patients Treated in the Real-life Setting With Olaparib for the Treatment of Metastatic Castration Resistant Prostate Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06031805
-
-SUMMARY:
-
-
 ## NCT05840497
 Efecto Del Ejercicio De Fuerza-resistencia En La Disminución De La Diabetes Gestacional En Gestantes Con Sobrepeso U Obesidad
 

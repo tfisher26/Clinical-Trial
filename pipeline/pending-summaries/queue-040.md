@@ -8611,16 +8611,6 @@ Link: https://clinicaltrials.gov/study/NCT07745127
 SUMMARY:
 
 
-## NCT06769659
-A Single-center, Double-blind, Placebo-controlled Crossover Study Evaluating NPT 2042 Versus Placebo in Subjects Aged 16-75 Years With Genetic Generalized Epilepsy (GGE) and Absence Seizures
-
-Intervention: : NPT 2042 — NPT 2042 is a new drug being developed as an anti-seizure treatment
-: Placebo — Placebo Comparator
-Link: https://clinicaltrials.gov/study/NCT06769659
-
-SUMMARY:
-
-
 ## NCT05773144
 Adaptive Randomization of Aerobic Exercise During Chemotherapy in Colon Cancer
 

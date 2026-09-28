@@ -1043,15 +1043,6 @@ Link: https://clinicaltrials.gov/study/NCT04613791
 SUMMARY:
 
 
-## NCT07103356
-Developing a Hybrid Type 1 Effectiveness-Implementation Randomized Controlled Trial to Test a Table-Top Water Pitcher to Reduce Arsenic Exposure in Northern New England
-
-Intervention: : Water Pitcher Filtration System — Table-top water pitcher filtration system
-Link: https://clinicaltrials.gov/study/NCT07103356
-
-SUMMARY:
-
-
 ## NCT05210543
 Acquisition and Long-term Observation of Patients With Severe Allergic Reactions
 

@@ -102384,3 +102384,42 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05664009
+A Randomized, Triple-blind, Placebo Controlled, Parallel Clinical Trial to Investigate the Safety and Efficacy of Redsenol-1 Plus on Cancer-related Fatigue in Adults
+Conditions: cancer/neoplasms_second_primary, other/alert_fatigue_health_personnel
+
+Inclusion criteria:
+"""
+1. Males and females ≥18 years of age
+2. Females not of child-bearing potential, defined as those who have undergone a sterilization procedure (e.g. hysterectomy, bilateral oophorectomy, bilateral tubal ligation, complete endometrial ablation) or have been post-menopausal for at least 1 year prior to screening Or,
+
+   Females of child-bearing potential must have a negative baseline urine pregnancy test and agree to use a medically approved method of birth control for the duration of the study. All hormonal birth control must have been in use for a minimum of three months. Acceptable methods of birth control include:
+   * Hormonal contraceptives including oral contraceptives, hormone birth control patch (Ortho Evra), vaginal contraceptive ring (NuvaRing), injectable contraceptives (Depo-Provera, Lunelle), or hormone implant (Norplant System)
+   * Double-barrier method
+   * Intrauterine devices
+   * Non-heterosexual lifestyle or agrees to use contraception if planning on changing to heterosexual partner(s)
+   * Vasectomy of partner at least 6 months prior to screening
+3. Individuals previously diagnosed with cancer and have CRF defined as a score of ≥4 on the CRF Single-Item Scale (an 11-point scale where 0 is "no fatigue" and 10 is "as bad as it can be")
+4. CRF present for at least one month prior to screening
+5. Eastern Cooperative Oncology Group (ECOG) Performance Status Scale score ≤2
+6. Hemoglobin level of ≥110 g/L for females and ≥129 g/L for males at screening
+7. Agrees to maintain current lifestyle habits as much as possible throughout the study depending on ability to maintain the following: diet, medications, supplements, exercise, and sleep and avoid taking new supplements during the study period
+8. Provided voluntary, written, informed consent to participate in the study
+9. Otherwise healthy as determined by medical history and laboratory results as assessed by Qualified Investigator (QI) while taking into consideration the participant's cancer history
+"""
+
+RELATIONSHIP:
+
+## NCT06131281
+Comparing Outcomes of Classic Transoral Outlet Reduction (TORe) Versus Endoscopic Submucosal Dissection-TORe: A Randomized Controlled Trial
+Conditions: metabolic/obesity, other/gestational_weight_gain
+
+Inclusion criteria:
+"""
+* Adult patients with history of Roux-en-Y gastric bypass and weight regain
+* Dilated gastrojejunal anastamosis as diagnosed on endoscopy
+* Patients undergoing standard of care for treatment of obesity with endoscopic revisional procedure (a.k.a. TORe) who are enrolled in the GI Bariatric Endoscopy program and clinic at the study site
+"""
+
+RELATIONSHIP:
+

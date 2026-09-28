@@ -42,19 +42,6 @@ Link: https://clinicaltrials.gov/study/NCT06995976
 
 SUMMARY:
 
-## NCT06996015
-Effects of SNAGs and Cognitive Behavior Therapy on Pain, Craniovertebral Angle and Disability in Patients With Non-Specific Neck Pain
-
-Intervention: : Cognitive behavior therapy — The treatment session will begin with a 10-minute conventional therapy, including a 5-minute hot pack applied to the cervical region and a 5-minute Myofascial Release (MFR) using skin rolling and cross-hand techniques to relax and stretch the fascia layers. This will be followed by a 10-minute application of Sustained Natural Apophyseal Glides (SNAGs), where the physiotherapist will guide the patient's active neck movements with accessory glides to improve joint ROM and reduce pain. Lastly, a 20-minute Cognitive Behavioral Therapy (CBT) session will include visual aids, explanations of cervical spine biomechanics, pain pathways, ergonomics, and posture management. Patients will receive manuals summarizing key points and be encouraged to engage actively. The 40-minute session will be conducted twice weekly for four weeks
-: Cervical Stabilization Exercises — The treatment session will last 40 minutes, twice a week for 4 weeks. It begins with a 10-minute conventional treatment: a 5-minute hot pack application to the cervical region followed by a 5-minute Myofascial Release (MFR) using the skin rolling technique. Natural wax will be applied for smooth strokes. MFR will engage all fascia layers with superficial strokes, progressing to deeper fascia using cross-hand stretch, depending on the pain tolerance.
-
-Next, SNAGs (Sustained Natural Apophyseal Glides) will be applied for 10 minutes. The patient, seated, will actively move the painful joint through its range of motion while the therapist applies a glide force. This will be repeated 10 times for 3 sets.
-
-Then session includes 20 minutes of Cervical Stabilization Exercises (CSE) with bracing in neurodevelopment stages (supine, prone, quadrupedal, bipedal), holding each position for 10 seconds. Isometric exercises and functional training with elastic bands and exercise balls follow.
-Link: https://clinicaltrials.gov/study/NCT06996015
-
-SUMMARY:
-
 ## NCT06996080
 A Randomized, Double-masked, Sham-controlled, Multicenter, Phase 3 Study to Evaluate the Efficacy and Safety of Intravitreal Tabirafusp Alfa (KSI-101) in Participants With Macular Edema Secondary to Inflammation (MESI) - PINNACLE
 
@@ -4112,14 +4099,6 @@ Prevention of Relapse in Behavioral Disorders: Study Protocol of a Randomized Co
 Intervention: : Standard Multidisciplinary Treatment — Comprehensive intervention including structured phases: initial assessment, detoxification, withdrawal management, psychological and psychiatric therapy, rehabilitation, and follow-up care. Delivered by a multidisciplinary team according to established clinical protocols.
 : Digital Monitoring Tool — In addition to standard care, participants will use a mobile application that monitors clinical indicators, detects early signs of relapse risk, and provides personalized alerts and intervention prompts. The tool is designed to support both patients and clinicians in decision-making and therapeutic follow-up.
 Link: https://clinicaltrials.gov/study/NCT07052175
-
-SUMMARY:
-
-## NCT07052318
-Developing a Music Listening mHealth Intervention for Stress Reduction in Early Recovery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07052318
 
 SUMMARY:
 
@@ -8493,14 +8472,6 @@ Link: https://clinicaltrials.gov/study/NCT07107906
 
 SUMMARY:
 
-## NCT07108049
-A Randomized Controlled Trial of a Couple-Based Economic Empowerment Intervention to Improve Relationship Quality and Mental Health in Three States of India
-
-Intervention: : Let us Grow Together: Economic Wellbeing for Families — Married couples in clusters assigned to the intervention receive a structured program of six community-based sessions. Each session lasts between 2.5 and 3 hours and includes participatory activities, discussions, and exercises. All six sessions would be conducted by the same two facilitators - one male and one female. The content integrates financial literacy (e.g., household budgeting, saving practices, joint financial planning) with gender-transformative training (e.g., equitable household roles, communication skills, conflict resolution, and fostering empathy between spouses). Sessions are delivered by trained facilitators in a group setting with fifteen couples, approximately every 2-4 weeks. Some sensitive content to address economic violence context would be done in a gender segregated manner separately to encourage reflections, ensure safety and reduce defensiveness. Between sessions, SMS reminders and tips are sent to participants' mobile phones to reinforce key messages and e
-Link: https://clinicaltrials.gov/study/NCT07108049
-
-SUMMARY:
-
 ## NCT07108075
 Acute Portal Pressure Reduction by Metformin and Carvedilol Compared to Carvedilol Alone in Cirrhosis - a Randomised, Double Blind Study.
 
@@ -9915,15 +9886,6 @@ Intervention: : Internet-Based Intervention — Receive information via online t
 : Questionnaire Administration — Ancillary studies
 : Virtual Technology Intervention — Receive information via ALEX Research Portal and vCHE
 Link: https://clinicaltrials.gov/study/NCT07126496
-
-SUMMARY:
-
-## NCT07126587
-Healthy Living Anson
-
-Intervention: : Nutrition Education and Food Delivery — Healthy frozen meals, produce boxes, and nutrition counseling
-: Physical Activity Comparator — Physical activity counseling, mHealth text messaging
-Link: https://clinicaltrials.gov/study/NCT07126587
 
 SUMMARY:
 
@@ -14046,15 +14008,6 @@ Intervention: : Psilocybin (high dose) — 25 mg pill
 : Playlist 4 — A six hour playlist
 : Playlist 5 — A six hour playlist
 Link: https://clinicaltrials.gov/study/NCT07180108
-
-SUMMARY:
-
-## NCT07180212
-The Guiding Value of Urinary Tumor DNA Testing in Cystoscopy for High-Risk/Very High-Risk Non-Muscle-Invasive Bladder Cancer: An Open-Label, Randomized Controlled, Multicenter Clinical Study (Truce-LB02)
-
-Intervention: : utDNA testing + Urine Cytology — Participants undergo urine tumor DNA (utDNA) testing and urine cytology every 3 months, and cystoscopy once per year. If either utDNA or urine cytology is positive, an additional cystoscopy will be performed. If urine cytology is positive but cystoscopy is negative, or if two consecutive utDNA tests are positive while cystoscopy remains negative, participants will undergo computed tomography urography (CTU) to evaluate the upper urinary tract.
-: Cystoscopy + Urine Cytology — Participants undergo cystoscopy and urine cytology every 3 months as per standard high-risk NMIBC surveillance. If urine cytology is positive but cystoscopy is negative, participants will undergo computed tomography urography (CTU) to evaluate the upper urinary tract.
-Link: https://clinicaltrials.gov/study/NCT07180212
 
 SUMMARY:
 

@@ -1002,15 +1002,6 @@ Link: https://clinicaltrials.gov/study/NCT07531849
 SUMMARY:
 
 
-## NCT05378555
-A Pilot Study of the Use of Oral Ketamine for Treatment of Vaso-Occlusive Pain in Adolescents and Young Adults
-
-Intervention: : Ketamine Hydrochloride — All patients in this study will receive oral ketamine for the treatment of pain from vaso-occlusive crisis. Patients will receive 0.5 mg/kg ketamine Q8hrs for 48 hours.
-Link: https://clinicaltrials.gov/study/NCT05378555
-
-SUMMARY:
-
-
 ## NCT06487130
 Virtual perI-/Menopause Registry of AusTrALia
 
@@ -2467,16 +2458,6 @@ FRAMED Infrainguinal Venous Bypass Versus Conventional Autologous Bypass Trial
 Intervention: : FRAMED Infrainguinal Venous Bypass — The harvested vein graft will be covered with a mesh.
 : Conventional Autologous Bypass — The harvested vein graft will be used without a mesh coating.
 Link: https://clinicaltrials.gov/study/NCT06082466
-
-SUMMARY:
-
-
-## NCT06893406
-Cervical Myelopathy in Hip Fracture Patients
-
-Intervention: : Cervical MRI — Participants whose history and physical exam indicate signs or symptoms of cervical myelopathy will be scheduled for a cervical MRI.
-: History & Physical Exam — A history and physical exam to evaluate for specific signs and symptoms of cervical myelopathy will be performed.
-Link: https://clinicaltrials.gov/study/NCT06893406
 
 SUMMARY:
 
@@ -10743,17 +10724,6 @@ Autophagy-Enhancers to Reduce Sleep Disturbances: A Combined Approach
 Intervention: : Spermidine Supplementation — supplementation of 6 mg Spermidine per day across 3 doses
 : Dietary Placebo — supplementation of 6 mg Placebo per day across 3 doses (placebo consists of maltodextrin, rice extract microcrystalline cellulose mixture, citric acid (anhydrous), silicon oxide (precipitated, E551))
 Link: https://clinicaltrials.gov/study/NCT07383311
-
-SUMMARY:
-
-
-## NCT07559136
-A Randomised, Double-blind, Placebo-controlled Trial to Assess Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Multiple Dosing of HRS9531 Injection in Chinese Adolescents With Obesity
-
-Intervention: : HRS9531 injection；Placebo — Drug: HRS9531 injection; low dose Drug: Placebo
-: HRS9531 injection；Placebo — Drug: HRS9531 injection; medium dose Drug: Placebo
-: HRS9531 injection；Placebo — Drug: HRS9531 injection; high dose Drug: Placebo
-Link: https://clinicaltrials.gov/study/NCT07559136
 
 SUMMARY:
 
