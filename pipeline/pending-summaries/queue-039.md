@@ -2484,16 +2484,6 @@ Link: https://clinicaltrials.gov/study/NCT05555693
 SUMMARY:
 
 
-## NCT06914609
-Phase 3 Study of the Efficacy and Safety of ION582 in Children and Adults With Angelman Syndrome
-
-Intervention: : obudanersen — obudanersen will be administered by IT injection.
-: Placebo — obudanersen matching placebo will be administered by IT injection.
-Link: https://clinicaltrials.gov/study/NCT06914609
-
-SUMMARY:
-
-
 ## NCT07297290
 Effect of Metformin Use on Weight Loss in Obese, Non-diabetic People
 
@@ -8384,16 +8374,6 @@ Patient Blood Management Charité (PBM-Charité): ): Cohort Study About Structur
 Intervention: : BARMER anemia treatment — BARMER insured patients are informed about the machine autotransfusion directly by the patient blood management (PBM) service and its intraoperative use is organized. The aim of these measures is to ensure that the intraoperative transfusion trigger does not fall below the intraoperative transfusion trigger by integrating the PBM into standard care and to avoid a perioperative transfusion. In addition, a postoperative treatment recommendation is made for the cause-related anemia treatment, e.g. in order to reduce the risk of a renewed anemia-related perioperative transfusion risk in the event of a possible follow-up operation or other elective operations.
 : NON-BARMER anemia treatment — Patients not insured with BARMER also receive early anemia detection, selection according to indication intervention (transfusion probability\> 10%) and evaluation for machine autotransfusion through the above-mentioned patient blood management (PBM) restructuring of standard care. In the case of preoperative anemia before an indication intervention and / or an intervention with machine autotransfusion application, the operating clinic will be given a recommendation by the PBM service for the diagnosis and treatment of the preoperative anemia and / or the use of the machine autotransfusion (implementation is the responsibility of the operating clinic)
 Link: https://clinicaltrials.gov/study/NCT05146726
-
-SUMMARY:
-
-
-## NCT06963476
-rTMS as Add on Treatment for Substance Use Disorders
-
-Intervention: : repetitive transcranial magnetic stimulation (rTMS) for AUD — Transcranial magnetic stimulation (TMS) is a noninvasive form of brain stimulation in which a changing magnetic field is used to cause electric current at a specific area of the brain through electromagnetic induction. To administer TMS, a stimulator equipped with a figure-8 coil will be used. Two separate coils will be used that are similar in appearance and acoustic properties. One active, unblinded, coil will be used to determine resting motor threshold (RMT) and deliver pulses for the recruitment curves; the other coil will be used to deliver rTMS. rTMS stimulation will be targeted using standard EEG electrode locations: FP1 for mPFC and F3 for l-dlPFC.
-: repetitive transcranial magnetic stimulation (rTMS) for OUD — Description: Transcranial magnetic stimulation (TMS) is a noninvasive form of brain stimulation in which a changing magnetic field is used to cause electric current at a specific area of the brain through electromagnetic induction. To administer TMS, a stimulator equipped with a figure-8 coil will be used. Two separate coils will be used that are similar in appearance and acoustic properties. One active, unblinded, coil will be used to determine resting motor threshold (RMT) and deliver pulses for the recruitment curves; the other coil will be used to deliver rTMS. rTMS stimulation will be targeted using standard EEG electrode location F3 for l-dlPFC.
-Link: https://clinicaltrials.gov/study/NCT06963476
 
 SUMMARY:
 

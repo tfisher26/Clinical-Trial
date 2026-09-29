@@ -10556,15 +10556,6 @@ Link: https://clinicaltrials.gov/study/NCT07739238
 
 SUMMARY:
 
-## NCT07700095
-Assessment of Three-Dimensional Bone Augmentation of Severely Atrophied Posterior Mandibular Alveolar Ridges Using Customized-3D Zirconia Barriers Versus Pre-bent Titanium Mesh: A Randomized Controlled Clinical Trial
-
-Intervention: : customized Zirconia barrier — It includes eight patients seeking for placement of customized Zirconia barrier after GBR in 1st stage surgery then implants placement in 2nd stage surgery in the alveolar ridges.
-: prebent titanium mesh — It includes eight patients seeking for placement prebent titanium mesh as barriers after GBR in 1st stage surgery then implants placement in 2nd stage surgery in the alveolar ridges.
-Link: https://clinicaltrials.gov/study/NCT07700095
-
-SUMMARY:
-
 ## NCT07270835
 The Study of Zanubrutinib Combined With Rituximab in the Treatment of Secondary Hemophagocytic Lymphohistiocytosis in B-cell Lymphoma
 
@@ -13911,14 +13902,6 @@ Study of Congenital Orofacial Clefts by Implementing Optical Genome Mapping
 
 Intervention: : blood withdrawal — blood withdrawal for genetic testing
 Link: https://clinicaltrials.gov/study/NCT06880094
-
-SUMMARY:
-
-## NCT05871021
-A Phase IIa, Open-label, Multicenter Study of Radiochemotherapy With Isotoxic Dose Escalation and Protective VEGF Inhibition Using Bevacizumab in the Treatment of Patients With First Diagnosis of IDH Wild-type, MGMT Unmethylated Glioblastoma
-
-Intervention: : Dose escalation of radiation dose beyond the therapeutic standard — Dose escalation to 75 Gy with concomitant radioprotectant bevacizumab
-Link: https://clinicaltrials.gov/study/NCT05871021
 
 SUMMARY:
 

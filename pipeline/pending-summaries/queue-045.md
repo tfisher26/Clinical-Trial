@@ -4387,14 +4387,6 @@ Link: https://clinicaltrials.gov/study/NCT06177743
 
 SUMMARY:
 
-## NCT06177977
-Ultracompact Hand-Held Swept-Source Optical Coherence Tomography (SS-HH-OCT) as a Novel Diagnostic Modality for Early-Onset Retinal Dystrophies (EORDs)
-
-Intervention: : SS-HH-OCT — The investigational swept source OCT systems with handheld UC handpieces used in this study were developed at Duke University. OCT systems are non-contact, in-vivo optical imaging technology. The OCT system creates real-time, non-invasive images of ocular microstructure. OCT devices held above or in front of the eye while the sweeping infrared OCT beam scans across the retina. In contrast to the visible light used in clinical eye examinations, because infrared light is not visible, the participant is not disturbed by the light. OCT imaging allows the capture of hundreds of B-scan (cross-sectional) images in seconds. These B-scans are then stacked to create a volume; the stack may be summed up to create a retinal image. These retinal images are similar to images acquired during retinal photography except that they were captured with infrared light and provide depth information. Each volume and B-scan image can be viewed individually to measure and analyze ocular pathology.
-Link: https://clinicaltrials.gov/study/NCT06177977
-
-SUMMARY:
-
 ## NCT06177990
 Caregiver as Navigator: Develop Skills Online (CAN-DO) Developing Dementia Family Caregiver Mastery for Navigating Complex Health, Social Service, Legal, Financial, and Family Systems
 

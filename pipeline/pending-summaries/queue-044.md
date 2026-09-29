@@ -11625,14 +11625,6 @@ Link: https://clinicaltrials.gov/study/NCT05870995
 
 SUMMARY:
 
-## NCT05871021
-A Phase IIa, Open-label, Multicenter Study of Radiochemotherapy With Isotoxic Dose Escalation and Protective VEGF Inhibition Using Bevacizumab in the Treatment of Patients With First Diagnosis of IDH Wild-type, MGMT Unmethylated Glioblastoma
-
-Intervention: : Dose escalation of radiation dose beyond the therapeutic standard — Dose escalation to 75 Gy with concomitant radioprotectant bevacizumab
-Link: https://clinicaltrials.gov/study/NCT05871021
-
-SUMMARY:
-
 ## NCT05871099
 Hyperthermic Intraperitoneal Chemotherapy in the Treatment of Locally Advanced Gastric Cancer After Laparoscopic Gastrectomy With D2 Lymphadenectomy: A Phase III Multicenter Prospective Randomized Controlled Clinical Trial
 
@@ -12138,18 +12130,6 @@ Treatment of Epilepsy Syndromes of Childhood With Sleep Activation Using Sulthia
 
 Intervention: : Sulthiame — Sulthiame add-on according to good clinical practice in these childhood epilepsy syndromes
 Link: https://clinicaltrials.gov/study/NCT05885646
-
-SUMMARY:
-
-## NCT05885828
-The PRECISION-T2D Study: Precision Nutrition Study for Type 2 Diabetes
-
-Intervention: : White bread — After wearing CGM on Day 1, participants will be provided with white bread (76-77g) and milk (250mL) for breakfast on Day 3, Day 4, Day 7, Day 8, Day 10, Day 12.
-: Whole wheat bread — After wearing CGM on Day 1, participants will be provided with wheat bread (85-86g) and milk (250mL) for breakfast on Day 2, Day 5, Day 6, Day 9, Day 11, Day 13.
-: Plant-based diet — After wearing CGM on Day 1, participants will be asked to follow the plant-based diet in next 30 days.
-: Conventional diabetic diet — Volunteers will be asked to have a diet following 2023 Chinese Diabetes Society guidelines in next 30 days.
-: Follow-up visit every 1-2 years — Participants will be visited every 1-2 years. At each visit, face-to-face interviews, specimen collection, anthropometric measurements, ultrasonography evaluation, laboratory tests, and multi-omics data will be conducted.
-Link: https://clinicaltrials.gov/study/NCT05885828
 
 SUMMARY:
 
@@ -18948,15 +18928,6 @@ A Prospective, Randomized Controlled Trial Evaluating the Efficacy of Amiodarone
 Intervention: : Amiodarone Hydrochloride — Given IV and via feeding tube
 : Saline — Given IV
 Link: https://clinicaltrials.gov/study/NCT06067438
-
-SUMMARY:
-
-## NCT06067698
-Clinical Study Evaluating the Efficacy and Safety of Alpha-lipoic Acid in Patients With Ulcerative Colitis Treated With Mesalamine
-
-Intervention: : "Mesalamine" and "alpha-lipoic acid" — Mesalamine 1000 mg every 8 hrs. + alpha-lipoic acid 600 mg once daily for 3 months
-: "Mesalamine" and "Placebo" — Mesalamine 1000 mg every 8 hrs. + Placebo once daily for 3 months
-Link: https://clinicaltrials.gov/study/NCT06067698
 
 SUMMARY:
 

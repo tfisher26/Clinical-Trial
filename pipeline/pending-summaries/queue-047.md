@@ -4175,15 +4175,6 @@ Link: https://clinicaltrials.gov/study/NCT06803680
 
 SUMMARY:
 
-## NCT06803706
-Metabolomic and Gut Microbial Biomarkers of Smoking Cessation Treatment in Long-term Drug Therapy: A Randomized Controlled Trial
-
-Intervention: : 6-weeks CBT smoking cessation programme — Held in the therapeutic community, the intervention will employ principles of cognitive-behavioural therapy (CBT) coupled with personalized recommendations for nicotine replacement. The Austrian Health Insurance standard for therapy will be guiding the program's content, which is tailored for inpatient clients. Specifically, the following interventions based on CBT techniques will be applied in the weekly group sessions consisting of 10 to 15 participants: Psychoeducation including information on tobacco addiction, health risks, advice on relapse prevention and the handling of craving, motivation building, behavioural observation.
-: Long-term drug therapy within a therapeutic community — The standard treatment within the 'Grüner Kreis' therapeutic community - which all participants will receive - consists of group therapy (once a week), individual psychotherapy (once a week), counselling by social workers, psychiatric consultations, as well as sport-, art- and work-therapy. Daily life is organized according to principles of therapeutic community-based addiction treatment.
-Link: https://clinicaltrials.gov/study/NCT06803706
-
-SUMMARY:
-
 ## NCT06803732
 Postoperative Pain of Robotic, Endoscopic and Open Lateral Neck Dissection
 
@@ -7227,14 +7218,6 @@ The Effect of Online Therapeutic Neuroscience Education Added to Conventional Ph
 Intervention: : Therapeutic Neuroscience Education — Therapeutic Neuroscience Education applied in the form of one-on-one seminar format, focused on pain neurophysiology, and in the form of speaking sessions. Within the scope of these speaking sessions, pictures, diagrams, graphs, examples, metaphors, and homework assignments explaining the neurophysiology of pain are used.
 : Conventional Program — Conventional physiotherapy includes hot packs (20 minutes), ultrasound (1 mHz frequency, 1,5 watt/cm², 5 minutes left/right lumbar region), TENS (100Hz, 20 minutes), and home exercises.
 Link: https://clinicaltrials.gov/study/NCT06847763
-
-SUMMARY:
-
-## NCT06848192
-The Parkinson's Disease Case-Control Study: Gut Microbiome Study for Parkinson's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06848192
 
 SUMMARY:
 

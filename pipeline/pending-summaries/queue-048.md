@@ -11561,14 +11561,6 @@ Link: https://clinicaltrials.gov/study/NCT07145970
 
 SUMMARY:
 
-## NCT07146412
-Impact of a Multimodal Lifestyle Intervention on Dementia Risk Factors and Attitude Related to Dementia Risk: A Logistical Pilot Study
-
-Intervention: : Multimodal Lifestyle Intervention — The intervention supports adoption and maintenance of healthy behaviors including healthy nutrition The Mediterranean-DASH (Dietary Approaches to Stop Hypertension) Intervention for Neurodegenerative Delay, or MIND Diet), physical activity (150 min/week of moderate activity), stress management, weight management, and adherence to doctor-prescribed medical regimens. In addition, participants will be encouraged to participate regularly in social and learning activities, and to engage in cognitive training via Posit's BrainHQ web-based training tools (brainhq.com). Participants will be supported by telephone-based health coaching. Coaches will be currently licensed allied health providers such as Registered Dietitians. Using the combination of an individual's biological data (including genomics, blood, stool, saliva, etc.), activity data, behavioral data, and other incoming streams of health information, the coach will tailor the lifestyle intervention for each participant.
-Link: https://clinicaltrials.gov/study/NCT07146412
-
-SUMMARY:
-
 ## NCT07146646
 A Phase II Trial of Trifluridine/Tipiracil Plus Oxaliplatin in Patients With Advanced or Metastatic Biliary Tract Cancer Following First-Line Therapy
 

@@ -14909,15 +14909,6 @@ Link: https://clinicaltrials.gov/study/NCT07700056
 
 SUMMARY:
 
-## NCT07700095
-Assessment of Three-Dimensional Bone Augmentation of Severely Atrophied Posterior Mandibular Alveolar Ridges Using Customized-3D Zirconia Barriers Versus Pre-bent Titanium Mesh: A Randomized Controlled Clinical Trial
-
-Intervention: : customized Zirconia barrier — It includes eight patients seeking for placement of customized Zirconia barrier after GBR in 1st stage surgery then implants placement in 2nd stage surgery in the alveolar ridges.
-: prebent titanium mesh — It includes eight patients seeking for placement prebent titanium mesh as barriers after GBR in 1st stage surgery then implants placement in 2nd stage surgery in the alveolar ridges.
-Link: https://clinicaltrials.gov/study/NCT07700095
-
-SUMMARY:
-
 ## NCT07700108
 Prospective, Single-Center, Randomized, Double-Blind Clinical Trial Evaluating Pain During Epidural Tuohy Needle Insertion After 4% Lidocaine Patch or Intradermal Lidocaine Injection in Parturient Women Requesting Epidural Analgesia
 

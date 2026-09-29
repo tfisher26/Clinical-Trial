@@ -1220,15 +1220,6 @@ Link: https://clinicaltrials.gov/study/NCT07496424
 SUMMARY:
 
 
-## NCT07644169
-An Open-label, Dose-escalation Clinical Trial to Assess the Pharmacokinetic Profile of Propylene Glycol (PG) in Healthy Adults Following PG Exposure
-
-Intervention: : Propylene glycol — At Visits 2, 4, and 6, participants will consume 1X, 2X, and 3X 12 oz of a PG-containing beverage (in bottle format) with standardized meals in the presence of the study staff over the course of the dosing day. Participants will consume the beverage and standardized meal within 15 minutes. The only beverage allowed during the visit - other than the intent-to-treat beverage - will be water.
-Link: https://clinicaltrials.gov/study/NCT07644169
-
-SUMMARY:
-
-
 ## NCT04538859
 A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong
 

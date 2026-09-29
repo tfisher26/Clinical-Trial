@@ -876,17 +876,6 @@ Link: https://clinicaltrials.gov/study/NCT07259070
 SUMMARY:
 
 
-## NCT05123729
-Community-Academic Partnerships to Address Disparities Within Rural and Urban Communities
-
-Intervention: : Crowdsourced campaign package — Disease prevention intervention developed using a crowdsourcing process.
-: Rapid Response Teams — Pilot a new hybrid training focused on contact tracing and case investigation.
-: Registry enrollment — Participants join research registry
-Link: https://clinicaltrials.gov/study/NCT05123729
-
-SUMMARY:
-
-
 ## NCT06534762
 Efficacy and Safety of Milaberon in Combination With Standard Therapy in Advanced Solid Tumors: an Open, Multicenter, Clinical Study
 
@@ -8831,15 +8820,6 @@ Instrumental, Single-Blind, Placebo-Controlled Study Evaluating the Efficacy of 
 
 Intervention: : Oral Supplement — Participants in the Active Comparator group will receive a dietary supplement designed to manage androgenetic alopecia (AGA). The intervention consists of one oral capsule per day for six months, containing active ingredients such as Saw Palmetto, Pumpkin Seed Oil, Pygeum africanum, L-Cystine, Oleanolic Acid, and Horsetail Extract.
 Link: https://clinicaltrials.gov/study/NCT06841458
-
-SUMMARY:
-
-
-## NCT04605913
-A Phase I/Ib Pilot Trial, Single Arm, Open Label, of Protein-Bound Paclitaxel, Cisplatin, and Gemcitabine (GCN) Combined With Tumor Treatment Fields (TTF) in Patient With Metastatic Pancreatic Adenocarcinoma
-
-Intervention: : Modified GCN+TTF treatment — The regimen will consist of gemcitabine (G) administered at a dose of 800 mg/m2, cisplatin (C) 30 mg/m2, and protein-bound paclitaxel (N) 150 mg/m2 administered on cycle 1 day 1 and every 2 weeks thereafter and TTF will be administered daily (150kHz 18 hours/day) starting with Cycle 1 Day 1 (dose level 1). One cycle consists of 28 days including 2 chemotherapy treatments (same regimen studied in the PAXG trial: Reni BJC 2016 without capecitabine). After completing 6 cycles, patients will then transition to a maintenance phase of G administered at a dose of 1000 mg/m2 every 2 weeks and daily TTF (150 KHZ 18 hours/day) until progression of disease (POD) per RECIST v1.1.
-Link: https://clinicaltrials.gov/study/NCT04605913
 
 SUMMARY:
 

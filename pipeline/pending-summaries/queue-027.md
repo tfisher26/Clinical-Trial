@@ -293,15 +293,6 @@ Link: https://clinicaltrials.gov/study/NCT07465783
 SUMMARY:
 
 
-## NCT07425587
-Multicenter Symphony™ IL-6 Monitoring Sepsis ED Pilot Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07425587
-
-SUMMARY:
-
-
 ## NCT06381739
 A Phase 2 Trial to Evaluate Safety and Immunogenicity of a Next-generation COVID-19 Vaccine Delivered by Inhaled Aerosol to Humans
 

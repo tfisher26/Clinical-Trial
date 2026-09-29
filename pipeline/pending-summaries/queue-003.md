@@ -1039,15 +1039,6 @@ Link: https://clinicaltrials.gov/study/NCT06216847
 SUMMARY:
 
 
-## NCT07606885
-Westlake Frequent-sampling Cohort 2
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07606885
-
-SUMMARY:
-
-
 ## NCT07336017
 Impact on Postpartum Anal Incontinence of an Educational Program for Delivery Room Staff on the Diagnosis and Repair of Obstetric Anal Sphincter Injuries
 

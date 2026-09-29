@@ -105,14 +105,6 @@ Link: https://clinicaltrials.gov/study/NCT06826365
 
 SUMMARY:
 
-## NCT04796545
-A Prospective, Multicenter Post-marketing Clinical Investigation of the SING IMT(TM) System, Model NG SI IMT 3X in Patients With Central Vision Impairment Associated With End-stage Age-related Macular Degeneration
-
-Intervention: : SING IMT(TM) System, model NG SI IMT 3X — The SING IMT 3X implant is a visual prosthetic implantable device, which, when combined with the optics of the cornea, constitutes a telephoto system for improvement of visual acuity in patients with bilateral, end-stage age-related macular degeneration.
-Link: https://clinicaltrials.gov/study/NCT04796545
-
-SUMMARY:
-
 ## NCT06575400
 A Phase 1, Randomised, Single-blind, Placebo-controlled Trial to Assess Safety, Tolerability, and Pharmacokinetics of Single and Multiple Rising Subcutaneous Doses of BI 3804379 in Healthy Male and Female Participants and in Stable Patients With Advanced Fibrosis Due to MASH
 
@@ -1971,20 +1963,6 @@ Investigation of a Novel Blood Test to Identify Breast Cancer (IDBC)
 
 Intervention: : Syantra DX Breast Cancer — Blood test for detecting the presence of breast cancer.
 Link: https://clinicaltrials.gov/study/NCT04495244
-
-SUMMARY:
-
-## NCT04495296
-A Phase I/IIa Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of TST001 - Claudin18.2 Monoclonal Antibody in the Treatment of Locally Advanced or Metastatic Solid Tumors
-
-Intervention: : TST001 — TST001 will be administered by specified doses on specified day
-: Oxaliplatin — Oxaliplatin will be administered by specified doses on specified day
-: Capecitabine — Capecitabine will be administered by specified doses on specified day
-: Paclitaxel — Paclitaxel will be administered by specified doses on specified day
-: Gemcitabine — Gemcitabine will be administered by specified doses on specified day
-: Cisplatin — Cisplatin will be administered by specified doses on specified days Oxaliplatin will be administered by specified doses on specified day Drug: Capecitabine Capecitabine will be administered by specified doses on specified day
-: Nivolumab — Nivolumab will be administered by specified doses on specified day
-Link: https://clinicaltrials.gov/study/NCT04495296
 
 SUMMARY:
 
@@ -5618,14 +5596,6 @@ MovetheHip-trial: The Effectiveness of Exercise and Patient Education Compared W
 Intervention: : Exercise and patient education — Over a period of 6-months, patients will be offered eight one-to-one supervised training sessions. In these sessions, patients will be instructed in a home-based exercise programme and given patient education. The programme includes four exercises covering strength and stability training. The exercises will be performed in sets of three with a minimum of 5 repetitions, and patients will be instructed to perform a minimum of three training sessions each week. Each of the exercises can be progressed through three levels of difficulty, allowing for individualised treatment with regard to exercise quality and perceived exertion according to the Borg CR10 scale. Exercises will be performed on a perceived exertion level from somewhat hard (level 5) to very hard (level 7). Patient education includes pain management, a focus on exercise adherence and progression, and advice on physical activity.
 : Usual Care — Patients will follow usual care, including an individual consultation on self-management of hip symptoms and general advice on exercise and physical activity.
 Link: https://clinicaltrials.gov/study/NCT04795843
-
-SUMMARY:
-
-## NCT04796545
-A Prospective, Multicenter Post-marketing Clinical Investigation of the SING IMT(TM) System, Model NG SI IMT 3X in Patients With Central Vision Impairment Associated With End-stage Age-related Macular Degeneration
-
-Intervention: : SING IMT(TM) System, model NG SI IMT 3X — The SING IMT 3X implant is a visual prosthetic implantable device, which, when combined with the optics of the cornea, constitutes a telephoto system for improvement of visual acuity in patients with bilateral, end-stage age-related macular degeneration.
-Link: https://clinicaltrials.gov/study/NCT04796545
 
 SUMMARY:
 

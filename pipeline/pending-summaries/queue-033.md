@@ -10380,16 +10380,6 @@ Link: https://clinicaltrials.gov/study/NCT06272240
 SUMMARY:
 
 
-## NCT05914831
-Ultra-hypofractionated for Whole Breast Irradiation (WBI) Compared to Partial Breast Irradiation (PBI): A Single-Institution Prospective Phase 2 Trial
-
-Intervention: : Ultra-fractionated WBI — An ultra-short course of radiotherapy with 26Gy in 5 fractions will be administered to the whole breast where the tumor was located.
-: Ultra-fractionated PBI — An ultra-short course of radiotherapy with 26Gy in 5 fractions will be administered to the part of the breast where the tumor was located.
-Link: https://clinicaltrials.gov/study/NCT05914831
-
-SUMMARY:
-
-
 ## NCT06064136
 Psoas Tenotomy Under Ultrasound
 

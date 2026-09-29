@@ -5009,15 +5009,6 @@ Link: https://clinicaltrials.gov/study/NCT06551311
 
 SUMMARY:
 
-## NCT06551558
-Impact of a Global Warming Strategy, From the Patient Arrival in the Operating Room to His Discharge From the Recovering Room, Versus a Recommended Management of Intraoperative Warming on the Prevalence of Hypothermia in the Recovering Room
-
-Intervention: : global warming — A systematic pre- and post-operative warming associated with the optimization of per-operative warming.
-: per operative warming — per-operative warming only thanks to the "Optimized" Forced air blanket with a prewarming of 10 minutes performed in the operating room.
-Link: https://clinicaltrials.gov/study/NCT06551558
-
-SUMMARY:
-
 ## NCT06551974
 Development of a Guided Self-help Mobile App to Improve Treatment Outcome for Individuals Suffering From Eating Disorders
 

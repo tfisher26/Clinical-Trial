@@ -1320,15 +1320,6 @@ Link: https://clinicaltrials.gov/study/NCT05023564
 SUMMARY:
 
 
-## NCT07208643
-Long-term Stability of Peri-implantitis Treatments: a 3-year Clinical Evaluation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07208643
-
-SUMMARY:
-
-
 ## NCT04506593
 Gastrointestinal Motility Diagnosis Registry
 

@@ -2451,16 +2451,6 @@ Link: https://clinicaltrials.gov/study/NCT05637879
 SUMMARY:
 
 
-## NCT07513779
-Residual Eccentric Strength Deficits of Gastrocnemius Muscle and Deep Scar Tissue Thickness in Patients With Tennis Leg: A Cross-Sectional Study
-
-Intervention: : B-mode Diagnostic Ultrasound - Scar Tissue Assessment — B-mode diagnostic ultrasound is used to measure deep scar tissue thickness (in millimeters) at the musculotendinous junction of the medial gastrocnemius muscle. Measurements are obtained in both longitudinal and transverse planes at the site of maximal scar thickness. The contralateral uninjured limb is measured for comparison. Assessments are performed by a blinded experienced sonographer using a standardized probe position. This is a diagnostic exposure measurement, not a therapeutic intervention.
-: Isokinetic Dynamometry - Eccentric Plantar Flexor Strength Assessment — Eccentric plantar flexor strength is assessed using an isokinetic dynamometer at angular velocities of 30°/s and 60°/s. Peak torque (Nm) is recorded for both the injured and uninjured limbs. Testing follows a standardized warm-up protocol with randomized testing order and adequate rest between trials. The percentage deficit between limbs is calculated. This is a diagnostic measurement, not a therapeutic intervention.
-Link: https://clinicaltrials.gov/study/NCT07513779
-
-SUMMARY:
-
-
 ## NCT06179680
 Quantification of White Matter Hyperintensities in Subjects With Amnestic Mild Cognitive Impairment or Alzheimer's Disease
 

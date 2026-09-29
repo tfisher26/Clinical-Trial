@@ -9919,16 +9919,6 @@ Link: https://clinicaltrials.gov/study/NCT03707691
 
 SUMMARY:
 
-## NCT03707808
-A Randomized Phase II Clinical Trial on Intratumoral AS01B/ipilimumab Plus Intravenous Nivolumab with or Without Autologous CD1c(BDCA-1)+ / CD141(BDCA-3)+ Myeloid Dendritic Cells.
-
-Intervention: : intratumoral injection of autologous CD1c (BDCA-1)+ myDC — intratumoral injections plus intravenous administration
-: Intratumoral injection of ipilimumab and AS01b — Intratumoral injection of ipilimumab and AS01b
-: IV nivolumab — Nivolumab administered intravenously
-Link: https://clinicaltrials.gov/study/NCT03707808
-
-SUMMARY:
-
 ## NCT03708627
 The Role of Bimatoprost in Graves' Periorbitopathy
 
@@ -13686,14 +13676,6 @@ Phase I Clinical Trial of Allogeneic Bone Marrow Human Mesenchymal Stem Cells Lo
 Intervention: : Oncolytic Adenovirus Ad5-DNX-2401 — Given IA
 : Therapeutic Conventional Surgery — Undergo surgery
 Link: https://clinicaltrials.gov/study/NCT03896568
-
-SUMMARY:
-
-## NCT03897543
-A Phase 1-2 Study of ABX196 in Combination With Nivolumab in Patients With Hepatocellular Carcinoma
-
-Intervention: : ABX196 — ABX196 will be administered as an IM injection 120 minutes (+/- 15 minutes) after the completion of the nivolumab infusion on Day 1 of every other 28-Day treatment cycle (i.e., every 8 weeks).
-Link: https://clinicaltrials.gov/study/NCT03897543
 
 SUMMARY:
 

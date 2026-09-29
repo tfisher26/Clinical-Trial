@@ -6049,16 +6049,6 @@ Link: https://clinicaltrials.gov/study/NCT06262529
 SUMMARY:
 
 
-## NCT06664047
-Radiological and Clinical Outcomes of Over-the-Top ACL Reconstruction vs. Anteromedial ACL Reconstruction With Additional Lateral Extraarticular Tenodesis: A Prospectively Randomized Controlled Trial
-
-Intervention: : OTT ACLR — Patients in this group will undergo a reconstruction with the OTT technique which includes an intra-articular component and an extra-articular one, functioning as a LET.
-: ACLR LET — Patients in this group will undergo a reconstruction with the conventional ACL technique accompanied by a routine LET, obtained from the iliotibial band.
-Link: https://clinicaltrials.gov/study/NCT06664047
-
-SUMMARY:
-
-
 ## NCT07289152
 Pediatric Health Empowerment: Improving Children´s Perioperative Experiences With Patient-Reported Measures
 
@@ -7267,17 +7257,6 @@ Intervention: : Belumosudil — Given PO
 : Electronic Health Record Review — Ancillary studies
 : Placebo Administration — Given PO
 Link: https://clinicaltrials.gov/study/NCT05996627
-
-SUMMARY:
-
-
-## NCT07396766
-Dissemination of a Breast Reconstruction Decision Tool Through Social Media and Online Communities- AIM1-B
-
-Intervention: : Baseline Questionnaire — Participants will be screened and share demographic information during screening. If eligible and screened in, the interviewer will send the self-administered pre-survey Decision Quality Index (DQI).
-: Semi structured Interview — Participants will participate in a semi-structured interview and review of the adapted BREASTChoice tool.
-: Post Survey — Participants will take the post-survey to assess breast reconstruction decision quality.
-Link: https://clinicaltrials.gov/study/NCT07396766
 
 SUMMARY:
 
@@ -17565,15 +17544,6 @@ Feasibility Assessment of Novel ECG-Based Continuous Glucose Monitoring System
 
 Intervention: : No intervention — No intervention is conducted in this study.
 Link: https://clinicaltrials.gov/study/NCT06883682
-
-SUMMARY:
-
-
-## NCT07245511
-A Prospective Observational Study Comparing the VIDIAC, PeDiAC, and Intubation Difficulty Scale (IDS) in Pediatric Patients Aged 5-18 Years Undergoing Tracheal Intubation With Videolaryngoscopy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07245511
 
 SUMMARY:
 

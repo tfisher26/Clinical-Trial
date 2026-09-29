@@ -3291,14 +3291,6 @@ Link: https://clinicaltrials.gov/study/NCT07270172
 
 SUMMARY:
 
-## NCT07270185
-Measuring Outcomes With Validated Exercise
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07270185
-
-SUMMARY:
-
 ## NCT07270237
 Development and Evaluation of Ultrasound Imaging Acquisition and Analysis Methods
 
@@ -4514,15 +4506,6 @@ A Pivotal, Pre-market, Prospective, Interventional, Multi-centre Study to Evalua
 
 Intervention: : Cochlear implant — Totally Implantable Cochlear Implant System
 Link: https://clinicaltrials.gov/study/NCT07287124
-
-SUMMARY:
-
-## NCT07287189
-A Phase 2a, Randomized, Double-Blind, Placebo-Controlled Dose Comparison and Exploratory Efficacy Study of Orally Administered SAT-3247 in Ambulatory DMD Patients
-
-Intervention: : SAT-3247 — SAT-3247 is a selective AAK1 inhibitor for oral tablet administration which promotes functional rescue of asymmetric satellite cell division, resulting in the robust production of muscle progenitor cells, subsequent improvement in muscle regeneration, and enhanced muscle function.
-: Placebo — matching placebo oral tablets
-Link: https://clinicaltrials.gov/study/NCT07287189
 
 SUMMARY:
 
@@ -17186,14 +17169,6 @@ Analysis of the Relationship Between the Morphological Characteristics of the Ma
 
 Intervention: : No intervention; Observational study — No intervention; Observational study
 Link: https://clinicaltrials.gov/study/NCT07460557
-
-SUMMARY:
-
-## NCT07460687
-Westlake Frequent-sampling Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07460687
 
 SUMMARY:
 

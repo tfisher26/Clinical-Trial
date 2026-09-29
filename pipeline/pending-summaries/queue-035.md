@@ -3014,16 +3014,6 @@ Link: https://clinicaltrials.gov/study/NCT05501587
 SUMMARY:
 
 
-## NCT06874192
-Safety and Efficacy of LOw DOse COlchicine in Patients With STatin INTolerance: the LODOCO STINT Pilot Study
-
-Intervention: : Low-dose colchicine at 0.5mg daily — LODOCO is low-dose colchicine at 0.5mg daily, ii is an FDA approved anti-inflammatory drug, to prevent cardiovascular events in patients with coronary artery disease. LODOCO works by inhibiting microtubule formation and reducing the activity of neutrophils, which play a key role in inflammation.
-: Placebo — Matching placebo
-Link: https://clinicaltrials.gov/study/NCT06874192
-
-SUMMARY:
-
-
 ## NCT07376577
 A Randomized Controlled Trial on the Efficacy and Safety of Anricofen Combined With Ciprofol for Deep Sedation in Elderly Patients Undergoing Endoscopic Retrograde Cholangiopancreatography
 
@@ -11030,15 +11020,6 @@ Link: https://clinicaltrials.gov/study/NCT05225402
 SUMMARY:
 
 
-## NCT06028529
-Feasibility and Safety of a Portable Exoskeleton to Improve Mobility in Parkinson's Disease
-
-Intervention: : Exoskeleton — lightweight ground exoskeleton
-Link: https://clinicaltrials.gov/study/NCT06028529
-
-SUMMARY:
-
-
 ## NCT07665762
 Liposomal Bupivacaine Plus Plain Bupivacaine Versus Dexamethasone Plus Plain Bupivacaine in the Supraclavicular Brachial Plexus Block in Patients With Risk Factors for Severe Acute Postoperative Pain: a Randomized Controlled Trial
 
@@ -11362,16 +11343,6 @@ Trajectories of Recovery After Intravenous Propofol Versus Inhaled VolatilE Anes
 Intervention: : Anesthetic technique Propofol TIVA — Propofol TIVA no inhaled agent
 : Anesthetic technique inhaled agent — Must administer inhaled agent.
 Link: https://clinicaltrials.gov/study/NCT05991453
-
-SUMMARY:
-
-
-## NCT05927142
-Combining Anti-PD-L1 Immune Checkpoint Inhibitor Durvalumab With TLR-3 Agonist Rintatolimod in Patients With Metastatic Pancreatic Ductal Adenocarcinoma for Therapy Efficacy
-
-Intervention: : Durvalumab — Human anti-PD-L1 antibody
-: Rintatolimod — TLR-3 agonist, synthetic double-stranded ribonucleic acid (poly I:C12U)
-Link: https://clinicaltrials.gov/study/NCT05927142
 
 SUMMARY:
 

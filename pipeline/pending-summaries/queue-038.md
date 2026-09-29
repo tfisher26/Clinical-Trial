@@ -10647,15 +10647,6 @@ Link: https://clinicaltrials.gov/study/NCT06089083
 SUMMARY:
 
 
-## NCT07701083
-A Phase 1, Open-label Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of Single Doses of Two Eloralintide Solutions in Healthy Participants
-
-Intervention: : Eloralintide — Administered SC.
-Link: https://clinicaltrials.gov/study/NCT07701083
-
-SUMMARY:
-
-
 ## NCT06099912
 Individualized Dynamic Frailty-tailored Therapy (DynaFiT) in Elderly Patients With Newly Diagnosed Multiple Myeloma: a Prospective and Multi-center Study
 
@@ -11302,15 +11293,6 @@ The Long COVID-19 Wearable Device Study
 
 Intervention: : Wearable device — The treatment group will receive their wearable device and the enhanced education at the start of the study. Their outcomes will be compared with the control group who will receive at 3 months.
 Link: https://clinicaltrials.gov/study/NCT05741112
-
-SUMMARY:
-
-
-## NCT07295171
-HELP Study - Towards High Throughput and Efficient Long-axial PET With Oral [18F]FDG
-
-Intervention: : Oral FDG scan — Evaluating the feasibility, scan quality and ease of administration when FDG is consumed orally rather than administered by IV.
-Link: https://clinicaltrials.gov/study/NCT07295171
 
 SUMMARY:
 
@@ -15311,17 +15293,6 @@ A Participant- and Investigator--Blinded, Placebo- Controlled, Randomized, Multi
 Intervention: : OJR520 — Participants will receive OJR520 in different dose levels.
 : Placebo — Participants will receive OJR520 matching placebo.
 Link: https://clinicaltrials.gov/study/NCT07235059
-
-SUMMARY:
-
-
-## NCT06505018
-A Randomized Phase III Study Comparing the Digital Telemonitoring Platform "CUREETY TECHCARE" to Usual Standard of Care in Patients With Triple Negative Metastatic Breast Cancer Initiating a First-line Systemic Treatment
-
-Intervention: : Cureety techcare — Each week, patients complete a questionnaire via the Cureety platform, specifically designed for the drug class or specific treatment being administered. Based on their responses, the Cureety TechCare algorithm classifies patients into one of four risk categories: "correct" (green), "compromised" (yellow), "state to be monitored" (orange), or "critical state" (red). (Note: the color code is not visible to the patient).
-
-The medical team uses the dashboard for daily patient monitoring and manages alerts related to the "clinical classification" of the patient's condition. The physician in charge of telemonitoring interprets the data, adjusts the treatment as needed, and provides supportive care during standard care consultations. Patients are also notified of alerts with tailored messages guiding them on the actions to take according to the category determined by the device.
-Link: https://clinicaltrials.gov/study/NCT06505018
 
 SUMMARY:
 

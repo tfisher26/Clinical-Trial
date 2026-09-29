@@ -1374,15 +1374,6 @@ Link: https://clinicaltrials.gov/study/NCT06974695
 SUMMARY:
 
 
-## NCT07374692
-Observational Study of Responses to Treatments in Advanced Central Nervous System (CNS) Tumors
-
-Intervention: : Tumor sample collection — Fresh tumor samples will be collected for the study only if available following a planned biopsy or resection performed at NIH.
-Link: https://clinicaltrials.gov/study/NCT07374692
-
-SUMMARY:
-
-
 ## NCT07630311
 "Functional Assessment of Balance and Gait and Correlation With Kinetic and Kinematic Parameters in Patients With Multiple Sclerosis: Cross-Sectional Study"
 
