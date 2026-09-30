@@ -11307,14 +11307,6 @@ Link: https://clinicaltrials.gov/study/NCT05149638
 
 SUMMARY:
 
-## NCT05149768
-An Open Label Extension Study of Brentuximab Vedotin Treatment in Active Diffuse Cutaneous Systemic Sclerosis (Diffuse Scleroderma)
-
-Intervention: : Brentuximab vedotin — Dose 0.6mg/kg will be given every 3 weeks for 16 cycles (48 weeks), in addition to standard of care medications for SSc that may include cyclophosphamide, methotrexate, azathioprine, mycophenolate mofetil (MMF, cellcept) and mycophenolic acid (myfortic)
-Link: https://clinicaltrials.gov/study/NCT05149768
-
-SUMMARY:
-
 ## NCT05149859
 Reconsidering Severity Classification for Binge Eating Disorder (BED): the Role of Impulsivity, Compulsivity and Co-occurring Disorders
 

@@ -12439,15 +12439,6 @@ Link: https://clinicaltrials.gov/study/NCT02154035
 
 SUMMARY:
 
-## NCT02157025
-A More Engaging Visual Field Test to Increase Use and Reliability in Pediatrics
-
-Intervention: : Cartoon video fixation target and cartoon character voice audio instructions during Humphrey perimetry
-: Usual Care procedures during Humphrey perimetry for children
-Link: https://clinicaltrials.gov/study/NCT02157025
-
-SUMMARY:
-
 ## NCT02161783
 Treatment of Graft Failure After Hematopoietic Stem Cell Transplantation
 

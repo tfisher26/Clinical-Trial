@@ -718,20 +718,6 @@ Link: https://clinicaltrials.gov/study/NCT07601022
 SUMMARY:
 
 
-## NCT07176208
-Dose Ranging Clinical Study to Evaluate the Effects of Oral Delta-9-tetrahydrocannabinol (Δ9-THC) With and Without Alcohol on Perception and Driving Performance in Healthy Adults
-
-Intervention: : 5 mg Dronabinol (Marinol®) + Placebo Beverage — Subjects in this arm will receive one dose of 5 mg THC (Dronabinol) with a placebo beverage in one of the assigned treatment days.
-: 10 mg Dronabinol (Marinol®) + Placebo Beverage — Subjects in this arm will receive one dose of 10 mg THC (Dronabinol) with a placebo beverage in one of the assigned treatment days.
-: 5 mg Dronabinol (Marinol®) + Alcohol Beverage — Subjects in this arm will receive one dose of 5 mg THC (Dronabinol) with an alcoholic beverage (to achieve a target BAC of 0.08%) in one of the assigned treatment days.
-: 10 mg Dronabinol (Marinol®) + Alcohol Beverage — Subjects in this arm will receive one dose of 10 mg THC (Dronabinol) with an alcoholic beverage (to achieve a target BAC of 0.08%) in one of the assigned treatment days.
-: Placebo Capsule + Alcohol Beverage — Subjects in this arm will receive placebo capsule with an alcoholic beverage (to achieve a target BAC of 0.08%) in one of the assigned treatment days.
-: Placebo Capsule + Placebo Beverage — Subjects in this arm will receive a placebo capsule with a placebo beverage in one of the assigned treatment days.
-Link: https://clinicaltrials.gov/study/NCT07176208
-
-SUMMARY:
-
-
 ## NCT07823712
 Association of the Geriatric Nutritional Risk Index and Prognostic Nutritional Index With Short-Term Clinical Outcomes in Older Adults With Multiple Rib Fractures Presenting to the Emergency Department After Isolated Blunt Thoracic Trauma: A Prospective Observational Cohort Study
 
@@ -2078,15 +2064,6 @@ Data Collection Support for a Non-invasive Malaria Diagnostic Tool Using Volatil
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07456969
-
-SUMMARY:
-
-
-## NCT07576491
-Correlation Of Different Toilet Sitting On Ankle Range Of Motion, Constipation And Lower Limb Strength In School Going Children
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07576491
 
 SUMMARY:
 

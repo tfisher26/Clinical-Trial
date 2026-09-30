@@ -56,15 +56,6 @@ Link: https://clinicaltrials.gov/study/NCT05908591
 SUMMARY:
 
 
-## NCT07796464
-Do Stretching Variations Affect Performance? A Comparison of Full-Body and Lower-Limb Stretching on Explosive Power and Agility Reaction Time
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07796464
-
-SUMMARY:
-
-
 ## NCT06286761
 Routine Validation and Reproducibility Testing of Laboratory Assays and Research Techniques Used for Metabolism Research
 

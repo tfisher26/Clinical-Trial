@@ -1119,16 +1119,6 @@ Link: https://clinicaltrials.gov/study/NCT06482788
 
 SUMMARY:
 
-## NCT06482892
-A Single Arm Clinical Study Evaluating the Safety, Tolerability, and Efficacy of Multiple Intravenous Administration of TP03HN106 in Patients With Critical Limb Ischemia
-
-Intervention: : TP03HN106 — During the dose escalation phase, subjects will undergo a dose escalation trial of intravenous injection of TP03HN106 for 5 consecutive days to evaluate the safety and tolerance of the subjects to the injection dose of TP03HN106. The preset initial dose for this experiment is 10U/kg, with gradient doses of 20, 30, 40, and 50U/kg. Observe the subjects receiving the investigational drug for any adverse events (AEs) after daily intravenous injection.
-
-During the maintenance treatment phase, the subjects will undergo two consecutive treatment courses at the final dose during the dose escalation phase. During each treatment course, subjects will complete the collection of efficacy and safety data for 14 consecutive days of medication (administered every 2 days) and 14 days of discontinuation to evaluate the efficacy and safety of TP03HN106 for subjects with critical limb ischemia.
-Link: https://clinicaltrials.gov/study/NCT06482892
-
-SUMMARY:
-
 ## NCT06482905
 A Phase I, Open-Label, Single/Multiple Dose, Dose-escalation Study to Evaluate the Safety, Tolerability and Antitumor Activity of TX103 CAR-T Cell Injection (TX103) in Subjects With Recurrent or Progressive Grade 4 Glioma.
 
@@ -13627,15 +13617,6 @@ COVARIAN - Contribution of Contrast Enhanced Ultrasound for Diagnosis of Adnexal
 Intervention: : Addition of ultrasound with contrast injection (SonoVue®) — Addition of contrast evaluation with SonoVue® injection (5 min including 1 min of acquisition) within the diagnostic strategy
 : Standard Care (in control arm) — No addition of ultrasound with contrast
 Link: https://clinicaltrials.gov/study/NCT06677554
-
-SUMMARY:
-
-## NCT06677606
-The Analgesic Efficacy of Pericapsular Nerve Group Block (PENG) in Comparison With Periarticular Local Anesthetic Infiltration (PAI) Undergoing Hip Hemiarthroplasty : a Randomized Controlled Study
-
-Intervention: : PENG block — The ultra sound transducer will be placed in a transverse orientation, medial and caudal to the anterosuperior iliac spine in order to identify the anteroinferior iliac spine, the iliopubic eminence and the psoas tendon. Using an in-plane technique and a lateral-to-medial direction, the block needle will be advanced until its tip will be positioned on the periosteum dorsal to the psoas tendon. The LA (20mL of bupivacaine 0.5%) will be injected following negative aspiration.. The accurate position of the needle was confirmed by hydro dissection and spread under the illo-psoas muscle
-: PAI block — LA infiltration will be carried out using a total dose of 150mg of bupivacaine and a total volume of 60mL. The admixture (consisting of 60mL of bupivacaine 0.25% and 30mg of ketorolac) will be loaded into two 30mL syringes at the beginning of surgery. After insertion of the acetabular component (and before insertion of the femoral stem), the surgeon will infiltrate the deep tissues (ie, anterior and posterior capsules, gluteus minimus and medius muscles, supraacetabular region, area around the anterior inferior iliac spine, and quadratus femoris muscle all the while avoiding the deep hip external rotator muscle group in order to prevent sciatic nerve block) with the first 30mL syringe. Before wound closure, the gluteus maximus muscle, iliotibial band, subcutaneous tissues, and skin will be infiltrated with the second 30mL syringe.
-Link: https://clinicaltrials.gov/study/NCT06677606
 
 SUMMARY:
 

@@ -506,15 +506,6 @@ Link: https://clinicaltrials.gov/study/NCT06793163
 SUMMARY:
 
 
-## NCT07708493
-A Phase I, Open-label, Single-dose, Single-arm Trial to Investigate Metabolism and Pharmacokinetics of BI 3034701 (C-14) Administered to (Otherwise) Healthy Male Volunteers With Normal Body Weight or Overweight
-
-Intervention: : BI 3034701 (C-14) — BI 3034701 mixed with \[C-14\]BI 3034701
-Link: https://clinicaltrials.gov/study/NCT07708493
-
-SUMMARY:
-
-
 ## NCT07126444
 Effects of an Exercise Snack Intervention on Employee Health and Work Performance: A Study at Kaohsiung Medical University
 
@@ -1680,15 +1671,6 @@ The Evolution of Invasive Home Mechanical Ventilation in Denmark
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07467187
-
-SUMMARY:
-
-
-## NCT07735949
-Effects of Long-Term Daily Supportive and Flat Footwear Use on Foot Posture, Plantar Pressure Distribution and Balance in Healthy Adults: A Cross-Sectional Comparative Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07735949
 
 SUMMARY:
 

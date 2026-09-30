@@ -786,16 +786,6 @@ Link: https://clinicaltrials.gov/study/NCT07828015
 SUMMARY:
 
 
-## NCT06799377
-Complications Related to Activity After Both Bone Fractures: Why do we Restrict Activity?
-
-Intervention: : Restricted Activity Reccomendations — Patients in this respective group will be given restricted activity recommendations over the casting period. They will be told "Your child has a forearm/wrist fracture. It is unknown if remaining active while in a cast affects the risk of complications after this type of fracture. Your child has been randomized to the "restricted activity" group. We ask that you limit sprinting, jumping, and organized sports during the time of cast immobilization. As a rule of thumb, we recommend "feet on the floor" activities while playing and avoiding playgrounds and gym class if possible. While it is not realistic to restrict a young child entirely, do your best to avoid strenuous or intense exercise until cleared by your physician or nurse practitioner"
-: Full Activity/Limited Activity Reccomendations — Patients in this respective group will be allowed to engage in most activities. They will be read "Your child has a forearm/wrist fracture. It is unknown if remaining active while in a cast affects the risk of complications after this type of fracture. Your child has been randomized to the "activity as tolerated" group. Your child may participate in all desired activities except contact sports. Your child does not need to increase his/her activity level but should participate in activities as they feel comfortable doing so. Sprinting, jumping, and organized sports are acceptable as long as your child is not experiencing pain. Your child may use playgrounds and participate in gym class as desired. Do your best to avoid restricting your child from activities unless they are experiencing pain or you have concerns about their safety."
-Link: https://clinicaltrials.gov/study/NCT06799377
-
-SUMMARY:
-
-
 ## NCT07456865
 Post Approval Effectiveness and Durability Evaluation of the Altaviva™ Tibial Device
 
@@ -4211,16 +4201,6 @@ Promoting Teenage Sleep - for Better Mental Health and School Performance
 Intervention: : Sleep on Schedule — Sleep education at school
 : Technology restriction — Reduction of electronic media use before bedtime
 Link: https://clinicaltrials.gov/study/NCT06306092
-
-SUMMARY:
-
-
-## NCT04793685
-Prazosin Treatment for Alcohol Use Disorder With Alcohol Withdrawal Symptoms
-
-Intervention: : Prazosin — Prazosin (16mg/day) versus Placebo comparator, with a 2 week titration period, 9 weeks at full dose and a 5-day taper in week 12.
-: 12-Step Facilitation with Relapse Prevention and Contingency Management — 12-Step Facilitation and relapse prevention weekly support and Contingency Management for each weekly appointment to support treatment attendance for all subjects.
-Link: https://clinicaltrials.gov/study/NCT04793685
 
 SUMMARY:
 
@@ -10807,16 +10787,6 @@ TLR9 agonist supplied by Dynavax Technologies Inc.
 TLR9 agonist supplied by Dynavax Technologies Inc.
 : Placebo — Sterile saline injection supplied by the NYU Investigational Pharmacy.
 Link: https://clinicaltrials.gov/study/NCT05606341
-
-SUMMARY:
-
-
-## NCT05543681
-A Phase 2, Multicenter, Double-Blind, Randomized, Placebo-Controlled, Trial of the Safety and Efficacy of IGC-AD1 on Agitation in Participants With Dementia Due to Alzheimer's Disease
-
-Intervention: : IGC-AD1-Active — A non-sterile solution for oral administration.
-: IGC-AD1-Placebo — A non-sterile solution for oral administration similar in color and texture to the Active.
-Link: https://clinicaltrials.gov/study/NCT05543681
 
 SUMMARY:
 

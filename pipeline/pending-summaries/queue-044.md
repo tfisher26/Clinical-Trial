@@ -7216,14 +7216,6 @@ Link: https://clinicaltrials.gov/study/NCT05745714
 
 SUMMARY:
 
-## NCT05746078
-Long-term Assessment of the Performance and Safety of SPRING THREAD® Elastic Tensor Thread.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05746078
-
-SUMMARY:
-
 ## NCT05746143
 The Effect of Zolpidem on Outcomes Following Lumbar Spine Fusion: A Randomized Control Trial
 
@@ -8426,15 +8418,6 @@ Real-Time Cholangioscopy Artificial Intelligence Evaluation of Biliary Stricture
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05779436
-
-SUMMARY:
-
-## NCT05779605
-Remotely Monitored Rehabilitation in Hemato-oncological Survivors After Treatment: The Tele@Home Study
-
-Intervention: : Home-based training — Patients will be instructed to perform three weekly training sessions at home (30 to 50 min/session, at an intensity of 70-85% of their maximum heart rate). Patients in the home training group complete the first three training sessions in the clinic under direct supervision. During these sessions, patients are introduced to the duration and intensity of training. The trainer will provide remote guidance (feedback on training frequency, duration, and intensity) via telephone call once a week. During exercise, patients will use a wearable heart rate monitor (Polar M430, a commercially available device designed for long-term use). Patients will be instructed to properly use the wearable sensor and upload training data to a web-based platform (Polar Flow) via the Internet. Furthermore, patients will be asked to choose their preferred training modality at home (cycling, walking, Nordic walking) and receive instructions and advice.
-: Center-based training — Patients receive three training sessions a week with 30 to 50 min duration at 70 - 90% of their maximal heart rate at the outpatient clinic under direct supervision. Exercise modalities will be walking on a treadmill, riding a bicycle ergometer, and resistance training. Physiotherapists will track the attendance rate and training adherence during the training program.
-Link: https://clinicaltrials.gov/study/NCT05779605
 
 SUMMARY:
 

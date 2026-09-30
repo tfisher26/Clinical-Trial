@@ -4184,16 +4184,6 @@ Link: https://clinicaltrials.gov/study/NCT07050043
 SUMMARY:
 
 
-## NCT05899361
-A Pilot Study of a Novel Imaging Protocol in Use to Identify Lymph Nodes and Organs of Interest for Surgical Dissection Within Urologic Regions of Interest.
-
-Intervention: : Electromagnetic Guided Laparoscopy — Standard Care
-: Ultrasound — Standard Care
-Link: https://clinicaltrials.gov/study/NCT05899361
-
-SUMMARY:
-
-
 ## NCT07729943
 Comparative Effects of Ginseng, Cordyceps, and Placebo on Aerobic Capacity, Lactate Kinetics, and Nitric Oxide Status: A 30-Day Randomized Trial
 

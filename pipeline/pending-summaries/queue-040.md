@@ -1824,16 +1824,6 @@ Link: https://clinicaltrials.gov/study/NCT07576335
 SUMMARY:
 
 
-## NCT07576504
-Effects of Sensorimotor Technique With and Without Short Foot Exercises on Navicular Drop and Foot Posture in School Going Children.
-
-Intervention: : sensorimotor technique — It's a method used in therapy ,rehab, and skill training where you deliberately activate sensory systems -touch , proprioception , balance , vision - to trigger better motor responses .
-: short foot exercise — It's a foot -strengthening move where you shorten your foot by lifting the arch without curling your toes or lifting your heel /ball of the foot.You're basically engaging the small intrinsic muscles in your foot to create a dome under your arch.
-Link: https://clinicaltrials.gov/study/NCT07576504
-
-SUMMARY:
-
-
 ## NCT07576608
 A Randomized, Double-Blind, Placebo-Controlled Phase II Study to Evaluate the Safety, Tolerability, Pharmacokinetics Properties, and Preliminary Efficacy of 9MW3811 in Patients With Pathological Scar
 
@@ -8646,33 +8636,6 @@ Post-Cardiac Surgery Acute Kidney Injury Prevention by Administration of Proton 
 Intervention: : Protonix (Pantoprazole) 40 mg q 12 hrs for 3 days — Administer 1st dose after anesthesia induction before surgical incision, 2nd dose at chest closure. Then, every 12 hrs for 2 more days.
 : Pepcid (Famotidine) 20 mg q 12 hrs for 3 days — Administer 1st dose after anesthesia induction before surgical incision, 2nd dose at chest closure. Then, every 12 hrs for 2 more days.
 Link: https://clinicaltrials.gov/study/NCT06706258
-
-SUMMARY:
-
-
-## NCT05525858
-KOrean Precision Medicine Networking Group Study of MOlecular Profiling Guided Therapy Based on Genomic Alterations in Advanced Solid Tumors II
-
-Intervention: : Alectinib — ALK fusion or mutations, Mutations or amplification in any of the following: RET
-: Atezolizumab — MSI high status by any method Or Any mutation in any of these genes:
-
-MLH1 or MSH2 or MSH6 or PMS2 or EPCAM Or Any of the following mutations in POLE: R150X, P286R, P286H, S297F, Y298fs, F367S, V411, L424V, P436R, S459F, R665W, L698fs, R762W, R1519C, R1826W, D316H, D316G, R409W, L474P Or Any of the following mutations in POLD1: P112fs, A930fs, S478N Or Any mutation in the following: POLE not listed above, POLD1 not listed above, POLD2, POLD3, POLD4, POLQ or PRKDC Or Any loss of function mutations in BRCA1, BRCA2, ATM, MSH3, PMS1, MLH3, EXO1, RFC1, RFC2, RFC3, RFC4, RFC5, PCNA, RPA1, PRA2, PRA3, PRA4, or SSBP1 High tumor mutational burden decided by KOSMOS-II MTB (TMB ≥20/Mb in local NGS or if 10-20/Mb, confirmed by central NGS te sting)
-: Erlotinib — EGFR Exon 19 deletions in the region E746\_E759;
-
-Any of the following EGFR mutations:
-
-E709A, E709G, E709K, E884K, G719A, G719C, G719S, L858R, L861Q, L833V, S768I
-: Trastuzumab + Pertuzumab — ERBB2 amplification, or over-expression; or presence of any of the following ERBB2 mutations:
-
-G309A, G309E, S310F, S310Y, R678Q, I655V, D769H, D769Y, L755S, p.L75 5\_T759del, I767M, V777L, E321G, R896C; P780ins; delL755-T759 ERBB2 amplification or approved by the KOSMOS Molecular Tumor Board
-: Trastuzumab emtansine — ERBB2 amplification, or over-expression; or presence of any of the following ERBB2 mutations:
-
-G309A, G309E, S310F, S310Y, R678Q, I655V, D769H, D769Y,L755S, p.L75 5\_T759del, I767M, V777L, E321G, R896C; P780ins; delL755-T759 ERBB2 oncogenic mutations; G152V, X215\_splice, D277Y, G292C, N302K, V308M, G309A, S310F, S310Y, S244C, L651V, V659E, G660D, R678Q, V697L, G727A, T733I, L755A, L755P, L755S, D769H, D769Y, A775\_G776insSVMA, A775\_G776insYVMA (i.e.,Y772\_A775dup,M774\_A775insAYVME 770delinsEAYVM), G776\_V777 \> AVCV, G776\_V777 \> AVGCV, G776\_V777 \> VCV, G776\_V777insVC, G776C, G776delinsLCT, G776L, G776dleinsVC, G776L777\_G778insC, V777L, V777M, G778\_Y779insGSP, P780\_Y781insGSP (i.e.,G778\_P780dup), L786V, N813D, R840W, V842I, T862A, R896G, E1021Q or approved by the KOSMOS Molecular Tumor Board
-: Vemurafenib — BRAF\_V600E/D/K/R mutations
-: Bevacizumab + Erlotinib — FH inactivating mutations or approved by the KOSMOS Molecular Tumor Board
-: Entrectinib — ROS1 gene fusion using either a fluo rescence in situ hybridization (FISH) or next-generation sequencing (NGS) or approved by the KOSMOS Molecular Tumor Board
-: Pralsetinib — RET fusion or mutations; CCDC6 RET, RET V804L, RET V804M, RET M918T, KIF5B-RET, RET C634W or approved by the KOSMOS Molecular Tumor Board
-Link: https://clinicaltrials.gov/study/NCT05525858
 
 SUMMARY:
 

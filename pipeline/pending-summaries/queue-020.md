@@ -1863,15 +1863,6 @@ Link: https://clinicaltrials.gov/study/NCT07042009
 SUMMARY:
 
 
-## NCT06350851
-Development of a New Rapid Diagnostic Test to Support Onchocerciasis Elimination
-
-Intervention: : Biological samples collection (blood drawing + feces) — Blood and feces samples will be collected from each volunteer.
-Link: https://clinicaltrials.gov/study/NCT06350851
-
-SUMMARY:
-
-
 ## NCT05568966
 Collection of Venous and Capillary Blood Samples for the Research, Optimisation and Calibration of New Diagnostic Devices 2
 
@@ -2353,15 +2344,6 @@ Link: https://clinicaltrials.gov/study/NCT06325384
 SUMMARY:
 
 
-## NCT07322016
-A Single-dose, Open-label Phase I Clinical Trial Comparing the Pharmacokinetics, Safety and Pharmacodynamics of HRS-1301 Tablets in Subjects With Mild, Moderate and Severe Renal Insufficiency and Healthy Subjects
-
-Intervention: : HRS-1301 Tablet — HRS-1301 tablet, oral medication.
-Link: https://clinicaltrials.gov/study/NCT07322016
-
-SUMMARY:
-
-
 ## NCT07593937
 Impact of Taxation and Subsidies on the Nutrition Quality of Purchases in an Online Experimental Supermarket, Overall and by Income Level: a Randomized Control Trial
 
@@ -2461,18 +2443,6 @@ Validation of Smartwatch Technology for Preoperative Monitoring of Sleep Quality
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07322523
-
-SUMMARY:
-
-
-## NCT07440771
-Effects of Traditional Game on Agility and Reaction Time in School Going Children
-
-Intervention: : KH0-KHO game — A Kho Kho team has 12 players and is played on a rectangular court with two poles at each end and a central lane running through it.
-
--free play activity The court is 27 by 16 m (89 × 52 ft), the distance between the two poles is 24 m (79 ft), and the width of the center lane is 30 cm (12 in). A match consists of two innings with each consisting of 9 min each .
-: free play activity — The CG participated in their typical, PA in the classroom or playground according to their regular schedule of the school's physical education
-Link: https://clinicaltrials.gov/study/NCT07440771
 
 SUMMARY:
 

@@ -8660,16 +8660,6 @@ Link: https://clinicaltrials.gov/study/NCT06595628
 SUMMARY:
 
 
-## NCT07579000
-Comparative Effects of Structured Sport, Play and Active Recreation for Kid Exercise Program and Game-based Training on Motor Proficiency and Social Interaction in Children With Autism Spectrum Disorder
-
-Intervention: : Structured Sports, Play, and Active Recreation for Kids Exercise program (SPARK) — The SPARK intervention consists of 36 sessions, delivered 3 times per week for 40 minutes per session. Each session is divided into three parts: a 10-minute warm-up, a 20-minute main treatment, and a 10-minute cool-down. During the warm-up, a scramble interactive activity is performed in four positions: (1) prone lying on a soft surface, (2) quadruped (knees and hands on the floor), (3) quick standing with bent knees, and (4) jumping. The main treatment follows standard SPARK protocols, including heavy fitness activities (e.g., aerobic dance, running games, jump ropes) to develop endurance, abdomen, and upper body strength, followed by skill fitness activities (e.g., basketball, football, kickball) to improve fitness. The session ends with a 10-minute cool-down including deep breathing exercises.
-: Game-based Training — The game-based training intervention consists of 32 sessions over 16 weeks, with 2 sessions per week, each lasting 33 minutes. Each session is divided into three 11-minute segments: warm-up, agility exercises, and agility with a skill. The warm-up includes moderate-to-vigorous activities such as walking on toes and heels, jogging, and running fast between two cones placed 10 yards apart. The agility segment involves running over sequentially added hurdles (up to four), cones, rings, and a ladder. The final segment combines agility with fine and gross motor skills, including picking up bean bags, throwing a football, stacking cups, walking over hurdles, catching a football, zig-zag running through rings, and throwing a ball at a target. Participants complete three circuits per session while working in small groups to encourage social interaction
-Link: https://clinicaltrials.gov/study/NCT07579000
-
-SUMMARY:
-
-
 ## NCT07649109
 National Tawan University Hospital
 
@@ -14042,17 +14032,6 @@ Multicenter Randomized Controlled Trial of ThuLEP Versus ThuLEP Combined With Bl
 Intervention: : Transurethral Thulium Laser Enucleation of the Prostate (ThuLEP) — This technique is one of the mainstream surgical interventions for BPH, with its safety and efficacy well established in numerous studies, and is considered a mature and well-standardized procedure.
 : ThuLEP combined with transurethral bladder neck incision — Bladder neck incision is also a well-established surgical approach for BPH, similar to transurethral incision of the prostate (TUIP). In the experimental group of this study, after transurethral thulium laser enucleation of the prostate, a single incision was made at the 6 o'clock position of the bladder neck. The depth of the incision was consistent with that of TUIP. The incision was not extended, and no additional incisions were created, resulting in minimal injury to the bladder neck. Theoretically, this approach does not increase the risk of complications such as bleeding, urinary incontinence, urethral stricture, or bladder neck contracture, and it is supported by both sound anatomical rationale and clinical safety considerations.
 Link: https://clinicaltrials.gov/study/NCT07688447
-
-SUMMARY:
-
-
-## NCT04560322
-A Phase 2 Study of MRD Adapted Therapy With Venetoclax-obinutuzumab in Patients With High or Intermediate BALL Risk Relapsed or Refractory CLL, With Addition of Acalabrutinib in Patients Who Fail to Achieve MRD Eradication
-
-Intervention: : Venetoclax — Tablet, taken by mouth
-: Obinutuzumab — Intravenous infusion
-: Acalabrutinib — Capsule, taken by mouth
-Link: https://clinicaltrials.gov/study/NCT04560322
 
 SUMMARY:
 

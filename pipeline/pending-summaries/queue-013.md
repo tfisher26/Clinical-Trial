@@ -248,15 +248,6 @@ Link: https://clinicaltrials.gov/study/NCT06704503
 SUMMARY:
 
 
-## NCT07739836
-Effects of Physical Use Characteristics During Academic Education on Musculoskeletal Function and Body Awareness in University Students From Different Academic Departments
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07739836
-
-SUMMARY:
-
-
 ## NCT06680284
 Greening the Operating Room: Auditing Anesthesia Generated Wastes and Exploring Strategies to Reduce, Reuse and Recycle
 

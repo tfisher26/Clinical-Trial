@@ -1247,15 +1247,6 @@ Link: https://clinicaltrials.gov/study/NCT06369818
 SUMMARY:
 
 
-## NCT07024602
-A Phase I, Randomized, Double-blind, Placebo Controlled, Single and Multiple Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Food Effect of ASC50 Tablets in Healthy Adult Participants and Adult Participants With Mild to Moderate Plaque Psoriasis
-
-Intervention: : ASC50 tablets or matching placebo — Drug: ASC50 administered orally Drug: Placebo administered orally
-Link: https://clinicaltrials.gov/study/NCT07024602
-
-SUMMARY:
-
-
 ## NCT05722769
 RCT to Evaluate Bystander-informed CSTOP Now! to Prevent Child Sex Trafficking in Kentucky Middle Schools
 

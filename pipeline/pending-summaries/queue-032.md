@@ -2620,15 +2620,6 @@ Link: https://clinicaltrials.gov/study/NCT05726331
 SUMMARY:
 
 
-## NCT07579520
-Effects of Rhythmic Auditory Stimulation on Pain and Range of Motion in Children With Post- Fracture Rehabilitation of Lower Limb
-
-Intervention: : Rhythmic Auditory Stimulation — The intervention involves applying Rhythmic Auditory Stimulation (RAS) through structured rhythmic cues or music during rehabilitation sessions alongside standard physiotherapy for children with lower limb fractures. These rhythmic cues are synchronized with movement exercises to help reduce pain perception and enhance joint range of motion during recovery.
-Link: https://clinicaltrials.gov/study/NCT07579520
-
-SUMMARY:
-
-
 ## NCT05368987
 Neuromodulation of the Fear Extinction Circuit Using Temporally and Anatomically Specific TMS in Humans
 
@@ -3002,15 +2993,6 @@ Impact of AI Care Summaries on Caregiver Comprehension of Hospital Course
 
 Intervention: : AI Care Summary — Written AI-generated plain-language summary of the patient's hospital course, reviewed and approved by the attending physician and provided to the caregiver during the hospitalization.
 Link: https://clinicaltrials.gov/study/NCT07831018
-
-SUMMARY:
-
-
-## NCT07481071
-Adölesan İdiyopatik Skolyozlu Hastalarda Siberkondri Düzeyi ve İlişkili Faktörler: Olgu-Kontrol Çalışması
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07481071
 
 SUMMARY:
 
@@ -12525,15 +12507,6 @@ Study NY-ESO-1 TCR-T in Advanced Soft Tissue Sarcoma
 
 Intervention: : NY-ESO-1 TCR-T — NY-ESO-1 TCR-T treatment
 Link: https://clinicaltrials.gov/study/NCT05620693
-
-SUMMARY:
-
-
-## NCT04843982
-Effects of Esketamine Combined With Propofol for Sedation on Systemic Inflammation and Immune Function in Septic Patients in the ICU: a Single-center, Non-blind, Prospective Randomized Controlled Trial
-
-Intervention: : Esketamine hydrochloride — After inclusion, septic patients will be received a single intravenous injection of esketamine (0.7 mg/kg), and then followed by an intravenous administration of esketamine (0.07 mg/kg/h) with an infusion pump for three consecutive days.
-Link: https://clinicaltrials.gov/study/NCT04843982
 
 SUMMARY:
 

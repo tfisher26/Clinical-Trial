@@ -11571,16 +11571,6 @@ Link: https://clinicaltrials.gov/study/NCT05862337
 SUMMARY:
 
 
-## NCT06841731
-A Multi-center, Randomized, Double-blind, Active Controlled, Parallel Groups, Phase II Study to Evaluate the Efficacy and Safety of HRS-8427 in the Treatment of Adults With Hospital-acquired Bacterial Pneumonia (HABP) or Ventilator-associated Bacterial Pneumonia (VABP)
-
-Intervention: : HRS-8427 — HRS-8427 for injection.
-: Meropenem — Meropenem for injection.
-Link: https://clinicaltrials.gov/study/NCT06841731
-
-SUMMARY:
-
-
 ## NCT07249632
 A Phase III Trial of Telitacicept in Patients With Ocular Myasthenia Gravis
 
@@ -12878,19 +12868,6 @@ Intervention: : Biospecimen Collection — Undergo collection of blood, buccal c
 : Placebo Administration — Given PO
 : Questionnaire Administration — Ancillary studies
 Link: https://clinicaltrials.gov/study/NCT05121051
-
-SUMMARY:
-
-
-## NCT07579559
-Effects of Animal Fun Program on Kinesthesia in Children With Down Syndrome
-
-Intervention: : Animal fun program — The Animal Fun program, consists of the following modules:
-
-Module 1: Body Management (Static balance, Dynamic balance, climbing) Module 2: Locomotion (Walking, Jumping, Hopping, Skipping) Module 3: Object Control (Throwing, Catching, Kicking) Module 4: Body Sequencing (Trunk, Limbs) Module 5: Body and Kinesthetic Management: Trunk and Upper Limb (Eye hand coordination, Visual kinesthetic) Module 6: Fine Motor Planning Module 7: Tool Control (Pre-scissor/scissor skills, Paint brush use, Drawing/pre-writing skills).
-
-Module 8: Hand Skills (Individual finger strength, Grip strength, Pincer grip) Module 9: Social/Emotional Development (Laughter, Identifying and labelling feelings, Breathing, Relaxation).
-Link: https://clinicaltrials.gov/study/NCT07579559
 
 SUMMARY:
 
@@ -16045,16 +16022,6 @@ Efficacy Of Gross Myofascial Release With Neural Mobilization Versus Neural Mobi
 Intervention: : Gross Myofascial Release + Neural Mobilization — Participants allocated to the experimental group will receive Gross Myofascial Release (GMFR) followed by median nerve neural mobilization. The GMFR intervention will include a gross stretch of the posterior cervical musculature and an upper-quarter (arm pull) fascial stretch. The stretch will be maintained for 90 seconds or until a palpable release of fascial tension is appreciated. Neural mobilization will be performed using the median nerve slider technique.. Neural mobilization will be performed by simultaneously moving the shoulder into greater abduction while the cervical spine is moved into contralateral side flexion to facilitate median nerve sliding(1 set of 10 repetitions with a 3-second hold per repetition). Each treatment session will also include a 10-minute hot pack before treatment and 10 minutes of TENS after treatment. The total session duration will be approximately 40 minutes, administered 3 sessions per week on alternate days for 4 weeks (12 sessions).
 : Neural Mobilization — Participants allocated to the control group will receive neural mobilization technique. The intervention will be performed with the participant in the supine position, with the shoulder abducted and externally rotated, elbow extended, forearm supinated, and wrist, fingers, and thumb maintained in extension. Neural mobilization will be applied by simultaneously increasing shoulder abduction while moving the cervical spine into contralateral side flexion to facilitate median nerve sliding. Each treatment session will also include a 10-minute hot pack before treatment and 10 minutes of TENS after treatment. The treatment will be administered in 3 sets of 10 repetitions, with each repetition held for 3 seconds and a 60-second rest interval between sets, The total session duration will be approximately 40 minutes, administered 3 sessions per week on alternate days for 4 weeks (12 sessions).
 Link: https://clinicaltrials.gov/study/NCT07808476
-
-SUMMARY:
-
-
-## NCT07578870
-Comparative Effects of Balloon Blowing Therapy and Bubble PEP on Oxygen Saturation, Dyspnea, and Perceived Enjoyment in Children With Pneumonia
-
-Intervention: : Balloon Blowing Therapy — Balloon Blowing Therapy involves deep breathing followed by exhaling into a balloon to create positive pressure, improving lung expansion and airway clearance. It is combined with diaphragmatic and pursed-lip breathing, performed twice daily in 5 days for 1 week
-: Bubble PEP — Bubble PEP involves deep inhalation followed by exhalation through water to create resistance and positive pressure, improving lung expansion and airway clearance. It is combined with diaphragmatic and pursed-lip breathing, performed twice in 5 days for 1 week
-Link: https://clinicaltrials.gov/study/NCT07578870
 
 SUMMARY:
 

@@ -238,15 +238,6 @@ Link: https://clinicaltrials.gov/study/NCT05745285
 SUMMARY:
 
 
-## NCT06317441
-The Safety And Efficacy Of A Probiotic Intervention On Lactulose Hydrogen Breath Test-Positive Patients And Related Gastrointestinal Symptoms
-
-Intervention: : Probiotic — The intervention consists of a probiotic either with a low or high dosage
-Link: https://clinicaltrials.gov/study/NCT06317441
-
-SUMMARY:
-
-
 ## NCT06237829
 Testing Tactile Aids With Blind Subjects
 
@@ -8292,16 +8283,6 @@ Link: https://clinicaltrials.gov/study/NCT06927102
 SUMMARY:
 
 
-## NCT07589621
-Safety Behavior Fading Versus Progressive Muscle Relaxation for Appearance Concerns: A Randomized Clinical Trial of Digital Interventions
-
-Intervention: : Safety Behavior Fading for Appearance Concerns — Participants are asked to reduce or eliminate safety behaviors via text message reminders and checklists to monitor progress.
-: Progressive Muscle Relaxation — Participants are asked to practice relaxation daily via text message reminder and checklists to monitor progress.
-Link: https://clinicaltrials.gov/study/NCT07589621
-
-SUMMARY:
-
-
 ## NCT07061509
 Musculoskeletal and Cardiovascular Effects of Exercise Addiction in Recreational Bodybuilders
 
@@ -11460,17 +11441,6 @@ Clinical Utility and Outcome Prediction of Cardiovascular Computed Tomography (P
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04827316
-
-SUMMARY:
-
-
-## NCT05147597
-Turkish Validity and Reliability of the Saint George Respiratory Questionnaire Idiopathic Pulmonary Fibrosis Version (SGRQ-I)
-
-Intervention: : Questionnaire — Cases diagnosed with Idiopathic pulmonary fibrosis (IPF) in the chest diseases outpatient clinic will be informed about the study, and the informed consent form will be signed by the specialist physician and demographic information will be obtained from the cases who accepted to be included in the study.
-
-The surveys will be contacted by the patient at 1-week intervals and answered by the patient by the responsible researcher and chest diseases physician.
-Link: https://clinicaltrials.gov/study/NCT05147597
 
 SUMMARY:
 

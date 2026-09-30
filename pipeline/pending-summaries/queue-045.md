@@ -2460,18 +2460,6 @@ Link: https://clinicaltrials.gov/study/NCT06132711
 
 SUMMARY:
 
-## NCT06132893
-A Phase 2/3 Multicenter, Randomized, Double-Blind, Placebo-Controlled, Study to Evaluate the Efficacy, Safety and Tolerability of BHV-7000 in Subjects With Refractory Focal Onset Epilepsy
-
-Intervention: : BHV-7000 — BHV-7000 25 mg. Participants will take blinded investigational product (IP) once daily
-: BHV-7000 — BHV-7000 50 mg. Participants will take blinded investigational product (IP) once daily
-: Placebo — Matching placebo taken once daily
-: BHV-7000 — BHV-7000 75 mg. Participants willtake blinded investigational product(IP) once daily
-: Placebo — Matching placebo taken once daily
-Link: https://clinicaltrials.gov/study/NCT06132893
-
-SUMMARY:
-
 ## NCT06133179
 Pilot Study of the Characterization of Subacute Ischemic Cerebrovascular Accidents in the Region of the Middle Cerebral Artery by 3D Ultrasound Localization Microscopy (ULM) with a Research Ultrasound System and Non-marketed 2D Matrix Probe.
 
@@ -4507,14 +4495,6 @@ Link: https://clinicaltrials.gov/study/NCT06179329
 
 SUMMARY:
 
-## NCT06179654
-Preoperative Pelvic Floor Physical Therapy to Minimize Stress Urinary Incontinence After Holmium Laser Enucleation of the Prostate
-
-Intervention: : Preoperative pelvic floor physical therapy — Pelvic floor physical therapy to start before prostate surgery rather than after surgery.
-Link: https://clinicaltrials.gov/study/NCT06179654
-
-SUMMARY:
-
 ## NCT06179771
 HA380 Column Use in Critically Ill Patients Receiving Extracorporeal Support for Acute Critical Illness; a Prospective, Randomised, Interventional, Feasibility, Pilot Study (HACEC)
 
@@ -5466,15 +5446,6 @@ Intervention: : cfDNA analysis — In order to compare the performance of the ct
 
 compare the results obtained by the ctDNA test and FISH. This will enable us to identify a potential diagnostic gain. We will compare the percentage of patients for whom a positive test result result was obtained by the lncDNA test (Y chromosome detection) to the percentage of patients for whom a positive result was obtained by FISH.
 Link: https://clinicaltrials.gov/study/NCT06202846
-
-SUMMARY:
-
-## NCT06203119
-Construction and Clinical Translation of ACE Targeted Nuclear Medicine Imaging Probe
-
-Intervention: : 68Ga-DOTA-BPP — 68Ga-DOTA-BPP is an ACE1-targeted PET radiotracer. After intravenous administration of 3-5 mCi of quality-controlled 68Ga-DOTA-BPP, PET/CT imaging will be performed to evaluate the safety, biodistribution, and tumor imaging characteristics of the tracer in patients with confirmed or suspected triple-negative breast cancer.
-: 18F-FDG — Participants will receive an intravenous injection of 18F-FDG at 0.1-0.15 mCi/kg after fasting for at least 6 hours. Whole-body PET/CT imaging will be performed approximately 1 hour after injection.
-Link: https://clinicaltrials.gov/study/NCT06203119
 
 SUMMARY:
 
@@ -8009,14 +7980,6 @@ Angio-based Final Functional Effect of PCI (AFFE PCI): a Prospective Multi-cente
 
 Intervention: : Angiography-based vessel fractional flow reserve (vFFR) calculation — vFFR is calculated from routinely taken angiography images during PCI using a CAAS workstation (Pie Medical Imaging, Maastricht, the Netherlands)
 Link: https://clinicaltrials.gov/study/NCT06255678
-
-SUMMARY:
-
-## NCT06255782
-A Phase 1/2/3 First-in-Human, Open-Label, Dose-Escalation Study to Evaluate the Safety and Efficacy of a Single Intravenous (IV) Administration of ECUR-506 in Males Less Than 9 Months of Age With Genetically Confirmed Neonatal Onset Ornithine Transcarbamylase (OTC) Deficiency
-
-Intervention: : ECUR-506 — ECUR-506 is a gene editing treatment delivering a gene encoding the editing enzyme and an OTC gene.
-Link: https://clinicaltrials.gov/study/NCT06255782
 
 SUMMARY:
 

@@ -3437,16 +3437,6 @@ Link: https://clinicaltrials.gov/study/NCT03256240
 
 SUMMARY:
 
-## NCT03257033
-Targeted Intra-arterial Gemcitabine vs. Continuation of IV Gemcitabine Plus Nab-Paclitaxel Following Induction With Sequential IV Gemcitabine Plus Nab-Paclitaxel and Radiotherapy for Locally Advanced Pancreatic Cancer
-
-Intervention: : Gemcitabine — Chemotherapy
-: nab-paclitaxel — Chemotherapy
-: RenovoCath — Intra-arterial catheter
-Link: https://clinicaltrials.gov/study/NCT03257033
-
-SUMMARY:
-
 ## NCT03257969
 Impact of the DROP (Drug Related Problems in Oncology Practice) Program of Pharmaceutical Interventions of the French Society of Oncological Pharmacology Versus Usual Care on the DRP (Drug Related Problems) Related to Oral Anticancer Drugs in Ambulatory Patients with Risk Factors
 
@@ -15633,15 +15623,6 @@ Swiss Severe Asthma Register
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT03984253
-
-SUMMARY:
-
-## NCT03984565
-PAIN: A Project Assessing the Impact of a Novel Cannabinoid Product
-
-Intervention: : Cannabidiol — High-CBD, low-THC sublingual product formulated in palm oil
-: Placebo — Placebo sublingual product formulated in palm oil with supplemental terpenes to match CBD product.
-Link: https://clinicaltrials.gov/study/NCT03984565
 
 SUMMARY:
 

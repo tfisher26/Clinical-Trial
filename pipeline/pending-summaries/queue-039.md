@@ -1425,15 +1425,6 @@ Link: https://clinicaltrials.gov/study/NCT07368907
 SUMMARY:
 
 
-## NCT07280923
-Reliability and Validity of the Pressure Relief Frequency Scale
-
-Intervention: : Interview — Participants will be interviewed for this study. No intervention will occur.
-Link: https://clinicaltrials.gov/study/NCT07280923
-
-SUMMARY:
-
-
 ## NCT06364592
 Effect of Electroacupuncture for Dysmenorrhea Secondary to Adenomyosis: an Exploratory Pilot Study
 
@@ -8659,32 +8650,6 @@ Link: https://clinicaltrials.gov/study/NCT07532135
 SUMMARY:
 
 
-## NCT07244172
-Effects of Mud-walk on Foot Posture and Balance in Children With Flexible Flatfeet
-
-Intervention: : mud-walk — * The participants will walk on the mud within a rectangular boundary of "2 × 8 dimension" (2 feet by 8 feet) with 5 cm depth.
-* The exercise program will have 3 phases: warm up, walk on mud and cool down.
-* The warm up phase will consist of stretching of the hamstring muscles using the static technique.
-
-The main exercise phase will consist of 20 minutes of walk on mud in four manners with each manner for 5 minutes:
-
-1. forward walk
-2. back ward walk
-3. sideways walk
-4. S-shaped or figure-eight walk After 3 weeks, while walking in each manner the participants will pick up small objects (soft balls) with toes from mud and place them elsewhere.
-
-The cool down phase will consist of 5 minutes and will include
-
-* soaking feet in water
-* washing with soap
-* rinsing with clean water,
-* drying with towel
-* application of emollient
-Link: https://clinicaltrials.gov/study/NCT07244172
-
-SUMMARY:
-
-
 ## NCT06306612
 Systemic Therapy Combined With Cytoreductive Prostatectomy for the Treatment of de Novo Poly-metastatic Hormone Sensitive Prostate Cancer: A Prospective, Open-label Randomized Controlled Trial
 
@@ -11079,28 +11044,6 @@ The Efficiency of SBRT in Preventing Recurrent Spinal Cord Compression in Patien
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04863612
-
-SUMMARY:
-
-
-## NCT04941651
-Efficacy of Telenutrition (OBE-COACH) for the Treatment of Overweight Patients With Obesity and/or High Cardiometabolic Risk
-
-Intervention: : OBE-COACH program — OBE-COACH works through private exchanges between the user and an automatic generator of recommendations, advice and messages of encouragement. Web focus groups are propoposed by specialist to respond to the questions of the participants and a tele-interview at 6 months with a dietetician to encourage and assist the patient to make the best use of the program.
-
-The program is divided into missions to perform. These missions are grouped into 10 families. The completion of each mission and the correct answers to the quiz offer points and bonuses.
-
-To promote better adherence to the program, missions are not repetitive. They are proposed to surprise the user and constantly renew his desire to connect to the program and achieve goals.
-
-The intensity level of the program is selected by the user at any time.
-: Connected devices — Connected devices provide to patient are auto-tensiometer and balance. These devices will not be connected to the OBE-COACH program.
-
-The auto-tensiometer (Tensio-screen, Terraillon) is a connected tensiometer allowing the patient to measure by himself with an armband his systolic and diastolic blood pressure and his heart rate.
-
-The balance (Web coach premium, Terraillon) is a connected scale to collect body weight.
-: Connected Activity Tracer — The Activity Tracer (activi-T band, Terraillon) is a a wristband connected activity tracer worn on the wrist that tracks the patient's physical activity and calculates the number of steps, distance traveled and calories burned. The Activity Tracer will not be connected to the OBE-COACH program.
-: e-learning program — e-learning program with free access via the web to advice sheets, a menu generator and a catalog of physical activity (resources made available by the site www.mangerbouger.fr ; Public Health France, Ministry of Health)
-Link: https://clinicaltrials.gov/study/NCT04941651
 
 SUMMARY:
 

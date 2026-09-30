@@ -14064,15 +14064,6 @@ Link: https://clinicaltrials.gov/study/NCT07499973
 SUMMARY:
 
 
-## NCT04504136
-Regulation of Mucosal Healing in Inflammatory Bowel Disease
-
-Intervention: : Serial Biopsy — During the initial colonoscopy, 16-20 biopsies will be collected in addition to standard of care biopsies, and biopsy sites will be tattoed. Patients will return for a follow-up colonoscopy 4-35 days later. An additional 16-20 biopsies will be collected in a "biopsy of the biopsy" approach.
-Link: https://clinicaltrials.gov/study/NCT04504136
-
-SUMMARY:
-
-
 ## NCT05061329
 The Importance of the Nasal Microbiome in Transmission and Disease
 
@@ -14319,17 +14310,6 @@ Genomic Sequencing in Anatomically Normal Fetuses
 
 Intervention: : Genomic Sequencing — Individuals who request prenatal diagnostic testing with standard chromosomal microarray will be offered genomic sequencing (GS) as an option to assess for additional disease risk.
 Link: https://clinicaltrials.gov/study/NCT06211348
-
-SUMMARY:
-
-
-## NCT07525791
-An Investigation of the Effect of NNC0662-0419 on Pharmacokinetics of an Oral Combination Contraceptive (Ethinylestradiol and Levonorgestrel) and Gastric Emptying in Women of Non-childbearing Potential With Overweight or Obesity
-
-Intervention: : NNC0662-0419 — Once-weekly subcutaneous NNC0662-0419 will be administered using a pen injector
-: Oral contraceptive — An oral contraceptive Altavera \[levonorgestrel (LN) 0.15 milligram (mg) and ethinyl estradiol (EE) 0.03 mg\] will be administered orally.
-: Acetaminophen — A single dose of acetaminophen will be administered orally.
-Link: https://clinicaltrials.gov/study/NCT07525791
 
 SUMMARY:
 

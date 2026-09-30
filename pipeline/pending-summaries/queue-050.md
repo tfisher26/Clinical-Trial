@@ -1317,15 +1317,6 @@ Link: https://clinicaltrials.gov/study/NCT07493213
 
 SUMMARY:
 
-## NCT07493239
-A Randomized, Double-blind Study Evaluating the Effectiveness of Two Different Doses of MyCondroTM on Physical Mobility and Joint Health Using Participant-Reported Outcomes in Individuals With Self-Reported Mobility Issues Associated With Knee Osteoarthritis
-
-Intervention: : MyCondro 300mg — This is a non-animal Chondroitin sulfate formulation.
-: MyCondro 600mg — This is a non-animal Chondroitin sulfate formulation.
-Link: https://clinicaltrials.gov/study/NCT07493239
-
-SUMMARY:
-
 ## NCT07493304
 A 2-Part, Phase 3, Multicenter, Randomized, Open-Label, Active-Controlled Study to Assess Efficacy and Safety of REGN7508, a Monoclonal Antibody Against Factor XI, for the Treatment and Secondary Prevention of Venous Thromboembolism in Participants With Solid and Hematologic Cancers (ROXI-CAT-II)
 
@@ -8318,24 +8309,6 @@ Link: https://clinicaltrials.gov/study/NCT07578324
 
 SUMMARY:
 
-## NCT07578896
-Effects of Maze Balance Board Training on Functional Mobility and Gross Motor Skills in Children With Cognitive Impairment
-
-Intervention: : Maze Balance Board traing — The experimental group (n=11) will receive Maze Balance Board Training in a one-on-one setting, conducted three times per week for 8 weeks. A seven-stage progressive protocol will be followed, where participants advance only after successfully completing each stage, with earlier stages revisited to reinforce learning. Stage 1 involves rotating a marble with hands; Stage 2 focuses on manual maze navigation; Stage 3 develops static balance on a board; Stage 4 includes unassisted rotational balance; Stage 5 introduces foot-mediated marble rotation; Stage 6 requires foot-based maze navigation; and Stage 7 combines dynamic balance with precise marble placement as a dual task. Progression will depend on task performance over consecutive days, aiming to improve functional mobility and gross motor skills in children with cognitive impairment.
-: Conventional Physical Therapy — The control group (n=11) will receive conventional physical therapy as a standard-of-care baseline, conducted to improve postural control and gross motor skills. Sessions will include structured exercises performed regularly throughout the study. Activities include animal walks (bear walk, bunny hops, frog jumps) to enhance core and limb strength; bridging exercises to strengthen glutes and hamstrings; sit-to-stand training to improve lower limb strength and functional movement; tandem walking to challenge balance; standing on varied surfaces (foam/cushions) to improve proprioception; beam/line walking forward and backward for coordination and dynamic balance; and obstacle negotiation involving stepping over or around objects. These exercises will be consistently practiced to enhance mobility and motor performance in children with cognitive impairment.
-Link: https://clinicaltrials.gov/study/NCT07578896
-
-SUMMARY:
-
-## NCT07578922
-Effects of Bean Bag Tossing Game Using Static and Dynamic Surface on Balance and Gait in Children With Down Syndrome
-
-Intervention: : Bean Bag Tossing Game on Wedge — In this group first the Children will be given the baseline therapy of backward walking for 10 minutes, single leg standing, vertical or horizontal jumps for 10 minutes and then given the balance training by playing bean bag tossing game while standing on wedge. Bean bag boards should be placed 1 foot apart from the tossing line. Use a rope (or another object) to mark the tossing line. The child will take 3 bean bags while standing on the wedge and ask the child to toss the bean bags in the bean bag board one by one starting to stand on wedge from 5 minutes to increases the time to maximum 10minutes
-: Bean Bag Tossing Game on Balance Board — In this group first the Children will be given the baseline therapy of backward walking for 10 minutes, single leg standing, vertical or horizontal jumps for 10 minutes (18) and then given the balance training by playing bean bag tossing game while standing on a balance board. Bean bag boards should be placed 1 foot apart from the tossing line. Use a rope (or another object) to mark the tossing line. The child will take 3 bean bags while standing on a balance board and ask the child to toss the bean bags in the bean bag board one by one. Ask the child to maintain the balance while standing on balance board
-Link: https://clinicaltrials.gov/study/NCT07578922
-
-SUMMARY:
-
 ## NCT07578935
 Comparative Effects of Dynamic Stability Drills and Plyometric Training on Terminal Extension Lag After Anterior Cruciate Ligament Reconstruction
 
@@ -8351,33 +8324,6 @@ D) unilateral (30 cm drop jump(13) Weak 3-4:
 1. A lateral jump from left to right limb (A) with landing (B) and immediate jump back to the right limb (C) as opposed to just landing in which occurs during Stage 2(13).
 2. Images of a countermovement or squat jump in place with maximal height. The removal of the box results in higher landing forces due to landing from a higher height(13
 Link: https://clinicaltrials.gov/study/NCT07578935
-
-SUMMARY:
-
-## NCT07578974
-Comparison of Foot-Core Training With and Without Visual Feedback on Gait and Foot Posture in Children With Flexible Pes Planus
-
-Intervention: : Foot Core Training — Children will perform exercises 2×/week for 8 weeks with daily home practice. Begin with 1-2 sets of 5-15 reps (hold 5-10 sec), 1-2 min rest, progressing gradually. Session: 30-45 min.
-
-1. Short-Foot Contraction: Lift medial arch without toe curling (5-15 reps, hold 5-10 sec)
-2. Tip-Toe Heel Raises: Rise, hold 2 sec, lower (15 reps)
-3. Towel Scrunch: Scrunch towel with toes (\~1 min)
-4. Marble Pickup: Pick/place objects with toes (\~1 min)
-5. Arch Lifting: Lift arch in standing (15 reps)
-6. Plantar Roll + Calf Stretch: Ball roll + stretch (15-30 sec ×2-3)
-7. Toe Spread \& Squeeze: Spread and squeeze toes
-: Foot Core Training with Visual Feedback — Visual feedback will be delivered via mirror therapy using a 36×36×48 cm mirror box. The child sits with the mirror at midline; one foot is hidden inside the box while the other is visible. While performing foot-core exercises, the mirror creates the illusion of symmetrical movement. The process is repeated by switching feet to ensure bilateral training.
-
-Exercises will be done 2×/week for 8 weeks (home practice encouraged), 1-2 sets of 5-15 reps (hold 5-10 sec), 1-2 min rest, session 30-45 min.
-
-1. Short-Foot: Lift arch without toe curling (5-15 reps)
-2. Heel Raises: Tip-toe, hold 2 sec (15 reps)
-3. Towel Scrunch: Toe curl (\~1 min)
-4. Marble Pickup: Pick/place objects (\~1 min)
-5. Arch Lift: Standing arch raise (15 reps)
-6. Plantar Roll + Stretch: Ball roll + calf stretch (15-30 sec ×2-3)
-7. Toe Spread/Squeeze: Improves foot stability
-Link: https://clinicaltrials.gov/study/NCT07578974
 
 SUMMARY:
 
@@ -8467,14 +8413,6 @@ Acute Pharmacokinetics of Create Wellness Gummies in Healthy Adults
 Intervention: : Create Wellness Creatine Gummies — Create Wellness creatine gummies provide 4.5 grams of creatine monohydrate in a 3 gummy serving size.
 : Creatine Monohydrate Powder — 4.5 grams of creatine monohydrate powder (Creapure®) dissolved in 240 mL of water.
 Link: https://clinicaltrials.gov/study/NCT07579455
-
-SUMMARY:
-
-## NCT07579585
-Effects of Photobiomodulation on Knee Hemarthosis in Patients With Hemophilia.
-
-Intervention: : photobiomodulation — Photobiomodulation is a non-invasive therapy that uses low-level light (typically from lasers or LEDs) to stimulate cellular activity and promote healing. It works by enhancing mitochondrial function, increasing energy (ATP) production, and reducing inflammation. This therapy is commonly used for pain relief, tissue repair, and improving recovery in various clinical conditions.
-Link: https://clinicaltrials.gov/study/NCT07579585
 
 SUMMARY:
 
@@ -9989,16 +9927,6 @@ Clinical Outcomes of Laparoscopic Transabdominal Preperitoneal (TAPP) Approach f
 
 Intervention: : Laparoscopic Transabdominal Preperitoneal (TAPP) Repair — The surgical procedure will be performed under general anesthesia. Standard laparoscopic instruments will be used to access the peritoneal cavity. The peritoneum over the recurrent inguinal hernia site will be incised to enter the preperitoneal space. After reduction of the hernia sac and clearing of post-operative adhesions, a synthetic mesh will be placed to cover the hernia defects. The mesh will be secured if necessary, and the peritoneal flap will be closed using sutures or tacks.
 Link: https://clinicaltrials.gov/study/NCT07608653
-
-SUMMARY:
-
-## NCT07608705
-An Open-label, Single-arm, Fixed-sequence Phase I Clinical Trial to Evaluate the Effect of HRS-1301 Tablets on the Pharmacokinetics of Midazolam and Atorvastatin Calcium Tablets in Healthy Participants
-
-Intervention: : HRS-1301 Tablets — HRS-1301 tablets.
-: Atorvastatin Calcium Tablets — Atorvastatin Calcium tablets.
-: Midazolam oral solution — Midazolam oral solution.
-Link: https://clinicaltrials.gov/study/NCT07608705
 
 SUMMARY:
 
@@ -13680,15 +13608,6 @@ Intervention: : Trastuzumab Rezetecan — The recommended dosage is 4.8 mg/kg. A
 : Adebrelimab — A fixed dose of 1200 mg is administered via intravenous infusion every 3 weeks (±3 days). The infusion duration should be controlled between 30 and 60 minutes and must not exceed 2 hours.
 : Lenvatinib — Administered orally once daily with food (preferably at the same time each day). The dose is 12 mg/day for patients weighing ≥60 kg and 8 mg/day for those \<60 kg. The dose can be de-escalated based on toxicity according to the following scheme: 12 mg/day → 8 mg/day → 4 mg/day → discontinuation. If the investigator deems the patient intolerant, dose reduction across levels may be considered if deemed necessary.
 Link: https://clinicaltrials.gov/study/NCT07670273
-
-SUMMARY:
-
-## NCT07670377
-A Phase 1, Open-Label Study in Healthy Participants Aged 18 to 55 Years to Investigate the CYP3A4 Interaction Potential of GSK3772701
-
-Intervention: : Midazolam (MDZ) — Participants receive MDZ orally.
-: GSK3772701 — Participants receive GSK3772701 orally.
-Link: https://clinicaltrials.gov/study/NCT07670377
 
 SUMMARY:
 

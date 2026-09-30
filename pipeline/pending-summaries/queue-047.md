@@ -6126,14 +6126,6 @@ Link: https://clinicaltrials.gov/study/NCT06832982
 
 SUMMARY:
 
-## NCT06833008
-An Open-label, Phase I/II First-in-human, Dose Escalation and Confirmation Study to Evaluate the Safety, Tolerability, Pharmacokinetic, Pharmacodynamic and Anti-tumour Activity of IPN01195 as Single Agent in Adult Participants With Advanced Solid Tumours
-
-Intervention: : IPN01195 — IPN01195 will be administered at assigned dose level.
-Link: https://clinicaltrials.gov/study/NCT06833008
-
-SUMMARY:
-
 ## NCT06833034
 To Compare the Effectiveness of a Novel Closed Exposure Technique With Removal of Bone Tissue and a Conventional Technique During Treatment of Palatally Impacted Maxillary Canines by Closed Surgical Exposure and Fixed Orthodontic Appliance
 
@@ -10166,14 +10158,6 @@ Link: https://clinicaltrials.gov/study/NCT06886789
 
 SUMMARY:
 
-## NCT06886932
-The Effect of Pain Neuroscience Education on Patients Undergoing Surgical Repair of Moderate-Sized Rotator Cuff Tears
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06886932
-
-SUMMARY:
-
 ## NCT06887062
 Dapagliflozin and Endothelin Receptor Antagonism in Large Vessel Vasculitis (DERAIL-LVV)
 
@@ -14007,14 +13991,6 @@ Re-establishing Inter-generational Cooking Education and Improving Diet Quality 
 Intervention: : CHEF-ED + Food Delivery — CHEF-ED is a 7-week, digital, video-based parental intervention that teaches healthy cooking practices and an optimal way to involve children in home cooking. Each week features a video, infographics, and recipe content. The content is designed to be integrated into the home food environment without major changes to shopping habits. However, some basic culinary ingredients that are featured may not already be part of participating family pantry stocks. To support participants in effectively learning the healthy cooking strategies, participating families are provided a one-time home food delivery of non-perishable basic culinary ingredients and kitchen utensils, such as cooking oil, spices, whole wheat pasta, low sodium soy sauce, bowls.
 : Food Delivery Only — The Food Delivery Only intervention involves participants receiving a one-time home food delivery of non-perishable basic culinary ingredients and kitchen utensils, such as cooking oil, spices, whole wheat pasta, low sodium soy sauce, bowls.
 Link: https://clinicaltrials.gov/study/NCT06940817
-
-SUMMARY:
-
-## NCT06940830
-A Low-interventional Study to Evaluate Long-term Effectiveness of Real-world Prophylactic Treatment With Efanesoctocog Alfa on Joint Health in People With Haemophilia A (ALTITUDE)
-
-Intervention: : Efanesoctocog alfa — Participant in this study must be prescribed efanesoctocog alfa prophylactic treatment per their standard of care from their physician. No drug will be provided by the Sponsor.
-Link: https://clinicaltrials.gov/study/NCT06940830
 
 SUMMARY:
 

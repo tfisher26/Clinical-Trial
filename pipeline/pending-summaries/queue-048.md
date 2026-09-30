@@ -5441,16 +5441,6 @@ Link: https://clinicaltrials.gov/study/NCT07064486
 
 SUMMARY:
 
-## NCT07064564
-A Randomized, Active-comparator Controlled, Two-Dose-level Study of iSTEP-N in Healthy Adults With Long Term Safety and PK Follow-up
-
-Intervention: : Naltrexone implant, 14.4 grams — Subcutaneous bioresorbable implant containing 14.4 grams of naltrexone, inserted into the thigh on Day 1 and designed to release drug steadily over 12 months.
-: Naltrexone implant, 9.6 grams — Subcutaneous bioresorbable implant containing 9.6 grams of naltrexone, inserted into the thigh on Day 1 and designed to release drug steadily over 12 months.
-: Extended-release naltrexone injection, 380 mg — Intramuscular injection of 380 mg extended-release naltrexone (Vivitrol), administered every 4 weeks for 12 months as the active comparator.
-Link: https://clinicaltrials.gov/study/NCT07064564
-
-SUMMARY:
-
 ## NCT07064616
 Pulsed Field Ablation vs. Cryoballoon Ablation in Patients With Persistent Atrial Fibrillation
 
@@ -6678,14 +6668,6 @@ Algorithm Guided Treatment Versus Treatment as Usual (TAU) for Patients With Tre
 Intervention: : Algorithm guided treatment (AGT) — AGTs consist of strategies (which treatments to use), tactics (how to implement each treatment) and treatment steps (in what order to implement the different treatments). Furthermore, AGTs also define critical decision points during the treatment at which the effects of a certain treatment are assessed and based on this assessment recommend specific treatment revisions according to preset "if-then rules." This is most often done by implementing measurement-based care.
 : Treatment as usual (TAU) — TAU includes the standard clinical care for patients with TRD as determined by a senior consultant.
 Link: https://clinicaltrials.gov/study/NCT07080723
-
-SUMMARY:
-
-## NCT07080775
-A Phase I Clinical Study on the Safety and Tolerability of iPSC-Derived Dopaminergic Neural Progenitor Cell Injection Via Stereotaxic Brain Transplantation for the Treatment of Primary Parkinson's Disease
-
-Intervention: : human allogeneic induced pluripotent stem cell (iPSC)-derived dopaminergic neural progenitor cell injection — 5.0×10\^7 cells/mL, injection, once, 12 months
-Link: https://clinicaltrials.gov/study/NCT07080775
 
 SUMMARY:
 
@@ -10990,14 +10972,6 @@ Intervention: : Pain reprocessing therapy (PRT) — A promising new psychotherap
 : Cognitive Behavioral Therapy for Chronic Pain (CBT-CP) — A psychotherapy for chronic pain that has 30+ years of research support.
 : Usual Care — Participants will be asked to continue to do whatever they are currently doing to manage their pain.
 Link: https://clinicaltrials.gov/study/NCT07137715
-
-SUMMARY:
-
-## NCT07137793
-Clinical Study to Evaluate The Cardioprotective Effect of Pentoxifylline Against Doxorubicin Induced Cardiotoxicity in Breast Cancer Patients
-
-Intervention: : Pentoxifylline 400mg plus chemotherapy — patient will receive standard chemotherapy for breast cancer plus pentoxifylline 400 mg orally 3 times per day with meals.
-Link: https://clinicaltrials.gov/study/NCT07137793
 
 SUMMARY:
 

@@ -601,16 +601,6 @@ Link: https://clinicaltrials.gov/study/NCT07238192
 
 SUMMARY:
 
-## NCT07238413
-Investigation of the Effect of Scapular Stabilization Exercises Applied in Addition to Extracorporeal Shock Wave Therapy on Pain, Muscle Strength, Functional Status, and Quality of Life in Patients With Lateral Epicondylitis
-
-Intervention: : ESWT + Scapular stabilization exercise program — Participants in the study group will follow a treatment protocol consisting of extracorporeal shock wave therapy (ESWT) - 5 sessions, once per week - combined with stretching exercises for the extensor carpi radialis brevis (ECRB) and wrist extensor muscles, strengthening exercises for the wrist extensors, and an additional scapular stabilization exercise program. This combined program will be performed twice per week for a duration of 8 weeks.
-
-The scapular stabilization component will include strengthening exercises targeting the lower and middle trapezius and serratus anterior muscles. The program will consist of scapular clock exercises, wall push-up exercises, and wall slide or ball slide exercises performed on a wall.
-Link: https://clinicaltrials.gov/study/NCT07238413
-
-SUMMARY:
-
 ## NCT07238608
 UPRISE Unravelling Ultrafine Particulate Matter and Micro Nano Plastic's Mechanisms of Impact on Fetal Health
 
@@ -671,15 +661,6 @@ Desflurane administered at 1 MAC with EtControl mode.
 
 Desflurane administered at 1 MAC with EtControl mode.
 Link: https://clinicaltrials.gov/study/NCT07239479
-
-SUMMARY:
-
-## NCT07239505
-The Role Of Trinase In Reducing Post-Operative Pain For Patients With Symptomatic Irreversible Pulpitis: A Randomized Controlled Trial
-
-Intervention: : Trinase — One tablet of Trinase (proteolytic enzyme combination: trypsin, bromelain, and rutin) administered orally 30 minutes prior to root canal treatment. Used as premedication to reduce postoperative pain and inflammation.
-: placebo capsule — One identical-appearing placebo tablet administered orally 30 minutes prior to root canal treatment. Used as control.
-Link: https://clinicaltrials.gov/study/NCT07239505
 
 SUMMARY:
 
@@ -2683,16 +2664,6 @@ Mindful Embodied Movement: A 12-Week Modern Dance-Mindfulness Intervention and M
 
 Intervention: : Dance-Mindfulness Intervention — A 12-week integrated dance-mindfulness program combining ISTD Modern Theatre Dance technique with polyvagal-informed breathing, somatic practices, and phenomenological reflection. Sessions are 90-100 minutes weekly, delivered in groups of 15-18 participants by trained facilitator(s). The intervention integrates breath-movement synchronization (9-10 min), technical dance work (14-15 min), conditioning (9-10 min), rhythm \& improvisation (8-9 min), choreographed sequences (15-17 min), cool-down integration (8-9 min), and phenomenological journaling (10-20 min). Three-phase progression: Phase 1 (Weeks 1-4) establishes safety and foundational skills; Phase 2 (Weeks 5-8) expands embodied exploration; Phase 3 (Weeks 9-12) focuses on expressive integration and self-regulation consolidation.
 Link: https://clinicaltrials.gov/study/NCT07262177
-
-SUMMARY:
-
-## NCT07262255
-WATCHMAN FLX Pro European Registry
-
-Intervention: : Left atrial appendage closure — The WATCHMAN FLX Pro LAAC Technology is intended to prevent thrombus embolization from the left atrial appendage and reduce the risk of life-threatening bleeding events in adult patients with non-valvular atrial fibrillation who are eligible for anticoagulation therapy or who have a contraindication to anticoagulation therapy.
-
-The VersaCross Connect™ LAAC Access Solution is indicated for the percutaneous introduction of various types of cardiovascular catheters and guidewires to all heart chambers, including the left atrium via transseptal perforation / puncture.
-Link: https://clinicaltrials.gov/study/NCT07262255
 
 SUMMARY:
 
@@ -12764,14 +12735,6 @@ The HIPE RCT - Comparison Between Transarterial Musculoskeletal Embolization (TA
 Intervention: : Transarterial Musculoskeletal Embolization — Transarterial musculoskeletal embolization (TAME) is performed under local anesthesia by an experienced interventional radiologist. The procedure consists of selective catheterization and embolization of pathological peri-trochanteric vessels supplying the affected hip structures. A temporary, reabsorbable embolic microsphere (Nexsphere-F®, CE approved) is used to achieve transient vessel occlusion, with the objective of reducing pathological neovascularization and inflammation associated with Greater Trochanteric Pain Syndrome.
 : Platelet-Rich Plasma Injection — Platelet-rich plasma (PRP) injection consists of a single ultrasound-guided intratendinous administration of autologous PRP into the affected gluteal tendon. PRP is prepared from the participant's own blood using a standardized centrifugation protocol and injected under sterile conditions by an orthopedic hip specialist. The intervention aims to promote tendon healing and reduce pain and functional impairment associated with Greater Trochanteric Pain Syndrome.
 Link: https://clinicaltrials.gov/study/NCT07396246
-
-SUMMARY:
-
-## NCT07396753
-The Effects of Transversalis Fascia Plane Block on Opioid Consumption in Patients Undergoing Hand-Assisted Laparoscopic Donor Nephrectomy: A Randomized Controlled Prospective Study
-
-Intervention: : Ultrasound-guided transversalis fascia plane block — Ultrasound-guided transversalis fascia plane block performed after induction of general anesthesia using a single-shot injection of 30 mL 0.25% bupivacaine between the posterior surface of the transversus abdominis muscle and the transversalis fascia, targeting T12-L1 thoracolumbar nerve branches (iliohypogastric and ilioinguinal nerves) for postoperative analgesia following hand-assisted laparoscopic donor nephrectomy.
-Link: https://clinicaltrials.gov/study/NCT07396753
 
 SUMMARY:
 

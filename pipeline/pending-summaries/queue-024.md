@@ -1606,16 +1606,6 @@ Link: https://clinicaltrials.gov/study/NCT07565805
 SUMMARY:
 
 
-## NCT07003984
-A Phase 3 Global, Randomized, Double-Blind, Placebo-Controlled, Safety and Immunogenicity Study of CHIKV VLP Vaccine in Children 1 to <12 Years of Age
-
-Intervention: : CHIKV VLP vaccine — CHIKV VLP vaccine is comprised of chikungunya virus virus-like particles (CHIKV VLP), adsorbed on aluminum hydroxide (Alhydrogel®) adjuvant 2%
-: Placebo — Placebo is comprised of formulation buffer
-Link: https://clinicaltrials.gov/study/NCT07003984
-
-SUMMARY:
-
-
 ## NCT07225127
 Comparison of Intravesical Therapy and Surgery as Treatment Options for Bladder Cancer 2
 

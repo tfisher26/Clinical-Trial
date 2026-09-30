@@ -10222,14 +10222,6 @@ Link: https://clinicaltrials.gov/study/NCT06500819
 
 SUMMARY:
 
-## NCT06940830
-A Low-interventional Study to Evaluate Long-term Effectiveness of Real-world Prophylactic Treatment With Efanesoctocog Alfa on Joint Health in People With Haemophilia A (ALTITUDE)
-
-Intervention: : Efanesoctocog alfa — Participant in this study must be prescribed efanesoctocog alfa prophylactic treatment per their standard of care from their physician. No drug will be provided by the Sponsor.
-Link: https://clinicaltrials.gov/study/NCT06940830
-
-SUMMARY:
-
 ## NCT06704074
 Effectiveness of Real Home Settings Via Virtual Reality Task Oriented Training on Upper Llimb Function in Patients With Stroke: A Multicenter, Randomized Controlled Clinical Trial.
 
