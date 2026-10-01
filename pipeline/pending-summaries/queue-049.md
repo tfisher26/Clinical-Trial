@@ -4472,14 +4472,6 @@ Link: https://clinicaltrials.gov/study/NCT07287085
 
 SUMMARY:
 
-## NCT07287124
-A Pivotal, Pre-market, Prospective, Interventional, Multi-centre Study to Evaluate Clinical Benefit, Performance, and Safety of the TI1132 Implant in an Adult Population With Sensorineural Hearing Loss
-
-Intervention: : Cochlear implant — Totally Implantable Cochlear Implant System
-Link: https://clinicaltrials.gov/study/NCT07287124
-
-SUMMARY:
-
 ## NCT07287215
 Investigation of the Relationship Between Motor Imagery Ability and Functional Mobility, Walking, and Balance in Children With Diplegic Cerebral Palsy
 
@@ -13914,14 +13906,6 @@ Link: https://clinicaltrials.gov/study/NCT07413835
 
 SUMMARY:
 
-## NCT07414056
-Turning Ratios Into Prognosis: Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as Powerful Predictors of ARDS in Pediatric Burn Patients: A Prospective Evaluation
-
-Intervention: : Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios — Neutrophil-to-Lymphocyte and Platelet-to-Lymphocyte Ratios as Powerful Predictors of ARDS in Pediatric Burn Patients
-Link: https://clinicaltrials.gov/study/NCT07414056
-
-SUMMARY:
-
 ## NCT07414069
 Evaluation of the Clinical, Sonographic, and Electrophysiological Efficacy of High-Intensity Laser Therapy (HILT) in Carpal Tunnel Syndrome
 
@@ -17973,16 +17957,6 @@ A Clinical Study Exploring the Safety, Efficacy and Cell Metabolic Kinetics of U
 
 Intervention: : CT1190B cell injection — The active ingredient of the drug in this study is the chimeric antigen receptor targeting cd19/cd20 (car-cd19/cd20 for short) modified allogeneic T cells. In order to reduce the rejection of GVHD and host immune cells, TCR and B2M were knocked out, and the related modifications were also carried out to reduce the host NK cell immune rejection.
 Link: https://clinicaltrials.gov/study/NCT07470073
-
-SUMMARY:
-
-## NCT07470190
-Anatomical Evaluation of Supraspinatus Through Ultrasonography and Biomechanical Measurements Following Different Combinations of Physical Therapies in Patients of Supraspinatus Tendinitis
-
-Intervention: : Blood flow Restriction therapy — BFRT 4 Sets of exercise with restriction cuff 30,15,15,15 with cable system pulley ESWT 10 minutes shocks of 2000 J/session
-: ESWT — 10 minutes shocks of 2000 J/session
-: Control — Electric heating pad (Besmed, Taiwan) 10 minutes, TENS (Comfy Stim, Taiwan Model #: EV-806) 10 minutes
-Link: https://clinicaltrials.gov/study/NCT07470190
 
 SUMMARY:
 

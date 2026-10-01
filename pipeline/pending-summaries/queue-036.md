@@ -3187,15 +3187,6 @@ Link: https://clinicaltrials.gov/study/NCT06788847
 SUMMARY:
 
 
-## NCT04176523
-Understanding the Long-Term Management of Organic Acidemia Patients With CARBAGLU®: A Mixed Methods Approach
-
-Intervention: : Carglumic Acid — Maintenance therapy with carglumic acid
-Link: https://clinicaltrials.gov/study/NCT04176523
-
-SUMMARY:
-
-
 ## NCT07238985
 Evaluating the Safety and Efficacy of Cilostazol in the Treatment of Nonalcoholic Fatty Liver Disease Patients.
 
@@ -3515,16 +3506,6 @@ Link: https://clinicaltrials.gov/study/NCT06551584
 SUMMARY:
 
 
-## NCT03909282
-A Randomized Phase II Study Comparing Surgical Excision Versus Neoadjuvant Radiotherapy Followed by Delayed Surgical Excision of Ductal Carcinoma In Situ (NORDIS)
-
-Intervention: : Lumpectomy — Standard of Care surgery for DCIS (either lumpectomy or mastectomy)
-: Partial breast irradiation prior to surgery — Partial breast irradiation (PBI) will be delivered once aday for 5 days. The planned daily dose is 6 Gy prior to surgery (neo adjuvant)
-Link: https://clinicaltrials.gov/study/NCT03909282
-
-SUMMARY:
-
-
 ## NCT04532424
 Transcranial Magnetic Stimulation for Restricted and Repetitive Behavior in ASD
 
@@ -3625,20 +3606,6 @@ Tissue/Paper Blowing: Using breath to lift tissues or move paper windmills.
 
 Participants are instructed to practice these games for 10 minutes every hour, approximately 10-15 times per day, until the day of surgery. All necessary equipment (straws, bubbles, toys) is provided by the researchers.
 Link: https://clinicaltrials.gov/study/NCT07408037
-
-SUMMARY:
-
-
-## NCT04294927
-TUBectomy With Delayed Oophorectomy as Alternative for Risk-reducing Salpingo-oophorectomy in High Risk Women to Assess the Safety of Prevention: TUBA-WISP II Study.
-
-Intervention: : Risk-reducing salpingectomy with delayed oophorectomy — * BRCA1: RRS at age 25-40 and RRO at a maximum age of 45 (advised between 35 and 45).
-* BRCA2: RRS at age 25-45 and RRO at a maximum age of 50 (advised between age 40 and 50).
-* BRIP1, RAD51C, RAD51D: RRS at age 25-50 and RRO at a maximum age of 55 (advised between 45 and 55)
-: Risk-reducing salpingo-oophorectomy — * BRCA1 at a maximum age of 40 (advised between age 35 and 40)
-* BRCA2 at a maximum age of 45 (advised between age 40 and 45)
-* BRIP1, RAD51C, RAD51D: at a maximum age of 50 (advised between 45 and 50)
-Link: https://clinicaltrials.gov/study/NCT04294927
 
 SUMMARY:
 
@@ -3826,15 +3793,6 @@ Link: https://clinicaltrials.gov/study/NCT06855784
 SUMMARY:
 
 
-## NCT02932007
-Chloroquine for Patients With Symptomatic Persistent Atrial Fibrillation: A Prospective Pilot Study
-
-Intervention: : Chloroquine Phosphate — Two tablets of study drug are to be taken on the day of study drug initiation and the next day, followed by one tablet each day for the next 12 days. Study drug to be orally administered and taken with food.
-Link: https://clinicaltrials.gov/study/NCT02932007
-
-SUMMARY:
-
-
 ## NCT06220747
 Effectiveness of Single Dose or Two Doses of HPV Vaccine Among Adolescents and Reproductive Women: A Test-negative Control Study
 
@@ -3858,15 +3816,6 @@ Audiology Text-Messaging Intervention (Florence) to Improve Hearing Aid Use in N
 
 Intervention: : Audiology text-message protocol — Florence is an interactive text messaging service, endorsed by NHS England, designed to improve clinical outcomes for patients. An audiology text-message protocol, delivered via Florence, will prepare, inform and support new NHS hearing aid users as they are prescribed, receive, and start to use their hearing aid(s).
 Link: https://clinicaltrials.gov/study/NCT07146607
-
-SUMMARY:
-
-
-## NCT06790225
-Glucose-dependent INsulinotropic Polypeptide: Effect on Bone Remodelling and Cell Activity (GINEBRA)
-
-Intervention: : Glucose-dependent Insulinotropic Polypeptide (GIP) — Recombinant human GIP (1-42)
-Link: https://clinicaltrials.gov/study/NCT06790225
 
 SUMMARY:
 
@@ -4163,15 +4112,6 @@ Link: https://clinicaltrials.gov/study/NCT06893614
 SUMMARY:
 
 
-## NCT02060565
-Prognosis Value of Non-invasive Methods for the Diagnosis of Chronic Liver Disease. a Retrospective and Prospective 20-year Follow-up.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02060565
-
-SUMMARY:
-
-
 ## NCT05623267
 A Phase 2/3, Randomized, Double-blind, Placebo-controlled Study of Sugemalimab as Consolidation Therapy in Patients With Limited-stage Small-cell Lung Cancer Who Have Not Progressed Following Concurrent or Sequential Chemoradiotherapy
 
@@ -4217,15 +4157,6 @@ Link: https://clinicaltrials.gov/study/NCT07596888
 SUMMARY:
 
 
-## NCT03470467
-Posterior Reversible Encephalopathy Syndrome in the Critically Ill Patients
-
-Intervention: : No intervention — No intervention planed
-Link: https://clinicaltrials.gov/study/NCT03470467
-
-SUMMARY:
-
-
 ## NCT05412082
 Selective Treatment With Magnetic Resonance Image Guided Pelvic Adaptive Radiation Therapy Combined With Total Neoadjuvant ChemoTherapy for the Conservative Management of Locally Advanced Rectal Cancer
 
@@ -4244,16 +4175,6 @@ During SMART TNT Plan I, 5-FU dose of 225 mg/m2 per day will be administered via
 * Dose level 2: 16 Gy in delivered 4 fractions
 : Irinotecan — Irinotecan dose of 180 mg/m2 will be administered intravenously (IV) on Day 1 of each 14-day cycle for 4 to 6 cycles, prior to SMART TNT Plan I radiation therapy.
 Link: https://clinicaltrials.gov/study/NCT05412082
-
-SUMMARY:
-
-
-## NCT04078373
-Assessment and Treatment of Urinary Disorders in Patients in the Subacute Phase After Stroke
-
-Intervention: : Immediate urination — Patients with decreased cognitive ability will be taught to immediately go to the toilet upon feeling the urge to urinate and to be independent in urinating.
-: Bladder diary — Patients with normal cognitive abilities will be instructed to go to the toilet every 2-3 hours regardless of the urge to urinate
-Link: https://clinicaltrials.gov/study/NCT04078373
 
 SUMMARY:
 
@@ -4323,15 +4244,6 @@ Dose Regimen: Tislelizumab 400 mg every 6 weeks (Q6W) for a maximum of 9 cycles,
 : Blood sampling — Blood sampling for analyses of MRD (Molecular Residual Disease)
 : Placebo — Pharmaceutical form : Solvent IV bags used for dilution of tislelizumab (for example: "CHLORURE DE SODIUM FRESENIUS 0,9 %, solution injectable") Dose Regimen: every 6 weeks (Q6W) for a maximum of 9 cycles, on the first day of each cycle, in IV.
 Link: https://clinicaltrials.gov/study/NCT06332274
-
-SUMMARY:
-
-
-## NCT03713203
-An Interventional, Phase II, Non Randomized, Mono-centric Study on the Clinical Efficacy and Safety of the Medical Device PAGETEX® as a Photodynamic Therapy Device in the Treatment of Extra-Mammary Paget's Disease of the Vulva (EMPV)
-
-Intervention: : pagetex PDT — 2 to 4 sessions of PDT treatment during 2.5 hours after application of Metvixia and incubation under occlusive coat.
-Link: https://clinicaltrials.gov/study/NCT03713203
 
 SUMMARY:
 
@@ -4412,15 +4324,6 @@ Link: https://clinicaltrials.gov/study/NCT05568069
 SUMMARY:
 
 
-## NCT04287192
-Digital Bridge: Using Technology to Support Patient-centered Care Transitions From Hospital to Home
-
-Intervention: : Digital Bridge:Tool Intervention — Our Digital Bridge is an integration of the Care Connector and ePRO technologies that will support care transitions by: 1) inviting PCPs to access Care Connector while the patient is in hospital, allowing for asynchronous communication via the messaging feature for proactive discharge planning, 2) facilitating the inclusion of inter-professional recommendations in the discharge module (e.g. diet and mobility) typically missing from traditional physician generated discharge summaries, 3) electronic generation of PODS for use in patient-centred discharge teaching, 4) providing patients electronic access to PODS post discharge to facilitate use of information at home, 5) adoption of digital enabled goal-oriented process to engage patients and families in discharge process, and 6) providing ongoing self-management support for patients using ePRO for the vulnerable period 6 months post discharge.
-Link: https://clinicaltrials.gov/study/NCT04287192
-
-SUMMARY:
-
-
 ## NCT07626086
 Effect of Pilates Exercises on Balance, Fatigue and Quality of Life in Patients With Renal Transplantation
 
@@ -4437,18 +4340,6 @@ A Randomized, Double-Masked, Vehicle-Controlled, Adequate and Well-Controlled Pi
 Intervention: : d-MAPPS™ Ophthalmic Solution — Sterile, preservative-free ophthalmic solution administered as two drops into each eye four times daily for 90 consecutive days.
 : Matching vehicle control — Matching vehicle control supplied in identical masked containers and administered as two drops into each eye four times daily for 90 consecutive days.
 Link: https://clinicaltrials.gov/study/NCT07776210
-
-SUMMARY:
-
-
-## NCT04196413
-Phase 1 Clinical Trial of Autologous GD2 Chimeric Antigen Receptor (CAR) T Cells (GD2CART) for H3K27M-mutant Diffuse Midline Glioma (DMG)
-
-Intervention: : GD2 CAR T cells — Autologous T-Cells transduced with retroviral vector (14g2a-CD8.BB.z.iCasp9) expressing GD2-chimeric antigen receptor
-: Fludarabine — Fludarabine 30 mg/m2 per day IV for days -4, -3, -2
-: Cyclophosphamide — Cyclophosphamide 500 mg/m2 per day IV for days -4, -3, -2
-: Rituximab — First round: 750 mg/m2 per day IV for days -6 and -5. Subsequent rounds: 750 mg/m2 per day IV for day -5.
-Link: https://clinicaltrials.gov/study/NCT04196413
 
 SUMMARY:
 
@@ -4506,15 +4397,6 @@ Chronic Subdural Hematoma Treated With Numen SILK Coiling of Middle Meningeal Ar
 
 Intervention: : Numen SILK coil embolization system — The Numen SILK coil embolization system is designed to be used in conjunction with the NumenFR detachment system. It consists of two main parts: • Introducer Sheath: The purpose of this sheath is to facilitate the introduction of the coil into the microcatheter. • Coil System: Composed of the pusher and coil implant. The coil is a permanent implant intended to occlude blood flow in vascular abnormalities. The pusher is used to deliver the coil implant to the target lesion. The NumenFR detachment system is a sterile, handheld, single-patient use device designed for use with the Numen SILK coil embolization system and is operated by two pre-loaded batteries
 Link: https://clinicaltrials.gov/study/NCT07197840
-
-SUMMARY:
-
-
-## NCT03146936
-Swiss Primary Sclerosing Cholangitis Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03146936
 
 SUMMARY:
 
@@ -4777,15 +4659,6 @@ Link: https://clinicaltrials.gov/study/NCT07402525
 SUMMARY:
 
 
-## NCT02989298
-Peritoneal Dialysis Registration System (PERSIST)
-
-Intervention: : No intervention — Registration of all PD patients in the First Affiliated Hospital of Sun Yat-sen University and other hospitals，which have signed the contract in China.
-Link: https://clinicaltrials.gov/study/NCT02989298
-
-SUMMARY:
-
-
 ## NCT05816174
 Child and Parent Emotion-related Risk and Resilience Factors Associated With the Transition From Acute to Chronic Pain After Surgery: A Prospective Longitudinal Study
 
@@ -4840,15 +4713,6 @@ GORE® ENFORM Biomaterial Product Study: A Study to Describe Multi-use Biomateri
 Intervention: : Gore ENFORM Biomaterial (Preperitoneal) — ENFORM Biomaterial bioabsorbable hernia mesh
 : Gore ENFORM Biomaterial (Intraperitoneal) — ENFORM Biomaterial bioabsorbable hernia mesh
 Link: https://clinicaltrials.gov/study/NCT04718168
-
-SUMMARY:
-
-
-## NCT02061436
-Multicenter Registry of Chronic Total Occlusion Interventions
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02061436
 
 SUMMARY:
 
@@ -4985,16 +4849,6 @@ Link: https://clinicaltrials.gov/study/NCT06371586
 SUMMARY:
 
 
-## NCT04065971
-Randomized, Placebo-controlled, Double-blind Study to Evaluate the Efficacy of 2LHERP® in Patients With Recurrent Orofacial Herpes Infections.
-
-Intervention: : 2LHERP® — The treatment schema consists in taking the content of one capsule a day, 15-30 minutes before breakfast, on an empty stomach, sequentially, according to capsules' numerical order: 1 through 10. When capsule number 10 is taken, capsule 1 of the next blister should be taken on the next day to continue the treatment. The duration of treatment will be 6 months of continuous intake of the content of 1 capsule/day.
-: Placebo — The treatment schema consists in taking the content of one capsule a day, 15-30 minutes before breakfast, on an empty stomach, sequentially, according to capsules' numerical order: 1 through 10. When capsule number 10 is taken, capsule 1 of the next blister should be taken on the next day to continue the treatment. The duration of treatment will be 6 months of continuous intake of the content of 1 capsule/day.
-Link: https://clinicaltrials.gov/study/NCT04065971
-
-SUMMARY:
-
-
 ## NCT06341894
 Efficacy and Safety of Dalpiciclib With Endocrine Therapy as Adjuvant Treatment in Patients With Hormone Receptor-positive, HER2-negative Early Breast Cancer
 
@@ -5038,24 +4892,6 @@ Arabic Patient-reported Outcome Measures During Radiotherapy for Head and Neck C
 
 Intervention: : Radiation — Radiotherapy for the Head \& Neck Cancer
 Link: https://clinicaltrials.gov/study/NCT06662929
-
-SUMMARY:
-
-
-## NCT02573636
-The Predictive Value of Coexisting TMPRSS2-ERG Gene Fusion and PTEN Deletion in Prostate Cancer Patients with Biochemical Failure Status Post Salvage or Radical Radiation Therapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02573636
-
-SUMMARY:
-
-
-## NCT03699228
-China Nationwide Multi Center Big Data Study on the Quantitative Computed Tomography (QCT) and Health Status of Check -up Population
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03699228
 
 SUMMARY:
 
@@ -5266,15 +5102,6 @@ Link: https://clinicaltrials.gov/study/NCT06617975
 SUMMARY:
 
 
-## NCT04192773
-An fMRI Investigation of the Effects of IV Lidocaine on Tinnitus
-
-Intervention: : IV Lidocaine — IV lidocaine will be administered pre-fMRI and post-FMRI with each subject acting as their own control
-Link: https://clinicaltrials.gov/study/NCT04192773
-
-SUMMARY:
-
-
 ## NCT06960616
 Improving Clinical Efficiency by Reducing Scheduled Follow-ups Using Cochlear America's Population Mean Mapping Strategy
 
@@ -5308,15 +5135,6 @@ Chemosensitivity During Phases of the Menstrual Cycle in Breast Cancer Patients
 
 Intervention: : Blood sample — Collection of serum sample at the day of start of neo adjuvant treatment
 Link: https://clinicaltrials.gov/study/NCT06273800
-
-SUMMARY:
-
-
-## NCT01222741
-Studies of Disorders With Increased Susceptibility to Fungal Infections
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01222741
 
 SUMMARY:
 
@@ -5450,15 +5268,6 @@ Link: https://clinicaltrials.gov/study/NCT06361485
 SUMMARY:
 
 
-## NCT03669315
-Modulating Inhibitory Control Networks in Gambling Disorder With Theta Burst Stimulation
-
-Intervention: : Transcranial Magnetic stimulation — Neuromodulation tool
-Link: https://clinicaltrials.gov/study/NCT03669315
-
-SUMMARY:
-
-
 ## NCT05381766
 Building Access to Food Through Systems and Solidarity (BASIS): a Subsidized and Culturally-adapted Produce Box Program for Immigrant Communities of Brooklyn, NY
 
@@ -5487,15 +5296,6 @@ A Phase I, Randomized, Double-Blind, Placebo-Controlled, Single-Ascending-Dose C
 Intervention: : JMT206 — Subcutaneous injection, single dose.
 : Placebo — Subcutaneous injection, single dose.
 Link: https://clinicaltrials.gov/study/NCT07419698
-
-SUMMARY:
-
-
-## NCT04010188
-A Registered Observational Cohort Study of Charcot-Marie-Tooth Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04010188
 
 SUMMARY:
 
@@ -5619,16 +5419,6 @@ Intervention: : CONTROL:Information form with hygienic-dietary measures or sleep
 * Healthy lifestyle habits: avoid tobacco, alcohol and other toxic substances.
 : EXPERIMENTAL: program of exercises that will be composed of 4 blocks — the first is the work of the soft palate (retropalatine level), the second is the work of the functionality of the tongue (retroglossus level), the third is the work of the position of the hyoid bone (hypopharyngeal level), and the fourth is work on anterior head tilt and craniocervical extension (anterior head posture).
 Link: https://clinicaltrials.gov/study/NCT06681974
-
-SUMMARY:
-
-
-## NCT03407079
-Effects of Sucralose on Drug Absorption and Metabolism (The SweetMeds Study)
-
-Intervention: : Sucralose — Sucralose is an organochlorine and is approximately 600 times sweeter than sucrose. Participants will receive sucralose (approximately 4mg/kg/day) or placebo by mouth in a capsule for 28 days. This dose corresponds to the amount of sucralose contained in approximately 3 or 4 twelve ounce cans of commercially-available diet soda for a 70 kg adult.
-: Placebo — Placebo capsules will be taken orally for 28 days
-Link: https://clinicaltrials.gov/study/NCT03407079
 
 SUMMARY:
 

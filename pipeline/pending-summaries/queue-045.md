@@ -5886,14 +5886,6 @@ Link: https://clinicaltrials.gov/study/NCT06212427
 
 SUMMARY:
 
-## NCT06212453
-Evaluation of the Functional Outcomes After Bilateral, 3D Ultrasound-guided Focal Thermal Ablation of the Prostate Transition Zone, in Patients with Benign Prostatic Hyperplasia-related Obstruction
-
-Intervention: : Targeted Microwave Ablation — 3D ultrasound-guided focal thermal ablation of the prostate transition zone
-Link: https://clinicaltrials.gov/study/NCT06212453
-
-SUMMARY:
-
 ## NCT06212479
 A Multi-Site Prospective, Single-Arm, Observational Study On The Accuracy Of Whole Body Magnetic Resonance Imaging (Wb-Mri) Screening To Predict Clinically Significant Diagnoses In General Population Subjects Interested In Proactive And Advanced General Preventive Healthcare.
 
@@ -9613,15 +9605,6 @@ Link: https://clinicaltrials.gov/study/NCT06285162
 
 SUMMARY:
 
-## NCT06285643
-A Phase 2, Randomized, Double-blind, Sham Surgery-controlled Study of the Efficacy and Safety of Intraputaminal AAV2-GDNF in the Treatment of Adults With Moderate Stage Parkinson's Disease
-
-Intervention: : AAV2-GDNF gene therapy — Bilateral image-guided infusion of AAV2-GDNF into putamen, single dose
-: control surgery — Bilateral partial burr/twist holes without dural penetration
-Link: https://clinicaltrials.gov/study/NCT06285643
-
-SUMMARY:
-
 ## NCT06285708
 Enhancing the Effectiveness of Prolonged Exposure Among Suicidal Individuals With PTSD
 
@@ -10111,14 +10094,6 @@ The PARS Study: Paediatric Advanced Respiratory Service Study - An Observational
 
 Intervention: : Pneumowave — Pneumowave biosensor(s) will be be used to collect data from chest +/- abdominal movement and compared to standard clinical monitoring data
 Link: https://clinicaltrials.gov/study/NCT06292299
-
-SUMMARY:
-
-## NCT06292637
-Cognitive Behavioral and Faith Fellowship to Improve Thy Health (CB-FAITH) - A Feasibility and Acceptability Study
-
-Intervention: : Cognitive Behavioral Faith Fellowship to Improve Thy Health (CB-FAITH) — CB-FAITH is a behavioral depression intervention set inside a cognitive behavioral framework, and Afrocentric paradigm and informed by faith-based principles, designed to treat major depressive disorder among African American adults. The 13-treatment modules focus on increasing knowledge of depression and healthy coping behaviors. It is designed to be co-delivered by licensed mental health clinicians and pastors at churches.
-Link: https://clinicaltrials.gov/study/NCT06292637
 
 SUMMARY:
 
@@ -17480,18 +17455,6 @@ Increased Tuberculosis Case Detection - a Cluster-randomized Trial Combining Ava
 
 Intervention: : ODP — se previously
 Link: https://clinicaltrials.gov/study/NCT06437184
-
-SUMMARY:
-
-## NCT06437444
-Asthma Crisis in Paediatrics: Impact of a Care Pathway in Primary and Hospital Care
-
-Intervention: : The implementation strategy to encourage the adoption of the Care Pathway — 1. Dissemination of the most novel aspects of the agreed Care Pathway via corporate mail.
-2. Integration of information and communication tools into electronic health records to facilitate the recording and the standardized implementation of recommended practice.
-3. Audit \& Feedback (A\&F) data reports, sent monthly, to each paediatrician on the rate of prescription of bronchodilators administered with a spacer chamber, together with the rates of the other indicators established in the pathway, in their health centre and in the rest of the centres in the participating health areas.
-4. Interactive training sessions, in which epidemiological data and data on the health, economic and social impact of asthma attacks were presented, together with data on other indicators associated with the care pathway, and key messages on current treatment recommendations based on the latest clinical practice.
-5. Distribution of reminder posters in paediatrics consultations, PEDs and health centers.
-Link: https://clinicaltrials.gov/study/NCT06437444
 
 SUMMARY:
 

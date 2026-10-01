@@ -119,38 +119,11 @@ Link: https://clinicaltrials.gov/study/NCT06516406
 SUMMARY:
 
 
-## NCT03865914
-Correlation Study Between Clinical Phenotype and Pathology of Type 2 Diabetic Nephropathy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03865914
-
-SUMMARY:
-
-
-## NCT02509455
-Quantified Balance Measures During Stance and Gait: Comparison of a New Micro-mechanical Gyro-system (Sensoro Von Hocoma AG) With SwayStar (Balance Int. Innov.) for Measurements of Balance Control of Healthy Controls.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02509455
-
-SUMMARY:
-
-
 ## NCT06267365
 Predictive Biomarker for Endoscopic Therapy in Chronic Pancreatitis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06267365
-
-SUMMARY:
-
-
-## NCT02893761
-Bergonie Institute Breast Cancer Database
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02893761
 
 SUMMARY:
 
@@ -169,24 +142,6 @@ Prospective, Open-label, Multicenter Long-term Follow-up Study to Evaluate the D
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07146100
-
-SUMMARY:
-
-
-## NCT04442334
-The European NAFLD Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04442334
-
-SUMMARY:
-
-
-## NCT02497534
-Biomarkers in Friedreich's Ataxia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02497534
 
 SUMMARY:
 
@@ -223,15 +178,6 @@ Prospective Validation Study of the CD8+TEMRA Cells As a Prognostic Biomarker of
 
 Intervention: : CD8+TEMRA
 Link: https://clinicaltrials.gov/study/NCT06658379
-
-SUMMARY:
-
-
-## NCT03830879
-Shenzhen Birth Cohort Study
-
-Intervention: : No intervention — This cohort study have any no intervention.
-Link: https://clinicaltrials.gov/study/NCT03830879
 
 SUMMARY:
 
@@ -295,15 +241,6 @@ Metabolomic and Genetic Factors Decoupling Immune Checkpoint Inhibitor Tumor Eff
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07382752
-
-SUMMARY:
-
-
-## NCT03787771
-The Fecal Microbiota Transplantation Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03787771
 
 SUMMARY:
 
@@ -399,15 +336,6 @@ Link: https://clinicaltrials.gov/study/NCT05919511
 SUMMARY:
 
 
-## NCT00512239
-Early Prediction of Patient-related and Radiological Outcomes in Patients With Recent-onset Inflammatory Polyarthritis (EPA) Using Established and Novel Independent Predictors
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00512239
-
-SUMMARY:
-
-
 ## NCT07110324
 Characteristics of Persistent Pain Composition Following Total Hip or Knee Arthroplasty: a Descriptive Study
 
@@ -422,15 +350,6 @@ Mapping Epileptic Networks Using Multimodal Imaging
 
 Intervention: : Secondary data collection — clinical data
 Link: https://clinicaltrials.gov/study/NCT06202976
-
-SUMMARY:
-
-
-## NCT00084292
-International Pediatric Stroke Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00084292
 
 SUMMARY:
 
@@ -501,15 +420,6 @@ CONCEPTT Kids International Neurodevelopmental Outcomes Among Offspring of Women
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05754567
-
-SUMMARY:
-
-
-## NCT01062581
-University of Minnesota Transplant Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01062581
 
 SUMMARY:
 
@@ -598,29 +508,11 @@ Link: https://clinicaltrials.gov/study/NCT05450016
 SUMMARY:
 
 
-## NCT03245801
-The Canadian Alliance of Pediatric Rheumatology Investigators National Juvenile Idiopathic Arthritis Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03245801
-
-SUMMARY:
-
-
 ## NCT06805253
 Left Ventricular Reverse Remodeling Outcomes Evaluation in Patients With Aortic Regurgitation After Surgical Treatment
 
 Intervention: : Not applicable - observational study — observation only
 Link: https://clinicaltrials.gov/study/NCT06805253
-
-SUMMARY:
-
-
-## NCT03040583
-Assessment of Systemic Complications (Signs) and Evolution From Patients With Sjögren's Syndrome (ASSESS)
-
-Intervention: : No intervention — Patients data will be collected during their disease follow-up
-Link: https://clinicaltrials.gov/study/NCT03040583
 
 SUMMARY:
 

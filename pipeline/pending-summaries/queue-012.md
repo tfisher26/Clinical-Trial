@@ -156,15 +156,6 @@ Link: https://clinicaltrials.gov/study/NCT07333131
 SUMMARY:
 
 
-## NCT06447168
-Prospective Non-interventional, Phase IV Multicentre Study to Assess the Effectiveness, Safety and Tolerability of Elafibranor 80 mg/Day in Participants With Primary Biliary Cholangitis Receiving Treatment in a Real-world Setting.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06447168
-
-SUMMARY:
-
-
 ## NCT07483853
 Reliability and Validation of the WB-MRI Radiological Score in CRMO: Retrospective Observational Study in Paediatric Patients
 
@@ -1151,24 +1142,6 @@ Link: https://clinicaltrials.gov/study/NCT07767981
 SUMMARY:
 
 
-## NCT03441451
-Establishment of a Bariatric Surgery Clinical Quality Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03441451
-
-SUMMARY:
-
-
-## NCT00626496
-Genetic Epidemiology of Lymphoproliferative Disorders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00626496
-
-SUMMARY:
-
-
 ## NCT06933134
 Prospective Validation of a Pharmacological Biomarker for Low-Dose Rituximab in Rheumatoid Arthritis
 
@@ -1192,15 +1165,6 @@ Tumor Immune Microenvironment Involvement in Colorectal Cancer Chemoresistance M
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05038358
-
-SUMMARY:
-
-
-## NCT03087253
-Prospective Multicenter Natural History Study of Lipodystrophy Syndromes to Determine Prevalence, Incidence and Predictors of Diabetes and Severe Hypertriglyceridemia, and Their Complications
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03087253
 
 SUMMARY:
 
@@ -1259,15 +1223,6 @@ Link: https://clinicaltrials.gov/study/NCT07401797
 SUMMARY:
 
 
-## NCT00006518
-Collection of Blood, Bone Marrow, Tumor, or Tissue Samples From Patients With HIV Infection, KSHV Infection, Viral-Related Pre-Malignant Lesions, and/or Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00006518
-
-SUMMARY:
-
-
 ## NCT06822569
 Teen Health Choices & Wellness
 
@@ -1304,29 +1259,11 @@ Link: https://clinicaltrials.gov/study/NCT07723261
 SUMMARY:
 
 
-## NCT04358913
-Northern Alberta Linac-MR Image-Guided Human Clinical Trials - 1
-
-Intervention: : MR scan with the Alberta linac-MR P3 system — Single MR imaging session to develop and optimize the necessary MR sequences on the Alberta linac-MR P3 system to allow for MR-guided radiotherapy.
-Link: https://clinicaltrials.gov/study/NCT04358913
-
-SUMMARY:
-
-
 ## NCT06941922
 Testicular Evaluation of Azoospermia Using Micro-Ultrasound
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06941922
-
-SUMMARY:
-
-
-## NCT01219335
-Laboratory Evaluation of De-identified, Developmentally Arrested Embryos of Embryos Diagnosed as Having an Abnormal Number of Chromosomes for Optimization of Techniques for Assisted Reproduction
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01219335
 
 SUMMARY:
 
@@ -1340,29 +1277,11 @@ Link: https://clinicaltrials.gov/study/NCT07221318
 SUMMARY:
 
 
-## NCT03612726
-The Overall Survival of Patients Diagnosed With Unresectable Hepatocellular Carcinoma Under Real-life Clinical Practice in Asia Pacific Region
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03612726
-
-SUMMARY:
-
-
 ## NCT07539844
 A Concordance Study of Folate Receptor Alpha (FRa) Testing in InterCon Countries
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07539844
-
-SUMMARY:
-
-
-## NCT03854318
-Longitudinal Studies of Patients and Families With Familial Platelet Disorders With Associated Myeloid Malignancy (FPDMM) Caused by RUNX1 Germline Variants or FPDMM-Like Conditions
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03854318
 
 SUMMARY:
 
@@ -1417,15 +1336,6 @@ Studio Osservazionale Retrospettivo Di Coorte Italiana Di Pazienti Con Linfoma (
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06781437
-
-SUMMARY:
-
-
-## NCT04305808
-Characterization of Vaginal, Urinary and Fecal Microbiomes in Women with Recurrent Urinary Tract Infections
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04305808
 
 SUMMARY:
 
@@ -1487,38 +1397,11 @@ Link: https://clinicaltrials.gov/study/NCT05229432
 SUMMARY:
 
 
-## NCT04335773
-COVID-19 in Hospitalised Norwegian Children - Risk Factors, Outcomes and Immunology
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04335773
-
-SUMMARY:
-
-
 ## NCT07304115
 Noise Associated With a Mechanical Heart Valve Prosthesis: Does the Memory of Preoperative Information Have an Influence on Postoperative Quality of Life?
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07304115
-
-SUMMARY:
-
-
-## NCT02156401
-VTEval Project - Three Observational, Prospective Cohort Studies Including Biobanking to Evaluate and Improve Diagnostics, Management Strategies and Risk Stratification in Venous Thromboembolism
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02156401
-
-SUMMARY:
-
-
-## NCT01644903
-Proteogenomic Monitoring and Assessment of Liver Transplant Recipients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01644903
 
 SUMMARY:
 
@@ -1605,15 +1488,6 @@ Link: https://clinicaltrials.gov/study/NCT07002411
 SUMMARY:
 
 
-## NCT03663348
-NYU Takotsubo (Broken Heart Syndrome) Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03663348
-
-SUMMARY:
-
-
 ## NCT07063524
 Principle Investigator
 
@@ -1673,15 +1547,6 @@ Czech Alpha-1 Antitrypsin Deficiency Registry, the National Observational Study.
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05178277
-
-SUMMARY:
-
-
-## NCT00756769
-Systemic Lupus Erythematosus in Gullah Health
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00756769
 
 SUMMARY:
 
@@ -1774,15 +1639,6 @@ PROspective Renal Cancer Cohort (PRO-RCC)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05326620
-
-SUMMARY:
-
-
-## NCT03773159
-Development of a Device for Evaluating Primary Hemostasis Under Whole Blood Flow Conditions
-
-Intervention: : Blood sampling — 4 citrated/PPACK tubes and 1 EDTA tube maximum
-Link: https://clinicaltrials.gov/study/NCT03773159
 
 SUMMARY:
 

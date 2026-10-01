@@ -17196,15 +17196,6 @@ Link: https://clinicaltrials.gov/study/NCT07212114
 
 SUMMARY:
 
-## NCT07212283
-Wise Intervention for Reducing Aggressive Behaviors and Promoting Prosocial Behaviors Toward LGB-TNB Individuals
-
-Intervention: : Wise Intervention LGB-TNB — The intervention will be designed to reduce aggressive behaviors based on sexual orientation and gender identity and to promote prosocial behaviors toward these individuals. This intervention will include three components: (1) reading scientific studies about people's ability to change. In addition, they will read other studies about how thoughts and emotions influence behavior through brain pathways, and that these pathways can be modified under certain circumstances; (2) reading testimonials that support the idea that people can change. These testimonials include accounts of people who were victims or perpetrators based on sexual orientation and gender identity, including important components of empathy and prosocial behaviors toward the victims. To give credibility to the intervention, they will be informed that these stories were written by other young people who previously participated; and (3) self-persuasion exercises that involve an active commitment to change.
-: Values alignment wise intervention — This intervention will be based on the same strategies as the experimental intervention, but it will not address aspects related to prosocial behaviors or aggression toward LGB-TNB individuals; instead, it will be applied to improve adolescents' eating habits.
-Link: https://clinicaltrials.gov/study/NCT07212283
-
-SUMMARY:
-
 ## NCT07212361
 Infant Microbiota Restoration With Maternal Microbes
 

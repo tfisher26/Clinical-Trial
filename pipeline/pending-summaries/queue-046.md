@@ -1417,14 +1417,6 @@ Link: https://clinicaltrials.gov/study/NCT06488573
 
 SUMMARY:
 
-## NCT06488924
-An Open-label Phase I/II Study of JR-446 in Mucopolysaccharidosis Type IIIB
-
-Intervention: : JR-446 — IV infusion
-Link: https://clinicaltrials.gov/study/NCT06488924
-
-SUMMARY:
-
 ## NCT06489197
 Ivonescimab(AK112) Combined With Chemotherapy as the First-line Treatment in Patients With Advanced Esophageal Squamous Cell Carcinoma (ESCC): A Single Arm , Phase II Trial
 
@@ -4967,15 +4959,6 @@ False Lumen Treatment for Prevention of Aortic Growth Using Shape Memory Polymer
 
 Intervention: : False Lumen Embolization System, IMPEDE-FX RapidFill — Embolization of the false lumen of an aortic dissection
 Link: https://clinicaltrials.gov/study/NCT06550986
-
-SUMMARY:
-
-## NCT06551168
-The Cardiovascular, Hematological, and Performance Response to Heat Acclimation in Healthy Trained Females
-
-Intervention: : Heat exposure — Participants will exercise at home while wearing a clothing ensemble over 19 one hour sessions. They will use validated perceptual scales to guide their effort and thermal sensation.
-: Control group — Participants will exercise at home over 19 one hour sessions. They will use heart rate to guide their effort. The exercise will take place in cool conditions
-Link: https://clinicaltrials.gov/study/NCT06551168
 
 SUMMARY:
 
@@ -16708,14 +16691,6 @@ Examining Mechanisms of Change in Adolescent Self-Inflicted Injury
 Intervention: : Opposite to emotion action — Participants will be taught the opposite action skill from Dialectical Behavior Therapy
 : GIVE — Participants will be taught the GIVE skill from Dialectical Behavior Therapy
 Link: https://clinicaltrials.gov/study/NCT06720753
-
-SUMMARY:
-
-## NCT06720766
-Assessment of FibbroScan in Diagnosing MASLD Among the Chinese Population With Obesity
-
-Intervention: : FibbroScan and biopsy — In individuals with obesity, a biopsy is performed within a week after undergoing an FibroScan examination.
-Link: https://clinicaltrials.gov/study/NCT06720766
 
 SUMMARY:
 

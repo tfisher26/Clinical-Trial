@@ -7408,31 +7408,12 @@ Link: https://clinicaltrials.gov/study/NCT06367088
 SUMMARY:
 
 
-## NCT03145688
-Promoting Habit Formation in Family Physical Activity
-
-Intervention: : Family Physical Activity Planning — Families will receive the same guidelines as the standard education control group but will also be provided with family physical activity planning material. This material will include a skill training content workbook on how to plan for family physical activity. The material includes a brainstorming exercise for parents where they list physical activities they think their children have found fun in the past, as well as activities that they would find enjoyable to do as a family. We will provide this material as prompts/suggestions. Families will be instructed to plan for "when," "where," "how," and "what" physical activity will be performed \& then track their physical activity. These aspects will be re-introduced and discussed at week 6 and week 12 in booster sessions
-: Family Physical Activity Habit Formation — Families will receive the same content as the education control condition and the physical activity planning condition but with additional material on creating physical activity support habits. A key component of the habit section will be based on planning for context-dependent repetition, with pointers on how to maintain repetition as habit forms. The importance of creating cues for parental support of child physical activity is then outlined. Cues will also be considered factors that a) can precede the support activity but b) not be present very often when the activity is not to be performed. We will suggest that cues that have repeated exposure during times when family physical activity is not present Parents will then be asked to brainstorm and create a plan of consistency and cues with the workbooks provided. These aspects will be re-introduced and discussed at week 6 and week 12 in booster sessions.
-Link: https://clinicaltrials.gov/study/NCT03145688
-
-SUMMARY:
-
-
 ## NCT07267052
 Acute Effects of Transcutaneous Electrical Nerve Stimulation at Acupoints on Nociceptive Transmission: A Mechanism Study Using Pain-Related Evoked Potentials
 
 Intervention: : transcutaneous electrical nerve stimulation (TENS) — TENS was applied to the acupoints Zhongzhu (SJ3) and Hegu (LI4) using surface electrodes. Low-frequency electrical currents were delivered at an intensity that was comfortable but perceptible, without causing muscle contraction. Each session lasted 20 minutes, during which participants remained seated and relaxed, and electrode placement and stimulation parameters were monitored for safety and consistency.
 : EEG machine — EEG signals were recorded using the Neuro-MEP4 system. The device captures cortical electrical activity with high temporal resolution and is suitable for measuring pain-related evoked potentials (PREPs). Standard electrode placement and recording protocols were followed, and signal quality was checked before each session to ensure reliable data collection.
 Link: https://clinicaltrials.gov/study/NCT07267052
-
-SUMMARY:
-
-
-## NCT03676647
-Retrospective-Prospective Collection of Thyroid Specimens After FNA
-
-Intervention: : Diagnostic DNA Methylation Signature — Undergo collection of tissue samples
-Link: https://clinicaltrials.gov/study/NCT03676647
 
 SUMMARY:
 
@@ -7526,15 +7507,6 @@ A Phase 1, Single-dose, Open-label, Randomized, Crossover Study in Healthy Adult
 Intervention: : Sonrotoclax Tablet for Oral Suspension — Administered orally
 : Sonrotoclax Tablet — Administered orally
 Link: https://clinicaltrials.gov/study/NCT07628881
-
-SUMMARY:
-
-
-## NCT03897270
-Photoacoustic Imaging of Human Breast
-
-Intervention: : Photoacoustic Imaging — Undergo photoacoustic imaging of the breast
-Link: https://clinicaltrials.gov/study/NCT03897270
 
 SUMMARY:
 

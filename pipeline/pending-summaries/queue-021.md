@@ -1023,16 +1023,6 @@ Link: https://clinicaltrials.gov/study/NCT06884410
 SUMMARY:
 
 
-## NCT07300670
-The Effect of Losartan on Cephalexin
-
-Intervention: : losartan — 100 mg tablet orally, single dose
-: cephalexin — 500 mg tablet orally, single dose
-Link: https://clinicaltrials.gov/study/NCT07300670
-
-SUMMARY:
-
-
 ## NCT05642819
 Routine Evaluation of People Living With Cancer - Surgery
 

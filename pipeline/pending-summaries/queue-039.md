@@ -5215,15 +5215,6 @@ Link: https://clinicaltrials.gov/study/NCT07347600
 SUMMARY:
 
 
-## NCT04485871
-White Adipose Tissue LDL Receptors and Omega-3 as Modulators of the Risk for Type 2 Diabetes in Subjects With Normal Plasma LDL Cholesterol
-
-Intervention: : Omega-3 fatty acids — Triple Strength Omega-3 from Webber Naturals; 4 oral softgels (600 mg EPA and 300 mg DHA / softgel)
-Link: https://clinicaltrials.gov/study/NCT04485871
-
-SUMMARY:
-
-
 ## NCT06527248
 Effects of Dietary Nitrate From Beetroot Juice on Vascular Function and Adaptations to Exercise Training in Postmenopausal Women: a Randomized, Placebo-controlled Study
 
@@ -8707,16 +8698,6 @@ Phase 1, Randomized, Masked, Sham-Controlled Study to Assess the Safety and Tole
 Intervention: : EO2002 — Intracameral injection of a single dose of magnetic human corneal endothelial cells (EO2002) either at the time of cataract surgery or post-cataract surgery
 : Sham injection — Sham injection
 Link: https://clinicaltrials.gov/study/NCT05587205
-
-SUMMARY:
-
-
-## NCT05183763
-Supporting Tailored Adaptive Change and Reinforcement for Medication Adherence Program: Randomized Trial of a Novel Approach to Improve Adherence in Older Hypertensive Women and Men
-
-Intervention: : STAR-MAP health coaching — Interactive health coaching delivered in 11 sessions over one year; focusing on using adaptive change tactics to improve medication-taking behavior
-: Medication reminder tools — Medication-taking reminder app and pillbox
-Link: https://clinicaltrials.gov/study/NCT05183763
 
 SUMMARY:
 

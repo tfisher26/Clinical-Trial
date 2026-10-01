@@ -1066,16 +1066,6 @@ Link: https://clinicaltrials.gov/study/NCT07641621
 SUMMARY:
 
 
-## NCT04493723
-Molecular Characterisation of Serial Tumour Samples and Their Correlation With Circulating Biomarkers and Other Biospecimens Taken During the Clinical Course of Patients Receiving Treatment for Malignant Melanoma.
-
-Intervention: : Surgery — To collect tumour tissue
-: Venepuncture — To collect blood samples
-Link: https://clinicaltrials.gov/study/NCT04493723
-
-SUMMARY:
-
-
 ## NCT07701694
 Cognitive and Motor Function Examination in Patients With Urea Cycle Disorders (UCD) During a Driving Task Using Functional Near Infrared Spectroscopy (fNIRS)
 

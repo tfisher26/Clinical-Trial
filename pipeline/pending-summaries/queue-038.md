@@ -1832,17 +1832,6 @@ Link: https://clinicaltrials.gov/study/NCT06439992
 SUMMARY:
 
 
-## NCT07055477
-A Phase I Trial of Anti-CC Chemokine Receptor 4 Chimeric Antigen Receptor T Cells (CCR4 CAR T Cells) for CCR4 Expressing T-cell Malignancies Including Peripheral T-cell Non-Hodgkin Lymphoma (PTCL) and Cutaneous T-cell Non-Hodgkin Lymphoma (CTCL)
-
-Intervention: : Cyclophosphamide — Days -5 to -3: Cyclophosphamide 300 mg/m\^2 x 3 days
-: Fludarabine — Days -5 to -3: Fludarabine 30 mg/m\^2 IV daily over 30 minutes for 3 days
-: Autologous CCR4 CAR T cells — Day 0: Cells will be infused intravenously (IV) over 10-30 minutes
-Link: https://clinicaltrials.gov/study/NCT07055477
-
-SUMMARY:
-
-
 ## NCT07622914
 A Preliminary Elucidation of the Role of Dietary Fiber in Mitigating Sarcopenia Risk in Head and Neck Cancer
 
@@ -9168,15 +9157,6 @@ Link: https://clinicaltrials.gov/study/NCT07250022
 SUMMARY:
 
 
-## NCT04493996
-Increasing Preoperative Cognitive Reserve to Prevent Postoperative Delirium and Postoperative Cognitive Decline in Cardiac Surgical Patients. A Randomized Controlled Trial on Cognitive Training
-
-Intervention: : Cognitive training — The cognitive training involves a standardized, paper-and-pencil-based cognitive training that will be performed by the patients at home for approximately 40 minutes per day over a preoperative period of 2-3 weeks
-Link: https://clinicaltrials.gov/study/NCT04493996
-
-SUMMARY:
-
-
 ## NCT06190431
 Does the Coaching Function Improve the Learning of Mechanical In-exsufflation (MI-E) in Paediatric Subjects?
 
@@ -11473,15 +11453,6 @@ Link: https://clinicaltrials.gov/study/NCT07620314
 SUMMARY:
 
 
-## NCT04475354
-Mechanisms Explaining Psychological Distress In CErvical Cancer Patients and Partners (DICE): a Population-based Prospective Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04475354
-
-SUMMARY:
-
-
 ## NCT07696390
 The Effect of Virtual Reality on Vital Signs and Anxiety in Myocardial Infarction Patients Admitted to Cardiology Intensive Care Unit: A Randomized Controlled Study.
 
@@ -12725,18 +12696,6 @@ The Effects of a Probiotic on Emotional Processing, Cognition, and the Gut Micro
 Intervention: : Multi-strain probiotic — A commercially available probiotic known to support gut health and is generally well-tolerated.
 : Placebo — A microcrystalline cellulose-based capsule.
 Link: https://clinicaltrials.gov/study/NCT07590999
-
-SUMMARY:
-
-
-## NCT04494945
-Approaches to Identify and Care for Individuals With Inherited Cancer Syndromes
-
-Intervention: : Biospecimen Collection — Undergo collection of saliva sample
-: Genetic Counseling — Receive genetic counseling if testing results are positive
-: Genetic Testing — Undergo genetic testing
-: Survey Administration — Complete a survey
-Link: https://clinicaltrials.gov/study/NCT04494945
 
 SUMMARY:
 
@@ -15987,17 +15946,6 @@ Intervention: : JS001 — JS001 240mg, ivdrip, d1, Q3w
 : Cisplatin — Cisplatin 75mg/m2, ivdrip,d1,Q3w
 : Carboplatin — Carboplatin AUC 5,d1,Q3w
 Link: https://clinicaltrials.gov/study/NCT05173246
-
-SUMMARY:
-
-
-## NCT07244913
-Therapeutic Effects of Instrument-assisted Versus Sound-assisted Soft Tissue Mobilization Among Patients With Chronic Non-specific Low Back Pain
-
-Intervention: : SASTM — The therapist will apply sound instrument-assisted soft tissue mobilization (SASTM) with a convex plastic (Ceramic) tool (Beer JA, 2019).
-: IASTM — The IASTM technique contains a protocol for treatment that contains five components: i. Examination, ii. warm-up exercises 5 min iii. IASTM treatment (e.g., 30-60 seconds per session), iv. Post treatment stretching and strengthening, v. Icing (only when sub-acute inflammation is of concern).
-: Exercise — In conventional therapy, patients will be given an exercise program that will be targeted to low back muscles. This will be include three type of exercise focusing on stretching, strengthening and postural correction exercise.(Yana et al., 2024)
-Link: https://clinicaltrials.gov/study/NCT07244913
 
 SUMMARY:
 

@@ -9209,17 +9209,6 @@ Link: https://clinicaltrials.gov/study/NCT05522881
 SUMMARY:
 
 
-## NCT04494503
-A Phase Ib/II Study of the Safety, Pharmacokinetic, Pharmacodynamic and Efficacy of APG-2575 Single Agent and in Combination With Other Therapeutic Agents in Patients With Relapsed/Refractory CLL/SLL
-
-Intervention: : APG-2575 — APG-2575 orally once daily, every 28 days as a cycle.
-: Rituximab — Rituximab 375mg/m2 ivgtt on C1D8 and 500mg/m2 ivgtt on C2-6D1.
-: Ibrutinib — Ibrutinib 420mg orally once daily during C1D8-28 and following cycles.
-Link: https://clinicaltrials.gov/study/NCT04494503
-
-SUMMARY:
-
-
 ## NCT07652892
 IIBSP-MAS-2025-133
 
@@ -9701,15 +9690,6 @@ Intervention: : Trio Whole Genome Sequencing and Participant-Specific Research �
 
 Additional evaluation may include: functional assessments, animal modeling, reverse phenotyping (may require an interim visit), epigenetic profiling, or clinical database matching through selective sharing of coded patient data with external collaborators (e.g., via Matchmaker Exchange and Phenome Central), long read genome sequencing, de novo genome assembly, RNA sequencing, and novel bioinformatics analyses
 Link: https://clinicaltrials.gov/study/NCT04586075
-
-SUMMARY:
-
-
-## NCT06894277
-An Interactive Education Program to Reduce High Risk Behavior in Adolescents Ph II
-
-Intervention: : iTRAC-HERO — iTRAC-HERO will consist of eight, approximately 45-minute, "gamified" digital modules of 4-6 activities (games, videos, etc.). No instruction is needed to use the program. Content will use gender- and sexuality-inclusive language and avoid heteronormative descriptions of risk. This content will include strategies for (and practice with) recognizing and managing emotions, particularly in relation to sexual health situations, to enhance the likelihood that the emotion regulation and sexual health education provided can be applied to experiences that are emotionally arousing and lead to risk.
-Link: https://clinicaltrials.gov/study/NCT06894277
 
 SUMMARY:
 

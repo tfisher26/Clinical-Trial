@@ -1258,15 +1258,6 @@ Link: https://clinicaltrials.gov/study/NCT06417502
 SUMMARY:
 
 
-## NCT07554664
-Central Sensitization, Work-Related Stress, and Musculoskeletal Symptoms in Desk-Based Workers With and Without Migraine: A Cross-Sectional Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07554664
-
-SUMMARY:
-
-
 ## NCT05248763
 Taiwan Cancer Moonshot Project: 1. Next-generation Pathway of Taiwan Cancer Precision Medicine (Subjective Aim 1- Taiwan Cancer Moonshot Project); 2. Development of Novel Treatments for Major Diseases (Subproject 5 - Multiomic Big Data-based Intelligent Navigation System for Precision Oncology)
 

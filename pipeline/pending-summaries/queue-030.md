@@ -1472,15 +1472,6 @@ Link: https://clinicaltrials.gov/study/NCT06247150
 SUMMARY:
 
 
-## NCT04494048
-Endoscopic Bariatric Therapies (EBTs): A Retrospective and Prospective Multicenter Registry
-
-Intervention: : Endoscopic Bariatric Therapies — Participation in this study will allow for data collection through medical chart review for at least 6 standard of care visits up to 1 year after consenting to participate in this registry study. The exposure of interest is total body weight loss, safety and efficacy
-Link: https://clinicaltrials.gov/study/NCT04494048
-
-SUMMARY:
-
-
 ## NCT04776941
 COVID-19: A Virtual Feasibility Study to Manage Stress
 

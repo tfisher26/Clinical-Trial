@@ -5303,14 +5303,6 @@ Link: https://clinicaltrials.gov/study/NCT07541092
 
 SUMMARY:
 
-## NCT07541274
-The Relationship of Quadriceps Muscle Echogenicity and Thickness Change During Isometric Contraction With Pain, Function, Quality of Life, and Patient Global Assessment in Knee Osteoarthritis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07541274
-
-SUMMARY:
-
 ## NCT07541391
 A Phase I Study of Autologous Chimeric Antigen Receptor (CAR) T-cells Targeting the Kappa Myeloma Antigen (KMA) in Kappa Restricted Multiple Myeloma Patients With Relapsed/Refractory Disease
 
@@ -16256,14 +16248,6 @@ Link: https://clinicaltrials.gov/study/NCT07724405
 
 SUMMARY:
 
-## NCT07724483
-Ultrasonographic Evaluation and Pedobarographic Correlation of Lower Extremity Muscles in Lipedema Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07724483
-
-SUMMARY:
-
 ## NCT07724873
 A Phase I/II Trial to Assess Safety and Activity of Standardized Withaferin A as GvHD Prophylaxis in Patients Undergoing Matched Related Donor Hematopoietic Stem Cell Transplant
 
@@ -17814,14 +17798,6 @@ The Effect of a Nurse-Led Needs-Based Dialysis Self-Management Program on Dialys
 Intervention: : Nurse-Led Needs-Based Dialysis Self-Management Program — The intervention is a structured 6-week nurse-led needs-based dialysis self-management program. It will be delivered through weekly face-to-face individual sessions lasting approximately 40 to 45 minutes. The program includes standard core education and needs-based individualized counseling. The content focuses on the hemodialysis process and individual needs assessment, fluid management and interdialytic weight control, diet and potassium/phosphorus management, medication adherence and treatment continuity, symptom and distress management, coping with treatment uncertainty, and development of a sustainable dialysis self-management plan. Intervention fidelity will be monitored using a standardized session checklist.
 : Routine Hemodialysis Care — Participants will continue to receive routine hemodialysis care. No additional structured education or counseling program will be provided by the research team during the study period.
 Link: https://clinicaltrials.gov/study/NCT07747012
-
-SUMMARY:
-
-## NCT07747259
-Comparison of Core Stability, Body Awareness, Pelvic Health, Sleep, and Quality of Life in Physically Active Women With and Without Polyendocrine Metabolic Ovarian Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07747259
 
 SUMMARY:
 

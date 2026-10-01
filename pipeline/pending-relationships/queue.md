@@ -102423,3 +102423,44 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05936619
+MindEx: A Novel, Multifocal, Cognitive Brain-Machine Interface System
+Conditions: neurological/brain_stem_infarctions, neurological/quadriplegia, other/facial_paralysis
+
+Inclusion criteria:
+"""
+* Paralysis resulting from cervical spinal cord injury (SCI), brainstem stroke (ischemic or hemorrhagic), or amyotrophic lateral sclerosis (ALS)
+* Provide informed consent
+* Understand and comply with instructions, if necessary, with the aid of a translator
+* Communicate via speech or other means
+* Surgical clearance
+* Life expectancy greater than 12 months
+* Travel to study locations up to five days per week for the duration of the study
+* Caregiver monitor for surgical site complications and behavioral changes on a daily basis
+* Psychosocial support system
+* Stable ventilator status
+"""
+
+RELATIONSHIP:
+
+## NCT06224309
+A Phase 2 Study to Evaluate the in Vivo Biodistribution, Radiation Dosimetry and a Preliminary Assessment of the Diagnostic Performance of [18F]BL40
+Conditions: cancer/leukemia_lymphocytic_chronic_b_cell, cancer/lymphoma_large_b_cell_diffuse, cancer/lymphoma_mantle_cell, cardiovascular/multiple_myeloma, immune/waldenstrom_macroglobulinemia
+
+Inclusion criteria:
+"""
+1. Age ≥19 years
+2. Life expectancy ≥3 months
+3. Eastern Cooperative Oncology Group (ECOG) performance status 0-2
+4. Participants with newly diagnosed or documented recurrent malignancy with one of the following cancers:
+
+   * Diffuse large B-Cell lymphoma
+   * Multiple myeloma
+   * Mantle cell lymphoma
+   * Marginal zone lymphoma
+   * Chronic lymphocytic leukemia/small cell lymphoma
+   * Waldenström Macroglobulinemia
+"""
+
+RELATIONSHIP:
+

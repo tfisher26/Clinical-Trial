@@ -176,15 +176,6 @@ Link: https://clinicaltrials.gov/study/NCT07354295
 SUMMARY:
 
 
-## NCT07559721
-Risk Factors and Development of a Predictive Model for Stone-Associated Inflammatory Ureteral Polyps: A Retrospective Cohort Study With Prospective Validation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07559721
-
-SUMMARY:
-
-
 ## NCT06423508
 PRObing The Efficacy of Commercial Stage Storage Buffers and Evaluating Gut Metaproteome Variability Between Individuals
 

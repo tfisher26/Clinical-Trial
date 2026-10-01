@@ -1365,15 +1365,6 @@ Link: https://clinicaltrials.gov/study/NCT06769776
 
 SUMMARY:
 
-## NCT06769880
-Combating Health Disparities Using Bedside Imaging and Community Health Workers for Early Screening and Referral of Pre-symptomatic Stage B Heart Failure in the Emergency Department
-
-Intervention: : Ultrasound and Educational Intervention — This will include the educational intervention combined with a point-of-care ultrasound
-: Educational Intervention Alone — This will include only the educational intervention (without ultrasound)
-Link: https://clinicaltrials.gov/study/NCT06769880
-
-SUMMARY:
-
 ## NCT06770049
 Phenotype-Tailored Lifestyle Intervention for Obesity: A Randomized Trial
 
@@ -5406,14 +5397,6 @@ Optimal Timing of Routine Cervical Length Measurements During Anatomy Survey
 Intervention: : Cervical Length Measurement at the Beginning of the Anatomy Survey — This intervention involves performing a transvaginal ultrasound to measure cervical length at the beginning of the fetal anatomy survey. The procedure includes using both grayscale and sepia-filtered imaging to evaluate adherence to the nine CLEAR criteria for accurate cervical length assessment.
 : Cervical Length Measurement at the End of the Anatomy Survey — This intervention involves performing a transvaginal ultrasound to measure cervical length at the end of the fetal anatomy survey. The procedure includes using both grayscale and sepia-filtered imaging to evaluate adherence to the nine CLEAR criteria for accurate cervical length assessment.
 Link: https://clinicaltrials.gov/study/NCT06822647
-
-SUMMARY:
-
-## NCT06822790
-A Phase 3 Open-Label Extension Study to Evaluate the Long-Term Safety and Efficacy of Plozasiran in Adults With Hypertriglyceridemia (SHASTA-10 Study)
-
-Intervention: : Plozasiran Injection — ARO-APOC3 injection
-Link: https://clinicaltrials.gov/study/NCT06822790
 
 SUMMARY:
 
@@ -15922,16 +15905,6 @@ Longitudinal Screening for Financial Hardship to Improve Outcomes in Patients Wi
 Intervention: : Financial Hardship Screening — Financial Hardship Screening and Financial Needs Assessment
 : Enhanced Usual Care — Enhanced Usual Care
 Link: https://clinicaltrials.gov/study/NCT06963723
-
-SUMMARY:
-
-## NCT06963736
-WatchWell: Simple and Practical Strategies to Reduce the Negative Health Impact of Sedentary Screen Time
-
-Intervention: : Blue light — Blue light blocking glasses use and discouraged late night eating.
-: Eating — Encouraged not to eat past 8pm.
-: Standing — Encouraged to stand for 10 minutes per hour each out from 5pm to bed time.
-Link: https://clinicaltrials.gov/study/NCT06963736
 
 SUMMARY:
 

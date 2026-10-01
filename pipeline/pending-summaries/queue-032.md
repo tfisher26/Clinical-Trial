@@ -604,15 +604,6 @@ Link: https://clinicaltrials.gov/study/NCT06553625
 SUMMARY:
 
 
-## NCT07732179
-Aromatherapy and Music Impact on Nurses' Stress at Work
-
-Intervention: : lavender-chamomile aromatherapy oil and music — There is only one experimental arm in this study. All participants will self-administer aromatherapy oil while listening to music during their scheduled 20-minute rest break during work hours.
-Link: https://clinicaltrials.gov/study/NCT07732179
-
-SUMMARY:
-
-
 ## NCT06605378
 A Cross-Sectional, Observational Study of the Prevalence of Adenoviral-Specific Antibodies and Inflammatory Cytokines in Participants With Chronic Granulomatous Disease
 
@@ -5754,15 +5745,6 @@ Link: https://clinicaltrials.gov/study/NCT06987266
 SUMMARY:
 
 
-## NCT00557726
-Diagnosis and Management of Inflammatory and Infectious Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00557726
-
-SUMMARY:
-
-
 ## NCT05434026
 Chinese Colorectal Cancer Database
 
@@ -5813,15 +5795,6 @@ A Phase II Randomized Controlled Clinical Study on the Efficacy and Safety Evalu
 Intervention: : Conventional Radiotherapy (CRT) — The conventional radiotherapy group, that is, the control group, administering conventional external beam radiotherapy with a dose of 30 Gy in 10 fractions to the bone metastasis lesions.
 : SCART (Stereotactic Central Ablative Radiation Therapy ) /SFRT（Spatially Fractionated Radiation Therapy ） — Stereotactic Central Ablative Radiotherapy (SCART): When using SCART to treat bone metastases with associated soft tissue components, the gross tumor volume (GTV) of the bone metastases must be accurately delineated according to the guidelines. The GTV are contracted to derive the SCART-Treatment Volume (STV). An initial dose of 8-12 Gy in a single fraction is delivered to the STV, followed by a dose of 25-40 Gy in 5 fractions to the clinical target volume (CTV). Spatially Fractionated Radiation Therapy (SFRT): The GTV are reduced to form a "LATTICE" target area. Several vertices are uniformly contoured along the edges of the "LATTICE." A dose of 8-12 Gy in a single fraction is delivered to the vertices, followed by a dose of 25-40 Gy in 5 fractions to the CTV.
 Link: https://clinicaltrials.gov/study/NCT06987370
-
-SUMMARY:
-
-
-## NCT04307901
-Safety Of ColoRectal Assessment and Tumor Evaluation by Colon Capsule Endoscopy
-
-Intervention: : Colon capsule endoscopy — Endoscopy performed using PillCam2 camera capsule for oral ingestion
-Link: https://clinicaltrials.gov/study/NCT04307901
 
 SUMMARY:
 

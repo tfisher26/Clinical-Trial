@@ -677,15 +677,6 @@ Link: https://clinicaltrials.gov/study/NCT06509230
 SUMMARY:
 
 
-## NCT04495790
-Advanced Integrative Oncology Treatment for Adult and Pediatric Patients With Cancer: A Prospective Outcomes Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04495790
-
-SUMMARY:
-
-
 ## NCT06084013
 Assessing the Role of Intraoperative Indocyanine Green Perfusion of the Transected Pancreas in Predicting Postoperative Pancreatic Leaks
 

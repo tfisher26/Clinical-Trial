@@ -121,15 +121,6 @@ Link: https://clinicaltrials.gov/study/NCT06021483
 SUMMARY:
 
 
-## NCT02356497
-Prospective Evaluation of Interventional Studies on Bone Metastases - the PRESENT Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02356497
-
-SUMMARY:
-
-
 ## NCT04865315
 HiLoGlio Organoid Study: 'A Living Tissue Bank of Patient-Derived Organoids From Glioma Tumors'
 
@@ -139,29 +130,11 @@ Link: https://clinicaltrials.gov/study/NCT04865315
 SUMMARY:
 
 
-## NCT01429727
-The "Virtual" Multicenter Spontaneous Coronary Artery Dissection (SCAD) Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01429727
-
-SUMMARY:
-
-
 ## NCT06305468
 Prognosis of Disseminated and Cerebral Toxoplasmosis Hospitalized in Intensive Care in the Era of PCR Diagnosis - Toxoplasmosis in ICU (TOXIC)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06305468
-
-SUMMARY:
-
-
-## NCT02879123
-Assessment of Patients' Early Neurological Clinical Recovery, 3 Months After Endovascular Treatment of an Acute Ischemic Stroke
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02879123
 
 SUMMARY:
 
@@ -184,38 +157,11 @@ Link: https://clinicaltrials.gov/study/NCT07201038
 SUMMARY:
 
 
-## NCT01487603
-Feasibility of Evaluating Gene Alteration Analysis Using Samples Obtained by EBUS-TBNA in Patients With Lung Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01487603
-
-SUMMARY:
-
-
-## NCT04263935
-Correlation Between Driver Gene Abnormalities and Clinicopathological Characteristics and Disease Prognosis in Lymphoma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04263935
-
-SUMMARY:
-
-
 ## NCT06768398
 AI-Based Intima-Media Thickness Measurement for Cardiovascular Risk Assessment
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06768398
-
-SUMMARY:
-
-
-## NCT03137355
-The International Registry for Leigh Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03137355
 
 SUMMARY:
 
@@ -244,16 +190,6 @@ A Phase 1, Randomized, Blinded, Placebo-Controlled, Single Ascending Dose Study 
 Intervention: : BIIB144 — Administered IV
 : Placebo — Administered IV
 Link: https://clinicaltrials.gov/study/NCT07662148
-
-SUMMARY:
-
-
-## NCT04281979
-An MRI Study of Neural Activity Following Exposure to a Specific Substance in Young Cigarette Smokers
-
-Intervention: : Study Agent — The study agent will be administered via beverages and/or a capsule. The substances used in the study are legal, non-prescription, and are proven safe for human consumption at the doses used. The study agent may be a depressant (such as alcohol), a stimulant (such as caffeine), or an analgesic (such as aspirin).
-: Placebo — In the placebo conditions participants will consume beverages and capsules that contain no or very small quantities of the study agent.
-Link: https://clinicaltrials.gov/study/NCT04281979
 
 SUMMARY:
 
@@ -477,15 +413,6 @@ Link: https://clinicaltrials.gov/study/NCT07321769
 SUMMARY:
 
 
-## NCT00900198
-Tissue Procurement Protocol for the Developmental Therapeutics Clinic, National Cancer Institute (NCI)
-
-Intervention: : Biopsy — Tissue samples will be collected for research purposes from non-surgical procedures, such percutaneous biopsies for the sole purpose of obtaining specimens or biological fluids for the protocol.
-Link: https://clinicaltrials.gov/study/NCT00900198
-
-SUMMARY:
-
-
 ## NCT05358574
 Post-market Clinical Follow-up Study to Provide Safety, Performance and Clinical Benefits Data of the Anatomical Shoulderᵀᴹ Bipolar System (Implants and Instrumentation) - A Retrospective and Prospective Consecutive Series Study
 
@@ -501,33 +428,6 @@ A Phase Ia Single Center, Randomized, Double-blind, Placebo-controlled Study Eva
 Intervention: : HC022 — Administered as specified in the treatment arm
 : Placebo — Administered as specified in the treatment arm
 Link: https://clinicaltrials.gov/study/NCT06657703
-
-SUMMARY:
-
-
-## NCT02333604
-Cancer Experience Registry: An Online Survey Research Study to Understand the Experiences of Cancer Patients and Caregivers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02333604
-
-SUMMARY:
-
-
-## NCT01630447
-Identification of Mutations That Lead to Cherubism in Families and Isolated Cases and Studies of Cellular and Molecular Mechanisms
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01630447
-
-SUMMARY:
-
-
-## NCT04240522
-Prospective Longitudinal Observational Research Study to Investigate the Remission of Atopic Dermatitis and Associated Allergic Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04240522
 
 SUMMARY:
 
@@ -550,29 +450,11 @@ Link: https://clinicaltrials.gov/study/NCT07004868
 SUMMARY:
 
 
-## NCT03813862
-OPERA Longitudinal Observational Database in the Study of Chronic Diseases, Treatments and Outcomes
-
-Intervention: : Non-interventional (observational only)
-Link: https://clinicaltrials.gov/study/NCT03813862
-
-SUMMARY:
-
-
 ## NCT07582562
 A Prospective Study to Assess Risk Factors for Hypoparathyroidism Following Thyroidectomy
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07582562
-
-SUMMARY:
-
-
-## NCT03058185
-Observatoire Des Patients Atteints de Laminopathies et Emerinopathies (Observatory for PAtients With Laminopathies and Emerinopathies)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03058185
 
 SUMMARY:
 
@@ -652,15 +534,6 @@ Link: https://clinicaltrials.gov/study/NCT07668297
 SUMMARY:
 
 
-## NCT04186078
-Clinical Characteristics of Patients With Sleep Apnea in Korea: a Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04186078
-
-SUMMARY:
-
-
 ## NCT07273708
 Identification of an Immune Single Cell Transcriptomic Profile of Responder and Non-responder Hepatocellular Carcinoma Patients Treated With Immune-checkpoint Inhibitors
 
@@ -684,15 +557,6 @@ National Systemic Lupus Erythematosus Prospective Cohort, Saudi Arabia
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04604990
-
-SUMMARY:
-
-
-## NCT00733590
-Prospective Observational Study of the ICD in Sudden Cardiac Death Prevention (PROSe-ICD)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00733590
 
 SUMMARY:
 

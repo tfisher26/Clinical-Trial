@@ -3168,15 +3168,6 @@ Link: https://clinicaltrials.gov/study/NCT07267221
 SUMMARY:
 
 
-## NCT04459806
-Evaluation of Intracranial Pressure Time Dose by the New Integra CereLink ICP Monitor
-
-Intervention: : intracranial pressure monitoring — Invasive monitoring of intracranial pressure by using CereLink monitor.
-Link: https://clinicaltrials.gov/study/NCT04459806
-
-SUMMARY:
-
-
 ## NCT07257913
 Impact of Dairy Integration Into Canadian Food Guide on Gut Health
 
@@ -3486,15 +3477,6 @@ Prostate Cancer REsearch Using Cross-validation of Innovative Sampling, Integrat
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07344363
-
-SUMMARY:
-
-
-## NCT04464122
-Rediscovering Biomarkers for the Diagnosis and Early Treatment Response in NEN. REBORN Study
-
-Intervention: : Somatostatin analog; chemotherapy — According to current ENETS guidelines, patients will be treated by somatostatin analogs or chemotherapy, recommended respectively as first line therapy in neuroendocrine tumours or neuroendocrine neoplasms.
-Link: https://clinicaltrials.gov/study/NCT04464122
 
 SUMMARY:
 
@@ -4086,15 +4068,6 @@ Link: https://clinicaltrials.gov/study/NCT07578064
 SUMMARY:
 
 
-## NCT03886584
-Source Monitoring Déficit in Neuropsychiatric Population
-
-Intervention: : Monitoring source test — Internal- and external-monitoring correct responses and inversions
-Link: https://clinicaltrials.gov/study/NCT03886584
-
-SUMMARY:
-
-
 ## NCT06586892
 Quantitative Imaging Biomarker Prospective Validation of Dynamic Contrast-enhanced MRI as a Metric of Orodental Injury After Radiotherapy (QI-ProVE-MRI)
 
@@ -4139,15 +4112,6 @@ Intervention: : Vaxigrip — Influenza vaccination for 1 interventional group an
 : antibiotic treatments — The patient will get standard care for pneumonia therapy
 : percutaneus coronary intervention — patient will get percutaneus coronary intervention
 Link: https://clinicaltrials.gov/study/NCT07604103
-
-SUMMARY:
-
-
-## NCT03014427
-Development of a Biological Database in the Field of Operative Intensive Care for the Recording of Clinically Relevant Parameters of Critically Ill Intensive Patients
-
-Intervention: : Biological Database — Biological Database
-Link: https://clinicaltrials.gov/study/NCT03014427
 
 SUMMARY:
 
@@ -4205,15 +4169,6 @@ Post-Authorization Safety Study for Assessment of Pregnancy Outcomes in Patients
 
 Intervention: : Siponimod — Prospective observational cohort study. There is no treatment allocation. Patients administered siponimod, that have started before inclusion of the patient into the study will be enrolled.
 Link: https://clinicaltrials.gov/study/NCT04933552
-
-SUMMARY:
-
-
-## NCT04160507
-Duke APOL1 Research Biorepository
-
-Intervention: : Biorepository — To collect and store biological samples (whole blood and urine), along with relevant medical information, from adult inpatients and outpatients. Buffy coats will also be received from H3Africa Kidney Disease Research Network.
-Link: https://clinicaltrials.gov/study/NCT04160507
 
 SUMMARY:
 
@@ -4289,15 +4244,6 @@ Rule of THUMB: A Multi-centre Cluster Trial Evaluating the Implementation of a P
 
 Intervention: : Quality improvement program — The intervention comprises two mandatory risk assessments (preoperatively in theatre and postoperatively prior to discharge from the recovery area) which are linked to hospital-specific responses. Assessments for bleeding will occur intraoperatively (through direct vision, haemodynamic changes and/or measurement of blood loss) and postoperatively (with the use of the rapid assessment tool). If bleeding is diagnosed at any point, the THUMB checklist will be used to activate bundled care. On discharge from recovery, high-risk patients will be scheduled to receive a postoperative ward visit within four hours, when a further assessment for bleeding will occur.
 Link: https://clinicaltrials.gov/study/NCT07005349
-
-SUMMARY:
-
-
-## NCT03267615
-VICIS - Vienna Cirrhosis Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03267615
 
 SUMMARY:
 
@@ -4962,16 +4908,6 @@ Prospective, Multicenter, Open and Non-interference Observational Clinical Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06252792
-
-SUMMARY:
-
-
-## NCT07037966
-Truly Portable MRI for Extremity and Brain Imaging Anywhere & Everywhere
-
-Intervention: : MRI — Standard 3T MRI Scan
-: MRI — Low-field MRI scan using the NextMRI prototype
-Link: https://clinicaltrials.gov/study/NCT07037966
 
 SUMMARY:
 
@@ -6088,15 +6024,6 @@ Intervention: : Biospecimen Collection — Undergo collection of a cervical samp
 : Human Papillomavirus Test — Undergo HPV testing of self-collected vaginal samples and cervical samples
 : Questionnaire Administration — Ancillary studies
 Link: https://clinicaltrials.gov/study/NCT07281430
-
-SUMMARY:
-
-
-## NCT04494776
-Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-COV-2) Infection (COVID-19) in Kidney Transplant Recipients: a Brazilian Multicenter Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04494776
 
 SUMMARY:
 
