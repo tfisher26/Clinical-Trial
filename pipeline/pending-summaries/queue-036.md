@@ -8926,18 +8926,6 @@ Link: https://clinicaltrials.gov/study/NCT07676305
 SUMMARY:
 
 
-## NCT06519773
-Modified Periosteal Inhibition Utilizing Bone Graft Versus Collagen Sponge with Simultaneous Implant Placement in Aesthetic Zone
-
-Intervention: : Modified periosteal inhibition — After local anathesia, a traumatic extraction of the hopeless tooth will be made trying as much as possible to preserve the labial plate of bone and overlying soft tissue.
-
-* Once the tooth is extracted, the socket is gently debrided and irrigated using sterile saline solution. Then the dental implant is placed in the best prosthetic driven position, following the guidelines for immediate implants using prefabricated computer guided surgical template.
-* After accurate implant placement, a full-thickness flap will be elevated at mesial and distal papilla making a buccal envelope. A soft bone lamina will be trimmed and hydrated in sterile saline solution for 30 s to soften it; it should be 1-2 mm larger and deeper than the vestibular bone. Then the jumping gap between the dental implant and the buccal plate of bone will be filled using either collagen sponge or xenograft.
-Link: https://clinicaltrials.gov/study/NCT06519773
-
-SUMMARY:
-
-
 ## NCT07377370
 Patient-Related Factors Influencing Postoperative Pain After Gingival Graft Harvesting From the Palate: A Prospective Study
 
@@ -9494,15 +9482,6 @@ Link: https://clinicaltrials.gov/study/NCT07335510
 SUMMARY:
 
 
-## NCT06479876
-Home-Based Cardiac Rehabilitation Using Mobile Health Tools for Patients With Heart Failure (MOBILE HEART): A Randomized Controlled Trial
-
-Intervention: : HBCR — Home-based cardiac rehabilitation intervention facilitated by a custom app to deliver education, counseling on healthy living and modification of risk factors, mindfulness, and physical activity guidance. Additionally, there are periodic video calls with an exercise physiologist.
-Link: https://clinicaltrials.gov/study/NCT06479876
-
-SUMMARY:
-
-
 ## NCT07248553
 The Effect of Levonorgestrel-Containing Intrauterine Device (LNG-IUD) Insertion Timing on Ovarian Cyst Development According to the Early and Late Follicular and Luteal Phases
 
@@ -9684,15 +9663,6 @@ Necessity of Fusion Following Decompression Surgery in Patients With Single-leve
 Intervention: : decompression — laminotomy of the corresponding adjacent vertebrae, partial flavectomy and medial facetectomy are planned to be performed unilaterally. Depending on the surgeon's personal preferences, the following two options are available: 1) equivalent decompression procedure contralaterally and 2) crossover contralateral decompression. Irrespective of the selected option, the spinous process, the interspinous and supraspinous ligaments, part of the facet joints, and the corresponding part of the vertebral arch must be preserved intact in all participants.
 : fusion — First, decompression is performed according to one of the above methods. Next, trans-foraminal interbody fusion with a cage (TLIF) and fixation with pedicle screws are performed.
 Link: https://clinicaltrials.gov/study/NCT05273879
-
-SUMMARY:
-
-
-## NCT06880640
-Affect-based Impulsivity in Borderline Personality Disorder: Developing a Neurocomputational Phenotype
-
-Intervention: : Stress Induction — Participants will complete the Trier Social Stress Test to induce stress, which includes a public speaking simulation and mental arithmetic.
-Link: https://clinicaltrials.gov/study/NCT06880640
 
 SUMMARY:
 

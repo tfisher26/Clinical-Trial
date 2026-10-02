@@ -7795,15 +7795,6 @@ Link: https://clinicaltrials.gov/study/NCT06184035
 SUMMARY:
 
 
-## NCT06596694
-A Phase 1/2 Study to Evaluate the Safety and Efficacy of Patritumab Deruxtecan in Gastrointestinal Cancers
-
-Intervention: : Patritumab deruxtecan — Administered via intravenous (IV) infusion
-Link: https://clinicaltrials.gov/study/NCT06596694
-
-SUMMARY:
-
-
 ## NCT06829524
 A Real-World Practical Model of Integrated Management for Chinese Patients With Neuromyelitis Optica Spectrum Disorder (NMOSD) on Satralizumab
 
@@ -13691,16 +13682,6 @@ Link: https://clinicaltrials.gov/study/NCT07504341
 SUMMARY:
 
 
-## NCT06975722
-A Phase 2b, Multi-national, Multi-center, Randomized, Double-blind, Placebo-controlled, Dose-ranging Study Followed by a Long-term Extension to Evaluate the Efficacy and Safety of SAR442970 in Adult Participants With Moderate to Severe Ulcerative Colitis
-
-Intervention: : SAR442970 — Route of administration: Subcutaneous
-: Placebo — Route of administration: Subcutaneous
-Link: https://clinicaltrials.gov/study/NCT06975722
-
-SUMMARY:
-
-
 ## NCT07057596
 Neoadjuvant Tebentafusp in Patients With Metastatic Uveal Melanoma
 
@@ -14333,15 +14314,6 @@ A Multicenter, Double-Blind, Randomized Study to Evaluate the Effects of Tasimel
 Intervention: : Tasimelteon Oral Suspension — Single daily dose, weight-based liquid suspension formulation.
 : Placebo — Placebo comparator.
 Link: https://clinicaltrials.gov/study/NCT06953869
-
-SUMMARY:
-
-
-## NCT07680413
-Real-world Evaluation of the Effectiveness of Immunoglobulin-Histamine Complex; IHC (Histoglob) in the Management of Chronic Urticaria: A Prospective, Multicenter, Observational Study.
-
-Intervention: : Antihistaminics, H2 blockers, Leukotriene antagonists, Immunoglobulin/Histamine Complex (IHC) Injection — Histaglobulin prefilled syringe is administered subcutaneously as a single 1mL dose.
-Link: https://clinicaltrials.gov/study/NCT07680413
 
 SUMMARY:
 

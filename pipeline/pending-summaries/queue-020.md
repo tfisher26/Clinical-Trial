@@ -2478,15 +2478,6 @@ Link: https://clinicaltrials.gov/study/NCT06896331
 SUMMARY:
 
 
-## NCT06744283
-The Experience and Management of Cancer Screening-Related Anxiety in Fanconi Anemia: an Ethnographic Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06744283
-
-SUMMARY:
-
-
 ## NCT06623799
 Impact of Help-Seeking Behaviors on Allergic Rhinitis, Asthma Control, and Mental Health: A Retrospective and Longitudinal Analysis of Allergy Medication Use
 
@@ -3166,15 +3157,6 @@ Rapid Effects of a Biofield Patch on Antioxidant Status and Cellular Energy
 Intervention: : Active dermal patch — Non-transdermal patch
 : Placebo dermal patch — Non-transdermal patch
 Link: https://clinicaltrials.gov/study/NCT07314359
-
-SUMMARY:
-
-
-## NCT06034990
-ICU Fluid Utilization Survey in Southeast Asia
-
-Intervention: : 10-min online survey — This is a cross-sectional study. The data are collected by a 10-min online survey administered to included physicians which will be distributed via online channels such as such as official website or Facebook pages of Society of intensive care or Society of nephrology of corresponding countries.
-Link: https://clinicaltrials.gov/study/NCT06034990
 
 SUMMARY:
 

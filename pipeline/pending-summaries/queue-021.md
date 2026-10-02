@@ -447,15 +447,6 @@ Link: https://clinicaltrials.gov/study/NCT07677072
 SUMMARY:
 
 
-## NCT04496973
-University of Delaware Participant Recruitment Registry for Parkinson's Disease Research
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04496973
-
-SUMMARY:
-
-
 ## NCT07129174
 Association Between Changes in Pulmonary Microbiota and Clinical Outcomes in Neurosurgical ICU Patients With Artificial Airways: A Prospective Observational Cohort Study
 

@@ -2108,16 +2108,6 @@ Link: https://clinicaltrials.gov/study/NCT07346092
 SUMMARY:
 
 
-## NCT04720456
-Noninvasive Subharmonic Aided Pressure Estimation of Portal Hypertension in Children
-
-Intervention: : SHAPE measurement using the ultrasound contrast agent Sonazoid (perfluorobutane microbubbles) — The ultrasound contrast agent will be infused thorough an IV line and SHAPE ultrasound imaging and data acquisition will be performed with a Logiq E10 (GE Medical Systems, Waukesha, WI) ultrasound scanner.
-: SHAPE measurement using the ultrasound contrast agent Lumason (sulfur hexafluoride lipid-type A microspheres) — The ultrasound contrast agent will be infused thorough an IV line and SHAPE ultrasound imaging and data acquisition will be performed with a Logiq E10 (GE Medical Systems, Waukesha, WI) ultrasound scanner.
-Link: https://clinicaltrials.gov/study/NCT04720456
-
-SUMMARY:
-
-
 ## NCT05692973
 The Role of Knowledge Retrieval in Inference-making Among Struggling Readers
 

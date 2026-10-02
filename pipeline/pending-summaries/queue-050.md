@@ -15637,15 +15637,6 @@ Link: https://clinicaltrials.gov/study/NCT07716813
 
 SUMMARY:
 
-## NCT07716891
-Effect of Pre-injection of Rocuronium on Neuromuscular Blockade Onset Time and Hemodynamics During General Anesthesia Induction
-
-Intervention: : Rocuronium Bromide (Pretreatment Injection) — Low-dose rocuronium bromide is injected intravenously in advance before anesthesia induction
-: Rocuronium Bromide (Conventional Injection) — Rocuronium bromide is administered by standard routine intravenous injection during anesthesia induction
-Link: https://clinicaltrials.gov/study/NCT07716891
-
-SUMMARY:
-
 ## NCT07716969
 Duration of Untreated Psychosis Revisited - Testing the Effect of Early Detection Services on the Duration of Untreated Psychosis. the TOPUS Study
 

@@ -3504,15 +3504,6 @@ Link: https://clinicaltrials.gov/study/NCT06120907
 SUMMARY:
 
 
-## NCT07093203
-Pharmacokinetic of Rezafungin in the Plasma and the Peritoneal Fluid of Critically Ill Patients With Intra-abdominal Candidiasis Requiring Abdominal Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07093203
-
-SUMMARY:
-
-
 ## NCT06500403
 Noninvasive Tools for the Diagnosis of Porto-sinusoidal Vascular Disease: a Single-center, Prospective, Cohort Study
 

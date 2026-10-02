@@ -976,16 +976,6 @@ Link: https://clinicaltrials.gov/study/NCT05213598
 SUMMARY:
 
 
-## NCT07507604
-The Influence of Contextual Effects on Biochemical Parameters Associated With Inflammation and the Analgesic Efficacy of Spinal Joint Manipulation Therapy
-
-Intervention: : Observational Learning — A standardized pre-treatment observational learning procedure delivered through an interaction with a simulated patient presenting positive, neutral, or negative treatment-related expectations and recovery behavior.
-: Spinal Joint Manipulation — A standardized high-velocity, low-amplitude lumbar spinal manipulation applied after the observational learning procedure in all study arms.
-Link: https://clinicaltrials.gov/study/NCT07507604
-
-SUMMARY:
-
-
 ## NCT07702058
 The Effects of Mindfulness-Based Postpartum Discharge Education on Mothers' Maternal Role Perception and Anxiety Levels
 
@@ -2077,15 +2067,6 @@ The Young Adults' Experiences With Virtual Reality (YAES VR) Study
 Intervention: : Wendyverse VR food marketing experience — In the Wendyverse VR application ("app") participants can order from a Wendy's restaurant, play games, meet with others who may be visiting the Wendyverse, and access codes that can be used to obtain free food at physical restaurants.
 : Nikeland VR non-food marketing experience — In Nikeland VR app, participants can play sports, try on apparel, and engage with celebrity athletes.
 Link: https://clinicaltrials.gov/study/NCT06917391
-
-SUMMARY:
-
-
-## NCT06856291
-Treatment Response to Incretin Mimetics in Non-diabetic Obese Patients With and Without Insulin Resistance (TRIM-IR)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06856291
 
 SUMMARY:
 

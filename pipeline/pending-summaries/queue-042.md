@@ -1172,14 +1172,6 @@ Link: https://clinicaltrials.gov/study/NCT07508787
 
 SUMMARY:
 
-## NCT06270459
-Telerehabilitation Robotics for Upper Limb Rehabilitation After STroke (TRUST): a Study of Multi-cluster Adoption
-
-Intervention: : HMAN Robot — The HMAN is certified as a CE class 2A upper limb rehabilitation robot suitable for hospital, clinic and home-based use in 2020 by Health Sciences Authority, Singapore. It has since been employed in post-stroke neurorehabilitation therapy and assessment of sensorimotor functions in stroke patients.
-Link: https://clinicaltrials.gov/study/NCT06270459
-
-SUMMARY:
-
 ## NCT07413328
 A Phase I, Single-Arm, Open-Label, Dose-Escalation and Expansion Study of HWS116 Injection in Advanced Solid Tumors
 

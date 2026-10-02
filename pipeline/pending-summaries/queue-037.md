@@ -6265,16 +6265,6 @@ Link: https://clinicaltrials.gov/study/NCT07582926
 SUMMARY:
 
 
-## NCT04496609
-Assessment of the Efficacy and Safety of Epidural Electrical Stimulation of the Lumbosacral Spinal Cord in the Symptomatic Treatment of Motor, Vesico-sphincter and Genito-sexual Disorders in Patients With Incomplete Spinal Cord Injuries
-
-Intervention: : Stimulation and automated rehabilitation / automated rehabilitation — Stimulation and automated rehabilitation for 40 working days, then washout during 30 days, then automated rehabilitation for 40 working days
-: Automated rehabilitation / Stimulation and automated rehabilitation — Automated rehabilitation for 40 working days, then washout during 30 days, then automated rehabilitation for 40 working days
-Link: https://clinicaltrials.gov/study/NCT04496609
-
-SUMMARY:
-
-
 ## NCT05068791
 Psilocybin-facilitated Treatment for Chronic Pain
 
@@ -7460,16 +7450,6 @@ A Single Arm, Open Label, Phase 1/2 Study to Evaluate the Pharmacokinetics and S
 
 Intervention: : Etavopivat — Participants will receive oral tablets or granules of etavopivat once daily.
 Link: https://clinicaltrials.gov/study/NCT06198712
-
-SUMMARY:
-
-
-## NCT06806592
-A Double Blind, Randomised, Placebo-controlled Trial Evaluating the Efficacy and Safety of Nerandomilast Over at Least 26 Weeks in Patients With Systemic Autoimmune Rheumatic Diseases Associated Interstitial Lung Diseases (SARD-ILD)
-
-Intervention: : Nerandomilast — Nerandomilast
-: Placebo matching nerandomilast — Placebo matching nerandomilast
-Link: https://clinicaltrials.gov/study/NCT06806592
 
 SUMMARY:
 
@@ -8742,15 +8722,6 @@ Single Center Pilot Study of Remote Monitoring in Pregnant Women With Congenital
 
 Intervention: : Masimo Smart Wristband — Continuous wear of Masimo Smart Wristband
 Link: https://clinicaltrials.gov/study/NCT06818760
-
-SUMMARY:
-
-
-## NCT07313176
-A Prospective, Non-Interventional Study on the Long-term Effectiveness of Levodopa-Entacapone-Carbidopa Intestinal Gel (LECIGON®) in Patients With Parkinson's Disease Previously Treated With Subcutaneous Foslevodopa in Routine Care
-
-Intervention: : No Intervention — This is a non-interventional study.
-Link: https://clinicaltrials.gov/study/NCT07313176
 
 SUMMARY:
 

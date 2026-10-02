@@ -4790,16 +4790,6 @@ Link: https://clinicaltrials.gov/study/NCT05694208
 SUMMARY:
 
 
-## NCT05470920
-Randomized, Controlled Trial of an Electronic Decision Aid for Genetic Testing in Inherited Cancer Syndromes
-
-Intervention: : Electronic Decision Aid — Decision aid followed by an appointment with an oncologist. Will complete surveys/questionnaires
-: Pre-Test Genetic Counseling — Receive pretest counseling with a genetic counselor. Will complete surveys/questionnaires
-Link: https://clinicaltrials.gov/study/NCT05470920
-
-SUMMARY:
-
-
 ## NCT05251324
 The Cardiovascular Impact of Hot Flushes
 

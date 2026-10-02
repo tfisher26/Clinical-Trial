@@ -1220,15 +1220,6 @@ Link: https://clinicaltrials.gov/study/NCT05545605
 
 SUMMARY:
 
-## NCT05546099
-Pharmacist-guided, Patient-driven Management of High Blood Pressure in CKD: A Novel Approach
-
-Intervention: : Self-management of BP medications — Patients will be educated on how to manage their home BP based on a pre-determined protocol. They will then monitor home BP and adjust meds accordingly and under the guidance of the clinical pharmacist.
-: Self-monitoring of home BP — Patients will be educated on how to monitor home BP and will be educated to contact their primary care provider/CKD provider if the BP is above the goal.
-Link: https://clinicaltrials.gov/study/NCT05546099
-
-SUMMARY:
-
 ## NCT05546346
 Clinical Application of Wearable Magnet Tracking System for Capsule Endoscopes
 
@@ -15171,15 +15162,6 @@ Link: https://clinicaltrials.gov/study/NCT05974774
 
 SUMMARY:
 
-## NCT05975359
-A Pilot Study of the Interi Manifold With Traditional Surgical Drains in Implant-Based Breast Reconstruction
-
-Intervention: : Interi Manifold Drain System — The Interi manifold surgical drain system will be placed in the breast pocket during stage 1 immediate implant based breast reconstruction. Output of the interi drain will be monitored daily and the Interi drain will remain in the surgical site until criteria for drain removal are met. Removal of the Interi drain will be performed in clinic by surgical staff.
-: Jackson Pratt Drain System — The Jackson Pratt surgical drain system will be placed in the breast pocket during stage 1 immediate implant based breast reconstruction. Output of the Jackson Pratt drain will be monitored daily and the drain will remain in the surgical site until criteria for drain removal are met. Removal of the Jackson Pratt drain will be performed in clinic by surgical staff.
-Link: https://clinicaltrials.gov/study/NCT05975359
-
-SUMMARY:
-
 ## NCT05975372
 Blossom® Smart Expander Device for Tissue Expander/Implant-Based Breast Reconstruction
 
@@ -17216,15 +17198,6 @@ Structured Peer-delivered Antiretroviral Therapy (ART) and Reentry Community Str
 
 Intervention: : Full-SPARCS Intervention — Within 14 days of release, participants will have one-on-one contact with a facilitator to update locator information, continue rapport building, review disclosure plans, provide a reminder of SPARCS logistics, and assign or remind the participant to a SPARCS group based on their location of residence and timing of release (depending on whether this occurred pre-release). Each Full-SPARCS meeting lasts approximately 2 hours, and the sessions occur in a private space in a community venue (e.g., community centre or church).
 Link: https://clinicaltrials.gov/study/NCT06027671
-
-SUMMARY:
-
-## NCT06027788
-Embolic Protection in Patients Undergoing High-Risk Valve Surgery
-
-Intervention: : CardioGard Embolic Protection Cannula — The CardioGard embolic protection cannula is a device that combines the function of a standard aortic cannula with an added suction mechanism to capture debris that may result from cardiac surgery. The device is comprised of 2 hollow tubes. The first tube is the standard main forward-flow tube to return oxygenated blood to the patient's aorta. The second tube attached to an existing bypass vent port, is a novel element located posteriorly to the main tube; its function is to facilitate blood and particle suction by directing the blood back to the reservoir of the coronary bypass machine, while the retrieved embolic debris is eliminated through the filter of the venous reservoir.
-: Standard Aortic Cannula — An aortic cannula is a device that is used routinely during cardiac surgery to return oxygenated blood from the cardiac bypass machine into the patient's aorta.
-Link: https://clinicaltrials.gov/study/NCT06027788
 
 SUMMARY:
 

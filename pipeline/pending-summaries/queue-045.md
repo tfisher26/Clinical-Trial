@@ -1120,16 +1120,6 @@ Link: https://clinicaltrials.gov/study/NCT06097533
 
 SUMMARY:
 
-## NCT06097975
-A Phase I Clinical Trial on Combined (Neo-)Adjuvant Intravenous Plus Intracranial Administration of Ipilimumab and Nivolumab in Recurrent Glioblastoma
-
-Intervention: : Neo-adjuvant nivolumab and ipililumab IV + adjuvant nivolumab and ipililumab IV — Participants will receive neo-adjuvant administration of intravenous immunotherapy on day 1 + day 22: ipilimumab + nivolumab IV.
-: Neurosurgery and intracavitary injection nivolumab and ipililumab — The neo-adjuvant therapy will be followed by a maximal safe surgery resection of the glioblastoma. Immunotherapy (nivolumab + ipililumab) will be injected into the brain tissue, followed by insertion of an Ommaya reservoir
-: Adjuvant nivolumab IV + nivolumab and ipililumab intracavitary — Postoperatively, administration of immunotherapy will be continued, on day 15 postoperatively and every 2 weeks thereafter patients will receive nivolumab IV as well as ipililumab + nivolumab intracavitary.
-Link: https://clinicaltrials.gov/study/NCT06097975
-
-SUMMARY:
-
 ## NCT06098716
 All in the Family: Promoting Family Function Through Physical Activity
 
@@ -8784,14 +8774,6 @@ Link: https://clinicaltrials.gov/study/NCT06270316
 
 SUMMARY:
 
-## NCT06270459
-Telerehabilitation Robotics for Upper Limb Rehabilitation After STroke (TRUST): a Study of Multi-cluster Adoption
-
-Intervention: : HMAN Robot — The HMAN is certified as a CE class 2A upper limb rehabilitation robot suitable for hospital, clinic and home-based use in 2020 by Health Sciences Authority, Singapore. It has since been employed in post-stroke neurorehabilitation therapy and assessment of sensorimotor functions in stroke patients.
-Link: https://clinicaltrials.gov/study/NCT06270459
-
-SUMMARY:
-
 ## NCT06270628
 Demonstrating the (Cost-)Effectiveness of a Personalized Live-remote Exercise Intervention for Cancer Survivors Using a Super Umbrella Randomized Controlled Trial: the LION RCT
 
@@ -14309,18 +14291,6 @@ Link: https://clinicaltrials.gov/study/NCT06377254
 
 SUMMARY:
 
-## NCT06377696
-Neuro-Oncology Anywhere: Deploying Mayo Clinic's Remote Cognitive Assessment Battery and Wearable Device Monitoring Platform While Assessing the Impact of Metformin on Cognition and Quality of Life in Patients With History of Cranial Radiation
-
-Intervention: : Best Practice — Receive SOC
-: Medical Device Usage and Evaluation — Wear wearable device
-: Metformin — Given PO
-: Neurocognitive Assessment — Undergo neurocognitive test
-: Questionnaire Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT06377696
-
-SUMMARY:
-
 ## NCT06377917
 The IMPACT Trial: Investigating Micro-Manipulation Procedures for Assisted Hatching Timing
 
@@ -15261,37 +15231,6 @@ Gram Stain of the First Urine After Intraoperative Renal Puncture in Predicting 
 
 Intervention: : Gram staining of the first urine after intraoperative renal puncture to predict the systemic inflammatory response after percutaneous nephrolithotomy. — Gram staining of the first urine after intraoperative renal puncture to predict the systemic inflammatory response after percutaneous nephrolithotomy.
 Link: https://clinicaltrials.gov/study/NCT06393062
-
-SUMMARY:
-
-## NCT06393400
-An Open-label, Single-arm, Phase 1 Study of the Combination of FMT and Gemcitabine with Nab-paclitaxel As First-line Therapy in Patients with Advanced Pancreatic Ductal Adenocarcinoma.
-
-Intervention: : Fecal Microbiota Transplantation — Fecal Microbiota Transplantation with 100 g of healthy donor stool in 36-40 oral capsules once
-
-Other Names:
-
-* FMT
-* Stool Transplant
-* Poop Transplant
-: PEG3350 — Polyethylene Glycol 3350 17 g oral dissolved in 4 litres of water consumed the evening before FMT.
-
-Other Names:
-
-* PEG3350
-* RestoraLAX
-* MiraLAX
-: Gemcitabine — Gemcitabine 1000 mg/m2/day IV on Days 1, 8, and 15 of each 28-day cycle.
-
-Other Names:
-
-\- Gemzar
-: nab-Paclitaxel — nab-Paclitaxel 125 mg/m2/day IV on Days 1, 8, and 15 of each 28-day cycle.
-
-Other Names:
-
-\- Abraxane
-Link: https://clinicaltrials.gov/study/NCT06393400
 
 SUMMARY:
 

@@ -257,16 +257,6 @@ Link: https://clinicaltrials.gov/study/NCT07506980
 SUMMARY:
 
 
-## NCT06964815
-Silibinin in Association With Concomitant Chemoradiotherapy and Maintenance Temozolomide in STAT3 Positive IDH Wild-type, Newly Diagnosed Glioblastoma Patients: a Multicenter, Double-blind, Placebo-controlled, Randomized Study
-
-Intervention: : Silibinin as STAT3 inhibitor — Sillbrain will be available as granulate in sachets of 3.7g and it will be administered twice a day during chemo-radiotherapy and day 1-28 in maintenance phase every cycle. Each 3.7 g sachet of Sillbrain contains 500 mg silibinin. Every patient will assume 2 sachets/day for a total of 1 g/day of silibinin.
-: Placebo — Placebo will be available as granulate in sachets of 3.7g and it will be administered twice a day during chemo-radiotherapy and day 1-28 in maintenance phase every cycle. Every patient will assume 2 sachets/day for a total of 1 g/day of placebo.
-Link: https://clinicaltrials.gov/study/NCT06964815
-
-SUMMARY:
-
-
 ## NCT06978816
 Auricular Acupoint Embedding as Adjunctive Therapy to NSAIDs for Accelerated Relief of Renal Colic in Urolithiasis: A Randomized Controlled Trial
 
@@ -911,15 +901,6 @@ THE IMPACT OF URINARY INCONTINENCE ON GERIATRIC SYNDROMES IN ELDERLY INDIVIDUALS
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07813702
-
-SUMMARY:
-
-
-## NCT06700018
-Development of a Novel Method for Detailed Evaluation of Blood Flow Patterns in Stented Segments and Assessment of Their Role in Stent Thrombosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06700018
 
 SUMMARY:
 
@@ -3054,19 +3035,6 @@ A Study on the Dynamics and Grading Criteria Construction of Adverse Reactions t
 
 Intervention: : ATG/ALG — Participants will receive ATG/ALG according to standard dosing protocols as per clinical guidelines. During treatment, we will monitor and document any adverse reactions, including their type, severity, duration, and any necessary interventions or changes in treatment plan.
 Link: https://clinicaltrials.gov/study/NCT07461116
-
-SUMMARY:
-
-
-## NCT04496947
-Pilot Study Evaluating the Impact of Stress Reduction on Atherosclerotic : Heart and Mind Study
-
-Intervention: : Stress Reduction — The stress reduction program is a multimodal mind-body resiliency program that incorporates 3 core components into each session:
-
-* Elicitation of the Relaxation Response (RR) through mind-body techniques;
-* Discussion about stress awareness to learn how to identify personal stressors and experiences of stress; and
-* Coping strategies and adaptive perspective-taking to promote positive well-being.
-Link: https://clinicaltrials.gov/study/NCT04496947
 
 SUMMARY:
 
@@ -10667,16 +10635,6 @@ A Prospective Comparison of Clinical and Radiological Maturation Outcomes of Aut
 Intervention: : Anterior Cruciate Ligament Reconstruction with Quadriceps Autograft — The investigators will perform all-inside anterior cruciate ligament reconstruction using only the tendon portion of the quadriceps tendon (without bone fragments) in this group.
 : Anterior Cruciate Ligament Reconstruction with Hamstring Autograft — The investigators will perform all-inside anterior cruciate ligament reconstruction using the hamstring tendon as a graft in this group.
 Link: https://clinicaltrials.gov/study/NCT06617559
-
-SUMMARY:
-
-
-## NCT05392699
-An Open-blind Dose Escalation Study to Assess the Safety, Tolerability, and Preliminary Efficacy of ABOD2011 in Patients With Advanced Solid Tumors Progressed After Standard Systemic Therapy
-
-Intervention: : human single chain IL-12 mRNA-single dose — human single chain IL-12 mRNA administered as specified in the treatment arm with injection once only
-: human single chain IL-12 mRNA-multiple dose — human single chain IL-12 mRNA administered as specified in the treatment arm with injection once per week for 3 weeks
-Link: https://clinicaltrials.gov/study/NCT05392699
 
 SUMMARY:
 

@@ -906,16 +906,6 @@ Link: https://clinicaltrials.gov/study/NCT07008495
 
 SUMMARY:
 
-## NCT07008612
-Characterisation of Language and Prosody Disorders, Cognitive Functioning and Behavioural Problems in MYT1L Syndrome
-
-Intervention: : Patients with a genetic syndrome linked to the MYT1L gene — * Neuropsychological assessment by the neuropsychologist (lasting 1h30)
-* Speech and language assessment (including language and prosody) by the speech therapist, lasting 1h30
-: Patients with a neurodevelopmental disorder of genetic origin but not linked to MYT1L — Evaluation de la prosodie par l'orthophoniste (45 minutes)
-Link: https://clinicaltrials.gov/study/NCT07008612
-
-SUMMARY:
-
 ## NCT07008651
 The Effects of Digital Parenting Training Given to Mothers on Social Media Addiction and Their Children's Knowledge and Attitudes Towards Technology Use
 
@@ -2560,14 +2550,6 @@ Reducing Systemic Inflammation in People on Antiretroviral Therapy
 
 Intervention: : Fostemsavir — Addition of fostemsavir to the patient's current antiretroviral regimen: once daily oral administration (Rukobia 600 mg extended-release tablets) for 24 months
 Link: https://clinicaltrials.gov/study/NCT07030920
-
-SUMMARY:
-
-## NCT07030946
-The Effectiveness of Multimedia Health Education Interventions in Reducing Surgical Anxiety and Enhancing Care Awareness Among Cataract Surgery Patients
-
-Intervention: : Multimedia Health Education — A 10-minute multimedia video is provided to the intervention group during their final preoperative clinic visit. All participants receive standard verbal and printed education from the ophthalmologist. The video includes visual and auditory content on cataract surgery, preoperative instructions, postoperative care, and common concerns. Baseline data (T0) are collected before the intervention, including demographics, visual acuity, physiological indicators, BAI, and self-care knowledge. Follow-ups occur at T1 (surgery day), T2 (1 week postop), and T3 (1 month postop), assessing anxiety, physiology, vision, and self-care.
-Link: https://clinicaltrials.gov/study/NCT07030946
 
 SUMMARY:
 
@@ -12059,15 +12041,6 @@ Chronic Kidney Disease Screening in Patients Followed at a Tertiary Care Center
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07153432
-
-SUMMARY:
-
-## NCT07153471
-A Phase 3 Study to Investigate the Efficacy and Safety of Orforglipron Once Daily in Participants Who Have Obesity or Overweight and Osteoarthritis of the Knee: A Multicenter, Randomized, Double-Blind, Parallel-Arm, Placebo-Controlled Trial
-
-Intervention: : Orforglipron — Administered orally
-: Placebo — Administered orally
-Link: https://clinicaltrials.gov/study/NCT07153471
 
 SUMMARY:
 

@@ -5815,16 +5815,6 @@ Link: https://clinicaltrials.gov/study/NCT04674969
 SUMMARY:
 
 
-## NCT04477460
-Effect of Thickened Feeds on Clinical Outcomes in Children With Brief Resolved Unexplained Event
-
-Intervention: : Thickened feeds — Thickened feeds directed by medical team
-: Non-thickened feeds — Non-thickened feeds directed by medical team
-Link: https://clinicaltrials.gov/study/NCT04477460
-
-SUMMARY:
-
-
 ## NCT07355738
 A Randomized, Open-label, Single-dose, Parallel Comparison Study to Evaluate the Bioequivalence of GZR18 Injection Before and After CMC Change in Healthy Adult Male Subjects
 
@@ -9080,16 +9070,6 @@ Link: https://clinicaltrials.gov/study/NCT07714330
 SUMMARY:
 
 
-## NCT05919849
-Development and Initial Trial of Two Brief Interventions to Support Parents in Affirming Their Children's Experiences of Sexuality and Gender
-
-Intervention: : Brief online writing intervention — Participants will be instructed to write for 20 minutes across 3 consecutive days. They will be writing based on the prompts given to them.
-: Control condition — Participants will be instructed to write in order to control for time and writing engagement.
-Link: https://clinicaltrials.gov/study/NCT05919849
-
-SUMMARY:
-
-
 ## NCT06954077
 A Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetic Characteristics and Preliminary Efficacy of BL-M09D1 for Injection in Patients With Locally Advanced or Metastatic Gastrointestinal Tumors and Other Solid Tumors
 
@@ -9864,15 +9844,6 @@ Evaluation of Feasibility, Safety, and Efficacy of Tumor Neoantigen-Based Person
 
 Intervention: : iNeo-Vac-T01 — iNeo-Vac-T01 Injection is an individually customized tumor neoantigen-specific T cell injection. DNA and RNA sequencing is performed on the tumor tissue of each subject to analyze and predict the tumor neoantigens presented by tumor cells. Meanwhile, the subject's own peripheral blood is collected, and neoantigen-specific T cells are obtained through isolation and culture, then reinfused into the subject. These specific T cells recognize and kill tumor cells expressing the corresponding neoantigens, thereby achieving the goal of inhibiting tumor growth.
 Link: https://clinicaltrials.gov/study/NCT07504523
-
-SUMMARY:
-
-
-## NCT06313359
-Fall Risk and Quality of Life: Influence of Dual Task Performance, Cognition, and Sensorimotor Variables in Individuals With Cancer Treatment Related Peripheral Neuropathy.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06313359
 
 SUMMARY:
 
@@ -11035,17 +11006,6 @@ Pathogenicity of B and CD4 T Cell Subsets in Multiple Sclerosis
 Intervention: : blood sample — 28 ml whole blood for Peripheral blood mononuclear cell (PBMC) and monocytes isolation
 : cerebro-spinal fluid — 1 ml of cerebro-spinal fluid
 Link: https://clinicaltrials.gov/study/NCT04798651
-
-SUMMARY:
-
-
-## NCT05312229
-Implementing and Sustaining Critical Time Intervention (CTI) in Case Management Programs for Homeless-experienced Veterans (PII 21-285)
-
-Intervention: : Critical Time Intervention — An evidence-based, structured, and time-limited case management practice
-: External Facilitation — Site-specific support to help sites develop tailored plans to implement CTI.
-: Replicating Effective Programs — A stakeholder-informed training and technical assistance implementation strategy
-Link: https://clinicaltrials.gov/study/NCT05312229
 
 SUMMARY:
 

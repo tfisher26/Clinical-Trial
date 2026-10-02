@@ -14962,16 +14962,6 @@ Link: https://clinicaltrials.gov/study/NCT07002099
 SUMMARY:
 
 
-## NCT04498221
-Prospective, Multi-Centre, Phase II Validation Study for a Lymphatic Imaging Protocol in Establishing Drainage Patterns in Patients With Oropharyngeal Cancer
-
-Intervention: : Imaging procedure — During routine examination under anaesthetic 4 x peritumoural injection of investigator's choice of 99mTc-human albumin colloidal particles or Lymphoseek (lymphatic mapping tracer) followed by freehand SPECT scan
-: Surgical procedure — Excision of contralateral nodes identified on imaging \*(fhSPECT or SPECT/CT\*) during routine examination under anaesthetic. Serial sectioning of excised (sentinel) nodes to identify micrometastasis.
-Link: https://clinicaltrials.gov/study/NCT04498221
-
-SUMMARY:
-
-
 ## NCT06864221
 Correlation Between Plasma Sphingolipid Metabolites and the Efficacy of Radiotherapy in Hepatocellular Carcinoma
 

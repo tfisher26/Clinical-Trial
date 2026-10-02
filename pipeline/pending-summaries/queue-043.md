@@ -984,16 +984,6 @@ Link: https://clinicaltrials.gov/study/NCT07087964
 
 SUMMARY:
 
-## NCT06097975
-A Phase I Clinical Trial on Combined (Neo-)Adjuvant Intravenous Plus Intracranial Administration of Ipilimumab and Nivolumab in Recurrent Glioblastoma
-
-Intervention: : Neo-adjuvant nivolumab and ipililumab IV + adjuvant nivolumab and ipililumab IV — Participants will receive neo-adjuvant administration of intravenous immunotherapy on day 1 + day 22: ipilimumab + nivolumab IV.
-: Neurosurgery and intracavitary injection nivolumab and ipililumab — The neo-adjuvant therapy will be followed by a maximal safe surgery resection of the glioblastoma. Immunotherapy (nivolumab + ipililumab) will be injected into the brain tissue, followed by insertion of an Ommaya reservoir
-: Adjuvant nivolumab IV + nivolumab and ipililumab intracavitary — Postoperatively, administration of immunotherapy will be continued, on day 15 postoperatively and every 2 weeks thereafter patients will receive nivolumab IV as well as ipililumab + nivolumab intracavitary.
-Link: https://clinicaltrials.gov/study/NCT06097975
-
-SUMMARY:
-
 ## NCT05472818
 SV2A Density Cannabis Use Disorder
 
@@ -1653,15 +1643,6 @@ Intervention: : Sacituzumab Govitecan (SG)+Toripalimab — Sacituzumab govitecan
 
 Toripalimab: 240mg, administered by intravenous infusion on day 1.
 Link: https://clinicaltrials.gov/study/NCT06991790
-
-SUMMARY:
-
-## NCT04496895
-The Evaluation of Orange Peel Fermentation on Body Fat Lowering Efficacy in Adults
-
-Intervention: : Placebo — consume 1 sachet per day for 2 months
-: orange peel fermentation — consume 1 sachet per day for 2 months
-Link: https://clinicaltrials.gov/study/NCT04496895
 
 SUMMARY:
 
@@ -5205,15 +5186,6 @@ Link: https://clinicaltrials.gov/study/NCT04792931
 
 SUMMARY:
 
-## NCT04793776
-Manage Emotions to Reduce Aggression - MERA: A Brief Aggression Treatment for Veterans With PTSD Symptoms
-
-Intervention: : Manage Emotions to Reduce Aggression — MERA begins with education about the adaptive nature of emotions, how childhood and military experiences can influence emotion regulation, and how combat requires different emotion regulation strategies than most civilian environments. MERA use modeling and practice with feedback to teach cognitive-behavioral and acceptance-based emotion regulation skills.
-: Present Centered Psychotherapy — PCT will serve as the comparison group. PCT assists Veterans in understanding and coping with current difficulties, such as aggression, but does not provide systematic training in emotion regulation skills.
-Link: https://clinicaltrials.gov/study/NCT04793776
-
-SUMMARY:
-
 ## NCT04793828
 The Effect of a Transdiagnostic, Self-guided Internet Intervention ("Velibra") for Waitlist Patients With Anxiety Disorders
 
@@ -7423,15 +7395,6 @@ Intervention: : rHSC-DIPGVax — Off-the-shelf, neoantigen heat shock protein va
 : Balstilimab — BALSTILIMAB is a human monoclonal antibody that targets programmed cell death 1 (PD1)
 : Zalifrelimab — ZALIFRELIMAB is a human monoclonal immunoglobulin G1k subclass (IgG1k) antibody that specifically recognizes cytotoxic T lymphocyte-associated protein 4 (CTLA-4, also known as CD152)
 Link: https://clinicaltrials.gov/study/NCT04943848
-
-SUMMARY:
-
-## NCT04943926
-Dietary Strategies for Remission of Type 2 Diabetes - a Randomized Controlled Trial (CARBCOUNT)
-
-Intervention: : Energy restricted diet — Nutritional complete formula diet followed by an energy restricted diet
-: Low carbohydrate high fat diet — Very low-carbohydrate high-fat ketogenic diet (VLCHF) diet followed by a low-carbohydrate high-fat diet (LCHF)
-Link: https://clinicaltrials.gov/study/NCT04943926
 
 SUMMARY:
 

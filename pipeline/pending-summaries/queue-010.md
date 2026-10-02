@@ -759,12 +759,3 @@ Link: https://clinicaltrials.gov/study/NCT07712640
 
 SUMMARY:
 
-
-## NCT05317494
-A Prospective Non-Interventional Study to Describe the Effectiveness and Safety of Venetoclax as a First-Line Treatment in Acute Myeloid Leukemia (AML) Patients Who Are Ineligible to Intensive Chemotherapy in Routine Clinical Practice in Greece
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05317494
-
-SUMMARY:
-
