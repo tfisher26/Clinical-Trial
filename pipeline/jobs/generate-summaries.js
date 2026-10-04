@@ -73,58 +73,84 @@ async function main() {
   const missingIds = new Set(missing.map((r) => r.nct_id));
   console.log(`generate-summaries: ${missingIds.size} live trial(s) have no summary.`);
 
+  // Every queue file is held in memory and written at most once, at the end.
+  const files = existingFiles().map((file) => ({
+    file,
+    content: readQueue(file),
+    count: 0,
+    dirty: false,
+  }));
+
   // ---- 1. Drop anything that now has a summary -------------------------
-  const files = existingFiles();
   const listed = new Set();
   let removed = 0;
 
-  for (const file of files) {
-    const content = readQueue(file);
-    if (!content.trim()) continue;
-
-    const ids = parseEntries(content, ['SUMMARY']).map((e) => e.id).filter(Boolean);
+  for (const f of files) {
+    const ids = parseEntries(f.content, ['SUMMARY']).map((e) => e.id).filter(Boolean);
     const stale = ids.filter((id) => !missingIds.has(id));
 
     if (stale.length) {
-      writeQueue(file, removeEntries(content, stale));
+      f.content = removeEntries(f.content, stale);
+      f.dirty = true;
       removed += stale.length;
     }
     for (const id of ids) if (missingIds.has(id)) listed.add(id);
+    f.count = countEntries(f.content);
   }
   if (removed) console.log(`generate-summaries: removed ${removed} entr(ies) that now have summaries.`);
 
   // ---- 2. Add anything missing that is not already listed --------------
-  const toAdd = missing.filter((t) => !listed.has(t.nct_id));
-  if (!toAdd.length) {
-    console.log('generate-summaries: queue files already match the database.');
-    return;
+  // Fill free space in existing files first, lowest number first, so space
+  // freed by finished summaries is reused instead of new files piling up.
+  // Existing entries are never moved between files: that would collide with
+  // anyone part-way through filling one in. New entries are only appended.
+  const pending = missing.filter((t) => !listed.has(t.nct_id));
+  if (pending.length) console.log(`generate-summaries: adding ${pending.length} new entr(ies).`);
+
+  const append = (f, batch) => {
+    const base = f.content.trim() ? f.content.replace(/\s*$/, '\n\n') : `${HEADER}\n\n`;
+    f.content = base + batch.map(entryBlock).join('\n\n') + '\n\n';
+    f.count += batch.length;
+    f.dirty = true;
+  };
+
+  // The legacy unnumbered queue.md is only drained, never refilled.
+  const numbered = files.filter((f) => /queue-\d+\.md$/.test(f.file));
+  for (const f of numbered) {
+    if (!pending.length) break;
+    const room = CHUNK_SIZE - f.count;
+    if (room > 0) append(f, pending.splice(0, room));
   }
-  console.log(`generate-summaries: adding ${toAdd.length} new entr(ies).`);
 
-  // Top up the last chunk before starting a new one, so files stay dense
-  // and entry-to-file mapping is stable between runs.
-  const numbered = files.filter((f) => /queue-\d+\.md$/.test(f));
-  let index = numbered.length || 1;
-  let content = numbered.length ? readQueue(chunkPath(index)) : '';
-  if (!content.trim()) content = `${HEADER}\n\n`;
-  let count = countEntries(content);
+  // Only when every existing file is full: start new ones after the HIGHEST
+  // existing number. (Using the file count here would overwrite an existing
+  // file whenever an earlier one had been deleted.)
+  let next = Math.max(0, ...numbered.map((f) => Number(f.file.match(/queue-(\d+)\.md$/)[1]))) + 1;
+  while (pending.length) {
+    const f = { file: chunkPath(next++), content: '', count: 0, dirty: false };
+    append(f, pending.splice(0, CHUNK_SIZE));
+    files.push(f);
+  }
 
+  // ---- 3. Write what changed; delete files left with no entries --------
   let written = 0;
-  for (const trial of toAdd) {
-    if (count >= CHUNK_SIZE) {
-      writeQueue(chunkPath(index), content);
+  const deleted = [];
+  for (const f of files) {
+    if (f.count === 0) {
+      fs.unlinkSync(f.file);
+      deleted.push(path.basename(f.file));
+    } else if (f.dirty) {
+      writeQueue(f.file, f.content);
       written++;
-      index++;
-      content = `${HEADER}\n\n`;
-      count = 0;
     }
-    content += `${entryBlock(trial)}\n\n`;
-    count++;
   }
-  writeQueue(chunkPath(index), content);
-  written++;
 
-  console.log(`generate-summaries: wrote ${written} file(s), through ${chunkPath(index)}.`);
+  if (deleted.length) console.log(`generate-summaries: deleted ${deleted.length} empty file(s): ${deleted.join(', ')}.`);
+  console.log(
+    written || deleted.length
+      ? `generate-summaries: updated ${written} file(s); ${files.length - deleted.length} queue file(s) remain.`
+      : 'generate-summaries: queue files already match the database.'
+  );
 }
 
 main().catch((err) => {
