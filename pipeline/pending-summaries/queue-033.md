@@ -4265,15 +4265,6 @@ Link: https://clinicaltrials.gov/study/NCT05158894
 SUMMARY:
 
 
-## NCT04499066
-Peripartum Mental Health Cohort Study in Guangzhou
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04499066
-
-SUMMARY:
-
-
 ## NCT06200753
 Triage of Patients Presenting Beyond 24 Hours From Last Known Well With Acute Ischemic Stroke Due to Large Vessel Occlusions (TRACK-LVO Late): a TRACK-LVO Registry-linked Cohort
 
@@ -6189,15 +6180,6 @@ AIOCC Italian Registry on Head and Neck Carcinomas
 
 Intervention: : observational-retrospective and prospective — observational-retrospective and prospective
 Link: https://clinicaltrials.gov/study/NCT06248944
-
-SUMMARY:
-
-
-## NCT06884592
-Determination of the Incidence of Difficult Intubation and Predictive Factors in Patients Undergoing Nasal Septum Deviation Surgery.
-
-Intervention: : Difficult Intubation — Determination of difficult intubation, according to the Cormack-Lehane scale, intubation will be considered easy for grade I or II and difficult for grade III or IV. If intubation could not be performed with the Macintosh laryngoscope in three attempts, the next step would be to perform intubation with the videolaryngoscope and the third step would be to place the laryngeal mask airway (LMA). The correct position of the tube in the trachea will be confirmed after intubation, preferably by visual confirmation of the tube passing through the glottic opening, auscultation of the chest with a stethoscope and a normal capnograph. If the LMA attempt fails, the patient will be allowed to awaken, with the final step being ventilation using a face mask and consideration of reversing the muscle relaxant effect with sugammadex (4-5 mg/kg). If intubation fails on the first attempt, an intubation stylet will be used if necessary. The intubation method used, total number of attempts for successful i
-Link: https://clinicaltrials.gov/study/NCT06884592
 
 SUMMARY:
 

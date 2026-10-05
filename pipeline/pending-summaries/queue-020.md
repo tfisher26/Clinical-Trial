@@ -3188,15 +3188,6 @@ Link: https://clinicaltrials.gov/study/NCT06587321
 SUMMARY:
 
 
-## NCT05570721
-The Comorbidity of Depression and Cardiovascular Disease in Midlife Women: Investigating Novel Biological Pathways of Risk
-
-Intervention: : Trier Social Stress Test — The TSST has both social-evaluative and arithmetic components. During the social-evaluative component, the participant is asked to prepare and then deliver a brief speech to the research team. After this component there is a surprise arithmetic problem. This challenge paradigm has been well-established to rapidly and robustly induce psychological stress as well as physiological indices of stress (e.g., cortisol response, heart rate response). This task takes approximately 15 minutes to complete.
-Link: https://clinicaltrials.gov/study/NCT05570721
-
-SUMMARY:
-
-
 ## NCT07506148
 Efficacy of a Group-Based Acceptance and Commitment Therapy Protocol Compared to an Active Control in University Students With Emotional Symptoms: a Randomized Controlled Trial With an Ideographic Approach
 

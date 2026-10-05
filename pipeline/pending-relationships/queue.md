@@ -102464,3 +102464,34 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05139524
+Maintenance and Transmission of Rift Valley Fever Virus and Other Emerging Infectious Diseases in East and Central Africa
+Conditions: infectious/hemorrhagic_fevers_viral, infectious/rift_valley_fever
+
+Inclusion criteria:
+"""
+for health facility based study:
+
+Category A: A sample of patients presenting to the health facility meeting this inclusion criteria will be enrolled:
+
+• Persons ≥ 10 years of age who are malaria negative AND have undifferentiated acute fever at the time of presentation (≥ 37.5°C) or reported fever in the past 4 weeks.
+
+Category B: A sample of patients presenting to the health facility meeting this inclusion criteria will be enrolled:
+
+• Persons ≥ 10 years of age who are malaria positive AND have undifferentiated acute fever at the time of presentation (≥ 37.5°C) or reported fever in the past 4 weeks.
+
+Category C: All patients at the health facility meeting these criteria will be enrolled in the study
+
+Persons ≥ 10 years of age with:
+
+• Unexplained bleeding with or without fever manifesting as either: Blood in vomitus, Bleeding from the gums, Bleeding from the nose, Bleeding in the eyes (red eyes), Non-menstrual genital bleeding, Bleeding from any other body site OR
+
+• Infectious disease illness of unknown etiology requiring hospitalization. The illness should not be responding to antimalarials and/or antibiotics following 7 days of treatment
+
+Inclusion Criteria for community cross sectional study:
+
+Member of household 2 or more years of age.
+"""
+
+RELATIONSHIP:
+

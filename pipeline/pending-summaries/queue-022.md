@@ -2525,15 +2525,6 @@ Link: https://clinicaltrials.gov/study/NCT07238205
 SUMMARY:
 
 
-## NCT04797299
-Prospective Evaluation of Breast-Conserving Surgery Alone in Low-Risk Ductal Carcinoma in Situ Defined by a Molecular Expression Assay Combined With Clinico-Pathological Features
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04797299
-
-SUMMARY:
-
-
 ## NCT06834178
 Hepatitis Elimination And Liver Care in South-East Austria (HEAL-S)
 
@@ -2642,15 +2633,6 @@ Retrospective Observational Evaluation of the Bone Mineral Density Outcome of Di
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07015476
-
-SUMMARY:
-
-
-## NCT05561647
-Quantitative Testing of Patient and Prescriber Knowledge About GATTEX (Teduglutide) for Injection Safety and Use Information
-
-Intervention: : No Intervention — This is non-interventional study.
-Link: https://clinicaltrials.gov/study/NCT05561647
 
 SUMMARY:
 

@@ -197,14 +197,6 @@ Link: https://clinicaltrials.gov/study/NCT07766135
 
 SUMMARY:
 
-## NCT07766161
-Informing Implementation of a Circadian-Focused Intervention for Postpartum Depression
-
-Intervention: : Light therapy — Participants will use the Re-Timer daily for 5 weeks (approximately 35 days). All participants will be provided with a "light therapy window" during which they will wear the device for 60 mins.
-Link: https://clinicaltrials.gov/study/NCT07766161
-
-SUMMARY:
-
 ## NCT07766382
 Artificial Intelligence-Assisted Ultrasound Confirmation of Laryngeal Mask Airway Placement Using Fiberoptic Assessment as the Reference Standard: A Prospective Diagnostic Accuracy Study
 
@@ -275,18 +267,6 @@ The Effect of Video-Based Preoperative Patient Education on Physician Trust, Pos
 Intervention: : Video-Based Preoperative Block Education — Participants will receive standard preoperative verbal information plus a standardized educational video. The video demonstrates ultrasound anatomy and probe positioning for the transversus abdominis plane (TAP) block without showing invasive needle insertion or procedural performance. The content is designed to improve patient understanding of the regional anesthesia technique while maintaining procedural safety and standardization.
 : Standard Verbal Preoperative Block Education — Participants randomized to this group will receive standardized preoperative verbal education regarding the ultrasound-guided transversus abdominis plane (TAP) block. The explanation will be delivered by an anesthesiologist using a consistent script and will include the purpose of the block, expected analgesic benefits, and general procedural overview without the use of any visual, video, or multimedia materials. After preoperative education, all patients will undergo standardized general anesthesia, multimodal analgesia, and bilateral ultrasound-guided TAP block as part of routine perioperative care.
 Link: https://clinicaltrials.gov/study/NCT07767344
-
-SUMMARY:
-
-## NCT07767409
-Cost and Outcomes of Hospital-based Physiotherapy Versus mHealth-based Self-directed Rehabilitation in Patients With Knee Osteoarthritis: A Randomized, Controlled, Non-inferiority Trial
-
-Intervention: : MOKneeTOR with standard app configuration — Participants allocated to the MOKneeTOR program will receive 24 week access to the MOKneeTOR app. To onboard participants on the use of the MOKneeTOR app, the MOKneeTOR program is designed to include an in-person outpatient session, during which the physiotherapist will guide participants through the system. Importantly, based on assessment findings and data input by the physiotherapist, the MOKneeTOR app will utilize a care stratification approach by selecting educational materials tailored to the participant's needs.
-
-Participants randomized to MOKneeTOR program may optionally nominate one adult support person (SP) (e.g., family member/friend) to receive access to an SP version of the MOKneeTOR mobile app. The SP app is a subset of the patient app and is intended to (i) improve SP's knee OA knowledge and (ii) support SP's efforts in supporting the participant's self-management.
-: Hospital-based outpatient rehabilitation program — Participants will attend, over a 12-week period, a minimum of 3 outpatient physiotherapy sessions, with up to 3 additional sessions if patients are deemed to require them. During the sessions, participants will receive patient education, exercises, manual therapy, and other modalities. Participants will also be instructed on a home exercise program in which they will exercise at least 3 times weekly. During each session which will last around 40 minutes, the project physiotherapist will (i) review the home exercise program, (ii) observe the participants performing the exercises and correct their form and techniques when necessary, and (iii) work with the participants to set goals and progress the exercise program.
-: MOKneeTOR with standard app configuration and enhanced personalisation — Participants randomized to receive MOKneeTOR with enhanced personalization of the MOKneeTOR app will receive an app experience with an education chatbot that adapts tone, reading level, and format (text, infographics, short videos) to participants' preferences and engagement. Minor person-centred features (e.g., treating therapist caricature avatars and name-badged messages) will also be incorporated to strengthen therapeutic alliance without altering clinical guidance.
-Link: https://clinicaltrials.gov/study/NCT07767409
 
 SUMMARY:
 
@@ -573,16 +553,6 @@ Link: https://clinicaltrials.gov/study/NCT07775235
 
 SUMMARY:
 
-## NCT07775391
-Phase Ⅰ/Ⅱa Clinical Trial to Evaluate the Safety, Tolerability and Efficacy of Intravenous Injection of Human Umbilical Cord Mesenchymal Stem Cells (hUC-MSCs) in Patients With Premature Ovarian Insufficiency (POI)
-
-Intervention: : hUC-MSCs Injection (Phase I) — hUC-MSCs Injection, administered via intravenous infusion as a single dose on D0.
-: hUC-MSCs Injection (Phase IIa) — hUC-MSCs Injection, 3 infusions in total, dosing interval ≥7 days.
-: Placebo — 3 infusions in total, dosing interval ≥7 days
-Link: https://clinicaltrials.gov/study/NCT07775391
-
-SUMMARY:
-
 ## NCT07775703
 A Phase I Clinical Trial to Investigate the Pharmacokinetics, Safety, and Tolerability of HS-20117-2 Injection in Patients With Advanced Solid Tumors
 
@@ -758,15 +728,6 @@ Link: https://clinicaltrials.gov/study/NCT07778823
 
 SUMMARY:
 
-## NCT07778836
-A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Subcutaneous Nomlabofusp in Subjects With Friedreich's Ataxia
-
-Intervention: : Nomlabofusp — Nomlabofusp is a recombinant fusion protein provided in a sterile, preservative-free buffered solution for subcutaneous injection intended to deliver human frataxin, the protein deficient in Friedreich's ataxia.
-: Placebo — The placebo is a sterile, preservative-free, clear liquid for subcutaneous injection.
-Link: https://clinicaltrials.gov/study/NCT07778836
-
-SUMMARY:
-
 ## NCT07779395
 Determination of Pressure Injury and İntegration Into Nursing Care Using Artificial İntelligence
 
@@ -812,21 +773,6 @@ Validating Dietary Quality Measures and Exploring Barriers to Healthy Eating Amo
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07780708
-
-SUMMARY:
-
-## NCT07780838
-A Phase IIa Clinical Trial of First-Line Cyclical Gemcitabine, Cisplatin, and Durvalumab Alternating With Pemigatinib for Advanced Biliary Tract Cancers With FGFR2 Alterations
-
-Intervention: : Biospecimen Collection — Undergo blood sample collection
-: Cisplatin — Given IV
-: Computed Tomography — Undergo CT scan
-: Durvalumab — Given IV
-: Gemcitabine — Given IV
-: Magnetic Resonance Imaging — Undergo MRI
-: Pemigatinib — Given PO
-: Survey Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT07780838
 
 SUMMARY:
 
@@ -934,15 +880,6 @@ Intervention: : GSK5784283 — GSK5784283 will be administered.
 : Placebo — Placebo will be administered.
 : Standard of Care — Standard of Care (SoC) will be administered.
 Link: https://clinicaltrials.gov/study/NCT07782957
-
-SUMMARY:
-
-## NCT07783529
-Elastic Stable Intramedullary Nailing Supplemented by Kirschner Wires Versus Plate Fixation in the Treatment of Distal Tibial Metaphyseal-diaphyseal Junction Fractures in Adolescents
-
-Intervention: : Elastic Stable Intramedullary Nailing Supplemented by Kirschner Wires — Closed reduction will be performed under fluoroscopic guidance. Two appropriately sized titanium elastic nails will be inserted through medial and lateral entry points in the proximal tibial metaphysis and advanced across the fracture into the distal fragment. One or two supplementary Kirschner wires will then be inserted percutaneously across the distal fragment under fluoroscopic guidance to enhance rotational and angular stability.
-: Plate fixation — Following fracture reduction, fixation will be performed using a distal tibial locking compression plate through a minimally invasive plate osteosynthesis technique or a limited open approach according to fracture characteristics. The plate will be positioned on the medial aspect of the tibia and secured with appropriate locking and cortical screws under fluoroscopic guidance.
-Link: https://clinicaltrials.gov/study/NCT07783529
 
 SUMMARY:
 
@@ -1518,28 +1455,12 @@ Link: https://clinicaltrials.gov/study/NCT07800572
 
 SUMMARY:
 
-## NCT07800871
-An Open-Label, Multicenter, Phase 1/2 Dose-Escalation and Expansion Trial Evaluating the Safety and Efficacy of FT839 in Participants With Autoimmune Diseases
-
-Intervention: : FT839 — Single Intravenous (IV) infusion of FT839 administered on Day 1 and Day 4
-Link: https://clinicaltrials.gov/study/NCT07800871
-
-SUMMARY:
-
 ## NCT07801586
 Additional Effects of Pain Neuroscience Education With Standard Pre-operative Physiotherapy on Post-laminectomy Pain and Disability.
 
 Intervention: : Experimental Group - Pain Neuroscience Education + Standard Pre-operative Protocol — This group receives a 3-week pre-surgical program of three individual 45-minute sessions with a neuro-physical therapist, plus a daily home program. It combines Pain Neuroscience Education (PNE), delivered in Urdu using culturally adapted metaphors (e.g., the "broken alarm" analogy for central sensitization) developed through expert panel review, with standard exercises. Each session includes 15-20 minutes of education, 20-25 minutes of exercise (ankle pumps, quad sets, gluteal sets, isometric abdominal sets, heel slides, walking), and 5 minutes of home practice. PNE aims to reframe pain as nervous-system sensitization rather than ongoing tissue damage, reducing fear-avoidance before surgery.
 : Control Group - Standard Pre-Operative Care — This group follows the identical 3-week format-three individual 45-minute sessions with a neuro-physical therapist plus a prescribed daily home program-but without Pain Neuroscience Education. Instead, participants receive placebo counselling and an explained consent form in place of actual pain education, maintaining single-blinding. The exercise protocol matches the experimental group exactly: ankle pumps (10 reps), quad sets (hold 5 counts, 10 reps), gluteal sets (hold 5 counts, 10 reps), isometric abdominal sets (hold 5 counts, 10 reps), heel slides (10 reps, 3x/day), and walking (10 minutes, 3x/day). This group serves as the comparator to isolate the added effect of PNE.
 Link: https://clinicaltrials.gov/study/NCT07801586
-
-SUMMARY:
-
-## NCT07801716
-Low Calorie Diet Before Liver Surgery - A Nordic Multicentre Randomized Controlled Trial
-
-Intervention: : Low calorie meal replacement plan — Short-term LCD one week prio to liver surgery for patients with a BMI 30 or higher
-Link: https://clinicaltrials.gov/study/NCT07801716
 
 SUMMARY:
 
@@ -1616,16 +1537,6 @@ Intervention: : Tirzepatide — Administered SC.
 : Acetaminophen — Administered orally.
 : Placebo — Administered SC.
 Link: https://clinicaltrials.gov/study/NCT07803744
-
-SUMMARY:
-
-## NCT07804316
-Fostering Self-Empowerment in Kidney Disease Patients Through Food Choice Mapping: A Pilot Study
-
-Intervention: : Mobile application empowerment approach — Participant will be provided access to the prototype mobile application known for this trial.
-
-Participants will be required to utilise the mobile application for 12 days (two 6-consecutive days, twice within 3 months) during a 3-month period. During the agreed dates, participant will need to take photos of their food intake and upload them onto the mobile application for evaluation.
-Link: https://clinicaltrials.gov/study/NCT07804316
 
 SUMMARY:
 
@@ -1919,15 +1830,6 @@ AI & Prehospital ECG Analysis: A Randomized Controlled Trial of a Smartphone Lar
 
 Intervention: : Smartphone large language model assistance (GPT-4o, version-locked) — The platform transmits the ECG image to a single large language model (OpenAI GPT-4o, API snapshot gpt-4o-2024-08-06), locked for the entire study, together with a standardised prompt identical for all participants and all vignettes: "I am on an urgent prehospital call with a patient who presents this ECG. Analyse it and tell me what you think." Participants cannot modify the prompt, ask follow-up questions or provide additional clinical context. The model version and system fingerprint returned by the API are recorded for every call. The model's interpretation is displayed within the vignette. Use of the tool is mandatory; adherence to its interpretation is not.
 Link: https://clinicaltrials.gov/study/NCT07810686
-
-SUMMARY:
-
-## NCT07810751
-Effectiveness of Health Educational Program for Primigravida Women in Reducing the Rate of Unnecessary Cesarean Section
-
-Intervention: : Health Educational Program on Modes of Delivery. — 1. A structured antenatal health educational program on Modes of Delivery delivered by the investigator to primigravida women. The program provides evidence-based information regarding normal vaginal delivery and cesarean section, including definitions, medical indications, advantages, risks, maternal and neonatal complications, and common misconceptions regarding both modes of delivery.
-2. The educational program is supported by illustrated educational materials and an Arabic booklet prepared by the researcher.
-Link: https://clinicaltrials.gov/study/NCT07810751
 
 SUMMARY:
 
@@ -2346,15 +2248,6 @@ Link: https://clinicaltrials.gov/study/NCT07820254
 
 SUMMARY:
 
-## NCT07820280
-"Effectiveness of Kaltenborn Mobilization Techniques Versus Maitland Mobilization on Management of Cervicogenic Headache: A Randomized Controlled Trial."
-
-Intervention: : Maitland mobilization — Maitland mobilization will consist of passive oscillatory mobilization techniques applied to the symptomatic cervical segments. Mobilization grades I-IV will be selected according to the participant's pain severity, irritability, and limitation of cervical movement. Each mobilization will be performed for 30-60 seconds and repeated for 2-3 sets per affected segment, with the aim of reducing pain and improving cervical joint mobility and range of motion.
-: Kaltenborn — Kaltenborn mobilization will consist of sustained passive joint mobilization techniques applied to hypomobile cervical segments. Grades I-III mobilizations will be selected according to the participant's pain level, joint mobility, and clinical findings. Each mobilization will be performed for 2-3 sets per affected cervical segment, with the aim of reducing pain, improving joint play, and increasing cervical range of motion.
-Link: https://clinicaltrials.gov/study/NCT07820280
-
-SUMMARY:
-
 ## NCT07820319
 The Use of Single-Beat TE-e' in Evaluation of Left Atrial Pressure in Critically Ill Patients: The TELAP-ICU Trial
 
@@ -2480,14 +2373,6 @@ NAIF 2.0 - COGNIFY: Cognitive Impairment in Patients With Intracranial Dural Art
 
 Intervention: : Brain MRI — Participants will undergo a brain MRI on a 3T scanner at baseline assessment and approximately 6 months after endovascular embolization. The MRI protocol includes routinary morphologic sequences (e.g., 3D T1-weighted imaging, T2-weighted FLAIR, susceptibility-weighted imaging), as well as a multi-shell diffusion MRI with multiple b-values and gradient directions. These sequences will be used to assess conventional brain findings and diffusion-derived metrics potentially related to glymphatic function, including DTI-ALPS, DKI-MK and FW imaging. The main otcome of the study is to evaluate changes in these metrics in relation to treatment.
 Link: https://clinicaltrials.gov/study/NCT07824297
-
-SUMMARY:
-
-## NCT07824349
-A Phase 1a/1b Open Label, Multicenter, Dose Escalation and Dose Expansion Study of the Safety, Pharmacokinetics, Pharmacodynamics, and Activity of JUR-003 in Adult Patients With Metastatic Prostate Cancer
-
-Intervention: : JUR-003 — JUR-003 will be administered intravenously.
-Link: https://clinicaltrials.gov/study/NCT07824349
 
 SUMMARY:
 
@@ -2705,14 +2590,6 @@ Assessment of Transcutaneous Auricular Vagus Nerve Stimulation for Ocular Inflam
 
 Intervention: : Cymbathera One System — Cymbathera One System provides transcutaneous electrical stimulation to the auricular branch of the vagus nerve
 Link: https://clinicaltrials.gov/study/NCT07831876
-
-SUMMARY:
-
-## NCT07832994
-Metaboic Syndrome and Fatty Liver in Celiac Disease Females: Reponse to Exercise in Adolescents
-
-Intervention: : walking exercise — twenty metabolic syndrome and fatty liver female adolescents with celiac diseases will will perform 40 minutes of walking on a treadmill three times weekly for three months.
-Link: https://clinicaltrials.gov/study/NCT07832994
 
 SUMMARY:
 

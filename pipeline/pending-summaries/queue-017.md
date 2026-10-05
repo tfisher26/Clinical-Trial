@@ -1666,15 +1666,6 @@ Link: https://clinicaltrials.gov/study/NCT07063875
 SUMMARY:
 
 
-## NCT07090135
-Enhance the Restorative Power of Sleep Through TES-TI Power Naps
-
-Intervention: : Transcranial electrical stimulation with Temporal Interference (TES-TI) — TES-TI uses specific electrode arrangement patterns to selectively stimulate the brain. Participants will wear an hdEEG (high density electroencephalography) cap which will allow intermittent periods of stimulation from TES-TI.
-Link: https://clinicaltrials.gov/study/NCT07090135
-
-SUMMARY:
-
-
 ## NCT06781476
 Evaluation of Urinary Biomarkers Trend in Preterm Very Low Birth Weight Infants: Influence of Clinical and Therapeutic Factors
 

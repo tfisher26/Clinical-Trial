@@ -424,20 +424,6 @@ Link: https://clinicaltrials.gov/study/NCT06720870
 SUMMARY:
 
 
-## NCT07207408
-Phase 2, Randomized, Multicenter Trial of the Immunogenicity, Safety, and Tolerability of rF1V-1018 Vaccine in Adults 18 to 55 Years of Age
-
-Intervention: : rF1V-1018 — Regimen 1
-: rF1V-1018 — Regimen 2
-: rF1V-1018 — Regimen 3
-: rF1V-1018 — Regimen 4
-: rF1V-1018 — Regimen 5
-: rF1V-1018 — Regimen 6
-Link: https://clinicaltrials.gov/study/NCT07207408
-
-SUMMARY:
-
-
 ## NCT07677072
 Can Serum Lumican Level Identify a Hidden Fragility Phenotype Beyond Bone Mineral Density in Postmenopausal Women?
 

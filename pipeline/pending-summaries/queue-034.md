@@ -3714,20 +3714,6 @@ Link: https://clinicaltrials.gov/study/NCT06433206
 SUMMARY:
 
 
-## NCT05400733
-Prandial Metabolic Phenotype in Adults
-
-Intervention: : Total Amino Acids — Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine, Alanine, Arginine, Aspartate, Cystine, Glutamine, Glutamate, Glycine, Proline, Serine, Tyrosine. All supplements are commercially available.
-: Essential Amino Acids — Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine. All supplements are commercially available.
-: Essential Amino Acids + Hydroxy-methylbutyric acid (HMB) — Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine, HMB. All supplements are commercially available.
-: Essential Amino Acids + Leucine — Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine, Extra leucine. All supplements are commercially available.
-: Essential Amino Acids High — Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine. All supplements are commercially available.
-: Placebo Water — Water
-Link: https://clinicaltrials.gov/study/NCT05400733
-
-SUMMARY:
-
-
 ## NCT06324721
 The Enigma of Subjective Lymphedema: Who and Why do Patients Report Lymphedema After Breast Cancer Treatment Without an Objective Measurable Swelling? The Role of Lymphatic and Sensory Processing Problems
 
@@ -4719,15 +4705,6 @@ Surgeon-performed Ultrasound for Real-time Guidance In Oral Cancer Surgeries - A
 Intervention: : Ultrasound imaging — Ultrasound will be performed during surgery in two phases: 1) in-vivo and 2) ex-vivo. In the in-vivo phase surgeons will perform intraoral ultrasound with a small intraoral transducer in order to visualize size and boundaries of tumor. Then the surgeon begins the resection periodically pausing to obtain real-time images of the resection plane and determin if resection is performed at safe distance to the tumor. In the ex-vivo phase the resected tumor will undergo ultrasound by using a motorized mechanical arm designed to hold an ultrasound transducer. This ensures standardized and reproducible scans. The purpose of the ex-vivo scan is to measure the surgical margins at the operating theatre and allow for an immediate re-resection of necessary. Surgeons in the intervention group will also have the possibility of taking biopsies for frozen section analyses.
 : Standard Treatment — Standard surgical treatment of oral cancer
 Link: https://clinicaltrials.gov/study/NCT07203911
-
-SUMMARY:
-
-
-## NCT07638280
-Analysis of Non-pharmacological Factors on Spinal Anaesthesia Block Duration
-
-Intervention: : spinal anaesthesia — Patients who will undergo surgery required spinal anaesthesia
-Link: https://clinicaltrials.gov/study/NCT07638280
 
 SUMMARY:
 

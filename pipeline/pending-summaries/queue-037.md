@@ -3071,15 +3071,6 @@ Link: https://clinicaltrials.gov/study/NCT05860361
 SUMMARY:
 
 
-## NCT07421258
-Treat-to-Target and Disease Modification in Inflammatory Bowel Disease: A Worldwide Routine Practice Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07421258
-
-SUMMARY:
-
-
 ## NCT06649201
 Vulvovaginal Graft-versus-Host Disease: Diagnosis and Microbiome Evaluation
 
@@ -4264,15 +4255,6 @@ Intervention: : Providing reminder and resources via messages — Patients will 
 : Reminder and resources sent via navigation — Patients will be provided reminders and resources using health navigators calling the patients.
 : Regular care — Regular (standard) care provided by healthcare provider team
 Link: https://clinicaltrials.gov/study/NCT07569224
-
-SUMMARY:
-
-
-## NCT07084844
-Patient Reported Outcomes and Satisfaction With Wavelight Plus LASIK
-
-Intervention: : WaveLigh Plus LASIK — Wavelight plus LASIK is an advanced laser eye surgery technology designed to enhance visual outcomes through personalized treatment plans. This system integrates comprehensive diagnostics, including biometry, tomography, and wavefront measurements, to create a tailored ablation profile for each patient.
-Link: https://clinicaltrials.gov/study/NCT07084844
 
 SUMMARY:
 

@@ -622,15 +622,6 @@ Link: https://clinicaltrials.gov/study/NCT07565727
 SUMMARY:
 
 
-## NCT07153159
-A PHASE 1 MULTIPLE-DOSE, OPEN-LABEL PHARMACOKINETIC STUDY OF ETRASIMOD IN HEALTHY LACTATING WOMEN
-
-Intervention: : Etrasimod — Oral 2 milligrams tablet, once a day for 7 days
-Link: https://clinicaltrials.gov/study/NCT07153159
-
-SUMMARY:
-
-
 ## NCT07690111
 International Registry for TRPM3-associated Disorders
 

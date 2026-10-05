@@ -933,16 +933,6 @@ Link: https://clinicaltrials.gov/study/NCT06367725
 SUMMARY:
 
 
-## NCT06889415
-The Frequency of Osteosarcopenia in Patients With Rheumatoid Arthritis and the Factors Affecting the Sarcopenia-osteoporosis Relationship
-
-Intervention: : Osteosarcopenia in Patients with Rheumatoid Arthritis — The prevalence of osteosarcopenia will be examined in this group. Sarcopenia will be categorized into 4 groups. Both the prevalence of osteosarcopenia and the subgroups of sarcopenia will be compared with the healthy control group. Through this comparison, we will explain the relationship between sarcopenia and osteoporosis, the factors affecting this relationship, and the changes in fall and fracture risk using various questionnaires and tests.
-: Osteosarcopenia in Healthy Control Group — The prevalence of osteosarcopenia will be examined in this group. Sarcopenia will be categorized into 4 groups. The relationship between sarcopenia and osteoporosis, the factors affecting this relationship, and the risk of falls and fractures will be evaluated using various questionnaires and tests.
-Link: https://clinicaltrials.gov/study/NCT06889415
-
-SUMMARY:
-
-
 ## NCT07522008
 ICHARUS: Italian Cooperative HemoAdsorption Study for Relief of Uremic Symptoms. A Prospective Observational Cohort Study to Assess the Effectiveness and Safety of Hemoadsorption in Chronic Hemodialysis Patients With Refractory Uremic Symptoms: An Italian Real-World Registry.
 
@@ -1243,16 +1233,6 @@ Correlation of Cardiac Output Determined by Echocardiography and Indirect Calori
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06369818
-
-SUMMARY:
-
-
-## NCT05722769
-RCT to Evaluate Bystander-informed CSTOP Now! to Prevent Child Sex Trafficking in Kentucky Middle Schools
-
-Intervention: : CSTOP Now! — Child sex trafficking stops with you. Implement and evaluate the effectiveness of a multi-level bystander-informed program (CSTOP Now!) aimed at Kentucky public middle school staff. Participants will be trained to use the See It To Stop It Indicator Tool (SITSII) by using tiers of concern (clear concern, possible concern, and monitor of emerging concern). The SITSII tool directs the bystander actions to Decide, Directly Intervene, Disrupt, Delegate, and Document.
-: Prevent Child Abuse Kentucky Online Training — The Kentucky State Police, in association with Prevent Child Abuse Kentucky, have developed videos we invite active comparator schools to review which also include how to identify and report child sex trafficking.
-Link: https://clinicaltrials.gov/study/NCT05722769
 
 SUMMARY:
 
