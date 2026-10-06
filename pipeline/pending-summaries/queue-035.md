@@ -1459,15 +1459,6 @@ Link: https://clinicaltrials.gov/study/NCT05883878
 SUMMARY:
 
 
-## NCT04499326
-Use of Patient Reported Outcome Measures (PROMs) to Assess Quality of Life and Economic Evaluation of Cardiac Catheter Ablation of Ventricular Tachycardia: a Feasibility and Cohort Study
-
-Intervention: : Validated quality of life questionnaire (EQ-5D & C-CAP) — Patient quality of life to be assessed at baseline, 1, 2, 3, 4, 6, 9 and 12 months
-Link: https://clinicaltrials.gov/study/NCT04499326
-
-SUMMARY:
-
-
 ## NCT05743582
 Analysis of Innate Immune Competence in People With Chronic Obstructive Pulmonary Disease (COPD)
 

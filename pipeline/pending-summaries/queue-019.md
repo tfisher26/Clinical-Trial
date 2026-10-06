@@ -1438,16 +1438,6 @@ Link: https://clinicaltrials.gov/study/NCT07805564
 SUMMARY:
 
 
-## NCT06273592
-The Impact of a Plant-based Meat Meal Versus an Animal Meat Meal on Erectile Function in Healthy Men
-
-Intervention: : Animal-based meal — Consuming a single plant-based meat or a single animal meat meal and measuring the meals impact on erectile function with the Rigiscan™ device.
-: Plant-based meat meal — Consuming a single plant-based meat or a single animal meat meal and measuring the meals impact on erectile function with the Rigiscan™ device.
-Link: https://clinicaltrials.gov/study/NCT06273592
-
-SUMMARY:
-
-
 ## NCT05550961
 APOLLO 11, Consortium of Italian Centers Involved in Treatment of Patients With Lung Cancer Treated With Innovative Therapies: Real World Data and Translational Reaserch
 

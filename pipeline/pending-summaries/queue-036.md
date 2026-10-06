@@ -3460,16 +3460,6 @@ Link: https://clinicaltrials.gov/study/NCT07161388
 SUMMARY:
 
 
-## NCT06848686
-Prevention Ambassadors: an HIV Self-testing Intervention to Promote HIV Service Engagement in the Networks of SSP Clients
-
-Intervention: : Prevention Ambassadors — Delivery of prevention supplies and information on local services plus training to build the capacity of PWUD to distribute HIV self-testing (HIVST) kits with information and referrals to other PWUD in their social networks to promote HIV testing and HIV service engagement among PWUD.
-: SSP Standard of Care — Delivery of prevention supplies and information on local services.
-Link: https://clinicaltrials.gov/study/NCT06848686
-
-SUMMARY:
-
-
 ## NCT07685600
 An Open-label, Randomised, Two Arm, Fixed Sequence Study in Healthy Participants to Assess the Pharmacokinetics of AZD4144 When Administered Alone and in Combination With Itraconazole
 

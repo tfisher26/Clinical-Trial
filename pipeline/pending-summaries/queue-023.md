@@ -1342,18 +1342,6 @@ Link: https://clinicaltrials.gov/study/NCT07075731
 SUMMARY:
 
 
-## NCT06967051
-An Open Label Pilot Study Evaluating the Efficacy of a Smart Phone-based Test on Measuring Pupillary Light Reflex Alterations Following Cannabis Use Healthy in Adults
-
-Intervention: : Tetrahydrocannabinol (10 mg) — 10 mg of Tetrahydrocannabinol (THC) provided as a softgel capsule
-: Tetrahydrocannabinol (25 mg) — 25 mg of THC provided as a softgel capsule.
-: Pupillary Light Reflex (PLR) Test — SOBEREYE OPTOVERA is a portable, non-invasive test that measures the Pupillary Light Reflex (PLR)
-: Pupillometer — NeuroLight is an automated pupillometer that generates a flash of light and measures the photomotor reflex very accurately.
-Link: https://clinicaltrials.gov/study/NCT06967051
-
-SUMMARY:
-
-
 ## NCT06684379
 Double-blind, Randomized, Placebo-controlled, Pilot Clinical Trial to Evaluate the Safety, Tolerability and Efficacy of Two Doses of a Conditioned Medium From a Co-culture of M2-macrophages and Fat-derived Mesenchymal Cells (PRS CK STORM) in the Modulation of the Cytokine Storm in Patients With Acute Respiratory Infection Caused by SARS-Cov-2, Influenza A, Influenza B and Respiratory Syncytial Virus (RSV)
 

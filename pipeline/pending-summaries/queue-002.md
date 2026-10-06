@@ -659,15 +659,6 @@ Link: https://clinicaltrials.gov/study/NCT06208007
 SUMMARY:
 
 
-## NCT07230236
-Investigation of the Relationship Between LS Chirp ABR and Comprehension In Noise Skills In Individuals With Suspected Hidden Hearing Loss
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07230236
-
-SUMMARY:
-
-
 ## NCT05196334
 Pharmacotyping of Patient-derived Pancreatic Cancer Organoids From Endoscopic Ultrasound-guided Biopsy as a Tool for Predicting Oncological Response
 

@@ -2117,15 +2117,6 @@ Link: https://clinicaltrials.gov/study/NCT06823895
 SUMMARY:
 
 
-## NCT04500899
-Evaluating the Severity of Mitral Regurgitation Using Phenylephrine During Transesophageal Echocardiography
-
-Intervention: : Mydfrin — A test dose of 20 mcg of Mydfrin will be administered through the peripheral intravenous line. BP will be monitored after each bolus of phenylephrine. Subsequent Mydfrin injections will then be administered in 50 mcg aliquots every 10-15 minutes, instead of 40 mcg, until the mean arterial blood pressure (MAP) increases by ≥ 20 mm Hg from the baseline MAP, however making sure not to exceed a MAP of 100 mmHg. Once a desired blood pressure has been achieved and maintained, echocardiographic evaluation of mitral regurgitation would be performed.
-Link: https://clinicaltrials.gov/study/NCT04500899
-
-SUMMARY:
-
-
 ## NCT07463898
 PRoteomics and EchoCardiography for Identifying Subclinical Cardiac Dysfunction in Preeclampsia (PRECISE)
 

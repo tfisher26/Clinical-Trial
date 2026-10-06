@@ -511,15 +511,6 @@ Link: https://clinicaltrials.gov/study/NCT07237373
 
 SUMMARY:
 
-## NCT07237438
-Total Intravenous Anesthesia Versus Balanced Anesthesia on Loss of Muscle Mass After Colorectal Cancer Surgery
-
-Intervention: : total intravenous anaesthesia — evaluate the impact of the type of anaesthesia (total intravenous anaesthesia (TIVA)/sevoflurane anaesthesia) for colorectal surgery on the muscle function and mass
-: sevoflurane anaesthesia — evaluate the impact of the type of anaesthesia (total intravenous anaesthesia (TIVA)/sevoflurane anaesthesia) for colorectal surgery on the muscle function and mass
-Link: https://clinicaltrials.gov/study/NCT07237438
-
-SUMMARY:
-
 ## NCT07237620
 Comparison of Calcium Hydroxide and Diclofenac Sodium as Intracanal Medicaments on Periapical Healing: A Fractal Analysis Study
 
@@ -3973,16 +3964,6 @@ Practices of Prone Positioning Ventilation in Patients With Moderate-to-Severe A
 
 Intervention: : Prone position ventilation — Patients underwent prone positioning while receiving invasive mechanical ventilation
 Link: https://clinicaltrials.gov/study/NCT07284888
-
-SUMMARY:
-
-## NCT07284979
-A Phase 3, Randomized, Active- and Placebo-Controlled, Partially-Blinded Study to Compare the Efficacy and Safety of KAI-9531 Administered Once Weekly Versus Semaglutide and Placebo in Participants Living With Obesity Who Do Not Have Diabetes
-
-Intervention: : Ribupatide — SC Injection
-: Semaglutide — SC Injection
-: Placebo — SC Injection
-Link: https://clinicaltrials.gov/study/NCT07284979
 
 SUMMARY:
 
@@ -8180,14 +8161,6 @@ Hamburg Acute Renal Injury Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07338669
-
-SUMMARY:
-
-## NCT07338916
-Minimum Effective Volume (MEV90) of Local Anesthetic Required for Ultrasound-Guided Interscalene Block for Supraclavicular Nerve Block: A Dose-Finding Study
-
-Intervention: : Ultrasound-Guided Interscalene Block with Bupivacaine — Participants will receive a single-shot interscalene brachial plexus block performed under real-time ultrasound guidance. The block targets the C5-C6 nerve roots between the anterior and middle scalene muscles using an in-plane technique. The local anesthetic is bupivacaine 0.5% with epinephrine (5 µg/mL). The injected volume ranges from 12 mL to 30 mL, determined by a dose-finding algorithm (biased coin up-and-down sequential design) to calculate the minimum effective volume (MEV90) for supraclavicular nerve block. All procedures are performed by experienced anesthesiologists following standard safety protocols, including incremental injection with aspiration and continuous monitoring (ECG, SpO₂, non-invasive blood pressure).
-Link: https://clinicaltrials.gov/study/NCT07338916
 
 SUMMARY:
 
@@ -15036,14 +15009,6 @@ Chemogenomic Profiling in Hematological Malignancies (HEM-Profiling 2021)
 
 Intervention: : Genetic, molecular and/or omics analyses — The focus of our scientific approach is based on genetic, molecular and/or omics analyses performed with new technologies (Nanostring, NGS, single cell technologies, radiomics)
 Link: https://clinicaltrials.gov/study/NCT07445984
-
-SUMMARY:
-
-## NCT07446088
-A Single-center, Open-label, Exploratory Clinical Trial to Evaluate the Safety and Efficacy of a Statics Electricity Generator for Electric Stimulation Home Use(CGM MEPC_2401) for Improving Blood Circulation
-
-Intervention: : CERAGEM CELLTRON CIRCULATION CHAIR (CGM MEPC-2401) — Improving blood circulation device (Ceragem Celltron Circulation Chair)
-Link: https://clinicaltrials.gov/study/NCT07446088
 
 SUMMARY:
 

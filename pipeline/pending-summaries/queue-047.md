@@ -2028,16 +2028,6 @@ Link: https://clinicaltrials.gov/study/NCT06779578
 
 SUMMARY:
 
-## NCT06779604
-Comparison of the Anesthetic Effects of Dexmedetomidine and Dexamethasone Added as Adjuvant to Ultrasonography-Guided Infraclavicular Brachial Plexus Block in Upper Limb Surgery
-
-Intervention: : Infraclavicular Block with Dexmedetomidine and Dexamethasone — Infraclavicular block with Dexmedetomidine and Dexamethasone was performed at least 30 min before the start of the operation. The patient was positioned in a supine position arms at the sides or in 90 degree abduction, head turned to the other side. Infraclavicular block was performed with the lateral sagittal technique, while the USG probe was placed under the clavicle and medial to the coracoid process, providing a brachial plexus image in the form of a hyperechoic outer ring and hypoechoic circles, like a classic honeycomb image. A local anesthetic mixture was injected with a 100 mm block needle with negative aspiration and its spread in tissue planes was observed.
-
-If the VAS score was 3 or above, tramadol 1 mg kg-1 was administered as an analgesic drug.
-Link: https://clinicaltrials.gov/study/NCT06779604
-
-SUMMARY:
-
 ## NCT06779799
 Characterization of "Bamboo" and Other Vocal Cord Lesions Responsible for Dysphonia in Patients With Systemic Autoimmune Diseases.
 
@@ -2877,14 +2867,6 @@ Prehospital Extracorporeal Cardiopulmonary Resuscitation: A Pilot Study in Pragu
 
 Intervention: : Extracorporeal cardiopulmonary resuscitation (ECPR) — Prehospital extracorporeal cardiopulmonary resuscitation (ECPR)
 Link: https://clinicaltrials.gov/study/NCT06789978
-
-SUMMARY:
-
-## NCT06790160
-Observational Study of Patients Being Treated With Anti-obesity Medication
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06790160
 
 SUMMARY:
 
@@ -10999,16 +10981,6 @@ A Prospective Phase II Clinical Study of Serplulimab Combined With Platinum-cont
 
 Intervention: : 4 cycles of Serplulimab combined with etoposide and carboplatin or cisplatin — After 4 cycles of Serplulimab combined with etoposide and carboplatin or cisplatin then MDT determines surgery or radical radiotherapy
 Link: https://clinicaltrials.gov/study/NCT06911606
-
-SUMMARY:
-
-## NCT06911996
-Immersive Bedside Teaching for Hospitalized Pediatric Patient - A Prospective, Mixed-method, Cohort Study
-
-Intervention: : Virtual Reality — After obtaining written consent, participants will be asked to complete a brief demographic survey and pre-intervention surveys (content knowledge, and wellbeing surveys). They will then be equipped with a VR headset, Quest 3 (Meta, Inc., Menlo Park, CA) displaying the educational field trip. After the VR field trip, participants will participate in a complementary hands-on science experiment. At the conclusion of the experiment, patients will be asked to complete the post intervention surveys (i.e awe, content knowledge, and wellbeing surveys).
-
-Additionally, for the first 20 participants, 15 participants will be randomly selected and asked to participate in a 5 open-ended question qualitative interview regarding engagement of the lesson. Audio will be recorded via zoom.
-Link: https://clinicaltrials.gov/study/NCT06911996
 
 SUMMARY:
 

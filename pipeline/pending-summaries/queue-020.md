@@ -2315,15 +2315,6 @@ Link: https://clinicaltrials.gov/study/NCT07453251
 SUMMARY:
 
 
-## NCT05153967
-U01 Cooperative Assessment of Late Effects for Sickle Cell Disease Curative Therapies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05153967
-
-SUMMARY:
-
-
 ## NCT06325384
 VISION-Real World Evaluation
 

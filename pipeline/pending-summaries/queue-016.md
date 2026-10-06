@@ -654,16 +654,6 @@ Link: https://clinicaltrials.gov/study/NCT05691036
 SUMMARY:
 
 
-## NCT05847322
-A Human Controlled Infection Study to Establish Safety of Infection With Bordetella Pertussis With Antibiotic Therapy Delayed for up to 6 Weeks
-
-Intervention: : Bordetella pertussis B1917 — The B. pertussis isolate to be used in this human colonisation model is strain B1917, which is representative of current isolates in Europe. The strain, isolated in 2000 from a Dutch patient with B. pertussis disease, expresses Pertactin (PRN), Pertussis Toxin (PT) and Filamentous Haemagglutinin (FHA). This strain has been extensively characterised in the mouse model as well as by proteomics and transcriptomics and has a closed genome available. It is fully sensitive to azithromycin in vitro.
-: Azithromycin Pill — A 3 day course of azithromycin will be administered to all colonised volunteers at week 6, or sooner if early pertussis disease is suspected
-Link: https://clinicaltrials.gov/study/NCT05847322
-
-SUMMARY:
-
-
 ## NCT07002814
 Feasibility of Direct Oral Challenges in Private Practice Setting for the Evaluation of Mild Delayed Reactions to Beta-lactams in Children
 

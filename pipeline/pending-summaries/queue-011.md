@@ -1029,16 +1029,6 @@ Link: https://clinicaltrials.gov/study/NCT06772038
 SUMMARY:
 
 
-## NCT07612813
-A Phase I, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Safety and Pharmacokinetics of AZD7760 in Healthy Japanese Adult Participants
-
-Intervention: : AZD7760 — Participants will receive AZD7760 via IV infusion.
-: Placebo — Participants will receive matching placebo via IV infusion.
-Link: https://clinicaltrials.gov/study/NCT07612813
-
-SUMMARY:
-
-
 ## NCT05802264
 A 3-part Study of ABCI: a Randomized, Double-blind, Placebo-controlled, Single-ascending Dose Phase 1a Study in Healthy Volunteers (Part A), a Randomized, Double-blind, Placebo-controlled, 14- and 28-day Multiple-ascending Dose Phase 1a Study in Healthy Volunteers (Part B), and a 28-day Open-Label Phase 1b Study in Subjects with Cystic Fibrosis (Part C)
 

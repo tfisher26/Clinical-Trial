@@ -8449,14 +8449,6 @@ Link: https://clinicaltrials.gov/study/NCT05797467
 
 SUMMARY: Stage T3-4N2 colorectal cancer has a high risk of coming back. This study compares adjuvant chemotherapy plus targeted therapy with chemotherapy alone.
 
-## NCT05797649
-Comparing N-terminal-proB-type Natriuretic Peptide with Other Diagnostic Criteria in Discriminating Heart Failure-associated from Non-heart Failure-associated Pleural Effusions
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05797649
-
-SUMMARY:
-
 ## NCT05797909
 The PCOS Challenge Study: For the Collection of Information to Advance Research and Improve Care for PCOS Patients
 

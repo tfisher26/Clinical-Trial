@@ -705,15 +705,6 @@ Link: https://clinicaltrials.gov/study/NCT06894290
 SUMMARY:
 
 
-## NCT04501081
-Natural History of Autosomal Dominant Hearing Loss
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04501081
-
-SUMMARY:
-
-
 ## NCT07141537
 Caloric Balance Markers (CaBooM) Study
 

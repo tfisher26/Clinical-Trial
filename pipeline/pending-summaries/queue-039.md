@@ -1104,15 +1104,6 @@ Link: https://clinicaltrials.gov/study/NCT05733104
 SUMMARY:
 
 
-## NCT07295015
-Digital Maternal Support Tool Implementation: Research to Inform a Statewide Postpartum App Implementation Strategy
-
-Intervention: : Smartphone application — The smartphone app is designed to provide postpartum education, screening and tracking, and positive parenting support for newly postpartum English-language speakers in Pennsylvania.
-Link: https://clinicaltrials.gov/study/NCT07295015
-
-SUMMARY:
-
-
 ## NCT07285915
 Stress as a Key Factor Influencing the Onset and Course of Cardiac Arrest
 
@@ -3374,15 +3365,6 @@ Intervention: : Conservative treatment — Receive no antipaletet drug treatment
 : Antipaletet drug — Use of antipaletet drugs.
 : Patent Foramen Ovale Closure — Receive the surgery of Patent Foramen Ovale
 Link: https://clinicaltrials.gov/study/NCT06953622
-
-SUMMARY:
-
-
-## NCT05361551
-Stereotactic Liver Ablation Assisted With Intra-Arterial CT Hepatic Arteriography and Ablation Confirmation Software Assessment (STEREOLAB)
-
-Intervention: : Liver ablation — Ablation needle placement An image-guidance device be used for planning of the procedure and for placement of the ablation needle
-Link: https://clinicaltrials.gov/study/NCT05361551
 
 SUMMARY:
 

@@ -13994,15 +13994,6 @@ Link: https://clinicaltrials.gov/study/NCT06389097
 
 SUMMARY:
 
-## NCT06389591
-A Phase I Study of RNA-Lipid Particle (RNA-LP) Vaccines for Recurrent Adult Glioblastoma (GBM)
-
-Intervention: : pp65 RNA loaded lipid particles, pp65 RNA-LPs (Drug Product 1 or DP1) — pp65 RNA loaded lipid particles or pp65 RNA-LPs administered intravenously
-: RNA loaded lipid particles, RNA-LPs (Drug Product 2 or DP2) — personalized tumor mRNA, pp65 fl LAMP mRNA and DOTAP liposomes or RNA loaded lipid particles, RNA-LPs administered intravenously
-Link: https://clinicaltrials.gov/study/NCT06389591
-
-SUMMARY: Glioblastoma that comes back after treatment has very few options. This study tests vaccines made from RNA packaged in fat particles, given into a vein, to train the immune system to attack the tumor.
-
 ## NCT06389773
 Fostering Teamwork for Resilient Staff and Safe Care: Driving Post-pandemic Recovery and Renewal in Intensive Care Units
 

@@ -892,16 +892,6 @@ Link: https://clinicaltrials.gov/study/NCT06480201
 
 SUMMARY:
 
-## NCT06480500
-Integrated Internet-Based Cognitive Behavioural Therapy (i-CBT) and Intravenous Ketamine for Suicidality in Treatment-Resistant Depression: A Randomized, Midazolam-Controlled Clinical Trial
-
-Intervention: : Ketamine hydrochloride — 55 patients will receive ketamine hydrochloride, over six infusions, flexibly dosed between 0.5 mg/kg to 0.85 mg/kg.
-: i-CBT (Internet-based Cognitive Behavioural Therapy) — Each week for 13 weeks, participants will watch an online module that last approximately 45-50 mins each, with homework at the end of each module. Homework is submitted and reviewed by a therapist, who will provide personalized feedback before progression to the next module.
-: Midazolam Hydrochloride — 55 patients will receive midazolam hydrochloride, over six infusions, flexibly dosed between 0.02 mg/kg to 0.035 mg/kg.
-Link: https://clinicaltrials.gov/study/NCT06480500
-
-SUMMARY: People with depression that resists treatment are at high risk of suicide. This study combines intravenous ketamine with internet based cognitive behavioral therapy and compares it with a control medicine to see whether it reduces suicidal thoughts.
-
 ## NCT06480604
 A Pilot Clinical Trial Assessing the Effect of a Multi-strain Probiotic on the Risk of Recurrence and Severity of Symptoms in Females With Recurrent Vulvovaginal Candidiasis
 
@@ -14597,15 +14587,6 @@ Link: https://clinicaltrials.gov/study/NCT06712095
 
 SUMMARY:
 
-## NCT06712147
-A Promotora-centric Community Collaborative to Improve Connections to Mental Health Service
-
-Intervention: : Overcoming Life's Hurdles: Mental health education — The intervention group will cover educational topics around mental health including: mental health literacy, individual coping skills, stigma reduction strategies, resources for mental health support, and mental health rights.
-: Overcoming Life's Hurdles: Resources in the community — The control group will cover topics including: mental health resources in the community, violence (i.e. domestic violence), employment and education opportunities, housing and tenant rights, immigration and acculturation, and community team building and empowerment.
-Link: https://clinicaltrials.gov/study/NCT06712147
-
-SUMMARY:
-
 ## NCT06712316
 A Phase II/III, Multisite, Randomized Master Protocol for a Global Trial of BNT327 in Combination With Chemotherapy and Other Investigational Agents in First-line Non-small Cell Lung Cancer
 
@@ -15465,14 +15446,6 @@ Intervention: : Daily infusion of dornase alfa — Daily infusion of dornase alf
 Link: https://clinicaltrials.gov/study/NCT06723717
 
 SUMMARY: Bleeding around the brain from a burst aneurysm can cause lasting disability, partly through inflammation. This study tests daily infusions of dornase alfa, an enzyme that breaks down inflammatory DNA traps, for up to 14 days to see whether it improves recovery.
-
-## NCT06723782
-Surgical Release of Hand Tendons with Wrapping of the Released Tendon Using an Amniotic Membrane
-
-Intervention: : AMTRIX-D — Use of a decellularized, viro-inactivated, desiccated, and sterile allogeneic amniotic membrane graft to wrap a tendon after release of its adhesions.
-Link: https://clinicaltrials.gov/study/NCT06723782
-
-SUMMARY: Surgery to free stuck tendons in the hand can lead to new scarring. This study tests wrapping the freed tendon in a donor amniotic membrane to see whether it reduces scarring and improves movement.
 
 ## NCT06723925
 Neonatal Screening of Biotinidase Deficiency: Genotype-phenotype Correlation and Clinical Follow-up of Patients Identified at the Regional Centre for Neonatal Screening of Endocrine-Metabolic Diseases in Bologna

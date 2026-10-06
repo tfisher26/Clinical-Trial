@@ -14189,14 +14189,6 @@ Link: https://clinicaltrials.gov/study/NCT07700108
 
 SUMMARY:
 
-## NCT07700186
-Comparison of Objective Skin Barrier Function Parameters Between Women Who Use and Women Who Do Not Use UV Nail Lamps for Nail Treatments
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07700186
-
-SUMMARY:
-
 ## NCT07700953
 A Single-Center, Open-Label, Multiple-Period Study to Evaluate the Effects of Low-Fat Meal, High-Fat Meal and Omeprazole on the Pharmacokinetics of ABSK-011 Capsules in Healthy Participants
 
@@ -16836,14 +16828,6 @@ The Relationship Between Body Awareness and Clinical Parameters in Patients With
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07743892
-
-SUMMARY:
-
-## NCT07743970
-Clinical Validation of the NowFuture Digital Flu / COVID Test in Anterior Nasal Samples for Over-the-Counter (OTC) Use in Australia
-
-Intervention: : Diagnostic test for SARS-CoV-2, influenza A and influenza B — Participants will test themselves or another participant for SARS-CoV-2, influenza A and influenza B. Participants will observe the test result displayed on the device. Participants will be advised to not use investigational test result for diagnostics purposes.
-Link: https://clinicaltrials.gov/study/NCT07743970
 
 SUMMARY:
 

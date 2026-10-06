@@ -6276,15 +6276,6 @@ Link: https://clinicaltrials.gov/study/NCT04783454
 SUMMARY:
 
 
-## NCT07730554
-A Phase 2 Open-Label Study to Evaluate the Safety and Efficacy of AGN-151586 for the Treatment of Moderate to Severe Forehead Lines (FHL) in Adults
-
-Intervention: : AGN-151586 — Injection
-Link: https://clinicaltrials.gov/study/NCT07730554
-
-SUMMARY:
-
-
 ## NCT06116422
 Nutrition and Obesity in Under-Represented Populations: Food Insecurity Research to Advance Science and Improve Health: A Multi-disciplinary Approach for Study and Mitigation of Food Insecurity and Obesity
 

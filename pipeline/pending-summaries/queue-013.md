@@ -520,15 +520,6 @@ Link: https://clinicaltrials.gov/study/NCT06073106
 SUMMARY:
 
 
-## NCT07083999
-Prospective Observational Study to Evaluate Fertility in Women Between 32 and 38 Years Old Treated With the Ovosicare® Fertility Food Supplement Containing a Combination of MYO/DCI in a 3.6:1 Ratio, Antioxidants, Vitamins and Minerals
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07083999
-
-SUMMARY:
-
-
 ## NCT07223645
 Handgrip Training and Brain Blood Flow Regulation
 

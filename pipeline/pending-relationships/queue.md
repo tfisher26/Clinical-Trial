@@ -102495,3 +102495,39 @@ Member of household 2 or more years of age.
 
 RELATIONSHIP:
 
+## NCT05095090
+Observational Cohort Study of Hospitalised Patients With Acute Respiratory Conditions
+Conditions: infectious/chlamydial_pneumonia, respiratory/asthma
+
+Inclusion criteria:
+"""
+(Core study participants)
+
+1. Hospital admission with an acute respiratory diagnosis, or currently under the care of hospital respiratory outpatient services for a chronic respiratory disease
+2. Participant is willing \& able to give informed consent for participation in the study
+3. Aged 18 years or above
+4. Able (in the Investigators opinion) \& willing to comply with all study requirements
+
+Exclusion Criteria (Core study participants)
+
+1. Unstable or life-threatening cardiac disease including myocardial infarction or unstable angina during current admission.
+2. Any other significant disease or disorder which, in the opinion of the Investigator, may either put the participants at risk because of participation in the study, or may influence the result of the study, or the participant's ability to participate in the study.
+3. Known pregnancy
+
+Inclusion Criteria (Healthy Controls)
+
+1. Aged 18 years or above
+2. No underlying respiratory disease as self-reported
+3. Able (in the Investigators opinion) \& willing to comply with all study requirements
+
+Exclusion Criteria (Healthy Controls)
+
+1. Hospitalised due to an acute respiratory illness in the last 6 weeks prior to consent
+2. Any other significant disease or disorder which, in the opinion of the Investigator, may either put the participants at risk because of participation in the study, or may influence the result of the study, or the participant's ability to participate in the study.
+3. Known pregnancy
+
+Additional inclusion and exclusion criteria for CHESTY sub-studies are detailed in the corresponding sub-study protocols.
+"""
+
+RELATIONSHIP:
+

@@ -691,18 +691,6 @@ Link: https://clinicaltrials.gov/study/NCT07005713
 
 SUMMARY:
 
-## NCT07005973
-Effects of Mobile-based Mindfulness Intervention to Reduce Preoperative Anxiety for Patients Undergoing Elective Surgery: A Pilot Randomized Controlled Trial
-
-Intervention: : mobile-based mindfulness intervention — Patients will be provided with usual care by surgeon, anesthetist and perioperative team, and they will be asked to install a validated mindfulness based mobile app during the PAS session. Orientation and teaching on the use of the mobile app will be carried out by research team. Return demonstration by patients will be performed at the end to ensure they are capable to use the app at home independently.
-
-A minimum of 4-week intervention duration with session lengths of 1 min, 3 days per week is set for this study.
-
-Patients will be distributed a dairy log to record the frequency and duration of mindfulness practice and submit to the researcher on the day of admission. Follow up on patient's progress through phone call or whatsapp will be provided by the researcher to ensure patient's adherence to the intervention on a bi-weekly basis.
-Link: https://clinicaltrials.gov/study/NCT07005973
-
-SUMMARY:
-
 ## NCT07005986
 Role of Circulating Pyrophosphate as a Biomarker of Mediacalcinosis in Type 2 Diabetic Patients
 
@@ -6039,16 +6027,6 @@ Link: https://clinicaltrials.gov/study/NCT07078591
 
 SUMMARY:
 
-## NCT07079163
-Comparison of Patient Satisfaction and Prosthetic Complications Between Conventional Immediate Surgical Obturators and 3D-printed Immediate Surgical Obturators With Enhanced Retention
-
-Intervention: : Obturator block — A manually fabricated obturator using a preoperative maxillary cast, retained with clasps and wire. Delivered immediately after maxillectomy.
-: Obturator block — A digitally designed obturator based on fused CBCT and intraoral scan data. Fabricated in resin using 3D-printing, and retained with 3D-printed clasps and palatal screws. Delivered immediately post-maxillectomy
-: Obturator block — A digitally designed and 3D-printed obturator fabricated in metal, using CBCT and intraoral scan data. Retention is provided by metal clasps and palatal screws. Delivered during or immediately after surgery.
-Link: https://clinicaltrials.gov/study/NCT07079163
-
-SUMMARY:
-
 ## NCT07079254
 Surgical Outcome After Displaced Bucket-handle Meniscal Lesions - Repair Versus Partial Meniscectomy: A 10-year Observational Study
 
@@ -6989,17 +6967,6 @@ Link: https://clinicaltrials.gov/study/NCT07094373
 
 SUMMARY:
 
-## NCT07094386
-Ultrasound Guided Techniques for Postoperative Analgesia in Patients Undergoing Open Upper Abdominal Surgeries: External Oblique Intercostal Plane Block vs. Quadratus Lumborum Block; A Randomized Controlled Trial
-
-Intervention: : External Oblique Intercostal Plain Block — The patient will be placed in the supine position. After sterilization of the skin, a high-frequency linear probe (6-13 MHz) will be placed obliquely medial to the anterior axillary line, the 6th and 7th ribs, skin, subcutaneous tissues, and external oblique muscle \[EOM\], intercostal muscles, pleura, and the lung will be identified. An 80 mm 22-gauge block needle (Stimuplex® D, BBraun, Germany) will be inserted in-plane to the US-probe in a craniocaudal direction directed under EOM. After confirmation of negative blood aspiration, 2-3 mL of normal saline will be injected for hydro-dissection to verify the correct needle tip placement then 30 mL of 0.25% bupivacaine will be injected between the EOM and intercostal muscles
-: Quadratus Lumborum Block — Quadratus lumborum block will be performed. The patient will be placed in the lateral decubitus position After sterilization of the skin, a low frequency convex probe (5-8 MHz) will be positioned horizontally in the anterior axillary line half way between the subcostal margin and the iliac crest then will be advanced in the cranial direction to visualize the triple abdominal muscle layers and identifying the posterior border of the EO muscle (hook sign) with the underlying IO musclenforming a roof over the QL muscle. The QL muscle could be visualized with its attachment to the lateral edge of the transverse process of the L4 vertebral body. An 80 mm 22-gauge block needle will be inserted in-plane to the US-probe in an anterolateral to posteromedial direction. The needle tip will be placed between the middle layer of the thoracolumbar fascia and the QL muscle. After confirmation of negative blood aspiration, 30 mL of 0.25% bupivacaine will be injected.
-: Bupivacaine %0.25 (isobaric) — A single injection of 30 mg of 0.25 % bupivacaine will be administered as part of the External Oblique Intercostal Plain Block under ultrasound guidance, after confirming needle placement between the external oblique and intercostal muscles.
-: Bupivacaine %0.25 (isobaric) — A single injection of 30 mg of 0.25 % bupivacaine will be administered as part of the Quadratus Lumborum Block under ultrasound guidance, after confirming of correct needle placement and negative aspiration.
-Link: https://clinicaltrials.gov/study/NCT07094386
-
-SUMMARY:
-
 ## NCT07094438
 Study Safety and Efficacy of Deep Brain Stimulation (DBS) and Cervical Deep Lymphoid-venous Anastomosis (LVA) in Patients With Severe Alzheimer's Disease
 
@@ -7542,14 +7509,6 @@ Effect of Expiratory Muscle Strength on Hospital Admission, Disease Severity and
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07104942
-
-SUMMARY:
-
-## NCT07105163
-Observational, Cross-sectional, Multicenter Study to Evaluate Adherence to Different Treatment Regimens With Oral Bisphosphonates and Calcium and Vitamin D Supplements in Postmenopausal Osteoporosis.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07105163
 
 SUMMARY:
 
@@ -10580,14 +10539,6 @@ Link: https://clinicaltrials.gov/study/NCT07143578
 
 SUMMARY:
 
-## NCT07143643
-The Effect of Using Escape Room Method on Nursing Studentsˈ Self-Efficacy, Team Collaboration and Anxiety in Nursing Process Teaching
-
-Intervention: : Excape room game — Application of Research:The escape room game scenario prepared by the researchers was designed according to the steps of the Nursing Process. The game consists of five stages, each conducted at different stations, and each stage includes various clues and activities. The stages were organized to cover the steps of the Nursing Process: "Assessment, Nursing Diagnosis, Planning, Implementation, and Evaluation." Before starting the game, the students who will participate will be informed about the expected objectives, the game rules, and the duration. In addition, it will be stated that each group must select a group leader. The students will be given a total of 60 minutes to answer the questions in each stage, assemble puzzle pieces, unlock locked boxes, follow the clues, and find the exit key in order to leave the room. The students will be expected to complete the tasks at the stations prepared in accordance with the Nursing Process stages and to exit the room within the allotted time.
-Link: https://clinicaltrials.gov/study/NCT07143643
-
-SUMMARY:
-
 ## NCT07143695
 Parasternal Intercostal Muscle Thickening as an Additive Weaning Criterion to Minimize Re-intubation Rate: a Randomized Controlled Trial
 
@@ -12115,14 +12066,6 @@ Link: https://clinicaltrials.gov/study/NCT07168434
 
 SUMMARY:
 
-## NCT07168590
-The Effect of Radiographically Evaluated Anatomical Axis on Pain and Kinesiophobia in Knee Osteoarthritis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07168590
-
-SUMMARY:
-
 ## NCT07168720
 Study on Pharmacokinetics and Clinical Efficacy of Dexmedetomidine Hydrochloride Microneedles(DEX) for Preoperative Sedation in Children
 
@@ -12815,15 +12758,6 @@ Total Energy Expenditure in Healthy Chinese Populations: A Nationwide Study Usin
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07178054
-
-SUMMARY:
-
-## NCT07178093
-Effects of Antrodia Cinnamomea on the Hepatoma Patients After Transcatheter Hepatic Artery Chemoembolization
-
-Intervention: : Antrodia cinnamomea — The experiment lasted for 11 days, and patients were required to take Kangjian Antrodia cinnamomea 3 days before embolization, the day of embolization to the 7th day after surgery, once a day in the morning and evening after meals, 2 capsules each time.
-: placebo — The experiment lasted for 11 days, and patients were required to take placebo 3 days before embolization, the day of embolization to the 7th day after surgery, once a day in the morning and evening after meals, 2 capsules each time.
-Link: https://clinicaltrials.gov/study/NCT07178093
 
 SUMMARY:
 

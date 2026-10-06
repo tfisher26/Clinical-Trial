@@ -1646,41 +1646,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04499365
-68Ga-DOTA/NOTA-FAPI-04 PET/CT in Patients With Various Types of Cancer
-
-Intervention: : 68Ga-DOTA/NOTA-FAPI-04 — Each patient receive a single intravenous injection of 68Ga-DOTA/NOTA-FAPI-04, and undergo PET/CT scan within specified time.
-: PET/CT scan — PET/CT scan
-Link: https://clinicaltrials.gov/study/NCT04499365
-
-SUMMARY:
-
-## NCT04499833
-Evaluation of the HepatoPredict Prognostic Tool in the Decision of Liver Transplant in Hepatocellular Carcinoma
-
-Intervention: : liver transplant — liver transplant
-Link: https://clinicaltrials.gov/study/NCT04499833
-
-SUMMARY:
-
-## NCT04499898
-Randomized Controlled Trial of Carvedilol Versus Endoscopic Band Ligation for Primary Prophylaxis of Oesophageal Variceal Bleeding in Cirrhotic Patients With Arterial Hypertension
-
-Intervention: : Carvedilol — Carvedilol
-: Endoscopic band ligation — Endoscopic band ligation
-Link: https://clinicaltrials.gov/study/NCT04499898
-
-SUMMARY: People with cirrhosis can develop swollen veins in the esophagus that may burst and bleed. This study compares the blood pressure drug carvedilol with tying off the veins with bands during endoscopy to prevent a first bleed.
-
-## NCT04500756
-LIMItIng AAA With meTformin (LIMIT) Trial
-
-Intervention: : Metformin — Smaller studies have suggested that metformin may reduce the rate at which aortic aneurysms enlarge. This study will test this question: does metformin prevent AAAs from growing larger?
-: Placebo — One group will be randomized to receive the study drug Metformin and the other group will receive a placebo
-Link: https://clinicaltrials.gov/study/NCT04500756
-
-SUMMARY: An abdominal aortic aneurysm is a bulge in the body's main artery that can grow and burst. This study tests whether metformin, a common diabetes drug, slows the growth of these aneurysms.
-
 ## NCT04501120
 A Phase Ib Study of the Safety, Pharmacokinetic of Lisaftoclax (APG-2575) Single Agent and in Combination With Homoharringtonine or Azacitidine in Patients With Relapsed/Refractory AML
 
@@ -16636,15 +16601,6 @@ Intervention: : Shiley™ phonate speaking valve — The device connects to the 
 Link: https://clinicaltrials.gov/study/NCT05482022
 
 SUMMARY: People with a tracheostomy may have trouble speaking and swallowing. This study tests the Shiley Phonate speaking valve to see how it affects breathing, swallowing and voice.
-
-## NCT05482516
-Evaluating Novel Therapies and ctDNA as a Marker in Curatively-Treated Gastrointestinal Cancers With Microscopic Residual Disease
-
-Intervention: : Atezolizumab — Atezolizumab is a monoclonal antibody that belongs to a class of drugs that bind to either the programmed death-receptor 1 (PD-1) or the PD-ligand 1 (PD-L1), blocking the PD-1/PD-L1 pathway,
-: Bevacizumab — Bevacizumab is a tumor-starving (anti-angiogenic) therapy. Avastin is designed to block a protein called vascular endothelial growth factor, or VEGF.
-Link: https://clinicaltrials.gov/study/NCT05482516
-
-SUMMARY:
 
 ## NCT05482789
 Pilot Study of Exenatide Pharmacokinetics and Pharmacodynamics in Gestational Diabetes

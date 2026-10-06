@@ -3847,16 +3847,6 @@ Link: https://clinicaltrials.gov/study/NCT07527143
 SUMMARY:
 
 
-## NCT05939453
-A Randomized, Double-Blind, Controlled Trial of Bright Light Therapy on All-Cause Excessive Daytime Sleepiness in Prader-Willi Syndrome
-
-Intervention: : Sham Light — Sham treatment will be provided from a light box at a distance of at least 70cm but no greater than 90cm.
-: Bright Light Therapy — Bright Light Therapy will be provided using light box with an artificial full spectrum lamp at a distance of at least 70cm but no greater than 90cm.
-Link: https://clinicaltrials.gov/study/NCT05939453
-
-SUMMARY:
-
-
 ## NCT06828653
 Feasibility RCT Evaluating Digitally and Traditionally Produced Ankle Foot Orthoses for Individuals With Impaired Lower Limb Function
 

@@ -3196,19 +3196,6 @@ Link: https://clinicaltrials.gov/study/NCT06426511
 SUMMARY:
 
 
-## NCT06806163
-Machine-Learning Prediction and Reducing Overdoses With EHR Nudges
-
-Intervention: : EHR-Embedded Elevated-Risk Flag — Clinicians seeing patients at elevated predicted risk will see a flag on the EHR 'storyboard' during in person or telephone encounters indicating the patient is at elevated predicted risk of opioid overdose. The clinician will have the option of including this information into their decision-making process when providing care. There will be no best practice alerts/behavioral nudges in this arm.
-: EHR-Embedded Elevated-Risk Flag with Behavioral Nudges — Clinicians seeing patients at elevated predicted risk for opioid overdose will see a flag on the EHR storyboard indicating that the patient is at elevated predicted risk.
-
-Clinicians will also receive up to 4 best practice alerts/behavioral nudges during an in-person or telephone primary care encounter with elevated risk patients when certain requirements are met: 1) if the patient does not have an active naloxone prescription on their medication list, the clinicians will receive an active choice alert during any medication ordering to encourage naloxone prescription; 2) if the patient's opioid dosage is \>50 MME, OR they are ordered a new opioid prescription, OR they have an overlapping opioid and benzodiazepine prescription order, the clinicians will receive an accountable justification alert when the relevant order is entered.
-: Usual Care — Patients in the practices randomized to the Usual Care arm will receive standard care practice without change.
-Link: https://clinicaltrials.gov/study/NCT06806163
-
-SUMMARY:
-
-
 ## NCT05862389
 Study on the Mechanism of Eating Disorder
 
@@ -3332,16 +3319,6 @@ Pharmacological Effects of Cannabidiol on Responses to Stress and Nicotine Withd
 
 Intervention: : Epidiolex — Oral cannabidiol
 Link: https://clinicaltrials.gov/study/NCT07001930
-
-SUMMARY:
-
-
-## NCT06809634
-Feasibility of a Randomized Controlled Trial of Large Artificial Intelligence-Based Linguistic Models for Clinical Reasoning Training of Physical Therapy Students. A Randomized Controlled Trial
-
-Intervention: : Large Language Model — The intervention in the experimental group is distinguished by the integration of a Large Language Model (LLM)-based interactive platform (ChatGPT) into clinical reasoning training for physical therapy students. Unlike traditional educational approaches, this intervention provides real-time, AI-generated patient interactions, allowing students to actively engage in virtual clinical case simulations.
-: Conventional — The intervention in the control group follows a traditional case-based learning approach, which is commonly used in physical therapy education. Unlike the experimental group, this training method relies solely on human-led instruction and written case analysis, without the integration of artificial intelligence or interactive digital tools.
-Link: https://clinicaltrials.gov/study/NCT06809634
 
 SUMMARY:
 
@@ -5070,15 +5047,6 @@ Localized Mammary Alcohol Metabolism as a Mechanism Linking Low-Level Alcohol In
 Intervention: : Low-alcohol level exposure — Participants will consume a protocol-specified low-level alcohol exposure under study conditions. The assigned dose and biospecimen collection procedures will vary by study group.
 : Breast-pumping time — Breast pumping before or after drinking \~ 1 standard drink or placebo drink
 Link: https://clinicaltrials.gov/study/NCT07779967
-
-SUMMARY:
-
-
-## NCT06743594
-Effects of Laser Species and Ocular Antioxidant Activity on Postoperative Inflammation, Oxidative Stress and Visual Prognosis in Patients Undergoing Ophthalmic Surgery - a Comparative Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06743594
 
 SUMMARY:
 
