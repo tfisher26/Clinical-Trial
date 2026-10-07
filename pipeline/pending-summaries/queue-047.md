@@ -3249,17 +3249,6 @@ Link: https://clinicaltrials.gov/study/NCT06794632
 
 SUMMARY:
 
-## NCT06794762
-Examination of the Effects of Core Stabilization Exercises on Physical Function, Functional Muscle Strength, Functional Exercise Capacity, Postural Control and Fatigue in Children with Acute Lymphoblastic Leukemia Receiving Maintenance Treatment
-
-Intervention: : Conventional exercises — Aerobic exercise and stretching exercises will be applied in the conventional exercise program.
-
-A 20-30 minute walking will be done as aerobic exercise. Stretching exercises will be done for major muscle groups in 3 sets and 10 repetitions.
-: Core stabilization exercises in addition to conventional exercises — In addition to the conventional exercise program, core stabilization exercises will be applied. During the exercises, participants will be trained on neutralizing the spine and working the transverse abdominis and multifidus muscles, correct postural control, and performing the exercises with diaphragmatic breathing.
-Link: https://clinicaltrials.gov/study/NCT06794762
-
-SUMMARY:
-
 ## NCT06794879
 Survey of Parental Perception of Procedural Analgosedation in Pediatric Age.
 
@@ -4198,14 +4187,6 @@ BIDAP - Baby Swim As an Intervention for Depressive Symptoms and Lacking Attachm
 
 Intervention: : Baby swimming — Participants in the treatment group will be contacted by a researcher and invited to an introductory meeting at the swimming facility, where they will receive information about the baby swimming course from the instructor. The course will take place twice a week for five weeks, totaling 10 sessions of 30 minutes each. During the sessions, mothers will be encouraged to engage in physical contact, maintain eye contact, and respond to their baby's signals. The course will also include water safety exercises.
 Link: https://clinicaltrials.gov/study/NCT06807801
-
-SUMMARY:
-
-## NCT06807840
-Evaluating Immune Imprinting in the Context of Influenza Virus Infections
-
-Intervention: : influenza virus infection — Participants with active influenza virus infection will be enrolled in this study.
-Link: https://clinicaltrials.gov/study/NCT06807840
 
 SUMMARY:
 

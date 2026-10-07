@@ -14769,16 +14769,6 @@ Link: https://clinicaltrials.gov/study/NCT06406465
 
 SUMMARY:
 
-## NCT06406569
-Home RehabGym: a Qualitative and Usability Evaluation of Advanced Technologies for Home Upper Limb Neurorehabilitation Post-stroke
-
-Intervention: : H-Man Robot — The HMAN is certified as a CE class 2A upper limb rehabilitation robot suitable for hospital, clinic and home-based use in 2020 by Health Sciences Authority, Singapore. It has since been employed in post-stroke neurorehabilitation therapy and assessment of sensorimotor functions in stroke patients.
-: ReHandyBot — ReHandyBot is the portable version of ReHapticKnob a robot developed at ETH Zurich that provides neurocognitive therapy, focusing on hand opening and closing movements as well as prono-supination of the forearm.
-: MyoPanda — MyoPanda is a passive wrist/hand device which patients use to train the hand and wrist function by controlling a virtual avatar with EMG activity measures.
-Link: https://clinicaltrials.gov/study/NCT06406569
-
-SUMMARY:
-
 ## NCT06406816
 Neoantigen Vaccine Plus Capecitabine as Adjuvant Therapy for Intrahepatic Cholangiocarcinoma After Radical Resection
 

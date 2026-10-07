@@ -2113,15 +2113,6 @@ Link: https://clinicaltrials.gov/study/NCT07423988
 SUMMARY:
 
 
-## NCT07199803
-Comparing the Obstetric Quality of Recovery-10 (OBS-QoR-10) in Patients With and Without Postpartum Hemorrhage: A Matched Case-control Study
-
-Intervention: : Obstetric Quality of Recovery-10 (ObsQoR-10©) Scoring Tool — The ObsQoR-10 tool aims to quantitatively measure functional recovery at 24 hours postpartum. It includes 10 questions on a 0 to 10 scale, aimed at pain management, the adverse effects of narcotics and the perception of recovery by the patient.
-Link: https://clinicaltrials.gov/study/NCT07199803
-
-SUMMARY:
-
-
 ## NCT06538961
 Immune Registry for BK (Polyomavirus Hominis 1) in Kidney Transplant Recipients
 
@@ -2293,15 +2284,6 @@ Description of Lymphatic Damage in Encephalic Venous Thrombosis and Strictures i
 
 Intervention: : MRI sequences — perform additional sequences added by research
 Link: https://clinicaltrials.gov/study/NCT05041569
-
-SUMMARY:
-
-
-## NCT07677553
-Feasibility of Point-of-Care Ultrasound Training and Remote Quality Assurance for Community Physicians in Conflict-Affected Syria
-
-Intervention: : Training in POCUS — Training in point of care ultrasound
-Link: https://clinicaltrials.gov/study/NCT07677553
 
 SUMMARY:
 

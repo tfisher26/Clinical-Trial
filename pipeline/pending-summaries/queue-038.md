@@ -1459,15 +1459,6 @@ Link: https://clinicaltrials.gov/study/NCT05317455
 SUMMARY:
 
 
-## NCT05246098
-REVIVe: Frailty, Rehabilitation, and Outcomes in Critically Ill Adult and Pediatric Survivors of COVID-19 or Acute Respiratory Infection
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05246098
-
-SUMMARY:
-
-
 ## NCT06446609
 Understanding the Natural History and Impact of Itching (Pruritus) in Patients With Drug-induced Liver Injury (DILI)
 

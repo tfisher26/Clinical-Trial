@@ -3813,15 +3813,6 @@ Link: https://clinicaltrials.gov/study/NCT07166172
 SUMMARY:
 
 
-## NCT07702344
-Investigation of Circadian Rhythm, Musculoskeletal Pain, Sleep Quality, and Quality of Life Among Heavy Industry Shift Workers: A Cross-Sectional Study
-
-Intervention: : Questionnaire-Based Assessment — Participants will complete validated self-administered questionnaires to assess chronotype, musculoskeletal pain, sleep quality, and quality of life. No therapeutic intervention will be administered.
-Link: https://clinicaltrials.gov/study/NCT07702344
-
-SUMMARY:
-
-
 ## NCT05304585
 A Prospective Phase 3 Study of Patients With Newly Diagnosed Very Low-Risk and Low-Risk Fusion Negative Rhabdomyosarcoma
 

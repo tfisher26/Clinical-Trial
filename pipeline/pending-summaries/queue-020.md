@@ -2779,15 +2779,6 @@ Link: https://clinicaltrials.gov/study/NCT06975579
 SUMMARY:
 
 
-## NCT07482098
-Effect of Preoperative Clear Fluid Intake on Gastric Volume in Diabetic and Non-Diabetic Pregnant Women Assessed by Gastric Ultrasonography
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07482098
-
-SUMMARY:
-
-
 ## NCT06980428
 A Phase I, Randomized, Single-blind, Placebo-controlled Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of AZD4954 Following Single and Multiple Ascending Dose Administration to Healthy Participants With or Without Elevated Lp(a) Levels, and Participants With Dyslipidemia
 

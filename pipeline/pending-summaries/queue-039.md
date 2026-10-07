@@ -493,18 +493,6 @@ Link: https://clinicaltrials.gov/study/NCT06838702
 SUMMARY:
 
 
-## NCT05761756
-Applied Physiology of Oxygen Toxicity: Mechanisms in Humans
-
-Intervention: : Sleep Deprivation — 24 hours sleep deprivation
-: Caffeine — Oral administration of caffeine
-: Methylphenidate — Oral administration of methylphenidate
-: Carbon Dioxide — Oral administration of sodium bicarbonate to simulate carbon dioxide exposure
-Link: https://clinicaltrials.gov/study/NCT05761756
-
-SUMMARY:
-
-
 ## NCT07473739
 Establishment of a Cohort of Maternal Vascular Malperfusion-Related Fetal Growth Restriction (MVM-FGR) Based on an Etiology-Oriented Diagnostic Pathway: Artificial Intelligence-Assisted Multiparametric Ultrasound Prediction of Pregnancy Outcomes
 

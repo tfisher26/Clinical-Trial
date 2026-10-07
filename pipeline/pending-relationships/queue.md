@@ -102531,3 +102531,15 @@ Additional inclusion and exclusion criteria for CHESTY sub-studies are detailed 
 
 RELATIONSHIP:
 
+## NCT02038127
+Prospective Registry for Patients Undergoing Coronary Angiography and Percutaneous Coronary Intervention in Gangwon Province
+Conditions: cardiovascular/coronary_artery_disease, other/non_st_elevated_myocardial_infarction, other/st_elevation_myocardial_infarction
+
+Inclusion criteria:
+"""
+* Patients of any age undergoing percutaneous coronary intervention (PCI) at a participating hospital during the study period.
+* Written informed consent is obtained from the patient or a legally authorized representative before collection of study data, unless the requirement for informed consent is waived by the Institutional Review Board.
+"""
+
+RELATIONSHIP:
+

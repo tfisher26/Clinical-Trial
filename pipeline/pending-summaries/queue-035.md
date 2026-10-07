@@ -1613,17 +1613,6 @@ Link: https://clinicaltrials.gov/study/NCT07623265
 SUMMARY:
 
 
-## NCT06784739
-COMMUNITY - the COVID-19 Immunity Study
-
-Intervention: : Blood sampling — Venous blood sampling
-: Mucosal sampling — Saliva and nasal secretions
-: PCR-test — RT qPCR test to determine infection with SARS-CoV-2, Influenza A/B and/or RSV A/B.
-Link: https://clinicaltrials.gov/study/NCT06784739
-
-SUMMARY:
-
-
 ## NCT06387017
 Prospective Multicenter Cohort Study to Validate Four Groups of Biomarkers for Assessing Lung Cancer Risk Among Patients With Atheromatous Cardiovascular Disease in a Screening Pathway
 
@@ -2525,15 +2514,6 @@ De-escalation of Neoadjuvant Chemotherapy Regimens (Taxanes Plus Carboplatin Ver
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06700369
-
-SUMMARY:
-
-
-## NCT06785506
-A Dynamic, Multiple-biomarker Approach Aiming for Individualized Treatment of Heart Failure with Preserved Ejection Fraction (ADAPT-HFpEF)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06785506
 
 SUMMARY:
 

@@ -6888,14 +6888,6 @@ Link: https://clinicaltrials.gov/study/NCT04941599
 
 SUMMARY: Familial hypercholesterolemia is an inherited condition causing very high cholesterol. This study tests a compound called 2-HOBA, taken three times a day, to see if it improves the function of HDL, the good cholesterol.
 
-## NCT04943198
-Optimization of the Time and Dosage of Vemurafenib in BRAF Positive Juvenile Patients With Refractory Histiocytosis
-
-Intervention: : Vemurafenib — 20 mg/kg/day
-Link: https://clinicaltrials.gov/study/NCT04943198
-
-SUMMARY: Some young patients with histiocytosis that resists treatment have a BRAF mutation. This study tests the best timing and dose of vemurafenib, a targeted drug, in these patients.
-
 ## NCT04943484
 [The iGreenGO Study]. Investigation About the Clinical Value of Indocyanine Green Imaging Fluorescence (NIR/ICG) Technology as a Modifier of Surgeon's Conduct During Curative Treatment of Advanced Gastric Cancer. Study Protocol for a Western, Observational, Prospective, Multicentric Study
 
@@ -9490,16 +9482,6 @@ Intervention: : NX-1607 — Oral NX-1607
 Link: https://clinicaltrials.gov/study/NCT05107674
 
 SUMMARY: Advanced cancers often stop responding to standard treatments. This study tests an experimental drug that blocks a protein called CBL-B, at increasing doses, in adults with advanced cancers.
-
-## NCT05107908
-Neuronal and Behavioral Effects of an Implicit Priming Approach to Improve Eating Behaviors in Obesity
-
-Intervention: : Active Implicit Priming — Approximately 10-minute behavioral intervention
-: Control Implicit Priming — Approximately 10-minute behavioral intervention
-: Food Exposure Task — Approximately 10-30 minute behavioral intervention
-Link: https://clinicaltrials.gov/study/NCT05107908
-
-SUMMARY:
 
 ## NCT05108896
 Aspiration in Acute Respiratory Failure Survivors
@@ -13213,14 +13195,6 @@ Link: https://clinicaltrials.gov/study/NCT05322460
 
 SUMMARY: Long term breast cancer survivors can face lasting effects on quality of life. This study tests CUMACA-M, a web based tailored program designed to improve their quality of life.
 
-## NCT05322837
-Deep Phenotyping of Upper Limb Sensori-motor Recovery in Asian Stroke Survivors: Concept, Development and Implementation of a Rehabilomics-driven Technology-assisted Data Platform
-
-Intervention: : Clinical and technological-aided assessments and questionnaires — Assessments and questionnaires related to upper limb function and quality of life will be used
-Link: https://clinicaltrials.gov/study/NCT05322837
-
-SUMMARY:
-
 ## NCT05323149
 The Impact of Early Use of Dexamethasone Traumatic Brain Injury Upon the Inflammatory Response and Outcome
 
@@ -14618,16 +14592,6 @@ Intervention: : SRP + Livfresh Dental Gel — SRP at baseline with use of LDG (t
 Link: https://clinicaltrials.gov/study/NCT05384132
 
 SUMMARY: Gum disease is usually treated with deep cleaning called scaling and root planing. This study tests adding Livfresh dental gel to this cleaning in people with stage II and III periodontitis.
-
-## NCT05384769
-Feasibility Study of Lung Cancer Screening Using Cell-Free DNA Liquid Biopsy at Home in High-Risk Current and Former Smokers
-
-Intervention: : Liquid Biopsy — Undergo liquid biopsy
-: Low Dose Computed Tomography of the Chest — Undergo low dose CT
-: Survey Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT05384769
-
-SUMMARY:
 
 ## NCT05385237
 Noninvasive Stage Identification of Hepatic Fibrosis Using 4D-MRI

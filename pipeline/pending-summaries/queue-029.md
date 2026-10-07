@@ -69,19 +69,6 @@ Link: https://clinicaltrials.gov/study/NCT07024160
 SUMMARY:
 
 
-## NCT05865561
-Identification of Volatile Organic Compounds (VOCs) as Biopredictors of Epileptic Seizures
-
-Intervention: : VOC sampling — * Continuous systematic sampling at HFAR: Samples every 3 hours (3 a.m., 6 a.m., 9 a.m., 12 p.m., 3 p.m., 6 p.m., 9 p.m., midnight) until the end of the monitoring period.
-* Systematic sampling during the day: Samples every 3 hours at Institut La TEPPE (9am, 12pm, 3pm, 6pm, 9pm) until the end of the follow-up period.
-* Sampling in case of epileptic seizure : Sampling during the seizure (from t0 to t+5 min), whatever the time.
-
-The samples will be taken using a compress on the forehead, the palms of the hands and the back of the neck. The compress will then be placed in a freezer bag and the person with epilepsy will be asked to exhale into the bag, if he/she is able to do so, before closing it.
-Link: https://clinicaltrials.gov/study/NCT05865561
-
-SUMMARY:
-
-
 ## NCT07272811
 Neurocognitive Assessment Platform 4 Alzheimer
 

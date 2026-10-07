@@ -5268,14 +5268,6 @@ Link: https://clinicaltrials.gov/study/NCT07068620
 
 SUMMARY:
 
-## NCT07068711
-Monitoring the Nutritional Status of Head and Neck Cancer Patients During Radiotherapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07068711
-
-SUMMARY:
-
 ## NCT07068880
 Clinical Analysis of a Novel Flexor Tendon Repair Technique, A Prospective Randomized Trial
 
@@ -6223,14 +6215,6 @@ The Effect of Ketone Monoesters on Skeletal Muscle Protein Synthesis and Whole-b
 Intervention: : Ketone Monoester (KE) and whey protein beverage — Ketone monoester ((R)-3-hydroxybutyl (R)-3-hydroxybutyrate) and whey protein (0.3 g/kg)
 : Control — Placebo with bitter agent (Bitrex), to flavour match to ketone condition, whey protein (0.3 g/kg), and milk fat (to match the caloric content of the ketone condition).
 Link: https://clinicaltrials.gov/study/NCT07082309
-
-SUMMARY:
-
-## NCT07082348
-Assessing the Feasibility and Potential Efficacy of Herbs and Spices for Improving Dietary Quality and Adherence to the Dietary Guidelines for Americans in College Students With Poor Dietary Quality: A Pilot Study
-
-Intervention: : Herbs and Spices Nutrition Education Program — Participants will attend two group visits at the UNLV Nutrition Center (weeks 0 and 3 of the 6-week intervention), where trained RDs will deliver the HSNP, covering the principles and health benefits of the Dietary Guidelines for Americans (DGA), recommended food group intake, and practical, budget-friendly strategies for incorporating herbs and spices into the diet. Sessions will include education, supporting materials, and a sensory evaluation of 20 foods (spanning fruits, vegetables, grains, dairy, and proteins) prepared with various herbs and spices, rated using a 9-point hedonic scale to identify preferred flavor profiles and promote long-term DGA adherence through enhanced taste and acceptability.
-Link: https://clinicaltrials.gov/study/NCT07082348
 
 SUMMARY:
 

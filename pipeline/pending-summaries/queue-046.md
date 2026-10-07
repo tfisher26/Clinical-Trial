@@ -7634,19 +7634,6 @@ Link: https://clinicaltrials.gov/study/NCT06605534
 
 SUMMARY:
 
-## NCT06605859
-An Open, Multicentre, Prospective, Non-interventional Study of the CE-marked Medical Device GlucoTab in Nursing Homes and Domiciliary Nursing Care, According to Intended Use Without Additional Invasive and Stressful Measures
-
-Intervention: : GlucoTab — Insulin therapy will be started and adjusted according to the GlucoTab system with incorporated software algorithm. The goal of the basal-insulin algorithm is to maintain blood glucose within acceptable targets according to the predefined health status.
-
-For a limited time period after therapy start, three measurements per day are suggested by the algorithm to determine blood glucose. Insulin dosage titration will be performed according to the algorithm in GlucoTab under supervision of the nurses of the nursing homes/domiciliary nursing care. Correctional bolus insulin will be administered at defined time-points according to BG targets in the predefined health status.
-
-Nurses and nursing assistants will be trained in the use of the GlucoTab.
-: Diabetes Treatment — Diabetes Standard Care
-Link: https://clinicaltrials.gov/study/NCT06605859
-
-SUMMARY:
-
 ## NCT06606002
 The Effectiveness of Group Schema Therapy Utilizing Video Material in the Treatment of Borderline Symptoms in Adolescents: A Randomized and Controlled Intervention Study
 

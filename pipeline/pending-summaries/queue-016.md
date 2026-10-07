@@ -197,15 +197,6 @@ Link: https://clinicaltrials.gov/study/NCT07674940
 SUMMARY:
 
 
-## NCT07712718
-A Phase 1, Open-label, Trial of the Absorption, Distribution, Metabolism, and Excretion of [14C]-MRM-3379 Following a Single Oral Dose in Healthy Male Participants
-
-Intervention: : [14C]-MRM-3379 — Oral capsule administered on Day 1 only.
-Link: https://clinicaltrials.gov/study/NCT07712718
-
-SUMMARY:
-
-
 ## NCT06539234
 Angiotensin II Stress Test. Renin Kinetics During Treatment of Vasoplegic Shock With Angiotensin II in Relation to Hemodynamic Response to Treatment With Angiotensin II.
 

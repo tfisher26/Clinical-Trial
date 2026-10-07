@@ -861,15 +861,6 @@ Link: https://clinicaltrials.gov/study/NCT06190626
 SUMMARY:
 
 
-## NCT06370780
-Exploring, Predicting, and Intervening on Long-term Viral Suppression Electronically
-
-Intervention: : EPI LOVE — Observational cohort only
-Link: https://clinicaltrials.gov/study/NCT06370780
-
-SUMMARY:
-
-
 ## NCT06753591
 Clinical Characteristics and Outcomes of Patients with Premature Acute Myocardial Infarction in Serbia - a Multicenter National Study
 

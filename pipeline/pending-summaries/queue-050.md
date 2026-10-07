@@ -6806,15 +6806,6 @@ Link: https://clinicaltrials.gov/study/NCT07561034
 
 SUMMARY:
 
-## NCT07561073
-A Multicenter Randomized Controlled Trial Comparing the Safety and Efficacy of Partial Stomach-Partitioning Gastrojejunostomy (SPGJ) Versus Conventional Gastrojejunostomy (CGJ) for the Treatment of Gastric Outlet Obstruction in Advanced Gastric Cancer
-
-Intervention: : stomach-partitioning gastrojejunostomy — At the junction of the gastric body and the antrum, or about 5cm from the upper edge of the tumor, a straight-line cutting closure device was used to cut off part of the gastric body from the greater curvature of the stomach to form a partition, and a 2-3cm wide gastric body near the lesser curvature was retained. A hole was made in the greater curvature of the posterior gastric wall at the proximal end of the septum, and a hole was made in the jejunum-to-mesenteric margin 5-10 cm from the Treitz ligament. A linear cutting closure device was placed through the transverse colon. The greater curvature-jejunum side-to-side anastomosis of the posterior gastric wall with pro-peristalsis or anti-peristalsis was performed, and the common opening was closed by using a linear cutting closure device or suture.
-: conventional gastrojejunostomy — The lowest point of the greater curvature of the stomach and the proximal jejunum 5-10 cm away from the Treitz ligament were subjected to side-to-side anastomosis of peristaltic or anti-peristaltic using a linear cutter before the transverse colon, and the common opening was closed using a linear cutter or suture.
-Link: https://clinicaltrials.gov/study/NCT07561073
-
-SUMMARY:
-
 ## NCT07561320
 Mechanochemical Ablation Versus Ultrasound-Guided Foam Sclerotherapy of the Great Saphenous Vein: Randomized Clinical Trial
 
@@ -17940,13 +17931,3 @@ Intervention: : Intramedullary Nailing Using Medial Parapatellar Approach — In
 Link: https://clinicaltrials.gov/study/NCT07761780
 
 SUMMARY:
-
-## NCT07761871
-Effects of Randomized Controlled Exercise and Nutritional Interventions on Muscle Mass, Volume, Fat Infiltration, and Clinical Outcomes in Patients With Malignant Melanoma Receiving Immunotherapy
-
-Intervention: : Structured Resistance Exercise — A 24-week supervised and progressive whole-body resistance exercise program performed three times per week under the guidance of trained exercise professionals. Each session will last approximately 60 minutes and will include resistance exercises targeting the major muscle groups of the upper and lower body. Exercise intensity will progressively increase from approximately 60% to 70% of one-repetition maximum. A deload week at approximately 60% of one-repetition maximum will be scheduled every fourth week. Training load will be adjusted using repeated one-repetition maximum assessments and the Borg Rating of Perceived Exertion Scale. Exercise will not be performed on the day before study assessments to avoid acute effects on the measurements.
-: Individualized Nutritional Support — Individualized nutritional assessment and counseling provided by a clinical dietitian in cooperation with a physician specializing in clinical nutrition. Energy requirements will be determined using indirect calorimetry. The nutritional strategy will target a daily protein intake of 1.5 to 2 g/kg of body weight and a daily fiber intake of 30 to 40 g. Participants will receive 30 g of whey protein to be consumed within one hour after each exercise session. Oral nutritional supplements and other appropriate nutritional therapy will be prescribed when clinically indicated, including in participants with inadequate intake, malnutrition, cachexia, or sarcopenia.
-Link: https://clinicaltrials.gov/study/NCT07761871
-
-SUMMARY:
-

@@ -7886,15 +7886,6 @@ Link: https://clinicaltrials.gov/study/NCT05781295
 
 SUMMARY: Children with cancer who have central venous catheters are at risk of infection. This study compares a taurolidine lock solution with a standard saline lock to prevent catheter infections.
 
-## NCT05781347
-Endoscopic Treatment of Gastro-esophageal Reflux Disease with Application of Radiofrequency Energy to the Lower Esophageal Sphincter (Stretta) Versus Conservative Treatment, Prospective Randomized Study
-
-Intervention: : Radiofrequency Energy to the LES (Stretta Procedure) — The Stretta procedure is an endoscopic treatment performed under general anesthesia. It utilizes radiofrequency (RF) energy delivered to the lower esophageal sphincter (LES) and the gastric cardia to enhance the antireflux barrier.
-: Stretta — Stretta is a FDA approved device for the management of GERD.
-Link: https://clinicaltrials.gov/study/NCT05781347
-
-SUMMARY: Gastroesophageal reflux disease causes heartburn that does not always respond to medicines. This study compares the Stretta procedure, which applies radiofrequency energy to the lower esophagus, with conservative treatment.
-
 ## NCT05781555
 A Prospective, Open Label, One Arm Study for a Compassionate Use of Diffusing Alpha Radiation Therapy
 
@@ -17360,14 +17351,6 @@ Intervention: : Modified Lumbar Puncture — The Investigator will perform the m
 Link: https://clinicaltrials.gov/study/NCT06062446
 
 SUMMARY: Lumbar punctures can cause headaches afterward. This study tests a modified lumbar puncture procedure designed to reduce these headaches.
-
-## NCT06062628
-Neurophysiological Effect of Ketamine in Patients With Severe Traumatic Brain Injury
-
-Intervention: : Ketamine Hydrochloride — Administration of ketamine with subsequent measurement of intracranial pressure and brain tissue oxygenation
-Link: https://clinicaltrials.gov/study/NCT06062628
-
-SUMMARY:
 
 ## NCT06063564
 Adapting and Testing a Novel Digital Health Tool (PREVENT) to Improve Health Behavior Counseling and Cardiovascular Health in Rural Primary Care Clinics

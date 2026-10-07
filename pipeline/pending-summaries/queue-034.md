@@ -838,16 +838,6 @@ Link: https://clinicaltrials.gov/study/NCT06755814
 SUMMARY:
 
 
-## NCT07410819
-Karpal Tünel Sendromu Olan Bireylerde Servikotorakal Egzersizlerin Etkinliğinin Araştırılması
-
-Intervention: : Conventional Physiotherapy Group — Participants will receive a conventional physiotherapy program consisting of transcutaneous electrical nerve stimulation (TENS), therapeutic ultrasound, median nerve mobilization, wrist range-of-motion exercises, and hand strengthening exercises. TENS will be applied using sensory-level stimulation without muscle contraction. Therapeutic ultrasound will be delivered over the carpal tunnel region using standard clinical parameters. Median nerve mobilization and wrist exercises will be performed under physiotherapist supervision. The treatment will be administered five days per week for six weeks.
-: Cervicothoracal Exercise Group — Participants will receive cervicothoracic exercises in addition to the same conventional physiotherapy program. The cervicothoracic exercise program will include cervical mobility exercises, scapular stabilization, and thoracic spine mobility exercises designed to improve proximal neural mechanics and upper limb function. All interventions will be supervised by a physiotherapist and applied five days per week for six weeks.
-Link: https://clinicaltrials.gov/study/NCT07410819
-
-SUMMARY:
-
-
 ## NCT06296875
 Uncovering the Mechanisms Through Which Krill Oil Increases Muscle Function in Older Adults.
 

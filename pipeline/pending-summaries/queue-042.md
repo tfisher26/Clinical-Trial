@@ -1008,14 +1008,6 @@ Link: https://clinicaltrials.gov/study/NCT06259071
 
 SUMMARY:
 
-## NCT07068711
-Monitoring the Nutritional Status of Head and Neck Cancer Patients During Radiotherapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07068711
-
-SUMMARY:
-
 ## NCT06490770
 Analysis of the Pathophysiological and Functional State of the Knee Joint
 
@@ -5477,14 +5469,6 @@ Enabling Neuroscience Research Approaches for Brain, feeLings and Emotions (ENAB
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06408012
-
-SUMMARY:
-
-## NCT06807840
-Evaluating Immune Imprinting in the Context of Influenza Virus Infections
-
-Intervention: : influenza virus infection — Participants with active influenza virus infection will be enrolled in this study.
-Link: https://clinicaltrials.gov/study/NCT06807840
 
 SUMMARY:
 
