@@ -10717,15 +10717,6 @@ Link: https://clinicaltrials.gov/study/NCT05184790
 
 SUMMARY:
 
-## NCT05185505
-Atezolizumab and Bevacizumab Pre-Liver Transplantation for Patients With Hepatocellular Carcinoma Beyond Milan Criteria: A Feasibility Study
-
-Intervention: : Atezolizumab — 1200 mg administered every three weeks for up to 6 months (up to 8 cycles) during the liver transplant waiting period
-: Bevacizumab — 15 mg/kg administered every three weeks for up to 6 months (up to 8 cycles) during the liver transplant waiting period
-Link: https://clinicaltrials.gov/study/NCT05185505
-
-SUMMARY: Liver cancer beyond the Milan criteria is usually too advanced for a liver transplant. This feasibility study tests atezolizumab and Avastin before transplant to see if more patients can safely have one.
-
 ## NCT05187182
 Phase I Trial of CA-4948 in Combination With FOLFOX/PD-1 Inhibitor +/- Trastuzumab for Untreated Unresectable Gastric and Esophageal Cancer
 

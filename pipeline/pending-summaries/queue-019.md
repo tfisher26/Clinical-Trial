@@ -807,15 +807,6 @@ Link: https://clinicaltrials.gov/study/NCT07125898
 SUMMARY:
 
 
-## NCT04639830
-Electrophysiologic Sleep Phenotyping and Sleep-Dependent Neuro-maturation in Clinical and Healthy Pediatric Populations
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04639830
-
-SUMMARY:
-
-
 ## NCT06527157
 PROspective ACcrual To Investigate reprOductive Cancers in womeN
 

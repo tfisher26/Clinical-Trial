@@ -4548,16 +4548,6 @@ Link: https://clinicaltrials.gov/study/NCT07855393
 
 SUMMARY:
 
-## NCT07855484
-Adaptation of an Evidence-based Goals of Care Communication Intervention for Adolescent and Young Adult Cancer Patients (AYAC)
-
-Intervention: : Jumpstart GOCC intervention — 1. Patient-facing survey;
-2. GOCC tips sheet for the patient;
-3. GOCC guide for providers
-Link: https://clinicaltrials.gov/study/NCT07855484
-
-SUMMARY:
-
 ## NCT07855627
 Prediction Of Lymphedema In Patients With Inflammatory BreastCancer Using Preoperative Bioimpedance Measurements
 

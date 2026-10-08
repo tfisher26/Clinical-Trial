@@ -439,19 +439,6 @@ Link: https://clinicaltrials.gov/study/NCT07236099
 
 SUMMARY:
 
-## NCT07236229
-The Effects of Immersive Virtual Reality-Based Exercise Therapy on Pain, Functionality, Sleep, and Cognitive Functions in Patients With Grade 1-2 Adhesive Capsulitis
-
-Intervention: : Conventional Physiotherapy Group — In the conventional exercise group, participants will perform range of motion exercises, pendulum exercises, finger ladder exercises, stretching, and strengthening exercises. The traditional exercise therapy will be administered twice a week for six weeks, with each session lasting 30 minutes.
-
-In addition, both groups will receive identical patient education and home exercise programs. Patient education will be delivered face-to-face for 30 minutes at the beginning of the intervention. The home exercise program will be performed progressively at home on non-intervention days, five days per week.
-: Immersive Virtual Reality-Based Exercise Therapy — Patients in the immersive virtual reality-based exercise group will participate in the exercise program using the Oculus Quest 2 device. Sessions will be conducted twice a week for six weeks, each lasting 30 minutes. Two different virtual reality applications, Reach Shoulder Health and Guided Tai Chi, will be administered to the patients in this group.
-
-In addition, both groups will receive identical patient education and home exercise programs. Patient education will be delivered face-to-face for 30 minutes at the beginning of the intervention. The home exercise program will be performed progressively at home on non-intervention days, five days per week.
-Link: https://clinicaltrials.gov/study/NCT07236229
-
-SUMMARY:
-
 ## NCT07236372
 Comparative Efficacy of Standard-Dose Versus Updosed Cetirizine in Acute Urticaria: A Randomized Controlled Trial
 
@@ -13918,15 +13905,6 @@ Encourage dance movements while following a rhythm pattern. This helps with coor
 
 In Supine, Make circles with one raised lower limb in a clockwise direction and then in a counter-clockwise direction. Ball wall squat Bridge In Crook lying position, lifting the pelvis of the mat. Hundred In Supine position,lifting the head, followed by lifting both legs 30 degrees with both knees flexed and then gradually with both knees extended. Alternate toe taps In Supine with 90 degrees flexion of both hips and knees. Alternate tapping of toes on the mat. Single leg circles
 Link: https://clinicaltrials.gov/study/NCT07428837
-
-SUMMARY:
-
-## NCT07429110
-ColoSeal™ ICD System Anastomotic Protection Pivotal Study
-
-Intervention: : ColoSeal ICD System — Subjects will undergo placement of the ColoSeal ICD Device without diverting ostomy placement during the index procedure.
-: Protective Diverting Ostomy — Subjects will undergo protective diverting ostomy placement during the index procedure.
-Link: https://clinicaltrials.gov/study/NCT07429110
 
 SUMMARY:
 

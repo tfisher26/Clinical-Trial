@@ -4571,22 +4571,6 @@ Link: https://clinicaltrials.gov/study/NCT06188065
 
 SUMMARY:
 
-## NCT06188676
-Nivolumab at the Fixed Dose 40 mg (Nivo40) in Combination With Chemo-Immunotherapy for the Treatment of Newly Diagnosed Primary Mediastinal B-Cell Lymphoma
-
-Intervention: : Cyclophosphamide — Ciclofosfamida
-: Doxorubicin Hydrochloride — Adriamycin
-: Etoposide Phosphate — Etopophos
-: Prednisolone — Prednisolonum
-: Rituximab — Chimeric Anti-CD20 Antibody
-: Vincristine Sulfate — Oncovin
-: Filgrastim — G-CSF
-: Pegfilgrastim — PEG-filgrastim
-: Nivolumab 40 mg in 4 ml Injection — Opdivo
-Link: https://clinicaltrials.gov/study/NCT06188676
-
-SUMMARY: Primary mediastinal B cell lymphoma is an aggressive lymphoma in the chest. This study tests a fixed low dose of nivolumab (40 mg) combined with chemo immunotherapy in newly diagnosed patients.
-
 ## NCT06188689
 Evaluation of a Clinical Diagnostic Test for Calcium Release Deficiency Syndrome: The DIAGNOSE CRDS Study
 
@@ -5836,14 +5820,6 @@ The Menopausal Hot Flush: Cutaneous Vascular and Sudomotor Function and Structur
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06222073
-
-SUMMARY:
-
-## NCT06222112
-Experience Life, Needs and Expectations of Families of Older Polyhandiccaped Persons
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06222112
 
 SUMMARY:
 
@@ -12265,14 +12241,6 @@ Link: https://clinicaltrials.gov/study/NCT06356727
 
 SUMMARY:
 
-## NCT06356948
-The Effect of Tranexamic Acid Rate of Administration on Blood Pressure in Healthy Pregnant Women Scheduled for Elective Cesarean Delivery Under Spinal Anesthesia - A Prospective, Randomized, Double-blind, Non-inferiority Trial.
-
-Intervention: : Tranexamic Acid (TXA) — Study drug administration
-Link: https://clinicaltrials.gov/study/NCT06356948
-
-SUMMARY: Tranexamic acid is given during cesarean births to reduce bleeding, but it may lower blood pressure. This study compares giving it slowly versus quickly in women having a planned cesarean under spinal anesthesia to see whether the rate affects blood pressure.
-
 ## NCT06357182
 A Phase Ib Investigation of the LSD1 Inhibitor Iadademstat (ORY-1001) in Combination With Azacitidine and Venetoclax in Newly Diagnosed AML
 
@@ -14722,22 +14690,6 @@ Link: https://clinicaltrials.gov/study/NCT06405555
 
 SUMMARY: People with heart failure and weak heart pumping sometimes have blood pressure too low to tolerate their heart medicines. This study tests midodrine, a pill that raises blood pressure, in hospitalized patients to see whether it helps them stay on needed treatment.
 
-## NCT06405581
-The Impact of Frailty on Cardiopulmonary Resuscitation Adverse Outcomes in Patients Requiring Code Blue Activation
-
-Intervention: : Edmonton frailty scale calculation — The frailty status of the patients will be assessed using the Edmonton frailty scale.
-
-According to the Edmonton frailty scale;
-
-* (0-5): not frail
-* (6-7): sensitive
-* (8-9): slightly fragile
-* (10-11): moderately fragile,
-* (12-17): extremely fragile
-Link: https://clinicaltrials.gov/study/NCT06405581
-
-SUMMARY:
-
 ## NCT06405776
 Effect of Perioperative Continuous Intravenous Infusion of Lidocaine on Postoperative Pain and Long-term Survival in Elderly Patients Undergoing Colorectal Cancer Surgery: a Prospective, Randomized Controlled Trial
 
@@ -15706,19 +15658,6 @@ Intervention: : Digital Health App — access to a digital health app
 Link: https://clinicaltrials.gov/study/NCT06427954
 
 SUMMARY: People with advanced lung cancer often have symptoms that affect daily life. This study tests a mobile health app to see whether it improves quality of life and symptoms.
-
-## NCT06428006
-Efficacy of Cognitive Behavioral Therapy for Insomnia to Treat Insomnia Symptoms and Fatigue in Individuals With Multiple Sclerosis
-
-Intervention: : Cognitive behavioral therapy for insomnia — The general sessions outlines are as follows with each session:
-
-Session 1: determine treatment plan, set up sleep schedule and stimulus control, discuss strategies for how to stay awake to prescribed hour and what to do if wake up in middle of night, sleep hygiene education Session 2: continue upward titration of total sleep time, review sleep hygiene; introduce diaphragmatic breathing Session 3: continue upward titration of total sleep time, introduce mindfulness Session 4: continue upward titration of total sleep time, introduce progressive muscle relaxation Session 5: continue upward titration of total sleep time, discuss negative sleep beliefs Session 6: assess global treatment gains, discuss relapse prevention
-: Sleep and lifestyle education — The general sessions outlines are as follows with each session:
-
-Session 1: Basic sleep education, stretching exercises Session 2: Sleep hygiene education (environmental factors \& sleep positions), stretching exercises Session 3: Sleep hygiene education (lifestyle factors), stretching exercises Session 4: Diet recommendations, stretching exercises Session 5: Exercises recommendations, stretching exercises Session 6: Discus maintaining achievements \& preventing relapses, stretching exercises
-Link: https://clinicaltrials.gov/study/NCT06428006
-
-SUMMARY: People with multiple sclerosis often have insomnia and fatigue. This study tests cognitive behavioral therapy for insomnia to see whether it improves sleep and reduces fatigue.
 
 ## NCT06428019
 A Prospective, Open-Label, Phase IIb/III Study to Evaluate the Risk of TLS and Optimization of the Initiation of Venetoclax in Combination With Obinutuzumab or Acalabrutinib With Different Ramp- Up Periods in Previously Untreated Subjects With CLL

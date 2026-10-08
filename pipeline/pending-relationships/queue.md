@@ -102543,3 +102543,20 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT02013336
+Phase 1 Dose-escalating Study of MM-398 (Irinotecan Sucrosofate Liposome Injection) Plus Intravenous Cyclophosphamide in Recurrent or Refractory Pediatric Solid Tumors
+Conditions: cancer/neuroblastoma, cancer/osteosarcoma, cancer/rhabdomyosarcoma, cancer/sarcoma_ewing
+
+Inclusion criteria:
+"""
+* Histologically or cytologically-confirmed Ewing sarcoma, rhabdomyosarcoma, neuroblastoma, or osteosarcoma
+* Disease progression after prior therapy in locally advanced or metastatic setting
+* Measurable or evaluable disease based on the Response Evaluation Criteria in Solid Tumors (RECIST v1.1) criteria
+* Age 12 months to \<21 years
+* Adequate bone marrow reserves, hepatic function, and renal function
+* Recovered from effects of any prior surgery or cancer therapy
+* Patients 18 years or older will provide written consent. A parent or legal guardian of a patient \<18 years of age will provide informed consent and patients 11 to 18 years of age will provide written assent or as per participating institutional policy.
+"""
+
+RELATIONSHIP:
+

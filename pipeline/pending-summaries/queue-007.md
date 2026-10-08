@@ -852,15 +852,6 @@ Link: https://clinicaltrials.gov/study/NCT07513948
 SUMMARY:
 
 
-## NCT05180942
-Statins and prOgression of Coronary atheRosclerosis in melanomA Patients Treated With chEckpoint inhibitorS
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05180942
-
-SUMMARY:
-
-
 ## NCT06885190
 Multisensory Processing of Alcohol Cues in Young Adult Binge Drinkers
 

@@ -1684,17 +1684,6 @@ Link: https://clinicaltrials.gov/study/NCT07075471
 SUMMARY:
 
 
-## NCT07226271
-Consumer Perceptions of Alcoholic Beverages
-
-Intervention: : Natural Claim — Participants assigned to this condition will view three alcoholic beverages that carry the following claim: All natural flavors
-: Sugar Claim — Participants assigned to this condition will view three alcoholic beverages that carry the following claim: Zero sugar
-: Fruit Claim — Participants assigned to this condition will view three alcoholic beverages that carry the following claim: Made with real fruit
-Link: https://clinicaltrials.gov/study/NCT07226271
-
-SUMMARY:
-
-
 ## NCT06737107
 Anatomical Segmentectomies for Early Stage Lung Cancer. A Multicenter Analysis of RATS, VATS and Open Approach
 

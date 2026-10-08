@@ -13885,14 +13885,6 @@ Link: https://clinicaltrials.gov/study/NCT06700395
 
 SUMMARY: Multiple myeloma that returns or resists treatment needs new options. This study tests TQB2029, an injected antibody that links immune T cells to myeloma cells carrying the GPRC5D marker, to find a safe dose.
 
-## NCT06700876
-Evaluation of Interferon-gamma Release Assays, Symptom Screening and Chest Radiograph for Detection of Subclinical Tuberculosis of End-stage Kidney Disease and Kidney Transplant Recipients in Thailand
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06700876
-
-SUMMARY:
-
 ## NCT06700915
 A Clinical Trial to Assess the Efficacy and Tolerance of a Berberine-based Nutraceutical Formula to Aid Blood Sugar Regulation and Metabolism
 

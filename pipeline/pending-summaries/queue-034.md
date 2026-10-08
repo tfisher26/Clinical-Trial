@@ -982,15 +982,6 @@ Link: https://clinicaltrials.gov/study/NCT06646185
 SUMMARY:
 
 
-## NCT07181122
-Prospective Observational Evaluation of Quality of Life, Functional Status, and Cognitive Outcomes in Patients With Metastatic Hormone-Sensitive Prostate Cancer Undergoing Androgen Receptor Pathway Inhibitor Therapy
-
-Intervention: : Androgen Receptor Pathway Inhibitors (ARPIs) — Men with metastatic hormone-sensitive prostate cancer will receive androgen receptor pathway inhibitors (abiraterone acetate, apalutamide, enzalutamide, or darolutamide) in addition to standard androgen deprivation therapy. The choice of ARPI will be determined by routine clinical practice. The study does not assign treatments; it observes patient outcomes under real-world conditions.
-Link: https://clinicaltrials.gov/study/NCT07181122
-
-SUMMARY:
-
-
 ## NCT05322018
 Validation of a Novel Digital Pain Measure, Faces Thermometer Scale (FTS) in a Swedish Dental Context
 
@@ -3668,15 +3659,6 @@ Link: https://clinicaltrials.gov/study/NCT06188364
 SUMMARY:
 
 
-## NCT07290634
-Comparative Outcomes of Prothrombin Complex Concentrate and Recombinant Activated Factor VIIa in Trauma-Associated Massive Transfusion: A Retrospective Cohort Study
-
-Intervention: : Number of Participants with massive blood transfusion — evaluate the impact of Prothrombin Complex, recombinant activated factor VII, and their combination on outcomes in adult trauma patients undergoing massive transfusion.
-Link: https://clinicaltrials.gov/study/NCT07290634
-
-SUMMARY:
-
-
 ## NCT06642324
 Exploration of Human Papillomavirus Association and Genomic Characteristics in Head and Neck Squamous Cell Carcinomas in Bangladesh
 
@@ -3954,16 +3936,6 @@ RUSS-AGE, CREATING OF A BIOLOGICAL AGE CALCULATOR AND STUDY OF AGING PHENOTYPES 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07574359
-
-SUMMARY:
-
-
-## NCT06027580
-Assessing Functional Improvements With Use of the SPIO Core-Max Expedition TLSO
-
-Intervention: : SPIO® Core-MAX® Expedition thoracolumbosacral orthosis — SPIO® Core-MAX® Expedition thoracolumbosacral orthosis use 2 hours per day for 6 months
-: Standard Care Therapy option — Standard of care Therapy without the use of trunk orthosis
-Link: https://clinicaltrials.gov/study/NCT06027580
 
 SUMMARY:
 

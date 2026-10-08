@@ -1441,16 +1441,6 @@ Link: https://clinicaltrials.gov/study/NCT07017946
 
 SUMMARY:
 
-## NCT07018128
-Expression of Genes Relating Hypertension in Thailand and the Efficacy of 4-7-8 Breathing Control on Reducing Blood Pressure in Individuals With Hypertension
-
-Intervention: : Study 2: deep breathing — Participants in the deep breathing group will be randomized to receive a diaphragmatic deep breathing program. They will be instructed to practice deep breathing at a rate of 6-10 breaths per minute for 15 minutes, twice daily, every day for a duration of 3 months.
-: Study 2: 4-7-8 breathing — Participants in the 4-7-8 breathing group will be randomized to receive a 4-7-8 breathing program. They will follow the 4-7-8 breathing training program, which involves inhaling for 4 seconds, holding the breath for 7 seconds, and exhaling for 8 seconds, counted as one cycle. This pattern is to be repeated for 6 cycles to complete one set. They will perform 12 sets per day-6 sets in the morning and 6 sets in the evening-with normal breathing between each set. This routine will be carried out daily for a duration of 3 months.
-: Study 2: slow breathing with device — Participants in the slow breathing with device group will be randomized to receive a slow breathing with device. They will undergo deep breathing training using a resistance-based breathing device called BreathMax, set at 25% of their maximal inspiratory pressure. The breathing rate will be 6 breaths per minute, continuously for 15 minutes, twice a day. This routine will be performed daily for a duration of 3 months.
-Link: https://clinicaltrials.gov/study/NCT07018128
-
-SUMMARY:
-
 ## NCT07018219
 Identification of the Seventh Cervical Vertebra by Palpation With Neck Rotation and Side Bending in Patients With Neck Pain
 
@@ -6753,15 +6743,6 @@ Digital Cognitive Behavioral Treatment of Insomnia in Youth: An RCT Examining Fe
 
 Intervention: : CBT-I — Cognitive behavioral therapy for insomnia
 Link: https://clinicaltrials.gov/study/NCT07091149
-
-SUMMARY:
-
-## NCT07091162
-EValuation Of poLygenic Scores and CT imAging In Risk Factor Modification in Patients With diabEtes
-
-Intervention: : CTCA results — Participants who are assigned to CTCA group will receive their CTCA results
-: PRS results — Participants who are assigned to PRS group will receive their PRS results
-Link: https://clinicaltrials.gov/study/NCT07091162
 
 SUMMARY:
 

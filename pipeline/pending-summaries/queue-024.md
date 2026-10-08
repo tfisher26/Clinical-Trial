@@ -880,15 +880,6 @@ Link: https://clinicaltrials.gov/study/NCT04949451
 SUMMARY:
 
 
-## NCT07222007
-Association of Induction Agent Choice With Early Mortality and Prognostic Outcomes in Critically Ill Patients: A Large-Scale Retrospective Cohort Analysis
-
-Intervention: : induction type for intubation in ICU — Clinical data documented throughout the course of hospitalization will be retrieved and analyzed.
-Link: https://clinicaltrials.gov/study/NCT07222007
-
-SUMMARY:
-
-
 ## NCT05108818
 Characterization of Humoral and Cellular Immune Responses Elicited by Influenza Vaccination in Healthy Adults
 

@@ -168,15 +168,6 @@ Link: https://clinicaltrials.gov/study/NCT05950594
 SUMMARY:
 
 
-## NCT07232537
-FINE-REAL Korea: A Non-interventional Study Providing Insights Into the Use of Finerenone in a Routine Clinical Setting in Korea
-
-Intervention: : Kerendia (Finerenone, BAY94-8862) — Decision will be taken by the treating physician to initiate treatment with finerenone.
-Link: https://clinicaltrials.gov/study/NCT07232537
-
-SUMMARY:
-
-
 ## NCT07075874
 Preoperative Neutrophil-to-Lymphocyte Ratio as a Predictor of Post-Dural Puncture Headache Following Cesarean Section Under Spinal Anesthesia
 
@@ -1511,15 +1502,6 @@ Influence of Patient's Morphological Characteristics on Pharmacokinetic and Toxi
 
 Intervention: : Pharmacokinetics blood samples — Blood samples will be collected at different time points during the first four treatment cycles and at the end of T-DXd treatment or at 24 months after inclusion in case of T-DXd continuation beyond this time period.
 Link: https://clinicaltrials.gov/study/NCT07195344
-
-SUMMARY:
-
-
-## NCT06220747
-Effectiveness of Single Dose or Two Doses of HPV Vaccine Among Adolescents and Reproductive Women: A Test-negative Control Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06220747
 
 SUMMARY:
 

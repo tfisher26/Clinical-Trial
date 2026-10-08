@@ -329,15 +329,6 @@ Link: https://clinicaltrials.gov/study/NCT07816445
 SUMMARY:
 
 
-## NCT07707375
-A Phase 1 Study to Investigate the Pharmacokinetics, Safety and Tolerability of LY4268989 (MORF-057) in Healthy Participants
-
-Intervention: : LY4268989 — Administered orally
-Link: https://clinicaltrials.gov/study/NCT07707375
-
-SUMMARY:
-
-
 ## NCT07639203
 PotenziaMente: A Digital Executive Function Training Intervention for Healthy Aging in the Elderly Population
 

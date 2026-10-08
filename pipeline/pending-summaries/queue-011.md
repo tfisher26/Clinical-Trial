@@ -304,18 +304,6 @@ Link: https://clinicaltrials.gov/study/NCT04665687
 SUMMARY:
 
 
-## NCT07564661
-A Randomized, Triple-Blind, Comparator-Controlled, Cross-Over Clinical Trial to Explore the Efficacy of Two Investigational Products on Post-Exercise Hydration in Recreationally Active Healthy Adults
-
-Intervention: : Potassium15 — Immediately after exercise, participants will consume one bottle (591 mL) of the study product within 10 minutes and in the presence of clinic staff.
-: Potassium10 — Immediately after exercise, participants will consume one bottle (591 mL) of the study product within 10 minutes and in the presence of clinic staff.
-: Plain Water — Immediately after exercise, participants will consume one bottle (591 mL) of the study product within 10 minutes and in the presence of clinic staff.
-: Gatorade Fruit Punch — Immediately after exercise, participants will consume one bottle (591 mL) of the study product within 10 minutes and in the presence of clinic staff.
-Link: https://clinicaltrials.gov/study/NCT07564661
-
-SUMMARY:
-
-
 ## NCT07446842
 Construction of AI Model for Precision Imaging Diagnosis of Cranial Diseases
 
@@ -942,15 +930,6 @@ Predictive Signature of Benralizumab Response
 
 Intervention: : Benralizumab Prefilled Syringe — Patients receive BENRALIZUMAB if they meet the criteria for inclusion and non-inclusion at the inclusion visit. Injections take place at the inclusion visit, at 1 month, 2 months, 4 months, 6 months, 8 months, 10 months and 12 months.
 Link: https://clinicaltrials.gov/study/NCT04565483
-
-SUMMARY:
-
-
-## NCT07075445
-Observational Study to Describe Health-Related Quality of Life and Disease Burden Among Patients With Long QT Syndrome (LQTS) 2 and 3
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07075445
 
 SUMMARY:
 

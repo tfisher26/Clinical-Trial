@@ -304,15 +304,6 @@ Link: https://clinicaltrials.gov/study/NCT07482176
 
 SUMMARY:
 
-## NCT07482345
-Impact of Three Different Preoperative Fasting Strategies on Gastric Ultrasound Findings and Anxiety Levels in Children Undergoing Inguinoscrotal Surgery: A Prospective Randomized Trial
-
-Intervention: : Carbohydrate-loading fluid — Pulp-free clear apple juice (Cappy® Apple Juice, 200 mL pack, 10% sugar, 48 kcal/100 mL; Coca-Cola, Türkiye) will be administered as an oral carbohydrate drink at a dose of 5 mL/kg, 2 hours before surgery (maximum volume: 200 mL)
-: Sip-till-send clear fluid — Patients will consume small sips of clear fluids (pulp-free clear apple juice \[Cappy® Apple Juice, 200 mL pack, 10% sugar, 48 kcal/100 mL; Coca-Cola, Türkiye\] and water) approximately every 60 minutes after midnight until they are called to the operating room (maximum total volume 10 mL/kg).
-Link: https://clinicaltrials.gov/study/NCT07482345
-
-SUMMARY:
-
 ## NCT07482384
 Supporting Health Including Endocrine Treatment for Long Duration: A Pilot Intervention
 
@@ -12646,15 +12637,6 @@ Efficacy and Safety of Paclitaxel Polymeric Micelles in Patients With Recurrent/
 
 Intervention: : Paclitaxel polymeric micelles — Paclitaxel polymeric micelles for injection 300 mg/m², IV infusion over ≥3 hours, Day 1; carboplatin AUC 5, IV infusion over 1 hour, Day 1. Each cycle consists of 3 weeks (Q3W), for a total of 3 cycles. (Efficacy assessment will be performed after 3 cycles of treatment. In the absence of disease progression, treatment may be continued until disease progression (PD), intolerable toxicity, withdrawal of informed consent, initiation of other antineoplastic therapy, death, or other protocol-specified criteria for treatment discontinuation, whichever occurs first.)
 Link: https://clinicaltrials.gov/study/NCT07662746
-
-SUMMARY:
-
-## NCT07662850
-Effects of Blood Flow Restriction Training and Instrument-Assisted Soft Tissue Mobilization for Pain, Strength, Range of Motion, and Kinesiophobia Among ACL Reconstruction Patients.
-
-Intervention: : Blood Flow Restriction Training — Participants will receive Blood Flow Restriction Training as an adjunct to standard postoperative physiotherapy following ACL reconstruction. A pneumatic cuff will be applied to the proximal thigh at individualized occlusion pressure to allow low-load exercise under restricted blood flow conditions. The exercise program will include straight leg raises, quadriceps sets, and seated/short-arc knee extensions. Training will focus on low-load quadriceps strengthening to promote muscle activation and recovery. The intervention will be performed twice weekly for 8 weeks under physiotherapist supervision. Safety, pain response, and limb tolerance will be continuously monitored during all sessions.
-: Instrument-Assisted Soft Tissue Mobilization (IASTM) — Participants will receive Instrument-Assisted Soft Tissue Mobilization as an adjunct to standard postoperative physiotherapy following ACL reconstruction. Specialized stainless-steel instruments will be used to apply controlled mechanical pressure to soft tissues around the knee region. Treatment will target peri-patellar structures, quadriceps, hamstrings, and surrounding thigh musculature. The intervention aims to improve tissue mobility, reduce pain, and enhance range of motion. Sessions will be conducted twice weekly for 8 weeks under trained physiotherapist supervision. Each session will be standardized with continuous monitoring of pain response and treatment tolerance.
-Link: https://clinicaltrials.gov/study/NCT07662850
 
 SUMMARY:
 

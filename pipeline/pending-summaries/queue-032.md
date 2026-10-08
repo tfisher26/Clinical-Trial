@@ -4077,15 +4077,6 @@ Link: https://clinicaltrials.gov/study/NCT06740773
 SUMMARY:
 
 
-## NCT07376369
-Primipar Annelerde Eş Desteğinin Doğum Sonu Ebeveynlik Özgüveni ve Depresyon Düzeyleri Üzerindeki Etkisi: Kesitsel Bir Çalışma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07376369
-
-SUMMARY:
-
-
 ## NCT07487831
 The Impact of Salt Intake on Sodium in the Skin and Inflammatory Skin Disease
 

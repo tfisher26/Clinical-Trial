@@ -1353,15 +1353,6 @@ Link: https://clinicaltrials.gov/study/NCT06518382
 
 SUMMARY:
 
-## NCT07091162
-EValuation Of poLygenic Scores and CT imAging In Risk Factor Modification in Patients With diabEtes
-
-Intervention: : CTCA results — Participants who are assigned to CTCA group will receive their CTCA results
-: PRS results — Participants who are assigned to PRS group will receive their PRS results
-Link: https://clinicaltrials.gov/study/NCT07091162
-
-SUMMARY:
-
 ## NCT07824297
 NAIF 2.0 - COGNIFY: Cognitive Impairment in Patients With Intracranial Dural Arteriovenous Fistulae: Exploration & Understanding
 

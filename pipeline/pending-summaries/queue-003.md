@@ -1269,15 +1269,6 @@ Link: https://clinicaltrials.gov/study/NCT05350748
 SUMMARY:
 
 
-## NCT07192887
-Clinical Feasibility of Thebaine Urine Mass Spectrometry Drug Testing
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07192887
-
-SUMMARY:
-
-
 ## NCT06726226
 Multicenter Cohort for Respiratory Outcome of Preterm Infants
 
