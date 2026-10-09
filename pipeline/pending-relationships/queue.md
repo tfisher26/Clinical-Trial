@@ -102560,3 +102560,34 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT02308917
+The Canadian Children Inflammatory Bowel Disease Network (CIDsCaNN): A Partnership With the CH.I.L.D. Foundation: Multi-center Inception Cohort Study
+Conditions: digestive/colitis_ulcerative, digestive/inflammatory_bowel_diseases
+
+Inclusion criteria:
+"""
+* diagnosed with IBD - Crohn's, ulcerative colitis or inflammatory bowel disease undefined
+"""
+
+RELATIONSHIP:
+
+## NCT05100420
+Hearts in Rhythm Organization Hypertrophic Cardiomyopathy Registry, Biobank and Imaging Data Repository (HiRO-HCM)
+Conditions: cardiovascular/apical_hypertrophic_cardiomyopathy, cardiovascular/cardiomyopathy_hypertrophic, cardiovascular/cardiomyopathy_hypertrophic_familial, cardiovascular/diabetic_cardiomyopathies
+
+Inclusion criteria:
+"""
+Patients with (1) AND/OR (2)
+
+1. Clinical diagnosis of HCM, defined as
+
+   1. maximal LVWT ≥15mm, or
+   2. maximal LVWT ≥13mm, in presence of a diagnosis of first degree relative with HCM, or
+   3. septal wall thickness with z-score \>2 in a child
+
+   AND/OR
+2. Carrier of a pathogenic or likely pathogenic genetic variant in a sarcomeric gene (ACTC1, FHOD3, MYBPC3, MYH7, MYL2, MYL3, TNNI3, TNNT2, TPM1). Variant classification should be performed by a certified diagnostic laboratory according to the American College of Medical Genetics and Genomics (ACMG) guidelines.
+"""
+
+RELATIONSHIP:
+

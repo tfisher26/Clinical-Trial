@@ -478,15 +478,6 @@ Link: https://clinicaltrials.gov/study/NCT07254351
 SUMMARY:
 
 
-## NCT05630469
-Prediction of Antidepressant Effects of Electroconvulsive Therapy
-
-Intervention: : Electroconvulsive therapy — repetitive induction of a generalized seizure under controlled conditions (muscle relaxation and sedation)
-Link: https://clinicaltrials.gov/study/NCT05630469
-
-SUMMARY:
-
-
 ## NCT05945537
 A Phase 1 Randomised, Double-Blind, Placebo-Controlled, Single and Multiple Ascending Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of INI-822 in Healthy Volunteers and Participants With Metabolic Dysfunction-Associated Steatohepatitis (MASH) or Presumed Metabolic Dysfunction-Associated Steatohepatitis (MASH)
 

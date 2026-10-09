@@ -5844,15 +5844,6 @@ Link: https://clinicaltrials.gov/study/NCT07076771
 
 SUMMARY:
 
-## NCT07076797
-The Effects of Lower Extremity Functional Exercise Program and Neuromuscular Electrical Nerve Stimulation on Muscle Strength, Muscle Thickness, Gait and Fall Risk in the Elderly
-
-Intervention: : EXERCISE TRAINING — PHYSIOTHERAPY PROGRAM
-: NMES — PHYSIOTHERAPY PROGRAM
-Link: https://clinicaltrials.gov/study/NCT07076797
-
-SUMMARY:
-
 ## NCT07076862
 Multiparametric Total-Body [18F]F-AraG PET/CT Imaging in Post-Acute Sequelae of SARS-CoV-2 Infection (PASC)
 

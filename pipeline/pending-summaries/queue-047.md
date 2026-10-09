@@ -16657,14 +16657,6 @@ Link: https://clinicaltrials.gov/study/NCT06985225
 
 SUMMARY:
 
-## NCT06985238
-A Pilot Study to Determine Safety and Feasibility of the Stratagen Quantitative Prostate MRI Platform as an Adjunct to Standard of Care MRI When Evaluating for Clinically Significant Prostate Cancer
-
-Intervention: : MRI — Will receive up to 15 minutes of additional MRI scan time during the existing prostate MRI imaging session.
-Link: https://clinicaltrials.gov/study/NCT06985238
-
-SUMMARY:
-
 ## NCT06985394
 Vascular Function and Oxidative Stress in Emergency Medical Responders
 

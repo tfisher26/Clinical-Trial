@@ -488,15 +488,6 @@ Link: https://clinicaltrials.gov/study/NCT06802016
 SUMMARY:
 
 
-## NCT07091942
-Curative Therapy After Atezolizumab and Bevacizumab Treatment for Unresectable Hepatocellular Carcinoma: A Multinational Retrospective Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07091942
-
-SUMMARY:
-
-
 ## NCT06532474
 Pilot Study Exploring the Physiologic, Pharmacodynamic, and Clinical Responses of Skeletal Muscle in Patients With Spinal Muscular Atrophy Treated With SMN-Directed Therapies
 

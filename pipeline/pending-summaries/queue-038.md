@@ -3187,15 +3187,6 @@ Link: https://clinicaltrials.gov/study/NCT06941116
 SUMMARY:
 
 
-## NCT06361225
-Routine Use of RUSH Protocol in the Intensive Care Unit- Does it Influence Patient Management? Prospective Observational Study
-
-Intervention: : evaluation with RUSH protocol — Daily evaluation of the patient via ultrasound using the RUSH protocol
-Link: https://clinicaltrials.gov/study/NCT06361225
-
-SUMMARY:
-
-
 ## NCT05859451
 Evaluation of Tobacco Heating System (THS) Compared to Conventional Cigarette Smoking During the Closed Lower Limb (Tibia and Femur) Fracture Healing in Orthopedic Smokers' Patients
 

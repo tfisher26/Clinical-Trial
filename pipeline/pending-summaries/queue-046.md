@@ -321,16 +321,6 @@ Link: https://clinicaltrials.gov/study/NCT06468774
 
 SUMMARY:
 
-## NCT06469333
-Theories of Working Memory and Consolidation/RECOnsolidation in the Process of Resorption of Certain Post-traumatic Symptoms: Interventional, Randomized Single-center Study
-
-Intervention: : Eye movements (EM) — The participant focuses on the intrusive thought and visually follows the horizontal movement of a white dot (Ø 1 cm) on the black computer screen 8 times for 24 seconds.
-: Auditory stimulations — The participant focuses on the intrusive thoughts and hears the auditory "beeps" through the headphones provided 8 times for 24 seconds.
-: Tactile stimulations — The participant focuses on the intrusive thought and applies tactile self-stimulation 8 times for 24 seconds.
-Link: https://clinicaltrials.gov/study/NCT06469333
-
-SUMMARY:
-
 ## NCT06469918
 The Co-Op @ HeartWorks
 
@@ -4682,14 +4672,6 @@ Pharmacogenomic Contribution to the Biotransformation of Trihexyphenidyl and Dev
 
 Intervention: : Trihexyphenidyl — 6-week dose escalation up to 0.25mg/kg TID, followed by a 9-week maintenance period at this dose
 Link: https://clinicaltrials.gov/study/NCT06554288
-
-SUMMARY:
-
-## NCT06554587
-Evaluation of the Performance of the Glycoscore Biomarkers for the Detection of Clinically Significant Prostate Cancer
-
-Intervention: : Laboratory Biomarker Analysis: Enzyme-linked immunosorbent assay (ELISA) — Measurement of the plasma concentration of ST6GAL1, GCNT1 and GALNT7 biomarkers in patients suspected of having prostate cancer or on active surveillance
-Link: https://clinicaltrials.gov/study/NCT06554587
 
 SUMMARY:
 
@@ -10947,14 +10929,6 @@ Intervention: : Irinotecan liposome — Irinotecan liposome injection, 50mg/m2, 
 Link: https://clinicaltrials.gov/study/NCT06657690
 
 SUMMARY: Nasopharyngeal cancer that returns after immunotherapy has few options. This study combines a liposome form of irinotecan with the oral chemotherapy S-1 to see whether it controls the cancer.
-
-## NCT06657794
-Physician Modified Endovascular Grafts for the Treatment of Elective, Symptomatic or Ruptured Juxtarenal Aortic Aneurysms
-
-Intervention: : Implantation of Physician-Modified Terumo Aortic TREO abdominal stent graft system — A Physician Modified Endograft is a commercially available, off-the-shelf endograft that has been altered at the time of the procedure by creating fenestrations in the seal zone of the graft to preserve blood flow into vital branch vessels. These fenestrations are marked with medical grade gold markers to facilitate fluoroscopic visualization during the procedure. In order to prevent branch vessel occlusion, these branch vessels are typically stented with covered balloon expandable stents using standardized techniques.
-Link: https://clinicaltrials.gov/study/NCT06657794
-
-SUMMARY: Aortic aneurysms near the kidney arteries are hard to repair with standard stent grafts. This study tests stent grafts modified by the surgeon to fit each patient to see whether they repair these aneurysms safely.
 
 ## NCT06657833
 DEBSCAN-IVL. Drug Eluting Balloon or Drug Eluting Stent to Treat CAlcified Nodules After IntraVascular Lithotripsy.

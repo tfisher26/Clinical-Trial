@@ -5782,16 +5782,6 @@ Link: https://clinicaltrials.gov/study/NCT06434389
 SUMMARY:
 
 
-## NCT07588139
-An Open-Label, Dermal Open-Flow Microperfusion and Plasma Pharmacokinetic Study of Multiple Doses of Oral Povorcitinib or Topical Ruxolitinib Cream in Healthy Adult Participants
-
-Intervention: : Povorcitinib — Oral; Tablet
-: Ruxolitinib — Ruxolitinib cream applied topically.
-Link: https://clinicaltrials.gov/study/NCT07588139
-
-SUMMARY:
-
-
 ## NCT07563205
 Observational Multicenter Study in Patients Receiving Chemotherapy and Amivantamab for Metastatic Non-small Cell Lung Cancer as Part of an Early Access Program
 

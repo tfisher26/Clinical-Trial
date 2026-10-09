@@ -953,15 +953,6 @@ Link: https://clinicaltrials.gov/study/NCT04608968
 SUMMARY:
 
 
-## NCT06349291
-Venous Thrombosis After Removal of Central Venous Catheter-prospective Observational Study
-
-Intervention: : Detection of venous thrombosis via US — Detection of venous thrombosis via US in patients after removal of central venous catheter
-Link: https://clinicaltrials.gov/study/NCT06349291
-
-SUMMARY:
-
-
 ## NCT06441942
 Creation of a Prospective Multicenter Registry of Gender, Diversity and Inclusion (GEDI) in Phenotypic and Genetic Characterization of Acute Coronary Syndrome.
 
@@ -3337,15 +3328,6 @@ A Pre-market, Two-stages, Monocentric, Interventional, Single-arm, Clinical Inve
 
 Intervention: : PN30 (RDM16) — PN30 is a viscoelastic, sterile gel, in a disposable prefilled syringe for intradermal infiltration.PN30 contains polynucleotides (3%). The polynucleotides contained in the device are substances of natural, fish-derived origin, highly purified.
 Link: https://clinicaltrials.gov/study/NCT07151859
-
-SUMMARY:
-
-
-## NCT06568497
-Sensory, Satiating and Glycaemic Characteristics of Cheese and Non-dairy Alternative Products to Cheese
-
-Intervention: : Food — Food
-Link: https://clinicaltrials.gov/study/NCT06568497
 
 SUMMARY:
 

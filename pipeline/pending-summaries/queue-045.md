@@ -9580,15 +9580,6 @@ Link: https://clinicaltrials.gov/study/NCT06297980
 
 SUMMARY:
 
-## NCT06298253
-Behavioral Economics to Implement a Traffic Light Nutrition Ranking System in a Network of Food Pantries: Study 2
-
-Intervention: : Behavioral economics-enhanced SWAP implementation — Intervention will include behavioral nudges at baseline and over 12 months to promote use of the SWAP nutrition program for pantries.
-: Basic SWAP implementation — Intervention will include basic information about the SWAP program and encouragement to obtain SWAP toolkits.
-Link: https://clinicaltrials.gov/study/NCT06298253
-
-SUMMARY:
-
 ## NCT06298565
 A Non-interventional, Post-authorisation Safety Study of Patients Treated With Efgartigimod Alfa
 
@@ -12312,15 +12303,6 @@ Intervention: : Blood ctDNA + methylation + PET-CT and Postoperative pathology �
 Link: https://clinicaltrials.gov/study/NCT06358222
 
 SUMMARY:
-
-## NCT06358391
-A Prospective, Multi-center, Randomized, Single-blind, Non-inferiority Confirmatory Study Designed to Compare and Assess Efficacy and Safety Between "TS-RF System Consisting of a Electrosurgical System, General-purpose (TS-RF Generator) and a Electrosurgical System Electrode, Hand-controlled, General-purpose, Single-use (TS-RF Needle)" and "Needle, Puncture, Single-use (BRK Transseptal Needle)", Both of Which Are Used for the Transseptal Puncture Performed to Enable Left Atrial Access for the Treatment of Symptomatic Arrhythmia and Mitral Stenosis
-
-Intervention: : TS-RF Transseptal Needle — Apply radiofrequency energy to the electrode tip via the TS-RF Generator and puncture the atrial septum
-: BRK Transseptal Needle — Cross and puncture the atrial septum with the BRK Transseptal Needle
-Link: https://clinicaltrials.gov/study/NCT06358391
-
-SUMMARY: Some heart rhythm and valve procedures require a puncture through the wall between the upper heart chambers. This study compares a radiofrequency needle system with a standard needle for this puncture to see whether it works as well and is as safe.
 
 ## NCT06358547
 Preimplantation Genetic Testing for Aneuploidy (PGT-A) in Women Aged 37-41 Years - a Randomized Controlled Multicenter Trial

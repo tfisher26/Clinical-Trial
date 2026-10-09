@@ -1754,15 +1754,6 @@ Link: https://clinicaltrials.gov/study/NCT05266898
 SUMMARY:
 
 
-## NCT06410014
-Assessment of Overall Functioning in Patients With Complex Health Issues
-
-Intervention: : No intervention is performed — The study is observational
-Link: https://clinicaltrials.gov/study/NCT06410014
-
-SUMMARY:
-
-
 ## NCT06383338
 A Prospective Feasibility Study Investigating PhEnoconversion of CYP3A4, CYP2C19 and CYP2D6 Genotype in Paediatric and Adolescent and Young Adult patientS With an acUte diagnosiS of Hodgkin or Non-Hodgkin Lymphoma.
 

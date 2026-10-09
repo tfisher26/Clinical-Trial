@@ -1646,19 +1646,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04501120
-A Phase Ib Study of the Safety, Pharmacokinetic of Lisaftoclax (APG-2575) Single Agent and in Combination With Homoharringtonine or Azacitidine in Patients With Relapsed/Refractory AML
-
-Intervention: : Lisaftoclax (APG-2575) — Lisaftoclax (APG-2575) orally once daily, every 28 days as a cycle.
-: Reduced-dose HHT — 1mg IV QD on Days 1-14 (28-day cycle).
-: standard-dose HHT — 2mg/m\^2 IV QD on Days 1-7 (28-day cycle).
-: Azacitidine — 75 mg/m\^2 SC or Iv gtt QD on Days 1- 7 (28-day cycle).
-: Lisaftoclax (APG-2575) — Lisaftoclax (APG-2575) orally once daily for 14 days, every 28 days as a cycle.
-: olverembatinib — orally, with meals, QOD, every 28 days as a cycle.
-Link: https://clinicaltrials.gov/study/NCT04501120
-
-SUMMARY:
-
 ## NCT04501419
 Tablet-based Mobile Health Ultrasound for Point-of-care Breast Cancer Diagnosis in Nigeria
 
@@ -10626,15 +10613,6 @@ Link: https://clinicaltrials.gov/study/NCT05179226
 
 SUMMARY: Iron deficiency anemia is common in children with chronic kidney disease and other conditions. This study tests ferric derisomaltose, an IV iron treatment, in children from birth to under 18.
 
-## NCT05179655
-TEENS Multi-site Trial
-
-Intervention: : Emotion Regulation Individual Therapy for Adolescents (ERITA) — The ERITA intervention as add-on to TAU consists of 11 weeks, manualized online therapy based on the methods of Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), and Acceptance and Commitment Therapy (ACT) adapted for youth. The ERITA content consists of psychoeducation, emotion recognition, awareness training and theory of emotion regulation, including acceptance and validation skills.
-: Treatment as usual — Within Mental Health Services in Denmark child and adolescent psychiatrists provide specialized treatment for young psychiatric patients as outpatient services. In this trial the control intervention is treatment as usual (TAU) and consists of clinical assessment and treatment for patient's current primary psychiatric condition. TAU encounters a variety of clinical treatment and assessment offers, however, all within the field of expertise in child and adolescent psychiatry; out-patient care may consist of treatment for OCD, eating disorders, psychoses or affective disorders. TAU may consist of pharmacological treatment, Family-Based Treatment (FBT), Cognitive Behavioral Therapy (CBT), supportive counselling and/or psychoeducation.
-Link: https://clinicaltrials.gov/study/NCT05179655
-
-SUMMARY:
-
 ## NCT05180864
 Omentum Preservation Versus Complete Omentectomy in Gastrectomy for Gastric Cancer
 
@@ -13255,24 +13233,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05326061
 
 SUMMARY:
-
-## NCT05326243
-A Phase 1/2 Multicenter, Open-label, Single-arm Study to Evaluate the Safety and Efficacy of CD19-targeted Chimeric Antigen Receptor T-cell (CD19 CAR-T; PL001) Therapy in Patients With Relapsed or Refractory B-cell Lymphoma
-
-Intervention: : CD19-targeted chimeric antigen receptor T-cell — Drug: Fludarabine
-
-patients will receive a lymphodepletion chemotherapy with Fludarabine 25 mg/m2/day IV for 3 days on Day-5 to Day-3(a safe window for a small subset of patients will be D -7 to D -3).
-
-Drug: Cyclophosphamide
-
-patients will receive a lymphodepletion chemotherapy with cyclophosphamide 300 mg/m2/day IV for 3 dys Day-5 to Day-3(a safe window for a small subset of patients will be D -7 to D -3).
-
-Biological: CD19 CAR-T
-
-CD19 CAR-T cells will be administered using as a single dose at 0.1-9\*10\^6 cells/kg on Day 0 after completion of the lymphodepletion chemotherapy. The body weight calculated for PL001 dose is the actual body weight on the day of leukapheresis.
-Link: https://clinicaltrials.gov/study/NCT05326243
-
-SUMMARY: B cell lymphoma that has come back or stopped responding is hard to treat. This study tests PL001, a CD19 targeted CAR-T cell therapy given after preparatory chemotherapy.
 
 ## NCT05326308
 Zanubrutinib (Brukinsa®) in Patients With Waldenström's Macroglobulinemia (WM), Chronic Lymphocytic Leukemia (CLL), Marginal Zone Lymphoma (MZL) and Follicular Lymphoma (FL) - a Prospective Multicenter Observational Cohort Study

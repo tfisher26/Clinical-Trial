@@ -575,14 +575,6 @@ Link: https://clinicaltrials.gov/study/NCT04868526
 
 SUMMARY:
 
-## NCT05968742
-Mechanisms Underlying the Variation in Rate and Levels of Gingival Inflammatory Responses Among the Human Population
-
-Intervention: : Abstinence of oral hygiene on select teeth — Study participants abstain from oral hygiene on a select set of four teeth for a period of 21 days
-Link: https://clinicaltrials.gov/study/NCT05968742
-
-SUMMARY:
-
 ## NCT04899154
 MEDIBIOTE 3: Analysis of Intestinal Microbiota as a Predictor of Response to Treatment of Spondyloarthritis With Biotherapy
 
@@ -2579,14 +2571,6 @@ Link: https://clinicaltrials.gov/study/NCT07686250
 
 SUMMARY:
 
-## NCT05886218
-A Before/After Study of the Impact of Quantitative Neuromuscular Monitoring and Sugammadex Reversal Following Gastric Bypass Surgery
-
-Intervention: : Quantitative Neuromuscular Function Monitoring — Quantitative electromyographic (EMG) monitoring
-Link: https://clinicaltrials.gov/study/NCT05886218
-
-SUMMARY:
-
 ## NCT06691100
 The Acute Effects of an Endurance Exercise Bout the Gut Microbiome and Gut-derived Metabolome in Women's Distinct Fitness and Body Mass Indexes
 
@@ -2609,14 +2593,6 @@ Developing a Method of Adjusting the Strength of Transcranial Focused Ultrasound
 
 Intervention: : Brainsonix Bx Pulsar machine tFUS — This is a tFUS device, delivering ultrasound at a dose within the FDA safety guidelines.
 Link: https://clinicaltrials.gov/study/NCT06426498
-
-SUMMARY:
-
-## NCT06554587
-Evaluation of the Performance of the Glycoscore Biomarkers for the Detection of Clinically Significant Prostate Cancer
-
-Intervention: : Laboratory Biomarker Analysis: Enzyme-linked immunosorbent assay (ELISA) — Measurement of the plasma concentration of ST6GAL1, GCNT1 and GALNT7 biomarkers in patients suspected of having prostate cancer or on active surveillance
-Link: https://clinicaltrials.gov/study/NCT06554587
 
 SUMMARY:
 
@@ -6263,14 +6239,6 @@ Rapid Construction of Tissue-engineered Skin for Repairing Difficult-to-heal Wou
 Intervention: : Rapid Tissue-Engineered Skin — Autologous split-thickness skin (0.15-0.2 mm) is harvested from the donor site at a donor-to-wound area ratio of 1:20-30. The harvested skin is processed using a specialized cell sorter to isolate autologous epidermal stem cells (EpiSCs) with \>93% viability within 30 minutes. The cell suspension is adjusted to a concentration of ≥1×10⁶ cells/mL and loaded onto a tissue-engineered scaffold via spraying or immersion (3-5 minutes). The cell-seeded scaffold is then applied to the wound bed. Depending on wound condition: (1) One-step procedure: scaffold and a split-thickness skin graft (0.15-0.2 mm) are applied simultaneously; (2) Two-step procedure: scaffold is implanted first, followed by split-thickness skin graft at 14±3 days post-primary surgery. Negative pressure wound therapy (-100 to -125 mmHg) is applied as needed.
 : Traditional Composite Skin Graft — The same tissue-engineered scaffold (without cell loading) is used. Autologous split-thickness skin graft (0.15-0.2 mm thickness) is harvested. The acellular scaffold is applied to the debrided wound bed followed by coverage with the split-thickness skin graft. The surgical procedure, postoperative wound care, negative pressure wound therapy (-100 to -125 mmHg when indicated), and follow-up protocol are identical to those in the experimental arm. This comparator represents the current standard of care for composite skin grafting in the participating centers.
 Link: https://clinicaltrials.gov/study/NCT07562230
-
-SUMMARY:
-
-## NCT06985238
-A Pilot Study to Determine Safety and Feasibility of the Stratagen Quantitative Prostate MRI Platform as an Adjunct to Standard of Care MRI When Evaluating for Clinically Significant Prostate Cancer
-
-Intervention: : MRI — Will receive up to 15 minutes of additional MRI scan time during the existing prostate MRI imaging session.
-Link: https://clinicaltrials.gov/study/NCT06985238
 
 SUMMARY:
 

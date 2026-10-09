@@ -460,22 +460,6 @@ Link: https://clinicaltrials.gov/study/NCT05516667
 
 SUMMARY:
 
-## NCT05516862
-Determining the Right Acupuncture for Good Recovery Over Neuropsychiatric Trauma (DRAGON)
-
-Intervention: : Dragons acupuncture — The treatment we are studying is supposed to help the rational and emotional brain effectively communicate, so that the emotional brain can finally realize the trauma experienced is no longer a threat. We call this re-processing. It does not take away the memory but it allows the rational brain to see the memory as just a memory without the emotional brain initiating your fight, flight or freeze system. This allows the mind to take the file off the messy desk and put it away. The treatment was named by the Chinese and is called "External and Internal Dragons". According to the Chinese, the External Dragons represent all the bad (traumatic) things that happen to us. The Internal Dragons live inside us, and fight off the External Dragons.
-
-Subject will lay on your stomach and have 7 needles placed in head, upper back, lower back and ankles.
-: Dragons acupressure — The treatment we are studying is supposed to help the rational and emotional brain effectively communicate, so that the emotional brain can finally realize the trauma experienced is no longer a threat. We call this re-processing. It does not take away the memory but it allows the rational brain to see the memory as just a memory without the emotional brain initiating your fight, flight or freeze system. This allows the mind to take the file off the messy desk and put it away. The treatment was named by the Chinese and is called "External and Internal Dragons". According to the Chinese, the External Dragons represent all the bad (traumatic) things that happen to us. The Internal Dragons live inside us, and fight off the External Dragons.
-
-Subject will lay on your stomach and have 7 small acupressure adhesive bandages placed on head, upper back, lower back and ankles.
-: Dragons placebo — The treatment we are studying is supposed to help the rational and emotional brain effectively communicate, so that the emotional brain can finally realize the trauma experienced is no longer a threat. We call this re-processing. It does not take away the memory but it allows the rational brain to see the memory as just a memory without the emotional brain initiating your fight, flight or freeze system. This allows the mind to take the file off the messy desk and put it away. The treatment was named by the Chinese and is called "External and Internal Dragons". According to the Chinese, the External Dragons represent all the bad (traumatic) things that happen to us. The Internal Dragons live inside us, and fight off the External Dragons.
-
-Subject will lay on your stomach and the doctor will touch 7 points on head, upper back, lower back and ankles.
-Link: https://clinicaltrials.gov/study/NCT05516862
-
-SUMMARY:
-
 ## NCT05517135
 tReatment Individualisation By EBV stratificatiON in Nasopharyngeal Carcinoma: an Umbrella Platform Study (RIBBON-Umbrella)
 
@@ -1409,14 +1393,6 @@ Understanding the Mechanistic, Neurophysiological, and Antinociceptive Effects o
 Intervention: : transcutaneous Auricular neurostimulation - Active — Active auricular stimulation will be conducted using the FDA-cleared tAN device (Sparrow®) manufactured by Spark Biomedical (Dallas, TX). The tAN devices are portable, wearable systems with two channels of stimulation (auricular vagus and auricular trigeminal). Two individual stimulation frequencies will be set: 15 Hz at cymba concha (Region1/Channel 1; vagal innervation) and 100 Hz adjacently anterior to the tragus (Region 2/Channel 2; trigeminal innervation). The pulse duration will be set at 250 µs for all participants. The stimulation intensities (mA) will be set at 1.0 and 1.4 (for Regions 1 and 2, respectively) based on values observed in previous clinical studies. If the participant states that the stimulation intensity is discomforting or unperceivable, the study personnel will gradually decrease/increase the intensity until a comfortable stimulation intensity is achieved
 : transcutaneous auricular neurostimulation - Sham — Sham auricular stimulation will be conducted using the FDA-cleared tAN device (Sparrow®) manufactured by Spark Biomedical (Dallas, TX) but will not deliver prolonged stimulation.
 Link: https://clinicaltrials.gov/study/NCT05555485
-
-SUMMARY:
-
-## NCT05556473
-A Pilot Study of 1-(2-[18f]Fluoroethyl)-L-Tryptophan PET/CT Imaging In Human Cancers
-
-Intervention: : 1-(2-[18F]FLUOROETHYL)-L-Tryptophan — Radioactive tracer 1-(2-\[18F\]FLUOROETHYL)-L-Tryptophan 0.14mCi/kg/5MBq/kg injection given one time prior to PET Scan.
-Link: https://clinicaltrials.gov/study/NCT05556473
 
 SUMMARY:
 
@@ -11222,14 +11198,6 @@ Link: https://clinicaltrials.gov/study/NCT05886049
 
 SUMMARY: Newly diagnosed acute myeloid leukemia with certain genetic changes such as NPM1 mutations needs better treatment. This study tests the menin inhibitor SNDX-5613 with daunorubicin and cytarabine.
 
-## NCT05886218
-A Before/After Study of the Impact of Quantitative Neuromuscular Monitoring and Sugammadex Reversal Following Gastric Bypass Surgery
-
-Intervention: : Quantitative Neuromuscular Function Monitoring — Quantitative electromyographic (EMG) monitoring
-Link: https://clinicaltrials.gov/study/NCT05886218
-
-SUMMARY:
-
 ## NCT05887440
 Effects of Isokinetic Strength Training of Knee Flexor and Extensor Muscles on Walking in Hemiparetic Patients With Knee Extension Thrust
 
@@ -13870,14 +13838,6 @@ Link: https://clinicaltrials.gov/study/NCT05968677
 
 SUMMARY: Chemotherapy for breast cancer can cause toxicity and poor nutrition. This study tests a medical nutrition supplement with amino acids and flavonoids.
 
-## NCT05968742
-Mechanisms Underlying the Variation in Rate and Levels of Gingival Inflammatory Responses Among the Human Population
-
-Intervention: : Abstinence of oral hygiene on select teeth — Study participants abstain from oral hygiene on a select set of four teeth for a period of 21 days
-Link: https://clinicaltrials.gov/study/NCT05968742
-
-SUMMARY:
-
 ## NCT05969028
 First Responder Airway & Compression Rate Trial (FACT Study)
 
@@ -13953,14 +13913,6 @@ Study of Neutrophils During Gingival Inflammation in Children With Down Syndrome
 
 Intervention: : Biological sampling — \- Saliva and blood sampling
 Link: https://clinicaltrials.gov/study/NCT05970965
-
-SUMMARY:
-
-## NCT05971108
-Real-world Elecsys® GAAD Algorithm Implementation and Validation to Improve Surveillance and Early Detection of Hepatocellular Carcinoma
-
-Intervention: : Elecsys® GAAD — Elecsys® GAAD is a CE marked in vitro diagnostic (IVD) multivariate index assay, intended as an aid in the diagnosis of early-stage HCC. It provides a semi quantitative result by combining in an algorithm the quantitative measurements of Elecsys® AFP (alpha-fetoprotein) and Elecsys® PIVKA-II (protein induced by vitamin K absence II) levels in serum and plasma, with gender and age. Clinical evidence showed that Elecsys® GAAD had high performance in detecting HCC (sensitivity 86.5%), particularly early stage (sensitivity 78.9%), with 91.4% specificity for both early and all stages, out-performing current standard of care (Chan et al. 2021). Elecsys® GAAD may be integrated into current surveillance practice to increase early-stage HCC detection rate, reduce unnecessary onward investigations and patient anxiety.
-Link: https://clinicaltrials.gov/study/NCT05971108
 
 SUMMARY:
 
@@ -17259,23 +17211,6 @@ Intervention: : transthoracic echocardiography — E wave, A wave, e' and vdi me
 Link: https://clinicaltrials.gov/study/NCT06060639
 
 SUMMARY:
-
-## NCT06060860
-Comparing Cognitive-Behavioral Therapy Versus Mindfulness-Based Therapy for Autistic Adults
-
-Intervention: : Cognitive-Behavioral Therapy (CBT) — The UP incorporates common principles among empirically supported CBT protocols, including restructuring maladaptive cognitions, changing maladaptive behaviors, preventing emotion avoidance, and incorporating exposure. It consists of five core treatment modules:
-
-1. emotion awareness,
-2. cognitive appraisal \& reappraisal,
-3. emotion avoidance \& emotion-driven behaviors,
-4. awareness and tolerance of emotion-related physical sensations, \&
-5. interoceptive and situational emotion-focused exposures.
-
-There are two introductory modules on enhancing motivation and understanding of emotional experiences. A final module is on maintenance and relapse prevention. Modules are delivered at a flexible pace and some patients may spend multiple sessions on the same module. The total number of sessions varies from patient to patient, generally ranging from 12-18 sessions (50-60 minutes) delivered weekly. All sessions are 1:1 via telehealth.
-: Mindfulness-Based Cognitive Therapy (MBCT) — The study MBCT protocol is a 9-week program (90-120 minute sessions) with home-based practice between sessions. MBCT sessions incorporate formal mindfulness meditation practices such as sitting meditation, mindful movement, and body scan (with a focus on mindful and non-judgmental attention to sensations, thoughts, and feelings), as well as informal practices and homework to integrate mindful awareness into everyday life, such as mindful eating, mindful walking, and mindful breathing. All sessions are 1:1 via telehealth.
-Link: https://clinicaltrials.gov/study/NCT06060860
-
-SUMMARY: Autistic adults often experience anxiety and depression. This study compares cognitive behavioral therapy with mindfulness based therapy.
 
 ## NCT06060873
 Phase II Trial of Serum Micro RNA-371 in Detecting Active Germ Cell Tumors in Patients With Suspected Regional Disease - (MAGESTIC Trial: MiRNA in Detecting Active Germ Cell Tumors in Early Suspected and MetastaTIC Disease Trial)

@@ -5169,15 +5169,6 @@ Link: https://clinicaltrials.gov/study/NCT06586736
 SUMMARY:
 
 
-## NCT05807997
-Patients Who Were Not Admitted to the Intensive Care Unit: Characteristics and Clinical Outcomes. Retrospective Study
-
-Intervention: : Refusal of ICU admission. — patients aged 18--99 who were presented to the general intensive care unit from January 2018 to the end of December 2023 and were not admitted.
-Link: https://clinicaltrials.gov/study/NCT05807997
-
-SUMMARY:
-
-
 ## NCT07732374
 Assessing Follow-Up Effects Post-Discontinuation of Hyperbaric Oxygen Therapy on Cognitive Function, Mental Health, and Quality of Life in Veterans
 

@@ -38,15 +38,6 @@ Link: https://clinicaltrials.gov/study/NCT06908460
 SUMMARY:
 
 
-## NCT07610824
-Evaluation of the Relationship Between Intraoperative Driving Pressure and Postoperative Lung Ultrasound Score in Patients Undergoing Robot-Assisted Laparoscopic Radical Prostatectomy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07610824
-
-SUMMARY:
-
-
 ## NCT05908591
 SLEEP: Sleep Disordered Breathing, Endothelial Function, and Adverse Events in Pregnancy
 
