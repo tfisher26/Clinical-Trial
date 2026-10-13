@@ -2328,17 +2328,6 @@ Link: https://clinicaltrials.gov/study/NCT06964880
 SUMMARY:
 
 
-## NCT07059403
-A Phase I, Randomized, Double Blind, Placebo-Controlled, Dose-Ranging Study to Evaluate the Safety, Tolerability and Immunogenicity of SN2001 in Healthy Adult Subjects
-
-Intervention: : SN2001 — 100 µg, for subcutaneous (SC) injection
-: SN2001 — 200 µg, for subcutaneous (SC) injection
-: SN2001 — 300 µg, for subcutaneous (SC) injection
-Link: https://clinicaltrials.gov/study/NCT07059403
-
-SUMMARY:
-
-
 ## NCT06932679
 Affordances and Impairments: A Paradigm for Understanding Obstacle Crossing in Parkinson's Disease
 

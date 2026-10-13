@@ -50,15 +50,6 @@ Link: https://clinicaltrials.gov/study/NCT05419726
 SUMMARY:
 
 
-## NCT05499637
-Pilot Study to Evaluate the Accuracy of [68Ga]Ga-PentixaFor PET/CT in the Diagnosis of Three Clinical Entities of Acute Myocardial Inflammation
-
-Intervention: : [68Ga]Ga-PentixaFor PET/CT — \[68Ga\]Ga-PentixaFor PET/CT
-Link: https://clinicaltrials.gov/study/NCT05499637
-
-SUMMARY:
-
-
 ## NCT07024160
 A Single-center, Randomized, Double-blind, Placebo-controlled Phase I Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Single Ascending Dose (SAD) Administration of MT1011 Injection in Healthy Subjects
 
@@ -397,15 +388,6 @@ Evaluating Large Language Models as Decision Support Agents in Pan-Cancer Tumor 
 
 Intervention: : LLM assists in MDT report writing — This study was a prospective RCT, and the intervention content was an auxiliary tool for writing MDT reports. The intervention group used LLM to assist in the writing of MDT reports. The prescribed MDT medical records (excluding diagnosis and treatment opinions) were input into the LLM, and the output content could be used as a reference for the MDT report. Finally, the MDT diagnosis and treatment opinions were written under the personal judgment of the doctors. The control group used traditional information retrieval methods (such as Google, literature, and textbooks) to write MDT diagnosis and treatment opinions.
 Link: https://clinicaltrials.gov/study/NCT07504367
-
-SUMMARY:
-
-
-## NCT06217900
-PROFOUND Study: Development and Validation of a Multi-cancer Early Detection Model Based on Peripheral Blood Multi-omic Analysis and Machine Learning: a Multicenter, Prospective, Observational, Case-control Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06217900
 
 SUMMARY:
 

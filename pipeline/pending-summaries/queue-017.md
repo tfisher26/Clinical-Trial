@@ -2367,16 +2367,6 @@ Link: https://clinicaltrials.gov/study/NCT06672692
 SUMMARY:
 
 
-## NCT07239973
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single/Multiple-dose Study to Evaluate the Safety, Pharmacokinetics and Pharmacodynamics of BGM0504 Tablets Orally Administered in Healthy and Non-diabetic Overweight or Obese Chinese Subjects.
-
-Intervention: : BGM0504 tablets — Administered p.o.
-: Placebo tablets — Administered p.o.
-Link: https://clinicaltrials.gov/study/NCT07239973
-
-SUMMARY:
-
-
 ## NCT07394907
 The Effectiveness of Gamified Metaverse-Based Training on Patient Safety for Nursing Students: A Mixed Methods Study
 

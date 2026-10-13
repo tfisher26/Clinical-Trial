@@ -2079,15 +2079,6 @@ Link: https://clinicaltrials.gov/study/NCT07168941
 SUMMARY:
 
 
-## NCT04569006
-Level of Agreement in the Assessment of Carotid Plaque Composition Between Multi-contrast and Multi-sequence MRI
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04569006
-
-SUMMARY:
-
-
 ## NCT07755020
 Utilizing a Nitride-Based Raman Biochip for Assisting in Lung Cancer Diagnosis and Clinical Monitoring: A Prospective, Multicenter Clinical Study
 

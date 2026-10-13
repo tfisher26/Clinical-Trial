@@ -6750,14 +6750,6 @@ Link: https://clinicaltrials.gov/study/NCT07319832
 
 SUMMARY:
 
-## NCT07319988
-A Randomized Controlled Trial Investigating the Effect of Extracorporeal Shock Wave Therapy With Core Stability Exercises for Treatment of Chronic Non-Specific Back Pain in Jordanian University Students
-
-Intervention: : Extracorporeal Shock wave therapy — treatment of chronic non-specific back pain by shock wave therapy combined with core stabilization exercises
-Link: https://clinicaltrials.gov/study/NCT07319988
-
-SUMMARY:
-
 ## NCT07320209
 Investigation of Physiological and Neurocognitive Responses to Multisensory Food Cues in an Virtual Reality Environment
 
@@ -8164,15 +8156,6 @@ Experiences With and Attitudes Towards Immune Checkpoint Inhibitors in Patients 
 
 Intervention: : Non-Interventional Study — Non-interventional study
 Link: https://clinicaltrials.gov/study/NCT07339254
-
-SUMMARY:
-
-## NCT07339306
-A Novel Fluorescent Ductal Needle With Controllable Detachment for Realtime Localization and Sampling of Micro Lesions in Breast Ducts: a Prospective, Multicenter Study
-
-Intervention: : novel fluorescent localization marker needle — novel fluorescent localization needle, which features a controllable shedding quantum dot chiral nanofluorescent coating
-: conventional localization marker needle — conventional localization marker needle, without any coating
-Link: https://clinicaltrials.gov/study/NCT07339306
 
 SUMMARY:
 
@@ -16776,15 +16759,6 @@ Intervention: : Video laryngoscope alone as a control — this is the control ar
 : Video Laryngoscope plus Video Stylet — This will be the first inteventional group
 : Video Laryngoscope plus Fiberoptic bronchoscope — This will be the second interventional group
 Link: https://clinicaltrials.gov/study/NCT07470736
-
-SUMMARY:
-
-## NCT07470983
-A Multicenter, Randomized, Double-blind, Parallel, Placebo-controlled Phase II Clinical Study to Evaluate the Efficacy and Safety of HRS-1780 in Participants With Primary Aldosteronism
-
-Intervention: : HRS-1780 Tablets — HRS-1780 Tablets
-: Placebo — Placebo
-Link: https://clinicaltrials.gov/study/NCT07470983
 
 SUMMARY:
 

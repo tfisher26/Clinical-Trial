@@ -769,15 +769,6 @@ Link: https://clinicaltrials.gov/study/NCT06650137
 SUMMARY:
 
 
-## NCT06521229
-An Ambispective Observational Multicenter Registry of Patients With Uncontrolled Asthma in the Population of the Russian Federation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06521229
-
-SUMMARY:
-
-
 ## NCT06842407
 Nuovi Bersagli Per lo Sviluppo di Anticorpi Monoclonali Per Immunoterapia - (Novel Targets for the Development of Monoclonal Antibodies for Immunotherapy)
 

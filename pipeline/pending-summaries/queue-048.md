@@ -4938,16 +4938,6 @@ Link: https://clinicaltrials.gov/study/NCT07064473
 
 SUMMARY:
 
-## NCT07064486
-A Phase 3, Randomized, Open Label Trial Comparing Efficacy and Safety of BGM0504 Versus Semaglutide Once Weekly as Add-on Therapy to Metformin in Patients With Type 2 Diabetes
-
-Intervention: : BGM0504 — Administered SC
-: BGM0504 — Administered SC
-: Semaglutide — Administered SC
-Link: https://clinicaltrials.gov/study/NCT07064486
-
-SUMMARY:
-
 ## NCT07064616
 Pulsed Field Ablation vs. Cryoballoon Ablation in Patients With Persistent Atrial Fibrillation
 
@@ -6359,14 +6349,6 @@ Link: https://clinicaltrials.gov/study/NCT07085182
 
 SUMMARY:
 
-## NCT07085351
-Developing EEG Biomarkers for OUD Diagnostic, Prognostic, and Predictive Purposes
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07085351
-
-SUMMARY:
-
 ## NCT07085676
 A Phase 1 Dose Escalation and Safety Study of HBI0101 CART in B-cell Mediated Refractory Autoimmune Diseases
 
@@ -6912,14 +6894,6 @@ Evaluating the Utility of Implementing Microfluids for Sperm Preparation Compare
 
 Intervention: : FERTILE Plus — The FERTILE PLUS™ method is a standardized method with an easy-to-follow protocol that is far less dependent on the skill or experience of the embryologist than other methods, such as density gradients. The FERTILE PLUS™ (850 µL) Sperm Sorting Chip is a single-use, flow-free, dual chambered, microfluidic-based sperm sorting device. FERTILE PLUS™ was previously known as Zymot, prior to a name change by the manufacturer. The lower chamber contains a sample inlet and fluid channel separated from the upper collection chamber by a microporous membrane with 8-μm pores, demonstrated as the optimal size for selection of sperm with higher motility and normal morphology \[18\].
 Link: https://clinicaltrials.gov/study/NCT07093619
-
-SUMMARY:
-
-## NCT07094373
-Validation of Diagnostic Codes for Identifying Chlamydial Infections From TriNetX Electronic Health Record Data in the United States
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07094373
 
 SUMMARY:
 
@@ -11555,15 +11529,6 @@ Link: https://clinicaltrials.gov/study/NCT07161960
 
 SUMMARY:
 
-## NCT07161999
-Phase 2/3, Randomized, Double-Blind, Placebo-Controlled, Multi-Center, 24-Week Study With Additional 24-Week Blinded Active Extension to Evaluate the Safety and Efficacy of COYA 302 for the Treatment of Amyotrophic Lateral Sclerosis (ALS)
-
-Intervention: : COYA 302 — Administered as specified in the treatment arm.
-: Placebo — Administered as specified in the treatment arm.
-Link: https://clinicaltrials.gov/study/NCT07161999
-
-SUMMARY:
-
 ## NCT07162038
 Phase I Trial Integrating HLA-Haploidentical Anti-CD19 CAR T Cells With Post-Transplantation Cyclophosphamide-Based HLA-Haploidentical Hematopoietic Cell Transplantation
 
@@ -14175,16 +14140,6 @@ A Phase I/II Clinical Study to Evaluate the Safety, Tolerability, Pharmacokineti
 
 Intervention: : MHB042C for Injection — IV administration of MHB042C Q2W or Q3W; Participants will continue treatment until the end of the study in the absence of unacceptable toxicities and confirmed disease progression.
 Link: https://clinicaltrials.gov/study/NCT07192107
-
-SUMMARY:
-
-## NCT07192159
-Evaluation of a Quantitative Ultrasound Model(DeepUSFF) for Liver Fat Quantification in Patients With Metabolic Dysfunction-Associated Steatotic Liver Disease: A Multicenter Prospective Study Using MRI-PDFF as the Reference Standard
-
-Intervention: : Quantitative ultrasound (DeepUSFF) — \*\*Novel Quantitative Ultrasound Technology Assessment\*\*
-
-This study evaluates Samsung Medison's proprietary DeepUSFF (Deep Learning-based Ultrasound Fat Fraction) technology, a next-generation quantitative ultrasound method for liver fat assessment that differs from conventional ultrasound approaches in several key aspects: advanced RF data analysis, proprietary technology, standardized protocol, direct MRI-PDFF correlation, specific MSALD poopulation and multicenter design.
-Link: https://clinicaltrials.gov/study/NCT07192159
 
 SUMMARY:
 

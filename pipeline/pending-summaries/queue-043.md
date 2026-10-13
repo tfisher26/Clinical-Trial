@@ -1646,76 +1646,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04501419
-Tablet-based Mobile Health Ultrasound for Point-of-care Breast Cancer Diagnosis in Nigeria
-
-Intervention: : US-guided breast biopsy — During this study, women with undergo an US-guided breast biopsy by a radiologist instead of what is typically performed in Nigerian hospitals, which is either a blind biopsy or surgical excision. US-guided breast biopsy is the standard of care in the United States of America because the accuracy is better than blind biopsy and equal to surgical excision.
-: Ultrasound-guided breast biopsy training program — This program, developed by experts in Nigeria and the United States of America, certifies that they have the skills required to safely perform these biopsies on patients
-Link: https://clinicaltrials.gov/study/NCT04501419
-
-SUMMARY:
-
-## NCT04502719
-Comparison of Two Nutritional Screening Tools for the Detection of Malnutrition in Patients with Liver Cirrhosis
-
-Intervention: : Nutritional screening. — Nutritional screening with the RFH-NPT and LDUST questionnaires.
-Link: https://clinicaltrials.gov/study/NCT04502719
-
-SUMMARY:
-
-## NCT04503265
-A Phase I/II, Open Label, Multi-center, Non-randomized Dose Escalation and Dose Expansion Study of AMXI-5001 in Patients With Advanced Malignancies
-
-Intervention: : AMXI-5001:Dose Escalation Phase I — Phase I will enroll up to 70 participants to identify the Recommended Phase II daily dose in the treatment of various cancers and to characterize the safety, pharmacology, and clinical efficacy of AMXI-5001. AMXI-5001 is administered orally twice daily, with food. AMXI-5001 is administered weekly on a continuous 7-day schedule. Each cycle is 28 days.
-: AMXI-5001:Dose Expansion Phase II — Phase II will enroll up to 52 study participants to further characterize the safety, pharmacology, and clinical efficacy of AMXI-5001. AMXI-5001 is administered orally twice daily, with food. AMXI-5001 is administered weekly on a continuous 7-day schedule. Each cycle is 28 days.
-Link: https://clinicaltrials.gov/study/NCT04503265
-
-SUMMARY: Advanced cancers often stop responding to standard treatments. This study tests an experimental drug at increasing doses to find a safe dose and then studies it further in expansion groups.
-
-## NCT04503395
-Physician Initiated Trial Investigating ESAR (EVAR Plus Heli-FX EndoAnchors) and FEVAR for the Treatment of Aortic Aneurysms With Short Infrarenal Aortic Neck
-
-Intervention: : ESAR treatment: Endograft + Heli-FX Endoanchor — ESAR treatment: Endurant II or Endurant IIs endograft + Heli-FX Endoanchor
-: FEVAR treatment : Fenestrated endograft — Cook Zenith Fenestrated Graft or the Terumo Fenestrated Anaconda Graft
-Link: https://clinicaltrials.gov/study/NCT04503395
-
-SUMMARY: Aortic aneurysms with a short neck below the kidney arteries are harder to repair with a stent graft. This study compares a stent graft secured with small anchors to a stent graft with openings for branch arteries.
-
-## NCT04503577
-Prospective Bladder Cancer Infrastructure: an Infrastructure for Observational and Interventional Bladder Cancer Research (ProBCI)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04503577
-
-SUMMARY:
-
-## NCT04504123
-MMP-9 Inhibition for Recalcitrant Wet Age-Related Macular Degeneration (AMD)
-
-Intervention: : Doxycycline Hyclate — Doxycycline Hyclate capsules, USP 50 mg
-: Placebo — Placebo
-Link: https://clinicaltrials.gov/study/NCT04504123
-
-SUMMARY: Wet age related macular degeneration causes vision loss from leaky blood vessels, and some cases resist standard treatment. This study tests doxycycline capsules, aimed at blocking an enzyme called MMP-9, against a placebo.
-
-## NCT04504526
-Value of Chemokine Receptor CXCR4-targeting Molecular Imaging for Diagnosis and Prognostic Evaluation in Lymphoproliferative Diseases
-
-Intervention: : 68Ga-Pentixafor — Intravenous injection of one dose of 74-148 MBq (2-4 mCi) 68Ga-Pentixafor. Tracer doses of 68Ga- Pentixafor will be used to image lesions by PET/CT.
-Link: https://clinicaltrials.gov/study/NCT04504526
-
-SUMMARY:
-
-## NCT04505865
-The Effect of Mindfulness on Vascular Inflammation in Stable Coronary Disease: A Multi-System PET/MRI Study
-
-Intervention: : Stress Reduction — The stress reduction program is a multimodal mind-body resiliency program that incorporates 3 core components into each session:
-
-1\) Elicitation of the Relaxation Response through mind-body techniques; 2) discussion about stress awareness to learn how to identify personal stressors and experiences of stress; and 3) coping strategies and adaptive perspective-taking to promote positive well-being.
-Link: https://clinicaltrials.gov/study/NCT04505865
-
-SUMMARY:
-
 ## NCT04506853
 Single-Sided Deafness and Asymmetric Hearing Loss Post-Approval Study
 
@@ -3623,17 +3553,6 @@ C) If the 'Treg-enriched' product infused met both caveats A and B above, the un
 Link: https://clinicaltrials.gov/study/NCT04678401
 
 SUMMARY: Acute myeloid leukemia and myelodysplastic syndrome that have come back or are very high risk often need a stem cell transplant from a half matched donor. This study tests a graft engineered with regulatory T cells so patients do not need immune suppressing drugs.
-
-## NCT04678427
-TEAM Me (Totally Excited About Moving, Mobility, and Exercise) Clinical Research Protocol
-
-Intervention: : 6 Minute Walk Functional Test — Complete 6-minute walk test
-: Behavioral Intervention — Participate in walking and other activities
-: Survey Administration — Complete survey
-: Timed Get Up and Go Test — Complete timed get up and go test
-Link: https://clinicaltrials.gov/study/NCT04678427
-
-SUMMARY:
 
 ## NCT04680260
 OPTIMIzation of Treatment SElection and Follow up in Oligometastatic Colorectal Cancer - a ctDNA Guided Phase II Randomized Approach
@@ -8634,15 +8553,6 @@ Link: https://clinicaltrials.gov/study/NCT05049837
 
 SUMMARY:
 
-## NCT05050383
-Drug-Induced Sleep Endoscopy (DISE): Phenotyping Obstruction Patterns
-
-Intervention: : Pharyngeal Manometry — Catheters will be passed into the nose and advanced to the pharynx to measure airway pressures during drug-induced sleep.
-: Submental Ultrasound — Ultrasound of airway soft tissues
-Link: https://clinicaltrials.gov/study/NCT05050383
-
-SUMMARY:
-
 ## NCT05050617
 Point-of-Care Ultrasound in Predicting Adverse Outcomes in Emergency Department Patients With Acute Pulmonary Embolism
 
@@ -12483,16 +12393,6 @@ Link: https://clinicaltrials.gov/study/NCT05287711
 
 SUMMARY: Drinking alcohol can raise the risk of intimate partner violence. This study tests adding motivational enhancement therapy for alcohol use to prevent partner violence.
 
-## NCT05287841
-Does the Addition of Batten Grafting Improve Nasal Outcomes in Patients Undergoing Septoplasty and Turbinate Reduction? A Pragmatic Randomized Controlled Trial
-
-Intervention: : Batten batten graft — The batten grafts are autologous grafts from the patients' own tissue, produced from nasal septal quadrangular cartilage. This will be obtained during the septoplasty portion of the procedure. The batten graft will be used to stabilize the internal nasal valve and prevent nasal valve collapse on inspiration.
-: Septoplasty — A portion of the quadrangular cartilage of the nasal septum is removed. This will be performed as a standard septoplasty.
-: Inferior Turbinate Reduction — The bilateral inferior turbinates will be surgically ablated.
-Link: https://clinicaltrials.gov/study/NCT05287841
-
-SUMMARY: A blocked nose is often treated with septoplasty and turbinate reduction surgery. This study tests whether adding batten grafts to support the side walls of the nose improves breathing results.
-
 ## NCT05288205
 A Phase 1/2a Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Antitumor Activity of JAB-21822 in Combination With JAB-3312 in Patients With Advanced Solid Tumors Harboring KRAS p.G12C Mutation
 
@@ -13393,15 +13293,6 @@ Intervention: : Questionnaire Administration — Complete questionnaire
 Link: https://clinicaltrials.gov/study/NCT05334069
 
 SUMMARY:
-
-## NCT05334368
-A Randomized, Double-blind, Placebo-controlled Study to Investigate the Efficacy and Safety of Depemokimab in Adults With Hypereosinophilic Syndrome (HES)
-
-Intervention: : Depemokimab — Depemokimab will be administered.
-: Placebo — Matching placebo will be administered.
-Link: https://clinicaltrials.gov/study/NCT05334368
-
-SUMMARY: Hypereosinophilic syndrome is a condition where too many eosinophils, a type of white blood cell, damage organs. This study tests depemokimab against a placebo in adults with HES.
 
 ## NCT05334459
 Preoperative Radiotherapy and Systemic Therapy Following Surgery in 'de Novo' Metastatic Breast Cancer (Protocol MF22-01; Intervention Systemic Treatment METastasis-ISTMET)

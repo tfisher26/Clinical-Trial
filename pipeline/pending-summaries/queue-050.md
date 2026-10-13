@@ -5229,16 +5229,6 @@ Link: https://clinicaltrials.gov/study/NCT07542600
 
 SUMMARY:
 
-## NCT07542665
-Comparative Evaluation of the Effects of Aromatherapy and Music Therapy on Anxiety in Children Undergoing Oral Radiological Examination for the First Time
-
-Intervention: : Music Therapy — Children were exposed to music therapy prior to panoramic radiography. Pachelbel's Canon in D major was played in the clinical environment at a comfortable volume to promote relaxation and reduce anxiety.
-: Aromatherapy — Lavender essential oil was diffused into the clinical environment prior to panoramic radiography using an aroma diffuser to reduce anxiety and promote relaxation.
-: Routine Care — Children received standard clinical care without any additional intervention prior to panoramic radiography.
-Link: https://clinicaltrials.gov/study/NCT07542665
-
-SUMMARY:
-
 ## NCT07542756
 Sequential Multiple Assignment Randomized Trial Comparing Commonly Prescribed and Over the Counter Medications for the Treatment of Insomnia in Adults
 
@@ -16120,14 +16110,6 @@ Link: https://clinicaltrials.gov/study/NCT07733128
 
 SUMMARY:
 
-## NCT07733284
-Safety and Feasibility of Remote Walking Exercise for Cognitive Improvement in Persons With TBI
-
-Intervention: : Walking — One group will complete 3-months of walking exercise at home. The exercise program is based on activity guidelines for people with TBI and will be monitored by a trained exercise leader. You will be asked to walk 3 times per week. The first two weeks will require you to walk for 10 minutes at a time, and that duration will increase throughout the 3-months. You will have a dedicated trainer to help get started, answer questions, and support you throughout the programs. You will have regular meetings with this trainer by video conference (Zoom). You will be sent a FitBit to wear on your wrist while exercising to track your steps, and that you will be allowed to keep when the study ends.
-Link: https://clinicaltrials.gov/study/NCT07733284
-
-SUMMARY:
-
 ## NCT07733505
 Normothermic Intraperitoneal Chemotherapy (NIPEC) With Carboplatin Following Cytoreductive Surgery in Elderly and Frail Ovarian Cancer Patients: a Feasibility Study.
 
@@ -16372,14 +16354,6 @@ Efficacy of Melatonin Treatment on Sleep Quality Improvement in Inflammatory Bow
 Intervention: : Melatonin ("Circadin") — 2 mg of prolonged release melatonin was prescribed at a dose of one tablet daily, taken one hour before the participant's usual bedtime.
 : Placebo — placebo were manufactured to be identical in appearance
 Link: https://clinicaltrials.gov/study/NCT07737665
-
-SUMMARY:
-
-## NCT07737756
-Spinal Muscular Atrophy Center-based REAL World Retrospective Medical Chart Review of Patient Treated With Onasemnogene Abeparvovec (Zolgensma®) in Saudi Arabia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07737756
 
 SUMMARY:
 
@@ -17684,16 +17658,6 @@ Intervention: : Lactobacillus acidophilus will be assigned for arm 1 — lacteol
 : trace elements — each vitayami capsule contain (zinc 15 mg, chromium 15 mcg, selenium 15 mcg, copper 1000 mcg, iodine 75 mcg, iron 30 mg, magnesium 2.5 mg, molybdenum 15 mcg)
 : Control Arm - standard of care — control arm contain no drug only standard of care
 Link: https://clinicaltrials.gov/study/NCT07758335
-
-SUMMARY:
-
-## NCT07758803
-A Prospective, Randomized, Controlled, Single-Blind Clinical Trial Comparing the Effects of Propofol, Ciprofol, and Remimazolam on Postoperative Nausea and Vomiting in Patients Undergoing Laparoscopic Cholecystectomy
-
-Intervention: : Propofol — Drug: Propofol (Yangtze River Pharmaceutical Group, Taizhou, Jiangsu, China) Induction: 2 mg/kg intravenously over ≥ 30 seconds Maintenance: 4-12 mg/kg/h by continuous intravenous infusion, titrated to maintain BIS between 40 and 60
-: Ciprofol — Drug: Ciprofol (HSK3486; Haisco Pharmaceutical Group, Shenyang, Liaoning, China) Induction: 0.4 mg/kg intravenously over ≥ 30 seconds Maintenance: 0.8-1.2 mg/kg/h by continuous intravenous infusion, titrated to maintain BIS between 40 and 60
-: Remimazolam — Drug: Remimazolam besylate (Yichang Humanwell Pharmaceutical, Yichang, Hubei, China) Induction: 0.3 mg/kg intravenously over ≥ 1 minute Maintenance: 0.3-1.0 mg/kg/h by continuous intravenous infusion, titrated to maintain BIS between 40 and 60
-Link: https://clinicaltrials.gov/study/NCT07758803
 
 SUMMARY:
 

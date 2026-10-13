@@ -1906,19 +1906,6 @@ Link: https://clinicaltrials.gov/study/NCT06501443
 
 SUMMARY:
 
-## NCT06501625
-A Phase 1b/2, Safety Lead-in and Dose-Expansion, Open Label, Multicenter Trial Investigating the Safety, Tolerability, and Preliminary Activity of Ivosidenib in Combination With Durvalumab and Gemcitabine/Cisplatin as First-line Therapy in Participants With Locally Advanced, Unresectable or Metastatic Cholangiocarcinoma With an IDH1 Mutation
-
-Intervention: : Ivosidenib — Two 250 mg tablets, totaling 500 mg, administered orally once daily, taken continuously throughout treatment duration
-: Durvalumab (for the first 8, 21-day, cycles) — 1500mg intravenous (IV) infusion every 3 weeks, for a maximum of 8 (21-day) cycles
-: Gemcitabine (for the first 8, 21-day, cycles) — 1000 mg/m2 IV infusion on days 1 and 8 of every 21-day cycle, for a maximum of 8 cycles
-: Cisplatin (for the first 8, 21-day, cycles) — 25 mg/m\^2 IV infusion on days 1 and 8 of every 21-day cycle, for a maximum of 8 cycles
-: Durvalumab (starting from cycle 9) — 1500mg intravenous (IV) infusion every 4 weeks, starting from cycle 9. Cycles are 28 days long, starting Cycle 9.
-: Ivosidenib Recommended Combination Dose (RCD) — RCD administered orally once daily, taken continuously throughout treatment duration
-Link: https://clinicaltrials.gov/study/NCT06501625
-
-SUMMARY: Bile duct cancer with an IDH1 gene change is often treated first with chemotherapy and immunotherapy. This study adds ivosidenib, a pill that blocks the faulty IDH1 enzyme, to durvalumab and gemcitabine cisplatin to see whether it is safe and helps.
-
 ## NCT06501846
 Pipelle® Under Ultrasound Guidance (PUG) to Investigate Post-menopausal Bleeding: Randomised Controlled Trial.
 
@@ -8168,14 +8155,6 @@ Randomized Study of a Dematerialized Management for Post-Emergency Gynecological
 
 Intervention: : Participants will receive post-emergency gynecological follow-up at home using a connected health app — The app will facilitate data collection and communication, including logging of vital signs, symptoms (such as pain, bleeding, and vomiting), and uploading of test results. Medical professionals will review the health data twice daily and provide care instructions through instant messaging. The app will also alert the medical team of any urgent updates or deviations from expected health patterns
 Link: https://clinicaltrials.gov/study/NCT06615843
-
-SUMMARY:
-
-## NCT06615986
-Evaluation of a Human Milk Oligosaccharide-Based Synbiotic Supplement for Intestinal Microbiota Dysbiosis
-
-Intervention: : Cardiosyn — Two sachets by mouth daily. Each dose (sachet) is 8.1 grams. For 2 doses it will be 16.2 grams per person per day.
-Link: https://clinicaltrials.gov/study/NCT06615986
 
 SUMMARY:
 

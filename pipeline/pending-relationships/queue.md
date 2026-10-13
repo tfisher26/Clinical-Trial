@@ -102591,3 +102591,64 @@ Patients with (1) AND/OR (2)
 
 RELATIONSHIP:
 
+## NCT05487911
+Cortical rTMS as a Treatment for Depression
+Conditions: mental_health/major_depressive_disorder, other/opioid_related_disorders
+
+Inclusion criteria:
+"""
+1. Be male or female aged 18-64 years old.
+2. Has depressive symptoms according to the PHQ-9 or MADRS or HDRS or SHAPS
+3. Be able to verbalize understanding of consent form, able to provide written informed consent, and verbalize willingness to complete study procedures
+4. Female subjects must be non-nursing and not pregnant at the times of fMRI experiments and TMS treatment
+5. Has no contraindications to MRI (pacemaker, cochlear implants, metal in eyes, other metal implants, etc.); Meets the pre-screening MRI questions provided by the Center for Advanced MR Imaging (CAMRI)
+6. Has no contraindications to TMS (any types of non-removable metal in their head except the mouth, or within 12 inches of the coil, etc.); Meets the pre-screening TMS safety questionnaire (Transcranial Magnetic Stimulation Adult Safety Screen - TASS)
+7. stabilized with medication treatments (e.g., methadone or buprenorphine) or abstinent from opioids if patients are seeking transition to naltrexone
+8. urine toxicity test is negative for specific drugs (e.g., opioids)
+"""
+
+RELATIONSHIP:
+
+## NCT05494684
+Effectiveness of Multisensoral Nature-based Intervention in Hospitalized Children Aged 5 to 9 Years During Venous Blood Sampling: A Randomized Controlled Trial
+Conditions: mental_health/anxiety_separation, other/abdominal_pain
+
+Inclusion criteria:
+"""
+1. The child is aged between 5 and 9 years old
+2. The child has a long-term illness (such as diabetes or rheumatism)
+3. The child has previous experience of venous blood sampling
+4. The child's level of development is age-appropriate (such as, the child is cared for at home or in day care/day nursery or attends school in the same level as the other children)
+5. Child and parent understand and speak the Finnish language
+"""
+
+RELATIONSHIP:
+
+## NCT06020924
+The Effects of Uterine Fibroids on Pregnancy in Women
+Conditions: cancer/leiomyoma, renal/infertility_female
+
+Inclusion criteria:
+"""
+1. Age: 20-50 years
+2. Diagnosed with uterine fibroids (by ultrasound or pathology) combined with infertile or non-infertile patients
+3. Complete clinical data.
+"""
+
+RELATIONSHIP:
+
+## NCT06084416
+A Phase 1b Dose Optimization Study of Sovilnesib (an Oral KIF18A Inhibitor) in Subjects With Selected Advanced Solid Tumors
+Conditions: cancer/fallopian_tube_neoplasms, other/chromosomal_instability
+
+Inclusion criteria:
+"""
+* All Parts: Age ≥ 18 years, ECOG Performance Status ≤ 1, at least 1 site of measurable disease evaluable by CT scan or MRI per RECIST 1.1, able to take oral medication without alteration
+* Histologically confirmed locally advanced, inoperable, or metastatic tumor.
+* High Grade Serous Ovarian Cancer, Fallopian Tube or Primary Peritoneal Cancer - histologically confirmed; locally advanced, inoperable or metastatic; p16 positive (Part 2 only); platinum resistant (defined as radiographic progression/recurrence \<180 days after last dose of ≥ 4 cycles of platinum containing therapy) or refractory; prior bevacizumab treatment, unless ineligible or intolerant; if germline and/or somatic BRCA1/2 mutation, previously treated with PARP-inhibitor (unless ineligible or intolerant).
+
+Key
+"""
+
+RELATIONSHIP:
+

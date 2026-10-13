@@ -3504,14 +3504,6 @@ Link: https://clinicaltrials.gov/study/NCT05645081
 
 SUMMARY:
 
-## NCT05645276
-A Phase Ia/Ib, Open Label, Dose Escalation and Dose Extension Trial of Anti-PD-1 and LAG-3 Bispecific Antibody AK129 to Evaluate the Safety, Tolerability and Antitumor Efficacy in Patients With Advanced Malignant Tumors
-
-Intervention: : AK129 IV infusion — AK129 is administered intravenously according to the frequency and dosage of administration at different stages.
-Link: https://clinicaltrials.gov/study/NCT05645276
-
-SUMMARY: Advanced solid tumors need new treatment options. This study tests AK129, a bispecific antibody that blocks both PD-1 and LAG-3, at increasing doses.
-
 ## NCT05646381
 A Randomized Double-blind, Placebo-controlled, Multicenter Trial Assessing the Impact of Lipoprotein(a) Lowering With Pelacarsen (TQJ230) on the Progression of Calcific Aortic Valve Stenosis [Lp(a)FRONTIERS CAVS]
 
@@ -6411,15 +6403,6 @@ Intervention: : U-13C-glucose — Discover new insights into the glucose, TCA cy
 Link: https://clinicaltrials.gov/study/NCT05736367
 
 SUMMARY:
-
-## NCT05736614
-Efficacy of a PrEP Uptake & Adherence Intervention Among Male Sex Workers Using a 2-stage Randomization Design
-
-Intervention: : Stage 1 Strength Based Case Management (SBCM) Condition — Intervention participants will receive a trained SBCM to motivate, support, and assist in linkage to PrEP prescribers to help facilitate obtaining PrEP medication to initiate treatment.
-: Stage 2 PrEPare for Work Intervention Condition — Intervention participants will receive 1-on-1 adherence counseling and personalized daily text messaging reminders to increase PrEP adherence. Intervention participants will undergo three adherence intervention sessions (once per week for 3 weeks) with interventionist.
-Link: https://clinicaltrials.gov/study/NCT05736614
-
-SUMMARY: Male sex workers are at high risk of HIV. This study tests strength based case management and other support to improve uptake of and adherence to PrEP.
 
 ## NCT05736978
 Clinical Efficacy and Safety of Adaptive Treatment of Acute Myeloid Leukemia (AML) Based on D14 MRD results-a Multicenter, Single-arm, Prospective Clinical Study
@@ -11224,14 +11207,6 @@ Link: https://clinicaltrials.gov/study/NCT05887661
 
 SUMMARY: Bleeding is a concern during laparoscopic liver surgery. This study tests lowering central venous pressure by removing some blood before surgery.
 
-## NCT05887700
-A Multi-center, Single-arm, Real-world Registry Assessing the Clinical Use of the Lifetech CeraFlex™ ASD Closure System
-
-Intervention: : CeraFlex™ Atrial Septal Defect (ASD) Closure System — The CeraFlex™ ASD Occluder have two types of occluders, CeraFlex™ ASD Occluder and CeraFlex™ Multi-fenestrated (Cribriform) ASD Occluder. The CeraFlex™ ASD Occluder is percutaneous, transcatheter closure devices for the non-surgical closure of atrial septal defects.
-Link: https://clinicaltrials.gov/study/NCT05887700
-
-SUMMARY:
-
 ## NCT05888038
 Virtual Reality's Effect on Decreasing Pain and Subsequent Opioid Use in Pediatric Patients in the Post-Operative Period Following Scoliosis Repair
 
@@ -13818,16 +13793,6 @@ Intervention: : Fecal Microbiota Transplant — Participants will receive approx
 Link: https://clinicaltrials.gov/study/NCT05967871
 
 SUMMARY: Small intestinal bacterial overgrowth causes bloating and diarrhea. This pilot study tests fecal microbiota transplant as a treatment.
-
-## NCT05968573
-Evaluation of a Persuasive Health Communication Intervention Designed to Increase HIV/HCV Screening Among Emergency Departments Patients Who Currently, Formerly or Never Injected Drugs.
-
-Intervention: : Video Format with Captions — A video with captions created by the research team will be played to persuade patients to participate in HIV and Hepatitis C (HCV) screening.
-: Video Format without Captions — A video without captions created by the research team will be played to persuade patients to participate in HIV and Hepatitis C (HCV) screening.
-: Health Educator — The video created by the research will be compared to a healthcare provider in terms of effectiveness in getting patients screened for HIV/HCV.
-Link: https://clinicaltrials.gov/study/NCT05968573
-
-SUMMARY:
 
 ## NCT05968677
 Pragmatic, Controlled, Single-Center, Randomized Clinical Trial to Evaluate the Effect of Supplementation With an Amino Acids and Flavonoids Containing FSMP on Chemotherapy Toxicity, Nutritional Status and Quality of Life in Breast Cancer Patients

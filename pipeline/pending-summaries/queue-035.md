@@ -435,15 +435,6 @@ Link: https://clinicaltrials.gov/study/NCT05840575
 SUMMARY:
 
 
-## NCT07531849
-Impact of a Brief Front-of-pack Nutrition Labelling Education Program on Self-efficacy, Food Literacy and Purchase Intentions in Socioeconomically Vulnerable Areas
-
-Intervention: : Peanuts — At the beginning of each session, facilitators perform a brief educational assessment to select the most appropriate level for the group, allowing flexible adaptation of content to heterogeneous literacy levels. Sessions systematically include two components: (1) an active discussion phase to convey key information, followed by (2) a practical "learning by doing" phase designed to foster autonomy in using nutrition labelling tools. Phase 1 (≈12 months) will take place in municipal primary care centers in Seine-Saint-Denis, and delivered by advanced practice nurses and dietitians (≥10 expected). During this phase, qualitative feedback (e.g. spontaneously raised questions, strategies used to manage group heterogeneity) will be collected to inform the training of non-expert facilitators. Phase 2 will extend implementation to social services and community-based organizations, where trained social workers and volunteers will deliver the same modular program, supporting capacity-building in
-Link: https://clinicaltrials.gov/study/NCT07531849
-
-SUMMARY:
-
-
 ## NCT06487130
 Virtual perI-/Menopause Registry of AusTrALia
 
@@ -3555,15 +3546,6 @@ Early Feasibility of the Nervonik Peripheral Nerve Stimulation Device
 
 Intervention: : Peripheral Nerve Stimulation — Peripheral Nerve Stimulation
 Link: https://clinicaltrials.gov/study/NCT06772142
-
-SUMMARY:
-
-
-## NCT06598241
-A Pilot, Post-market, Non-interventional, Prospective, Observational Study of Standard of Care of the Commercially Available Borate-base Bioactive Glass Fiber Matrix (BBGFM) in Treatment of Outpatient Diabetic Foot Ulcer With Chronic Osteomyelitis.
-
-Intervention: : Borate-base Bioactive Glass Fiber Matrix (BBGFM) — Bioactive glass materials are biocompatible water-soluble inorganic ceramic materials that release their constituent ions when immersed in body fluids.
-Link: https://clinicaltrials.gov/study/NCT06598241
 
 SUMMARY:
 

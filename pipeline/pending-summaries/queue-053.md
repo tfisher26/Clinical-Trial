@@ -2288,14 +2288,6 @@ Link: https://clinicaltrials.gov/study/NCT07747220
 
 SUMMARY:
 
-## NCT07757971
-Association of Second-to-Fourth Digit Ratio (2D:4D) With Trait Anxiety and Occupational Stress Among Anesthesiology Residents: A Cross Sectional Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07757971
-
-SUMMARY:
-
 ## NCT07782814
 An Investigation Into Dielectric Testing for the Evaluation and Characterisation of Breast Tissue Using a Novel Time-Domain Bioimpedance Tool
 

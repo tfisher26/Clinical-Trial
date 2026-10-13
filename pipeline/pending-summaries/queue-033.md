@@ -5305,15 +5305,6 @@ Link: https://clinicaltrials.gov/study/NCT06750172
 SUMMARY:
 
 
-## NCT07566572
-A Randomized, Open-label, Multiple-dose Phase I Clinical Study to Evaluate the Effect of a High-fat Meal and Different Dosing Conditions on the Pharmacokinetics of BGM0504 Tablets in Healthy Chinese Participants.
-
-Intervention: : BGM0504 tablets — Administered p.o.
-Link: https://clinicaltrials.gov/study/NCT07566572
-
-SUMMARY:
-
-
 ## NCT07112820
 Contribution of Myocardial Perfusion Imaging in the Initial Assessment of Acute Coronary Syndromes Without ST Elevation for the Diagnosis of Myocardial Infarction or Differential Diagnoses
 

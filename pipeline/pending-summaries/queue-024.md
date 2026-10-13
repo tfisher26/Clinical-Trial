@@ -898,15 +898,6 @@ Link: https://clinicaltrials.gov/study/NCT05654025
 SUMMARY:
 
 
-## NCT06624618
-Rapid Molecular Detection of Sepsis in Whole Blood
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06624618
-
-SUMMARY:
-
-
 ## NCT07003516
 Validation and Development of Digital Anthropometry Methodologies.
 

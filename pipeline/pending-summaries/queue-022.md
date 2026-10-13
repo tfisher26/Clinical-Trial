@@ -2919,17 +2919,6 @@ Link: https://clinicaltrials.gov/study/NCT06494826
 SUMMARY:
 
 
-## NCT07774325
-The Effects of P-gp Inhibition and OATP Inhibition on the Pharmacokinetics of a Single Oral Dose of BI 3000202 in Healthy Male Trial Participants (an Open-label, Three-period, Two-sequence Crossover Trial, With Period 3 as Fixed Treatment)
-
-Intervention: : BI 3000202 — BI 3000202
-: Ciclosporin — Ciclosporin
-: Itraconazole — Itraconazole
-Link: https://clinicaltrials.gov/study/NCT07774325
-
-SUMMARY:
-
-
 ## NCT06105853
 Towards Neurobehavioral Profiles and Models of Adaptive Stress Responses and Resilience in Individuals With Alcohol Use Disorder
 

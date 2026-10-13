@@ -1520,15 +1520,6 @@ Link: https://clinicaltrials.gov/study/NCT06114043
 SUMMARY:
 
 
-## NCT04504604
-TCF-001 TRACK (Target Rare Cancer Knowledge) Study
-
-Intervention: : FoundationOne CDx and FoundationOne Liquid CDx — Eligible patients will have Foundation Medicine blood and tissue testing and have their results reviewed by the study's Virtual Molecular Tumor Board which, in turn, will make recommendations for treatment to treating physicians.
-Link: https://clinicaltrials.gov/study/NCT04504604
-
-SUMMARY:
-
-
 ## NCT06627335
 Pregnancy Outcomes Study of Women With Atopic Dermatitis Exposed to Ruxolitinib Cream Versus Topical Corticosteroids During Pregnancy: A US Claims Database Analysis
 
@@ -5646,15 +5637,6 @@ Epidemiological Data on Mast Cell Pathologies in France
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06186856
-
-SUMMARY:
-
-
-## NCT06288256
-Neurocognitive and Genomic Predictors of Persistent Pain and Opioid Misuse After Spine Surgery
-
-Intervention: : No Intervention — No Intervention
-Link: https://clinicaltrials.gov/study/NCT06288256
 
 SUMMARY:
 

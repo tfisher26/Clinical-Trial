@@ -10379,15 +10379,6 @@ Link: https://clinicaltrials.gov/study/NCT06903078
 
 SUMMARY:
 
-## NCT06903182
-Preoperative TAP Block Versus Postoperative TAP Block in Patients Undergoing Laparoscopic Cholecystectomy: a Randomized Controlled Trial
-
-Intervention: : Preoperative TAP Block — Patients will receive preoperative TAP block
-: Postoperative TAP block — Patients will receive postoperative TAP block
-Link: https://clinicaltrials.gov/study/NCT06903182
-
-SUMMARY:
-
 ## NCT06903325
 A Prospective Multicentre Clinical Study of Dynamic Monitoring of Plasma ctDNA Methylation Markers to Predict Recurrence of Colorectal Cancer After Complete Resection of Peritoneal Metastases
 
@@ -14094,14 +14085,6 @@ Link: https://clinicaltrials.gov/study/NCT06954584
 
 SUMMARY:
 
-## NCT06954623
-Partial Breast Re-irradiation for Breast Cancer Recurrences After Repeat Breast-conserving Surgery With Proton Beam Therapy
-
-Intervention: : Radiation Therapy — proton beam radiation
-Link: https://clinicaltrials.gov/study/NCT06954623
-
-SUMMARY:
-
 ## NCT06954857
 The Influence of Standardized Process Management of Laryngeal Mask Airway Placement Based on Pressure Monitoring on the Incidence of Adverse Reactions in Elderly Patients During the Perioperative Period
 
@@ -16498,16 +16481,6 @@ Impact on Care Pathways of a New Management of Cervical Trauma in Conscious Pati
 
 Intervention: : adapted Canadian C-Spine rules — The CCRa are decision rules for pre-hospital cervical spine collar immobilization. They include three high-risk criteria indicating imaging, 5 low-risk criteria allowing assessment of cervical spine rotation, and finally the ability of patients to achieve limited active rotation. They have been designed and validated to avoid immobilization during transport to the emergency department without any significant cervical injury being missed.
 Link: https://clinicaltrials.gov/study/NCT06983873
-
-SUMMARY:
-
-## NCT06983951
-Exploratory Clinical Study Evaluating the Safety and Efficacy of Targeted BCMA Autologous CART Cell Injection in Subjects With Recurrent/Refractory Light Chain Amyloidosis
-
-Intervention: : BCMA CART — The cell product used in this study is a targeted BCMA autologous CART cell injection.
-
-Research drug name: Targeted BCMA Autologous CART Cell Injection Drug code: BJBR-BCMA-006 Administration method: single intravenous injection
-Link: https://clinicaltrials.gov/study/NCT06983951
 
 SUMMARY:
 

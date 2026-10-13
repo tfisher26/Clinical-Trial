@@ -1657,16 +1657,6 @@ Link: https://clinicaltrials.gov/study/NCT06842940
 SUMMARY:
 
 
-## NCT06635551
-Comparison of Vascular Catheter-Related Thrombosis and Risk Factors Using Daily Bedside Ultrasonography After Oncologic and Non-Oncologic Major Surgery
-
-Intervention: : Ultrasonographic evaluation of vascular catheter-related thrombosis after oncological surgery. — In patients who will undergo oncological surgery and have a central venous catheter, the presence of thrombosis, its duration of occurrence and its dimensions will be evaluated by ultrasonography.
-: Ultrasonographic evaluation of vascular catheter-related thrombosis after non-oncological surgery. — In patients who will undergo non-oncological surgery and have a central venous catheter, the presence of thrombosis, its duration of occurrence and its dimensions will be evaluated by ultrasonography.
-Link: https://clinicaltrials.gov/study/NCT06635551
-
-SUMMARY:
-
-
 ## NCT07573059
 A Multicenter, Prospective Study Assessing the Safety of Loargys Arginine Test System for Determining Arginine in Loargys-treated Patients
 
@@ -1817,15 +1807,6 @@ Safety, Pharmacokinetics, and Pharmacodynamics of MTX-101 in Healthy Adults and 
 Intervention: : Placebo — MTX-101
 : MTX-101 — MTX-101 (bispecific CD8 Treg modulator)
 Link: https://clinicaltrials.gov/study/NCT06324604
-
-SUMMARY:
-
-
-## NCT04503785
-Esophageal Impedance and Manometry Measurements and Dysphagia Symptom Scoring
-
-Intervention: : Manometry — Transnasal Esophageal manometry and Endoflip Balloon distensibility
-Link: https://clinicaltrials.gov/study/NCT04503785
 
 SUMMARY:
 

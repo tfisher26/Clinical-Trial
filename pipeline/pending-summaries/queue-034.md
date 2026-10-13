@@ -389,15 +389,6 @@ Link: https://clinicaltrials.gov/study/NCT06462768
 SUMMARY:
 
 
-## NCT07593547
-Combination vs. Monotherapy for Stenotrophomonas Maltophilia Infections: A Multicentre Study Using Target Trial Emulation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07593547
-
-SUMMARY:
-
-
 ## NCT07170748
 Clinical Performance Evaluation of MagIA In-vitro Diagnostic Medical Device for Multiplex Screening of Human Immunodeficiency Virus (HIV), Hepatitis B, Hepatitis C and Syphilis in Sub-Saharan Africa
 
@@ -1866,19 +1857,6 @@ Blood Pressure Variability in Non-hypertensive Patients With Ischemic Cerebrovas
 
 Intervention: : blood pressure variability measured by ambulatory 24-hour blood pressure monitoring — The ambulatory 24-hour blood pressure monitoring will be performed at baseline and one year after the enrollment. Various blood pressure variability characteristics will be obtained from these examinations.
 Link: https://clinicaltrials.gov/study/NCT05232240
-
-SUMMARY:
-
-
-## NCT05053113
-A Peer-Based Approach to Enhance Physical Activity in Dyads of Inactive Women
-
-Intervention: : Activity Monitor — Monitor physical activity with FitBit
-: Activity Monitor — Wear accelerometer
-: Educational Intervention — Receive educational newsletter
-: Survey Administration — Ancillary studies
-: Telephone-Based Intervention — Receive phone call from health coach
-Link: https://clinicaltrials.gov/study/NCT05053113
 
 SUMMARY:
 
@@ -5399,16 +5377,6 @@ Intervention: : Blood sample — A blood sample (fasting), for biobanking purpos
 : Tests and questionnaires of study — An assessment of cognitive functions will be realized using Montreal Cognitive Assessment (MoCA), Cantab® tests (MOT, MTS, RTI, DGS), the Trail Making Test (TMT), verbal fluency, the Stroop test, the Dubois 5-word test, and the oral picture naming test. Other questionnaires will be used, assessing: sleep quality (Pittsburgh Physical Activity Questionnaire (PSQI)), anxiety and depression (the anxiety/depression scale (HAD)), quality of life (Short Form-36 quality of life questionnaire (SF-36)), physical activity (International Physical Activity Questionnaire (IPAQ)), and pain with the Brief Pain Inventory questionnaire (BPI) and the numerical scale (EN).
 : Functional connectivity value of brain networks at rest — A Resting-State Functional Magnetic Resonance Imaging will be conducted in order to evaluate and compared functional connectivity value of brain networks at rest between three groups.
 Link: https://clinicaltrials.gov/study/NCT07030205
-
-SUMMARY:
-
-
-## NCT07680686
-A Two-Part, Phase 1, Open-Label, Randomized Study to Evaluate the Relative Bioavailability (Versus Immediate Release Tablet) and Food Effect of a New Orally Disintegrating Tablet Formulation of Ubrogepant in Healthy Volunteers
-
-Intervention: : Ubrogepant — IRT Oral Tablet
-: Ubrogepant — ODT Oral Tablet
-Link: https://clinicaltrials.gov/study/NCT07680686
 
 SUMMARY:
 

@@ -4570,15 +4570,6 @@ Link: https://clinicaltrials.gov/study/NCT07635719
 SUMMARY:
 
 
-## NCT04502511
-Heterogeneity of Critical Illness: Exploring New Risk Factors for Severity of Disease in Intensive Care Patients. A Cohort Study
-
-Intervention: : Standard diagnosis test — Care as usual
-Link: https://clinicaltrials.gov/study/NCT04502511
-
-SUMMARY:
-
-
 ## NCT06944483
 Same-day Radioembolization for Large HCC (>5cm) With Y90 Resin Microspheres : Multicenter Prospective Registry Study
 

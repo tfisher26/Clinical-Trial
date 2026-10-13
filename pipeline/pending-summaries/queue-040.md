@@ -341,15 +341,6 @@ Link: https://clinicaltrials.gov/study/NCT06517212
 SUMMARY:
 
 
-## NCT06976515
-Initial Cohort Study for Remote Investigation of Eye Dryness: A Pilot and Feasibility Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06976515
-
-SUMMARY:
-
-
 ## NCT07745530
 PLAQUAGE - Platelets Target the Circulating HIV Reservoir: Implications for Immunological Failure
 
@@ -1973,18 +1964,6 @@ Link: https://clinicaltrials.gov/study/NCT06482567
 SUMMARY:
 
 
-## NCT07013643
-An Open-label, Single-sequence Multiple Cohort Study to Assess the Effect of Multiple Doses of AZD6234, AZD9550, and a Combination of AZD9550 and AZD6234 on the Pharmacokinetics of Single Doses of Combined Oral Contraceptive Ethinyl Estradiol/Levonorgestrel in Healthy Female Participants Living With Overweight or Obesity
-
-Intervention: : AZD6234 — AZD6234 will be administered as a subcutaneous injection in the abdomen.
-: Ethinyl estradiol/Levonorgestrel (EE/LEVO) — EE/LEVO will be administered as combined oral tablets.
-: Acetaminophen (APAP) — APAP will be administered orally as a solution.
-: AZD9550 — AZD9550 will be administered as a subcutaneous injection in the abdomen.
-Link: https://clinicaltrials.gov/study/NCT07013643
-
-SUMMARY:
-
-
 ## NCT07604493
 Oral Health and Systemic Diseases: An Investigative Survey of General Practitioners
 
@@ -2939,15 +2918,6 @@ A Phase 1, Randomized, Double-Blind Placebo-Controlled Clinical Study to Evaluat
 Intervention: : VB19055 — In this part, VB19055 tablets will be administered as a single or multiple oral dose.
 : VB19055 placebo — In this part, VB19055 placebo tablets will be administered as a single or multiple oral dose.
 Link: https://clinicaltrials.gov/study/NCT07254481
-
-SUMMARY:
-
-
-## NCT04504747
-Real Time Molecular Analysis of Breast Cancer Receiving Neo-adjuvant Chemotherapy: Identification of Preclinical Models Predictive for Therapeutic Resistance
-
-Intervention: : molecular analysis of blood and tumor — RNAseq, DNAseq, CTCs
-Link: https://clinicaltrials.gov/study/NCT04504747
 
 SUMMARY:
 

@@ -4570,16 +4570,6 @@ Link: https://clinicaltrials.gov/study/NCT06892483
 SUMMARY:
 
 
-## NCT05662371
-Influence of Nociception Level Monitor (NOL) Guided Analgesic Delivery on the Perioperative Course, Quality of Recovery and Hospital Stay in Robot-assisted Colorectal Surgery
-
-Intervention: : Nociception Level monitor (NOL) — NOL technology uses a multiparameter-based sensor platform, and advanced algorithm, to continuously monitor Autonomic Nervous System (ANS) functions. NOL reflects a patient's nociceptive state and analgesic effect, helping to optimize the administration of systemic and/or regional analgesics, and avoiding overdose or underuse of these drugs. The nociception level is a multiparameter monitor that combines information from the finger photoplethysmogram amplitude, skin conductance, skin conductance fluctuation, heart rate, heart rate variability, and their time derivatives into one index ranging from 0 (absence of noxious stimulation) to 100 (severe noxious stimulation).
-: Standard care — Hemodynamic changes outside of the normal range i.e., hypertension (systolic blood pressure greater than 140 mm Hg), tachycardia (heart rate greater than 90 min-1) and hypotension (mean arterial pressure less than 60 mm Hg) will be first assessed using the guidance of Bispectral index and Train of four monitors. Sufentanil in doses of 2.5 to 5 mcg (maximum of 0.6-1.2 mic/kg for the entire surgery) is administered if the Bispectral index and Train of four monitor values are within normal range and if required vasopressor infusion is used. Vasoconstrictors may be given as a continuous infusion of norepinephrine, or bolus doses of ephedrine or phenylephrine. Only when blood pressure remains, low additional crystalloids will be given. Finally, in case of bradycardia (heart rate less than 30 min-1), atropine may be given
-Link: https://clinicaltrials.gov/study/NCT05662371
-
-SUMMARY:
-
-
 ## NCT07075679
 Use of Artificial Intelligence in Breast Cancer Screening: Impact of AI-Assisted Single Reading by One Radiologist on Screening Quality Indicators Compared to Standard Double Reading by Two Radiologists Without AI
 

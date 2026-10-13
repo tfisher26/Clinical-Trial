@@ -525,15 +525,6 @@ Link: https://clinicaltrials.gov/study/NCT07025707
 SUMMARY:
 
 
-## NCT07743996
-A Real-World Study of the Perceived Emotional and Social Experiences Related to Antifibrotic Therapy in Patients With IPF and PPF: A Cross-Sectional Web-Based Survey
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07743996
-
-SUMMARY:
-
-
 ## NCT06397833
 A Prospective, Observational, Single Centre Study to Assess the Feasibility of the Data Harvested by the Acorai Intracardiac Pressure Monitoring (ICPM) System in Predicting Prognosis in Patients Discharged From Hospital After Treatment for Acute Decompensated Heart Failure
 

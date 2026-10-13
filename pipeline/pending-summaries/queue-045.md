@@ -11653,15 +11653,6 @@ Link: https://clinicaltrials.gov/study/NCT06344572
 
 SUMMARY: Nearsightedness in children often worsens each year and can raise the risk of eye problems later. This study tests SAT-001, a software based treatment, to see whether it slows the worsening of myopia compared with standard care.
 
-## NCT06345339
-A Phase 2/3 Multicenter, Double Blinded, Randomized, Dose-conversion, Active Control Study Examining the Efficacy and Safety of Armour Thyroid Compared to Synthetic T4 for the Treatment of Adults With Primary Hypothyroidism
-
-Intervention: : Armour Thyroid — Oral Capsule or Tablet
-: Levothyroxine — Oral Capsule
-Link: https://clinicaltrials.gov/study/NCT06345339
-
-SUMMARY: Hypothyroidism is usually treated with synthetic thyroid hormone, but some people prefer natural desiccated thyroid. This study compares Armour Thyroid, made from pig thyroid glands, with synthetic hormone to see whether it works as well and is safe.
-
 ## NCT06345365
 A Prospective, Multicenter, Randomized Controlled Study on the MA+AZA Regimen for the Treatment of Newly Diagnosed Acute Myeloid Leukemia (AML)
 
