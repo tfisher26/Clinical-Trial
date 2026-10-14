@@ -4401,16 +4401,6 @@ Link: https://clinicaltrials.gov/study/NCT05455034
 SUMMARY:
 
 
-## NCT05760144
-Endometrial Biopsy in Progestin Contraceptive Users
-
-Intervention: : DMPA — The participant will receive the contraceptive injectable, Depo-Provera at the enrollment visit and at 3, 6, 9, and 12 months. Participants will have endometrial biopsies at the enrollment visits and at 3, 6, and 12 months.
-: Etonogestrel implant — The participant will receive the contraceptive implant, Nexplanon at the enrollment visits and have endometrial biopsies at the enrollment visits and at 3, 6, and 12 months.
-Link: https://clinicaltrials.gov/study/NCT05760144
-
-SUMMARY:
-
-
 ## NCT06627699
 Prospective, In-Vivo, Post-Market Safety and Efficacy Surveillance Registry of the MAXX Orthopedics, Freedom Total Knee® System
 

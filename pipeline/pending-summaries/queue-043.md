@@ -1646,14 +1646,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04506853
-Single-Sided Deafness and Asymmetric Hearing Loss Post-Approval Study
-
-Intervention: : MED-EL Cochlear Implant System — Cochlear implant and audio processor
-Link: https://clinicaltrials.gov/study/NCT04506853
-
-SUMMARY:
-
 ## NCT04510129
 Predicting Immunotherapy Efficacy from Analysis of Pre-treatment Tumor Biopsies
 
@@ -12734,19 +12726,6 @@ Link: https://clinicaltrials.gov/study/NCT05307263
 
 SUMMARY: Complex blockages in the thigh and knee arteries can be hard to open and keep open. This study compares atherectomy, which removes plaque, followed by a drug coated balloon with a drug coated balloon alone.
 
-## NCT05307705
-A Study of LOXO-783 Administered as Monotherapy and in Combination With Anticancer Therapies for Patients With Advanced Breast Cancer and Other Solid Tumors With a PIK3CA H1047R Mutation
-
-Intervention: : LOXO-783 — Oral
-: Fulvestrant — Intramuscular
-: Imlunestrant — Oral
-: Abemaciclib — Oral
-: Anastrozole, Exemestane, or Letrozole — Oral
-: Paclitaxel — Intravenous
-Link: https://clinicaltrials.gov/study/NCT05307705
-
-SUMMARY: Some advanced breast cancers and other solid tumors carry a specific PIK3CA mutation called H1047R. This study tests LOXO-783, alone and with other cancer drugs, in people whose tumors have this mutation.
-
 ## NCT05307809
 Cytokine Expression in Sera, ex Vivo Stimulated Peripheral Blood Mononuclear Cells Culture, and Skin in Psoriasis - Comparison of Patients With and Without Joint Involvement
 
@@ -14784,14 +14763,6 @@ Intervention: : Pure Tone Audiometry Assessment — Collection of Pure Tone Audi
 Link: https://clinicaltrials.gov/study/NCT05402813
 
 SUMMARY:
-
-## NCT05403047
-Efficacy of Tenofovir Disoproxil on Mother-to-child Transmission of HBV in Tokombéré, Cameroon in Pregnant Women Infected With Hepatitis B Virus (HBeAg Positive or With a High Viral Load) and Whose Newborns Had Been Vaccinated at Birth
-
-Intervention: : Fumarate, Tenofovir Disoproxil — all participants receive the intervention
-Link: https://clinicaltrials.gov/study/NCT05403047
-
-SUMMARY: Hepatitis B can be passed from mother to baby during birth. This study tests tenofovir disoproxil in pregnant women with hepatitis B in Cameroon to prevent transmission to their babies.
 
 ## NCT05403242
 A Multicenter, Open Label，Single Arm，Phase Ib/II Study to Evaluate the Effect and Safety of RC48-ADC Combined With S-1 for First-line Treatment of Advanced Gastroesophageal Adenocarcinoma With Moderate Expression of HER2

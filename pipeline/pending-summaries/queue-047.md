@@ -554,16 +554,6 @@ Link: https://clinicaltrials.gov/study/NCT06758349
 
 SUMMARY:
 
-## NCT06758609
-Local Hypothermia and Endovascular Recanalization for Acute Large Artery Occlusive Stroke-A Multicenter, Prospective, Open-label, Blinded-Endpoint, Randomized Controlled Trial
-
-Intervention: : Mechanical thrombectomy — Mechanical thrombectomy
-: 4°C saline infusion — Patients received a total of 350 ml of 4°C saline infusion in addition to mechanical thrombectomy (MT).
-: Normothermic saline infusion — Patients received a total of 350 ml of roomtemperature saline infusion in addition to mechanical thrombectomy (MT).
-Link: https://clinicaltrials.gov/study/NCT06758609
-
-SUMMARY:
-
 ## NCT06758700
 Phase II Clinical Study to Evaluate the Efficacy and Safety of Teniposide as a Post-Line Therapy for c-Myc-Driven Extensive-Stage Small Cell Lung Cancer
 

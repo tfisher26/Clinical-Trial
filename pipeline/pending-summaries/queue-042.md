@@ -20,19 +20,6 @@ Link: https://clinicaltrials.gov/study/NCT05550675
 SUMMARY:
 
 
-## NCT06948695
-Evaluation of the Biomechanics of Crowding and the Energetic Cost of Endurance Runners Unilateral Transtibial Amputees According to the Stiffness of the Race-specific Prothesis.
-
-Intervention: : Warm-up — 5-minute warm-up run on treadmill at a freely chosen speed
-: Random blade test — 4-minute run on a treadmill with a flat incline.
-: Random blade test — 4-minute run on treadmill with a 10% gradient
-: Comfort speed test — 1 min running test on an instrumented treadmill (Gaitway, H/P/Cosmos, Nußdorf, Germany) at comfort speed.
-: Outdoor random blade test — 100-metre outdoor run at a comfort speed
-Link: https://clinicaltrials.gov/study/NCT06948695
-
-SUMMARY:
-
-
 ## NCT06967727
 Registry and Natural History of Epilepsy-Dyskinesia Syndromes
 

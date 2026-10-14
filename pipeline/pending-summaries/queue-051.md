@@ -261,15 +261,6 @@ Link: https://clinicaltrials.gov/study/NCT07767227
 
 SUMMARY:
 
-## NCT07767344
-The Effect of Video-Based Preoperative Patient Education on Physician Trust, Postoperative Pain, and Anxiety Levels in Patients Undergoing Laparoscopic Cholecystectomy: A Randomized Controlled Trial
-
-Intervention: : Video-Based Preoperative Block Education — Participants will receive standard preoperative verbal information plus a standardized educational video. The video demonstrates ultrasound anatomy and probe positioning for the transversus abdominis plane (TAP) block without showing invasive needle insertion or procedural performance. The content is designed to improve patient understanding of the regional anesthesia technique while maintaining procedural safety and standardization.
-: Standard Verbal Preoperative Block Education — Participants randomized to this group will receive standardized preoperative verbal education regarding the ultrasound-guided transversus abdominis plane (TAP) block. The explanation will be delivered by an anesthesiologist using a consistent script and will include the purpose of the block, expected analgesic benefits, and general procedural overview without the use of any visual, video, or multimedia materials. After preoperative education, all patients will undergo standardized general anesthesia, multimodal analgesia, and bilateral ultrasound-guided TAP block as part of routine perioperative care.
-Link: https://clinicaltrials.gov/study/NCT07767344
-
-SUMMARY:
-
 ## NCT07767500
 A Phase II Single-Arm Study Evaluating Toxicity, Outcomes, and Dosimetry Using an MR-guided Linear Accelerator for the Treatment of Early Stage Kidney Cancer
 
@@ -1472,15 +1463,6 @@ Link: https://clinicaltrials.gov/study/NCT07802002
 
 SUMMARY:
 
-## NCT07802249
-Comparative Effects of Fixed Orthodontic Appliances and Clear Aligners on Periodontal Health in Adults: A Prospective Observational Study
-
-Intervention: : Fixed Orthodontic Appliance — Bracket-and-archwire system used for orthodontic tooth movement.
-: Clear Aligner Therapy — Removable thermoplastic aligners used for orthodontic tooth movement.
-Link: https://clinicaltrials.gov/study/NCT07802249
-
-SUMMARY:
-
 ## NCT07802405
 A Phase I Clinical Study Evaluating the Safety and Tolerability, Pharmacokinetic Characteristics and Preliminary Efficacy of Oral Administration of WJ01024 as a Monotherapy and in Combination With Ruxolitinib in Patients With Myelofibrosis
 
@@ -2039,21 +2021,6 @@ Intervention: : Bacteriophages - MuniPhage — 1 x 106 Plaque Forming Units (PFU
 : Bacteriophages - RenuPhage — 1 x 106 PFU of phage strains LG91, BD117, CD007, and PD23
 : Placebo — Rice maltodextrin
 Link: https://clinicaltrials.gov/study/NCT07816809
-
-SUMMARY:
-
-## NCT07817160
-Association of Pelvic Floor Dysfunction With Pulmonary Function, Respiratory Muscle Strength, and Exercise Capacity in Patients With Systemic Sclerosis With Pulmonary Involvement: A Cross-Sectional Study
-
-Intervention: : Pelvic Floor Health Knowledge Assessment — Pelvic floor health knowledge will be assessed using the Pelvic Floor Health Knowledge Test. The questionnaire consists of 29 items covering pelvic floor function and dysfunction, risk factors and etiology, and diagnosis and treatment. Higher scores indicate greater knowledge of pelvic floor health.
-: Pelvic Floor Dysfunction Assessment — Pelvic floor dysfunction will be assessed using the Pelvic Floor Distress Inventory-20 (PFDI-20), a 20-item questionnaire evaluating symptoms and symptom-related distress associated with pelvic floor disorders. It consists of three subscales and provides a total score ranging from 0 to 300, with higher scores indicating greater symptom burden.
-: Core Endurance Assessment — Core endurance will be assessed using the McGill core endurance tests, including trunk flexor, trunk extensor, and lateral trunk endurance tests. Participants will maintain standardized test positions for as long as possible, and endurance time will be recorded in seconds.
-: Body Composition Assessment — Body composition will be assessed using bioelectrical impedance analysis with a Tanita BC-730 InnerScan body composition analyzer. Body fat mass and muscle mass will be recorded in kilograms under standardized measurement conditions.
-: Sexual Function Assessment — Sexual function will be assessed using the Arizona Sexual Experiences Scale (ASEX), a five-item questionnaire evaluating sexual drive, arousal, physiological arousal, ability to reach orgasm, and satisfaction from orgasm. Higher scores indicate greater sexual dysfunction.
-: Respiratory Function — Respiratory function will be assessed using pulmonary function testing and DLCO according to ATS criteria. Respiratory muscle strength will be evaluated by maximal inspiratory (MIP) and expiratory (MEP) pressures using a MicroRPM device according to ATS/ERS recommendations. Cough-related quality of life will be assessed using the Leicester Cough Questionnaire (LCQ), and dyspnea using the modified Medical Research Council (mMRC) Dyspnea Scale.
-: Functional Exercise Capacity Assessment — Functional exercise capacity will be assessed using the 6-Minute Walk Test (6MWT). Participants will be instructed to walk as far as possible for six minutes along a 30-meter corridor. The total distance walked will be recorded in meters.
-: Functional Status Assessment — Disease-related functional status will be assessed using the Scleroderma Health Assessment Questionnaire (SHAQ). The questionnaire evaluates functional limitations and disease-specific manifestations associated with systemic sclerosis, with higher scores indicating greater functional impairment.
-Link: https://clinicaltrials.gov/study/NCT07817160
 
 SUMMARY:
 

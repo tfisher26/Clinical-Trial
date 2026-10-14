@@ -374,16 +374,6 @@ Link: https://clinicaltrials.gov/study/NCT07011914
 SUMMARY:
 
 
-## NCT07782775
-A Phase 1, Open-Label, Randomized, Single-Dose, 2-Period Crossover, Bioequivalence Study of Efgartigimod PH20 SC Administered Via Autoinjector Versus Prefilled Syringe in Healthy Adult Participants
-
-Intervention: : Efgartigimod PH20 SC via PFS — Subcutaneous injection of empasiprubart via Prefilled syringe (PFS)
-: Efgartigimod PH20 SC via AI — Subcutaneous injection of empasiprubart via Autoinjector (AI)
-Link: https://clinicaltrials.gov/study/NCT07782775
-
-SUMMARY:
-
-
 ## NCT06981455
 LIFE-NETs (Life Following Excision of Neuroendocrine Tumors): a Multi-institutional Prospective Observational Cohort Study of Quality of Life After Surgery for Neuroendocrine Tumors
 

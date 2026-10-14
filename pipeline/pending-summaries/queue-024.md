@@ -2579,15 +2579,6 @@ Link: https://clinicaltrials.gov/study/NCT04702321
 SUMMARY:
 
 
-## NCT07615192
-RSV Immunisation Status in Queensland (Australia)
-
-Intervention: : Nirsevimab Respiratory Syncytial Virus monoclonal antibody — This study will not administer any treatment, only observe the treatment as prescribed in real-world clinical practice
-Link: https://clinicaltrials.gov/study/NCT07615192
-
-SUMMARY:
-
-
 ## NCT05825950
 Predicting Outcomes in Intermediate and High-risk Non-muscle Invasive Bladder Cancer Using Automated Analysis of Digital Pathology Data
 

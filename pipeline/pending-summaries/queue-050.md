@@ -564,14 +564,6 @@ Link: https://clinicaltrials.gov/study/NCT07485231
 
 SUMMARY:
 
-## NCT07485283
-A Pragmatic Randomized Trial to Evaluate the Effect of Recombinant Herpes Zoster Vaccine on Major Adverse Cardiovascular Events and Dementia in Adults Aged 65 Years or Above
-
-Intervention: : Recombinant Herpes Zoster Vaccine (Shingrix) — Two doses of Shingrix vaccine spaced 2-6 months apart.
-Link: https://clinicaltrials.gov/study/NCT07485283
-
-SUMMARY:
-
 ## NCT07485296
 A Phase II, Randomized, Double-blind, Placebo Controlled, Multicenter Pilot Study to Evaluate the Effect of Postbiotics on Microbiota and Systemic Immunomodulation of Pembrolizumab as First Line Standard of Care in Patients With Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma (RM HNSCC)
 
@@ -15111,14 +15103,6 @@ Host-microbiota Interactions in Auto-inflammatory Diseases
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07718555
-
-SUMMARY:
-
-## NCT07718646
-A Mobile Health Coping Intervention for Mothers Experiencing Food Insecurity: a CBT-informed Pilot Study
-
-Intervention: : MOMent — An 8-week behavioral intervention delivered through a mobile application that combines multiple behavior change techniques, including coping education, self-monitoring, goal setting, and skill-building reflections The intervention is designed to help participants develop and practice coping strategies to manage stress and improve mental well-being.
-Link: https://clinicaltrials.gov/study/NCT07718646
 
 SUMMARY:
 

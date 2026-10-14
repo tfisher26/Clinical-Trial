@@ -658,15 +658,6 @@ Link: https://clinicaltrials.gov/study/NCT07175077
 SUMMARY:
 
 
-## NCT04507997
-Angelman Syndrome Natural History Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04507997
-
-SUMMARY:
-
-
 ## NCT07028112
 Impact de la Surcharge en Fer Sur l'Incidence Des Complications hépatiques Chez Les Patients allogreffés de Cellules Souches hématopoïétiques à Plus de 10 Ans de la Greffe
 

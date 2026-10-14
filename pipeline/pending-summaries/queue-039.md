@@ -1511,18 +1511,6 @@ Link: https://clinicaltrials.gov/study/NCT07146256
 SUMMARY:
 
 
-## NCT04507555
-Pharmacist Guided Pre-emptive Pharmacogenetic Testing in Antidepressant Therapy
-
-Intervention: : Pharmacist-guided pharmacogenetic (PGx) testing for antidepressant selection and dosing — The study intervention is the service of pharmacist guided pre-emptive PGx testing to support clinical decision making for antidepressant selection and dosing.
-
-This service involves genotyping and thereof evidence-based genotype interpretation commercially offered as Stratipharm® (humatrix AG, Pfungstadt Germany, https://www.stratipharm.de). Furthermore, clinical pharmacists will process and evaluate the results from PGx testing (Stratipharm®) in context of the individual patient medication history as well as current co-medication and forward an individualized recommendation for antidepressant selection and dosing to the treating psychiatrist.
-: Standard care antidepressant selection and dosing — Selection and dosing of the new antidepressant pharmacotherapy will be determined by the treating investigator alone, according to current standard of care considering clinical factors only.
-Link: https://clinicaltrials.gov/study/NCT04507555
-
-SUMMARY:
-
-
 ## NCT06816706
 Comparison of Physiological Effects of Two Types of High-Flow Tracheal Oxygen Versus T-Piece During Spontaneous Breathing Trials in Mechanically Ventilated Patients
 
@@ -4826,15 +4814,6 @@ Prevalence of Asymptomatic COVID-19 Infection in Pediatric Surgical Patients
 
 Intervention: : Rapid antigen test — COVID-19 rapid antigen testing of nasal swab
 Link: https://clinicaltrials.gov/study/NCT05898529
-
-SUMMARY:
-
-
-## NCT05491213
-TELEhealth Shared Decision-making COaching for Lung Cancer Screening in Primary carE (TELESCOPE)
-
-Intervention: : TELESCOPE, Remote Decision Coaching with Navigation Intervention — The TELESCOPE intervention involves three complementary components: 1) decision aid and coaching for LCS, 2) referral of current smokers to evidence-based smoking cessation services, and 3) for participants interested in screening, navigation to complete LCS and diagnostic testing and oncology care as needed
-Link: https://clinicaltrials.gov/study/NCT05491213
 
 SUMMARY:
 

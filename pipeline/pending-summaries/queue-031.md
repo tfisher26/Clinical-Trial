@@ -1131,17 +1131,6 @@ Link: https://clinicaltrials.gov/study/NCT06859749
 SUMMARY:
 
 
-## NCT07655180
-A Phase 3, Randomized, Double-Blind Study to Evaluate the Safety, Serum Virus Neutralizing Antibody Responses, and Pharmacokinetics of VYD2311, a COVID-19 Vaccine, and Coadministered VYD2311 With a COVID-19 Vaccine
-
-Intervention: : COVID-19 mRNA vaccine — A one-time dose of COVID-19 mRNA vaccine will be administered by intramuscular injection.
-: VYD2311 — A one-time dose of VYD2311 250mg will be administered by intramuscular injection.
-: Placebo (Normal Saline) — A one-time dose of normal saline (placebo) administered by intramuscular injection.
-Link: https://clinicaltrials.gov/study/NCT07655180
-
-SUMMARY:
-
-
 ## NCT06371404
 Imaging Traumatic Stress and Alcohol Use Disorder With [18F]Bavarostat
 

@@ -6206,14 +6206,6 @@ Link: https://clinicaltrials.gov/study/NCT06583616
 
 SUMMARY:
 
-## NCT06583772
-Validity and Reliability of the BeCureTM Virtual Reality-Based 9-Hole Peg Test in Stroke Patients
-
-Intervention: : VR-based 9-hole peg test — The volunteers will first undergo a physical 9-hole peg test. After the physical test is completed, the VR-based 9-hole peg test will be performed.
-Link: https://clinicaltrials.gov/study/NCT06583772
-
-SUMMARY:
-
 ## NCT06583993
 A Clinical Trial Assessing the Safety and Efficacy of Intravenous HNF4α srRNA for the Treatment of Patients With Advanced Intrahepatic Cholangiocarcinoma
 

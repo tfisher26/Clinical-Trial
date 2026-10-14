@@ -276,15 +276,6 @@ Link: https://clinicaltrials.gov/study/NCT06714630
 SUMMARY:
 
 
-## NCT06314230
-Australian Genomics Of Chronic Allograft Dysfunction Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06314230
-
-SUMMARY:
-
-
 ## NCT07240207
 Dissecting Tumour MicroenvirOnment in Solid Paediatric Tumour to Improve Adoptive Cell Therapy
 

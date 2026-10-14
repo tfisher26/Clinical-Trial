@@ -1155,15 +1155,6 @@ Link: https://clinicaltrials.gov/study/NCT07246122
 
 SUMMARY:
 
-## NCT07246187
-Comparing Haloperidol to Olanzapine in the Treatment of Suspected Cannabinoid Hyperemesis in the Emergency Department
-
-Intervention: : Olanzapine 10 milligram — olanzapine 10 mg IM
-: Haloperidol — Haloperidol 5 mg IM
-Link: https://clinicaltrials.gov/study/NCT07246187
-
-SUMMARY:
-
 ## NCT07246356
 A Study to Explore the Feasibility and Efficacy of Group Traumatic Episode Protocol (GTEP) for Reducing Trauma Symptoms Following a Traumatic Birthing Experience
 
