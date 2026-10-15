@@ -14781,16 +14781,6 @@ Link: https://clinicaltrials.gov/study/NCT06716034
 
 SUMMARY: Teens with depression may benefit from improving their diet. This study tests a personalized nutrition plan with virtual support to see whether it is workable and improves mood.
 
-## NCT06716203
-A Randomized, Double-blind, Placebo-Controlled Trial Comparing the Efficacy and Safety of BGM0504 Versus Placebo in Patients with Type 2 Diabetes, Inadequately Controlled with Diet and Exercise Alone
-
-Intervention: : Drug: 5 mg BGM0504 Administered SC — Drug: BGM0504 Administered SC
-: Drug: : 10 mg BGM0504 Administered SC — Drug: BGM0504 Administered SC
-: Drug: Placebo Administered SC — Drug: Placebo Administered SC
-Link: https://clinicaltrials.gov/study/NCT06716203
-
-SUMMARY: Type 2 diabetes not controlled with diet and exercise needs treatment. This study tests BGM0504, a weekly injection, against a placebo to see whether it lowers blood sugar.
-
 ## NCT06716398
 A Randomized Investigator-blinded Comparative Study to Assess the Efficacy of the Cosmetic Care Product RV4133C - Formula JT2559 in Subjects With Facial Acne, During a 3-month-associated-treatment Phase Followed by a 3-month-maintenance Phase
 

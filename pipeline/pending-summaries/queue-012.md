@@ -988,15 +988,6 @@ Link: https://clinicaltrials.gov/study/NCT07525947
 SUMMARY:
 
 
-## NCT06745778
-Evolution of Intracardiac Electrograms Recorded by Left Bundle Branch Pacing Lead in Patients With ICD or CRT-D
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06745778
-
-SUMMARY:
-
-
 ## NCT06941389
 Comparing the Effectiveness of Matched Related Donor Hematopoietic Stem Cell Transplantation to Disease Modifying Therapy in Pediatric Patients With Sickle Cell Disease.
 

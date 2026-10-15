@@ -3644,16 +3644,6 @@ Link: https://clinicaltrials.gov/study/NCT07528547
 SUMMARY:
 
 
-## NCT05214365
-Physiological Pacing vs.Conventional Pacing in the Prevention of Pacemaker-induced Cardiomyopathy: A Randomized Study
-
-Intervention: : Pacemaker implantation and conventional cardiac pacing — Patients will have the pacemaker implanted in the electrophysiology laboratory. Electrode will be implanted (in the apical or septal portion) according to the criteria of the implanting physician.
-: Conduction system pacing implant — Right ventricular lead was placed to get his bundle or left bundle branch.
-Link: https://clinicaltrials.gov/study/NCT05214365
-
-SUMMARY:
-
-
 ## NCT07623785
 Assessing the Influence of Habitual Beef Intake on Key Molecular Markers of Brain Health
 

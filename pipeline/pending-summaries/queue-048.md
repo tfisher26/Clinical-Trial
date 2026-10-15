@@ -4049,14 +4049,6 @@ Link: https://clinicaltrials.gov/study/NCT07055217
 
 SUMMARY:
 
-## NCT07055243
-Safety and Efficacy of Mitapivat Sulfate in Adult Patients With Erythrocyte Membranopathies - Canada (SATISFY-CA)
-
-Intervention: : Mitapivat — Mitapivat will be given to adult patients with erythrocyte membranopathies
-Link: https://clinicaltrials.gov/study/NCT07055243
-
-SUMMARY:
-
 ## NCT07055594
 A Phase I/IIa Dose-escalation, Dose-optimization and Dose Expansion Study to Evaluate the Safety and Preliminary Efficacy of Tri-specific Antibody (SOA101) in Subjects With Advanced Solid Tumors.
 
@@ -11820,18 +11812,6 @@ Link: https://clinicaltrials.gov/study/NCT07166055
 
 SUMMARY:
 
-## NCT07166081
-A Phase 1, Double-Blind, Randomized, Ascending-Dose, Placebo-Controlled, Multiple-dose Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of BGM0504 Tablets Orally Administered in Non-diabetic Overweight or Obese Adult Subjects
-
-Intervention: : BGM0504 — Administered orally
-: BGM0504 — Administered orally
-: BGM0504 — Administered orally
-: Placebo — Administered orally
-: BGM0504 — Administered orally
-Link: https://clinicaltrials.gov/study/NCT07166081
-
-SUMMARY:
-
 ## NCT07166094
 A Phase 3 Randomized, Open-label Study of Rinatabart Sesutecan (Rina-S) Versus Treatment of Investigator's Choice (IC) in Patients With Endometrial Cancer After Platinum-Based Chemotherapy and PD(L)-1 Therapy
 
@@ -13921,15 +13901,6 @@ Intervention: : OTS-412 — 1×10E8 pfu, once, 1 cycle, IT
 : OTS-412 — 3×10E8 pfu, once, 1 cycle, IT
 : OTS-412 — optimal dose, once, 1 cycle, IT
 Link: https://clinicaltrials.gov/study/NCT07190833
-
-SUMMARY:
-
-## NCT07190859
-A Double-blind, Randomised, Placebo-controlled, Parallel-group Study Evaluating the Effect of Probiotic Limosilactobacillus Reuteri (L. Reuteri) on Crying and Fussing Time in Infants With Colic
-
-Intervention: : L. reuteri — Supplementation with drops containing L. reuteri once daily for 21 consecutive days
-: Placebo — Supplementation with identical drops without L. reuteri once daily for 21 consecutive days
-Link: https://clinicaltrials.gov/study/NCT07190859
 
 SUMMARY:
 

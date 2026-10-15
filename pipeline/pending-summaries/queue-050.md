@@ -4662,15 +4662,6 @@ Link: https://clinicaltrials.gov/study/NCT07535554
 
 SUMMARY:
 
-## NCT07535606
-A Phase 1, Randomized, Double-Masked, Placebo-controlled, Single Ascending Dose Study of Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ALN-4915 in Adult Healthy Volunteers
-
-Intervention: : ALN-4915 — ALN-4915 will be administered subcutaneously (SC)
-: Placebo — Placebo will be administered SC
-Link: https://clinicaltrials.gov/study/NCT07535606
-
-SUMMARY:
-
 ## NCT07536061
 A Randomized, Double-Blind, Placebo-Controlled, Dose Escalation Study to Evaluate the Effect of SRP-1005 in Subjects With Huntington's Disease (INSIGHTT)
 

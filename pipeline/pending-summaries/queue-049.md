@@ -12838,16 +12838,6 @@ Link: https://clinicaltrials.gov/study/NCT07411716
 
 SUMMARY:
 
-## NCT07411755
-A Randomized, Double-blind, Parallel, Single-dose, Phase 1 Clinical Study to Compare the Pharmacokinetics, Safety, Tolerability, and Immunogenicity of GS101 Versus Dupixent® After Subcutaneous Injection
-
-Intervention: : GS101 injection — 300 mg (2.0 mL)/pre-filled syringe Single subcutaneous injection, 5 cm to the left of the umbilicus, under fasting conditions
-: U.S. commercial Dupixent® — 300 mg (2.0 mL)/pre-filled syringe Single subcutaneous injection, 5 cm to the left of the umbilicus, under fasting conditions
-: CN commercial Dupixent® — 300 mg (2.0 mL)/pre-filled syringe Single subcutaneous injection, 5 cm to the left of the umbilicus, under fasting conditions
-Link: https://clinicaltrials.gov/study/NCT07411755
-
-SUMMARY:
-
 ## NCT07411807
 Study of the Effectiveness of a Systematic Minimal Early Intervention on Care Engagement in Adults With Eating Disorders Requesting Specialized Treatment: A Monocentric Pilot Study.
 
@@ -13478,15 +13468,6 @@ Intervention: : Nefopam 120mg/day infusion — Nefopam administration will start
 : Peridural — This group will receive the stardad practice in our hospital, peridural analgesia alongside a multimodal analgesic approach involving paracetamol 4g/day
 : Multimodal IV analgesia — Standard postoperative multimodal pain management regimen
 Link: https://clinicaltrials.gov/study/NCT07423650
-
-SUMMARY:
-
-## NCT07423702
-Effectiveness of Digital Game-Based Learning for Teaching Surgical Site Infection Prevention Interventions: A Mixed-Methods Randomized Controlled Trial
-
-Intervention: : Digital Game-Based Learning — The intervention consists of a digital game-based learning application developed to support the teaching of evidence-based surgical site infection prevention interventions. The digital game includes interactive learning activities designed to enhance engagement and reinforce key prevention principles in nursing education.
-: Traditional Theoretical Education — The intervention consists of traditional instructor-led theoretical education on surgical site infection prevention delivered using standard teaching methods routinely applied in undergraduate nursing education.
-Link: https://clinicaltrials.gov/study/NCT07423702
 
 SUMMARY:
 

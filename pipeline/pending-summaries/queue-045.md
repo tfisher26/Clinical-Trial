@@ -140,17 +140,6 @@ Link: https://clinicaltrials.gov/study/NCT06071637
 
 SUMMARY: Stem cell transplants from a donor often cause painful mouth sores. This study tests low power laser therapy to prevent oral mucositis and throat pain.
 
-## NCT06072131
-A Phase 3, Randomized, Open-Label Study Comparing the Efficacy and Safety of the Combination of Beleodaq-CHOP or Folotyn-COP to the CHOP Regimen Alone in Newly Diagnosed Patients With Peripheral T-Cell Lymphoma
-
-Intervention: : Belinostat Injection — Belinostat 600 mg/m2 or 1000 mg/m2 along with CHOP is given in each cycle
-: Pralatrexate Injection — Pralatrexate 20 mg/m2 or 30 mg/m2 along with COP is given in each cycle
-: CHOP — CHOP is the comparator arm
-: COP — COP is given in combination with Pralatrexate
-Link: https://clinicaltrials.gov/study/NCT06072131
-
-SUMMARY: Peripheral T cell lymphoma is an aggressive blood cancer usually treated with CHOP chemotherapy. This study compares Beleodaq plus CHOP or Folotyn plus COP with CHOP alone.
-
 ## NCT06072495
 Etiological Study of Persistent Velopharyngeal Insufficiency in Children With Operated Velopalatine Cleft by Analysis of Velopharyngeal Motor Skills in Static and Dynamic MRI
 

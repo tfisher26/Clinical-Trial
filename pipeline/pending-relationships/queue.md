@@ -102652,3 +102652,62 @@ Key
 
 RELATIONSHIP:
 
+## NCT03545477
+Assessment of the Rehabilitative Effects of Curved-walking Training in Stroke, Parkinson and Orthopaedic Populations
+Conditions: neurological/parkinson_disease, neurological/stroke
+
+Inclusion criteria:
+"""
+* Post-acute stroke patients experiencing a stroke less than 6 months before recruitment
+* Idiopathic Parkinson Disease with disability level from moderate to severe (modified Hoehn \& Yahr scale 2.5-4)
+* Femoral fracture, less than 1 month form surgery
+"""
+
+RELATIONSHIP:
+
+## NCT03810573
+A Multi-Center, Prospective, Parallel Group, Randomized, Pilot Study Evaluating Safety And Preliminary Effectiveness Of NB1 Bone Graft In Subjects With Degenerative Disc Disease Undergoing Transforaminal Lumbar Interbody Fusion
+Conditions: musculoskeletal/intervertebral_disc_degeneration, musculoskeletal/spondylolisthesis
+
+Inclusion criteria:
+"""
+* Documented diagnosis of degenerative disc disease
+* Up to Grade I spondylolisthesis
+* Eligible to undergo a single vertebral level spine fusion (L2 to S1)
+"""
+
+RELATIONSHIP:
+
+## NCT05780450
+Effectiveness of Transcranial Direct Current (tDCS) Treatment in Patients With Persistent Covid Who Present Headaches and Chronic Body Pain.
+Conditions: infectious/covid_19, infectious/post_acute_covid_19_syndrome, musculoskeletal/arthralgia, neurological/cluster_headache, neurological/eosinophilia_myalgia_syndrome, neurological/headache_disorders, neurological/insomnia_fatal_familial, neurological/migraine_disorders, other/chronic_pain, respiratory/covid_19
+
+Inclusion criteria:
+"""
+* Patients with Persistent Covid
+* Men and women
+* All ages from 16 years old
+* Patients who passed the Covid in its acute phase in an asymptomatic, mild and severe way.
+"""
+
+RELATIONSHIP:
+
+## NCT06163430
+A Phase 1/2 Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of TERN-701 in Participants With Chronic Myeloid Leukemia
+Conditions: blood/leukemia_myelogenous_chronic_bcr_abl_pos, cancer/leukemia_myelogenous_chronic_bcr_abl_pos
+
+Inclusion criteria:
+"""
+Inclusion Criteria include but are not limited to:
+
+* Have an Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 2
+* Have an established cytopathologically confirmed diagnosis of breakpoint cluster region::Abelson (BCR-ABL1) positive Chronic Myeloid Leukemia (CML) in Chronic Phase
+* Have received treatment with at least one prior tyrosine kinase inhibitor (TKI) and have treatment failure, suboptimal response, or treatment intolerance
+* Prior treatment with asciminib is allowed
+* Adequate organ function, as assessed by local laboratory
+
+Key
+"""
+
+RELATIONSHIP:
+

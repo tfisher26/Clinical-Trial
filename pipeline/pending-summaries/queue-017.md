@@ -506,17 +506,6 @@ Link: https://clinicaltrials.gov/study/NCT06831903
 SUMMARY:
 
 
-## NCT07382908
-A Single-Center, Single-Dose, Randomized, Open-Label, Single-Period, Parallel Bioequivalence Study of BGM0504 Injection in Overweight/Obese Participants
-
-Intervention: : BGM0504 Injection multi-dose pen — 5 mg, single subcutaneous injection in the abdominal region
-: BGM0504 Injection single-dose pen — 5 mg, single subcutaneous injection in the abdominal region
-: BGM0504 Injection single-dose pen — 5 mg, single subcutaneous injection in the abdominal region
-Link: https://clinicaltrials.gov/study/NCT07382908
-
-SUMMARY:
-
-
 ## NCT06664450
 Exploring Brain Fog Symptoms in Patients With Obstructive Sleep Apnea and CPAP Therapy Impact: A Pilot Study
 

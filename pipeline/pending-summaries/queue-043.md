@@ -6959,16 +6959,6 @@ Link: https://clinicaltrials.gov/study/NCT04957095
 
 SUMMARY:
 
-## NCT04958096
-Adjunct Cortical Stimulation With Deep Brain Stimulation (DBS) to Treat Obsessive Compulsive Disorder (OCD)
-
-Intervention: : Standard Therapeutic Deep Brain Stimulation — DBS to the standard subcortical targets (anterior limb of the internal capsule- ALIC) will be used to treat OCD
-: Cortical Stimulation for PFC — Patients enrolled in this study will have a second pair of leads placed in the prefrontal cortex (PFC) bilaterally as well the surrounding white matter tracts and stimulation will be delivered through these leads to improve OCD symptoms
-: Cortical Stimulation for ACC — Patients enrolled in this study will have a second pair of leads placed in the anterior cingulate cortex (ACC) bilaterally as well the surrounding white matter tracts and stimulation will be delivered through these leads to improve OCD symptoms
-Link: https://clinicaltrials.gov/study/NCT04958096
-
-SUMMARY: Severe obsessive compulsive disorder may be treated with deep brain stimulation when other treatments fail. This study tests adding stimulation of the brain's surface to standard deep brain stimulation.
-
 ## NCT04959097
 Retinoblastoma Patient Clinical Database and Tissue Repository
 
@@ -8847,15 +8837,6 @@ Intervention: : Clemizole HCl — Clemizole HCl will be administered as an oral 
 Link: https://clinicaltrials.gov/study/NCT05066217
 
 SUMMARY: Lennox Gastaut syndrome is a severe form of epilepsy with seizures that are hard to control. This study tests an add-on medicine taken as an oral solution, compared with a placebo.
-
-## NCT05066308
-Evaluation of Cannabidiol for Reduction of Brain Neuroinflammation
-
-Intervention: : CBD — Epidiolex, an agent within the anti-epileptic drug class, will be used. Epidiolex, Greenwich Biosciences Inc.'s CBD formulation, is a 100 mg/mL purified oral solution, dissolved in the excipients sesame oil and anhydrous ethanol with added sweetener (sucralose) and strawberry flavoring. The drug is formulated from extracts prepared from Cannabis sativa L. plants that have a defined chemical profile and contain consistent levels of CBD as the principal phytocannabinoid. Extracts from these plants are processed to yield pure (\>95%) CBD that typically contains less than 0.5% (w/w) THC. Cannabidiol is the active ingredient in Epidiolex; inactive ingredients include dehydrated alcohol, sesame seed oil, strawberry flavor, and sucralose. Of note, CBD has no psychoactive properties.
-: Placebo — Placebo CBD will be identical to the active CBD, a 100 mg/mL purified oral solution, dissolved in the excipients sesame oil and anhydrous ethanol with added sweetener (sucralose) and strawberry flavoring, but with no CBD.
-Link: https://clinicaltrials.gov/study/NCT05066308
-
-SUMMARY:
 
 ## NCT05066763
 Parkinson's Foundation Surveys
@@ -12007,17 +11988,6 @@ Intervention: : Liraglutide — Sublingual or subcutaneous liraglutide
 Link: https://clinicaltrials.gov/study/NCT05268237
 
 SUMMARY: Many people with type 2 diabetes prefer to avoid injections. This study tests a single dose of liraglutide given as a tablet under the tongue instead of as a shot.
-
-## NCT05268289
-An Adaptive, Randomized, Double-blind, Dose Exploration, Parallel Group, Placebo Controlled, Multicenter Phase 2 Trial to Evaluate the Efficacy, Safety and Tolerability of LNP023 in Combination With Standard-of-care With and Without Oral Corticosteroids in Patients With Active Lupus Nephritis Class III-IV, +/- V
-
-Intervention: : Iptacopan (part 1) — Taken for 52 Weeks
-: Iptacopan (part 2) — Taken for 52 Weeks
-: Placebo + standard of care — Taken for 52 Weeks
-: Iptacopan + placebo — Taken for 52 Weeks
-Link: https://clinicaltrials.gov/study/NCT05268289
-
-SUMMARY: Lupus nephritis is kidney inflammation caused by lupus. This study tests iptacopan, taken for 52 weeks, added to standard care with or without oral steroids, compared with placebo.
 
 ## NCT05268692
 Neoadjuvant Chemotherapy for Pancreatic Cancer; GS vs. GnP

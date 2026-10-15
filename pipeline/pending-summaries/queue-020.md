@@ -1148,15 +1148,6 @@ Link: https://clinicaltrials.gov/study/NCT07376109
 SUMMARY:
 
 
-## NCT07298018
-A Pilot Study of RISE for Nurse Managers Retreat
-
-Intervention: : Intervention Group — Psychoeducational group program designed to impact occupational and psychological indicators including resilience, insight, self-compassion, empowerment, burnout and secondary trauma
-Link: https://clinicaltrials.gov/study/NCT07298018
-
-SUMMARY:
-
-
 ## NCT07378163
 Study on the Preferences for Percutaneous Coronary Intervention Implantation Devices Among Healthcare Providers and Patients With Coronary Artery Disease
 

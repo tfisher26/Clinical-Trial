@@ -382,15 +382,6 @@ Link: https://clinicaltrials.gov/study/NCT05512208
 
 SUMMARY: Recurrent gynecological cancers can be hard to treat. This study tests avutometinib, which blocks RAF and MEK, combined with defactinib, which blocks FAK.
 
-## NCT05512234
-A Double-blind, Mylti-center, Randomised, Placebo-controlled, Parallel-group Study Evaluating the Effect of Probiotic Limosilactobacillus Reuteri (L. Reuteri) on Crying and Fussing Time in Infants With Colic
-
-Intervention: : L. reuteri — Dietary supplementation with drops containing L. reuteri once daily for 21 consecutive days
-: Placebo — Dietary supplementation with placebo drops identical to those containing L. reuteri once daily for 21 consecutive days
-Link: https://clinicaltrials.gov/study/NCT05512234
-
-SUMMARY: Excessive crying and fussing in infants can be hard on families. This study tests the probiotic Limosilactobacillus reuteri against a placebo to reduce crying and fussing.
-
 ## NCT05512403
 Evaluation of Diagnostic Performances of 18F-FDOPA PET KInetics as Biomarkers for the Improvement of Care of MRI Non-contrast Enhanced Gliomas
 
@@ -6915,16 +6906,6 @@ Intervention: : Ondansetron — Serotonin antagonists (5-HT3 antagonists) (Carba
 Link: https://clinicaltrials.gov/study/NCT05755737
 
 SUMMARY: Vasovagal syncope causes sudden fainting spells that can lead to falls and injuries. This proof of principle study tests ondansetron, an anti nausea drug, to see if it prevents fainting.
-
-## NCT05756777
-A Phase 1b Multi-center Study of the FLT3 Inhibitor Gilteritinib in Combination With the IDH1 Inhibitor Ivosidenib or the IDH2 Inhibitor Enasidenib for Patients With Relapsed or Refractory Acute Myeloid Leukemia Who Have Co-occurring FLT3/IDH1 or FLT3/IDH2 Mutations
-
-Intervention: : Gilteritinib — Dose level (-1) 80mg, (1) 120mg, (2) 120mg
-: Ivosidenib — Dose level (-1) 250mg, (1) 250mg, (2) 500mg
-: Enasidenib — Dose level (-1) 50mg, (1) 50mg, (2) 100mg
-Link: https://clinicaltrials.gov/study/NCT05756777
-
-SUMMARY: Acute myeloid leukemia that has come back with both FLT3 and IDH mutations is hard to treat. This study tests gilteritinib combined with ivosidenib or enasidenib.
 
 ## NCT05756959
 Myopia Control Combined PBM With Myopic Defocus Lens in Children: Double-blind RCT for 6 Month

@@ -17193,20 +17193,6 @@ Link: https://clinicaltrials.gov/study/NCT06992882
 
 SUMMARY:
 
-## NCT06993493
-An Exploratory Clinical Study to Evaluate the Safety and Efficacy of Autologous CD19 CAR - T in the Treatment of Relapsed/Refractory Autoimmune Diseases
-
-Intervention: : CD19 CART — The dose escalation is carried out according to the principle of "3+3" escalation, with a total of 3 dose groups set up.
-
-Expected sample size (± 30%, CAR+T cells/kg)
-
-1. 0.5 × 106 0.4 × 106\~0.6 × 106 3-6 cases
-2. 1.0 × 106 0.7 × 106\~1.3 × 106 3-6 cases
-3. 2.0 × 106 1.4 × 106\~2.6 × 106 3-6 cases The enrollment starts from dose group 1, and if no DLT occurs in the 3 subjects included, they will be transferred to the next dose group. If one of the three subjects in a certain dose group develops DLT, three additional subjects will be added to the group for cell infusion at the same dose. If there is ≥ 1 case of DLT in the 3 additional cases (i.e. ≥ 2/6 cases in this dose group), it will be reduced to the previous dose group. If there are only 3 subjects in the previous dose group at this time, an additional 3 subjects need to be added for the trial; If there are already 6 subjects in the previous dose group, the trial ends and this dose is MTD.
-Link: https://clinicaltrials.gov/study/NCT06993493
-
-SUMMARY:
-
 ## NCT06993558
 Analysis of Safety and Tissue Interaction of Injectable Biosmulators.
 

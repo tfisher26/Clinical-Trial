@@ -4253,16 +4253,6 @@ Link: https://clinicaltrials.gov/study/NCT07658274
 SUMMARY:
 
 
-## NCT07243574
-Night Owl Sleep Study: The Effect of Sleep on Fecal Microbiota
-
-Intervention: : Increase sleep by 90 minutes — For 14 days, participants will increase their nightly sleep by 90 minutes.
-: Decrease sleep by 90 minutes — For 14 days, participants will decrease their nightly sleep by 90 minutes.
-Link: https://clinicaltrials.gov/study/NCT07243574
-
-SUMMARY:
-
-
 ## NCT07216339
 Effect of Gamification on 6-Minute Walk Test Performance and Engagement in Pediatric Neuromuscular Patients
 

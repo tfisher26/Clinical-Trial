@@ -11,18 +11,6 @@ Link: https://clinicaltrials.gov/study/NCT07459270
 SUMMARY:
 
 
-## NCT07339072
-Temporal Interference Methods for Non-invasive Deep Brain Stimulation
-
-Intervention: : Temporal Interference (TI) Electrical Stimulation - NAcc 5 Hz TI Active — Non-invasive electrical brain stimulation delivered through two sets of scalp electrodes using alternating current frequencies at up to 2 mA per electrode. For the NAcc 5 Hz TI Active condition, one channel will deliver 2000 Hz and the other 2005 Hz, producing a 5 Hz beat frequency that focally stimulates deep brain regions without activating overlying cortex. Stimulation is administered in 2-minute on / 2-minute off cycles with a 30-second ramp up and ramp down beginning at the start of each 2-minute period.
-: Temporal Interference (TI) Electrical Stimulation - NAcc 5 Hz TI Sham — Same setup as the 5 Hz TI Active condition, except that the stimulation immediately ramps down as soon as it reaches 2 mA after ramp up, producing a sham condition.
-: Temporal Interference (TI) Electrical Stimulation - NAcc 10 Hz TI Active — Non-invasive electrical brain stimulation delivered through two sets of scalp electrodes using alternating current frequencies at up to 2 mA per electrode. For the NAcc 10 Hz TI Active condition, one channel will deliver 2000 Hz and the other 2010 Hz, producing a 10 Hz beat frequency that focally stimulates deep brain regions without activating overlying cortex. Stimulation is administered in 2-minute on / 2-minute off cycles with a 30-second ramp up and ramp down beginning at the start of each 2-minute period.
-: Temporal Interference (TI) Electrical Stimulation - NAcc 10 Hz TI Sham — Same setup as the 10 Hz TI Active condition, except that the stimulation immediately ramps down as soon as it reaches 2 mA after ramp up, producing a sham condition.
-Link: https://clinicaltrials.gov/study/NCT07339072
-
-SUMMARY:
-
-
 ## NCT05989620
 Long-Term Development of Muscular Dystrophy Outcome Assessments (GRASP-01-005)
 

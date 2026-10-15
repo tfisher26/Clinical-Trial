@@ -468,18 +468,6 @@ Link: https://clinicaltrials.gov/study/NCT06868966
 SUMMARY:
 
 
-## NCT07224399
-A Phase 1, Double-Blind, Placebo-Controlled, Dose-Escalation Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety and Tolerability of BGM1812 Injection Following Single and Multiple Subcutaneous Administration in Normal to Overweight or Obese But Otherwise Healthy Men and Women
-
-Intervention: : BGM1812 — Administered SC.
-: Placebo — Administered SC.
-: BGM1812 — Administered SC.
-: Placebo — Administered SC.
-Link: https://clinicaltrials.gov/study/NCT07224399
-
-SUMMARY:
-
-
 ## NCT07690345
 Clinical Characteristics and Prognostic Outcomes of Allergic Bronchopulmonary Aspergillosis Patients Stratified by Fungal Microbiological Status in Sputum or Bronchoalveolar Lavage Fluid: A Multicenter Bidirectional Cohort Study
 
@@ -846,15 +834,6 @@ Observational Study About Hepatic Toxins Kinetic and Evaluation of Organ Damage 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06837766
-
-SUMMARY:
-
-
-## NCT06638073
-Continuous Connected Patient Care (CCPC), a Pilot Testing a Novel Device for Continuous Vitals Monitoring - Department of Anesthesia at PHC
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06638073
 
 SUMMARY:
 

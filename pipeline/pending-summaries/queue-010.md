@@ -294,18 +294,6 @@ Link: https://clinicaltrials.gov/study/NCT05074316
 SUMMARY:
 
 
-## NCT07294235
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single/Multiple-dose Study to Evaluate the Tolerability, Safety and Pharmacokinetics of BGM1812 in Healthy and Non-diabetic Overweight or Obese Chinese Participants
-
-Intervention: : BGM1812 — AdministeredSC
-: Placebo — Administered SC
-: BGM1812 — Administered SC
-: Placebo — Administered SC
-Link: https://clinicaltrials.gov/study/NCT07294235
-
-SUMMARY:
-
-
 ## NCT06080464
 A Study of Clinician Satisfaction and Likelihood of Clinical Adoption of the VERABAND™
 
