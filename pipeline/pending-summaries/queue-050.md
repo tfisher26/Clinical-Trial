@@ -1388,15 +1388,6 @@ Link: https://clinicaltrials.gov/study/NCT07495020
 
 SUMMARY:
 
-## NCT07495202
-A Phase I Randomized Double-blind Placebo-controlled Clinical Trial to Evaluate the Safety, Tolerability, and Immunogenicity of Recombinant Monkeypox Protein Vaccine JT118 in Healthy Adults.
-
-Intervention: : JT118 experimental group — The vaccine was administered by Subcutaneous Injection
-: JT118 placebo group — The vaccine was administered by Subcutaneous Injection
-Link: https://clinicaltrials.gov/study/NCT07495202
-
-SUMMARY:
-
 ## NCT07495306
 Electrophysiological Evidence of Neural Function Improvement After Extended Arthroscopic Circumferential Capsular Release for Adhesive Capsulitis
 
@@ -7515,21 +7506,6 @@ IMPACT OF DIALYSIS DURATION AND DIURESIS ON BLADDER CAPACITY AND COMPLIANCE IN E
 
 Intervention: : Observational Assessment — This is a prospective observational study with no therapeutic or preventive intervention. Participants undergo clinical assessment, including evaluation of dialysis duration and residual urine output, along with laboratory investigations, imaging, and urodynamic studies to assess bladder capacity and compliance.
 Link: https://clinicaltrials.gov/study/NCT07570771
-
-SUMMARY:
-
-## NCT07571018
-Development and Pilot Evaluation of a Novel Mobile Health Intervention for Young Adult Tobacco Cessation
-
-Intervention: : Smartphone app-based Intervention — Use LiFT A app
-: Smartphone app-based Intervention — Use LiFT B app
-: Communication intervention — Receive LiFT A text messages
-: Communication intervention — Receive LiFT B text messages
-: Survey Administration — Complete surveys
-: Interview — Attend interview
-: Assessment — Complete usability assessment
-: Survey Administration — Complete survey
-Link: https://clinicaltrials.gov/study/NCT07571018
 
 SUMMARY:
 

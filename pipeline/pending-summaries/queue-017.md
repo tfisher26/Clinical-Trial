@@ -586,15 +586,6 @@ Link: https://clinicaltrials.gov/study/NCT05185492
 SUMMARY:
 
 
-## NCT07620015
-Cross-Cultural Adaptation and Psychometric Validation of the Turkish Version of the Ankle Fracture Outcome of Rehabilitation Measure (A-FORM-TR): A Multi-Centre Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07620015
-
-SUMMARY:
-
-
 ## NCT06786663
 Feasibility Study for the Generation of Organoids From Male Breast Tumors
 

@@ -342,16 +342,6 @@ Link: https://clinicaltrials.gov/study/NCT06443515
 SUMMARY:
 
 
-## NCT05172752
-A University-Community Partnership to Reduce Exposure to Disinfection Byproducts In Appalachia
-
-Intervention: : Citizen Scientist Training Program — Citizen Scientist Training Program Participants is a three year training and in-home sampling program for disinfection byproducts. Participants will be trained and assessed based on their experience in the training program.
-: Stakeholder Consultation Core Program — Stakeholder Consultation Core Program Participants is a five year assessments where participants will participate in quarterly meetings and deliberative activities related to disinfection byproducts. Participants will be assessed based on their experience in the program.
-Link: https://clinicaltrials.gov/study/NCT05172752
-
-SUMMARY:
-
-
 ## NCT06471504
 Use of Eye Tracking to Aid in Autism Risk Detection
 
@@ -2093,16 +2083,6 @@ Brain Stimulation Effects on Cognitive Task Performance
 
 Intervention: : Transcranial Magnetic Stimulation — Transcranial Magnetic Stimulation (TMS) is a noninvasive method for stimulating neurons (axons not cell bodies) in the brain.
 Link: https://clinicaltrials.gov/study/NCT05556655
-
-SUMMARY:
-
-
-## NCT06032104
-Feasibility of Pulses Supplementation in Healthy Adults: A Feeding Study
-
-Intervention: : Dry beans — 0.5 cup of Bush's Best Cannellini Beans, three times per day before meals blended into a smoothie. If interested and depending on tolerance, participants will also have the opportunity to gradually increase the bean smoothie to a maximum of 1 cup three times per day before meals during the last week of the two-week bean smoothie intervention. If patient cannot not tolerate 1.5 cup of canned cannellini bean, we will reduce per tolerance or offer the option of choosing a bean-based flour (100 gram/day, 23% fiber from Archer Daniels Midland)
-: Usual diet — Usual diet without adding the bean smoothie
-Link: https://clinicaltrials.gov/study/NCT06032104
 
 SUMMARY:
 

@@ -87,15 +87,6 @@ Link: https://clinicaltrials.gov/study/NCT07606339
 SUMMARY:
 
 
-## NCT06685094
-Cross-cultural Adaptation, Translation and Validation of the Assessment Scales of the Upper and Lower Limbs, Pain, Autonomy, Depression, Anxiety and Quality of Life for Use in the Albanian-speaking Population
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06685094
-
-SUMMARY:
-
-
 ## NCT05729932
 Cannabis Modulation of Outcomes Related to Opioid Use Disorder: Opioid Withdrawal, Abuse Potential and Safety
 
@@ -1490,15 +1481,6 @@ Application of [68Ga]Ga-NI-FAPI-04 PET/CT Imaging in Fibroblast Activation Prote
 
 Intervention: : Injection of 68Ga-NI-FAPI — Subjects were injected with 68Ga-NI-FAPI at 0.4-0.5mci/kg body weight
 Link: https://clinicaltrials.gov/study/NCT07464132
-
-SUMMARY:
-
-
-## NCT06540521
-Intracardiac Electrical Characteristics of LBBAP
-
-Intervention: : No intervention — No intervention
-Link: https://clinicaltrials.gov/study/NCT06540521
 
 SUMMARY:
 

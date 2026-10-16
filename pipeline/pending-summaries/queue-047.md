@@ -47,16 +47,6 @@ Link: https://clinicaltrials.gov/study/NCT06749964
 
 SUMMARY:
 
-## NCT06750289
-BRISOTE: A Multicentre, Randomised, Double-Blind, Parallel Group, Active-Controlled, Phase 3b Study to Evaluate the Efficacy and Safety of Benralizumab 30 mg SC in Eosinophilic Asthma Patients Uncontrolled on Medium-Dose Inhaled Corticosteroid Plus Long-acting β2-Agonist.
-
-Intervention: : ICS-LABA — ICS-LABA inhalation
-: benralizumab — Benralizumab. SC injection.
-: Placebo for Benralizumab — Placebo for Benralizumab (aka, "placebo"). SC injection.
-Link: https://clinicaltrials.gov/study/NCT06750289
-
-SUMMARY:
-
 ## NCT06750510
 Digital Universal Parenting Program for Positive Parenting Behaviors
 
@@ -849,15 +839,6 @@ Pharmacogenomics of Selective Serotonin Reuptake Inhibitor (SSRI)-Induced Behavi
 
 Intervention: : Not applicable- observational study — It's an observational study. Participants are not assigned an intervention as part of the study.
 Link: https://clinicaltrials.gov/study/NCT06763081
-
-SUMMARY:
-
-## NCT06763562
-The Impact of Different Food Orders on Blood Glucose and Fuel Use At Rest
-
-Intervention: : Carbohydrate-first meal — Rice eaten first (150 grams), followed by edamame (150 grams) and butter (10 grams)
-: Carbohydrate-last meal — Edamame (150 grams) and butter (10 grams) eaten first, followed by rice (150 grams)
-Link: https://clinicaltrials.gov/study/NCT06763562
 
 SUMMARY:
 
@@ -3350,14 +3331,6 @@ Intervention: : Implant Procedure — The SetPoint System (study device)contains
 : Active stimulation — Active stimulation for 1 minute once per day
 : Non-active stimulation — Non-active stimulation for 1 minute once per day
 Link: https://clinicaltrials.gov/study/NCT06796504
-
-SUMMARY:
-
-## NCT06796569
-Association of Systemic Immune Inflammatory Index with Disease Activity and Lupus Nephritis in Patients with Systemic Lupus Erythematosus
-
-Intervention: : systemic immune inflammatory index — Systemic immune inflammatory index (SII) is a combination of three hematological parameters (platelets, neutrophils, and lymphocytes) and it is calculated using the following formula: SII = (neutrophil count × platelet count)/lymphocyte count.
-Link: https://clinicaltrials.gov/study/NCT06796569
 
 SUMMARY:
 

@@ -6575,29 +6575,6 @@ Link: https://clinicaltrials.gov/study/NCT07135791
 SUMMARY:
 
 
-## NCT05703126
-Clinical and Diagnostic Significance of Endothelial Dysfunction and Myocardial Contractility in Patients With Acute Myeloid Leukemia
-
-Intervention: : History taking — Careful history taking, including using questionnaires, to identify risk factors for the development of cardiovascular diseases using the SCORE scale.
-: Anthropometry — Anthropometry: measurement of body weight and height. Calculation of body surface area using the Du Bois formula.
-: Complete blood count — Before and after each course of chemotherapy: Complete blood count with counting the number of erythrocytes, leukocytes, leukocyte formula, platelets, erythrocyte sedimentation rate.
-: Biochemical blood test — Before and after each course of chemotherapy: Biochemical blood test with the determination of the amount of total protein, total cholesterol, HDL cholesterol, LDL cholesterol, triglycerides, creatinine, urea, AlAT, AsAT, LDH, glucose, C-reactive protein, troponin T, proBNP.
-: Coagulogram — Before and after each course of chemotherapy: Coagulogram parameters (fibrinogen, APTT, INR).
-: Immunoenzymatic analysis of the level of endothelin-1, asymmetric dimethylarginine — Before the start of the treatment and after each course of chemotherapy: Immunoenzymatic analysis of the level of endothelin-1, asymmetric dimethylarginine.
-: Stress echocardiography with the definition of global longitudinal deformation of the myocardium — Before the start of the treatment and after each course of chemotherapy: Stress echocardiography with the definition of global longitudinal deformation of the myocardium.
-: Triplex scanning of neck vessels — Before the start of the treatment and after each course of chemotherapy: Triplex scanning of neck vessels.
-: Electrocardiography — Before and after each course of chemotherapy: Electrocardiography.
-: Ultrasound of the abdominal cavity (with calculation of the area of the spleen) and lymph nodes — Before the start of the treatment and after each course of chemotherapy: Ultrasound of the abdominal cavity (with calculation of the area of the spleen) and lymph nodes.
-: Cytogenetic examination of the bone marrow to determine genetic abnormalities. — Before the start of the treatment: Cytogenetic examination of the bone marrow to determine genetic abnormalities.
-: Cytological examination of bone marrow cells with cytochemical examination — Before the start of the treatment and after each course of chemotherapy: Cytological examination of bone marrow cells with cytochemical examination.
-: Immunophenotypic examination of the bone marrow by flow cytometry — Before the start of the treatment: Immunophenotypic examination of the bone marrow by flow cytometry.
-: Determination of the presence of a FLT3 mutation using the PCR Method — Before the start of the treatment: Determination of the presence of a FLT3 mutation using the PCR Method.
-: laser Doppler flowmetry — Before the start of the treatment and after each course of chemotherapy: Examination of microcirculation by laser Doppler flowmetry using the LAKK-OP apparatus (NPP Lazma, Moscow, 2011) with respiratory and occlusion tests.
-Link: https://clinicaltrials.gov/study/NCT05703126
-
-SUMMARY:
-
-
 ## NCT07242352
 Dynamic Marker - Adjusted Therapy Comparing Adjuvant Elacestrant With Standard Endocrine Treatment in Genomically and/or Clinically High-risk ER+/HER2- Early Breast Cancer (ADAPTela)
 

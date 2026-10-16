@@ -471,16 +471,6 @@ Link: https://clinicaltrials.gov/study/NCT06237803
 SUMMARY:
 
 
-## NCT07433998
-Study of the Effect of a Ginger-based Functional Beverage on Markers of Inflammation, Oxidative Stress, and Endothelial Damage.
-
-Intervention: : Functional beverage enriched with ginger — Functional drink enriched with ginger
-: Control beverage without ginger — Control beverage without ginger
-Link: https://clinicaltrials.gov/study/NCT07433998
-
-SUMMARY:
-
-
 ## NCT07765498
 A Single- and Multiple-Ascending Dose Study to Evaluate the Safety and Pharmacokinetics of LY4355756 in Healthy Participants
 

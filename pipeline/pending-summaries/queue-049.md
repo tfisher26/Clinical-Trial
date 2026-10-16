@@ -1967,14 +1967,6 @@ Link: https://clinicaltrials.gov/study/NCT07256704
 
 SUMMARY:
 
-## NCT07256743
-A Randomized, Double-Blind, Placebo-Controlled Study to Determine the Efficacy SALI-10 Oral Probiotics in Experimental Gingivitis
-
-Intervention: : 6B SALI-10 — Lozenges containing 6B CFUs of probiotic S. salivarius SALI-10
-Link: https://clinicaltrials.gov/study/NCT07256743
-
-SUMMARY:
-
 ## NCT07256769
 Synergic Role of Vitamin k, D-chiro Inositol and α-lactalbumin in Bone Homeostasis in Breast Cancer Patients Treated With Aromatase Inhibitors
 
@@ -12043,15 +12035,6 @@ Link: https://clinicaltrials.gov/study/NCT07399626
 
 SUMMARY:
 
-## NCT07399678
-A Phase 1b, Randomized, Double-Blind, Placebo-Controlled, Dose-Escalation Study Assessing Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of ALV-100 in Participants With Overweight or Obesity With or Without Type 2 Diabetes
-
-Intervention: : ALV-100 — Participants will receive multiple ascending doses of ALV-100.
-: Placebo — Participants will receive placebo matching ALV-100, volume-matched to active dose.
-Link: https://clinicaltrials.gov/study/NCT07399678
-
-SUMMARY:
-
 ## NCT07399730
 A Non-interventional Study Evaluating Ravulizumab Treatment Outcomes in Polish Patients With Atypical Hemolytic Uremic Syndrome
 
@@ -12892,14 +12875,6 @@ Intervention: : Frexalimab — Pharmaceutical form:Solution for injection-Route 
 : methylprednisolone — Pharmaceutical form:Solution for injection-Route of administration:IV
 : prednisone — Pharmaceutical form:Tablet-Route of administration:Oral
 Link: https://clinicaltrials.gov/study/NCT07412470
-
-SUMMARY:
-
-## NCT07412483
-A Controlled Human Infection Model of Dengue
-
-Intervention: : GMP-produced rDEN3delta30 virus — The challenge virus used in DEN-CHIM-01 study (rDEN3delta30) is produced by the National Institutes of Health (NIH). The rDEN3delta30 strain has been tested in seronegative participants in two challenge studies and with two inoculum doses: 10\^3 and 10\^4 PFU. The wildtype parent (wildtype DEN3 strain) of the rDEN3Δ30 challenge agent was originally obtained from an infected patient in 1978, in Sleman, Yogyakarta, Indonesia. The Sleman/78 strain was a naturally occurring, partially attenuated dengue virus (DENV) suitable for development as a challenge agent. The NIH team made a contiguous 30-nucleotide deletion in the 3' untranslated region of the wildtype DENV genome and produced recombinant DENV via cDNA clone (rDEN3delta30).
-Link: https://clinicaltrials.gov/study/NCT07412483
 
 SUMMARY:
 

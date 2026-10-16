@@ -1582,15 +1582,6 @@ Link: https://clinicaltrials.gov/study/NCT06104371
 
 SUMMARY:
 
-## NCT07399678
-A Phase 1b, Randomized, Double-Blind, Placebo-Controlled, Dose-Escalation Study Assessing Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of ALV-100 in Participants With Overweight or Obesity With or Without Type 2 Diabetes
-
-Intervention: : ALV-100 — Participants will receive multiple ascending doses of ALV-100.
-: Placebo — Participants will receive placebo matching ALV-100, volume-matched to active dose.
-Link: https://clinicaltrials.gov/study/NCT07399678
-
-SUMMARY:
-
 ## NCT05974774
 Intermittent Androgen Deprivation Therapy in the Era of AR Pathway Inhibitors; a Phase 3 Pragmatic Randomized Trial.
 
@@ -1643,14 +1634,6 @@ Intervention: : Sacituzumab Govitecan (SG)+Toripalimab — Sacituzumab govitecan
 
 Toripalimab: 240mg, administered by intravenous infusion on day 1.
 Link: https://clinicaltrials.gov/study/NCT06991790
-
-SUMMARY:
-
-## NCT04510129
-Predicting Immunotherapy Efficacy from Analysis of Pre-treatment Tumor Biopsies
-
-Intervention: : OncoPrism™ assay — OncoPrism™ is a new approach to characterizing the immune component of pre-treatment tumor tissue.
-Link: https://clinicaltrials.gov/study/NCT04510129
 
 SUMMARY:
 
@@ -5374,16 +5357,6 @@ Link: https://clinicaltrials.gov/study/NCT04838171
 
 SUMMARY:
 
-## NCT04841148
-A Phase II Trial of Avelumab or Hydroxychloroquine With or Without Palbociclib to Eliminate Dormant Breast Cancer (PALAVY)
-
-Intervention: : HCQ — 600 mg tablets twice daily D1-28 of each 28-day cycle
-: Avelumab — 10 mg/kg, IV, D1 and D15 of each 28-day cycle
-: Palbociclib — 125 mg capsule daily, by mouth on D1-21 concurrently with Avelumab. Or 75 mg capsule daily, by mouth on D1-28 concurrently with HCQ.
-Link: https://clinicaltrials.gov/study/NCT04841148
-
-SUMMARY: Breast cancer cells can lie dormant in the body after treatment and cause the cancer to return years later. This study tests avelumab or hydroxychloroquine, with or without palbociclib, to try to eliminate these dormant cells.
-
 ## NCT04843683
 StereoTactic Ablative RadioTherapy of Cardiac Arrhythmias (START-CA): a Phase II Trial of Non-Invasive Treatment of Medically Refractory Patients
 
@@ -8874,14 +8847,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05068531
 
 SUMMARY:
-
-## NCT05070845
-AN INTERVENTIONAL PHASE 2, OPEN-LABEL, MULTI-CENTER STUDY TO EVALUATE SAFETY AND EFFICACY OF PF-06835375 IN ADULT PARTICIPANTS WITH MODERATE TO SEVERE PRIMARY IMMUNE THROMBOCYTOPENIA
-
-Intervention: : PF-06835375 — CXCR5 inhibitor
-Link: https://clinicaltrials.gov/study/NCT05070845
-
-SUMMARY: Primary immune thrombocytopenia is when the immune system destroys platelets, raising bleeding risk. This study tests an experimental drug, PF-06835375, in adults with moderate to severe disease.
 
 ## NCT05071937
 Phase ll Study of a BET Inhibitor, ZEN003694, Combined With a PARP Inhibitor, Talazoparib, in Patients With Recurrent Ovarian Cancer

@@ -1233,18 +1233,6 @@ Link: https://clinicaltrials.gov/study/NCT05388643
 SUMMARY:
 
 
-## NCT04508088
-Skeletal Health and Bone Marrow Composition in Newly Diagnosed Adolescents With Crohn Disease
-
-Intervention: : Coronal T1 weighted spin echo images — Coronal T1 weighted spin echo images will be obtained through the knee with a field of view of 16cm to include distal femoral and proximal tibial metaphyses.
-: Spin-lattice relaxation (T1) — Spin-lattice relaxation (T1) relaxometry acquisition consisting of seven fast spin echo (FSE) acquisitions through the knee. T1 maps from the T1 relaxometry images will be generated using a two-parameter-fit iterative algorithm developed in-house using IDL software (Harris Geospatial Solutions, Melbourne, FL, USA). Mean T1 values for each region will be recorded. The anatomical locations of these regions will be consistent in size for all subjects and location. The locations chosen for the primary endpoints are ones that are known to be rich in red and yellow marrow, respectively.
-: Magnetic resonance spectroscopy — Magnetic resonance spectroscopy. MRS will be performed within a 1 mL voxel situated in the medial aspect of the distal femoral metaphysis. A single voxel point resolved spectral acquisition (PRESS) technique will be used to acquire non-water suppressed spectra at echo times of 20, 30, 40, and 50 ms using 32 signal averages per echo time with a TR of 2.5 s (total scan time = 5.4 minutes). Spectral fits using JMRUI MRS processing software (www.jmrui.eu) to the water and methylene/methyl resonances will be used to quantify peak areas and establish T2 corrected fat/(fat + water) ratios.
-: Blood Draw — Blood draw. Blood draws will be used to attain and assess markers of bone formation/resorption and to perform immune studies. Specific markers of bone formation that will be assessed include osteocalcin (OC) and procollagen type 1 N-terminal propeptide (P1NP), and a marker of bone resorption, c-telopeptide (CTX). We will also evaluate molecular gene signatures from the blood samples that correlate with the previously described bone imaging phenotypes. At that point, the information will be used to develop a CyTOF panel to evaluate differences in immune cellular populations between CD patients with normal versus low BMD, and matched controls.
-Link: https://clinicaltrials.gov/study/NCT04508088
-
-SUMMARY:
-
-
 ## NCT05966961
 'All Comer'/'Real-world' Registry-based Randomized, Prospective, Multicenter Clinical Trial to Evaluate the Incidence of Complications Using Novosyn® CHD Suture Versus Polyglactin 910 Suture to Close the Wound After Emergency or Elective Laparotomy or Laparoscopic Surgery
 
@@ -5306,17 +5294,6 @@ Link: https://clinicaltrials.gov/study/NCT07112820
 SUMMARY:
 
 
-## NCT05523505
-Bridging the Gap Between Brain Network Science and High-definition Non-invasive Brain Stimulation to Develop a Scalable Adult Literacy Intervention
-
-Intervention: : Sham intervention — Use of the non-invasive brain stimulation device to simulate peripheral experience of stimulation without actually stimulating the brain.
-: RLN real non-invasive brain stimulation intervention — Real non-invasive brain stimulation to the left angular gyrus using transcranial alternating current stimulation (tACS).
-: RLN and CCN real non-invasive brain stimulation intervention — Real non-invasive brain stimulation to the left dorsolateral prefrontal cortex and left angular gyrus using transcranial alternating current stimulation (tACS).
-Link: https://clinicaltrials.gov/study/NCT05523505
-
-SUMMARY:
-
-
 ## NCT05596539
 Prospective, Longitudinal, Observational Registry of Adult Patients With Hypophosphatasia
 
@@ -7664,15 +7641,6 @@ Analysis of Urinary Methylation Patterns Via Liquid Biopsy as a Tool for Early D
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06878027
-
-SUMMARY:
-
-
-## NCT07120867
-Impact of Pleural Manometry on the Assessment and Treatment of Malignant Pleural Effusion: A Pilot Clinical Trial
-
-Intervention: : Pleural manometry — Pleural manometry will be performed during the first thoracentesis using a water column connected to the pleural drainage system. Pleural pressure will be measured at baseline and at intervals during fluid removal to evaluate lung expandability. The water column manometer allows estimation of pressure changes in real time. Based on the pressure curve and indicators of non-expandable lung (such as early pressure drop, plateauing, or sustained negative pressures), the treatment plan will be adapted. If adequate lung re-expansion is observed, pleurodesis will be considered. If the pressure pattern suggests a non-expandable lung, pleurodesis will be avoided due to the high risk of failure, and a tunneled pleural catheter will be recommended instead.
-Link: https://clinicaltrials.gov/study/NCT07120867
 
 SUMMARY:
 

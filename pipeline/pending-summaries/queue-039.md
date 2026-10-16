@@ -1547,15 +1547,6 @@ Link: https://clinicaltrials.gov/study/NCT07543692
 SUMMARY:
 
 
-## NCT07696364
-Protocol Title Evaluation of the Anti-septic Effect of a Chlorhexidine (CHX) Mouthwash With or Without an Anti-Discoloration System (ADS) Compared to Placebo, During Experimental Gingivitis
-
-Intervention: : Experimental gingivitis model — Participants will abolish all measures for mechanical plaque control for a period of 3 weeks according to the experimental gingivitis model.
-Link: https://clinicaltrials.gov/study/NCT07696364
-
-SUMMARY:
-
-
 ## NCT06242119
 Clinical Use of a J-PET Scanner Prototype Made of Plastic Scintilators
 
@@ -3027,15 +3018,6 @@ Evaluation of the Frequency of Retinopathy of Prematurity, Influencing Risk Fact
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06265363
-
-SUMMARY:
-
-
-## NCT07553663
-A Phase 1b, Open-Label Study Evaluating the Pharmacokinetics and Safety of Miricorilant in Adult Patients With Presumed Metabolic Dysfunction-Associated Steatohepatitis (MASH)
-
-Intervention: : Miricorilant — Single dose of 60 mg miricorilant
-Link: https://clinicaltrials.gov/study/NCT07553663
 
 SUMMARY:
 

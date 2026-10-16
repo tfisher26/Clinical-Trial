@@ -1032,15 +1032,6 @@ Link: https://clinicaltrials.gov/study/NCT07329985
 SUMMARY:
 
 
-## NCT04751448
-COLON MD: Colon Cancer Longitudinal Study of the Microbial Metabolites and Dietary Factors That Influence Response to Treatment
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04751448
-
-SUMMARY:
-
-
 ## NCT07570147
 A First in Human, Single Ascending Dose Study of ABBV-1451 to Evaluate the Pharmacokinetics, Immunogenicity, Safety, and Tolerability in Healthy Subjects and in Japanese and Han Chinese Healthy Subjects
 

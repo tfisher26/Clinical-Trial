@@ -2812,15 +2812,6 @@ Link: https://clinicaltrials.gov/study/NCT05895409
 SUMMARY:
 
 
-## NCT04509050
-A Prospective Study to Evaluate Biological and Clinical Effects of Significantly Corrected CFTR Function in Infants and Young Children (BEGIN Study)
-
-Intervention: : Ivacaftor or elexacaftor/tezacaftor/ivacaftor — In Part B, approved CFTR modulator as prescribed at the discretion of the treating physician -not dictated by the BEGIN investigators
-Link: https://clinicaltrials.gov/study/NCT04509050
-
-SUMMARY:
-
-
 ## NCT05047510
 An Evaluation Study of GPC3 Targeted Fluorescence Imaging to Guide the Surgery of Hepatocellular Carcinoma
 

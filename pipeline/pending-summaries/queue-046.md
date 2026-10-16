@@ -1762,15 +1762,6 @@ Link: https://clinicaltrials.gov/study/NCT06498154
 
 SUMMARY: Some breast cancers disappear completely after chemotherapy and radiation given before surgery. This study tests whether women with triple negative or HER2 positive breast cancer who have a complete response can safely skip breast surgery.
 
-## NCT06498479
-ARTEMIS-008：A Multicenter, Randomized, Open-label, Phase 3 Study of HS-20093 Compared With Topotecan in Subjects With Relapsed Small Cell Lung Cancer After Platinum-based First-line Chemotherapy
-
-Intervention: : HS-20093 — HS-20093 will be administered as an IV infusion at dose of 8.0 mg/kg on Day 1 of each 21-day cycle.
-: Topotecan — Topotecan will be administered per drug label.
-Link: https://clinicaltrials.gov/study/NCT06498479
-
-SUMMARY: Small cell lung cancer that returns after platinum chemotherapy has few good options. This study compares HS-20093, an antibody that delivers chemotherapy to cancer cells, with the standard chemotherapy topotecan.
-
 ## NCT06498622
 Adjuvant Treatment of Patients With High Risk of Recurrent Hepatocellular Carcinoma After Radical Surgery With Donafenib in Combination With Envafolimab: a Prospective, Multicentre, Single-arm Phase II Clinical Study
 
@@ -4380,15 +4371,6 @@ Link: https://clinicaltrials.gov/study/NCT06548360
 
 SUMMARY: Vitiligo causes patches of skin to lose their color. This study tests ruxolitinib cream, applied twice daily, against a plain cream in children with vitiligo to see whether it restores skin color.
 
-## NCT06548646
-Ultrasound-guided Thoracic Interfascial Plane Nerve Block Versus Erector Spinae Plane Block for Postoperative Pain Control in Patients Undergoing Modified Radical Mastectomy
-
-Intervention: : Thoracic Interfascial Plane Block — The Thoracic Interfascial Plane Block (TIPB) is a regional anesthesia technique used to manage postoperative pain, particularly in thoracic and breast surgeries. This block involves the injection of a local anesthetic into the fascial plane between the thoracic muscles, targeting the nerves that supply the chest wall and upper abdominal area. It includes Pecto-Intercostal Fascial Plane Block (PIFB) and Serratus Intercostal Fascial Plane Block (SIFB).
-: Erector Spinae Plane Block — The Erector Spinae Plane Block (ESPB) is a regional anesthesia technique used to manage pain, particularly in thoracic and abdominal surgeries. This block involves the injection of a local anesthetic into the plane between the erector spinae muscle and the transverse processes of the vertebrae.
-Link: https://clinicaltrials.gov/study/NCT06548646
-
-SUMMARY: Breast removal surgery can cause significant pain afterward. This study compares two ultrasound guided nerve blocks to see which better controls pain after mastectomy.
-
 ## NCT06548711
 Director of Oncology Department, First Teaching Hospital of Tianjin University of Traditional Chinese Medicine
 
@@ -6366,16 +6348,6 @@ Link: https://clinicaltrials.gov/study/NCT06586723
 
 SUMMARY:
 
-## NCT06586840
-The Effect of Adding an IPACK Block to the Adductor Canal Block on Postoperative Pain and Hospital Stay in Patients Undergoing Total Knee Arthroplasty Surgery
-
-Intervention: : rescue analgesia — . If NRS is 4 or higher in the postoperative recovery room, 100 mg of intravenous tramadol will be administered as rescue analgesia
-: Adductor Canal Block — For Group I, after patients are placed in the supine position, a linear ultrasound probe (13-6 MHz) will be used to identify the superficial femoral artery in the short axis, lateral to the Sartorius muscle, and anterior to the adductor magnus muscle in the adductor canal. A 22-gauge × 100 mm needle (Braun® Stimuplex) will be inserted in-plane laterally to medially under sterile conditions, and 20 mL of 0.5% bupivacaine will be injected after negative aspiration.
-: Adding an IPACK Block to the Adductor Canal Block — For Group II, 20 mL of 0.25% bupivacaine will be injected into the Adductor Canal after spinal anesthesia. With the knee flexed, a convex probe (3.5-6 MHz) will be placed in the popliteal region to identify the popliteal artery in the short axis. The ultrasound probe will be moved distally after the common peroneal and tibial nerves are identified. The probe will be gradually moved towards the popliteal fossa until the popliteal vessels are identified superficially. The ultrasound probe will be moved to the level where the femoral condyles merge with the femoral shaft. The popliteal artery, tibial and peroneal nerves will be visualized to identify the space between the femur and the popliteal artery. In the area known as iPACK, a 22-gauge × 100 mm needle (Braun® Stimuplex) will be inserted in-plane laterally to medially, and 20 mL of 0.25% bupivacaine will be injected after negative aspiration.
-Link: https://clinicaltrials.gov/study/NCT06586840
-
-SUMMARY: Knee replacement surgery causes significant pain that can slow recovery. This study tests adding an IPACK nerve block to the standard adductor canal block to see whether it improves pain control and shortens hospital stay.
-
 ## NCT06586957
 A Phase 1, First-in-human, Open-label Study to Evaluate the Safety, Tolerability, PK, and Preliminary Anti-tumor Activity of the Novel Oral CDK2 Degrader NKT3964 in Adults With Advanced/Metastatic Solid Tumors
 
@@ -6745,18 +6717,6 @@ A Retrospective Study on the Hepatic Safety of Statin Use in Neurology Inpatient
 
 Intervention: : stain — This research was conducted in two phases. Initially, a cross-sectional study was performed to assess the correlation between statin usage prior to hospital admission and the initial state of liver enzymes among patients. Subsequently, a retrospective cohort study was undertaken, wherein patients who had not been on statins prior to admission were categorized into two groups based on their statin usage post-admission.
 Link: https://clinicaltrials.gov/study/NCT06592196
-
-SUMMARY:
-
-## NCT06592261
-Human Models of Selective Insulin Resistance: Graded Insulin Suppression Test (GIST) Pilot & Feasibility Study
-
-Intervention: : Insulin regular, 2.0-3.2 mU/m2/min (euinsulinemia) — Insulin infusion to recapitulate euinsulinemia (normal basal insulin)
-: Insulin regular, 32 mU/m2/min (hyperinsulinemia) — Insulin infusion to induce hyperinsulinemia for assessment of insulin sensitivity
-: Octreotide Acetate, 6-45 ng/kg/min — Suppression of endogenous insulin secretion
-: Dextrose 20 % in Water — Production of steady-state plasma glucose (SSPG) reflective of insulin sensitivity at hyperinsulinemia
-: Glucagon, 0-0.5 ng/kg/min — Replacement of endogenous glucagon suppressed by octreotide. (Use is optional at the PI's discretion.)
-Link: https://clinicaltrials.gov/study/NCT06592261
 
 SUMMARY:
 

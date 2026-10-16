@@ -2764,17 +2764,6 @@ Link: https://clinicaltrials.gov/study/NCT05615259
 
 SUMMARY:
 
-## NCT05615389
-A Pilot Study of Medicinal Cannabis in Paediatric Patients Undergoing Palliative Care for Non-oncological Conditions
-
-Intervention: : Medicinal Cannabis - C12T12 — Participants randomised to receive C12T12 Ruby Balanced Oil will commence with 0.008ml/kg/day (0.1 mg/kg/day THC) in two divided doses, and titrate up in four steps (increase by 0.008ml/kg/day every four days) over 16 days up to a maintenance dose of 0.04ml/kg/day (0.5mg/kg/day THC) in two divided doses, with a ceiling dose of 2ml/day (25mg/day THC) for participants weighing 50kg or more. The maintenance dose will then be continued from day 17 until day 42.
-
-Down-titration will occur for 16 days after the end of study visit, in the reverse of the up-titration period.
-: Medicinal Cannabis - C20T5 — Participants randomised to the C20T5 Ruby CBD Oil will receive a matched volume to the C12T12 arm during the up-titration, maintenance, and down-titration phases.
-Link: https://clinicaltrials.gov/study/NCT05615389
-
-SUMMARY: Children receiving palliative care for serious non cancer conditions often have hard to control symptoms. This pilot study tests medicinal cannabis in these children.
-
 ## NCT05615610
 A Randomized Controlled Clinical Trial of Transcutaneous Electrical Nerve Stimulation on Cognitive Function and Upper Limb Motor Function in People With Chronic Stroke
 
@@ -6916,14 +6905,6 @@ Intervention: : PBM — PBM, is a low intensity red light at wavelength of 650nm
 Link: https://clinicaltrials.gov/study/NCT05756959
 
 SUMMARY: Myopia, or nearsightedness, often gets worse in childhood. This study tests low level red light therapy combined with myopic defocus glasses lenses.
-
-## NCT05758337
-Clinical and Functional Rationalization of the Use of Vibropneumostimulation in the Rehabilitation System of Patients After Dental Implantation
-
-Intervention: : Vibropneumostimulation — New vibrators and techniques of vibropneumostimulation of periimplant tissues have been developed, which will allow us to develop a new concept of the relationship of bone remodulation processes around implants of various designs.
-Link: https://clinicaltrials.gov/study/NCT05758337
-
-SUMMARY: Recovery after dental implant surgery can be uncomfortable. This study tests vibropneumostimulation as part of rehabilitation after dental implantation.
 
 ## NCT05758987
 Evaluation of Blended CBT for PTSD in Regular Care: A New Format of Computer-Assisted Trauma-Focused Cognitive Behavioral Therapy: A Randomized Controlled Non-inferiority Trial
@@ -16513,15 +16494,6 @@ Saliva collection for the extraction of the constitutional DNA. An interview usi
 Link: https://clinicaltrials.gov/study/NCT06046131
 
 SUMMARY:
-
-## NCT06046248
-Phase II Trial of Belumosudil and Rituximab for the Primary Treatment of Extensive Chronic Graft-versus-host Disease
-
-Intervention: : Belumosudil — 200mg PO QD x 24 cycles (28-day cycle)
-: Rituximab — 375mg/m2 IV Q1 week x 4 weeks, then Q3 months x4 doses
-Link: https://clinicaltrials.gov/study/NCT06046248
-
-SUMMARY: Extensive chronic graft versus host disease can follow a donor stem cell transplant. This study tests belumosudil and rituximab as the first treatment.
 
 ## NCT06046365
 Early Diagnosis of Breast Cancer-related Lymphedema

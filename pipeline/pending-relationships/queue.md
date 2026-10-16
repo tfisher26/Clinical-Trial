@@ -102711,3 +102711,16 @@ Key
 
 RELATIONSHIP:
 
+## NCT06220773
+A Randomized, Double-blind, Multi-center, Phase 3 Study to Evaluate the Efficacy and Safety of BR1019A and BR1019B Combination Therapy in Patients With Essential Hypertension and Type 2 Diabetes Mellitus
+Conditions: cardiovascular/essential_hypertension, metabolic/diabetes_mellitus_type_2
+
+Inclusion criteria:
+"""
+* Those with type 2 diabetes mellitus \& essential hypertension
+* Those who agree to discontinue existing antihypertensive and/or oral hypoglycemic drugs during the clinical trial
+* Those who are judged medically reasonable by investigator to be able to discontinue existing antihypertensive and/or oral hypoglycemic drugs(except for Metformin) during the clinical trial
+"""
+
+RELATIONSHIP:
+

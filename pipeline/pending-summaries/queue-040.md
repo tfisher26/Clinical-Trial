@@ -3183,15 +3183,6 @@ Link: https://clinicaltrials.gov/study/NCT07586189
 SUMMARY:
 
 
-## NCT06250465
-AGMT Austrian CLL (Chronic Lymphocytic Leukemia) Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06250465
-
-SUMMARY:
-
-
 ## NCT04679740
 RMS (Resorbable Magnesium Scaffolds) Registry
 

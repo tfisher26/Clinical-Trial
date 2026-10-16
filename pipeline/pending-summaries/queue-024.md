@@ -427,16 +427,6 @@ Link: https://clinicaltrials.gov/study/NCT06382233
 SUMMARY:
 
 
-## NCT06826781
-Evaluating Q-Collar Effects on Cerebrovascular Control in Response to Exercise
-
-Intervention: : Q30 Q-Collar — Participants will complete a series of tests (sit-to-stand, resistive breathing, and graded bike test) while wearing a Q-Collar.
-: Not wearing Q-Collar — Participants will undergo the same study procedures without wearing the Q-Collar.
-Link: https://clinicaltrials.gov/study/NCT06826781
-
-SUMMARY:
-
-
 ## NCT07139938
 Multicenter Study of Spontaneous Correction of Sagittal Imbalance After Isolated Decompression Surgery Without Corrective Fusion Procedure for Lumbar Spinal Stenosis
 

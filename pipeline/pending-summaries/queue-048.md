@@ -4171,14 +4171,6 @@ Link: https://clinicaltrials.gov/study/NCT07057297
 
 SUMMARY:
 
-## NCT07057362
-Effect of Vitamin D Deficiency on the Frequency and Severity of Spinal Anesthesia-Induced Hypotension in Pregnant Women Undergoing Cesarean Section
-
-Intervention: : Intraoperative Hemodynamic Monitoring — Continuous intraoperative monitoring of systolic blood pressure and heart rate following spinal anesthesia. Vasopressor usage and total fluid administration will be recorded.
-Link: https://clinicaltrials.gov/study/NCT07057362
-
-SUMMARY:
-
 ## NCT07057427
 Comparing the Efficacy of Nab-PHP and TCbHP in Neoadjuvant Therapy for HER2-positive Early Breast Cancer, A Multicenter, Randomized, Phase III Clinical Trial
 
@@ -8259,14 +8251,6 @@ Dispensing of Antibiotics in Pharmacies for Cystitis According to a Delegation P
 Intervention: : Share making decision tool — the experimental group will apply the delegation protocol, but if the protocol recommends antibiotic therapy, the researchers will propose a shared decision using a specific tool to determine with the patient whether to deliver the antibiotic
 : Delegation protocol — the control group will apply the delegation protocol alone
 Link: https://clinicaltrials.gov/study/NCT07118748
-
-SUMMARY:
-
-## NCT07118904
-The Effect of Acute Dehydration on Sleep Quality, Cognitive Skills, and Electromyographic Responses During Maximum Contraction in Combat Athletes
-
-Intervention: : Rapid weight loss through dehydration — Dehydration will be induced by exposing athletes to sauna heat with an average temperature of 70-80°C. The participants will undergo consecutive 15 minute sessions in sauna with 5 minute breaks until 3% weight loss is achieved. No liquids or food will be consumed between sessions.
-Link: https://clinicaltrials.gov/study/NCT07118904
 
 SUMMARY:
 
@@ -13992,15 +13976,6 @@ Link: https://clinicaltrials.gov/study/NCT07191288
 
 SUMMARY:
 
-## NCT07191444
-Efficacy and Safety of Firsekibart Versus Anakinra in Adult-Onset Still's Disease
-
-Intervention: : Firsekibart — Firsekibart will be administered according to the protocol
-: Anakinra — Anakinra will be administered according to the protocol
-Link: https://clinicaltrials.gov/study/NCT07191444
-
-SUMMARY:
-
 ## NCT07191457
 In Vivo Testing: A Two-Arm, Randomized, Controlled, Investigator/Assessor-Blinded, Comparative Study to Evaluate the Safety and Efficacy of a Head Lice Physically Acting Product: ELIMAX GREEN LOTION EMOGREEN (X92001752) vs Walgreens Lice Killing Shampoo (Piperonyl Butoxide (4%),Pyrethrum Extract (Equivalent to 0.33% Pyrethrins)) in Subjects With Head Lice.
 
@@ -17397,14 +17372,6 @@ Strength and Pain-Coping Through Resilience and Knowledge
 
 Intervention: : SPARK — The SPARK program is person directed and will consist of 8 nurse visits during which the nurse assesses each participant for pain, depression and frailty and then implements a manualized individually tailored intervention. Participants will be randomized into either the intervention or the wait list control group. Once the intervention group has completed the intervention group's visits, the wait list control group will begin the waitlist control group's visits. All participants will all be offered the same information and format of nurse visits. The nurses will systematically tailor the content of the visits to the participants' risk profile and goals based on protocols. All participants will be assessed at the start of the study, at 12 weeks and 24 weeks.
 Link: https://clinicaltrials.gov/study/NCT07228520
-
-SUMMARY:
-
-## NCT07228598
-Biofilm Formation on Thoracic Drains: Clinical Significance and Association With Antibiotic Resistance
-
-Intervention: : Chest Drain Tip Sampling — No active intervention; routine chest drain removal followed by microbiological and biofilm analysis of drain tip samples.
-Link: https://clinicaltrials.gov/study/NCT07228598
 
 SUMMARY:
 

@@ -1361,15 +1361,6 @@ Link: https://clinicaltrials.gov/study/NCT07584291
 SUMMARY:
 
 
-## NCT05991440
-Racial and Socioeconomic Differences in Chronic Low Back Pain
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05991440
-
-SUMMARY:
-
-
 ## NCT05229432
 Pilot Assessment to Find Evidence of Gastric Motility Abnormalities in Eosinophilic Gastric Disorders
 

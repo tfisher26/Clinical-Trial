@@ -5091,15 +5091,6 @@ Link: https://clinicaltrials.gov/study/NCT07822100
 SUMMARY:
 
 
-## NCT05851989
-Study on Prognosis of Acutely Ruptured Intracranial Aneurysms
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05851989
-
-SUMMARY:
-
-
 ## NCT06539104
 Scanning the Meiotic Spindle in Assisted Reproductive Techniques to Assess Oocyte Quality and Embryo Ploidy Evaluated by Artificial Intelligence (SMARTAI Study)
 

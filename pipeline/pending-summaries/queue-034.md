@@ -3591,19 +3591,6 @@ Link: https://clinicaltrials.gov/study/NCT06899048
 SUMMARY:
 
 
-## NCT06542835
-Community Partnership for Telehealth Solutions to Counter Misinformation and Achieve Equity
-
-Intervention: : Video text message — Video text messages tailored to the Latinx population to educate and motivate patients to complete CRC screening.
-: In-clinic CRC screening promotion — Stool-test orders, colonoscopy referrals.
-: Mailed FIT — Mailed FIT kits.
-: Social needs navigation — Patient navigation to address social needs.
-: Reminders — Centralized text and/or telephone reminders for ordered tests.
-Link: https://clinicaltrials.gov/study/NCT06542835
-
-SUMMARY:
-
-
 ## NCT07111637
 Artificial Intelligence-Assisted Magnetic Resonance Imaging for Quality, Efficiency and Equity in the National Health Service (NHS) Care of Multiple Sclerosis
 

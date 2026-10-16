@@ -298,17 +298,6 @@ Link: https://clinicaltrials.gov/study/NCT07566390
 SUMMARY:
 
 
-## NCT07355790
-Evaluation of the Comfort Increase Provided by an Additional Foam Pad on a Lumbar Belt "Cellacare Lumbal Classic - Lohmann & Rauscher" and Its Biophysical Impact
-
-Intervention: : MRI — MRI in the evening without lumbar belt
-: MRI evening 2 — MRI in the evening after wearing the lumbar belt for one day
-: MRI evening 1 — MRI in the evening after wearing the lumbar belt with additional back insert for one day
-Link: https://clinicaltrials.gov/study/NCT07355790
-
-SUMMARY:
-
-
 ## NCT07356050
 Verifying Antibodies After Live Immunization Delivery (VALID): a Study of Measles Vaccine Immunogenicity in Children With Sickle Cell Disease
 

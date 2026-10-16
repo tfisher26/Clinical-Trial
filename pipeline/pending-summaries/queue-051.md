@@ -2301,15 +2301,6 @@ Link: https://clinicaltrials.gov/study/NCT07823335
 
 SUMMARY:
 
-## NCT07823400
-Comparison of the Effects of Minimally Invasive and Conventional Extracorporeal Circulation on Systemic Inflammation Indices in Coronary Artery Bypass Surgery
-
-Intervention: : Minimally Invasive Extracorporeal Circulation — Use of a minimally invasive extracorporeal circulation system during coronary artery bypass graft surgery as part of routine clinical care.
-: Conventional Cardiopulmonary Bypass — Use of conventional cardiopulmonary bypass during coronary artery bypass graft surgery as part of routine clinical care.
-Link: https://clinicaltrials.gov/study/NCT07823400
-
-SUMMARY:
-
 ## NCT07823842
 Real-World Efficacy and Safety of Biologics Targeting Type 2 Inflammation Across the Spectrum of Chronic Airway Diseases - A Prospective Observational Study in Asthma and COPD
 

@@ -240,15 +240,6 @@ Link: https://clinicaltrials.gov/study/NCT06251752
 SUMMARY:
 
 
-## NCT06388668
-Timing of Lipid Testing During Hospitalization for MI and Subsequent Management of Dyslipidemia An Observational Study to Reduce the Care Gaps in Dyslipidemia in Canada
-
-Intervention: : Lipid panel — Lipid panel measuring levels of LDL, non-HDL and apoB
-Link: https://clinicaltrials.gov/study/NCT06388668
-
-SUMMARY:
-
-
 ## NCT06781450
 Retrospective Observational Study in Patients With Relapsed / Refractory Primary Mediastinal Lymphoma Treated With Pembrolizumab or Nivolumab in Combination With Brentuximab Vedotin in a Real-life Context
 

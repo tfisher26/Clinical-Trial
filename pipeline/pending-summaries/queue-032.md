@@ -977,15 +977,6 @@ Link: https://clinicaltrials.gov/study/NCT06325618
 SUMMARY:
 
 
-## NCT04654364
-Lung Cancer Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04654364
-
-SUMMARY:
-
-
 ## NCT05368987
 Neuromodulation of the Fear Extinction Circuit Using Temporally and Anatomically Specific TMS in Humans
 
@@ -1629,15 +1620,6 @@ OPtimal stEnt Deployment stRategy oF Contemporary sTents
 
 Intervention: : PCI — percutaneous coronary intervention
 Link: https://clinicaltrials.gov/study/NCT05292651
-
-SUMMARY:
-
-
-## NCT04510025
-Assessing the Effects of Coronavirus Disease (COVID-19) on Multiple Organ Systems and Impact on Quality of Life, Functional Capacity and Mental Health
-
-Intervention: : Magnetic Resonance Imaging — We will undertake multi-organ MRI to assess the health of vital organs including the brain, heart, lung, kidneys and liver. We will additionally examine the burden of ongoing respiratory limitations, mental health problems and quality of life in survivors of COVID-19 at 3, 6 and 12 months.
-Link: https://clinicaltrials.gov/study/NCT04510025
 
 SUMMARY:
 
@@ -2888,15 +2870,6 @@ A Randomized, Double Blind, Placebo Controlled, Clinical Study to Examine the Be
 Intervention: : Placebo — Placebo
 : Dietary Supplement with actives — Dietary supplement containing EstroG-100 and GABA
 Link: https://clinicaltrials.gov/study/NCT07033013
-
-SUMMARY:
-
-
-## NCT05682924
-Condition Vasoregulation Function Endothelium in Patients With Chronic Myeloid Leukemia (CML) Getting Tyrosine Kinase Inhibitor (TKI) II Generation Bosutinib
-
-Intervention: : taking blood for the study of biochemical parameters and the study of microcirculation using the method of laser Doppler flowmetry — In the study, blood will be taken from patients with chronic myelogenous leukemia in the chronic phase to determine biochemical parameters (endothelin-1, homocysteine, VEGF (vascular endothelial growth factor)), as well as a study of microcirculation in these groups of patients using the method of laser Doppler flowmetry, to study the function of the endothelium.
-Link: https://clinicaltrials.gov/study/NCT05682924
 
 SUMMARY:
 
@@ -5619,15 +5592,6 @@ Improved Diagnosis of Ovarian Cancer
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05842629
-
-SUMMARY:
-
-
-## NCT07442266
-The Dynamics of Representational Change Underlying Recall
-
-Intervention: : Visual Memory Encoding and Retrieval Task During fMRI — Participants will study cue-stimulus associations and subsequently retrieve the associated stimuli while undergoing fMRI scanning. Retrieval will occur under two conditions: (1) repeated retrieval, in which stimuli are recalled five times, and (2) control retrieval, in which stimuli are recalled twice with timing matched to the repeated condition. Neural activity patterns during study and recall will be measured using BOLD fMRI.
-Link: https://clinicaltrials.gov/study/NCT07442266
 
 SUMMARY:
 

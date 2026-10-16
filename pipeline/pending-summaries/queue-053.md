@@ -4377,15 +4377,6 @@ Link: https://clinicaltrials.gov/study/NCT07854379
 
 SUMMARY:
 
-## NCT07854392
-A Phase IV, Prospective, Open-label, Parallel Time-cohort Study to Evaluate the Immune Responses and Safety ofSubunit Influenza Vaccine in Healthy Adults
-
-Intervention: : Group A — Participants will receive one dose of Subunit Influenza Vaccine
-: Group B — Participants will receive one dose of Subunit Influenza Vaccine
-Link: https://clinicaltrials.gov/study/NCT07854392
-
-SUMMARY:
-
 ## NCT07854431
 Influence of External Physiological and Behavioral Factors on Two-Dimensional Near-Infrared Spectroscopy-Based Imaging in Healthy Volunteers: A Controlled Experimental Study
 

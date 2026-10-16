@@ -1018,14 +1018,6 @@ Link: https://clinicaltrials.gov/study/NCT06097156
 
 SUMMARY:
 
-## NCT06097533
-Improvement of Quality of Life by Cannabinoids in Oncologic Patients (BEfindLichkeitsverbesserung Unter CANnabinoid-ExtrakTen Bei Onkologischen Patienten)
-
-Intervention: : Cannabisextrakt Avextra 10/10 Lösung — medical cannabinoids
-Link: https://clinicaltrials.gov/study/NCT06097533
-
-SUMMARY: People with cancer often have a poor sense of well-being. This study tests cannabinoid extracts to improve quality of life.
-
 ## NCT06098716
 All in the Family: Promoting Family Function Through Physical Activity
 
@@ -10978,14 +10970,6 @@ Intervention: : Questioning the patient during hygiene care — The study examin
 Link: https://clinicaltrials.gov/study/NCT06332495
 
 SUMMARY:
-
-## NCT06332534
-A Phase 3 Multicenter Study to Evaluate Efficacy, Safety, and Pharmacokinetics of Upadacitinib With Open-Label Induction, Randomized, Double-Blind Maintenance and Open-Label Long-Term Extension in Pediatric Subjects With Moderately to Severely Active Crohn's Disease and Inadequate Response, Intolerance, or Medical Contraindications to Corticosteroids, Immunosuppressants, and/or Biologic Therapy
-
-Intervention: : Upadacitinib — Oral Solution/ Extended-Release Tablets
-Link: https://clinicaltrials.gov/study/NCT06332534
-
-SUMMARY: Crohn's disease causes inflammation of the gut, and children with moderate to severe disease often need stronger treatments. This study tests upadacitinib, a daily pill that calms the immune system, in children whose disease did not respond well to other medicines.
 
 ## NCT06332807
 An Open-Label, Multiple-Center, Phase I/II Dose Escalation Study for the Safety and Efficacy of NGGT002 in Adults With Classic Phenylketonuria
