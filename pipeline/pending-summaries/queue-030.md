@@ -105,30 +105,12 @@ Link: https://clinicaltrials.gov/study/NCT05947422
 SUMMARY:
 
 
-## NCT07811687
-Effect of Laparoscopic Hepatectomy Combined With Splenectomy on Hepatic Functional Reserve and Immune Function in Patients With Hepatocellular Carcinoma and Cirrhotic Hypersplenism: A Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07811687
-
-SUMMARY:
-
-
 ## NCT07001761
 Ultrasonographic Evaluation of Osteoarthritis. A Comparative Study to Conventional Radiography in Patients With Painful Knee.
 
 Intervention: : Ultrasound/ x rays — * The MSK Ultrasound (US) will be performed using a General Electric LOGIQ P9 unit / Toshiba Applio 500 unit using a 7-13 MHz linear array transducer.
 * Conventional Radio-graphic examination bi-plane weight-bearing semi-flexed (15) radiograms will be taken of the target knee; one in the posteroanterior view, and one in the lateral medial view
 Link: https://clinicaltrials.gov/study/NCT07001761
-
-SUMMARY:
-
-
-## NCT07722637
-Evaluation of Ferroptosis-Related Biomarkers in Individuals With Coronary Artery Disease: The Impact of Cardiac Rehabilitation
-
-Intervention: : Cardiac Rehabilitation — A supervised, comprehensive cardiac rehabilitation program consisting of individualized aerobic and resistance exercise training, patient education, lifestyle modification, and cardiovascular risk factor management according to current clinical practice guidelines.
-Link: https://clinicaltrials.gov/study/NCT07722637
 
 SUMMARY:
 
@@ -288,15 +270,6 @@ Link: https://clinicaltrials.gov/study/NCT07595926
 SUMMARY:
 
 
-## NCT07829380
-The Cardiovascular-Cognitive Health Initiative
-
-Intervention: : Structured cognitive and cardiovascular interventions — The intervention arm (RCT R1 cohort) will receive a 24-week multi-component program combining cardiac rehabilitation instruction, cognitive stimulation via a hybrid hospital and home-based telehealth platform.
-Link: https://clinicaltrials.gov/study/NCT07829380
-
-SUMMARY:
-
-
 ## NCT07062562
 The Effect of Repeated Sessions of Whole-body Neuromuscular Electrical Stimulation (NMES), With or Without Subsequent Intake of a Protein Bolus, on Muscle Protein Synthesis in Healthy, Young Volunteers During 3 Days of Bed Rest
 
@@ -314,17 +287,6 @@ The Gut Microbiome and Serum Metabolites as a Biological Mechanism Underlying Pa
 
 Intervention: : no intervention, observational — This study is observational. No intervention description available.
 Link: https://clinicaltrials.gov/study/NCT06206486
-
-SUMMARY:
-
-
-## NCT07789639
-A Clinical Study to Evaluate the Interstitial Dermal Fluid, Efficacy and Sun Protection Factor (SPF) of Two Test Materials According to an Adaptation of the Guidelines of the FDA Over-the-Counter Monograph M020: Sunscreen Drug Products for Over-the-Counter Human Use
-
-Intervention: : Hybrid sunscreen — Hybrid D II SPF 30
-: Chemical sunscreen — Chemical SPF 30
-: No sunscreen — No SPF Placebo
-Link: https://clinicaltrials.gov/study/NCT07789639
 
 SUMMARY:
 
@@ -376,15 +338,6 @@ Link: https://clinicaltrials.gov/study/NCT06962527
 SUMMARY:
 
 
-## NCT07745218
-Preclinical Assessment of an Engineered HMGB1 Protein as a Novel Companion Therapy for Muscular Dystrophies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07745218
-
-SUMMARY:
-
-
 ## NCT06292897
 Integrating Tissue-based Spatial Information to Elucidate How Obesity-induced Tumour Metabolites Drive Prostate Cancer Progression
 
@@ -402,15 +355,6 @@ Intervention: : Laypersons — 1. Participants will be asked to draw a 5cm line.
 : Health-Care Providers — 1. Participants will be asked to draw a 5cm line.
 2. Participants will be asked to press a depth measuring device and resuscitation training manikin to depth of 5cm without and with assistance.
 Link: https://clinicaltrials.gov/study/NCT06552299
-
-SUMMARY:
-
-
-## NCT07744373
-Immunoregulatory Factors in Human Breast Milk: Relationship Between Regulatory T Cells (Tregs), miRNAs and Food Tolerance
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07744373
 
 SUMMARY:
 
@@ -610,15 +554,6 @@ Link: https://clinicaltrials.gov/study/NCT06345547
 SUMMARY:
 
 
-## NCT07795437
-Clinical Study of Glypican-3 (GPC3)-Targeted Novel Probe 18F-X12 for the Diagnosis of Hepatocellular Carcinoma (HCC)
-
-Intervention: : 18F-X12 PET/CT — Participants will receive a single intravenous injection of 18F-X12, and undergo PET/CT imaging approximately 120 minutes after radiotracer administration.
-Link: https://clinicaltrials.gov/study/NCT07795437
-
-SUMMARY:
-
-
 ## NCT06655337
 Efficiency of the "Medidux" Smartphone App for Demission Management in Patients Medicated in Acute Admission Unit (AAU): a Randomized Controlled Trial.
 
@@ -663,15 +598,6 @@ Optimizing Health Related Quality of Life Measurement in Adolescent and Young Ad
 
 Intervention: : Surveys/Questionnaires — Participants will complete self-report questionnaires via Redcap. The questionnaires should take less than 30 minutes and will include the following options based on their relevance to each sample: 1) sociodemographic (including the comorbidity index) and clinical information, 2) newly developed item pools for body image, fertility, and financial burden, 3) legacy measures for body image, fertility, and financial burden, 4) the PROMIS AYA Health Status Profile, and 5) the PROMIS Global.
 Link: https://clinicaltrials.gov/study/NCT06897137
-
-SUMMARY:
-
-
-## NCT07699614
-Determinants of Lung Health Among Batswana Adults With and Without HIV: the Go-Hema Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07699614
 
 SUMMARY:
 
@@ -1135,15 +1061,6 @@ Link: https://clinicaltrials.gov/study/NCT06036381
 SUMMARY:
 
 
-## NCT07769151
-BIO-FUNCTION for NRM Prediction in SCTCT: Assessing Biological and Functional Reserve to Predict Non-Relapse Mortality in Stem Cell Transplant and Cell Therapy
-
-Intervention: : blood sample to check CXCL9 pre stem cell transplant and cell therapy — Pre SCTCT as per SOC physical function assessment will be performed in a form of IADl, hand grip, and or walk test like TUG. Specimen Collection Studies: LDH , albumin, ferritin, CRP, platelet and creatinine will be collected as per standard of care pre SCTCT. The non-SOC procedure will be drawing CXL9
-Link: https://clinicaltrials.gov/study/NCT07769151
-
-SUMMARY:
-
-
 ## NCT06419361
 [68Ga]Ga-Sa-DABI-4 PET Imaging of Stimulator of Interferon Gene Expression in Cancer Patients
 
@@ -1507,15 +1424,6 @@ Intervention: : Physical Therapy — Patients will undergo physical therapy foll
 : Monitored Work-out — Healthy volunteers will undergo a monitored workout for comparison of data
 : Moxy Oxygen Sensor Device — Individuals will wear a Moxy sensor device during workouts to monitor oxygen and hemoglobin levels in their muscles
 Link: https://clinicaltrials.gov/study/NCT05488054
-
-SUMMARY:
-
-
-## NCT07678866
-A Preliminary Clinical Study Protocol for Evaluating the Efficacy and Safety of Pulse Electric Field Ablation Systems in Treating Adult Type 2 Diabetes Mellitus With Suboptimal Drug Control
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07678866
 
 SUMMARY:
 

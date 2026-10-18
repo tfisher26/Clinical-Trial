@@ -29,15 +29,6 @@ Link: https://clinicaltrials.gov/study/NCT06346938
 SUMMARY:
 
 
-## NCT07786233
-Multi-Field-Strength MRI Brain Atlas Construction in Healthy Chinese Population
-
-Intervention: : Multi-Field-Strength Brain MRI — Participants will undergo standardized brain MRI examinations at 0.55T, 1.5T, 3T, 5T, and 7T. MRI acquisitions include structural, diffusion, functional, and quantitative imaging sequences according to the study protocol. No therapeutic intervention will be administered
-Link: https://clinicaltrials.gov/study/NCT07786233
-
-SUMMARY:
-
-
 ## NCT05454267
 Early Detection of Vaping-related Vascular Diseases
 

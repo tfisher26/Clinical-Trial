@@ -334,17 +334,6 @@ Link: https://clinicaltrials.gov/study/NCT06523374
 SUMMARY:
 
 
-## NCT07740590
-Evaluation of Visual Adaptation and Optical Performance in Patients With Bilateral Multifocal or Mix-and-Match Intraocular Lens Implantation: A Longitudinal Observational Study
-
-Intervention: : Bilateral Bifocal IOL Implantation — Bilateral phacoemulsification with bifocal intraocular lens implantation in both eyes.
-: Bifocal and EDOF IOL Mix-and-Match Implantation — Bilateral phacoemulsification with bifocal intraocular lens implantation in one eye and EDOF intraocular lens implantation in the contralateral eye.
-: Bifocal and Monofocal IOL Mix-and-Match Implantation — Bilateral phacoemulsification with bifocal intraocular lens implantation in one eye and monofocal intraocular lens implantation in the contralateral eye.
-Link: https://clinicaltrials.gov/study/NCT07740590
-
-SUMMARY:
-
-
 ## NCT05082961
 Circulating Immunes Cells, Cytokines and Brain Radiotherapy
 
@@ -585,17 +574,6 @@ Young Survivors at Kantonsspital Aarau, Switzerland - A Standardized Assessment 
 Intervention: : Physical examination, diagnostic tests, laboratory tests — Physical examination, diagnostic tests (e.g. lung function test, echocardiography, audiometry), and laboratory tests (e.g. kidney parameter, hormonal levels) depend on examined organ system.
 : Personal history — Personal history on diagnosis, treatment, and socioeconomic factors
 Link: https://clinicaltrials.gov/study/NCT04811794
-
-SUMMARY:
-
-
-## NCT07705191
-Assessing the Impact of SugarLock® Peanut Skin Extract on Postprandial Blood Glucose Control
-
-Intervention: : Peanut skin extract — consume two peanut skin extract capsules (200 mg/capsule) with 150 mL water
-: White kidney bean extract — consume two White kidney bean extract capsules (250 mg/capsule) with 150 mL water
-: Water — consume 150 mL water
-Link: https://clinicaltrials.gov/study/NCT07705191
 
 SUMMARY:
 
@@ -1001,15 +979,6 @@ Link: https://clinicaltrials.gov/study/NCT06714474
 SUMMARY:
 
 
-## NCT07667452
-Development and Application of a Single-Feature Recognition Model for Heart Failure With Artificial Intelligence-Optimized Algorithms
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07667452
-
-SUMMARY:
-
-
 ## NCT06934252
 A Phase 1a/1b Randomized, Double-Blind, Placebo-Controlled, 3-Part Study to Investigate the Safety, Pharmacokinetics, and Pharmacodynamics of Single and Multiple Subcutaneous Doses of TRB-061 in Healthy Participants and in Patients With Moderate-to-Severe Atopic Dermatitis
 
@@ -1100,15 +1069,6 @@ A Descriptive, Multicentre, Observational Epidemiological Study on Digestive Tum
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06711211
-
-SUMMARY:
-
-
-## NCT07700992
-An Exosome-based and Machine-learning-powered Liquid Biopsy for Pancreatic Cancer Early-detection and Disease Monitoring
-
-Intervention: : PANXEON — A panel of circulating microRNA, whose expression level is tested in cell-free and exosome-derived samples
-Link: https://clinicaltrials.gov/study/NCT07700992
 
 SUMMARY:
 
@@ -1635,15 +1595,6 @@ Link: https://clinicaltrials.gov/study/NCT06089915
 SUMMARY:
 
 
-## NCT07831278
-Training Independent Muscle Activation From a Common Source
-
-Intervention: : amputation or revision procedure with additional RPNI construction — amputation or revision procedure in which additional RPNIs (regenerative peripheral nerve interfaces) are created beyond what would be included in a standard care procedure
-Link: https://clinicaltrials.gov/study/NCT07831278
-
-SUMMARY:
-
-
 ## NCT06971874
 The Epidemiological Patterns of Obstructive Sleep Apnea Syndrome in Patients With Chronic Kidney Disease and Its Impact on Renal Prognosis
 
@@ -1733,17 +1684,6 @@ Can the STOP-Bang Questionnaire Predict Obstructive Sleep Apnea and Difficult Ma
 
 Intervention: : STOP BANG — The STOP-Bang Questionnaire is intended to give physicians an easy-to-use tool to identify people who might have obstructive sleep apnea (OSA). The questionnaire consists of eight yes-or-no questions based on the major risk factors for OSA. A STOP-Bang score of 2 or less is considered low risk, and a score of 5 or more is high risk for having either moderate or severe OSA. For people who score 3 or 4, doctors may need to perform further assessment to determine how likely they are to have OSA.
 Link: https://clinicaltrials.gov/study/NCT06247631
-
-SUMMARY:
-
-
-## NCT07729943
-Comparative Effects of Ginseng, Cordyceps, and Placebo on Aerobic Capacity, Lactate Kinetics, and Nitric Oxide Status: A 30-Day Randomized Trial
-
-Intervention: : Panax ginseng — Panax Ginseng extract standardized to 5% ginsenosides
-: Cordycep Militaris — Cordycep extract standardized to Cordycepin 0.25% Adenosine 0.15%
-: Placebo — 1 gram maltodextrin to mirror 1 gram capsule active
-Link: https://clinicaltrials.gov/study/NCT07729943
 
 SUMMARY:
 
@@ -1850,15 +1790,6 @@ A Multi-Center, Non-Interventional Study on Effectiveness and Treatment Persiste
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07541261
-
-SUMMARY:
-
-
-## NCT07783243
-Ex Vivo Immunogenicity Screening of Vaccine Candidate Antigen Combinations in Ethiopian Patients With Visceral and Cutaneous Leishmaniasis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07783243
 
 SUMMARY:
 
@@ -2023,15 +1954,6 @@ Link: https://clinicaltrials.gov/study/NCT07348432
 SUMMARY:
 
 
-## NCT07681115
-Vitamin D Levels and Pregnancy Outcomes Following Frozen Embryo Transfer (FET) in the UAE
-
-Intervention: : No Intervention: Observational Cohort — There are no interventions in this study. This is an observational cohort study.
-Link: https://clinicaltrials.gov/study/NCT07681115
-
-SUMMARY:
-
-
 ## NCT06408441
 The Observational EURACAN Prospective Clinical Registry Dedicated to Epithelioid Hemangioendothelioma: the Protocol of an International and Collaborative Effort on an Ultra-rare Entity
 
@@ -2121,15 +2043,6 @@ Dural Arteriovenous Fistulas Registry, Evaluation, and Management Study in China
 
 Intervention: : endovascular — This is a multicenter retrospective and prospective observational registry study of patients with intracranial dural arteriovenous fistulas (IDAVF) and spinal dural arteriovenous fistulas (SDAVF) in China. No experimental intervention will be assigned as part of the study. Diagnosis, treatment selection, and follow-up will be performed according to routine clinical practice at each participating center, including microsurgery, endovascular embolization, radiosurgery, conservative management, or combined treatment strategies when applicable. The study will collect demographic, clinical, angiographic, treatment, and follow-up outcome data to evaluate epidemiology, treatment patterns, obliteration rates, recurrence, and functional outcomes in a real-world multicenter cohort.
 Link: https://clinicaltrials.gov/study/NCT07604688
-
-SUMMARY:
-
-
-## NCT07697248
-Life Raft Group GIST Registry Protocol
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07697248
 
 SUMMARY:
 
@@ -2575,16 +2488,6 @@ Link: https://clinicaltrials.gov/study/NCT06478277
 SUMMARY:
 
 
-## NCT07810270
-Prospective Two-Year Cohort Study of Surgical and Implant Predictors of Breast Implant Displacement and Rotation After Aesthetic Augmentation
-
-Intervention: : Aesthetic Breast Implantation — Primary or revision aesthetic implantation is performed according to independent clinical care. The study records incision route, pocket plane, pocket dimensions, implant texture, shape, volume, fixation or internal support, mastopexy, and postoperative support. Linked arm/group(s): Aesthetic Implant Position Cohort.
-: Standardized Implant Position Assessment — Bilateral photographs, surface landmark measurements, clinical examination, and ultrasound when indicated will assess implant center, inframammary fold relationship, medial/lateral displacement, vertical position, and orientation. Rotation assessment is prespecified for shaped implants. Linked arm/group(s): Aesthetic Implant Position Cohort.
-Link: https://clinicaltrials.gov/study/NCT07810270
-
-SUMMARY:
-
-
 ## NCT06324396
 IMProving DRug Dosing and Outcomes for Single VEntricle Patients With Fontan Associated Liver Disease
 
@@ -2799,15 +2702,6 @@ Link: https://clinicaltrials.gov/study/NCT06479928
 SUMMARY:
 
 
-## NCT07779824
-Development of a Precision Exercise System for Older Adults and People With Stroke Using Deep Learning and Facial Action Units
-
-Intervention: : AIoT-based cycle ergometer exercise system — AIoT-based cycle ergometer exercise system The system also continuously records exercise-related device data, personal physiological parameters, and facial action units in a structured and systematic manner.
-Link: https://clinicaltrials.gov/study/NCT07779824
-
-SUMMARY:
-
-
 ## NCT05689463
 Evaluation of the Prevalence of BP180 and BP230 Autoantibodies in the Serum of Patients With Pruritus Under Immunotherapy
 
@@ -2831,15 +2725,6 @@ Prognostic Value of Cortisol Levels in Critically Ill Patients With Sepsis and S
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07582926
-
-SUMMARY:
-
-
-## NCT07665632
-Adaptations of Vascular and Cardiorespiratory Function to a 6-week Polarized Aerobic Training Model in Apparently Healthy Individuals
-
-Intervention: : Polarized Aerobic Training — Participants will undergo a 6-week supervised polarized aerobic training programme performed three times weekly on a cycle ergometer. The intervention will combine low-to-moderate-intensity continuous training and high-intensity interval training prescribed according to individual ventilatory thresholds determined during cardiopulmonary exercise testing. The weekly structure will include two high-intensity interval sessions and one continuous aerobic training session, thereby creating a polarized intensity distribution characterized by a predominance of low-intensity exercise and limited exposure to the moderate-intensity domain. Exercise intensity will be individualized using heart rate and power output targets, and all sessions will be supervised by trained personnel.
-Link: https://clinicaltrials.gov/study/NCT07665632
 
 SUMMARY:
 
@@ -2905,17 +2790,6 @@ GATA-2 Project: Retrospective and Prospective Exploratory Study for Characterisa
 
 Intervention: : Biological samples (blood and bone marrow samples). — For each included patient, biological samples (blood and bone marrow samples) will be collected at baseline visit and then during 5 years, according to the samples taken in the standard practice. No additional sampling will be performed for the study.
 Link: https://clinicaltrials.gov/study/NCT05983991
-
-SUMMARY:
-
-
-## NCT07807046
-Target Dosage of Continuous Atracurium Infusion at a Moderate Level of Paralysis in Intensive Care Unit Patients Monitored by an Electromyography-Based Quantitative Neuromuscular Monitor
-
-Intervention: : EMG-based quantitative TOF-guided atracurium titration — Before the loading dose is given, the stimulating electrode is placed according to the protocol, and a baseline TOF measurement is obtained. A determined current of 70 mA or higher prompts electrode repositioning and repeat calibration.
-
-TOF is measured every 10 minutes during titration and every hour once the target is reached, and 10 minutes after every dose adjustment. A TOF count of 0 to 1 prompts a decrease in infusion rate, a TOF count of 2 to 3 prompts no change, and any detectable TOF ratio prompts a bolus followed by an increase in infusion rate. Adjustment increments are weight-stratified: 0.5 mL bolus and 0.5 mL per hour for participants under 80 kg, and 1 mL bolus and 1 mL per hour for participants 80 kg or over, using atracurium at 10 mg/mL. The infusion rate is capped at 20 micrograms per kilogram per minute. Titration continues for 72 hours
-Link: https://clinicaltrials.gov/study/NCT07807046
 
 SUMMARY:
 
@@ -3072,15 +2946,6 @@ Link: https://clinicaltrials.gov/study/NCT06649201
 SUMMARY:
 
 
-## NCT07804706
-Preoperative Neutrophil Percentage-to-Albumin Ratio as a Predictor of Post-Induction Hemodynamic Vulnerability in Major Oncologic Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07804706
-
-SUMMARY:
-
-
 ## NCT06883669
 Establishment of an Artificial Intelligence Recognition System for Wrist and Hand Joint Ultrasound Images/Videos and Its Assistance to Untrained Sonographers
 
@@ -3132,16 +2997,6 @@ Salivary Extracellular Vesicle Associated lncRNAs in Heart Failure (SEAL-HF)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06169540
-
-SUMMARY:
-
-
-## NCT07816133
-Endometriosis "Atypical" and Cancerized: Anatomopathological and Clinical-instrumental Characterization on the Ultrasound and Biological Characteristics of Atypical Endometriosis.
-
-Intervention: : Retrospective case-control analysis — Single-center observational retrospective study with case collection starting June 2024
-: prospective case-control group — Single-center prospective observational study with recruitment of new cases for 30 months from the start of the project.
-Link: https://clinicaltrials.gov/study/NCT07816133
 
 SUMMARY:
 
@@ -3274,15 +3129,6 @@ An Open-label, Two-Arm, Pharmacokinetics, Safety, and Tolerability Study of a Si
 Intervention: : Cocaine Hydrochloride Nasal Solution — Topical Anesthetic
 : Cocaine Hydrochloride Nasal Solution — Topical Anesthetic
 Link: https://clinicaltrials.gov/study/NCT04792034
-
-SUMMARY:
-
-
-## NCT07762482
-Analysis of Periodontal Tissue Stability After Surgical Correction of Altered Passive Eruption in Individuals With Excessive Gingival Display
-
-Intervention: : Esthetic Crown-Lengthening Surgery — Esthetic periodontal surgery will be performed to correct altered passive eruption. Gingival tissue will be removed by an internal bevel gingivectomy. Osseous recontouring will then be performed to establish an adequate relationship between the cementoenamel junction and the alveolar bone crest. Depending on the periodontal phenotype and anatomical characteristics, osseous recontouring may be performed with or without flap elevation.
-Link: https://clinicaltrials.gov/study/NCT07762482
 
 SUMMARY:
 
@@ -3792,25 +3638,6 @@ Link: https://clinicaltrials.gov/study/NCT06066372
 SUMMARY:
 
 
-## NCT07788833
-A Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Safety and Efficacy of RSB11-HI Postbiotic Supplementation for Supporting Weight Management, Metabolic Wellness, and Quality of Life in Healthy Adults
-
-Intervention: : RSB11-HI Heat-Inactivated Postbiotic — RSB11-HI is a heat-inactivated postbiotic derived from Lactiplantibacillus plantarum RSB11. Participants will receive the assigned study product orally once daily for 8 consecutive weeks according to the study dosing instructions.
-: Placebo — Matched placebo administered orally once daily for 8 consecutive weeks. The placebo is identical in appearance, packaging, labeling, and administration schedule to the RSB11-HI study product to maintain blinding.
-Link: https://clinicaltrials.gov/study/NCT07788833
-
-SUMMARY:
-
-
-## NCT07742878
-An Early Prospective Study of the Traq™ Device for Characterization of Binocular Ocular Function in Normal Subjects and Subjects With Recent Traumatic Brain Injury
-
-Intervention: : Binocular ophthalmic neurodiagnostic device — Participants will undergo non-invasive binocular ophthalmic neurodiagnostic measurements and ocular assessments. No treatment or intervention will be administered as part of the study.
-Link: https://clinicaltrials.gov/study/NCT07742878
-
-SUMMARY:
-
-
 ## NCT06957743
 Mechanisms of Mindfulness Meditation and Self-Hypnosis for Pain in Older Adults With Chronic Pain
 
@@ -3955,15 +3782,6 @@ Intervention: : Blood sample — Additional blood sampling at the end of ovarian
 : Urine sample — Collection of the first urine in the morning on the day of the oocyte pick-up
 : Follicular fluid and granulosa cells sample — Collection of follicular fluid and granulosa cells during oocyte pick-up.
 Link: https://clinicaltrials.gov/study/NCT04866329
-
-SUMMARY:
-
-
-## NCT07782944
-Clinical Investigation of CD38-Targeted Molecular Imaging Probes in Multiple Myeloma
-
-Intervention: : standard-of-care imaging (FDG PET/CT), CD38 PET/CT — Each subject receives a single intravenous injection of standard-of-care imaging radiopharmaceutical (FDG) and CD38, and undergoes PET/CT imaging within the specified time.
-Link: https://clinicaltrials.gov/study/NCT07782944
 
 SUMMARY:
 
@@ -4327,15 +4145,6 @@ Link: https://clinicaltrials.gov/study/NCT06979869
 SUMMARY:
 
 
-## NCT07774845
-Development and Validation of a New Method to Valuate the Platelet-Plasma Lipid Relationship as a Biomarker and Potential Therapeutic Target of Thrombogenesis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07774845
-
-SUMMARY:
-
-
 ## NCT07012993
 Evaluation of Ultralow Dose PET Imaging for Detecting Amyloid Tracer Uptake
 
@@ -4359,15 +4168,6 @@ Association of a Digital Signature of Physical Activity and Sedentary Lifestyle 
 
 Intervention: : Accelerometer data — Patients will wear an accelerometer 3 times a year for 5 days (3 weekdays and 2 weekend days), the data will be collected
 Link: https://clinicaltrials.gov/study/NCT05578495
-
-SUMMARY:
-
-
-## NCT07734324
-Evaluation of the Effects of the Earth of Joy Educational Kit on Children's Well-being and Empathy at School
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07734324
 
 SUMMARY:
 
@@ -4421,15 +4221,6 @@ Link: https://clinicaltrials.gov/study/NCT05652023
 SUMMARY:
 
 
-## NCT07820423
-Interpretable Multimodal Artificial Intelligence Predicts High-risk Pathology in Lung Cancer Associated With Cystic Airspaces
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07820423
-
-SUMMARY:
-
-
 ## NCT05404061
 Why do Some Patients Respond Better Than Others to Bariatric Surgery?
 
@@ -4471,16 +4262,6 @@ Link: https://clinicaltrials.gov/study/NCT05055830
 SUMMARY:
 
 
-## NCT07806370
-Comparison Of Drug-Coated Balloon Versus Drug-Eluting Stent In STEMI Patients With High Thrombus Burden: A Single-Center Retrospective Study Using Propensity Score Matching
-
-Intervention: : Drug-Coated Balloon (DCB) — A drug-coated balloon catheter used for percutaneous coronary intervention in patients with STEMI and high thrombus burden. The balloon surface is coated with an antiproliferative drug (e.g., paclitaxel) that is transferred to the vessel wall during balloon inflation, inhibiting neointimal hyperplasia. No permanent metal scaffold is implanted after DCB-only revascularization.
-: Drug-Eluting Stent (DES) — A permanent coronary metal scaffold coated with an antiproliferative drug (e.g., sirolimus, everolimus, zotarolimus, or biolimus) implanted during percutaneous coronary intervention. The stent maintains vessel patency and the eluted drug inhibits neointimal hyperplasia. Used for culprit-vessel revascularization in STEMI patients with high thrombus burden, including bailout DES implantation after DCB predilation.
-Link: https://clinicaltrials.gov/study/NCT07806370
-
-SUMMARY:
-
-
 ## NCT06184373
 Early Investigation of Glucose Monitoring After Gestational Diabetes (ENGAGED): Utility and Acceptability of Continuous Glucose Monitoring in the Early Postpartum Period After Gestational Diabetes Mellitus
 
@@ -4488,15 +4269,6 @@ Intervention: : Continuous glucose monitor — CGMs will be worn for a maximum o
 : Oral Glucose Tolerance Test — At 10-12 weeks postpartum, participants will complete an oral glucose tolerance test, which involves drinking a glucose substance and having glucose levels measured a maximum of 3 times.
 : Hemoglobin A1c — At 11-14 months postpartum, participants will be asked to have their blood drawn to check their hemoglobin A1c to look for signs of developed insulin resistance
 Link: https://clinicaltrials.gov/study/NCT06184373
-
-SUMMARY:
-
-
-## NCT07764081
-Progression, Management Strategies, and Risk Factors of Coronary Artery Aneurysms: A Multicenter, Retrospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07764081
 
 SUMMARY:
 
@@ -4537,16 +4309,6 @@ OBServatory of Compassionate Use of IVOsidenib in France for Patients With Acute
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06377579
-
-SUMMARY:
-
-
-## NCT07789106
-A Randomised, Placebo-Controlled Trial to Evaluate the Effect of Ubiquinol on Fatigue and Muscle Strength in Healthy Adults Who Are Self-Administering GLP-1 Agonists ("Project Zest")
-
-Intervention: : Ubiquinol 100 MG Oral Capsule — The active intervention is a commercially available ubiquinol dietary supplement. The dose is one 100mg capsule per day taken.
-: Placebo — The placebo is manufactured by the same manufacturer that produces the active product. The placebo is visually similar to the active product and will be packaged in the same bottles as the active intervention to maintain the blind. The dose is one 100mg capsule per day taken with the first meal of the day. The product is stored at room temperature.
-Link: https://clinicaltrials.gov/study/NCT07789106
 
 SUMMARY:
 
@@ -4690,15 +4452,6 @@ Microenvironment Cross-talk: Role of Extracellular Vesicles Derived From Mesench
 
 Intervention: : In vitro culture — In vitro culture of bone marrow MNCs to obtain mesenchymal stromal cells
 Link: https://clinicaltrials.gov/study/NCT06896344
-
-SUMMARY:
-
-
-## NCT07726251
-Observational Evaluation of Hemodynamic Parameters Using Routine Intraoperative Monitoring Data in Patients Undergoing Bimaxillary Orthognathic Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07726251
 
 SUMMARY:
 
@@ -4976,15 +4729,6 @@ Link: https://clinicaltrials.gov/study/NCT07077681
 SUMMARY:
 
 
-## NCT07695649
-Prospective Observational Study to Assess the Reproducibility of Ferguson's Minimally Invasive Hemorrhoidectomy in the Treatment of Grade III Hemorrhoids: Phase 2a of the IDEAL Framework
-
-Intervention: : Minimal invasive closed hemorrhoidectomy — We propose applying minimally invasive surgery to closed Ferguson excisional hemorrhoidectomy, the most effective technique for treating advanced hemorrhoidal disease. We believe this approach will reduce postoperative pain and improve recovery while maintaining the excellent outcomes of excisional hemorrhoidectomy. Our hypothesis is based on reduced tissue trauma, the increased precision provided by minimally invasive surgery, and secure tissue closure.
-Link: https://clinicaltrials.gov/study/NCT07695649
-
-SUMMARY:
-
-
 ## NCT04624555
 The Utility and Feasibility of Mt-sDNA as a Surveillance Procedure in Colorectal Cancer Survivors
 
@@ -5010,16 +4754,6 @@ Registry of the Spanish Society of Thoracic Surgery (ReSECT)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05600569
-
-SUMMARY:
-
-
-## NCT07779967
-Localized Mammary Alcohol Metabolism as a Mechanism Linking Low-Level Alcohol Intake to Breast Cancer Risk
-
-Intervention: : Low-alcohol level exposure — Participants will consume a protocol-specified low-level alcohol exposure under study conditions. The assigned dose and biospecimen collection procedures will vary by study group.
-: Breast-pumping time — Breast pumping before or after drinking \~ 1 standard drink or placebo drink
-Link: https://clinicaltrials.gov/study/NCT07779967
 
 SUMMARY:
 
@@ -5078,15 +4812,6 @@ Changes in Attentional Control After a Focal Seizure.
 
 Intervention: : All included subjects — Administration of the subtest of divided attention of the Test of Attentional Performance (TAP), recording of the event related potentiels N200 and P300, measure of the variation of power in several frequency bands (theta, alpha and beta) and measure of the high-resolution EEG connectivity during an attentional task at several time-points : a first time during interictal period (no seizure for more than 24 hours) and 1, 3, 6 and 24 hours after a focal seizure.
 Link: https://clinicaltrials.gov/study/NCT06466681
-
-SUMMARY:
-
-
-## NCT07822100
-Development and Validation of a Gd-IgA1 Guided Precision Therapy System for Targeted Therapeutic Strategies of IgA Nephropathy： An Open-label, Random Controlled Trial
-
-Intervention: : Gd-IgA1 monitoring — Participants in the experimental group will undergo a total of five Gd-IgA1 tests at baseline and during the follow-up period, and their clinicians will use these results to guide medication adjustment.
-Link: https://clinicaltrials.gov/study/NCT07822100
 
 SUMMARY:
 
@@ -5447,15 +5172,6 @@ Danish Prostate Cancer Consortium Study-1 (DPCC-1): Multicenter Development of L
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05767307
-
-SUMMARY:
-
-
-## NCT07723937
-GelPOINT® Path-Assisted Endoscopic Submucosal Dissection for Colorectal Polyps: A Feasibility and Safety Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07723937
 
 SUMMARY:
 

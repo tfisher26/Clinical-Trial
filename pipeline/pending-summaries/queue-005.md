@@ -309,15 +309,6 @@ Link: https://clinicaltrials.gov/study/NCT07535801
 SUMMARY:
 
 
-## NCT07683065
-SEC-HOPE: A Multicenter Retrospective Cohort Study to Estimate Secukinumab Retention Rate in Psoriasis Patients With MASLD
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07683065
-
-SUMMARY:
-
-
 ## NCT07096258
 A Patient Registry Collecting the Clinical and Molecular Profiling Data of Patients With Locally Advanced and/or Metastatic, Unresectable, Stages IIIB/C or IV Non-small Cell Lung Cancer (NSCLC), Who Have Not Previously Been Treated for This Advanced Disease and Are Therefore Considered as Patients Receiving First-line Therapy.
 
@@ -481,15 +472,6 @@ Link: https://clinicaltrials.gov/study/NCT07221331
 SUMMARY:
 
 
-## NCT07822204
-Molekylära Och Kliniska Studier av Ben Och mjukdelstumörer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07822204
-
-SUMMARY:
-
-
 ## NCT07282704
 Falls In Spanish People With Intellectual Disabilities: Analysis Of Risk Factors And Predictive Equation. Multicenter Study (Falls.Di)
 
@@ -549,15 +531,6 @@ Clinical and Laboratory Characteristics of a Population of Children and Adolesce
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06717893
-
-SUMMARY:
-
-
-## NCT07736482
-Relationship Between Single- and Dual-Task Obstacle Crossing Performance and Fatigue and Disability Levels in Patients With Relapsing-Remitting Multiple Sclerosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07736482
 
 SUMMARY:
 

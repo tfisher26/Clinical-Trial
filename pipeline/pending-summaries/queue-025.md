@@ -459,15 +459,6 @@ Link: https://clinicaltrials.gov/study/NCT06550726
 SUMMARY:
 
 
-## NCT07691801
-Study on the Application of Liquid Chromatography-Tandem Mass Spectrometry for the Determination of Aldosterone and Renin Activity in the Diagnosis of Primary Aldosteronism by Captopril Test
-
-Intervention: : Captopril inhibition test(CCT) — The subjects are required to stop using any drugs that affect the RAAS system in advance. At 08:00 on the test day, they are to remain seated and collect baseline blood samples. Then, they are to take 25mg of captopril orally. After taking the medicine, they are to remain seated and fast for 2 hours, and then collect blood samples again at 10:00. The blood samples collected at these two time points will undergo mass spectrometry analysis to detect plasma aldosterone and renin activity, and 24-hour urine samples will be collected to measure 24-hour urine sodium and 24-hour urine potassium.
-Link: https://clinicaltrials.gov/study/NCT07691801
-
-SUMMARY:
-
-
 ## NCT07254351
 Biomechanical Analysis of the Impact of Lower Limb Length Discrepancy on Hip and Lumbar Spine Joints in Children
 
@@ -907,16 +898,6 @@ Link: https://clinicaltrials.gov/study/NCT05294029
 SUMMARY:
 
 
-## NCT07687628
-Camera-based Endoscopy Allows Spontaneous Breathing Diagnostic Management in Neonates With Tracheoesophageal Fistula
-
-Intervention: : tracheoscopy performed with rigid optical tracheoscopy — Rigid tracheoscopy is performed with rigid 3.0 or 3.5 mm optical device under general anesthesia and positive pressure ventilation
-: flexible video endoscopy of trachea — Flexible tracheoscopy is performed with Ambu 2.7 flexible video-endoscopy under sedation in spontaneously breathing neonates
-Link: https://clinicaltrials.gov/study/NCT07687628
-
-SUMMARY:
-
-
 ## NCT06492109
 The Peripheral Blood Multi-Omics Study on the Association of Sleep Loss With Aging and Alzheimer's Disease
 
@@ -942,15 +923,6 @@ The general health message will include indications for lipid therapy, benefits 
 
 The message will include the personality-tailored message with the same core content as the general message, including indications for lipid therapy, benefits of lipid-lowering medications, common side effects, risks of non-adherence, and an infographic on diet and lifestyle modification based on ACE lipid management guidance. An infographic will be included in the same ROR email. This message will contain an added component framed according to conscientiousness and neuroticism scores, as these traits are strong predictors of health behaviours. Scores will be derived from baseline BFI-44 results.
 Link: https://clinicaltrials.gov/study/NCT07415109
-
-SUMMARY:
-
-
-## NCT07681999
-Detection of Early Inflammatory Versus Early Mechanical Scapular Dyskinesis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07681999
 
 SUMMARY:
 
@@ -1134,17 +1106,6 @@ Examining the Demographic, Clinical, and Laboratory Data of Patients With Diabet
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07188337
-
-SUMMARY:
-
-
-## NCT07686211
-Deformable Tissue Modelling and Augmented Reality Based Guidance for Head and Neck Tumor Re-Resection Task
-
-Intervention: : Augmented Reality — Task accuracy will be evaluated by measuring distances between the points identified with and without AR guidance, and the pathologist-intended target locations.
-
-Participants will then complete post-tasks surveys and interviews.
-Link: https://clinicaltrials.gov/study/NCT07686211
 
 SUMMARY:
 

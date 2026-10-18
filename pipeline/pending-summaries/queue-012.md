@@ -174,15 +174,6 @@ Link: https://clinicaltrials.gov/study/NCT05569161
 SUMMARY:
 
 
-## NCT07677267
-Real-World Characteristics, Treatment Patterns, and Outcomes Among Adults With mCRPC Previously Treated With an Androgen Receptor Pathway Inhibitor, Taxane-Based Chemotherapy, and Lutetium-177 Vipivotide Tetraxetan
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07677267
-
-SUMMARY:
-
-
 ## NCT07314268
 ATTR Amyloid Cardiomyopathy: Characterization of Extracellular Vesicles as Potential Disease Stratifiers and Prognostic Biomarkers
 
@@ -400,15 +391,6 @@ Link: https://clinicaltrials.gov/study/NCT05934149
 SUMMARY:
 
 
-## NCT07696260
-Evaluation of the Presence of Alexithymia and Its Relationship With Clinical Parameters in Patients With Chronic Coccydynia (>=3 Months)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07696260
-
-SUMMARY:
-
-
 ## NCT06682533
 Efficacy and Tolerability of 14-Day Tegoprazan-based Triple Therapy for Eradication of Helicobacter Pylori Eradication: A Retrospective Study
 
@@ -467,17 +449,6 @@ Link: https://clinicaltrials.gov/study/NCT05350761
 SUMMARY:
 
 
-## NCT07662291
-A Randomized, Sham-Controlled, Crossover fMRI Study on the Frequency Effects of Transcutaneous Trigeminal Nerve Stimulation on Central-Autonomic Coupling in Healthy Subjects
-
-Intervention: : 2Hz Transcutaneous Trigeminal Nerve Stimulation — Active electrical stimulation applied over the skin of the forehead targeting the branches of the trigeminal nerve. The stimulation frequency is set at 2Hz. It is synchronized with the fMRI sequence and continuous physiological monitoring (respiration and photoplethysmography).
-: 120Hz Transcutaneous Trigeminal Nerve Stimulation — Active electrical stimulation applied over the skin of the forehead targeting the branches of the trigeminal nerve. The stimulation frequency is set at 120Hz. It is synchronized with the fMRI sequence and continuous physiological monitoring (respiration and photoplethysmography).
-: Sham Transcutaneous Trigeminal Nerve Stimulation — An inactive or sensory-matched sham electrical stimulation designed to mimic the physical sensation of the device being active without delivering the therapeutic frequencies (2Hz or 120Hz). It is administered synchronously with the fMRI BOLD sequence and physiological monitoring to serve as a baseline comparator.
-Link: https://clinicaltrials.gov/study/NCT07662291
-
-SUMMARY:
-
-
 ## NCT07580456
 Development of an Artificial Intelligence Algorithm to Enhance the Gastric Point-of-care Ultrasound. A Proof-of-concept Study.
 
@@ -532,15 +503,6 @@ Link: https://clinicaltrials.gov/study/NCT07551375
 SUMMARY:
 
 
-## NCT07807059
-An Open-Label, Parallel-Group, Single-Dose Pharmacokinetic Study of HRS-4729 Injection in Healthy Participants and Patients With Renal Impairment
-
-Intervention: : HRS-4729 — Each subject will receive a single subcutaneous dose of HRS-4729 injection solution.
-Link: https://clinicaltrials.gov/study/NCT07807059
-
-SUMMARY:
-
-
 ## NCT07021118
 The Use of Brain Computed Tomography in the Management of the Patient With Mild TBI in the Emergency Department
 
@@ -564,15 +526,6 @@ An Observational Prospective Longitudinal Study for the Clinical Evaluation of V
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05801471
-
-SUMMARY:
-
-
-## NCT07793214
-Metabolic Reprogramming, Immune Modulation, and Palliative Outcomes Associated With ET-SPACE Whole-Body Infrared Hyperthermia in Patients With Advanced Solid Tumors: An Ambispective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07793214
 
 SUMMARY:
 
@@ -658,24 +611,6 @@ Preoperative Serum FGF19 in the Prognosis of Biliary Atresia
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05848310
-
-SUMMARY:
-
-
-## NCT07835360
-Cambios en la composición Corporal Tras el Inicio de Agonistas Del Receptor de GLP-1 (GLP-1RA) en Adultos Con Obesidad o Diabetes Tipo 2: Cohorte Prospectiva multicéntrica en Vida Real
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07835360
-
-SUMMARY:
-
-
-## NCT07703488
-Clinical Efficacy and Quality of Life Assessment of Dydrogesterone in Managing Abnormal Uterine Bleeding of Ovulatory Disorders in Adolescents：A Multicenter Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07703488
 
 SUMMARY:
 
@@ -826,15 +761,6 @@ Link: https://clinicaltrials.gov/study/NCT07034183
 SUMMARY:
 
 
-## NCT07768748
-Extended Evaluation of Asynchrony Detection of the Prisma VENT and LUISA Therapy Devices in Ventilated (NIV) Patients ("NIV_Event")
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07768748
-
-SUMMARY:
-
-
 ## NCT06657846
 Health-Related Quality of Life and Financial Toxicity in Patients With VEXAS Syndrome: An Italian GIMEMA Study
 
@@ -889,16 +815,6 @@ Link: https://clinicaltrials.gov/study/NCT06673615
 SUMMARY:
 
 
-## NCT07827014
-An Open-Label, Two-Arm Pilot Study of the Tolerability, Consumer Acceptability, and Exploratory Well-Being Outcomes of a Multi-Ingredient Protein Formula in Two Flavors in Healthy Adults
-
-Intervention: : Vanilla Protein Formula — A vanilla-flavored, multi-ingredient ready-to-mix powdered dietary supplement combining YESTEIN fermented yeast protein, grass-fed bovine collagen peptides, OptiCreatine creatine monohydrate, and FiberEssence prebiotic fiber blend, sweetened with allulose, Reb M, and coconut sugar. Each 51-gram serving (1 scoop) provides 24 g protein, 2 g sugar, 3.5 g fat, and 5 g fiber. Consumed once daily for 15 days.
-: Chocolate Protein Formula — A chocolate-flavored, multi-ingredient ready-to-mix powdered dietary supplement combining YESTEIN fermented yeast protein, grass-fed bovine collagen peptides, OptiCreatine creatine monohydrate, and FiberEssence organic prebiotic fiber blend, flavored with cocoa powder and organic natural cocoa extract, sweetened with allulose, Reb M, and coconut sugar, and containing MCT oil powder. Each 51-gram serving (1 scoop) provides 25 g protein, 2 g sugar, 3.5 g fat, and 5 g fiber. Consumed once daily for 15 days.
-Link: https://clinicaltrials.gov/study/NCT07827014
-
-SUMMARY:
-
-
 ## NCT07360470
 Anatomical Assessment of Orbital Contents on Imaging
 
@@ -922,15 +838,6 @@ Motivated Decision-Making and Performance
 
 Intervention: : Physical Fatigue — Participants will perform a physically demanding task (grip force exertion task) repeatedly to induce physical fatigue.
 Link: https://clinicaltrials.gov/study/NCT07278388
-
-SUMMARY:
-
-
-## NCT07822997
-Cultural Adaptation, Validation, and Reliability of the EMPHASIS-10 Questionnaire for Assessing Quality of Life in Patients With Pulmonary Arterial Hypertension and Chronic Thromboembolic Pulmonary Hypertension: Brazilian Version
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07822997
 
 SUMMARY:
 

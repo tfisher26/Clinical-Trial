@@ -241,16 +241,6 @@ Link: https://clinicaltrials.gov/study/NCT07462247
 SUMMARY:
 
 
-## NCT07710300
-Understanding and Improving Access to Section 504 Among Students With Disabilities
-
-Intervention: : Treatment — Training program about Section 504 for individuals with disabilities and/or family caregivers of an individual with disabilities.
-: Materials-only control condition — Materials-only then access to advocacy training around Section 504 plans for individuals with disabilities and/or family caregivers of individuals with disabilities. Will have advocacy training 6 months after the control group.
-Link: https://clinicaltrials.gov/study/NCT07710300
-
-SUMMARY:
-
-
 ## NCT07782099
 Ultrasonographic Characteristics of Accessory Inspiratory Muscles and Their Relationship With Respiratory Function in Individuals With Chronic Non-Specific Neck Pain: A Cross-Sectional Case-Control Study
 
@@ -383,16 +373,6 @@ Confounding Factors of Chronic Endometritis in Women With Reproductive Failure
 
 Intervention: :  — If the CE is high, antibiotics will be given to the patients as usual practice in hospitals.
 Link: https://clinicaltrials.gov/study/NCT05613049
-
-SUMMARY:
-
-
-## NCT07740148
-Immediate Psychological Effects of a Brief Human-Created Animated Art Film: A Three-Arm Online Randomized Controlled Trial
-
-Intervention: : Human-created Animated Art Film — A brief, \~3min human-created art film featuring 2D animation, dance, song and instrumental music.
-: AI-generated Comparator Film — A brief, \~3min AI-generated film featuring 2D animation, dance, song and instrumental music.
-Link: https://clinicaltrials.gov/study/NCT07740148
 
 SUMMARY:
 
@@ -549,16 +529,6 @@ Link: https://clinicaltrials.gov/study/NCT07041489
 SUMMARY:
 
 
-## NCT07678463
-A Three-part, Phase 1, Single and Multiple Ascending Dose Escalation and Food Effect Study in Healthy Participants to Assess the Safety, Tolerability, and Pharmacokinetics of QX-4533
-
-Intervention: : QX-4533 — QX-4533 tablets
-: Placebo — QX-4533 matched-placebo tablets
-Link: https://clinicaltrials.gov/study/NCT07678463
-
-SUMMARY:
-
-
 ## NCT06331676
 Developing a Complex ex Vivo Endometrial Tissue Model Based on Patient Biopsies to Assess and Optimise the Response to Current and Potential Treatments for Endometriosis
 
@@ -595,15 +565,6 @@ Intervention: : Biologic samples and MRI — * blood sample
 * lumbar punction
 * MRI
 Link: https://clinicaltrials.gov/study/NCT06403189
-
-SUMMARY:
-
-
-## NCT07746947
-PROMISE Registry: PROspective Study on Management of Ischemic Stroke Secondary to mEvo Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07746947
 
 SUMMARY:
 
@@ -698,15 +659,6 @@ Neural Basis of Human Working Memory
 Intervention: : Neurocognitive Tasks — Participants complete computerized neurocognitive tasks assessing working memory, response inhibition, decision-making, reward processing, and other related cognitive functions during sEEG monitoring. Tasks may include the stop signal reaction time task, the n-back working memory task, the delayed response task, the match/nonmatch task, the gambling task, the card guessing task, and the emotional stop signal reaction time task. Intracranial neural activity is recorded during task performance, and select tasks may include research electrical stimulation delivered through the implanted sEEG electrodes.
 : Ripple Neuromed Summit System — Neurophysiology system designed to allow recording of neural signals as well as delivery of neural stimulation. The system is a portable unit which is connected to cables connected to the clinical electrodes. Neurophysiology signals from the electrodes can be recorded, amplified, and processed by the unit. The unit also has the ability to deliver electrical stimulation through the electrodes according to programmed parameters.
 Link: https://clinicaltrials.gov/study/NCT07617506
-
-SUMMARY:
-
-
-## NCT07717281
-From PAtients to Neuromuscular Organoids in Refractory AChR+ Myasthenia grAvis: End-plate Dysfunction, Biomarker Discovery and Regeneration Strategies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07717281
 
 SUMMARY:
 
@@ -901,15 +853,6 @@ Fractional exhaled nitric oxide (FeNO) measurement. High-resolution computed tom
 
 Data on exacerbation history, comorbidities, and current medications will also be collected.
 Link: https://clinicaltrials.gov/study/NCT07472738
-
-SUMMARY:
-
-
-## NCT07686315
-Advanced Respiratory Monitoring for Safer Mechanical Ventilation in Patients Without Respiratory Failure
-
-Intervention: : Advanced Non-Invasive Respiratory Monitoring — Continuous measurement and recording of airway pressure, esophageal pressure, inspiratory and expiratory flow, and electrical impedance tomography (EIT) data during the first 24 hours of mechanical ventilation. A nasogastric tube equipped with an esophageal balloon is placed alongside an EIT electrode belt. Monitoring is performed continuously off-line without altering standard clinical management. Residual respiratory function is also evaluated via spirometry and EIT prior to Intensive Care Unit (ICU) discharge.
-Link: https://clinicaltrials.gov/study/NCT07686315
 
 SUMMARY:
 
@@ -1504,15 +1447,6 @@ Link: https://clinicaltrials.gov/study/NCT07640646
 SUMMARY:
 
 
-## NCT07817290
-NUTRI.AGE: DEVELOPMENT OF SMART FOOD/NUTRACEUTICAL SOLUTIONS DEDICATED TO CARDIOMETABOLIC DISORDERS IN AGEING
-
-Intervention: : Probiotic — Participants will receive a probiotic for 60 days to allow comparison of the results with those observed in the placebo arm. Participants will take one probiotic capsule once daily in the morning, on an empty stomach.
-Link: https://clinicaltrials.gov/study/NCT07817290
-
-SUMMARY:
-
-
 ## NCT06944652
 Flexibility Training (Stretching) to Improve Jumping Performance
 
@@ -1674,16 +1608,6 @@ Link: https://clinicaltrials.gov/study/NCT06823960
 SUMMARY:
 
 
-## NCT07715955
-Probiotic Regulation of Food Intake Through Satiety Stimulation and Gut Microbiota Modulation
-
-Intervention: : Probiotic supplementation — 16-week consumption of 6 g/day of probiotic supplement
-: Placebo — 16-week consumption of 6 g/day of placebo
-Link: https://clinicaltrials.gov/study/NCT07715955
-
-SUMMARY:
-
-
 ## NCT05739331
 Automatic Segmentation of Mediastinal Lymph Nodes and Blood Vessels in Endobronchial Ultrasound (EBUS) Images Using a Deep Neural Network
 
@@ -1782,15 +1706,6 @@ Link: https://clinicaltrials.gov/study/NCT05991336
 SUMMARY:
 
 
-## NCT07777744
-Severe Complications During Ventricular Tachycardia or Premature Ventricular Complex Ablation - an International Multicenter Collaborative Study Group
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07777744
-
-SUMMARY:
-
-
 ## NCT06324604
 Safety, Pharmacokinetics, and Pharmacodynamics of MTX-101 in Healthy Adults and Patients
 
@@ -1839,16 +1754,6 @@ MAEVE: Microbiota Mediated Flavonoid Metabolites for Cognitive Health
 Intervention: : Polyphenol Supplement — Juice Plus Essentials, Berry Blend Capsules
 : Placebo Supplement — Micronutrient matched placebo
 Link: https://clinicaltrials.gov/study/NCT07226674
-
-SUMMARY:
-
-
-## NCT07675200
-Effects of Miricell Supplementation on Biomarkers of Healthy Aging and Autophagy
-
-Intervention: : Spermidine — Branded spermidine ingredient (Miricell® Rice Germ Extract) administered orally at a dose of 3.3 mg/day. Provided as a single opaque capsule to be ingested daily with water in the morning with a meal.
-: Placebo — Placebo capsule (microcrystalline cellulose) packaged in an identical-looking, opaque capsule to be ingested daily with water in the morning with a meal.
-Link: https://clinicaltrials.gov/study/NCT07675200
 
 SUMMARY:
 
@@ -2175,15 +2080,6 @@ Link: https://clinicaltrials.gov/study/NCT05126290
 SUMMARY:
 
 
-## NCT07764588
-Innate Immune Cell Phenotypes and Early Fibrotic Repair in Acute Myocardial Infarction
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07764588
-
-SUMMARY:
-
-
 ## NCT07442552
 Impact of Perioperative Sepsis on Inflammatory, Cardiac, Coagulation, and microRNA Profiles in Patients Undergoing Major Abdominal Surgery
 
@@ -2273,29 +2169,11 @@ Link: https://clinicaltrials.gov/study/NCT06625944
 SUMMARY:
 
 
-## NCT07747727
-Perineal Ultrasound α/β Angles, Post-Void Residual Volume, and Lower-Limb Alignment in Symptomatic and Asymptomatic Postmenopausal Women With Stress Incontinence.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07747727
-
-SUMMARY:
-
-
 ## NCT07595614
 Analysis of Weekly Narratives Using Natural Language Processing in Patients Undergoing Residential Rehabilitation: A Hybrid Approach for the Dynamic Assessment of Clinical Processes
 
 Intervention: : Residential rehabilitation as usual — Participants follow the standard residential rehabilitation program provided by the center. This is a naturalistic exposure; the study does not impose any additional intervention. The "intervention" of interest is the routine therapeutic environment and its associated psychological processes (e.g., changes in avoidance, cognitive fusion, hope, and behavioral activation). These processes are measured through weekly written narratives and biweekly validated clinical scales (GAD-7, EROS, ATQ-8, BADS).
 Link: https://clinicaltrials.gov/study/NCT07595614
-
-SUMMARY:
-
-
-## NCT07782684
-Reconstruction Kinetics of γδ T Cells and Their Clinical Impact After Unrelated Cord Blood Transplantation
-
-Intervention: : Umbilical Cord Blood Transplantation as Treatment of Adult Patients with Hematologic Disorders — Allogeneic umbilical cord blood transplantation as a standard treatment for underlying hematological diseases.
-Link: https://clinicaltrials.gov/study/NCT07782684
 
 SUMMARY:
 

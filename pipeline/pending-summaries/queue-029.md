@@ -973,15 +973,6 @@ Link: https://clinicaltrials.gov/study/NCT07256340
 SUMMARY:
 
 
-## NCT07803874
-Evaluation of UV-Trichoscopic Red Fluorescence Intensity in Relation to Trichoscopic Findings and Response to Intralesional Corticosteroid Treatment in Limited Plaque-Type Alopecia Areata
-
-Intervention: : Triamcinolone Acetonide — Intralesional triamcinolone acetonide is administered for limited plaque-type alopecia areata as part of routine clinical care. The decision to administer treatment is made independently of participation in this observational study. The study prospectively evaluates trichoscopic and UV-trichoscopic findings and hair regrowth during routine treatment follow-up.
-Link: https://clinicaltrials.gov/study/NCT07803874
-
-SUMMARY:
-
-
 ## NCT06928103
 Comparison of the Acute Effects of Different Warm-up Protocols on Shoulder Mobility, Muscle Stiffness, Muscle Power Performance, Shoulder Functional Ability and Shoulder Endurance in Overhead Athletes With Posterior Shoulder Tightness
 
@@ -1073,29 +1064,11 @@ Link: https://clinicaltrials.gov/study/NCT05117125
 SUMMARY:
 
 
-## NCT07739004
-Triage Performance and Physiological Parameters Predicting Serious Illness in Children Presenting With Fever to the Pediatric Emergency Department: A Multicenter Prospective Cohort Study
-
-Intervention: : Ministry of Health three-level color-coded triage — At presentation, each child is assigned a triage category (Red, Yellow, or Green) by the triage nurse using the Turkish Ministry of Health three-level color-coded system, and physiological parameters (heart rate, respiratory rate, oxygen saturation, capillary refill time, AVPU level of consciousness, and general appearance) are recorded on a standardized triage form. This reflects routine care and is not modified for the study.
-Link: https://clinicaltrials.gov/study/NCT07739004
-
-SUMMARY:
-
-
 ## NCT06566105
 The Liver BIoBank Lombardia Genomic Cohort Study (LIVER-BIBLE): Personalized Medicine for the Management of Hepatic and Cardiovascular Thrombotic Complications of Fatty Liver
 
 Intervention: : precision medicine approach — precision medicine approach to improvement of risk stratification of hepatic and cardiovascular complications in non-alcoholic fatty liver disease in a group of healthy subjects at increased risk of metabolic pathologies
 Link: https://clinicaltrials.gov/study/NCT06566105
-
-SUMMARY:
-
-
-## NCT07676240
-Randomized Controlled Trial of an Adapted Evidence-Based Coaching Program for Fathers and Their Young Children in the Context of Home Visiting
-
-Intervention: : Filming Interactions to Nurture Development (FIND) — FIND-F is a 6-session manualized program that begins with the home visitor taking a 10-minute video of the father and child engaging in an everyday activity (e.g., playing, having a snack). Then, that video is carefully edited to emphasize the specific strengths observed in the father-child interactions. The brief, edited videos are then reviewed with the father the following week. In reviewing the video clips, the home visitor uses micro-analytic narration, highlighting the frame-by-frame sequence of events that fosters the child's healthy development. In this way, the goal of FIND-F is to shift the father's perceptions of himself and his child, enabling the father to become increasingly responsive and encouraging. Home visitors also provide opportunities for fathers to comment and ask questions throughout the video review.
-Link: https://clinicaltrials.gov/study/NCT07676240
 
 SUMMARY:
 
@@ -1223,15 +1196,6 @@ The Incidence of Inadvertent Intravascular Injection During Ultrasound-guided Ce
 
 Intervention: : cervical medial branch block — ultrasound-guided cervical medial branch block with fluoroscopic control and digital subtraction angiography
 Link: https://clinicaltrials.gov/study/NCT06731920
-
-SUMMARY:
-
-
-## NCT07727200
-Molar-Incisor Hypomineralisation (MIH): Correlation Between Colour of Defect and Enamel Breakdown
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07727200
 
 SUMMARY:
 
@@ -1428,17 +1392,6 @@ Link: https://clinicaltrials.gov/study/NCT04755855
 SUMMARY:
 
 
-## NCT07783503
-A Phase 1, Two-part, Open-label, Drug-drug Interaction Study to Assess the Effect of Phenytoin and Itraconazole on the Pharmacokinetics of Pelabresib in Healthy Participants
-
-Intervention: : Pelabresib — Oral dosing
-: Phenytoin — Oral dosing
-: Itraconazole — Oral dosing
-Link: https://clinicaltrials.gov/study/NCT07783503
-
-SUMMARY:
-
-
 ## NCT06996249
 Prospective Data Collection Initiative on Thoracic Malignancies - a Prospective Observational Cohort Study
 
@@ -1592,15 +1545,6 @@ Link: https://clinicaltrials.gov/study/NCT06869239
 SUMMARY:
 
 
-## NCT07704489
-San Raffaele Registry on Liver Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07704489
-
-SUMMARY:
-
-
 ## NCT06576089
 Optimizing Recruitment to Drive Equitable Research Opportunity in Stroke Rehabilitation in Canada - The ORDER Pilot Study
 
@@ -1723,16 +1667,6 @@ Real-World Data on the Treatment of Lung Cancer Patients With the Immune-Checkpo
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07510724
-
-SUMMARY:
-
-
-## NCT07715864
-Naturally Produced Cannabinoids for Pain Management and Neuroprotection From Concussion During Participation in Contact Sports: Neuroprotection
-
-Intervention: : Broad spectrum cannabinoid formulation — Broad spectrum cannabinoid formulation gel capsule
-: Placebo gel capsule — Placebo gel capsule will have MCT oil only, no active ingredient
-Link: https://clinicaltrials.gov/study/NCT07715864
 
 SUMMARY:
 
@@ -1952,15 +1886,6 @@ VZV in the Enteric Nervous System: Pathogenesis and Consequences
 Intervention: : ValACYclovir 1000 MG — Valacyclcovir is a targeted anti-viral for varicella zoster virus (VZV).
 : Shingrix — Vaccine indicated for prevention of herpes zoster
 Link: https://clinicaltrials.gov/study/NCT05550194
-
-SUMMARY:
-
-
-## NCT07780500
-REFOCUS-HTN US-WEST: a Data Infrastructure to Characterize Contemporary Individuals With Hypertension, Their Care, Health Outcomes, and Wellbeing
-
-Intervention: : observational study — Participants are not assigned an intervention
-Link: https://clinicaltrials.gov/study/NCT07780500
 
 SUMMARY:
 

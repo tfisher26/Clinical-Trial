@@ -228,15 +228,6 @@ Link: https://clinicaltrials.gov/study/NCT05750498
 SUMMARY:
 
 
-## NCT07792200
-Repeat Biliary Point of Care Ultrasound for Detecting Early Acute Cholecystitis
-
-Intervention: : Repeat biliary point of care ultrasound — Repeat biliary point of care ultrasound to be performed 2-6 hours following initial ultrasound imaging study
-Link: https://clinicaltrials.gov/study/NCT07792200
-
-SUMMARY:
-
-
 ## NCT06277466
 Department of Pharmacy, the Affiliated Hospital of Xuzhou Medical University
 
@@ -430,15 +421,6 @@ Link: https://clinicaltrials.gov/study/NCT07310953
 SUMMARY:
 
 
-## NCT07766863
-Evaluation of AI Support for Differential Diagnosis in Emergency Medicine.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07766863
-
-SUMMARY:
-
-
 ## NCT07460453
 Study of Life Challenges, Personality, and Emotional Experiences
 
@@ -517,17 +499,6 @@ Role of Ferritin in the Clinical Presentation and Short-Term Prognosis of Diabet
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06748365
-
-SUMMARY:
-
-
-## NCT07777328
-The Effect of 5-hydroxytryptophan on Microsaccades and Distractibility in Individual With High Levels of ADHD Traits: a Randomised, Double-blind Trial
-
-Intervention: : 5-hydroxytryptophan (food supplement) 200mg — 200mg 5-HTP delivered in two tablets. Tablets obtained from Nature's Best supplements. Each tablet contains 3982mg of Griffonia seed extract, providing 100mg of 5-HTP. The tablets consist of calcium carbonate, griffonia seed extract, Anti-caking Agents (Silicon Dioxide, Stearic Acid, \& Magnesium Stearate) and Tablet Coating (Hydroxypropyl Methylcellulose, Glycerol).
-: 5-hydroxytryptophan (food supplement) 300mg — 300mg 5-HTP delivered in three tablets. Tablets obtained from Nature's Best supplements. Each tablet contains 3982mg of Griffonia seed extract, providing 100mg of 5-HTP. The tablets consist of calcium carbonate, griffonia seed extract, Anti-caking Agents (Silicon Dioxide, Stearic Acid, \& Magnesium Stearate) and Tablet Coating (Hydroxypropyl Methylcellulose, Glycerol).
-: Placebo — Unmedicated lactose-sucrose tablets provided by Ainsworth's homoeopathic remedies
-Link: https://clinicaltrials.gov/study/NCT07777328
 
 SUMMARY:
 
@@ -716,15 +687,6 @@ Motiva Implants® Post-Approval Study (PAS) Protocol for Motiva SmoothSilk® Rou
 Intervention: : Silicone gel-filled breast implants - Motiva Implants® — Breast Surgery
 : Aesthetic Surgery — Aesthetic procedure other than breast implant surgery
 Link: https://clinicaltrials.gov/study/NCT06938399
-
-SUMMARY:
-
-
-## NCT07785154
-Post-Authorisation Registry of ELZONRIS (Tagraxofusp) in Patients With Blastic Plasmacytoid Dendritic Cell Neoplasm (BPDCN)
-
-Intervention: : Tagraxofusp — No study medication will be provided by the sponsor during this study.
-Link: https://clinicaltrials.gov/study/NCT07785154
 
 SUMMARY:
 
@@ -1333,16 +1295,6 @@ Link: https://clinicaltrials.gov/study/NCT06235125
 SUMMARY:
 
 
-## NCT07723404
-Accuracy of Complete-Arch Implant Scans Obtained Using Non-Calibrated Splinting Bodies and a Mobile Phone-Based Photogrammetry System (T-Marker): A Randomized Crossover Clinical Trial
-
-Intervention: : Non-Calibrated Splinting Scan Body System (IoConnect) — A non-calibrated splinting scan body system used with an intraoral scanner to record complete-arch implant positions. The workflow uses splinted scan bodies that are digitally merged with the soft-tissue scan to generate the definitive implant impression.
-: Mobile Phone-Based Photogrammetry System (T-Marker) — A smartphone-based photogrammetry system used to capture complete-arch implant positions through optical markers attached to multiunit abutments. The system generates a digital implant position dataset for prosthetic workflow and accuracy assessment.
-Link: https://clinicaltrials.gov/study/NCT07723404
-
-SUMMARY:
-
-
 ## NCT06681545
 An Exploration of the Experiences and Support Needs of Young Adults With Severe and Uncontrolled Asthma
 
@@ -1509,26 +1461,6 @@ Predictors and Process Moderators of EMDR Therapy for Depressive Symptoms: Proto
 
 Intervention: : EMDR — The EMDR process follows an eight-phase protocol that includes (1) history taking: gathering patient's background information and planning treatment, (2) preparation: preparing the patient for processing target, (3) assessment: accessing target of the traumatic memories, (4) desensitization: processing target memories using dual task , (5) installation: strengthening the alternative positive cognition, (6) body scan: noting any physical sensations related to the target memory, (7) closure: ensuring patient's stability at the end of the session, and (8) revaluation: assessing effectiveness of the session and future planning.
 Link: https://clinicaltrials.gov/study/NCT07033741
-
-SUMMARY:
-
-
-## NCT07745504
-A Placebo-controlled Comparability Study to Compare Two Presentations of Cagrilintide for Weight Management in Participants With Overweight or Obesity
-
-Intervention: : Cagrilintide — Cagrilintide will be administered subcutaneously.
-: Placebo cagrilintide — Placebo matched to cagrilintide will be administered subcutaneously.
-: Placebo semaglutide — Placebo matched to semaglutide will be administered subcutaneously.
-Link: https://clinicaltrials.gov/study/NCT07745504
-
-SUMMARY:
-
-
-## NCT07713615
-Device-Detected Atrial Fibrillation - Haemostatic Profile and Echocardiographic Variables
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07713615
 
 SUMMARY:
 
@@ -1981,16 +1913,6 @@ Link: https://clinicaltrials.gov/study/NCT06469710
 SUMMARY:
 
 
-## NCT07697404
-The ED95 of Ciprofol for Laryngeal Mask Airway Insertion With Fentanyl in Children: A Biased-Coin Dose-Finding Trial
-
-Intervention: : Ciprofol — All patients will receive a fixed dose of fentanyl (1 μg/kg) and a predetermined bolus dose of ciprofol, administered intravenously over 1 minute. The initial ciprofol dose is set at 0.35 mg/kg, with a dose step size of 0.1 mg/kg. The dose for each subsequent patient is determined by the biased-coin design: if the previous patient achieves successful LMA insertion (no movement), the next patient receives the same dose with a probability of 0.947 or a 0.1 mg/kg lower dose with a probability of 0.053. If the previous patient fails (movement occurs), the next patient receives a 0.1 mg/kg higher dose.
-: Fentanyl — All patients will receive a fixed dose of fentanyl (1 μg/kg) and a predetermined bolus dose of ciprofol
-Link: https://clinicaltrials.gov/study/NCT07697404
-
-SUMMARY:
-
-
 ## NCT06747884
 Trial Readiness and Endpoint Assessment in Pediatric Myotonic Dystrophy Extension
 
@@ -2037,16 +1959,6 @@ Link: https://clinicaltrials.gov/study/NCT05954403
 SUMMARY:
 
 
-## NCT07698210
-A Phase 1, Placebo-Controlled, Single- and Multiple-Ascending Dose Study to Evaluate Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of LY4178256 in Healthy Participants
-
-Intervention: : LY4178256 — Administered intravenously (IV)
-: Placebo — Administered IV
-Link: https://clinicaltrials.gov/study/NCT07698210
-
-SUMMARY:
-
-
 ## NCT07321340
 Insole Optimization for Rheumatoid Arthritis Patients - INORA - (Insole Optimization for Rheumatoid Arthritis Patients)
 
@@ -2070,15 +1982,6 @@ Biomarkers Based EArly Diagnosis of STroke Subtype Cohort, Bio-EAST
 
 Intervention: : Detection of peripheral blood biomarkers — Peripheral blood samples were collected from patients suffering from acute stroke. The concentration of the biomarker glial fibrillary acidic protein (GFAP) was then detected. This was aimed at differentiating between hemorrhagic stroke and non - hemorrhagic stroke. Time - concentration curves were constructed, thereby offering a novel potential approach for the rapid identification of stroke types within ambulances.
 Link: https://clinicaltrials.gov/study/NCT07003477
-
-SUMMARY:
-
-
-## NCT07665229
-VOCAL BIOMARKERS FOR HEALTH MONITORING: AN OPEN LONGITUDINAL HYBRID COHORT STUDY
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07665229
 
 SUMMARY:
 
@@ -2231,22 +2134,6 @@ Link: https://clinicaltrials.gov/study/NCT06538636
 SUMMARY:
 
 
-## NCT07795645
-Development and Validation of Fine-Tuning Techniques for Large Models in Gastric, Cardiovascular and Cerebrovascular Diseases
-
-Intervention: : Smart Medical Big Data Dataset Construction — Integrating multimodal medical data (electronic medical records, medical images and reports, laboratory results, genetic information) with medical guidelines, expert consensus, clinical databases, medical literature, encyclopedias, patents, and doctor-patient dialogue data. Datasets are constructed in phases: pre-training general knowledge datasets (guidelines, textbooks, literature, historical records) and fine-tuning disease-specific datasets (doctor-patient dialogues, disease-specific records, treatment plans, follow-up records). Techniques include data cleaning, standardization, transformation, annotation, and augmentation. The platform adopts a human-machine collaboration strategy to reduce data annotation costs, combining medical experts' professional knowledge with AI capabilities.
-: Large-Scale Medical Knowledge Graph Construction — Extracting multimodal knowledge graphs from guidelines, consensus, and literature using the QLora training framework. The process involves medical knowledge modeling (defining entities, relations, attributes), entity recognition (disease names, drug names), relation extraction (disease-symptom, drug-treatment relationships), attribute extraction (incidence, dosage), and knowledge fusion and completion to build a tens-of-millions-level knowledge graph. The construction incorporates multimodal data integration (text, images, audio) through image recognition and speech recognition technologies.
-: Multi-Disease Medical Large Model Fine-Tuning Platform Construction and Fine-Tuning — Developing fine-tuning techniques for different disease areas using the ChatGLM large model, with integration of expert feedback. Pre-training uses large-scale medical datasets with language modeling tasks. Fine-tuning incorporates physician annotation, data augmentation (multi-task learning, adversarial training), and prompt-tuning to generate disease-specific responses. Deployment applies quantization to reduce model size and improve inference speed. A quality evaluation system is developed as a standardized method for measuring model performance, incorporating customized methods tailored to specific diseases and drawing on existing frameworks such as Ragas and CMB.
-: Medical History Collection System Development — Building an intelligent medical history collection system using voice interaction, natural language processing, and large model technologies. Speech recognition and NLP techniques collect patient information through multi-round dialogue with strategies including questioning, paraphrasing, feeling reflection, and self-disclosure. Physicians supervise and validate the model through Reinforcement Learning from Human Feedback to improve collection efficiency. After collection, the model extracts key information (chief complaint, history of present illness, past medical history, personal history, allergy history) and uses Retrieval-Augmented Generation (RAG) combined with guidelines for preliminary triage.
-: Clinical Auxiliary Diagnosis Research — Building an intelligent clinical auxiliary diagnosis system with multi-source data fusion integrating heterogeneous medical records, laboratory reports, and imaging text reports using OCR and natural language processing (NLP). Using chain-of-thought and reasoning capabilities of large language models combined with knowledge graph retrieval to generate evidence-based diagnostic recommendations. Physicians provide feedback through a data annotation interface to fine-tune the system, with customization settings to meet individual physician needs.
-: Medical Record Generation and Quality Control Research — Building a medical record generation system enabling automatic entry of patient information and automatic medical record generation using large language models for entity recognition, text classification, and semantic understanding. The system generates records compliant with writing standards including chief complaint, history of present illness, past medical history, personal history, marital and reproductive history, family history, and auxiliary examinations. A quality control system automatically detects generated records and, when core fields are missing, alerts physicians through highlighting and submission blocking, prompting them to make necessary additions and modifications.
-: Doctor-Patient Consultation Audio Data Collection and Processing Research — Providing a solution for consultation audio data collection and processing to support intelligent history collection, rapid triage, and clinical auxiliary diagnosis. The collected audio is converted to accurate textual content with preliminary analysis to identify key medical information (symptoms, medications, treatment processes). The study addresses speech recognition challenges including specialized terminology, dialects, accents, and elderly speech characteristics, using refined speech processing algorithms and deep learning approaches. Strict data protection measures (encryption, anonymization) are applied throughout collection, transmission, storage, and processing to ensure patient data security.
-: Cross-Center External Validation — Validating the generalizability of the five intelligent diagnosis and treatment systems (gastric cancer, chronic gastritis, GERD, coronary artery disease, stroke) by transferring the fine-tuned systems from the training center to other centers for external cross-validation. Feasibility and accuracy are evaluated by comparing information collected from large model-patient interactions and physician-patient interactions across different center environments.
-Link: https://clinicaltrials.gov/study/NCT07795645
-
-SUMMARY:
-
-
 ## NCT06718309
 A Prospective Cohort Study of Chemotherapy Plus Immunotherapy Combined With Stereotactic Body Radiotherapy as Neoadjuvant Therapy for Patients With Resectable Non-small Cell Lung Cancer
 
@@ -2377,15 +2264,6 @@ Bilateral thigh: Mid-thigh anterior surface Bilateral pretibial region: Anterior
 : Bioelectrical Impedance Analysis — With Bioelectrical Impedance Analysis, fat, muscle and water ratio and lean mass are calculated in addition to the patient's body weight.
 : Ultrasound — Measurement of subcutaneous fat tissue thickness from mid-thigh, pretibial, lateral leg and supramalleolar regions with ultrasound.The average of two measurements taken from the same area will be recorded.According to these measurements; 12-15 mm = mild lipedema or lipohyperplasia, 15-20 mm = moderate lipedema, \>20 mm = significant lipedema, \>30 mm = severe lipedema.
 Link: https://clinicaltrials.gov/study/NCT06770634
-
-SUMMARY:
-
-
-## NCT07750171
-Impact of Smoking on Th1/Th2-M1/M2 Cytokine Balance and B-Cell Immune Responses in Peri-Implant Health and Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07750171
 
 SUMMARY:
 
@@ -2531,15 +2409,6 @@ Falcon - The Exact Sciences Multicancer Early Detection (MCED) Real World Eviden
 
 Intervention: : Exact Sciences Multicancer Early Detection (MCED) Test — Exact Sciences MCED test, is a qualitative in vitro diagnostic (IVD) for the detection of alterations in circulating tumor DNA and tumor-associated protein levels, which are commonly associated with cancer. It is performed on plasma derived from peripheral blood specimens.
 Link: https://clinicaltrials.gov/study/NCT06589310
-
-SUMMARY:
-
-
-## NCT07725042
-Combined Epidemiologic and Molecular Network Analyses of Newly Diagnosed HIV Infection in Hong Kong
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07725042
 
 SUMMARY:
 
@@ -2707,17 +2576,6 @@ Improved Assessment of Cardiovascular Risk Through Imaging in Relatives Identifi
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06995183
-
-SUMMARY:
-
-
-## NCT07823205
-A Phase 1, Open-Label, Crossover Study to Evaluate the Relative Bioavailability of Different Oral Formulations of KT-621 in Healthy Adult Participants
-
-Intervention: : KT-621 — KT-621 Reference Oral Formulation
-: KT-621 — KT-621 Test Oral Formulation #1
-: KT-621 — KT-621 Test Oral Formulation #2
-Link: https://clinicaltrials.gov/study/NCT07823205
 
 SUMMARY:
 
@@ -3029,28 +2887,6 @@ Informed Ecological Rewiring of Gut Microbiome for Dysbiosis-associated Disorder
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07517029
-
-SUMMARY:
-
-
-## NCT07733869
-The Effect of Adding Core Muscle Training With Shoulder Strengthening in Tennis Players: A Randomized Controlled Trial
-
-Intervention: : Shoulder Strengthening Program+ Sham core Treatment — Delivered 2×/week for 10 weeks under supervision of a licensed physical therapist or certified strength and conditioning specialist. Progressive resistance program including:
-
-* External/internal rotation strengthening (resistance band, cable, or dumbbell) at 0° and 90° abduction
-* Scapular stabilization exercises (rows, Y-T-W raises, serratus punch)
-* Posterior shoulder stretching (sleeper stretch, cross-body stretch) for the TGAR component
-* Progressive overload every 2 weeks based on tolerated resistance/repetitions
-
-Sham :Low-intensity, non-progressive trunk mobility exercises with minimal loading (e.g., seated trunk rotations without resistance, cat-camel stretches), matched for session time and attention to control for non-specific training effects, without targeting core strength/endurance adaptation.
-: Shoulder Strengthening Program+ Core Strengthening Program — Delivered 2×/week for 10 weeks, same sessions as the shoulder program (combined \~50-60 minute sessions), progressive core program including:
-
-* Anti-rotation exercises (Pallof press)
-* Rotational power exercises (medicine ball rotational throws, cable woodchoppers)
-* Anterior/lateral/posterior chain stability (plank variations, side plank, bird-dog)
-* Progressive overload via increased resistance, hold time, or instability surface every 2 weeks
-Link: https://clinicaltrials.gov/study/NCT07733869
 
 SUMMARY:
 
@@ -3513,24 +3349,6 @@ Link: https://clinicaltrials.gov/study/NCT06843512
 SUMMARY:
 
 
-## NCT07750470
-Diagnostic Accuracy of 18F-FDG PET/CT in Muscle-invasive Bladder Cancer: Rationale and Design of the MIBC-PET Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07750470
-
-SUMMARY:
-
-
-## NCT07835412
-Role of Health Screening in Patients Undergoing Surgery for Pituitary Neuroendocrine Tumors: A Multicenter Cohort Study From the National Brain Tumor Registry of China (NBTRC)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07835412
-
-SUMMARY:
-
-
 ## NCT07084727
 Retinal Biomarkers as a Tool for Early Detection of Endothelial Dysfunction in Women With Preeclampsia
 
@@ -3935,15 +3753,6 @@ Link: https://clinicaltrials.gov/study/NCT06511505
 SUMMARY:
 
 
-## NCT07803406
-Multimodal Imaging of Basal Cell Carcinoma: A Usability Study
-
-Intervention: : Non-invasive multimodal skin imaging — Sequential non-invasive imaging of basal cell carcinoma lesions using three AI-assisted imaging modalities: OCT (VivoSight Dx, Michelson Diagnostics), LC-OCT (deepLive, DAMAE Medical), and HFUS (SkinScanner, Dermus). All devices are CE-marked Class IIa medical devices used within their approved intended purpose. Each device incorporates an AI module to support image interpretation. Imaging is performed at a single study visit and is strictly observational and adjunct to standard clinical care. No tissue is removed and no therapeutic intervention is performed.
-Link: https://clinicaltrials.gov/study/NCT07803406
-
-SUMMARY:
-
-
 ## NCT07652086
 An Investigation Into the Effects of Basic Body Awareness Therapy on Musculoskeletal Pain, Spinal Mobility, Balance and Flexibility
 
@@ -4143,24 +3952,6 @@ Link: https://clinicaltrials.gov/study/NCT07243730
 SUMMARY:
 
 
-## NCT07754331
-A Phase I, Single-Centre, Randomised, Single-dose, Open-label, 2-period, 2-way Crossover Study to Assess the Effect of Haemodialysis on the Pharmacokinetics, Safety, and Tolerability of Balcinrenone/Dapagliflozin in Participants With Kidney Failure
-
-Intervention: : Balcinrenone/dapagliflozin — Participants will be receiving balcinrenone/ dapagliflozin before or after hemodialysis
-Link: https://clinicaltrials.gov/study/NCT07754331
-
-SUMMARY:
-
-
-## NCT07701304
-Developing and Testing Warning Labels for Retail Cannabis Products
-
-Intervention: : Discrete choice experiment (DCE) survey-experiment — A discrete choice experiment (DCE) consisting of 16 distinct choice sets. Each choice set presents combinations of the following attributes: 1) Cannabis package style: 1) "Standardized" plain package, 2) plain package with brand logo and fonts, 3) brand color background with brand logo and fonts, and 4) fully branded with brand imagery, brand logo, and brand descriptors and fonts. Branding type: 1) Adventure brand vs. 2) Earthy brand. Health warning size: 1) Small (20% of packaging surface) - health warnings use currently mandated warning language from multiple jurisdictions vs. 2) Large (40% of packaging surface) - health warnings use currently mandated warning language from multiple jurisdictions. Product THC content: 1) Low THC vs. 2) High THC. Product type: 1) Joints, 2) Vape, 3) Edibles, and 4) Drinks. Participants will rate all combinations of product attributes.
-Link: https://clinicaltrials.gov/study/NCT07701304
-
-SUMMARY:
-
-
 ## NCT07093853
 Residual Ridge Changes in Mandibular Overdentures Retained by Four Locator Attachments Versus Four-Implant Bar Attachments: A 10-Year Retrospective Study
 
@@ -4229,15 +4020,6 @@ National Longitudinal Cohort of Hematological Diseases-Large Granular Lymphocyti
 
 Intervention: : A combined retrospective and prospective observational follow-up — The NICHE-LGLL will collect basic information, diagnostic and treatment information, as well as health costs information of patients from medical records. The study will use questionnaire to measure the exposure of patients, and prospectively follow-up to collect the prognosis information.
 Link: https://clinicaltrials.gov/study/NCT07019766
-
-SUMMARY:
-
-
-## NCT07730541
-Integrated Precision Imaging for Rectal Cancer Patients Undergoing Total Neoadjuvant Therapy: Hyperpolarized 13C-MRI, Metabolomics, and Radiomics
-
-Intervention: : Hyperpolarized 13C-MRI (HP 13C-MRI) — Metabolic MRI using IV injection of hyperpolarized \[1-13C\]pyruvate.
-Link: https://clinicaltrials.gov/study/NCT07730541
 
 SUMMARY:
 
@@ -4334,16 +4116,6 @@ Link: https://clinicaltrials.gov/study/NCT07327606
 SUMMARY:
 
 
-## NCT07818031
-Bleaching Efficacy, Color Durability, and Tooth Sensitivity After In-Office Bleaching With Peroxide Versus Non-Peroxide Systems: A Randomized Clinical Trial
-
-Intervention: : peroxide -based in office tooth bleaching — Participants will receive an in-office peroxide-based tooth bleaching treatment using the bleaching system according to the manufacturer's instructions.
-: non-peroxide -based in office tooth bleaching — Participants will receive an in-office non- peroxide-based tooth bleaching treatment using the bleaching system according to the manufacturer's instructions.
-Link: https://clinicaltrials.gov/study/NCT07818031
-
-SUMMARY:
-
-
 ## NCT04801862
 Clinical, Microbiological and Genetic Factors Associated With Recurrence of Clostridioides Difficile Infection and Development of a Predictive Tool for Recurrence
 
@@ -4395,15 +4167,6 @@ Prospective Study of Minimally Invasive Hernia Repair
 
 Intervention: : Minimally invasive hernioplastia — laparoscopic or robotically assisted hernioplastia
 Link: https://clinicaltrials.gov/study/NCT07544238
-
-SUMMARY:
-
-
-## NCT07665710
-Prediction of Pancreatogenic Diabetes After Partial Resection of the Pancreas
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07665710
 
 SUMMARY:
 
@@ -4506,25 +4269,6 @@ Intervention: : Sampling — Blood samples taken as part of a scheduled assessme
 * For the initial assessment: 1 x 10 mL dry tube At the request of the research teams: one EDTA tube may be replaced by a heparinised or citrated tube, depending on the planned research. Bone marrow samples, taken during a scheduled myelogram as part of medical care
 * Myelogram: 1 x 2 mL EDTA tube In exceptional cases, during a scheduled surgical procedure, a tissue sample will be considered in consultation with the surgeon (affected tissue, surrounding healthy tissue).
 Link: https://clinicaltrials.gov/study/NCT07512882
-
-SUMMARY:
-
-
-## NCT07680153
-Neuromodulation of Mood Switch Circuitry in Bipolar Disorder
-
-Intervention: : MagVenture MagPro TMS system — TANS-guided SAL Acc iTBS approach: Targeted Functional Network Stimulation (TANS) combines precision functional mapping (PFM) with electric field (E-field) modeling to individualize circuit targeting. Active rTMS will be intermittent theta burst simulation (iTBS) delivered to the salience network (SAL) with an accelerated intervention protocol (up to 5 consecutive days of 10 hourly active rTMS sessions).
-: Sham Stimulation — An Active/Placebo (A/P) sham TMS coil will be used to deliver placebo stimulation. The A/P coil is a double-sided coil in which one side delivers effective magnetic stimulation, while the opposite side is configured to produce a sham condition without inducing cortical activation. Sham stimulation will also be delivered to the salience network (SAL) with an accelerated intervention protocol (up to 5 consecutive days of 10 hourly sham rTMS sessions).
-Link: https://clinicaltrials.gov/study/NCT07680153
-
-SUMMARY:
-
-
-## NCT07823569
-Does the Prone Position Affect Continuous Noninvasive Hemoglobin Measurement?
-
-Intervention: : Prone Positioning — Prone positioning is performed as part of standard surgical care for lumbar stabilization surgery and is not assigned by the investigators. The study will evaluate the association between prone positioning and the agreement between noninvasive hemoglobin (SpHb) measurements and simultaneously obtained laboratory hemoglobin values.
-Link: https://clinicaltrials.gov/study/NCT07823569
 
 SUMMARY:
 
@@ -4744,16 +4488,6 @@ Link: https://clinicaltrials.gov/study/NCT06140901
 SUMMARY:
 
 
-## NCT07715786
-Comparison of Hamstring Muscle Oxygenation Responses During Nordic Hamstring Exercise and Blood Flow Restriction Nordic Hamstring Exercise in Elite Adolescent Athletes: A Crossover Experimental Study
-
-Intervention: : Nordic Hamstring Exercise — Participants will perform a standardized Nordic Hamstring Exercise protocol under physiotherapist supervision. From a kneeling position with the ankles stabilized, participants will lower the trunk forward in a controlled manner while maintaining alignment of the trunk and hips.
-: Blood Flow Restriction Nordic Hamstring Exercise — Participants will perform the same standardized Nordic Hamstring Exercise protocol while individualized blood flow restriction is applied using a pneumatic cuff positioned on the proximal lower extremity.
-Link: https://clinicaltrials.gov/study/NCT07715786
-
-SUMMARY:
-
-
 ## NCT05933889
 Single and Combined Modality Trans-Oral Robotic Surgery in Early Oropharyngeal Cancer: Exploring the Impact of Surgical Margins on Local Disease Recurrence: The SCORE Study
 
@@ -4867,15 +4601,6 @@ Cough and expectorant drugs for cough and phlegm: ambroxol hydrochloride, acetyl
 
 Low molecular weight heparin: For elderly hospitalized CAP patients, the risk of deep vein thrombosis should be assessed, and low molecular weight heparin should be applied for prevention when necessary.
 Link: https://clinicaltrials.gov/study/NCT06693362
-
-SUMMARY:
-
-
-## NCT07685730
-Comparative Analysis of the Predictive Performance of Noninvasive Beat-by-Beat Blood Pressure and Flow Measurements at the Lower Extremity Versus the Upper Extremity for Neonatal Outcomes Under Spinal Anesthesia for Elective Cesarean Delivery
-
-Intervention: : ClearSight — The ClearSight system provides continuous blood pressure and advanced hemodynamic parameters from a noninvasive finger cuff sensor. Therefore, placing both cuff sensors in different arms will ensure no interference with the ClearSight readings due to the conventional blood pressure cuff inflation.
-Link: https://clinicaltrials.gov/study/NCT07685730
 
 SUMMARY:
 
@@ -5044,16 +4769,6 @@ Genetic Risk Score of Type 1 Diabetes Mellitus for Progression to Insulin in Dia
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07621445
-
-SUMMARY:
-
-
-## NCT07674446
-Comparative Bioavailability Study of Dimotec 1000 mg Film-coated Tablet Versus Detralex 1000 mg Film Coated Tablets in Healthy Subjects Under Fed Conditions: Randomized, Four-period, Full-replicate Crossover
-
-Intervention: : Dimotec 1000 mg film-coated tablet — Diosmin 1000 mg film-coated tablet. Single oral dose administered under fed conditions. Active substance: Diosmin 1000 mg. ATC code: C05CA03. Manufactured by MEDITOP Gyogyszeripari Kft., Hungary. Marketing Authorisation Holder: Keri Pharma Hungary Kft.
-: Detralex 1000 mg film-coated tablets — Diosmin 1000 mg film-coated tablets. Single oral dose administered under fed conditions. Active substance: Diosmin 1000 mg. ATC code: C05CA53. Manufactured by Servier (Ireland) Industries Ltd. Marketing Authorisation Holder: Les Laboratoires Servier Industrie, France.
-Link: https://clinicaltrials.gov/study/NCT07674446
 
 SUMMARY:
 
@@ -5296,15 +5011,6 @@ Link: https://clinicaltrials.gov/study/NCT06720831
 SUMMARY:
 
 
-## NCT07822425
-Augmented Reality Real-Time Guidance With In-situ Feedback
-
-Intervention: : LUMENA Guidance System — LUMENA is an augmented reality needle guidance system that provides real-time visual guidance during CT-guided needle placement procedures.
-Link: https://clinicaltrials.gov/study/NCT07822425
-
-SUMMARY:
-
-
 ## NCT07019077
 Incidence of Late Haemorrhage After Invasive Gastroenterological Endoscopic Manoeuvre in Patients Treated With Anticoagulants Compared to Non-anticoagulated Patients
 
@@ -5377,15 +5083,6 @@ Liquid Biopsies in Esophageal Adenocarcinoma: Barrett's Esophagus and Esophageal
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05688176
-
-SUMMARY:
-
-
-## NCT07809347
-Evaluation of the Factors Associated With Bradtycardia Following Pulmonary Vein Isolation Using Pulsed Field Ablation
-
-Intervention: : Pulmonary vein isolation — Ablation of atrial fibrillation using pulsed field technology under general sedation.
-Link: https://clinicaltrials.gov/study/NCT07809347
 
 SUMMARY:
 
@@ -5637,30 +5334,11 @@ Link: https://clinicaltrials.gov/study/NCT06723262
 SUMMARY:
 
 
-## NCT07815080
-Positioning Femoral Component TKA Using an Extramedullary Guide: Comparison With Conventional Intramedullary Guide
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07815080
-
-SUMMARY:
-
-
 ## NCT07268196
 Impact of Liver Transplantation on Sexual Life and Function
 
 Intervention: : No Treatment — This is an Observational Study
 Link: https://clinicaltrials.gov/study/NCT07268196
-
-SUMMARY:
-
-
-## NCT07756541
-Pain Management Optimized Through Patient-centered Multi-Session Group Music Therapy Within INteGrative sharEd progRamming: A Feasibility Randomized Controlled Trial
-
-Intervention: : Yoga — A registered yoga therapist will lead a total of sixteen (16) 60 minute classes over 8 weeks, plus guidance and resources for weekly home practice. Each yoga practice includes postural awareness, breathing practices, physical postures, moving sequences, progressive relaxation, and mental focusing. Philosophical concepts are introduced in each class, including non-harming, gratitude, and self-compassion. Physical practices include standing, seated, and optional floor-based poses that focus on building strength, mobility, and balance. For each practice, a range of options are provided for individuals to select according to their level of physical function and comfort. Props for adapting poses include yoga blocks, straps, blankets, and chairs. Practices are introduced slowly over the 8-week program to ensure safe execution and facilitate self-efficacy.
-: Music Therapy — A board-certified music therapist will provide a total of 16 MT sessions (8 in-person and 8 virtual) that include education, social connection, and experiential music interventions. These sessions will focus on self-management of pain through evidenced-based MT interventions including music sharing, playlists using the iso-principle, music making, music and guided imagery, music and deep breathing, progressive muscle relaxation, and adapted cardio drumming.
-Link: https://clinicaltrials.gov/study/NCT07756541
 
 SUMMARY:
 
@@ -6285,15 +5963,6 @@ Link: https://clinicaltrials.gov/study/NCT05868629
 SUMMARY:
 
 
-## NCT07714694
-Consumer Evaluation of an Investigational Intermittent Catheter
-
-Intervention: : An intermittent urethral urinary catheter with a tip, tube and drainage eyelets — An intermittent urethral urinary catheter with a tip, tube and drainage eyelets
-Link: https://clinicaltrials.gov/study/NCT07714694
-
-SUMMARY:
-
-
 ## NCT07232043
 AI-driven Clinical-trial Trial-Information and Viability Assessment Tool for EHRs (ACTIVATE)
 
@@ -6384,15 +6053,6 @@ A Participant- and Investigator--Blinded, Placebo- Controlled, Randomized, Multi
 Intervention: : OJR520 — Participants will receive OJR520 in different dose levels.
 : Placebo — Participants will receive OJR520 matching placebo.
 Link: https://clinicaltrials.gov/study/NCT07235059
-
-SUMMARY:
-
-
-## NCT07777341
-Effects of Red Grape Juice on the Plasma Metabolome in Chronic Coronary Artery Disease.
-
-Intervention: : Red Grape Juice — Participants will undergo two 3-week intervention periods in random order: daily consumption of 400 mL of red grape juice and a control period involving complete abstinence from polyphenol-rich foods.
-Link: https://clinicaltrials.gov/study/NCT07777341
 
 SUMMARY:
 
@@ -6523,17 +6183,6 @@ Multicenter, Randomized, Controlled, Prospective, Confirmatory Study to Evaluate
 Intervention: : Surgical navigation system with stereotactic guidance — This investigational medical software device utilizes CT imaging data to project the scanned anatomy onto the patient's body, enabling augmented reality-based visualization of the lesion site before surgery
 : General ultrasound imaging system — A general diagnostic ultrasound imaging device that transmits ultrasound energy to the lesion for diagnostic purposes and visualizes the reflected signals. It supports various types of transducers and associated application software packages used for acquiring, displaying, and analyzing ultrasound data.
 Link: https://clinicaltrials.gov/study/NCT07003841
-
-SUMMARY:
-
-
-## NCT07723157
-Cesarean Scar Defect: a Prospective, Observational Study.
-
-Intervention: : Transvaginal ultrasonography examination — Transvaginal ultrasonography examination to assess the uterine measurements, residual myometrium thickness, adjacent myometrium thickness, niche depth, niche width, uterine cervix to cesarean section scar distance.
-
-Gynecological examination including pelvic organ prolapse examination, cough test.
-Link: https://clinicaltrials.gov/study/NCT07723157
 
 SUMMARY:
 
@@ -6803,15 +6452,6 @@ Screening Effect of Dual-energy CT Combined With Nasopharyngeal Endoscopy for Sc
 
 Intervention: : participants will undergo dual-energy CT and endoscopy — Diagnostic Test: P85-Ab,EBNA1-IgA,and VCA-IgA. Detect P85-Ab, EBNA1-IgA, VCA-IgA for all participants and select serological high-risk participants DiagnosticTest: dual-energy CT, endoscopy and biopsy. serological high-risk participants will refer to dual-energy CT, endoscopy and biospy
 Link: https://clinicaltrials.gov/study/NCT05884983
-
-SUMMARY:
-
-
-## NCT07779005
-The Shengjing Lung Cancer Cohort (SJ-LCC) Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07779005
 
 SUMMARY:
 

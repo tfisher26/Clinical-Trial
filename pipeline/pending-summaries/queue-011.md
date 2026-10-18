@@ -232,15 +232,6 @@ Link: https://clinicaltrials.gov/study/NCT06493084
 SUMMARY:
 
 
-## NCT07826546
-The Prognostic Role of Central Sensitization in Short-Term Clinical Outcomes in Chronic Nonspecific Low Back Pain
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07826546
-
-SUMMARY:
-
-
 ## NCT07345975
 Characterization of Opposition to Organ Donation at Strasbourg University Hospital in 2024-2025
 
@@ -327,15 +318,6 @@ Task-specific Maximal Strength and Motor Fatigability During Daily Activities of
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07486388
-
-SUMMARY:
-
-
-## NCT07681466
-Chronology and Sequence of Premonitory Symptoms to Understand How Migraine Attack Starts: the CHRONOpS Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07681466
 
 SUMMARY:
 
@@ -569,17 +551,6 @@ Link: https://clinicaltrials.gov/study/NCT06504589
 SUMMARY:
 
 
-## NCT07767487
-A Single-ascending and Multiple-ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of LY4226695 in Healthy Participants
-
-Intervention: : LY4226695 — Administered SC
-: LY4226695 — Administered IV
-: Placebo — Administered SC
-Link: https://clinicaltrials.gov/study/NCT07767487
-
-SUMMARY:
-
-
 ## NCT06893822
 The Effect of Griffonia Simplicifolia on Pain Intensity, Central and Peripheral Sensitization, Painmodulation in Healthy Volunteers - A Randomized, Double-blinded, Placebo-controlled, Cross-over Study
 
@@ -694,15 +665,6 @@ The Gut Microbiome - Source of Sepsis and Novel Target in Intensive Care Units? 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06749483
-
-SUMMARY:
-
-
-## NCT07707297
-BIOANCIENT: Cohort of Centenarians in Navarra (1926-1927)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07707297
 
 SUMMARY:
 

@@ -557,17 +557,6 @@ Link: https://clinicaltrials.gov/study/NCT07112014
 SUMMARY:
 
 
-## NCT07808892
-Interactions Between Food Processing Level, Nutrition Quality, Nutrition Security and Anxiety in Israeli Adults: Influence on Dietary Intake
-
-Intervention: : Test Meals Differing in Processing Level and Nutritional Quality — Interventions: Three distinct meal interventions and six randomized sequence arms. The six arms differ only in intervention order. The meals are:
-
-LP-HNQ Meal: Low-processing, high-nutritional-quality test meal consumed under standardized laboratory conditions. HP-HNQ Meal: High-processing, high-nutritional-quality test meal consumed under standardized laboratory conditions. HP-LNQ Meal: High-processing, low-nutritional-quality test meal consumed under standardized laboratory conditions.
-Link: https://clinicaltrials.gov/study/NCT07808892
-
-SUMMARY:
-
-
 ## NCT07531511
 SLC6A1-NDD Prospective Longitudinal Natural History Study
 
@@ -652,16 +641,6 @@ Link: https://clinicaltrials.gov/study/NCT06756542
 SUMMARY:
 
 
-## NCT07784517
-Immediate Effects of Diaphragmatic Facilitation on Upper Extremity Performance in Volleyball Players
-
-Intervention: : Diaphragmatic Facilitation — Following a standardized dynamic warm-up, participants in the intervention group will receive a single session of manual resisted diaphragmatic facilitation.
-: Sham Facilitation — Participants in the control group will complete the same dynamic warm-up protocol, followed by a sham intervention consisting of superficial, non-facilitatory palpation and general breathing instructions.
-Link: https://clinicaltrials.gov/study/NCT07784517
-
-SUMMARY:
-
-
 ## NCT04794296
 Recommendations for the Treatment of Children With Acute Lymphoblastic Leukemia in the GFAOP
 
@@ -694,24 +673,6 @@ Clinical Utility of Quantitative Electrocardiography in Patients With Acute Hear
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07601022
-
-SUMMARY:
-
-
-## NCT07823712
-Association of the Geriatric Nutritional Risk Index and Prognostic Nutritional Index With Short-Term Clinical Outcomes in Older Adults With Multiple Rib Fractures Presenting to the Emergency Department After Isolated Blunt Thoracic Trauma: A Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07823712
-
-SUMMARY:
-
-
-## NCT07731880
-Influencing Next-Generation Oncologic Outcomes Through Rapid Integration of Functional Precision Medicine (NOORI): A Feasibility Study of SmartMatch in Rare Gynecologic Cancers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07731880
 
 SUMMARY:
 
@@ -864,15 +825,6 @@ Link: https://clinicaltrials.gov/study/NCT06415201
 SUMMARY:
 
 
-## NCT07814014
-Real-world Insight Into Systemic Therapies for Hepatocellular Carcinoma: a Comprehensive Single-center Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07814014
-
-SUMMARY:
-
-
 ## NCT06702891
 Integrative Analysis of Exosome-Mediated Single-Cell Transcriptomics and Proteomics in Gastric Cardia Cancer
 
@@ -887,16 +839,6 @@ High-Risk prostatE Cancer radiatiOn Versus surgERy (RECOVER)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05931419
-
-SUMMARY:
-
-
-## NCT07768813
-Bioequivalence of Survodutide (BI 456906) When Administered Via Pre-filled Syringe (Formulation A) and Vial (Formulation B2) in Male and Female Trial Participants Who Are Healthy or Otherwise Healthy But Overweight/Obese (an Open-label, Randomised, Single-dose, Two-period, Two-sequence Crossover Trial)
-
-Intervention: : Survodutide formulation A — Pre-filled pen
-: Survodutide formulation B2 — Survodutide formulation B2
-Link: https://clinicaltrials.gov/study/NCT07768813
 
 SUMMARY:
 
@@ -947,17 +889,6 @@ Peripheral Fractional Tissue Oxygen Extraction and Infection in Term and Preterm
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04818762
-
-SUMMARY:
-
-
-## NCT07809802
-Phase I Clinical Study to Compare and Evaluate the Pharmacokinetics and Safety of Orally Administered Vorolanib Tablets in Participants With Mild (Child-Pugh A) or Moderate (Child-Pugh B) Hepatic Impairment and Participants With Normal Hepatic Function
-
-Intervention: : vorolanib — a single oral dose of 200 mg
-: vorolanib — a single oral dose of 200 mg
-: Vorolanib — a single oral dose of 200 mg
-Link: https://clinicaltrials.gov/study/NCT07809802
 
 SUMMARY:
 
@@ -1358,15 +1289,6 @@ Link: https://clinicaltrials.gov/study/NCT07504003
 SUMMARY:
 
 
-## NCT07725237
-Demonstration of the StarGuide GX SPECT/CT System
-
-Intervention: : StarGuide GX SPECT/CT Scan — Participants will undergo two SPECT/CT scans and will be randomized to determine whether imaging with the StarGuide GX scanner or the commercially released reference scanner is performed first. The second scan will begin within one hour of completion of the first scan. No additional tracer will be administered prior to the second imaging session, as both scans will utilize the initially administered dose. Following completion of both scans, participants will be asked to complete a brief questionnaire.
-Link: https://clinicaltrials.gov/study/NCT07725237
-
-SUMMARY:
-
-
 ## NCT04920474
 Protocol for a Research Sample Repository for Hematopoietic Cell Transplantation, Other Cellular Therapies and Marrow Toxic Injuries
 
@@ -1526,15 +1448,6 @@ Link: https://clinicaltrials.gov/study/NCT05073848
 SUMMARY:
 
 
-## NCT07779135
-Effect of Aromatherapy on the Management of Chemotherapy-Induced Neuropathy (CIN) in Patients Receiving Taxane Therapy for Breast Cancer.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07779135
-
-SUMMARY:
-
-
 ## NCT06797908
 Pediatric Systemic Hypertension Risk Factors, Complications, Management, and Longitudinal Multidisciplinary Follow-up
 
@@ -1585,15 +1498,6 @@ Observational Study on the Effectiveness of a First-line Therapy With Aminaphton
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07026513
-
-SUMMARY:
-
-
-## NCT07783074
-Fatigue Investigation Using Digital Outcomes (FIDO) - An Exploratory Project
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07783074
 
 SUMMARY:
 
@@ -1890,15 +1794,6 @@ Link: https://clinicaltrials.gov/study/NCT06880575
 SUMMARY:
 
 
-## NCT07716410
-A Prospective Study to Characterize the Clinical Presentation and Course of Cryptosporidium in Pediatric Participants With Symptomatic Cryptosporidiosis in Endemic Countries
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07716410
-
-SUMMARY:
-
-
 ## NCT07658716
 Evaluating the Effectiveness of a Colonoscopy Surveillance Recommendations Algorithm in Clinical Practice
 
@@ -1992,15 +1887,6 @@ Link: https://clinicaltrials.gov/study/NCT06248957
 SUMMARY:
 
 
-## NCT07782229
-Appetite and Cognition Response to a Breakfast Cereal
-
-Intervention: : Ready-To-Eat Cereal — Packaged Ready-To-Eat Cereal product available in retail stores
-Link: https://clinicaltrials.gov/study/NCT07782229
-
-SUMMARY:
-
-
 ## NCT05272202
 Study of Modulations of Motor Brain Activity Following Stimulation of the Median Nerve During General Anesthesia
 
@@ -2008,24 +1894,6 @@ Intervention: : Propofol — STIM-MOTANA is an interventional and prospective st
 : Median nerve stimulation — The right-hand median nerve will be stimulated in the same way as for measurement with a conduction velocity or for an evoked potential. Two stimulation electrodes will be placed on the right-hand wrist according to the standards.The stimulation is transcutaneous and painless using the specific Micromed device Sd Ltm Stim Energy (Micromed, Mˆacon, France). The stimulus intensity will range between 3 and 14 mA. The stimulation duration will be 100 ms with a frequency of 0.1 Hz.
 : EEG measurements — Changes in ERD and ERS patterns during median nerve stimulation according to the various propofol concentrations will be continuously monitored by an EEG amplifier. EEG signals will be acquired using the OpenViBE platform with a Biosemi Active Two 64-channel EEG system, arranged in the Biosemi's ABC system covering the entire scalp at 2048 Hz. Among all recorded sites, some of the electrodes will be localized around the primary motor cortex, the motor cortex, the somatosensory cortex, and the occipital cortex.
 Link: https://clinicaltrials.gov/study/NCT05272202
-
-SUMMARY:
-
-
-## NCT07754162
-Inter-Rater Reliability of Ultra Sound Based Rectus Abdominis Thickness Following Blood Flow Restriction Training : A Retrospective Analysis.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07754162
-
-SUMMARY:
-
-
-## NCT07676318
-Evaluation of Large Language Models for Transforming Structured Dental Radiology Data Into Narrative Radiology Reports
-
-Intervention: : Large language model-assisted radiology report generation — Structured dental radiology data will be processed using a large language model to generate narrative dental radiology reports. The model will transform predefined structured findings into report text for research evaluation. The model will not independently interpret radiographic images, make clinical diagnoses, recommend treatment, or replace professional review. Generated reports will be assessed for completeness, factual consistency with the source data, clarity, terminology, errors, safety, and potential workflow usefulness.
-Link: https://clinicaltrials.gov/study/NCT07676318
 
 SUMMARY:
 
@@ -2118,15 +1986,6 @@ Link: https://clinicaltrials.gov/study/NCT05746260
 SUMMARY:
 
 
-## NCT07725783
-Prospective Evaluation of Dynamic Serum ProGRP for Treatment Response Monitoring in Ewing Sarcoma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07725783
-
-SUMMARY:
-
-
 ## NCT06366724
 LIFT: Life Improvement Trial
 
@@ -2152,15 +2011,6 @@ Weeks 2-4: 40mg TID (3.33mL TID)/3.0mg QD (3.0mL QD)
 
 Weeks 5-13: 60mg TID (5mL TID)/4.5mg QD (4.5mL QD)
 Link: https://clinicaltrials.gov/study/NCT06366724
-
-SUMMARY:
-
-
-## NCT07766694
-Evaluating the Safety and Appropriateness of AI-based E-Consults for Older Adults in Primary Care
-
-Intervention: : Discrete Choice Experiment Survey — Participants will review these e-consults systems via a one-time survey lasting about 15 minutes.
-Link: https://clinicaltrials.gov/study/NCT07766694
 
 SUMMARY:
 

@@ -21,15 +21,6 @@ Link: https://clinicaltrials.gov/study/NCT06735105
 SUMMARY:
 
 
-## NCT07802769
-Magnetic Resonance Imaging of Cerebral Connectivity and Volume in Neurodegeneration and Glaucoma
-
-Intervention: : MRI — MRI
-Link: https://clinicaltrials.gov/study/NCT07802769
-
-SUMMARY:
-
-
 ## NCT04980794
 Effectiveness of an Empirically Supported Family Intervention: Mental Health Outcomes, Mechanisms of Effect, and Organizational Factors
 
@@ -82,15 +73,6 @@ Identification of the Metabolic Signature of Atrial Fibrillation for Personalize
 Intervention: : FA ablation — Ablation of the FA
 : Lab test — Blood collection
 Link: https://clinicaltrials.gov/study/NCT06735001
-
-SUMMARY:
-
-
-## NCT07663565
-Apheresis Collection for New Drug Development and Evaluation Research
-
-Intervention: : None AHT — No intervention measures
-Link: https://clinicaltrials.gov/study/NCT07663565
 
 SUMMARY:
 
@@ -713,15 +695,6 @@ Link: https://clinicaltrials.gov/study/NCT07363395
 SUMMARY:
 
 
-## NCT07828301
-Post-ICU Syndrome: Exploring the Role of Social Determinants on Trajectories and Outcomes
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07828301
-
-SUMMARY:
-
-
 ## NCT05004714
 Implementation of a Multilevel Program to Reduce Asthma Symptoms in Urban Preschoolers
 
@@ -773,15 +746,6 @@ Cognitive Screening Made Easy for PCPs - Administrative Supplement
 
 Intervention: : RACS app — risk assessment questions, symbol matching task, voice tasks
 Link: https://clinicaltrials.gov/study/NCT06928298
-
-SUMMARY:
-
-
-## NCT07704671
-Individual Patient Data Meta-Analysis of Prospective Studies of Patients Treated With the GORE® Iliac Branched Endoprosthesis
-
-Intervention: : Iliac Branched Endoprosthesis — Iliac Branched Endoprosthesis to treat iliac aneurysm
-Link: https://clinicaltrials.gov/study/NCT07704671
 
 SUMMARY:
 
@@ -1198,16 +1162,6 @@ Link: https://clinicaltrials.gov/study/NCT07416292
 SUMMARY:
 
 
-## NCT07725510
-A Comparative Study on the Diagnostic Efficacy of Confocal Laser Endomicroscopy Versus Rapid On-Site Evaluation (ROSE) for Ex Vivo Lung Biopsy Specimens Obtained Via Bronchoscopy
-
-Intervention: : Ex Vivo Confocal Laser Endomicroscopy (CLE) Imaging and Interpretation — Following navigational bronchoscopy and target confirmation via radial endobronchial ultrasound (r-EBUS) and in vivo CLE, a lung biopsy is performed. The first retrieved specimen is immediately transferred to the CLE workstation. A CLE expert measures the specimen dimensions and then performs a comprehensive surface scan of the intacttissue using a confocal miniprobe. The operator records the time required for setup and imaging. Based exclusively on the real-time microarchitectural patterns (e.g., loss of normal alveolar honeycombing, dense cell clusters), the blinded CLE expert renders a preliminary diagnosis of "benign" or "malignant." Crucially, this intervention is non-consumptive, meaning the tissue remains physically intact and structurally preserved after the scan for the subsequent ROSE procedure.
-: Rapid On-Site Evaluation (ROSE) Imaging and Interpretation — Immediately following the completion of the ex vivo CLE imaging on the same biopsy specimen, the tissue undergoes ROSE processing. A ROSE expert (cytopathologist) performs a smear preparation using the CLE-scanned tissue. The specimen is then stained (e.g., Diff-Quik) and evaluated microscopically. The operator records the time required for smear preparation, staining, and interpretation. The blinded ROSE expert assesses the presence of atypical cells or diagnostic material to render a cytological diagnosis of "benign" or "malignant." Unlike the preceding CLE step, this intervention is consumptive, as it requires the physical disruption of the tissue architecture to transfer cellular material onto glass slides.
-Link: https://clinicaltrials.gov/study/NCT07725510
-
-SUMMARY:
-
-
 ## NCT07372170
 Real-world Observational Study to Evaluate the Effectiveness and Safety of Direct Oral Anticoagulants Compared With Vitamin K Antagonists for Secondary Thrombosis Prevention in Low-risk Thrombotic Antiphospholipid Syndrome Patients
 
@@ -1305,15 +1259,6 @@ Intervention: : Exercise — 1 hour of one-legged knee-extensor exercise followe
 : Placebo — Administration of 800 mg of calcium tablets
 : Rapamycin — Administration of 16 mg of Rapamycin tablets
 Link: https://clinicaltrials.gov/study/NCT05233722
-
-SUMMARY:
-
-
-## NCT07726511
-The Effect of Intentional Hard Gum Chewing on Facial Morphology: a 3DMD-based Analysis x
-
-Intervention: : Hard Gum Chewing — Participants will chew a standardized hard chewing gum (Jawliner®, hard hardness level) every other day for 4 weeks. Each session will consist of two 8-minute chewing blocks following a standardized protocol with controlled chewing pace, progressive force application, and alternating chewing sides. Total chewing time per session will be approximately 16 minutes.
-Link: https://clinicaltrials.gov/study/NCT07726511
 
 SUMMARY:
 
@@ -1492,15 +1437,6 @@ Intervention: : Seizure status — We will collect information on first seizure 
 : Demographics and psychosocial — We will collect information on age, sex, date of death if applicable, marital status, education level, income type, driving status, employment, benefits, sick leave, number of household members.
 : Health care — We will collect information on received health care; visit dates, caregiver, dispensation dates of antiepileptic drugs
 Link: https://clinicaltrials.gov/study/NCT04559919
-
-SUMMARY:
-
-
-## NCT07745036
-Investigation of Progesterone Membrane Receptor Expression in Placental Tissue of Women With Preeclampsia and Their Potential Role in the Pathogenesis of Preeclampsia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07745036
 
 SUMMARY:
 
@@ -2078,15 +2014,6 @@ Link: https://clinicaltrials.gov/study/NCT06954311
 SUMMARY:
 
 
-## NCT07792694
-Artificial Intelligence-based Prediction and Detection of Critical Arrhythmias in Acute Cardiac Illness.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07792694
-
-SUMMARY:
-
-
 ## NCT07343960
 A Phase I, Single-dose, Non-randomized, Open-label, Parallel Group Study to Assess the Pharmacokinetics and Safety of Capivasertib in Participants With Moderate Hepatic Impairment
 
@@ -2144,16 +2071,6 @@ Link: https://clinicaltrials.gov/study/NCT05680012
 SUMMARY:
 
 
-## NCT07770269
-Multifactorial Assessment of Cardiac Function Through Deformation Imaging, Hemodynamic Parameters, and Anesthesia-related Variables in Patients Undergoing Cardiac Surgery: The SHAPE Study
-
-Intervention: : BIS-guided anesthesia: BIS 45-55 — Total intravenous anesthesia with propofol and remifentanil will be adjusted by the treating anesthesiologist to maintain a Bispectral Index (BIS) target range of 45-55, representing standard anesthesia depth.
-: BIS-guided anesthesia: BIS 30-35 — Total intravenous anesthesia with propofol and remifentanil will be adjusted by the treating anesthesiologist to maintain a Bispectral Index (BIS) target range of 30-35, representing deeper anesthesia.
-Link: https://clinicaltrials.gov/study/NCT07770269
-
-SUMMARY:
-
-
 ## NCT06962722
 The Effect of Upper Limb Low-intensity Motor Control Training (uMCON) Program on Cognitive Function in Healthy Older Adults: A Pilot Study
 
@@ -2186,15 +2103,6 @@ Impact of Frailty and ICU-AW on Post-ICU Fatigue Self-reported
 
 Intervention: : observational prospective data collection — Collection of data from medical records.
 Link: https://clinicaltrials.gov/study/NCT05984069
-
-SUMMARY:
-
-
-## NCT07714499
-Comparison of Resting Energy Expenditure According to Gastrointestinal Functional Status
-
-Intervention: : Protocol-Defined Metabolic and Body Composition Assessment — Participants undergo a standardized research assessment during one study visit. Resting energy expenditure is measured by indirect calorimetry after fasting. Body composition is assessed by dual-energy X-ray absorptiometry and bioelectrical impedance analysis. Blood samples are collected for the assessment of inflammatory markers. These assessments are performed outside routine clinical care according to the study protocol.
-Link: https://clinicaltrials.gov/study/NCT07714499
 
 SUMMARY:
 
@@ -2397,15 +2305,6 @@ ANCABio - a Study Regarding Tumour Microenvironment and the Predictive Capabilit
 
 Intervention: : Biopsies — Biopsies and blood samples will be taken at time of diagnosis or recurrence
 Link: https://clinicaltrials.gov/study/NCT05939401
-
-SUMMARY:
-
-
-## NCT07721766
-HyperLa: Glycolytic Phenotype (vLapeak) and Magnitude of Skeletal Muscle Hypertrophy After Resistance Training: A Multi-centre Study by the HyperLa Study Group
-
-Intervention: : Hypertrophy-focused Resistance Training — Standardized training consisting of twice-weekly supervised sessions for 8 weeks. Each session includes 4 sets of 8-12 repetitions of leg press (or Smith-machine squat) and leg extensions. Training intensity progresses from an RPE of 6 to voluntary muscular failure starting from week three.
-Link: https://clinicaltrials.gov/study/NCT07721766
 
 SUMMARY:
 
@@ -2724,22 +2623,6 @@ The Effects of Hyperbaric Oxygen Therapy at Intermediate Pressure (1.75 ATA) on 
 
 Intervention: : Hyperbaric Oxygen Therapy — 24 Hyperbaric Oxygen Therapy, each lasting 100 minutes, 3 times a week for 8 weeks.
 Link: https://clinicaltrials.gov/study/NCT07361861
-
-SUMMARY:
-
-
-## NCT07805083
-Exploring Health Communication Message Factors That Influence Cancer Research Recruitment
-
-Intervention: : Educational Cancer Intervention — Participants will view informed consent messaging presented in different formats
-: ICF Text Version 1 — Receive a text-based informed consent form
-: ICF Text Version 2 — Receive an adapted text-based informed consent form
-: ICF Video Version 1 — Receive a video-based informed consent form delivered by virtual human #1
-: ICF Video Version 2 — Receive a video-based informed consent form delivered by virtual human #2
-: ICF Video Version 3 — Receive a video-based informed consent form delivered by virtual human #3
-: ICF Video Version 4 — Receive a video-based informed consent form delivered by virtual human #4
-: Survey Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT07805083
 
 SUMMARY:
 

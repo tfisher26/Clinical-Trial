@@ -1003,14 +1003,6 @@ Link: https://clinicaltrials.gov/study/NCT07070232
 
 SUMMARY:
 
-## NCT07705035
-A Phase 1a/1b Open Label, Multicenter, Dose Escalation and Dose Expansion Study of the Safety, Pharmacokinetics, Pharmacodynamics, and Activity of DBC-664 in Adult Patients With Locally Advanced or Metastatic Solid Tumors
-
-Intervention: : DBC-664 — DBC-664 will be administered intravenously.
-Link: https://clinicaltrials.gov/study/NCT07705035
-
-SUMMARY:
-
 ## NCT07834684
 Validation of an Artificial Intelligence (AI)-Powered Clinical Decision Support System for Anxiety and Depression in Primary Care Settings
 
@@ -1230,16 +1222,6 @@ Evertor Muscle Activity as a Predictor of Achilles Tenotomy Before 1 Year in the
 
 Intervention: : scale Idiopathic Clubfoot — The Dimeglo and the muscle activity scale will be performed at 3, 6 and 12 months with patient with idiopathic clubfoot
 Link: https://clinicaltrials.gov/study/NCT05767762
-
-SUMMARY:
-
-## NCT07713680
-Predicting the Post-dialysis Rebound of β2-microglobulin
-
-Intervention: : β2-microglobulin blood concentration in mg/L — Blood samples for β2-microglobulin measurement will be collected by study investigator across two haemodialysis sessions. During the first study visit (HD1), blood samples will be obtained pre-dialysis (0%), at 20%, 40%, 60%, and 80% of the prescribed dialysis duration, at the end of dialysis (100%), and at 1 hour and 2 hours following completion of dialysis. During the second study visit (HD2), a single pre-dialysis β2-microglobulin sample will be collected at the start of the participant's next routine haemodialysis session, which is second and last study visit.
-
-All study samples will be used to measure β2-Microglobulin concentration in mg/L
-Link: https://clinicaltrials.gov/study/NCT07713680
 
 SUMMARY:
 

@@ -101,16 +101,6 @@ Link: https://clinicaltrials.gov/study/NCT06969209
 SUMMARY:
 
 
-## NCT07685210
-A Single-center, Randomized, Double-blind, Placebo-controlled Phase I Clinical Trial in Healthy Adult Participants in China to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Single Ascending Oral Doses of GenSci144
-
-Intervention: : GenSci144 tablets — SLC6A19 transporter small molecule inhibitor, oral tablets in 25mg and 75mg, given as a single dose on an empty stomach, used to explore treatment for phenylketonuria.
-: GenSci144 placebo tablets — No active ingredients, appearance, excipients, and specifications are exactly the same as GenSci144.
-Link: https://clinicaltrials.gov/study/NCT07685210
-
-SUMMARY:
-
-
 ## NCT05466825
 Predicting Cardiovascular Risk by Geographical Region and Sex Using Classical Cardiovascular Risk Factors
 
@@ -237,16 +227,6 @@ Link: https://clinicaltrials.gov/study/NCT07196033
 SUMMARY:
 
 
-## NCT07824271
-A Phase 1, Single-Center, Double-Blind, Placebo-Controlled Study of the Safety, Tolerability and Pharmacokinetics in Plasma, Urine and CSF of Single and Multiple Ascending Doses of ALZ-507 in Healthy Participants
-
-Intervention: : ALZ-507 — Participants will receive ALZ-507 oral capsules administered as single ascending doses in Part 1 or once daily for 14 days as multiple ascending doses in Part 2
-: Placebo — Matching placebo capsules administered orally according to the same dosing schedule as ALZ-507
-Link: https://clinicaltrials.gov/study/NCT07824271
-
-SUMMARY:
-
-
 ## NCT05207852
 Clinical Pharmacology of Dexamethasone in Pregnant Women With Preterm Labor
 
@@ -274,29 +254,11 @@ Link: https://clinicaltrials.gov/study/NCT04723316
 SUMMARY:
 
 
-## NCT07799636
-A Prospective Observational Cohort Study of Early Warning and Stratified Diagnosis of Postoperative Respiratory Failure Based on Ventilator Waveform Image Features
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07799636
-
-SUMMARY:
-
-
 ## NCT04839757
 Preparing for the Use of a Dengue Vaccine in the French Caribbean Islands of Martinique and Guadeloupe : the DengueSEA Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04839757
-
-SUMMARY:
-
-
-## NCT07674407
-The Relationship Between Fear-Avoidance Beliefs and Trunk Muscle Endurance, Balance, and Functional Impairment in Patients With Lumbar Disc Herniation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07674407
 
 SUMMARY:
 
@@ -317,15 +279,6 @@ Intervention: : Nituzumab/placebo — Test group: 3 cycles of induction chemothe
 
 Control group: 3 cycles of induction chemotherapy combined with 9 times of placebo treatment followed by 2-3 cycles of concurrent chemoradiotherapy combined with 7 times of nituzumab targeted therapy, a total of 7 times of nituzumab targeted therapy, only targeted therapy during concurrent chemoradiotherapy
 Link: https://clinicaltrials.gov/study/NCT05508347
-
-SUMMARY:
-
-
-## NCT07747441
-Predictive Value of Baseline Perfusion Index for Spinal Anesthesia-Induced Hypotension in Healthy Patients Undergoing Knee Arthroscopy: A Prospective Observational Trial
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07747441
 
 SUMMARY:
 
@@ -569,25 +522,6 @@ Link: https://clinicaltrials.gov/study/NCT06908499
 SUMMARY:
 
 
-## NCT07789028
-Bioequivalence of Zongertinib Tablets From Two Different Manufacturers Following Oral Administration in Healthy Male and Female Trial Participants in Fasted and Fed State (an Open-label, Randomised, Single-dose, Four-period, Four-sequence Crossover Trial)
-
-Intervention: : Zongertinib, Formulation A, reference product — Zongertinib, Formulation A, reference product
-: Zongertinib Formulation B, test product — Zongertinib Formulation B, test product
-Link: https://clinicaltrials.gov/study/NCT07789028
-
-SUMMARY:
-
-
-## NCT07770022
-Validation of Biomarkers for Long COVID in the LIINC Viral Immunopathogenesis and Persistence Repeat Donor Cohort (VIPER)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07770022
-
-SUMMARY:
-
-
 ## NCT06601010
 The Value of 68Ga-grazytracer PET in Monitoring Responses to Immunotherapy of Pancreatic Cancer.
 
@@ -611,15 +545,6 @@ Predictive Variables of Outcome in Subjects With Chronic Rachialgia Referred to 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06915896
-
-SUMMARY:
-
-
-## NCT07732842
-Study of Repetitive Behaviors in Alzheimer's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07732842
 
 SUMMARY:
 
@@ -692,36 +617,6 @@ Anesthesia Induced Myocardial Injury in Non-cardiac Surgery (AIMY)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07179029
-
-SUMMARY:
-
-
-## NCT07697131
-A Comparative Study of Fusional Vergence According to Ocular Dominance in Healthy Subjects
-
-Intervention: : Fusional Vergence assessment — Measurement of sensorimotor fusional vergence in the right and left eyes, in divergence and convergence, first for distance vision and then for near vision. A random draw will determine which eye is tested first for distance vision, followed by a second draw for near vision, in order to minimize training bias. Prior to this, a stereoscopic acuity test will be performed to confirm the presence of binocular vision.
-: Ocular dominance evaluation — Assessment of ocular dominance for:
-
-* The dominant eye using the monocular blurriness test and the red-glass test
-* The leading eye using the Mawas plate Punctum Proximum convergence test and the bilateral prismatic test for oculomotor dominance
-* The preferred eye using the spontaneous ocular method
-* The target eye using the Hole-in-Card method: hole-in-card test
-: Complete Orthoptic — Conducting an orthoptic evaluation to verify that patients meet the study's inclusion criteria:
-
-* assessment of visual acuity and refraction
-* assessment of stereoscopic vision
-* cover-test to screen potential abnormal phorias
-* measurement of interpupillary distance
-Link: https://clinicaltrials.gov/study/NCT07697131
-
-SUMMARY:
-
-
-## NCT07690202
-Living With Chronic Kidney Disease Without Renal Replacement Therapy: Experience of Women of Childbearing Age
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07690202
 
 SUMMARY:
 
@@ -888,15 +783,6 @@ Link: https://clinicaltrials.gov/study/NCT06774755
 SUMMARY:
 
 
-## NCT07694206
-Delirium Evaluation With Longitudinal Tau Assessment
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07694206
-
-SUMMARY:
-
-
 ## NCT05502133
 Identification of Acute Intermittent Porphyria Modifying Genes
 
@@ -992,15 +878,6 @@ The Respiratory Oxygen Adherence Monitor System for COPD With Long Term Oxygen T
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06810323
-
-SUMMARY:
-
-
-## NCT07757308
-Effects of Metabolic Dysfunction on Functional Capacity and Mental Health Through the Brain-Heart Axis in Type 2 Diabetes Mellitus: A Cross-Sectional Study Based on Electroencephalography and Heart Rate Variability
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07757308
 
 SUMMARY:
 

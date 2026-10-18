@@ -319,16 +319,6 @@ Link: https://clinicaltrials.gov/study/NCT06950853
 SUMMARY:
 
 
-## NCT07816445
-Pilot Study to Test Effects of a New Interparental Conflict Intervention for Separating or Divorcing Parents
-
-Intervention: : Family COMPASS — Family COMPASS (Conflict Management through Purposeful Awareness, Strategies, and Support) is a manualized, trauma-informed parenting intervention designed to reduce children's exposure to interparental conflict following parental separation or divorce. The intervention consists of four highly structured, approximately 30-minute sessions delivered virtually or in person by trained personnel. It focuses on strengthening parents' emotion regulation, communication, co-parenting, conflict management, and safety planning skills.
-: Families in Transition (FIT) — FIT is a 90-minute online parent education program developed by the Superior Court of Maricopa County in collaboration with the National Center for State Courts. The program includes four modules, a film, and interactive activities. It validates parents' difficult feelings toward their co-parent while emphasizing behavior change to protect children from interparental conflict. Content addresses the effects of interparental conflict on children, prioritizing children's needs, developing a child-focused vision for the future, and using practical strategies to reduce conflict behaviors.
-Link: https://clinicaltrials.gov/study/NCT07816445
-
-SUMMARY:
-
-
 ## NCT07639203
 PotenziaMente: A Digital Executive Function Training Intervention for Healthy Aging in the Elderly Population
 
@@ -431,15 +421,6 @@ Link: https://clinicaltrials.gov/study/NCT06856161
 SUMMARY:
 
 
-## NCT07697950
-Non-Invasive Blood Pressure Accuracy Study for Adult Subject Populations
-
-Intervention: : NIBP Measurement — The collection of non-invasive blood pressure measurements using NIBP Standard Parameter Module with SuperSTAT algorithm with simultaneous invasive blood pressure waveform recordings per discretion of the sponsor upon combining the data from other clinical studies to comply with ISO 81060-2:2018 +AMD2:2024.
-Link: https://clinicaltrials.gov/study/NCT07697950
-
-SUMMARY:
-
-
 ## NCT05337319
 A Multi-center, Prospective, Registry Study to Estimate the Current Status of Care for Patients With Coronary Artery Disease
 
@@ -486,18 +467,6 @@ Link: https://clinicaltrials.gov/study/NCT06419413
 SUMMARY:
 
 
-## NCT07749378
-Investigating the Interplay of Striatal and Hippocampal Processing in Decision-Making Using Transcranial Temporal Interference Stimulation
-
-Intervention: : Hippocampal intermittent-theta burst stimulation — Transcranial temporal interference stimulation using intermittent theta-burst protocol and targeting right hippocampus. Unlike the striatal set-up, the hippocampal electrode set-up is asymmetrical and can only stimulate unilaterally (Beanato, Moon et al., 2024; Violante et al., 2023). In the present study, \*right\* hippocampus is targeted because it showed cognitive map-compatible activity in a similar task in a previous study (Garvert et al., 2023) and because it has been suggested to be involved in map-based navigation (Iglói et al., 2010).
-: Striatal intermittent-theta burst stimulation — Transcranial temporal interference stimulation using intermittent theta-burst protocol and targeting bilateral striatum.
-: High-frequency control stimulation with striatal electrode set-up — Analoguous to transcranial temporal interference stimulation except both high-frequency electric fields are oscillating at the exact same frequency, meaning there is no biologically active envelope modulation. This high-frequency stimulation is applied with the striatal electrode set-up in 50 % of the subjects (hippocampal set-up in the other 50 %). No stimulation actually occurs because the stimulation frequency is too high to be biologically active (Grossman et al., 2017).
-: High-frequency control stimulation with hippocampal electrode set-up — Analoguous to transcranial temporal interference stimulation except both high-frequency electric fields are oscillating at the exact same frequency, meaning there is no biologically active envelope modulation. This high-frequency stimulation is applied with the hippocampal electrode set-up in 50 % of the subjects (striatal set-up in the other 50 %). No stimulation actually occurs because the stimulation frequency is too high to be biologically active (Grossman et al., 2017).
-Link: https://clinicaltrials.gov/study/NCT07749378
-
-SUMMARY:
-
-
 ## NCT06538415
 To Determine Whether Adding Polyphenol-rich Pulses to Daily Diet Improves Skin Health by Reshaping the Skin Microbiome and Lipids, and Reducing Oxidative Stress and Inflammation in Women
 
@@ -522,16 +491,6 @@ Assigned Creatine Ingestion With Usual Diet or Usual Diet Alone.
 
 Intervention: : Creatine — Creatine supplementation
 Link: https://clinicaltrials.gov/study/NCT06208813
-
-SUMMARY:
-
-
-## NCT07757347
-Investigation of the Effect of Fructose on Health Parameters and the Intestinal Barrier in Healthy Individuals
-
-Intervention: : Fructose — Following a standardization of their nutritional intake for three days, participants will either receive a drink supplemented with low doses of free fructose (5%).
-: Glucose — Following a standardization of their nutritional intake for three days, participants will either receive a drink supplemented with low doses of free glucose (5 %).
-Link: https://clinicaltrials.gov/study/NCT07757347
 
 SUMMARY:
 
@@ -573,16 +532,6 @@ Link: https://clinicaltrials.gov/study/NCT06774534
 SUMMARY:
 
 
-## NCT07738991
-A Single Center, Single-Dose, Double-Blind, Randomized, Two-Period, Crossover Study to Demonstrate Pharmacokinetic and Pharmacodynamic Similarity Between NKF-PEG, and US-Neulasta®, and to Evaluate Safety in Healthy Adult Male Volunteers
-
-Intervention: : NKF-PEG — NKF-PEG administered as a single 6 mg SC dose in the periumbilical area
-: US-Neulasta — US-Neulasta administered as a single 6 mg SC dose in the periumbilical area
-Link: https://clinicaltrials.gov/study/NCT07738991
-
-SUMMARY:
-
-
 ## NCT06093464
 Beneficial Exposome: Investigating Its Effect on Human Health
 
@@ -599,15 +548,6 @@ Non-Alcoholic Fatty Liver Disease in a Saudi Cohort With Type 2 Diabetes Mellitu
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05697991
-
-SUMMARY:
-
-
-## NCT07728240
-Dietary Fat Quality, Metabolic Health, Cognitive Function, and Responses to Standardized Moderate-Intensity Exercise in Young Adults
-
-Intervention: : Standardized Moderate-Intensity Cycling Session — Participants will complete a standardized 30-minute moderate-intensity cycling session on an electronically braked cycle ergometer. Exercise intensity will be prescribed at approximately 50-60% heart rate reserve (Borg Rating of Perceived Exertion 11-13). Heart rate, perceived exertion, affective responses, exercise enjoyment, subjective energy, and motivation will be assessed before, during, immediately after, and following exercise. The cycling session is conducted as a standardized assessment procedure for all participants and is not assigned as an experimental intervention.
-Link: https://clinicaltrials.gov/study/NCT07728240
 
 SUMMARY:
 

@@ -130,15 +130,6 @@ Link: https://clinicaltrials.gov/study/NCT06065852
 SUMMARY:
 
 
-## NCT07752355
-Young Onset Parkinson's Disease Subtypes and Pathogenic Mechanisms
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07752355
-
-SUMMARY:
-
-
 ## NCT07428447
 Analysis of Cutaneous Phosphorylated Alpha-Synuclein to Identify Patients at Risk of Progressing From Essential Tremor to Parkinson's Disease
 
@@ -225,15 +216,6 @@ An Open-Label, Randomized, Single-Dose, Two-Sequence, Two-Period Crossover Clini
 
 Intervention: : AD-116, AD-1161 — Single-dose oral administration of AD-116 or AD-1161, according to randomized sequence.
 Link: https://clinicaltrials.gov/study/NCT07444385
-
-SUMMARY:
-
-
-## NCT07714863
-Machine Learning-Based Prediction of Recurrence Risk in Allergic Bronchopulmonary Aspergillosis and Its Clinical Decision-Making Value: A Multicenter Study With External Validation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07714863
 
 SUMMARY:
 

@@ -187,16 +187,6 @@ Link: https://clinicaltrials.gov/study/NCT06994494
 SUMMARY:
 
 
-## NCT07674940
-A Phase 1 Double-Blind, Randomized, Placebo-Controlled, Single and Multiple Escalating Dose Trial in Healthy Participants to Assess Pharmacokinetics, Safety, and Tolerability of TEV-56286 at Clinical and Supratherapeutic Doses
-
-Intervention: : TEV-56286 — oral administration
-: Placebo — matching placebo
-Link: https://clinicaltrials.gov/study/NCT07674940
-
-SUMMARY:
-
-
 ## NCT06539234
 Angiotensin II Stress Test. Renin Kinetics During Treatment of Vasoplegic Shock With Angiotensin II in Relation to Hemodynamic Response to Treatment With Angiotensin II.
 
@@ -308,15 +298,6 @@ Link: https://clinicaltrials.gov/study/NCT05577143
 SUMMARY:
 
 
-## NCT07689591
-Noninvasive Artificial Venous Stasis and Coronary Reperfusion in ST-Segment Elevation Myocardial Infarction:The RE-START STEMI Randomized Trial
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07689591
-
-SUMMARY:
-
-
 ## NCT07385807
 Exploring the Gut Microbiota and Dietary Contributors to Elevated Infant Fecal Calprotectin In Patients With Inflammatory Bowel Disease: A Pilot Study (CALINA-IBD)
 
@@ -340,18 +321,6 @@ SPIDER - Spinal Dural Arteriovenous Fistula International Data and Outcomes Regi
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07574645
-
-SUMMARY:
-
-
-## NCT07792603
-TONE UP: Daily Upgrade Trial: Tone, Oxygenation, Neuromood, Energy - Upgrade Evaluation
-
-Intervention: : Essential Amino Acid+ — Daily supplementation of essential amino acids
-: Non-Calorie Placebo — Daily supplementation with non-caloric placebo
-: High intensity Interval Training — Twice weekly high intensity interval training for 3 weeks
-: No Exercise — No exercise
-Link: https://clinicaltrials.gov/study/NCT07792603
 
 SUMMARY:
 
@@ -486,15 +455,6 @@ Link: https://clinicaltrials.gov/study/NCT04697095
 SUMMARY:
 
 
-## NCT07724548
-Transforming On-Treatment Follow-Up Care: A Randomized Controlled Trial of Virtual Versus In-Person Visits Evaluating Clinical Outcomes, Patient-Reported Measures, and Telehealth Implementation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07724548
-
-SUMMARY:
-
-
 ## NCT07302503
 Pilot Study Evaluating brainQuant's Ability to Detect Alterations in White Matter in Diffusion MRI, Indicative of Post-traumatic Lesions
 
@@ -548,15 +508,6 @@ An Observational Study on the Prognostic Value of Neurometabolic Networks in Col
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06930586
-
-SUMMARY:
-
-
-## NCT07819656
-A Multicenter, Prospective, Observational Cohort Study of a Dynamic Risk Prediction Model for Treatment-Related Severe Myelosuppression in Nasopharyngeal Carcinoma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07819656
 
 SUMMARY:
 
@@ -672,15 +623,6 @@ Link: https://clinicaltrials.gov/study/NCT04524637
 SUMMARY:
 
 
-## NCT07753174
-A Clinical Trial to Evaluate the Effects of an Omega-3-containing Supplement on DHA and EPA Levels in the Blood
-
-Intervention: : Omega Active Supplement — All participants receive one dose (two capsules) of the Omega Active omega-3 supplement daily for 12 weeks.
-Link: https://clinicaltrials.gov/study/NCT07753174
-
-SUMMARY:
-
-
 ## NCT06901869
 ActivPARK - Physical Activity in Persons With Parkinson's Disease- Pilot Study
 
@@ -695,15 +637,6 @@ Melanoma of the Skin and Exposure to Solar Ultraviolet Radiation at Work in Mode
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07251335
-
-SUMMARY:
-
-
-## NCT07725718
-Risk Factors for Mesh-Related Infection in Abdominal Wall Reconstruction: A Single-Centre Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07725718
 
 SUMMARY:
 
@@ -1076,16 +1009,6 @@ Intervention: : Carbetocin — Carbetocin first bolus 10-8 M (equivalent to 100 
 : Ergonovine — Increasing concentrations of ergometrine from 10-10 M to 10-5 M
 : Carboprost — Increasing concentrations of carboprost from 10-10 M to 10-5 M
 Link: https://clinicaltrials.gov/study/NCT06285409
-
-SUMMARY:
-
-
-## NCT07694557
-A Phase 1, Randomized, Double-Blind, Ascending-Dose Study to Evaluate the Safety, Reactogenicity and Immunogenicity of Respiratory Syncytial Virus mRNA Vaccine YKYY025 Injection in Healthy Adult Participants
-
-Intervention: : YKYY025 group — intramuscular, a single intramuscular injection of the corresponding dose of YKYY025 for injection
-: YKYY025 Placebo group — intramuscular, a single intramuscular injection of the corresponding dose of YKYY025 Placebo
-Link: https://clinicaltrials.gov/study/NCT07694557
 
 SUMMARY:
 

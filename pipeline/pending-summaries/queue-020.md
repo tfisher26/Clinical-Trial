@@ -1471,15 +1471,6 @@ Link: https://clinicaltrials.gov/study/NCT05123846
 SUMMARY:
 
 
-## NCT07662317
-Construction of a Prospective Cohort Database for the Perioperative Period of Cardiac Surgery
-
-Intervention: : Cardiac surgey — Cardiac surgey
-Link: https://clinicaltrials.gov/study/NCT07662317
-
-SUMMARY:
-
-
 ## NCT07401212
 The Impact of Chronic Consumption of Prebiotics on Cognitive and Affective Outcomes, Gut Microbiome Diversity and Composition in 3-5 Year Olds: a Double-blind Placebo-controlled, Parallel-groups Randomised Controlled Trial
 
@@ -1854,16 +1845,6 @@ Link: https://clinicaltrials.gov/study/NCT05568966
 SUMMARY:
 
 
-## NCT07744334
-Aerobic Versus Resistance Exercise Training on Ventilatory Function in Quarry Workers
-
-Intervention: : Aerobic exercise training — participants will receive aerobic exercise training in addition to routine medical treatment and breathing exercise training.
-: Resistance exercise training — participants will receive resistance exercise training in addition to routine medical treatment and breathing exercise training.
-Link: https://clinicaltrials.gov/study/NCT07744334
-
-SUMMARY:
-
-
 ## NCT06033404
 Registry of Patients Undergoing Anesthesia or Intensive Care Maneuvers
 
@@ -1994,15 +1975,6 @@ Link: https://clinicaltrials.gov/study/NCT07315633
 SUMMARY:
 
 
-## NCT07671235
-Differences in Outcomes and Failure Rates Between Allografts and Autografts in Revision Anterior Cruciate Ligament Reconstruction
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07671235
-
-SUMMARY:
-
-
 ## NCT05898477
 Describing Treatment Outcomes and Responses in Lymphoma-associated Hemophagocytic Lymphohistiocytosis
 
@@ -2027,15 +1999,6 @@ An Early Feasibility Study for the Development of a Model to Non-Invasively Esti
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06368648
-
-SUMMARY:
-
-
-## NCT07683845
-A Study on the Consistency Between Patient-Derived Pancreatic Cancer Organoid-on-a-Chip Drug Sensitivity Test Results and Clinical Chemotherapy Efficacy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07683845
 
 SUMMARY:
 
@@ -2546,16 +2509,6 @@ Link: https://clinicaltrials.gov/study/NCT06296420
 SUMMARY:
 
 
-## NCT07674680
-Beta3-adrenergic Receptors and Cardiovascular Function in Aging Women
-
-Intervention: : Placebo — Participants will receive a placebo in pill form.
-: Gemtesa — Participants will receive oral gemtesa (75 mg).
-Link: https://clinicaltrials.gov/study/NCT07674680
-
-SUMMARY:
-
-
 ## NCT06857929
 Nutritional Approach for the Transformation and Reduction of Chronic Disease Indicators in Middle-aged Adults at High Risk
 
@@ -2685,15 +2638,6 @@ Intervention: : A — Control: base infant rice-based cereal with no added sugar
 : D — Test product: base infant rice-based cereal with age appropriate inclusions. Inclusion type 3 for 6-8 months age group; type 6 for 8-12 months age group; type 8 for 12-18 months age group; type 11 for 18-24 months age group.
 : E — Test product: base infant rice-based cereal with age appropriate inclusions. Inclusion type 7 for 8-12 months and 18-24 months age groups. Not applicable for 6-8 months and 18-24 months age group.
 Link: https://clinicaltrials.gov/study/NCT07318506
-
-SUMMARY:
-
-
-## NCT07672106
-Assessment of Reintubation Risk Using Multiple Parameters in Postoperative Intensive Care Unit Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07672106
 
 SUMMARY:
 
@@ -3267,15 +3211,6 @@ The Assessment of Preoperative Anxiety in Cancer Patients: Validation, Observati
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07517458
-
-SUMMARY:
-
-
-## NCT07771101
-Association Between Early Autonomic Dysfunction Measured by the Analgesia Nociception Index (ANI) and Prolonged Mechanical Ventilation in Postoperative ICU Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07771101
 
 SUMMARY:
 

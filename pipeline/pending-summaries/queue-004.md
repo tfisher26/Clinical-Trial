@@ -193,15 +193,6 @@ Link: https://clinicaltrials.gov/study/NCT07385547
 SUMMARY:
 
 
-## NCT07689864
-Unified Network for Integrated Fluid Collection at Yale
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07689864
-
-SUMMARY:
-
-
 ## NCT04869683
 Biocollection in Patients With Myelodysplastic Syndrome (P-MDS)
 
@@ -270,15 +261,6 @@ Comprehensive Evaluation of the Integrated Smart Pump-EHR Technology in Eight Ad
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06695169
-
-SUMMARY:
-
-
-## NCT07664410
-Theranostic PET for Target Validation and Tumor Detection
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07664410
 
 SUMMARY:
 
@@ -577,15 +559,6 @@ Observational Prospective Multicenter Validation Study Investigating the Possibi
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06310759
-
-SUMMARY:
-
-
-## NCT07761026
-AXIS Autoimmune Neurology Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07761026
 
 SUMMARY:
 
@@ -1126,15 +1099,6 @@ Link: https://clinicaltrials.gov/study/NCT07089524
 SUMMARY:
 
 
-## NCT07715617
-Development of a Prediction Score for the Occurrence of Death or Lung Transplantation in Patients With Emphysema Secondary to Alpha-1-anti-tripsin Deficiency
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07715617
-
-SUMMARY:
-
-
 ## NCT06774482
 Evaluation of Toxicity and Outcomes of Different Therapeutic Strategies in Patients With Uterine Neoplasms Treated With Radiotherapy at the Sant'Orsola Polyclinic in Bologna.
 
@@ -1387,15 +1351,6 @@ Link: https://clinicaltrials.gov/study/NCT07611045
 SUMMARY:
 
 
-## NCT07800585
-The SMILE Protocol: a Longitudinal Study of Mental Health and Inherent Vulnerabilities of French Higher-education Students Through a Symptom-network Analysis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07800585
-
-SUMMARY:
-
-
 ## NCT06230536
 Contribution of High-resolution Manometry With Impedancemetry for the Evaluation of Esophageal Clearance in Achalasia
 
@@ -1419,15 +1374,6 @@ Optimization of an Ultrasound Cardiac Guidance Tool
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05649826
-
-SUMMARY:
-
-
-## NCT07833410
-Chinese Multicenter Prospective Cohort Study of Intracerebral Hemorrhage
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07833410
 
 SUMMARY:
 
@@ -1585,15 +1531,6 @@ Link: https://clinicaltrials.gov/study/NCT07656649
 SUMMARY:
 
 
-## NCT07701161
-Development of a Home Test for Measuring Blood P-tau217 in Alzheimer's Disease Using the Tasso Lancet Device
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07701161
-
-SUMMARY:
-
-
 ## NCT04888936
 Clinical, Genetic, and Epidemiologic Study of Children and Adults With RASopathies
 
@@ -1639,15 +1576,6 @@ Link: https://clinicaltrials.gov/study/NCT04603196
 SUMMARY:
 
 
-## NCT07804680
-Cardiorespiratory Fitness, Handgrip Strength, and Cardiometabolic Health in Obese Children With or Without Autism Spectrum Disorder: a Retrospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07804680
-
-SUMMARY:
-
-
 ## NCT06490146
 Menopause Transition, Sex Hormone Deficiency and Autonomic and Vascular Function
 
@@ -1666,31 +1594,11 @@ Link: https://clinicaltrials.gov/study/NCT05396560
 SUMMARY:
 
 
-## NCT07721402
-A PHASE 1, RANDOMIZED, OPEN-LABEL, 2-PERIOD, 4-SEQUENCE SINGLE-DOSE CROSSOVER STUDY IN HEALTHY PARTICIPANTS TO INVESTIGATE THE RELATIVE BIOAVAILABILITY OF PRIFETRISTAT DRUG PRODUCT DIFFERING IN PARTICLE SIZE DISTRIBUTION
-
-Intervention: : prifetrastat Reference — Reference Treatment
-: prifetrastat Test 1 — Test 1 Treatment
-: prifetrastat Test 2 — Test 2 Treatment
-Link: https://clinicaltrials.gov/study/NCT07721402
-
-SUMMARY:
-
-
 ## NCT07370597
 LUtetium-177 DOsimetry as a Predictive Biomarker of Response in Metastatic Prostate Cancer Patients Treated With PSMA Radioligand THerapy.
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07370597
-
-SUMMARY:
-
-
-## NCT07709273
-Somatic and Psychological Profiles of Athletes Across Seasonal Cycles
-
-Intervention: : No intervention — No intervention is being administered. Participants will undergo observational assessments only, including body composition measurements and questionnaires.
-Link: https://clinicaltrials.gov/study/NCT07709273
 
 SUMMARY:
 

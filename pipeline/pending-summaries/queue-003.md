@@ -2,15 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT07763197
-Sample Collection for Ongoing Research and Product Evaluation Study - Non-muscle Invasive Bladder Cancer (SCORE-NMIBC)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07763197
-
-SUMMARY:
-
-
 ## NCT05160584
 A Prospective, Multinational Study of Real-Life Current Standards of Care in Patients With Relapsed and/or Refractory Multiple Myeloma
 
@@ -25,15 +16,6 @@ Investigation of Postural Stability and Load-Sensitive Neuromuscular Control Mec
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07435935
-
-SUMMARY:
-
-
-## NCT07770126
-The Prevalence and the Pathophysiological Role of Non-Helicobacter Pylori Helicobacter Spp. in Well-defined Gastric Diseases and (Pre-) Malignancies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07770126
 
 SUMMARY:
 
@@ -56,182 +38,11 @@ Link: https://clinicaltrials.gov/study/NCT07440316
 SUMMARY:
 
 
-## NCT07776314
-Are There Any Clinical Benefits to Screening for Late -Onset Gestational Diabetes Mellitus?"
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07776314
-
-SUMMARY:
-
-
-## NCT07777406
-Studio Real-life Sull'Utilizzo Del Trapianto Allogenico di Cellule Staminali Ematopoietiche in Pazienti Affetti da Mieloma Multiplo Recidivato Refrattario
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07777406
-
-SUMMARY:
-
-
-## NCT07779200
-Factors Affecting Bicarbonate Levels In Patients On Haemodialysis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07779200
-
-SUMMARY:
-
-
-## NCT07780890
-A Study to Assess Brillouin Hydration Mapping for the Evaluation of Ocular Tissues and Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07780890
-
-SUMMARY:
-
-
-## NCT07781137
-Retrospective Analysis of Long-term Outcomes of Endoscopic Resection of Duodenal and Ampullary Mucosal and Submucosal Lesions
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07781137
-
-SUMMARY:
-
-
-## NCT07781306
-Prospective Complete Histopathological Characterization of Liver Metastases From Colorectal and Breast Carcinoma to Predict the Histopathological Growth Patterns by Medical Imaging - PrOspEctive Metastases Imaging (POEM)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07781306
-
-SUMMARY:
-
-
-## NCT07782216
-Investigating the Significance of Protein Biomarkers During the Hyperacute Phase of Traumatic Brain Injury and Other CNS Conditions With Hypoxia/Hypoperfusion in Emergency and Prehospital Settings (CHARON)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07782216
-
-SUMMARY:
-
-
-## NCT07782281
-Economic Evaluation of an Early Discharge Pathway With Hospital-at-Home After Bariatric Surgery in Patients Undergoing Bariatric Surgery: A Comparative Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07782281
-
-SUMMARY:
-
-
-## NCT07783178
-EARLY Pregnancy GLucose prOfiles in Women With and Without GDM Risk Factors: EARLY-GLOW
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07783178
-
-SUMMARY:
-
-
-## NCT07783971
-Study on the Microbial Environment of Non-small Cell Lung Cancer Based on Mycogenomics and Its Clinical Relevance
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07783971
-
-SUMMARY:
-
-
-## NCT07786246
-Internal Jugular Vein Collapsibility Index for Volume Status Assessment in Preeclampsia in Correlation With Normotensive Parturients: a Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07786246
-
-SUMMARY:
-
-
-## NCT07787052
-R-GASTIM - Clinicobiological Cohort of Gastric Cancers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07787052
-
-SUMMARY:
-
-
 ## NCT07397624
 Endoscopic Suture Gastroplasty (ESG) for Treatment of Obese Patients With Endometrial Cancer: a Prospective, Multicenter, Observational Study (ESG-ENDO)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07397624
-
-SUMMARY:
-
-
-## NCT07795736
-Characterizing Growth Hormone Deficiency in Traumatic Brain Injury: Evaluation of the Growth Hormone in Adult Quality of Life Questionnaire
-
-Intervention: : Not applicable (observational study) — Not applicable (observational study)
-Link: https://clinicaltrials.gov/study/NCT07795736
-
-SUMMARY:
-
-
-## NCT07798323
-Noninvasive Imaging Biomarkers of Treatable Macrovascular Disease in Age-related Macular Degeneration.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07798323
-
-SUMMARY:
-
-
-## NCT07798674
-TreatHSP/SPAX Master Protocol: Adaptive Platform for Longitudinal Progression, Biomarkers and Pathophysiology in Ataxias, Hereditary Spastic Paraplegias and Spastic Ataxias (TreatHSP/SPAX)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07798674
-
-SUMMARY:
-
-
-## NCT07798700
-Biofluid Research on Age-Related or Inherited Neurodegeneration (BRAIN)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07798700
-
-SUMMARY:
-
-
-## NCT07799831
-Association of Oral Health Status and Salivary Microbiota With Disease Activity in Children With Juvenile Idiopathic Arthritis: A Cross-Sectional Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07799831
-
-SUMMARY:
-
-
-## NCT07800234
-Establishing a National Egyptian HLH Registry (NEHR)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07800234
-
-SUMMARY:
-
-
-## NCT07802379
-Point-of-Care Gastric Ultrasonography for Objective Assessment of Gastric Emptying Rate and Enteral Nutrition Tolerance According to Vasopressor Dose in Critically Ill Patients: A Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07802379
 
 SUMMARY:
 
@@ -250,42 +61,6 @@ A Prospective Clinical Study on the Predictive Value of CEUS and Super-resolutio
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07294859
-
-SUMMARY:
-
-
-## NCT07805278
-A Registry of Cases of Spinal Muscular Atrophy Diagnosed in the Prenatal Period That Received Disease-Modifying Therapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07805278
-
-SUMMARY:
-
-
-## NCT07807228
-Changes in Fungal Mycobiome, Bacterial Microbiome, and Abundance of Staphylococcus Species After Lebrikizumab Treatment - a Prospective Multicenter Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07807228
-
-SUMMARY:
-
-
-## NCT07824102
-Evaluation of the Role of Luteinizing Hormone (LH) and Human Chorionic Gonadotropin (hCG) in Adult Patients Undergoing Assessment for Endocrine Disorders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07824102
-
-SUMMARY:
-
-
-## NCT07830407
-Pre-Clinical Validation of ChemoINTEL Unified Algorithm Chemotherapeutic Response Prediction in Patients With Colorectal Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07830407
 
 SUMMARY:
 
@@ -344,15 +119,6 @@ Link: https://clinicaltrials.gov/study/NCT05106387
 SUMMARY:
 
 
-## NCT07682766
-The MARINA Study: bioMArkeRs of INflammation, Infection, and Immunity in the Critical Area: the Use of Inflammatory and Immunity Biomarkers as Early Predictors of Clinical Severity, Organ Damage, Response to Treatment, and Infectious Complications in Patients Admitted to the Critical Care Area.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07682766
-
-SUMMARY:
-
-
 ## NCT05846802
 Gastroparesis Registry 4 (GpR4): Improving the Understanding of Gastroparesis and Functional Dyspepsia
 
@@ -403,15 +169,6 @@ MAGNIFY - Pulmonary Magnetic Resonance Imaging for Cystic Fibrosis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07192679
-
-SUMMARY:
-
-
-## NCT07744165
-Evaluation of the Relationship Between Latissimus Dorsi and Abdominal Muscle Thickness, Trunk Proprioception, and Postural Stability in Patients With Rotator Cuff Pathology
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07744165
 
 SUMMARY:
 
@@ -619,15 +376,6 @@ Development and Clinical Application of Deep Learning-Based Prospective Patholog
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07157618
-
-SUMMARY:
-
-
-## NCT07685158
-The Relation Between the Number of Previous Cesarean Sections and the Type of Scar Pregnancy: Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07685158
 
 SUMMARY:
 
@@ -858,15 +606,6 @@ Link: https://clinicaltrials.gov/study/NCT06537531
 SUMMARY:
 
 
-## NCT07696884
-Analysis of Clinical Outcomes and Host Immune Response to Vascular Graft and Endograft Infections
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07696884
-
-SUMMARY:
-
-
 ## NCT07014865
 Factors Associated With Health-related Quality of Life and Social Participation of Patients With Multiple Myeloma and Their Caregivers: a Mixed Methods Study
 
@@ -885,15 +624,6 @@ Link: https://clinicaltrials.gov/study/NCT07309523
 SUMMARY:
 
 
-## NCT07803315
-Perfusion Mapping and Tissue Characterization Using Hyperspectral Imaging in Robot-Assisted Partial Nephrectomy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07803315
-
-SUMMARY:
-
-
 ## NCT05912413
 Prediction of Sepsis Recovery Physical Performance Subtypes: A Pilot Study
 
@@ -908,15 +638,6 @@ Cancer and Immune Cell Metabolism in Patients With Hematological Malignancies
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07189117
-
-SUMMARY:
-
-
-## NCT07677982
-Association of Preoperative Consent Understanding With Propofol Requirement During Endobronchial Ultrasound: A Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07677982
 
 SUMMARY:
 
@@ -963,15 +684,6 @@ A Randomized, Vehicle-Controlled, Double-Masked Study of the Safety of IVMED-85 
 Intervention: : IVMED-85 ophthalmic solution — IVMED-85 ophthalmic solution (0.20 mg/mL), administer twice a day (morning and evening) in both eyes
 : Vehicle Ophthalmic Solution — Vehicle ophthalmic solution, administer twice a day (morning and evening) in both eyes
 Link: https://clinicaltrials.gov/study/NCT07370584
-
-SUMMARY:
-
-
-## NCT07743944
-VERITAS Longitudinal Real-world Registry of HR+/HER2- mBC to Understand Treatment Pattern and Clinical Outcomes in HR+/HER2- mBC
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07743944
 
 SUMMARY:
 
@@ -1188,15 +900,6 @@ Link: https://clinicaltrials.gov/study/NCT05373810
 SUMMARY:
 
 
-## NCT07746167
-The Relationship Between Neurostimulation Intensity and Pupillary Dilation Reflex (PRD) in Healthy Volunteers
-
-Intervention: : No intervention (observational study) — No intervention
-Link: https://clinicaltrials.gov/study/NCT07746167
-
-SUMMARY:
-
-
 ## NCT05339789
 Long-term Surgical Treatment Outcome of Peri-implantitis Lesions
 
@@ -1328,15 +1031,6 @@ Towards Universal Screening for Metabolic Dysfunction-Associated Liver Fibrosis 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07658755
-
-SUMMARY:
-
-
-## NCT07720830
-Identification of Genetic Variants Associated With Lichen Sclerosus
-
-Intervention: : No Interventions — this is no interventional study
-Link: https://clinicaltrials.gov/study/NCT07720830
 
 SUMMARY:
 

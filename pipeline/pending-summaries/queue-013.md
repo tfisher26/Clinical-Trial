@@ -266,15 +266,6 @@ Link: https://clinicaltrials.gov/study/NCT05971719
 SUMMARY:
 
 
-## NCT07664930
-Electrophysiological Study of the Phrenic Nerve and Diaphragm in Pompe Disease: Retrospective and Prospective Cohort Analysis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07664930
-
-SUMMARY:
-
-
 ## NCT07499947
 The Value of Waist Circumference, Body Mass Index, and Modified Shock Index in Predicting Spinal Anesthesia-Induced Hypotension During Cesarean Section: A Prospective Observational Study
 
@@ -595,29 +586,11 @@ Link: https://clinicaltrials.gov/study/NCT04748770
 SUMMARY:
 
 
-## NCT07784387
-High-Risk Non-Muscle-Invasive Bladder Cancer (HR-NMIBC) Retrospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07784387
-
-SUMMARY:
-
-
 ## NCT07565727
 Cardiometabolic Disease, Substrate Metabolism, and Abnormal Placental Pathology: a Multimodal Maternal-Fetal Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07565727
-
-SUMMARY:
-
-
-## NCT07690111
-International Registry for TRPM3-associated Disorders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07690111
 
 SUMMARY:
 
@@ -859,15 +832,6 @@ Link: https://clinicaltrials.gov/study/NCT07561424
 SUMMARY:
 
 
-## NCT07789847
-Does Altering Daily Fluid Intake and Hydration Status Influence Cortisol Reactivity to Acute Psychosocial Stress?
-
-Intervention: : Modifying daily total fluid intake — 7-day intervention where the intake of drinking water will either be maintained at habitual level, increased (if habitually low) or decreased (if habitually high). The TFI prescriptions during the intervention are derived from the mean TFI of habitually low and habitually high drinkers from a sex, age and country matched population. Specifically, habitually low drinkers will be permitted a TFI of 3.5 L/day for men and 3.3 L/day for women and habitually high drinkers will be permitted a TFI of 1.3 L/day. Participants will be instructed to maintain their usual intake of other beverages i.e., tea/coffee to achieve their target TFI.
-Link: https://clinicaltrials.gov/study/NCT07789847
-
-SUMMARY:
-
-
 ## NCT07635368
 Protein Biomarkers and Host RNA Expression Profiles in Congenital Cytomegalovirus Infection
 
@@ -900,15 +864,6 @@ Intra Artherial Therapies in Treatment of Primary Liver Diseases: an Observation
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06774690
-
-SUMMARY:
-
-
-## NCT07823101
-Advancing Bulbar Assessment in Inclusion Body Myositis Through a Multimodal Imaging Approach
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07823101
 
 SUMMARY:
 
@@ -958,15 +913,6 @@ Link: https://clinicaltrials.gov/study/NCT05213598
 SUMMARY:
 
 
-## NCT07702058
-The Effects of Mindfulness-Based Postpartum Discharge Education on Mothers' Maternal Role Perception and Anxiety Levels
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07702058
-
-SUMMARY:
-
-
 ## NCT07452380
 A Multicenter Registry Study Examining the Efficacy of Specific Immunotherapy Guided by Component-Resolved Diagnosis for Dust Mite Allergens in Chinese Pediatric Patients With Rhinitis and/or Asthma（EXPLORER STUDY）
 
@@ -1003,30 +949,11 @@ Link: https://clinicaltrials.gov/study/NCT06566612
 SUMMARY:
 
 
-## NCT07677631
-Pain, Emotional Allodynia, and Relational Load (PEARL): A Multicenter Validation Study of the Emotional Allodynia Questionnaire in Fibromyalgia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07677631
-
-SUMMARY:
-
-
 ## NCT07118540
 Evaluation of the Care Provided to Patients Who Underwent Bariatric Surgery and Were Lost to Follow-up 5 Years After Surgery
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07118540
-
-SUMMARY:
-
-
-## NCT07824622
-A Phase I, Randomized, Double-blind, Placebo-controlled Study to Assess the Safety and Pharmacokinetics of AZD0543 in Healthy Adults
-
-Intervention: : AZD0543 — Sterile solution for injection or infusion administered as a single IM or IV dose on Day 1.
-: Placebo — Volume-matched 0.9% (w/v) sterile saline solution for injection or infusion administered as a single IM or IV dose on Day 1.
-Link: https://clinicaltrials.gov/study/NCT07824622
 
 SUMMARY:
 

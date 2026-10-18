@@ -74,15 +74,6 @@ Link: https://clinicaltrials.gov/study/NCT07555080
 SUMMARY:
 
 
-## NCT07799402
-Microbiome in Aging Gut and Brain (MiaGB) Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07799402
-
-SUMMARY:
-
-
 ## NCT06836947
 The Effect of Two Different Bathing Methods on Vital Signs and Comfort in Pediatric Intensive Care Unit:Bath Trial
 
@@ -133,15 +124,6 @@ GEAM: Yield of GEnetic Testing in Arrhythmic Myocarditis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06889662
-
-SUMMARY:
-
-
-## NCT07723560
-Study of Surgical Practices in Hemophilia A Patients Treated With Efanesoctocog Alfa (Altuvoct®)
-
-Intervention: : Clinical Data — Clinical Data
-Link: https://clinicaltrials.gov/study/NCT07723560
 
 SUMMARY:
 
@@ -326,15 +308,6 @@ Link: https://clinicaltrials.gov/study/NCT06724315
 SUMMARY:
 
 
-## NCT07683728
-A Prospective, Multi-Center Registry Study of Progressive Pulmonary Fibrosis (PPF) in China (PROFINA)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07683728
-
-SUMMARY:
-
-
 ## NCT07300293
 Prognosis of Lactic Acidosis Upon Admission to Intensive Care According to the Existence of Prior Treatment With Metformin
 
@@ -371,17 +344,6 @@ Link: https://clinicaltrials.gov/study/NCT05052671
 SUMMARY:
 
 
-## NCT07697625
-A Clinical Study to Evaluate the Plasma Pharmacokinetics of a Single Dose of MK-4082 With and Without Diltiazem Coadministration in Healthy Participants
-
-Intervention: : MK-4082 — Oral administration
-: Diltiazem — Oral administration
-: Rescue medication — All participants will receive ondansetron as a rescue medication. Ondansetron is a medication used to prevent nausea or vomiting.
-Link: https://clinicaltrials.gov/study/NCT07697625
-
-SUMMARY:
-
-
 ## NCT07635771
 Development of a Multidimensional Predictive Model of Dystocic Labor (MPM-PD): Pilot Study on the Association of Physical Condition and Psychosocial Factors With the Completion of Labor and the Success of Breastfeeding.
 
@@ -414,15 +376,6 @@ If Adrenal Incidentalomas Have the Influences to Occur and Progress in Patients 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05237817
-
-SUMMARY:
-
-
-## NCT07795502
-Dynamic Infection Kinetics as an Early Diagnostic and Monitoring Tool for Sepsis in Oncology Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07795502
 
 SUMMARY:
 
@@ -486,15 +439,6 @@ Clinical Outcomes of Treatment With Immunomodulator Plus Standard Anti-cancer Th
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06557668
-
-SUMMARY:
-
-
-## NCT07695376
-CArdiovascular Risk Assessment Via Multimodal Data Analysis Enabling Personalised Prevention Strategies Targeting MEnopausaL Women - Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07695376
 
 SUMMARY:
 
@@ -619,31 +563,11 @@ Link: https://clinicaltrials.gov/study/NCT06793774
 SUMMARY:
 
 
-## NCT07818967
-A Phase 1, Open-Label, Randomized, Crossover Study to Investigate the Relative Bioavailability of Abemaciclib (LY2835219) Test and Reference Formulations and an Alternate Administration Method, in Healthy Participants.
-
-Intervention: : Abemaciclib Tablet (Test Formulation) — Administered orally as a tablet in one of three treatment periods.
-: Abemaciclib Tablet (Reference Formulation) — Administered orally as a tablet in one of three treatment periods.
-: Abemaciclib Oral Granules (Test Formulation) — Administered orally in one of three treatment periods.
-Link: https://clinicaltrials.gov/study/NCT07818967
-
-SUMMARY:
-
-
 ## NCT05559411
 A Prospective Non-interventional Multicenter Cohort Study to Evaluate Different Imaging-guided Methods for Localization of Non-palpable Malignant Breast Lesions
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05559411
-
-SUMMARY:
-
-
-## NCT07831213
-A Post-Market Observational Study of the Safety and Efficacy of RefillHA Lips for Remodelling and Correction of Mild Defects of the Lips.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07831213
 
 SUMMARY:
 
@@ -711,15 +635,6 @@ Link: https://clinicaltrials.gov/study/NCT06402409
 SUMMARY:
 
 
-## NCT07747428
-Assessment of Retinal Microvascular Changes by OCT Angiography and Their Correlation With Visual Acuity and Glycemic Control Across Different Stages of Diabetic Retinopathy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07747428
-
-SUMMARY:
-
-
 ## NCT06955013
 Ability of Emergency Medicine Doctors to Use Ultrasound to View Muscle Layers of the Abdominal Wall
 
@@ -772,15 +687,6 @@ Evaluation of the Preoperative Preparation for Pediatric Cardiac Surgery and Ped
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07414251
-
-SUMMARY:
-
-
-## NCT07760662
-Oxidative Stress and Cardiovascular Comorbidity in Patients With Rheumatoid Arthritis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07760662
 
 SUMMARY:
 

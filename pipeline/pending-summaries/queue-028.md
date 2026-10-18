@@ -390,15 +390,6 @@ Link: https://clinicaltrials.gov/study/NCT07318415
 SUMMARY:
 
 
-## NCT07805889
-Ultrasound-Assessed Facial Macrofat Retention After Facelift
-
-Intervention: : Facelift plus facial fat grafting — Facelift surgery is performed using the surgeon's standardized technique. Harvested autologous fat is processed as macrofat and injected into predefined facial zones. The injected volume, cannula size, plane, number of passes, and volume per zone will be recorded
-Link: https://clinicaltrials.gov/study/NCT07805889
-
-SUMMARY:
-
-
 ## NCT06029270
 A Randomized Phase II Study of Nivolumab Versus Nivolumab and BMS-986016 (Relatlimab) as Maintenance Treatment After First-Line Treatment With Platinum-Gemcitabine-Nivolumab for Patients With Epstein-Barr Virus-Associated Recurrent/Metastatic Nasopharyngeal Carcinoma (REMAIN)
 
@@ -851,15 +842,6 @@ Link: https://clinicaltrials.gov/study/NCT06697964
 SUMMARY:
 
 
-## NCT07810439
-PROgnostic Testing to Enhance Clinical Triage of Preeclampsia in Africa (PROTECT-Africa): Biomarker Validation for Timely Intervention in Hypertensive Disorders of Pregnancy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07810439
-
-SUMMARY:
-
-
 ## NCT05546138
 Characterization and Prediction of Early Onset Diabetic Peripheral Neuropathy (NeuroPredict)
 
@@ -1045,16 +1027,6 @@ Intervention: : Strengthening Exercises — Strengthening exercises targeting th
 : ShoulderSphere Exercises and Resistive Exercises — In addition to strengthening exercises, exercises will be performed using the ShoulderSphere in the frontal, sagittal and transverse planes with the shoulders in 90° flexion and the elbows in extension.
 : Bodyblade Exercises and Resistive Exercises — In addition to strengthening exercises, 15 minutes of exercises using the Bodyblade will be performed. Individuals will perform oscillation exercises in the frontal, sagittal, and transverse planes while holding the Bodyblade bar firmly with their shoulders in 90° flexion and elbows in extension.
 Link: https://clinicaltrials.gov/study/NCT07112807
-
-SUMMARY:
-
-
-## NCT07717541
-Poetry Workshops to Enhance Patient Well-Being and Reduce Anxiety Levels
-
-Intervention: : Poetry — participants will have the opportunity to craft their own poem and share their art with their fellow participants. This will be facilitated by one of the research team members who will help them craft their own poem.
-: Poetry Manual — Participants will receive a written manual that will guide them on how to write poetry. they will receive one manual each week.
-Link: https://clinicaltrials.gov/study/NCT07717541
 
 SUMMARY:
 
@@ -1571,19 +1543,6 @@ Link: https://clinicaltrials.gov/study/NCT06989216
 SUMMARY:
 
 
-## NCT07800689
-Design and Implementation of a Carer Aromatherapy Training (CAT) Program for Children With Global Developmental Delay in Hong Kong: A Mixed Qualitative Study Using the COM-B Framework
-
-Intervention: : Carer Aromatherapy Training (CAT) program and home massage with massage oil with the mixture of Petitgrain Mandarin (Citrus reticulate) essential oil and fractionated coconut oil — Carer Aromatherapy Training (CAT) program Following participants' consent to participate, an 8-hour face-to-face training program will be given to carers being recruited in the study. The program consists of three modules: (1) Introduction of aromatherapy massage with safety concerns, (2) demonstration of massag steps and (3) return demonstration.
-
-One session of introduction will be given to staffs by certified IFPA aromatherapy nurse in centres on the first session of training programme for introducing the theories of aromatherapy, the possible benefit behind and safety issues they must be aware of. Afterwards, massage sessions will be demonstrated with standardised effleurage, which mould our hands to the shape of the body being massaged on abdomen and four limbs and return demonstrated.
-
-After the training program, each carer is required to provide a 4-week aromatherapy massage to his/her child (twice per week for around 10-15 minutes).
-Link: https://clinicaltrials.gov/study/NCT07800689
-
-SUMMARY:
-
-
 ## NCT07170202
 Translating Behavioral Economics Strategies to Culturally Tailor a Mobile Health Mindfulness Intervention to Reduce Risky Drinking Behaviors in Emerging Adult College Student Students
 
@@ -1690,15 +1649,6 @@ Link: https://clinicaltrials.gov/study/NCT05758701
 SUMMARY:
 
 
-## NCT07833280
-The Relationship Between Kinesiophobia and Physical Activity, Sleep Quality, and Quality of Life in Women With Chronic Pelvic Pain
-
-Intervention: : questionnaire — evaluation
-Link: https://clinicaltrials.gov/study/NCT07833280
-
-SUMMARY:
-
-
 ## NCT06809231
 Effectiveness and Safety of Knee Cartilage Lesion Treatment Using CartiONE: 1-to-13 Year Follow-up
 
@@ -1724,15 +1674,6 @@ Lung Ultrasound Score (LUS) as Early Predictor of Bronchopulmonary Dysplasia (BP
 Intervention: : Lung ultrasound at 7 (±1) days of life — Lung ultrasound will be performed at 7 (±1) days days of life by physicians experienced in lung ultrasound, defined as any physician who has previously completed a theoretical and practical training course in lung ultrasound and has independently performed at least 20 lung ultrasound examinations. Six thoracic regions will be examined in order to determine the Lung Ultrasound Score (LUS) and to assess pleural line characteristics: right and left anterior superior, right and left anterior inferior, and right and left lateral regions.
 : Lung ultrasound at 14 (±2) days of life — Lung ultrasound will be performed at 14 (±2) days days of life by physicians experienced in lung ultrasound, defined as any physician who has previously completed a theoretical and practical training course in lung ultrasound and has independently performed at least 20 lung ultrasound examinations. Six thoracic regions will be examined in order to determine the Lung Ultrasound Score (LUS) and to assess pleural line characteristics: right and left anterior superior, right and left anterior inferior, and right and left lateral regions.
 Link: https://clinicaltrials.gov/study/NCT07633184
-
-SUMMARY:
-
-
-## NCT07792941
-A RANDOMISED, PHASE 1, OPEN-LABEL, SINGLE-DOSE, STUDY TO EVALUATE THE PHARMACOKINETICS AND TOLERABILITY OF TILREKIMIG IN HEALTHY PARTICIPANTS WHEN CO-MIXED WITH RHUPH20 AS A SUBCUTANEOUS INJECTION
-
-Intervention: : tilrekimig and rHuPH20 — subcutaneous injection
-Link: https://clinicaltrials.gov/study/NCT07792941
 
 SUMMARY:
 
@@ -1769,17 +1710,6 @@ Prevalence of Symptomatic Gastroesophageal Reflux Disease in Children in the Cze
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07482969
-
-SUMMARY:
-
-
-## NCT07687654
-Clinical Evaluation of the Root Coverage Performance of Different Restorative Materials in Class V Cavities in Patients With Gingival Recession
-
-Intervention: : No Restoration Control Group — No restorative material will be placed in the Class V cervical lesion before root coverage surgery. Participants will undergo root coverage surgery using a coronally advanced flap with a subepithelial connective tissue graft according to the study protocol.
-: Glass Ionomer Cement Group — A conventional glass ionomer cement was used to restore the Class V cervical lesion before root coverage surgery with a subepithelial connective tissue graft.
-: Resin Composite Group — A resin composite material was used to restore the Class V cervical lesion before root coverage surgery with a subepithelial connective tissue graft.
-Link: https://clinicaltrials.gov/study/NCT07687654
 
 SUMMARY:
 
@@ -2153,26 +2083,6 @@ Regional Lymph Node Metastasis and Survival Outcomes in Advanced Hepatocellular 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06876753
-
-SUMMARY:
-
-
-## NCT07758010
-One-Day cTBS Over the Precuneus (OcTOPUS)
-
-Intervention: : Precuneus-targeted continuous theta-burst stimulation — Active continuous theta-burst stimulation is delivered to the Pz location of the international 10-20 EEG system to target the precuneus. Stimulation is administered with a double-cone coil at 80% of the participant's resting motor threshold. Each session consists of 600 pulses delivered over approximately 40 seconds. Participants receive 20 sessions during a single day, for a total of 12,000 pulses, with session onsets separated by approximately 30 minutes. If 80% of resting motor threshold is not tolerated, the intensity may be reduced to the highest tolerable level.
-: Left dorsolateral prefrontal cortex intermittent theta-burst stimulation — Active intermittent theta-burst stimulation is delivered to the left dorsolateral prefrontal cortex. The stimulation target is identified using the Beam F3 method. Stimulation is administered with a figure-of-eight coil at 80% of the participant's resting motor threshold. Each session consists of 600 pulses delivered over approximately 3 minutes. Participants receive 20 sessions during a single day, for a total of 12,000 pulses, with session onsets separated by approximately 30 minutes. If 80% of resting motor threshold is not tolerated, the intensity may be reduced to the highest tolerable level.
-: Sham transcranial magnetic stimulation — Sham transcranial magnetic stimulation is administered at the left dorsolateral prefrontal cortex location identified using the Beam F3 method. A figure-of-eight coil is inverted so that the active surface faces away from the scalp. The stimulator is operated at 80% of the participant's resting motor threshold using the same intermittent theta-burst timing and approximate session duration as the active left dorsolateral prefrontal cortex intervention. Participants receive 20 sham sessions during a single day, with session onsets separated by approximately 30 minutes.
-Link: https://clinicaltrials.gov/study/NCT07758010
-
-SUMMARY:
-
-
-## NCT07794813
-Trop2-targeting the Second Near Infrared (NIR-II) Molecular Probe for Precision Diagnosis of Oral Cancer
-
-Intervention: : TTP-ICG incubation solution — Fresh clinical specimens will be incubated with TTP-ICG with different concentrations and times.
-Link: https://clinicaltrials.gov/study/NCT07794813
 
 SUMMARY:
 

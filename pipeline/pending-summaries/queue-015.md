@@ -11,40 +11,11 @@ Link: https://clinicaltrials.gov/study/NCT07259681
 SUMMARY:
 
 
-## NCT07838493
-Effects of Oromucosal Oxytocin and Arginine Vasopressin on Top-Down and Bottom-Up Attention to Emotional Faces: A Randomized Placebo-Controlled fMRI Study
-
-Intervention: : Oxytocin (OT) — A single dose of 24 IU oxytocin (OT) is administered via a lyophilized oromucosal lollipop. Participants are instructed to continuously lick the lollipop for approximately 5 minutes to facilitate absorption through the oral mucosa and not to bite, chew, or directly swallow it.
-: Arginine Vasopressin (AVP) — A single dose of 24 IU arginine vasopressin (AVP) is administered via a lyophilized oromucosal lollipop. Participants are instructed to continuously lick the lollipop for approximately 5 minutes to facilitate absorption through the oral mucosa and not to bite, chew, or directly swallow it.
-: Placebo (PLC) — Placebo (PLC), consisting of lyophilized normal saline, is administered via a matched oromucosal lollipop using the same administration procedure as the active treatments. The placebo lollipop is matched to the OT and AVP lollipops in appearance, powder characteristics, and taste.
-Link: https://clinicaltrials.gov/study/NCT07838493
-
-SUMMARY:
-
-
 ## NCT06595940
 Genomic Sequencing for Evaluation of Uncommon Disease Manifestations Through the Childhood Complex Disease Genomic Section
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06595940
-
-SUMMARY:
-
-
-## NCT07734610
-An Open-Label, Single-Dose Clinical Study to Evaluate the Pharmacokinetics of Nemtabrutinib in Participants With Severe Renal Impairment
-
-Intervention: : Nemtabrutinib — Oral administration
-Link: https://clinicaltrials.gov/study/NCT07734610
-
-SUMMARY:
-
-
-## NCT07839065
-Ultrasonographic Evaluation of Thoracolumbar Fascia Thickness in Women With Fibromyalgia: A Prospective Cross-Sectional Study With Healthy Controls
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07839065
 
 SUMMARY:
 
@@ -68,31 +39,11 @@ Link: https://clinicaltrials.gov/study/NCT07652723
 SUMMARY:
 
 
-## NCT07837297
-Acute Effects of Different Dietary Fibres on Gut Fermentation: A Pilot Study
-
-Intervention: : SCF Alone — Administration of SCF with breakfast.
-: SCF and FOS (Single Dose) — Administration of FOS as a single dose over-and-above SCF with breakfast.
-: SCF and FOS (Split Dose) — Administration of FOS at breakfast and at lunch, over-and-above SCF at breakfast.
-Link: https://clinicaltrials.gov/study/NCT07837297
-
-SUMMARY:
-
-
 ## NCT05244408
 "SCRIBBLE" Spinal Cord Injury Blood Biomarker Longitudinal Evaluation
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05244408
-
-SUMMARY:
-
-
-## NCT07840144
-Lower Body Negative Pressure to Validate Physiological Monitors
-
-Intervention: : Lower Body Negative Pressure with Noninvasive Physiological Monitoring — Participants will undergo a graded lower body negative pressure protocol using suction levels of 15, 30, 45, 60, 70, 80, 90, and 100 mmHg, each for up to 5 minutes or until presyncopal symptoms or other termination criteria occur. During the procedure, validated reference physiological measurements and investigational noninvasive monitor signals will be collected simultaneously.
-Link: https://clinicaltrials.gov/study/NCT07840144
 
 SUMMARY:
 
@@ -126,24 +77,6 @@ Link: https://clinicaltrials.gov/study/NCT06561828
 SUMMARY:
 
 
-## NCT07715149
-A Pharmacokinetic Study of D-2570 in Participants With Hepatic Impairment and Normal Hepatic Function
-
-Intervention: : D-2570 — D-2570 tablet, administered orally as a single dose
-Link: https://clinicaltrials.gov/study/NCT07715149
-
-SUMMARY:
-
-
-## NCT07808086
-Study of the Role of the Tumor Microbiota in the Neoadjuvant Therapy Response on Triple Negative Breast Cancer Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07808086
-
-SUMMARY:
-
-
 ## NCT07579871
 Sleep and Stroke Rehabilitation Study
 
@@ -172,24 +105,6 @@ Link: https://clinicaltrials.gov/study/NCT05025865
 SUMMARY:
 
 
-## NCT07683104
-Natural History of Trisomy 8-Associated Autoinflammatory Disease (TRIAD) and Related Disorders
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07683104
-
-SUMMARY:
-
-
-## NCT07837895
-Knowledge, Beliefs, and Barriers in the Application of Good Clinical Practice ICH E6(R3) in Italian Clinical Research Centers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07837895
-
-SUMMARY:
-
-
 ## NCT07615985
 A Phase 1a, First-in-human, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of PMG1016 in Healthy Volunteers
 
@@ -198,15 +113,6 @@ Intervention: : PMG1016 Dose 1 — Participants will be administered PMG1016 Dos
 : PMG1016 Dose 3 — Participants will be administered PMG1016 Dose 3 or Placebo in a 100mL IV infusion Volume
 : PMG1016 Dose 4 — Participants will be administered PMG1016 Dose 4 or Placebo in a 100mL IV infusion Volume
 Link: https://clinicaltrials.gov/study/NCT07615985
-
-SUMMARY:
-
-
-## NCT07835633
-A Single-Center, Randomized, Double-Blind, Placebo-Controlled Phase I Clinical Trial of Single Ascending Dose of ACC085 Injection in Healthy Chinese Adults
-
-Intervention: : Matching Placebo — Matching Placebo for ACC085 Injection, administered subcutaneously at the same injection site (periumbilical abdomen or lateral thigh)
-Link: https://clinicaltrials.gov/study/NCT07835633
 
 SUMMARY:
 
@@ -256,24 +162,6 @@ Link: https://clinicaltrials.gov/study/NCT06529575
 SUMMARY:
 
 
-## NCT07714044
-The Rutgers University Study of the Genetics of Blood Cancers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07714044
-
-SUMMARY:
-
-
-## NCT07714850
-Early Upper Gastrointestinal Endoscopic Findings as Predictors of Disease Course and Severity in Acute Pancreatitis: A Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07714850
-
-SUMMARY:
-
-
 ## NCT07595718
 AI-Based Phenome Data Analysis for Predicting the Onset of Major Diseases
 
@@ -301,15 +189,6 @@ Link: https://clinicaltrials.gov/study/NCT04543461
 SUMMARY:
 
 
-## NCT07837336
-An Evaluation of Nutritional Status, Body Composition, and Dietary Intakes of Filipino Pediatric Patients With Inborn Errors of Intermediary Protein Metabolism
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07837336
-
-SUMMARY:
-
-
 ## NCT06274749
 The Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults >= 55 Years Old. A Randomized Triple-Masked Controlled Clinical Trial
 
@@ -325,15 +204,6 @@ NIDCD Otolaryngology Clinical Protocol Biospecimen Bank
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06303180
-
-SUMMARY:
-
-
-## NCT07839975
-A Study on the Evaluation of College Students' Athletic Fitness Using a Data Model Integrating Traditional Chinese Medicine Constitution Classification and Wrist Wearable Devices
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07839975
 
 SUMMARY:
 
@@ -487,16 +357,6 @@ Link: https://clinicaltrials.gov/study/NCT06532474
 SUMMARY:
 
 
-## NCT07809815
-A Single-Center, Open-Label, Same-Subject Sequential Crossover Clinical Trial to Evaluate the Effects of Rifampicin or Itraconazole on the Pharmacokinetics of Befotertinib Capsules in Healthy Participants
-
-Intervention: : Befotertinib and rifampicin — Participants will receive a single oral dose of Befotertinib capsules on the morning of Day 1, and continuous oral administration of rifampicin every morning from Day 19 to Day 27 and Day29 to Day 40. On the morning of Day 28, participants will take Befotertinib capsules and rifampicin.
-: Befotertinib and itraconazole — Participants will receive a single oral dose of Befotertinib capsules on the morning of Day 1, and continuous oral administration of itraconazole every morning from Day 19 to Day 21 and Day 23 to Day 32. On the morning of Day 22 participants will take Befotertinib capsulets and itraconazole.
-Link: https://clinicaltrials.gov/study/NCT07809815
-
-SUMMARY:
-
-
 ## NCT05871411
 Validation of Visual Analog Scales to Measure SatisfactiOn and WELL-being at Work (SoWell-VAS)
 
@@ -629,35 +489,6 @@ Link: https://clinicaltrials.gov/study/NCT05839678
 SUMMARY:
 
 
-## NCT07791290
-A Pilot Feasibility Study of Vagustim™ Transcutaneous Auricular Vagus Nerve Stimulation Devices
-
-Intervention: : Vagustim Individual Device — The Vagustim™ Individual Device is a 134mm x 70mm x 25 mm device that provides targeted vagus nerve stimulation via an in-ear or clip-on electrode. Please see below for exact pulse stimulation parameters and programming:
-
-* Waveform: Symmetrical biphasic rectangular waveform.
-* Frequency Range: Adjustable from 1 Hz to 100 Hz.
-* Pulse Width: Configurable between 50 µs and 1000 µs.
-* Intensity: Adjustable up to 10 mA with fine-tuned increments for patient-specific needs.
-* Stimulation Modes: Bilateral (both ears) or unilateral (one ear) stimulation.
-* Power Supply: Operates on 2xAA batteries for portability and reliability.
-* Connectivity: Bluetooth Low Energy 4.2 for seamless app integration.
-* Construction: Durable materials suitable for repeated professional use in clinical environments.
-* Duration of implant or exposure: 10 minutes
-* Frequency of exposure: Once during study visit
-Link: https://clinicaltrials.gov/study/NCT07791290
-
-SUMMARY:
-
-
-## NCT07808749
-Noninvasive Perioperative Hemodynamic Monitoring In Thoracic Surgery: A Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07808749
-
-SUMMARY:
-
-
 ## NCT07236008
 Training and Testing Database for IMU Based Gait Analysis Methods
 
@@ -749,15 +580,6 @@ Multimodal Investigation of Neural Plasticity Induced by Non-invasive Brain Stim
 Intervention: : sham tDCS — Participants will receive sham (placebo) HD-tDCS for 20 minutes, for 1 session.
 : active tDCS — Participants will receive HD-tDCS at 3 milliAmp for 20 minutes, for 1 session.
 Link: https://clinicaltrials.gov/study/NCT06453980
-
-SUMMARY:
-
-
-## NCT07803588
-A Prospective, Single-Center Study to Test the AdaptDx Pro Agreement in Rod Intercept Time With the AdaptDx in Healthy Subjects With Normal Vision (FlashBack)
-
-Intervention: : AdaptDx Tabletop vs AdaptDx Pro — Two variations of AdaptDx dark adaptation devices.
-Link: https://clinicaltrials.gov/study/NCT07803588
 
 SUMMARY:
 

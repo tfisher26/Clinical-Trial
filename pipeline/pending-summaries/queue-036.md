@@ -24,15 +24,6 @@ Link: https://clinicaltrials.gov/study/NCT06180603
 SUMMARY:
 
 
-## NCT07702461
-Determination of Resistance Training Status for Patients on Glucagon-Like Peptide-1 Receptor Agonists
-
-Intervention: : Glucagon-Like Peptide-1 Agonist (GLP-1) — Adults currently taking a GLP-1 receptor agonist (GLP-1RA) medication for at least 3 months at a stable dose (e.g., semaglutide, liraglutide, tirzepatide, dulaglutide, or exenatide) complete a single, anonymous, online questionnaire administered via Qualtrics on Ohio State University secure servers. The survey (\~10 minutes) collects self-reported data on demographics, general health, current GLP-1RA medication with starting and current dose, height and weight, resistance training habits in a usual week before and since starting GLP-1RA therapy (assessed with the Muscle-Strengthening Exercise Questionnaire - Long Form; Shakespear-Druery et al., 2022), perceived muscular strength, activities of daily living, fatigue, quality of life, and barriers/facilitators to resistance training. No in-person visits, physical measurements, biospecimen collection, or follow-up contact are performed.
-Link: https://clinicaltrials.gov/study/NCT07702461
-
-SUMMARY:
-
-
 ## NCT07182968
 Cultural Adaptation, Validity, and Reliability of the Turkish Version of the Patient Assessment of Skin Thickness in the Upper Limb - PASTUL Questionnaire
 
@@ -96,15 +87,6 @@ Intervention: : Single bump acuity — Investigators will design bumps of varyin
 : Optimal spacing between bumps — Investigators will fabricate and characterize two bumps of varying widths (ranging from 150 μm to 3 times the bump width, based on fabrication resolution available in commercial tactile aid machines). Subjects will be asked to run their finger across the two bumps (two bumps always form a line, so investigators do not need to ask subjects to orient their fingers) quickly and asked if they felt one bump or two.
 : Improving signal from a single bump with designer materials — Investigators will coat single bumps with our designer materials (with alkyl and amino functional groups) to improve the mechanical stimuli from a single bump. Subjects will then be asked to perform a similar experiment as the "single bump acuity" test and the "optimal spacing between bumps" test. ("can you notice the bump?" or "did you feel one or two bumps").
 Link: https://clinicaltrials.gov/study/NCT06237829
-
-SUMMARY:
-
-
-## NCT07699861
-LUCINAE: LUng and Thoracic Cancers In pregNAncy rEgistry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07699861
 
 SUMMARY:
 
@@ -210,17 +192,6 @@ Link: https://clinicaltrials.gov/study/NCT04665388
 SUMMARY:
 
 
-## NCT07750288
-Role of Dyspnea in the Progression of Pediatric Acute Respiratory Distress Syndrome
-
-Intervention: : Noninvasive respiratory support — sEMG of respiratory muscles, esophageal manometry, and electrical impedance tomography
-: Transition from controlled to assisted mechanical ventilation — sEMG of respiratory muscles, esophageal monitoring, and electrical impedance tomography
-: Weaning from mechanical ventilation — sEMG of respiratory muscles, esophageal monitoring, and electrical impedance tomography
-Link: https://clinicaltrials.gov/study/NCT07750288
-
-SUMMARY:
-
-
 ## NCT06779747
 Evaluation of Different Diagnostic Therapeutic Strategies in Patients with Thyroid Pathology
 
@@ -264,15 +235,6 @@ Intervention: : Saliva samples — A saliva sample is added by research for all 
 : Questionnaire OHIP-14 — A saliva sample is added by research for all patients, as well as an oral quality of life questionnaire. For the witnesses, participation also entails the completion of the standardized oral examination (potentially longer than the assessment that would have been carried out as part of the treatment) and the administration of the oral quality of life questionnaire.
 : Thorough dental examination — A saliva sample is added by research for all patients, as well as an oral quality of life questionnaire. For the witnesses, participation also entails the completion of the standardized oral examination (potentially longer than the assessment that would have been carried out as part of the treatment) and the administration of the oral quality of life questionnaire.
 Link: https://clinicaltrials.gov/study/NCT05444127
-
-SUMMARY:
-
-
-## NCT07750886
-Sample Collection for Ongoing Research and Product Evaluation Study - Non-Hodgkin Lymphoma (SCORE-NHL)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07750886
 
 SUMMARY:
 
@@ -479,15 +441,6 @@ Link: https://clinicaltrials.gov/study/NCT06924359
 SUMMARY:
 
 
-## NCT07791862
-Familial Inflammatory Bowel Disease Early Risk (Fiber) Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07791862
-
-SUMMARY:
-
-
 ## NCT07480915
 Risk Stratification of MACE Based on GDF-15 in Heart Failure Patients Who Undergoing Coronary Artery Bypass Grafting: an Observational Multicenter Prospective Study
 
@@ -539,15 +492,6 @@ Rapamycin-eluting Vertebral Stents in the Real-world Treatment of Symptomatic In
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07352852
-
-SUMMARY:
-
-
-## NCT07832734
-Metabolomica e Trascrittomica Dei Gliomi a Basso ed Alto Grado (GlioMeTra) L2093
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07832734
 
 SUMMARY:
 
@@ -620,15 +564,6 @@ Link: https://clinicaltrials.gov/study/NCT06574087
 SUMMARY:
 
 
-## NCT07756775
-Comparison Between Non-contrast Magnetic Resonance Angiography and Carotid Doppler in Cerebrovascular Stroke
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07756775
-
-SUMMARY:
-
-
 ## NCT05795439
 The CARING Study: Creating and Restoring Health Through Nutrition Guidance
 
@@ -683,15 +618,6 @@ Link: https://clinicaltrials.gov/study/NCT06216600
 SUMMARY:
 
 
-## NCT07697092
-Associations Between Sleep Quality, Circadian Timing, and Prosocial Allocation Decisions in Adults
-
-Intervention: : Sleep, Circadian, and Prosocial Allocation Assessment — Participants complete non-diagnostic sleep and circadian self-report measures, including the Pittsburgh Sleep Quality Index, the Munich Chronotype Questionnaire, and a 7-day sleep diary, followed by a brief computer-based Dictator Game allocation task. This is an observational assessment procedure only. Participants are not assigned to a treatment, sleep manipulation, sleep deprivation, sleep restriction, or behaviour-change intervention.
-Link: https://clinicaltrials.gov/study/NCT07697092
-
-SUMMARY:
-
-
 ## NCT05174247
 Addition of FFRct in the Diagnostic Pathway of Patients With Stable Chest Pain to Reduce Unnecessary Invasive Coronary Angiography
 
@@ -741,24 +667,6 @@ Intervention: : Cardiac MRI with 4D Flow acquisition and invasive signal routine
 
 This is a low-intervention interventional study in which all imaging acquisitions and hemodynamic measurements are performed according to standard clinical practice, with no modification of diagnostic or therapeutic pathways.
 Link: https://clinicaltrials.gov/study/NCT07455292
-
-SUMMARY:
-
-
-## NCT07790744
-A Comprehensive, Multimodal Characterization of Prodromal PD in Subjects With RBD
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07790744
-
-SUMMARY:
-
-
-## NCT07696286
-The Relationship of Alexithymia With Pain and Quality of Life Scales in Chronic Pain Patients Who Underwent Spinal Cord Stimulation: A Cross-Sectional Observational Study
-
-Intervention: : Psychometric Questionnaires and Retrospective Data Collection — Participants are evaluated at a single time point using self-report questionnaires including the Toronto Alexithymia Scale (TAS-20), Hospital Anxiety and Depression Scale (HADS), Short Form Health Survey (SF-12), and Childhood Trauma Questionnaire (CTQ-33). Pain intensity (VAS/NRS) and clinical data are extracted retrospectively from medical records.
-Link: https://clinicaltrials.gov/study/NCT07696286
 
 SUMMARY:
 
@@ -947,15 +855,6 @@ Multiparametric Cardiac Positron Emission Tomography for Cardiac Allograft Vascu
 Intervention: : ICA — Patients will undergo annual CAV surveillance with ICA
 : PET — Patients will undergo annual CAV surveillance with PET
 Link: https://clinicaltrials.gov/study/NCT06089486
-
-SUMMARY:
-
-
-## NCT07774065
-Minimizing Post-Operative Pulmonary Complications in Patients With a BMI =35 kg/m2 Undergoing Robotic-Assisted or Conventional Laparoscopic Surgery
-
-Intervention: : Standard PEEP (8 cmH₂O) — Participants will receive standard intraoperative mechanical ventilation with a fixed positive end-expiratory pressure (PEEP) of 8 cmH₂O maintained throughout the surgical procedure.
-Link: https://clinicaltrials.gov/study/NCT07774065
 
 SUMMARY:
 
@@ -3433,17 +3332,6 @@ Link: https://clinicaltrials.gov/study/NCT07161388
 SUMMARY:
 
 
-## NCT07685600
-An Open-label, Randomised, Two Arm, Fixed Sequence Study in Healthy Participants to Assess the Pharmacokinetics of AZD4144 When Administered Alone and in Combination With Itraconazole
-
-Intervention: : AZD4144 — AZD4144 will be administered orally.
-: AZD4144 — AZD4144 will be administered as an IV infusion.
-: Itraconazole — Itraconazole will be administered orally.
-Link: https://clinicaltrials.gov/study/NCT07685600
-
-SUMMARY:
-
-
 ## NCT06550674
 Identification of New Candidate Genes for Hereditary Predisposition to Uveal Melanoma
 
@@ -3633,17 +3521,6 @@ A Single Center, Single Dose, Randomized, Placebo-controlled Study to Evaluate S
 Intervention: : TIX100, an orally available inhibitor of thioredoxin-interacting protein — TIX100, an orally available inhibitor of thioredoxin-interacting protein
 : Placebo — placebo
 Link: https://clinicaltrials.gov/study/NCT06800729
-
-SUMMARY:
-
-
-## NCT07660731
-A PHASE 1 STUDY TO EVALUATE SAFETY, TOLERABILITY, PHARMACOKINETICS, PHARMACODYNAMICS, FOOD EFFECT, METABOLISM & EXCRETION, AND DRUG-DRUG INTERACTION POTENTIAL OF PF-08103402 IN HEALTHY ADULTS AND/OR ADULTS WITH MILD TO MODERATE ASTHMA
-
-Intervention: : PF-08103402 — Oral suspension (Parts A to F); Tablets (Parts C and F only)
-: Placebo — Oral suspension (Parts A, B and E).
-: Midazolam — Oral syrup
-Link: https://clinicaltrials.gov/study/NCT07660731
 
 SUMMARY:
 
@@ -4619,16 +4496,6 @@ Link: https://clinicaltrials.gov/study/NCT06542653
 SUMMARY:
 
 
-## NCT07759635
-The Influence of a Single Dose of Emergency Contraception on Markers of Venous Thrombosis and Vascular Function in Young, Healthy Females.
-
-Intervention: : Plan B (Levonorgestrel) — 1 x dose of 1.5 mg levonorgestrel tablet over encapsulated to mimic placebo.
-: Placebo (gelatin capsule) — Gelatin capsule over encapsulated to mimic Plan B
-Link: https://clinicaltrials.gov/study/NCT07759635
-
-SUMMARY:
-
-
 ## NCT05719545
 A Longitudinal Cohort of Patients With Acute Coronary Syndrome Undergoing Percutaneous Coronary Intervention
 
@@ -5160,15 +5027,6 @@ Link: https://clinicaltrials.gov/study/NCT06586736
 SUMMARY:
 
 
-## NCT07732374
-Assessing Follow-Up Effects Post-Discontinuation of Hyperbaric Oxygen Therapy on Cognitive Function, Mental Health, and Quality of Life in Veterans
-
-Intervention: : Hyperbaric Oxygen Therapy (HBOT) — Hyperbaric Oxygen Therapy (HBOT): Participants will receive 100% medical oxygen (USP) administered under hyperbaric conditions at 2.0 atmospheres absolute (ATA) for 60 minutes with a scheduled air break over 40 treatment sessions.
-Link: https://clinicaltrials.gov/study/NCT07732374
-
-SUMMARY:
-
-
 ## NCT07012759
 Novel Pleural Effusion Biomarkers Screening and Evaluation in Lung Adenocarcinoma Patients
 
@@ -5238,21 +5096,6 @@ Correlation Of CoAGulation Biomarkers and Atrial Fibrillation Burden in Patients
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04947657
-
-SUMMARY:
-
-
-## NCT07696832
-Efficacy and Safety of Ivonescimab Monotherapy as First-Line Treatment for PD-L1-Positive, Driver Gene-Negative, Locally Advanced or Metastatic NSCLC: A Multicenter, Prospective, Real-World Cohort Study
-
-Intervention: : Ivonescimab Injection — In accordance with the officially approved drug label for Ivonescimab by the National Medical Products Administration (NMPA) and the latest domestic and international guidelines, eligible patients enrolled in the study will receive first-line Ivonescimab monotherapy until disease progression or unacceptable toxicity occurs.
-
-The recommended dosage of Ivonescimab is 20 mg/kg administered via intravenous infusion every 3 weeks. Each infusion should be completed over 60 minutes (± 10 minutes). For patients intolerant to the 60-minute (± 10 minutes) infusion, the duration may be extended to a maximum of 120 minutes (± 10 minutes).
-
-Dosing may be interrupted or permanently discontinued based on individual patient safety and tolerability; however, dose increases or reductions are not recommended. Dose modification and adverse event management will follow the instructions in the drug label and relevant guidelines.
-
-Any concomitant supportive treatments or medications administered during the s
-Link: https://clinicaltrials.gov/study/NCT07696832
 
 SUMMARY:
 
@@ -5391,15 +5234,6 @@ Link: https://clinicaltrials.gov/study/NCT05935124
 SUMMARY:
 
 
-## NCT07803029
-Bioimpedance Spectroscopy (BIS): Analysis of Changes in Fluid Status in Hemodialysis Patients
-
-Intervention: : Bioimpedance analysis — Comparing the perfomance of original data from 3 different bioimpedance apparatur and test there precision and accurary compared to ultrafiltration. And whether the performance of measuring absolut blood volume is better
-Link: https://clinicaltrials.gov/study/NCT07803029
-
-SUMMARY:
-
-
 ## NCT06562153
 Tracking Brain Imaging Changes in Depression Over Clinical Accelerated Transcranial Magnetic Stimulation (TMS) Therapy at the Individual Level
 
@@ -5508,15 +5342,6 @@ Development and Validation of a Digital Twin-based Clinical Research System (X T
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06861283
-
-SUMMARY:
-
-
-## NCT07704736
-Community Food Markets as a Driver for Equitable, Sustainable Food Systems in Glasgow, Scotland.
-
-Intervention: : Food market stall — Affordable food market stalls set up in Govan and Cranhill, Glasgow. We will also incorporate food-related art performances and food information activities (e.g. cooking demonstrations) at the market to support participant engagement and food literacy skills.
-Link: https://clinicaltrials.gov/study/NCT07704736
 
 SUMMARY:
 
@@ -5727,15 +5552,6 @@ Link: https://clinicaltrials.gov/study/NCT06982404
 SUMMARY:
 
 
-## NCT07707245
-Identification of Diagnostic and Prognostic Biomarkers in the Pathological Continuum of Bronco Chronic Obstructive Pulmonary Disease, Idiopathic Pulmonary Fibrosis and Pulmonary Neoplasia
-
-Intervention: : Peripheral Blood Collection — Peripheral venous blood collection (approximately 40 mL) for inflammatory, immunological, genetic, and epigenetic biomarker analyses, including PBMC isolation, serum collection, genomic DNA extraction, and microRNA analysis.
-Link: https://clinicaltrials.gov/study/NCT07707245
-
-SUMMARY:
-
-
 ## NCT07173114
 New Approaches for Evaluating the Interchangeability of Reference Materials and Quality Controls (COMET-MPL)
 
@@ -5872,16 +5688,6 @@ Prognosis of Anti-GBM Antibody Disease Through an International Cohort
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07018024
-
-SUMMARY:
-
-
-## NCT07805915
-Prospective One-Year Evaluation of the Safety and Effectiveness of an Investigator-Developed Rectus Abdominis Plication Technique in Abdominoplasty
-
-Intervention: : Investigator-Developed Rectus Abdominis Plication — A standardized plication is performed during abdominoplasty. The locked operative appendix will specify patient position, exposure, cranial and caudal limits, suture material, number of layers, stitch configuration, target tension, intraoperative measurements, and management of associated hernia if permitted. Linked arm/group(s): Investigator-Developed Rectus Plication.
-: Standardized Abdominal Wall Ultrasound — Inter-rectus distance will be measured at fixed levels during a standardized respiratory phase and abdominal muscle state. Three measurements per level will be averaged by a trained assessor. Linked arm/group(s): Investigator-Developed Rectus Plication.
-Link: https://clinicaltrials.gov/study/NCT07805915
 
 SUMMARY:
 
@@ -6045,24 +5851,6 @@ Link: https://clinicaltrials.gov/study/NCT06334120
 SUMMARY:
 
 
-## NCT07751731
-Survey to Determine Incarcerated Persons Views on Surrogate Decision-Making
-
-Intervention: : Survey — Tablet based survey
-Link: https://clinicaltrials.gov/study/NCT07751731
-
-SUMMARY:
-
-
-## NCT07678606
-Association Between 4D MRI Parameters and the Clinical Characteristics and Prognosis of Major Chronic Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07678606
-
-SUMMARY:
-
-
 ## NCT06033144
 Prevalence of Tapia's Syndrome in Weaning Unit and Associated Factors After Orotracheal Intubation in the ICU
 
@@ -6106,15 +5894,6 @@ Link: https://clinicaltrials.gov/study/NCT07437105
 SUMMARY:
 
 
-## NCT07840092
-Clinical Validation Study of Biomarkers for Predicting Treatment Efficacy in Patients With Hepatocellular Carcinoma Based on Prospective and Retrospective Clinical Samples
-
-Intervention: : No investigational intervention. Participants receive standard clinical care. Clinical data, imaging/pathology information, and available biospecimens are collected for research. — No investigational intervention. Participants receive standard clinical care. Clinical data, imaging/pathology information, and available biospecimens are collected for research.
-Link: https://clinicaltrials.gov/study/NCT07840092
-
-SUMMARY:
-
-
 ## NCT05733312
 Intraoperative Evaluation of Focused Ultrasound-induced Blood-brain Barrier Disruption
 
@@ -6129,16 +5908,6 @@ International Validation Study of Automated Interpretation for Cardiopulmonary E
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07534384
-
-SUMMARY:
-
-
-## NCT07838740
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of VK2735 Administration in Adults Who Are Obese (BMI ≥ 30 kg/m2) Without Comorbidities
-
-Intervention: : VK2735 Drug — SC or oral once daily, once weekly, every other week, or monthly
-: Placebo — SC or oral once daily or once weekly
-Link: https://clinicaltrials.gov/study/NCT07838740
 
 SUMMARY:
 
@@ -6167,44 +5936,6 @@ JAK Signaling in Depression and Cognition in Male Football Players
 
 Intervention: : Baricitinib — Baricitinib is an orally administered, selective inhibitor of Janus kinase (JAK) 1 and 2. It reduces cytokine-mediated signaling involved in inflammation and immune activation. Baricitinib is FDA-approved for rheumatoid arthritis (RA), atopic dermatitis, and alopecia areata. It has also been authorized for the treatment of COVID-19 in hospitalized patients. Baricitinib will be dispensed every other week at the Week 2, 4, and 6 study visits. Participants who do not exhibit a clinical response (50% reduction in HAM-D scores from baseline) at Week 4 will be increased to 4 mg/day of baricitinib (2 x 2 mg tablets). A virtual follow-up visit will be conducted at Week 1 to assess safety and tolerability in all patients, and at Week 5 in patients who increase the dose.
 Link: https://clinicaltrials.gov/study/NCT07608796
-
-SUMMARY:
-
-
-## NCT07663526
-A Multicenter, Single-Arm Study to Evaluate the Effectiveness and Safety of Tabellvi® (Adalimumab) in Chinese Adult Subjects With Moderate to Severe Active Crohn's Disease in the Real-World Setting
-
-Intervention: : TyboWe® Adalimumab Injection — Adalimumab is a human anti-tumour necrosis factor-alpha monoclonal antibody that inhibits the downstream inflammatory cascade by blocking TNF-α, a core inflammatory factor in psoriasis.
-Link: https://clinicaltrials.gov/study/NCT07663526
-
-SUMMARY:
-
-
-## NCT07780383
-A Phase 1, Open-label, Multi-part Study to Evaluate Pharmacokinetics, Absolute Bioavailability, Safety, Tolerability, and Immunogenicity of Single-Dose of BMS-986446 Following Intravenous and Subcutaneous Administrations in Healthy Adults and Multiple Doses of BMS-986446 in Participants With Early Alzheimer's Disease.
-
-Intervention: : BMS-986446 — Specified dose on specified days
-Link: https://clinicaltrials.gov/study/NCT07780383
-
-SUMMARY:
-
-
-## NCT07838181
-Virtual Reality Aniseikonia and Metamorphopsia Testing
-
-Intervention: : Aegenta VR — The Aegenta VR system is a custom software application designed to operate with a virtual reality (VR) headset platform, such as a smartphone paired with a Google Cardboard V2 viewer. The application presents visual stimuli to each eye and allows users to identify perceived distortions and magnification changes. These responses are used to generate quantitative measures of metamorphopsia and aniseikonia.
-Link: https://clinicaltrials.gov/study/NCT07838181
-
-SUMMARY:
-
-
-## NCT07839689
-Effects of Aerobic Exercise Training and Connective Tissue Massage in Individuals With Bladder Pain Syndrome
-
-Intervention: : Patient Education — Participants will receive patient education about bladder pain syndrome, symptom management, lifestyle recommendations, and strategies to support self-management. This intervention will be provided to both study groups.
-: Aerobic Exercise Training — Participants in the intervention group will receive an 8-week aerobic exercise training program in addition to patient education.
-: Connective Tissue Massage — Participants in the intervention group will receive connective tissue massage in addition to patient education and aerobic exercise training. The intervention will be delivered by a physiotherapist according to the study protocol as part of the 8-week multimodal physiotherapy program.
-Link: https://clinicaltrials.gov/study/NCT07839689
 
 SUMMARY:
 
@@ -6239,15 +5970,6 @@ Prospective Cohort Study Comparing Sensory Outcome, Development of Chronic Pain 
 
 Intervention: : Sensory testing — Quantitative sensory testing (QST) will be performed. QST was developed to standardize the noninvasive assessment of the somatosensory nervous system and quantify functioning of all aspects of sensation (light touch, pressure, warm, cold, pain, vibration): 1. Thermal detection (Medoc TSA system): Cold detection threshold B) Warm detection threshold C) Heat pain threshold 2. Mechanical detection threshold (MRC Opti Hair von Frey Filaments) 3. Two-point discrimination (MRC Opti Hair von Frey Filaments) 4. Mechanical pain threshold (MRC Pinprick Stimulator) 5. Pressure pain threshold (Medoc Pressure algometer) 6. Tinel sign on physical exam 7. Vibration (tuning fork)
 Link: https://clinicaltrials.gov/study/NCT06094257
-
-SUMMARY:
-
-
-## NCT07840209
-Comparison of Hand Eye Coordination and Sports Vision Performance in Dual-Focus Multifocal Contact Lenses and Habitual Contact Lenses
-
-Intervention: : Multifocal Contact Lens — Multifocal Contact Lens
-Link: https://clinicaltrials.gov/study/NCT07840209
 
 SUMMARY:
 

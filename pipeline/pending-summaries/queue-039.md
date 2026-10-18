@@ -116,15 +116,6 @@ Link: https://clinicaltrials.gov/study/NCT07261969
 SUMMARY:
 
 
-## NCT07663851
-The Effectiveness of Virtual Reality Simulation in Psychiatric Nursing Students and Its Impact on Their Confidence and Anxiety Levels in Clinical Decision-Making: A Randomized Controlled Study
-
-Intervention: : Virtual Reality Simulation — Virtual reality simulation of a patient with schizophrenia
-Link: https://clinicaltrials.gov/study/NCT07663851
-
-SUMMARY:
-
-
 ## NCT07262450
 Real-word Study to Assess Effectiveness of Seawater Nasal Sprays on Sinonasal Symptoms
 
@@ -917,17 +908,6 @@ Link: https://clinicaltrials.gov/study/NCT06351865
 SUMMARY:
 
 
-## NCT07793006
-New Approaches for the Diagnosis of Lymphoma and Multicentric Castleman Disease
-
-Intervention: : Lymph Node or Core Needle Biopsy — DNA isolation to be tested by nucleic acid amplification using the TINY device
-: Fine Needle Aspiration — The sample will be eluted into two tubes, one for Gene Xpert testing and one for storage for EBV and KSHV testing by qPCR and TINY.
-: Tiny Isothermal Nucleic acid Amplification System (TINY) — Tiny Isothermal Nucleic acid Amplification System (TINY)
-Link: https://clinicaltrials.gov/study/NCT07793006
-
-SUMMARY:
-
-
 ## NCT07471932
 A Phase 1, Randomized, Two-part, Double-blind, Placebo-controlled, Single and Multiple Ascending Dose Study to Assess Safety, Tolerability, Pharmacokinetics, Immunogenicity and Pharmacodynamics of LAD106 in Healthy Adult Participants
 
@@ -963,15 +943,6 @@ Characterization of Cardiac Electrophysiological Effects of Autonomic Neuromodul
 
 Intervention: : Stellate Ganglion Block — Left sided percutaneous stellate ganglion block
 Link: https://clinicaltrials.gov/study/NCT05377216
-
-SUMMARY:
-
-
-## NCT07790666
-A Post-launch Study in Spain Assessing Self-perceived Health Benefits and Gut Microbiota Following 2 Weeks Activia Kefir Consumption in Real-world Setting
-
-Intervention: : Commercialized dairy product consumption and stool samples collection — Consumption of 280 mL (1 bottle) Activia Kefir drinkable per day during the two-weeks study period and collection of 2 stools samples using a collection kit at participant's home (before and after product consumption)
-Link: https://clinicaltrials.gov/study/NCT07790666
 
 SUMMARY:
 
@@ -1019,15 +990,6 @@ Prospective Evaluation of Complex Adult Spinal Deformity (CAD) Treated With Mini
 
 Intervention: : Index or spine revision surgery for complex adult spinal deformity — Surgical interventions will be patient specified by treating surgeon.
 Link: https://clinicaltrials.gov/study/NCT04885244
-
-SUMMARY:
-
-
-## NCT07782632
-Prediction of Immunotherapy Prognosis in Patients With Unresectable Hepatocellular Carcinoma Based on Functional Liver Volume and Total Liver Volume: A Multicenter Retrospective Cohort Study
-
-Intervention: : Baseline Liver Volume Volumetric Analysis — An observational evaluation based on the quantification of baseline pre-treatment functional liver volume (FLV) and total liver volume (TLV) derived from imaging datasets. These liver volume metrics are analyzed in correlation with clinical data to assess their prognostic potential for treatment response and overall survival in patients with unresectable hepatocellular carcinoma (HCC) receiving immunotherapy. No experimental treatment allocation or clinical intervention is performed.
-Link: https://clinicaltrials.gov/study/NCT07782632
 
 SUMMARY:
 
@@ -1344,15 +1306,6 @@ Link: https://clinicaltrials.gov/study/NCT07304934
 SUMMARY:
 
 
-## NCT07680816
-Subset-specific Metabolic Adaptation and Functional Remodeling of Gamma Delta T (γδ T) Cells in Critically Ill ICU Patients: A Single-center, Prospective, Observational Cohort Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07680816
-
-SUMMARY:
-
-
 ## NCT06874205
 Assessment of 11C-JMJ-129 for Imaging PDE4D in Brain and Whole Body of Healthy Volunteers
 
@@ -1565,15 +1518,6 @@ Link: https://clinicaltrials.gov/study/NCT05813418
 SUMMARY:
 
 
-## NCT07819630
-Randomized Controlled Trial on the Effects of Transcutaneous Electroacupuncture on Brain Functional Connectivity in Postoperative Pain Patients Based on Electroencephalography
-
-Intervention: : Transcutaneous electrical acupoint stimulation — Group description: Participants in this group will receive TEAS stimulation at the bilateral Neiguan, Hegu, and Zusanli acupoints 30 minutes before the start of the surgery, and their EEG data will be collected throughout the entire process using a 32 lead EEG cap test. During the experiment, the changes in hemodynamic parameters (blood pressure, heart rate) of the subjects during surgery will be recorded, as well as the perioperative pain scores of the subjects at 1 hour and 24 hours after surgery.
-Link: https://clinicaltrials.gov/study/NCT07819630
-
-SUMMARY:
-
-
 ## NCT05742490
 Neonatal Infection Surveillance Database
 
@@ -1762,17 +1706,6 @@ Link: https://clinicaltrials.gov/study/NCT07431593
 SUMMARY:
 
 
-## NCT07704138
-Process Based Therapy Applicability, Effectiveness and Compatibility (PBACE). A Within Therapist Randomized Controlled Trial Testing the Effectiveness of Process Based Therapy in Routine Patient Care and Assessing Its Influence on Therapist Decision Making
-
-Intervention: : Process Based Psychotherapy (PBT) — Intervention planning based on the use of EMA data, feedback of dynamic network analysis and matching of interventions to central nodes of the network.
-: Routine practice — Intervention planning as usual.
-: Psychiatric medication kept constant over study duration — Psychiatric medication is kept constant during the trial. Participants are not required to take medication. If participants enlisting in the trial are on medication however, they will be asked to keep medication constant over the study duration
-Link: https://clinicaltrials.gov/study/NCT07704138
-
-SUMMARY:
-
-
 ## NCT06449885
 A Prospective, Multi-center, Cohort Study in Newly Diagnosed Marginal Zone B-cell Lymphoma
 
@@ -1901,21 +1834,6 @@ Link: https://clinicaltrials.gov/study/NCT06401226
 SUMMARY:
 
 
-## NCT07792876
-Double-Blind Randomized Crossover Trial Examining the Effects of Ketone and Carbohydrate Supplementation on Molecular Biomarkers, Cognitive Function, and Physical Performance in Healthy Endurance Athletes
-
-Intervention: : Carbohydrate beverage — Participants ingest 210 mL of a \~15% carbohydrate solution, providing 30 g of carbohydrate per dose, every 20 minutes from the start of the 155-minute fixed-intensity phase, with the final dose taken immediately before the start of the 20-minute maximal effort block. No beverage is provided during the maximal effort. The solution combines sucrose and dextrose so that glucose and fructose are absorbed through separate intestinal transporters. All doses are supplied in opaque, coded bottles prepared by a researcher not involved in the assessments, so that treatments cannot be identified visually.
-: (R)-1,3-butanediol — Participants ingest (R)-1,3-butanediol at 1.0 g/kg body mass 45 minutes before the start of the cycling protocol and a further 0.5 g/kg 5 minutes before the start, for a total dose of 1.5 g/kg body mass. The dose was selected to sustain blood beta-hydroxybutyrate at approximately 2 mmol/L throughout the session, a range compatible with nutritional ketosis and without risk to participants. Doses are supplied in opaque, coded bottles prepared by a researcher not involved in the assessments.
-: Pre-exercise non-caloric placebo — Participants ingest a non-caloric placebo beverage at 45 and 5 minutes before the start of the cycling protocol, at the same time points at which the (R)-1,3-butanediol is administered in the CHO-KET arm. The placebo is matched to the ketone beverage for volume, appearance and flavour, and provides no energy. Doses are supplied in opaque, coded bottles prepared by a researcher not involved in the assessments.
-: During-exercise non-caloric placebo — Participants ingest 210 mL of a non-caloric placebo beverage every 20 minutes from the start of the 155-minute fixed-intensity phase, with the final dose taken immediately before the start of the 20-minute maximal effort block. No beverage is provided during the maximal effort. The placebo is water with the same flavouring used in the carbohydrate beverage, matched for volume, appearance and ingestion schedule, and provides no energy. Doses are supplied in opaque, coded bottles prepared by a researcher not involved in the assessments.
-: Standardized evening meal — On the evening before each experimental session, participants consume a standardized meal providing 1.5 g of carbohydrate per kg of body mass. The same meal is provided before all three experimental sessions and is followed by an overnight fast of 8 to 12 hours.
-: Prolonged cycling exercise protocol — Each experimental session comprises 5 minutes of warm-up at 100 W, 155 minutes at 55% of maximal power output (Wmax) with the cycle ergometer set in hyperbolic mode, and a final 20 minutes of maximal self-paced effort in linear mode, followed by 5 minutes of low-load cool-down. The same protocol is applied in all three conditions, with load individually prescribed from the maximal incremental test performed at the pre-experimental visit.
-: Standardized breakfast — On the morning of each experimental session, after the baseline venous blood draw and following an overnight fast of 8 to 12 hours, participants consume a standardized breakfast providing 1.5 g of carbohydrate per kg of body mass, 40 g of protein and 7 g of fat. Participants are instructed to consume the entire meal. The same breakfast is provided before all three experimental sessions.
-Link: https://clinicaltrials.gov/study/NCT07792876
-
-SUMMARY:
-
-
 ## NCT06090409
 Assessing Dietary Patterns and Implementing Cost-effective Interventions to Encourage a Plant-based Diet in an Underserved Urban Population
 
@@ -1964,16 +1882,6 @@ Intervention: : Intraoperative monitoring — ANESTHESIOLOGICAL MANAGEMENT accor
 
 MONITORING DURING SURGERY: monitor devices routinely used are connected to the participant: Dräger Infinity Delta XL®, Masimo® for pulse oximetry (Rainbow SET), regional cerebral oximetry (O3TM), and (optional) brain function monitoring (Masimo® SedLine). Arterial blood gas test is sampled at the anesthesiologist's discretion. After the artery catheterization, the MostCare® system is simultaneously connected to the patient monitoring devices. Data are collected every 3 minutes, 6 minutes for the noninvasive blood pressure measurement.
 Link: https://clinicaltrials.gov/study/NCT06263075
-
-SUMMARY:
-
-
-## NCT07675590
-A Single Center, Multiple Dose, Randomized, Placebo-controlled Study to Evaluate Safety, Tolerability and Pharmacokinetics of Orally Administered TIX100 in Healthy Subjects
-
-Intervention: : TIX100 — oral administration over 28 days
-: Placebo — oral administration over 28 days
-Link: https://clinicaltrials.gov/study/NCT07675590
 
 SUMMARY:
 
@@ -2205,15 +2113,6 @@ Safety and Efficacy of Devices Used in Fetoscopic Neural Tube Defect Repair Case
 
 Intervention: : Modified Surgical Instruments/Devices (Sheaths and Irrigator) — Patients who choose to undergo fetoscopic surgery will be offered participation in this study. All patients will undergo a fetoscopic repair of the fetal open neural tube defect with the use of the modified devices in this study.
 Link: https://clinicaltrials.gov/study/NCT05672849
-
-SUMMARY:
-
-
-## NCT07707830
-Morphometric Characteristics of Internal Organs and Morphofunctional Status of the Musculoskeletal System in Patients With Hypothyroidism
-
-Intervention: : Comprehensive Morphometric and Functional Assessment — Participants undergo a standardised study assessment including clinical evaluation, anthropometric measurements, ultrasonographic examination of the liver, pancreas and both kidneys, handgrip strength measurement, the Five Times Sit-to-Stand Test, 4-m gait speed assessment, physical activity and sarcopenia screening, and laboratory measurement of serum TSH and FT4. No therapeutic intervention or modification of routine clinical management is involved.
-Link: https://clinicaltrials.gov/study/NCT07707830
 
 SUMMARY:
 
@@ -2465,15 +2364,6 @@ Link: https://clinicaltrials.gov/study/NCT05798338
 SUMMARY:
 
 
-## NCT07773688
-Expanded Two-photon Imaging of Skin Biopsy Specimens
-
-Intervention: : Two photon microscopy imaging — Ex vivo tissues will be imaged with two photon microscopy
-Link: https://clinicaltrials.gov/study/NCT07773688
-
-SUMMARY:
-
-
 ## NCT04955210
 Establishment of a Multi-Center Big Data System for Severe Infection and a Collaborative Network on Sepsis in Chinese Children
 
@@ -2593,15 +2483,6 @@ Pharmacogenetic-Guided Antidepressant Prescribing in Adolescents With Anxiety an
 Intervention: : Pharmacogenetic-guided dosing — SSRI dosing based on Clinical Pharmacogenetics Implementation Consortium's SSRI dosing guidelines.
 : Current prescribing guidelines/recommendations — SSRI dosing based on current prescribing guidelines/recommendations
 Link: https://clinicaltrials.gov/study/NCT06853587
-
-SUMMARY:
-
-
-## NCT07727265
-Role and Mechanism of PyroEVs in Regulating Lipid Droplet-Mitochondrial Coupling Via PLIN3 in Sepsis-Induced Vascular Endothelial Cell Injury
-
-Intervention: : No Intervention: Observational Cohort — No intervention
-Link: https://clinicaltrials.gov/study/NCT07727265
 
 SUMMARY:
 
@@ -2769,15 +2650,6 @@ Link: https://clinicaltrials.gov/study/NCT07147309
 SUMMARY:
 
 
-## NCT07786441
-Kabawil: Adapting an Intervention to Reduce Intersectional Stigmas Among Indigenous Sexual Minority Men and Traditional Healers in Mesoamerica
-
-Intervention: : Stigma Reduction Intervention — This a workshop-based intervention that has reduced HIV stigma among healthcare workers and gay, bisexual, and other men who have sex with men (GBM) in multiple countries. Guatemala's Indigenous population, which comprises nearly half of the country's residents, faces significant health inequities. Indigenous GBM experience intersecting forms of stigma related to HIV, sexual orientation, and Indigenous identity, increasing their vulnerability to poor HIV outcomes. The adapted intervention, KABAWIL, will be the first adaptation to include both Indigenous men and traditional healers. We will pilot test KABAWIL using a randomized wait-list controlled trial with 120 participants. Sixty participants (30 Indigenous GBM and 30 ITH) will receive the intervention through three workshops, while 60 participants will be assigned to a 3-month wait-list control group. The study will evaluate KABAWIL's preliminary efficacy, feasibility, acceptability, and implementation potential.
-Link: https://clinicaltrials.gov/study/NCT07786441
-
-SUMMARY:
-
-
 ## NCT05819476
 Boosting Open-Label Placebo Effects in Acute Induced Pain in Healthy Adults
 
@@ -2919,29 +2791,11 @@ Link: https://clinicaltrials.gov/study/NCT06699134
 SUMMARY:
 
 
-## NCT07759999
-UW26028: Clinical Evaluation of a Treatment Planning Software and Oncology Information System for Proton Therapy
-
-Intervention: : Treatment Planning Software — Uniform application of RayTracker and RayAdaptive software analyses for every verification image taken during proton therapy.
-Link: https://clinicaltrials.gov/study/NCT07759999
-
-SUMMARY:
-
-
 ## NCT05513716
 Molecular Characterisation of Colorectal Cancer Peritoneal Metastases: Genomic and Transcriptomic Analysis With Correlation of Clinical Outcomes
 
 Intervention: : Retrospective tissue sample analysis — Archival formalin-fixed, paraffin-embedded (FFPE) tumour tissue from colorectal cancer peritoneal metastasis and paired primary tumours, where available - taken as standard care
 Link: https://clinicaltrials.gov/study/NCT05513716
-
-SUMMARY:
-
-
-## NCT07768800
-Clinical Evaluation of Dermal Acceptability and the Comedogenic and Acnegenic Potential of a Cosmetic Product
-
-Intervention: : Blancy Pro — Blancy Pro is a cosmetic product intended for daily use in individuals with oily and acne-prone skin. Participants will use the product for 28 days under normal conditions of use. Dermatological safety and the absence of comedogenic and acnegenic potential will be evaluated through clinical assessments.
-Link: https://clinicaltrials.gov/study/NCT07768800
 
 SUMMARY:
 
@@ -2962,15 +2816,6 @@ Impact of Individual Radiosensitivity on Late Toxicities of Radiosurgery in Esse
 
 Intervention: : Radiation induced Lymphocyte Apoptosis diagnostic test — Diagnostic test for estimation of individual radiosensitivity, based on blood test, whose clinical value has been demonstrated in predicting complications in patients irradiated for breast or prostate cancer. These tests are based on the rate of radiation-induced lymphocyte apoptosis, known as the RILA (Radiation Induced Lymphocyte Apoptosis) score
 Link: https://clinicaltrials.gov/study/NCT06863324
-
-SUMMARY:
-
-
-## NCT07731984
-Reliability of Optical and Ultrasound Biometry in Silicon Filled Eyes
-
-Intervention: : optical and ulrtasound biometry — Optical and ultrasound biometry preoperative and postoperative 1 month
-Link: https://clinicaltrials.gov/study/NCT07731984
 
 SUMMARY:
 
@@ -3124,16 +2969,6 @@ Intervention: : Daridorexant — Dosing and treatment duration of QUVIVIQ as par
 : Non-orexin receptor antagonist medications for insomnia — Dosing and treatment duration of non-orexin receptor antagonist medications for insomnia as part of this observational study is at the discretion of the healthcare provider in accordance with local clinical practice and local labeling.
 : No insomnia medication — No insomnia medication was administered.
 Link: https://clinicaltrials.gov/study/NCT06498128
-
-SUMMARY:
-
-
-## NCT07775365
-Development and Internal Validation of a Deep Learning Model Predicting the Outcome of Root Coverage Surgery From Preoperative Intraoral Photographs: A Prospective Observational Cohort Study
-
-Intervention: : Coronally advanced flap with subepithelial connective tissue graft — A coronally advanced flap is raised over the recession defect and a subepithelial connective tissue graft harvested from the palate is positioned beneath it, after which the flap is sutured coronal to the cemento-enamel junction. Graft thickness, length and width are recorded for each treated site. The procedure was performed as routine clinical care and was not assigned for research purposes.
-: Deep learning based prediction of root coverage outcome — Preoperative intraoral photographs and baseline clinical variables are analysed by a deep learning model that predicts the outcome of root coverage surgery. The model output is not used in clinical decision making and does not influence treatment; it is compared retrospectively with the outcome measured by the treating periodontist at six months. The same photographs are also used to assign the recession type automatically, which is compared with the clinical assignment.
-Link: https://clinicaltrials.gov/study/NCT07775365
 
 SUMMARY:
 
@@ -3318,16 +3153,6 @@ Link: https://clinicaltrials.gov/study/NCT06953622
 SUMMARY:
 
 
-## NCT07776899
-Clinical Applications of Novel FAPI PET in Diverse Solid Tumors
-
-Intervention: : FAPI-RuiJ — A novel FAP-targeted radiotracer for PET/CT or PET/MR imaging; administered intravenously.
-: FAPI-04 — A FAP-targeted radiotracer for PET/CT or PET/MR imaging; administered intravenously.
-Link: https://clinicaltrials.gov/study/NCT07776899
-
-SUMMARY:
-
-
 ## NCT06885411
 Ototixicity in Patients With a Metal-on-Metal Hip Arthroplasty
 
@@ -3498,15 +3323,6 @@ Link: https://clinicaltrials.gov/study/NCT05996900
 SUMMARY:
 
 
-## NCT07813208
-Real-world Investigation of Diagnosis, Treatment, and Survival Status of Children With Ph+ ALL in China
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07813208
-
-SUMMARY:
-
-
 ## NCT06840015
 Use of Airpod Pros as Assistive Technology
 
@@ -3565,18 +3381,6 @@ Intervention: : 11C-M503 PET — 2 hour Positron Emission Tomography (PET) scan 
 : Amyloid PET — PET scan with Florbetaben F18 or 11C-PiB
 : Neurological assessments — Neurological assessments, including a video interview.
 Link: https://clinicaltrials.gov/study/NCT06303921
-
-SUMMARY:
-
-
-## NCT07760467
-A Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamic Characteristics of Single and Multiple Doses of TUL321 Capsule in Healthy Participants, and the Effect of Food on Pharmacokinetics
-
-Intervention: : Part1: TUL321 — orally, 20 mg、50 mg、 100 mg、200 mg、400 mg and 600 mg
-: Part1: Placebo — Oral placebo capsules matching TUL321 capsules
-: Part2: TUL321 — orally, 50 mg QD、100 mg QD、300 mg QD、50 mg BID
-: Part2: Placebo — Oral placebo capsules matching TUL321 capsules
-Link: https://clinicaltrials.gov/study/NCT07760467
 
 SUMMARY:
 
@@ -3682,15 +3486,6 @@ A Pilot Study to Evaluate Feasibility of Intraoperative Tracing of Meningioma Us
 Intervention: : Brain Imaging with [Cu64]DOTATATE — Patients will undergo a \[Cu64\]DOTATATE PET/MRI or PET/CT before undergoing radio- guided surgery. Patients will undergo another \[Cu64\]DOTATATE PET/MRI or PET/CT 6 weeks- 3 months after their surgery, and 6 months- 12 months after surgery.
 : Radio-guided Surgery With Neoprobe Utilization — After the subjects undergo the preoperative \[Cu64\]DOTATATE PET/MRI, subjects will undergo radio-guided surgery in which the surgeon will utilize a standard intraoperative gamma probe (Neoprobe Gamma Detection System ®) to assess primary/residual tumor detection.
 Link: https://clinicaltrials.gov/study/NCT06377371
-
-SUMMARY:
-
-
-## NCT07762092
-Post Authorization Registry Study of Patients Treated With LEQEMBI
-
-Intervention: : No Intervention — No intervention.
-Link: https://clinicaltrials.gov/study/NCT07762092
 
 SUMMARY:
 
@@ -3886,15 +3681,6 @@ Evaluation of the Validity and Reliability of the Protection, Amount, Frequency,
 Intervention: : Construct validity — This is not an intervention. This is an analysis conducted to examine the factor structure of this questionnaire. The analysis will be performed using the SPSS 26.0 software package program.
 : Test-retest reliability — This is not an intervention. This is an analysis conducted to examine the repeatability of this questionnaire. The analysis will be performed using the SPSS 26.0 software package program.
 Link: https://clinicaltrials.gov/study/NCT07339657
-
-SUMMARY:
-
-
-## NCT07799870
-The Measurement of Vital Signs in Neonates by Lifelight® Software in Comparison to the Standard of Care
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07799870
 
 SUMMARY:
 
@@ -4307,15 +4093,6 @@ Link: https://clinicaltrials.gov/study/NCT07154381
 SUMMARY:
 
 
-## NCT07830771
-Fibroblast Activating Protein (FAP) PET/CT in Adults With Tuberculosis
-
-Intervention: : [18F]-FAPI-74 — Each patient will receive approximately 8 mCi of \[18F\]-FAPI-74 intravenously (approximate range for most studies is anticipated to be 6-8 mCi). This will be followed by a vertex to thigh static scan at 30 minutes ( ±5 min) post injection and a low dose CT for attenuation correction. Participants will also undergo high-resolution CT (HRCT) of the chest at baseline and follow-up timepoints, these scans may be done the same day or on different days.
-Link: https://clinicaltrials.gov/study/NCT07830771
-
-SUMMARY:
-
-
 ## NCT06157060
 Prediction of Hepatocellular Carcinoma Recurrence After Curative Treatment by Longitudinal Monitoring Minimal Residual Disease Based on Circulating Tumor DNA
 
@@ -4424,31 +4201,6 @@ Real-world Study to Assess Adherence to IOP Lowering Therapy in Patients With Gl
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07206628
-
-SUMMARY:
-
-
-## NCT07684196
-A Phase 1 Randomized, Double-Blind, Single-Center, Placebo-Controlled Single Ascending Dose and Multiple Ascending Dose (SAD/MAD) Study by Topical Dermal Administration to Evaluate the Safety, Tolerability, and Pharmacokinetics of ENC0653 Ointment in Healthy Adult Subjects
-
-Intervention: : Low Dose, 10%BSA — Topical dermal administration
-: Low Dose, 20%BSA — Topical dermal administration
-: Middle Dose, 20%BSA — Topical dermal administration
-: High Dose, 20%BSA — Topical dermal administration
-: Low Dose, 20%BSA — Topical dermal administration
-: Middle Dose, 20%BSA — Topical dermal administration
-: High Dose, 20%BSA — Topical dermal administration
-: Placebo — Topical dermal administration
-Link: https://clinicaltrials.gov/study/NCT07684196
-
-SUMMARY:
-
-
-## NCT07791134
-Investigation of the Immediate Effect of Connective Tissue Massage on Pressure Pain Threshold in Fibromyalgia
-
-Intervention: : Connective Tissue Massage — Single-session CTM application for the entire back
-Link: https://clinicaltrials.gov/study/NCT07791134
 
 SUMMARY:
 
@@ -4782,15 +4534,6 @@ Link: https://clinicaltrials.gov/study/NCT04798651
 SUMMARY:
 
 
-## NCT07679204
-Examination of Type D Personality and Factors Associated With Life Satisfaction in Parents of Patients Diagnosed With Bipolar Disorder Type 2 and Major Depressive Disorder
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07679204
-
-SUMMARY:
-
-
 ## NCT05898529
 Prevalence of Asymptomatic COVID-19 Infection in Pediatric Surgical Patients
 
@@ -4805,15 +4548,6 @@ Uppsala Psychosis Cohort: a Multimodal Study in Early Stage Psychosis Patients, 
 
 Intervention: : No intervention — Observational study where participants are followed over time
 Link: https://clinicaltrials.gov/study/NCT05763966
-
-SUMMARY:
-
-
-## NCT07825337
-Pilot Study: Feasibility and Usability of a Head-Mounted Spatial Computing Device for Intraoperative Visualization During Intraocular Surgery
-
-Intervention: : Apple Vision Pro Visualization System — Apple Vision Pro as an adjunct intraoperative visualization and information display tool during ophthalmic surgery.\[
-Link: https://clinicaltrials.gov/study/NCT07825337
 
 SUMMARY:
 

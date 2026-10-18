@@ -48,15 +48,6 @@ Link: https://clinicaltrials.gov/study/NCT05442970
 SUMMARY:
 
 
-## NCT07664683
-Impact of Changing the Appearance of Oral Antineoplastics on Adherence and Continuity of Treatment, Patient-reported Health Outcomes, and Patient Experience of Care
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07664683
-
-SUMMARY:
-
-
 ## NCT07385820
 An Interventional Study Evaluating Two Different School Deployment Strategies, Testing the Effects of Onsite Awareness Raising on the Adoption of the Fruit-stands by Local Student Populations
 
@@ -235,17 +226,6 @@ Link: https://clinicaltrials.gov/study/NCT07144111
 SUMMARY:
 
 
-## NCT07669571
-A Phase I, Double-blind, Placebo-controlled Study to Evaluate Safety, Pharmacokinetics, and Pharmacodynamics of NS-079 in Healthy Participants
-
-Intervention: : Placebo — NS-079 matching placebo
-: NS-079 tablet — Investigational product NS-079
-: Paroxetine — DDI study treatment drug
-Link: https://clinicaltrials.gov/study/NCT07669571
-
-SUMMARY:
-
-
 ## NCT06740838
 Overnight Dexamethasone in Primary Aldosteronism Screening in Patients on Interfering Therapy (the ODEPRASC Study)
 
@@ -365,24 +345,6 @@ Link: https://clinicaltrials.gov/study/NCT05091645
 SUMMARY:
 
 
-## NCT07670767
-Thirst for Knowledge: A Hydration Education Program for Geriatrics
-
-Intervention: : Education with a regular hydration opportunity — The intervention consists of a total of 4 educational sessions. At the first educational session, the topics that will be covered will be the prevalence of dehydration in older adults and the biological reasons why dehydration affects older adults more than younger adults. Subsequent sessions will cover the following topics: the signs and symptoms of dehydration are and how to look for them within yourself and others, benefits of water, different drinks, why water is the most hydrating drink, the recommended amount of water to consume, how to calculate the water intake based on your weight, helpful tips and tricks that can be used to increase water intake. In addition to the educational sessions, there will be weekly hydration happy hours held at Cornwall Manor. The hydration happy hour will include a recipe book for different hydrating drink mixtures, and flavor combinations, and cups of different hydrating drinks for the participants to try.
-Link: https://clinicaltrials.gov/study/NCT07670767
-
-SUMMARY:
-
-
-## NCT07691255
-Impact of Stereotactic Radiosurgery With Cyberknife In Patients With Brain Melanoma Metastases In The Era Of New Drugs
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07691255
-
-SUMMARY:
-
-
 ## NCT07267845
 A Randomised, Double-Blind, Placebo-Controlled Study on the Effects of Alpha-Glycerophosphocholine (α-GPC) on Cognitive Function and Sports Performance in Adults
 
@@ -412,15 +374,6 @@ Link: https://clinicaltrials.gov/study/NCT06720870
 SUMMARY:
 
 
-## NCT07677072
-Can Serum Lumican Level Identify a Hidden Fragility Phenotype Beyond Bone Mineral Density in Postmenopausal Women?
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07677072
-
-SUMMARY:
-
-
 ## NCT07129174
 Association Between Changes in Pulmonary Microbiota and Clinical Outcomes in Neurosurgical ICU Patients With Artificial Airways: A Prospective Observational Cohort Study
 
@@ -443,17 +396,6 @@ Round 3: Participants review aggregated results and finalize consensus on criter
 
 Mode of Delivery: Online survey via Qualtrics. Duration: Each round will remain open for 3 weeks, with reminder emails sent during weeks 1 and 2.
 Link: https://clinicaltrials.gov/study/NCT07258030
-
-SUMMARY:
-
-
-## NCT07672574
-An Open-label, Two-part Trial to Assess the Mass-balance Recovery, Metabolite Profile, Metabolite Identification and Absolute Bioavailability of [14C] Ontunisertib in Healthy Male Participants
-
-Intervention: : Ontunisertib — Oral capsule
-: [14C]ontunisertib — IV infusion
-: [14C]ontunisertib — Oral capsule
-Link: https://clinicaltrials.gov/study/NCT07672574
 
 SUMMARY:
 
@@ -544,15 +486,6 @@ Link: https://clinicaltrials.gov/study/NCT07302087
 SUMMARY:
 
 
-## NCT07733362
-A Randomized, Double-Blind, Placebo-Controlled Study to Assess the Immunomodulatory Potential and Safety of Spirulina Blue Protein Capsules in Healthy Volunteers
-
-Intervention: : Spirulina capsules — Spirulina Blue Protein Capsule
-Link: https://clinicaltrials.gov/study/NCT07733362
-
-SUMMARY:
-
-
 ## NCT07405086
 Knight Cancer Institute Study of Histology-Agnostic Immunotherapy With Focus on Timing: - Knight SHIFT - A Prospective, Multi-Histology Pragmatic Study
 
@@ -595,17 +528,6 @@ Intervention: : TSBR — The intervention consists of 20 training sessions on th
 Stage 1 contains 3 minutes of self-paced pedalling with the same bicycle resistance. At Stage 2, the main exercise, all participants will perform a 15-minute hands-free cycling training on the PerStBiRo system with a pulse watch to maintain moderate-intensity training, corresponding to 64-76% of the predicted maximal heart rate (Borg scale 12-14), including cognitive tasks projected at a screen in front of the participant. Stage 3 includes the cool down with 2 minutes of self-paced pedalling without bicycle resistance and cognitive tasks. During the training sessions, all participants will wear a loose safety harness that can arrest falling using the PerStBiRo system, but still allow comfortable pedalling.
 : PerTSBR — Participants of the intervention group will receive a combination of lateral and medial tilting unannounced perturbations during stage 2 of the TSBR training. This will be provided by roll and pitch angles (tilt) balance perturbations that aim to evoke trunk and arm balance recovery responses.
 Link: https://clinicaltrials.gov/study/NCT06453473
-
-SUMMARY:
-
-
-## NCT07690176
-The Metabolic Effects of a Hyperglycaemic Meal in Lean and Obese Individuals Using a [14C]-Glucose Microtracer Approach
-
-Intervention: : Low-glycemic breakfast (randomized vs high glycemic) — Participants receive a single oral microtracer dose of \[14C\] glucose (≤10 kBq / 270 nCi) mixed with 1 g unlabeled glucose, administered immediately after a low glycemic breakfast. The dose is prepared fresh on the morning of administration and consumed as a liquid drink. This approach enables tracing of glucose metabolism using Accelerator Mass Spectrometry (AMS) at extremely low radiation exposure (\~0.006 mSv). The intervention is combined with indirect calorimetry, serial blood sampling (including arterialized and deep-venous lines), expired air collection for 14CO₂ recovery, and pooled urine/feces collection over 72 hours to quantify metabolic fate and pathway activity.
-: High-glycaemic breakfast (randomized vs low glycemic) — Participants receive a single oral microtracer dose of \[14C\] glucose (≤10 kBq / 270 nCi) mixed with 1 g unlabeled glucose, administered immediately after a high glycemic breakfast. The dose is prepared fresh on the morning of administration and consumed as a liquid drink. This approach enables tracing of glucose metabolism using Accelerator Mass Spectrometry (AMS) at extremely low radiation exposure (\~0.006 mSv). The intervention is combined with indirect calorimetry, serial blood sampling (including arterialized and deep-venous lines), expired air collection for 14CO₂ recovery, and pooled urine/feces collection over 72 hours to quantify metabolic fate and pathway activity.
-: High-glycaemic breakfast — Participants receive a single oral microtracer dose of \[14C\] glucose (≤10 kBq / 270 nCi) mixed with 1 g unlabeled glucose, administered immediately after a high glycemic breakfast. The dose is prepared fresh on the morning of administration and consumed as a liquid drink. This approach enables tracing of glucose metabolism using Accelerator Mass Spectrometry (AMS) at extremely low radiation exposure (\~0.006 mSv). The intervention is combined with indirect calorimetry, serial blood sampling (including arterialized and deep-venous lines), expired air collection for 14CO₂ recovery, and pooled urine/feces collection over 72 hours to quantify metabolic fate and pathway activity.
-Link: https://clinicaltrials.gov/study/NCT07690176
 
 SUMMARY:
 
@@ -797,17 +719,6 @@ INvestigating Sex and Gender-Related Differences in Immunotherapy Treatment Effe
 
 Intervention: : Non-Interventional Study — Non-Interventional Study
 Link: https://clinicaltrials.gov/study/NCT06562777
-
-SUMMARY:
-
-
-## NCT07716059
-Effects of Legume Flour Particle Size on Postprandial Metabolic Responses to Bread of Healthy Subjects and Patients With Type 2 Diabetes
-
-Intervention: : Wheat bread with 30% finely milled chickpea flour — Wheat bread formulated by replacing 30% of refined wheat flour with finely milled chickpea flour, providing 50 g of available carbohydrates
-: Conventional white wheat bread — Conventional white wheat bread providing 50 g of available carbohydrate
-: Wheat bread with 30% coarse chickpea flour — Wheat bread formulated by replacing 30% of refined wheat flour with coarse chickpea flour, providing 50 g of available carbohydrate.
-Link: https://clinicaltrials.gov/study/NCT07716059
 
 SUMMARY:
 
@@ -1940,15 +1851,6 @@ Link: https://clinicaltrials.gov/study/NCT06696469
 SUMMARY:
 
 
-## NCT07776223
-Sensor Ankle Brace for Special Operations Rehabilitation - Phase 2
-
-Intervention: : Sensor-enabled Athletic X Ankle Brace (sXAB) — The intervention is a sensor-enabled version of the TayCo Brace, Inc. Athletic X Ankle Brace (sXAB), which integrates commercially available inertial measurement units (IMUs) into the structure of the brace. The brace is worn on the ankle of the dominant limb during functional movement tasks to evaluate its ability to produce valid gait and balance metrics compared to laboratory-grade measurement systems.
-Link: https://clinicaltrials.gov/study/NCT07776223
-
-SUMMARY:
-
-
 ## NCT07386730
 A Double Blind, Randomized Trial Investigating the Safety, Feasibility, and Mechanisms of Psychedelics in Healthy Older Adults With Low Well-being as Moderated by Biomarkers for Preclinical Alzheimer's Disease
 
@@ -2040,15 +1942,6 @@ Link: https://clinicaltrials.gov/study/NCT04564781
 SUMMARY:
 
 
-## NCT07765303
-Skin Pigment Type, Phototype and Photodamage Determination Using Image Analyses Powered by Artificial Intelligence - SPAI Study
-
-Intervention: : Skin imaging and skin characteristic assessment — Participants undergo standardized clinical and dermoscopic skin imaging, skin pigmentation measurements, skin phototype assessments, photodamage assessments, and completion of questionnaires. Data are collected for the development and validation of artificial intelligence algorithms for classification of skin pigmentation, phototype, and photodamage.
-Link: https://clinicaltrials.gov/study/NCT07765303
-
-SUMMARY:
-
-
 ## NCT07214324
 Integrative Multi-omics Analysis to Predict Monoclonal Gammopathies Clinical Evolution
 
@@ -2079,15 +1972,6 @@ Intervention: : Propionate followed by Butyrate — The participants will consum
 : Propionate followed by Butyrate — • The participants will consume Short-Chain Fatty Acid propionate (SCFA-PRO) followed by Short-Chain Fatty Acid Butyrate (SCFA-BUT).
 : Butyrate followed by Propionate — The participants will consume Short-Chain Fatty Acid Butyrate (SCFA-BUT) followed by Short-Chain Fatty Acid Propionate (SCFA-PRO).
 Link: https://clinicaltrials.gov/study/NCT07183488
-
-SUMMARY:
-
-
-## NCT07804927
-STRess Assessment of INterventional Cardiology Fellows and Attendings
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07804927
 
 SUMMARY:
 

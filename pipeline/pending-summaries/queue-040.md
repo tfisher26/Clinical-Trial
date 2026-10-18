@@ -63,15 +63,6 @@ Link: https://clinicaltrials.gov/study/NCT05654675
 SUMMARY:
 
 
-## NCT07701759
-Hyopxia During Anti-VEGF Injection
-
-Intervention: : ranibizumab — Intra-vitrail injection
-Link: https://clinicaltrials.gov/study/NCT07701759
-
-SUMMARY:
-
-
 ## NCT06697093
 Polish Nationwide Registry of Diagnostics, Treatment and Outcome in Patients With Cardiogenic Shock CaS-POL
 
@@ -110,17 +101,6 @@ Link: https://clinicaltrials.gov/study/NCT04777916
 SUMMARY:
 
 
-## NCT07660822
-THE EFFECTS OF VIRTUAL REALITY AND VIDEO GAME-BASED EXERCISE PROGRAMS ON PHYSICAL FITNESS AND ATTENTION LEVELS IN HEALTHY ADOLESCENTS
-
-Intervention: : Conventional Physical Exercise Program — This group practiced using real sports equipment. The training program included kicking a soccer ball into a goal and a basketball into a hoop. The intervention was implemented for 20 minutes, 3 days a week, for a total of 8 weeks.
-: Xbox Console-Based Exercise Program — Participants in this group underwent a game-based exercise program using an Xbox video game console. The training protocol consisted of active video games simulating soccer and basketball, mirroring the tasks performed by a traditional exercise group. The intervention was administered three times a week for a total of eight weeks, with 20-minute sessions per week.
-: Virtual Reality-Based Exercise Program — Participants in this group underwent a virtual reality-based exercise program using virtual reality glasses. The training protocol consisted of immersive virtual reality games simulating soccer and basketball in a fully immersive digital environment, mirroring the tasks performed by a traditional exercise group. The intervention was administered three times a week for eight weeks, with 20-minute sessions per week.
-Link: https://clinicaltrials.gov/study/NCT07660822
-
-SUMMARY:
-
-
 ## NCT07128095
 COVID-19 Health Adjustments in Nutrition, General Wellness, and Exercise
 
@@ -152,31 +132,11 @@ Link: https://clinicaltrials.gov/study/NCT06171386
 SUMMARY:
 
 
-## NCT07785180
-Retrospective Study of Patients With Blastic Plasmacytoid Dendritic Cell Neoplasm (BPDCN) Treated With Chemotherapy Agents
-
-Intervention: : Chemotherapy — Several chemotherapy regimens can be considered (acute myeloid leukemia-like, acute lymphocytic leukemia-like, lymphoma-like). The choice of the regimen, as well as dosing and schedules, are based on the institution's and the health care provider's preferences.
-
-No study medication will be provided by the sponsor during this study.
-Link: https://clinicaltrials.gov/study/NCT07785180
-
-SUMMARY:
-
-
 ## NCT06701513
 Registry of Psoriasis Health Outcomes: A Longitudinal Real-world Collaboration (RePhlect) - A Real-world, Prospective, Observational Study of the Effectiveness of Deucravacitinib in Adults With Moderate-to-Severe Plaque Psoriasis in France
 
 Intervention: : Deucravacitinib — As prescribed by treating clinician
 Link: https://clinicaltrials.gov/study/NCT06701513
-
-SUMMARY:
-
-
-## NCT07826728
-ASSOCİATİON BETWEEN SMOKİNG AND GİNGİVAL CREVİCULAR FLUİD MFN1 AND NLRP3 LEVELS İN INDİVİDUALS WİTH PERİODONTAL HEALTH OR PERİODONTİTİS
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07826728
 
 SUMMARY:
 
@@ -341,15 +301,6 @@ Link: https://clinicaltrials.gov/study/NCT06517212
 SUMMARY:
 
 
-## NCT07745530
-PLAQUAGE - Platelets Target the Circulating HIV Reservoir: Implications for Immunological Failure
-
-Intervention: : blood sampling — During a routine consultation, a specific 40 mL blood sample will be collected for the study.
-Link: https://clinicaltrials.gov/study/NCT07745530
-
-SUMMARY:
-
-
 ## NCT06075628
 Long-Term Outcomes of Left Atrial Appendage Contrast Flow in CT Scans After Endocardial LAA Closure: The CF-CT Registry
 
@@ -441,15 +392,6 @@ Link: https://clinicaltrials.gov/study/NCT04712812
 SUMMARY:
 
 
-## NCT07813702
-THE IMPACT OF URINARY INCONTINENCE ON GERIATRIC SYNDROMES IN ELDERLY INDIVIDUALS
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07813702
-
-SUMMARY:
-
-
 ## NCT06619418
 Assessment of Usability and Satisfaction With a Take-home Device Presenting Sound and Body Stimulation for Back Pain
 
@@ -478,29 +420,11 @@ Link: https://clinicaltrials.gov/study/NCT06499870
 SUMMARY:
 
 
-## NCT07777081
-PERCIPIENT - An Evaluation of Pain Biomarkers and Body Representation Outcomes After Distal Radius Fracture
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07777081
-
-SUMMARY:
-
-
 ## NCT06127719
 The Effects of Surgical Wait Time on Function, Pain and Health Related Quality of Life in Patients Awaiting Knee Arthroplasty: a Prospective Multicenter Cohort Study
 
 Intervention: : questionnaires — before surgery, patients are asked to fill out the questionnaires as stated in the outcome measures paragraph
 Link: https://clinicaltrials.gov/study/NCT06127719
-
-SUMMARY:
-
-
-## NCT07726602
-Tumor-informed ctDNA in Muscle-invasive Bladder Cancer for Evaluation of Residual/Recurrent Disease - the TiMBER Trial
-
-Intervention: : Non-Interventional Study — Non-interventional study
-Link: https://clinicaltrials.gov/study/NCT07726602
 
 SUMMARY:
 
@@ -565,17 +489,6 @@ Advanced Mutidimensional and Ultra High Resolution Computed Tomography to Inspec
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06537934
-
-SUMMARY:
-
-
-## NCT07757087
-The Effect of Once-weekly Subcutaneous NNC0487-0111 Compared to an Energy-restricted Diet or Placebo on Energy Metabolism in Adults Living With Obesity: a Randomised, Placebo-controlled Study
-
-Intervention: : NNC0487-0111 — NNC0487-0111 will be administered subcutaneously.
-: Placebo — Placebo matched to NNC0487-0111 will be administered subcutaneously.
-: LED — A meal plan and meal replacements will be provided by the investigators.
-Link: https://clinicaltrials.gov/study/NCT07757087
 
 SUMMARY:
 
@@ -651,16 +564,6 @@ Intervention: : Resting State EEG — During this intervention, participants wil
 : Picture Viewing EEG — During this intervention, participants will view emotionally charged pictures for a short period of time. Afterwards, participants will be asked to rate their emotional reactions to the pictures. EEG will be recorded during this intervention.
 : Stop Signal EEG — During this intervention, participants will be asked to respond quickly to a visual stimulus with a button press. At times, participants will be asked to inhibit their responses. EEG will be recorded during this intervention.
 Link: https://clinicaltrials.gov/study/NCT06025201
-
-SUMMARY:
-
-
-## NCT07762287
-A Combined Single- and Multiple-dose, Open-label, Randomized, 2 x 2 Crossover Study to Investigate the Relative Bioavailability of Two Oral Elinzanetant (BAY 3427080) Formulations in Healthy Female Participants
-
-Intervention: : Elinzanetant (BAY 3427080) treatment A — Elinzanetant treatment A is administered orally once daily.
-: Elinzanetant (BAY 3427080) treatment B — Elinzanetant treatment B is administered orally once daily.
-Link: https://clinicaltrials.gov/study/NCT07762287
 
 SUMMARY:
 
@@ -1444,15 +1347,6 @@ Link: https://clinicaltrials.gov/study/NCT07588022
 SUMMARY:
 
 
-## NCT07683299
-HEMO-INTEGRA: Feasibility and Description of an Integrated Intraoperative Hemodynamic Monitoring System for Cardiac Surgery With Cardiopulmonary Bypass - A Pilot Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07683299
-
-SUMMARY:
-
-
 ## NCT07587723
 Real-world Treatment Patterns and Outcomes of Eltrombopag in Patients With Primary Immune Thrombocytopenia
 
@@ -1544,15 +1438,6 @@ Heart Failure in Patients With Diabetes: Cells, Crosstalk and Consequences
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06774014
-
-SUMMARY:
-
-
-## NCT07789301
-Predictors of Severe Postoperative Pain Within the First 24 Hours After Elective Cesarean Delivery Under Spinal Anesthesia: A Prospective Observational Study
-
-Intervention: : Observational Assessment of Postoperative Pain — Participants will receive routine spinal anesthesia and standard perioperative care for elective cesarean delivery. Preoperative, intraoperative, and postoperative variables will be recorded without any study-specific intervention.
-Link: https://clinicaltrials.gov/study/NCT07789301
 
 SUMMARY:
 
@@ -2375,15 +2260,6 @@ Link: https://clinicaltrials.gov/study/NCT07613918
 SUMMARY:
 
 
-## NCT07701135
-Antimicrobial Stewardship Effects of Interpretive Comments for Faecal PCR Tests
-
-Intervention: : Interpretive comment on laboratory report — Interpretive commend added to laboratory report - contents of comment will depend on associated arm
-Link: https://clinicaltrials.gov/study/NCT07701135
-
-SUMMARY:
-
-
 ## NCT06270589
 Supporting High-intensity Interval Training With Mindfulness for Enhancing Childhood Executive Function
 
@@ -2711,15 +2587,6 @@ Link: https://clinicaltrials.gov/study/NCT06607588
 SUMMARY:
 
 
-## NCT07663357
-Development of a Pharmacogenomic Panel for Early Detection of Chemotherapy- and Immunotherapy-Induced Cardiotoxicity.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07663357
-
-SUMMARY:
-
-
 ## NCT05855941
 Prognostic and Diagnostic Added Value of Medical Imaging in Staging and Treatment Planning of Gynecological Cancer (PRODIGYN)
 
@@ -2786,15 +2653,6 @@ Link: https://clinicaltrials.gov/study/NCT07034599
 SUMMARY:
 
 
-## NCT07812662
-Young Girls' Experiences of Exposure to Pornography: A Qualitative Study
-
-Intervention: : Semi structured interview — Semi structured interview
-Link: https://clinicaltrials.gov/study/NCT07812662
-
-SUMMARY:
-
-
 ## NCT06391671
 The Stress-obesity Axis: a Metabolomics Approach Towards Personalized Nutrition in Adolescents (FAME)
 
@@ -2840,15 +2698,6 @@ MR-informed Stereotactic Radiotherapy for Treatment of Ultracentral Lung Tumours
 
 Intervention: : MR-informed stereotactic radiotherapy — MR-informed stereotactic radiotherapy for treatment of ultracentral lung tumours utilising a dedicated MR-simulator for daily adaptation followed by CBCT-guided treatment delivery.
 Link: https://clinicaltrials.gov/study/NCT06815289
-
-SUMMARY:
-
-
-## NCT07669493
-Cardiac Safety Management and Immune Microenvironment Changes in Thoracic Cancer Patients Receiving Different Radiotherapy Modalities: A Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07669493
 
 SUMMARY:
 
@@ -3024,17 +2873,6 @@ Comparing Approaches to Assess Nitric Oxide-dependent Cutaneous Vasodilation
 
 Intervention: : Acetylcholine — acetylcholine, and acetylcholine + L-NAME (Nitric oxide synthase inhibitor) are locally and acutely delivered to the cutaneous microvasculature to assess endothelium- and nitric oxide-dependent dilation
 Link: https://clinicaltrials.gov/study/NCT06499844
-
-SUMMARY:
-
-
-## NCT07726368
-A Phase 1, Open-Label, Fixed-Sequence, Single-Center, Two-Period, Drug-Drug Interaction Trial in Healthy Adult Participants to Evaluate the Effect of Steady-State ECC4703 on the Pharmacokinetics of Sulfasalazine (BCRP Probe Substrate) and Pitavastatin (OATP1B1/OATP1B3 Probe Substrate)
-
-Intervention: : ECC4703 — ECC4703 will be administered orally.
-: Sulfasalazine — Sulfasalazine will be administered orally.
-: Pitavastatin — Pitavastatin will be administered orally.
-Link: https://clinicaltrials.gov/study/NCT07726368
 
 SUMMARY:
 
@@ -3227,30 +3065,12 @@ Link: https://clinicaltrials.gov/study/NCT07418125
 SUMMARY:
 
 
-## NCT07809711
-Endoanal Ultrasonographic Assessment After Lateral Internal Sphincterotomy for Chronic Anal Fissure: Protocol for a Prospective Longitudinal Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07809711
-
-SUMMARY:
-
-
 ## NCT04683315
 PurIST Classification-Guided Adaptive Neoadjuvant Chemotherapy by RNA Expression Profiling of EUS Aspiration Samples
 
 Intervention: : mFOLFIRINOX Treatment Regimen — This therapy will be 5-fluorouracil, leucovorin, irinotecan, and oxaliplatin (FOLFIRINOX).
 : Gemcitabine/Nab-paclitaxel Treatment Regimen — This regimen will be nab-paclitaxel and gemcitabine.
 Link: https://clinicaltrials.gov/study/NCT04683315
-
-SUMMARY:
-
-
-## NCT07698964
-A Randomized Control Trial of Conversations Advancing Resilience and Empowerment (CARE): A Peer-Led Intervention to Improve Health Among Communities in Texas
-
-Intervention: : Conversations Advancing Resilience and Empowerment (CARE) — Health promotion intervention to address chronic disease risk
-Link: https://clinicaltrials.gov/study/NCT07698964
 
 SUMMARY:
 
@@ -3674,15 +3494,6 @@ A Prospective Study of Flotufolastat F 18 Positron Emission Tomography in Men Wi
 
 Intervention: : Positron Emission Tomography (PET) — This is a PET scan with flotufolastat F 18 injection.
 Link: https://clinicaltrials.gov/study/NCT06862856
-
-SUMMARY:
-
-
-## NCT07779720
-Personalized Fluid Resuscitation for Improved Sepsis Resuscitation Quality in the Emergency Department
-
-Intervention: : Non-Invasive Cardiac Output Monitoring (NICOM) — Trained study team members will perform a NICOM fluid assessment. This assessment involves performing a passive leg raise while measuring change in stroke volume (SV) with the non-invasive cardiac output monitor (NICOM). A SV change \>=10% during the passive leg raise indicates a patient is fluid responsive. The results of the NICOM fluid assessment will be provided to the patient's treating physician
-Link: https://clinicaltrials.gov/study/NCT07779720
 
 SUMMARY:
 

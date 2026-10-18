@@ -1005,15 +1005,6 @@ Link: https://clinicaltrials.gov/study/NCT06197152
 SUMMARY:
 
 
-## NCT07680491
-Non-surgical Treatment of Peri-implant Pockets With H42
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07680491
-
-SUMMARY:
-
-
 ## NCT07312318
 DeVelopment of an Artificial Intelligence-Driven Dynamic Prediction and Precision Stratification System for Coronary Non-Target LesIon ProgressiON After Percutaneous Coronary Intervention: A Multimodal Data-Enabled Multicenter Cohort Study in China
 
@@ -1144,15 +1135,6 @@ Cognitive Strategies in Early Psychosis 1
 
 Intervention: : Modafinil — Single dose of 200mg
 Link: https://clinicaltrials.gov/study/NCT07231497
-
-SUMMARY:
-
-
-## NCT07666789
-Efficacy and Safety of Islet Re-transplantation After Failure of Beta-cell Replacement
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07666789
 
 SUMMARY:
 
@@ -1754,16 +1736,6 @@ Link: https://clinicaltrials.gov/study/NCT06999096
 SUMMARY:
 
 
-## NCT07732283
-4-electrode ECG (DigitalCardio®) vs Standard 10-electrode ECG: Evaluating Ease of Use and Recording Quality
-
-Intervention: : standard 10-electrode ECG acquisition — Patient undergoes standard 10-electrode ECG acquisition. Then anonymized ECG traces is printed are submitted to independent evaluators. Evaluators independently assess trace quality based on standardized criteria, comparing automated measurements (frontal axis, median QRS duration, and QT interval) and counting any missing or erroneous leads. Followed immediately by 4-electrode DigitalCardio acquisition.
-: 4-electrode DigitalCardio acquisition — Patient undergoes 4-electrode DigitalCardio acquisition acquisition. Then anonymized ECG traces is printed are submitted to independent evaluators. Evaluators independently assess trace quality based on standardized criteria, comparing automated measurements (frontal axis, median QRS duration, and QT interval) and counting any missing or erroneous leads. Followed immediately by standard 10-electrode ECG acquisition.
-Link: https://clinicaltrials.gov/study/NCT07732283
-
-SUMMARY:
-
-
 ## NCT06855160
 A Phase 3a, Open-Label, Randomized, Controlled Study to Evaluate the Immunogenicity and Safety of Intramuscular Administration of an Investigational Varicella Vaccine and Priorix Compared With Subcutaneous Administration of Varivax and Priorix, When Given as a First Dose to Healthy Children 12 to 15 Months of Age
 
@@ -1844,15 +1816,6 @@ Glycosylation Analysis of Anti-DNA Auto-antibodies as Biomarker in the Follow up
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05394922
-
-SUMMARY:
-
-
-## NCT07711743
-Histological Assessment of Tissue Penetration Depth of Argon Beam Coagulation in Ovarian Endometriomas: A Prospective Pilot Study
-
-Intervention: : Argon Plasma Coagulation — Standardized argon plasma coagulation (APC) is applied to the outer surface of the ovarian endometrioma capsule immediately before laparoscopic cystectomy. The resected tissue is subsequently processed for histological analysis to assess the depth of APC tissue penetration.
-Link: https://clinicaltrials.gov/study/NCT07711743
 
 SUMMARY:
 
@@ -2166,29 +2129,11 @@ Link: https://clinicaltrials.gov/study/NCT07323043
 SUMMARY:
 
 
-## NCT07788352
-Telework and Consumer Behavior: Longitudinal Study
-
-Intervention: : data collection — data collection
-Link: https://clinicaltrials.gov/study/NCT07788352
-
-SUMMARY:
-
-
 ## NCT06925308
 Course of Face-to-face Interactions in Adults With Autism: An Exploratory Mixed Methods Experimental Design
 
 Intervention: : Conversation — The design consists of two parts. In the first part, the researcher will have a conversation (with a formal and informal phase, where the subject will be given the idea that only the formal part is part of the study) with an adult with ASD during which covert recordings of the subject's eye behavior will be made, and in addition skin conductance and duration/frequency of eye contact of the subject will be recorded, without the subject knowing that this is intended for the purpose of studying eye contact. In the second part, the researcher and subject will watch the covert recording of the subject's eye behavior, during which the subject's skin conductance will be recorded and details of the subject's behavior as seen by the researcher.
 Link: https://clinicaltrials.gov/study/NCT06925308
-
-SUMMARY:
-
-
-## NCT07690852
-Precision Prevention: Environmental Exposure Assessment in High-Risk and Early-Onset Breast Cancer Care
-
-Intervention: : Non-Interventional Study — Non-interventional study
-Link: https://clinicaltrials.gov/study/NCT07690852
 
 SUMMARY:
 
@@ -2852,15 +2797,6 @@ Link: https://clinicaltrials.gov/study/NCT06574269
 SUMMARY:
 
 
-## NCT07833696
-Characteristics and Management of Patients With Severe Chronic Spontaneous and/or Inducible Urticaria Refractory to Optimized Omalizumab Treatment: A French Multicenter Observational Study.
-
-Intervention: : drug effect — description of the characteristics and management of patients with severe chronic spontaneous and/or inducible urticaria experiencing failure of treatment with optimized omalizumab
-Link: https://clinicaltrials.gov/study/NCT07833696
-
-SUMMARY:
-
-
 ## NCT05693116
 Survival and Prognostic Factors of Squamous Cell Carcinoma of the Nasal Vestibule: a Multi-centre Study
 
@@ -3081,15 +3017,6 @@ Link: https://clinicaltrials.gov/study/NCT06282718
 SUMMARY:
 
 
-## NCT07671144
-Characterising Individual Differences in Colour Perception and Binocular Rivalry and Their Associations With Chronotype, Sex, and Sleep
-
-Intervention: : Computer-Based Visual Perception Tasks — Participants will complete computer-based visual perception tasks, including a colour perception task and a binocular rivalry task. These tasks are used to measure individual differences in perceptual responses and are not intended as a clinical intervention.
-Link: https://clinicaltrials.gov/study/NCT07671144
-
-SUMMARY:
-
-
 ## NCT07632560
 CANUT Junior : Assessment of Sensory Abilities and Eating Behavior in Pediatric Oncology: a Feasibility Study
 
@@ -3127,15 +3054,6 @@ Identification of Genetic Modifying Factors in Striated Muscle Laminopathies
 Intervention: : Skin Biopsy — The skin biopsy is performed in the consultation outclinic room. A local anaesthetic (anaesthetic patch to be applied to the skin) is required for this procedure. The skin biopsy is usually performed on the front of the forearm (but can be performed on the arm, thigh or leg). After disinfection, a fragment of 3 to 4 mm in diameter is removed with a biopsy-punch (single-use device). If necessary, a suture can be placed. Otherwise, the wound is covered with Steristrip and a sterile dressing. The skin sample, intended for a fibroblast culture, will be placed in a flask to be kept at room temperature. It will be labelled with specific labels and sent to the local biological resource centre.
 : Muscle biopsy — The muscle biopsy is performed in a sterile room. A local anaesthetic is required for this procedure. After selecting the muscle from which the sample will be taken (usually from the deltoid muscle at the shoulder stump), placing a sterile field and disinfecting, a small incision is made in the skin until the selected muscle is exposed. A bundle of muscle fibres of approximately 1 cm x 0.5 cm is removed. The skin is then sutured and covered with a sterile dressing. The procedure takes about 30 minutes (including patient set-up). The muscle sample will be divided into 2 fragments, one for myoblast culture, the other for frozen tissue. The 2 vials will be labelled with specific labels and then sent to the local biological resource centre
 Link: https://clinicaltrials.gov/study/NCT05394506
-
-SUMMARY:
-
-
-## NCT07690254
-Evaluation of First-Pass Endotracheal Intubation Success Using the Bispectral Index in Patients Undergoing Endotracheal Intubation in the Emergency Department
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07690254
 
 SUMMARY:
 
@@ -3287,15 +3205,6 @@ Link: https://clinicaltrials.gov/study/NCT06928649
 SUMMARY:
 
 
-## NCT07778173
-Three-Dimensional Molds Based on Radiological imagEs in Patients With Cancer: the DIRECT Trial
-
-Intervention: : 3D-printed tumor mold for tissue sampling — 3D-printed tumor mold for tissue sampling
-Link: https://clinicaltrials.gov/study/NCT07778173
-
-SUMMARY:
-
-
 ## NCT07542769
 Choice and Autonomy in Learning Mindfulness for Pediatric Residents
 
@@ -3425,15 +3334,6 @@ Development and Validation of a Food Frequency Questionnaire to Assess Sodium In
 
 Intervention: : Questionnaire — These patients complete the food frequency questionnaire in order to validate it for lower sodium consumptions. The experimental group has already received dietary advices regarding salt consumption during during their recent consultations.
 Link: https://clinicaltrials.gov/study/NCT05533645
-
-SUMMARY:
-
-
-## NCT07786077
-Patients' Preferences for Primary Immune Thrombocytopenia Treatment
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07786077
 
 SUMMARY:
 
@@ -3591,15 +3491,6 @@ Predictive Multimodal MRI Factors in Subacute Cerebral Artery Occlusiontreated b
 
 Intervention: : Multimodal MRI — Multimodal MRI will be realized between 12 and 24 hours after thrombectomy
 Link: https://clinicaltrials.gov/study/NCT04651010
-
-SUMMARY:
-
-
-## NCT07688759
-Study of CMV Specific Immune Reconstitution in Patients With Clinical Significant CMV Infection After Allogeneic Hematopoietic Stem Cell Transplantation (Allo-HSCT)
-
-Intervention: : Anti-Cytomegalovirus Therapy — The choice of agent (monotherapy or combination) is at the investigator's discretion and may include ganciclovir, valganciclovir, foscarnet, maribavir, or other approved anti-CMV medications.
-Link: https://clinicaltrials.gov/study/NCT07688759
 
 SUMMARY:
 
@@ -3817,15 +3708,6 @@ Link: https://clinicaltrials.gov/study/NCT05410977
 SUMMARY:
 
 
-## NCT07708779
-A Phase I Study Investigating the Local Tolerability and Pharmacokinetics of Isoniazid (INH) Inhalation by Wet Nebulization in Patients With Tuberculosis
-
-Intervention: : Isoniazid — Isoniazid inhalation
-Link: https://clinicaltrials.gov/study/NCT07708779
-
-SUMMARY:
-
-
 ## NCT06087367
 Building of a Diagnostic/Prognostic Database by High-throughput Multiplexed Assays for Human ERG Variant Effects
 
@@ -3874,18 +3756,6 @@ Intervention: : Pancreatectomy — Patients who underwent pancreatectomy will be
 
 Postoperative blood samples, according to clinical standard, will be taken at the 1, 2, 3, 5 and 7 day postoperatively. In addition to amylase several more parameters will be examined intra- and postoperatively: leucocytes, lipase, CRP, bilirubin, transaminases, AP, GGT, creatinine, interleukin-6, PCT. Intraoperative 1-2ml of pancreas juice will be taken for the evaluation of amylase and lipase levels.
 Link: https://clinicaltrials.gov/study/NCT06126601
-
-SUMMARY:
-
-
-## NCT07738003
-Perinatal Experience and Epigenetic Change in Autism: Discovering Modifiable Pathways for Intervention
-
-Intervention: : Change in child's DNA methylation — DNA methylation in pre-specified regions will be compared between birth, 24 and 30 months.
-: Perinatal stress — Perinatal stress will be measured using the Perceived Stress Scale (PSS-14), Edinburgh Postnatal Depression Scale (EPDS), General Anxiety Disorder (GAD-7), Social Provisions Scale (SPS-10), and ecological momentary assessments of stress, anxiety and sadness.
-: Early social experience — The child's early social experience will be measured directly using videotaped mother-child interaction coded using the CARE-Index, and indirectly using the Adult Attachment Interview.
-: Polygenic risk scores for social communication and repetitive behavior — Genomic data will be used to calculate polygenic risk scores for social communication and repetitive behavior.
-Link: https://clinicaltrials.gov/study/NCT07738003
 
 SUMMARY:
 
@@ -3968,15 +3838,6 @@ Complex Arrhythmia Registry（CAR）： Long-term Outcomes of Catheter Ablation 
 Intervention: : AF ablation — Catheter ablation will be performed under general anesthesia or local anesthesia. Pulmonary vein isolation (PVI) was performed in all patients. Beyond this mandatory step, the specific ablation strategy/protocol and ablation parameters/settings will be determined at the discretion of the operating physicians at each participating center.
 : VT ablation — For patients with hemodynamically stable VT, comprehensive chamber mapping (including activation mapping, substrate mapping, and entrainment mapping) is recommended. This aims to elucidate the VT activation sequence and identify the critical isthmus. Precise ablation targeting the isthmus should be performed to terminate the VT. For patients with hemodynamically unstable VT, substrate mapping during sinus rhythm can be performed first. This includes identification of low-voltage zones and abnormal electrograms (e.g., late potentials, local abnormal ventricular activities - LAVAs). Targeted substrate modification ablation should then be conducted based on the mapping findings. For all patients, complete substrate mapping is recommended after VT termination.
 Link: https://clinicaltrials.gov/study/NCT07024927
-
-SUMMARY:
-
-
-## NCT07811570
-Early Prediction and Diagnosis of CSA-AKI
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07811570
 
 SUMMARY:
 
@@ -6404,48 +6265,11 @@ Link: https://clinicaltrials.gov/study/NCT07377006
 SUMMARY:
 
 
-## NCT07831317
-Effects of a Multi-Strain Probiotic Supplement on Gastrointestinal Comfort and General Well-Being in Women: A Randomized, Double-Blind, Placebo-Controlled, Decentralized Study
-
-Intervention: : Active: Multi-strain probiotic dietary supplement — A capsule-in-capsule dietary supplement containing a seven-strain probiotic blend (12 billion CFU per capsule), taken once daily.
-: Placebo: Placebo — A capsule-in-capsule placebo manufactured to be visually identical to the active study product in appearance, size, color, weight, and packaging, containing no active ingredients, taken once daily.
-Link: https://clinicaltrials.gov/study/NCT07831317
-
-SUMMARY:
-
-
-## NCT07840547
-Expanded Protocol for Teleneurology Assessment Program for Creutzfeldt-Jakob Disease (TAPCJD)
-
-Intervention: : Teleneurology Assessment — Participants undergo standardized videoconference-based assessments of clinical history, cognitive function, neurological function, functional status, and neuropsychiatric symptoms. Study partners provide information about the participant and complete caregiver well-being and burden assessments.
-Link: https://clinicaltrials.gov/study/NCT07840547
-
-SUMMARY:
-
-
-## NCT07768345
-A PHASE 3, OPEN-LABEL STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF REVACCINATION WITH RESPIRATORY SYNCYTIAL VIRUS STABILIZED PREFUSION F SUBUNIT VACCINE (RSVPREF) IN IMMUNOCOMPROMISED ADULTS
-
-Intervention: : RSVpreF Vaccine — RSVpreF Vaccine
-Link: https://clinicaltrials.gov/study/NCT07768345
-
-SUMMARY:
-
-
 ## NCT07303920
 Wear Experience With Daily Disposable Contact Lenses for Astigmatism Over a Long-Wear Day
 
 Intervention: : Daily disposable contact lenses for astigmatism — All participants will be fit with the study lenses
 Link: https://clinicaltrials.gov/study/NCT07303920
-
-SUMMARY:
-
-
-## NCT07752745
-Mechanistic Validation of Human Multipolar TES-TI: Amplitude Modulation, Frequency, and Benchmarking
-
-Intervention: : TES-TI with hdEEG — 4 conditions per session. Each condition will follow a standardized block structure consisting of 3 minutes pre-stimulation baseline, 3 minutes stimulation, and 3 minutes post-stimulation recording (PRE, STIM, POST)
-Link: https://clinicaltrials.gov/study/NCT07752745
 
 SUMMARY:
 
@@ -6458,16 +6282,6 @@ Intervention: : BPL-1357 IM — Quadrivalent, inactivated, whole-virus vaccine c
 : Placebo IM — Placebo given intramuscularly.
 : Placebo IN — Placebo given intranasally.
 Link: https://clinicaltrials.gov/study/NCT07215858
-
-SUMMARY:
-
-
-## NCT07765706
-A Phase 1, Randomized, Double-blind, Placebo-controlled, 2-Part Study to Assess Safety, Tolerability and Pharmacokinetics of Single and Multiple Oral Doses of INS1033 in Healthy Participants
-
-Intervention: : INS1033 — Oral solution
-: Placebo — Oral solution
-Link: https://clinicaltrials.gov/study/NCT07765706
 
 SUMMARY:
 
@@ -6490,29 +6304,11 @@ Link: https://clinicaltrials.gov/study/NCT06294574
 SUMMARY:
 
 
-## NCT07838025
-Perioperative Real-time Respiratory Assessment in Lung Resections With a New Device: the AirGoTM System
-
-Intervention: : AirGoTM system — AirGo™ is a non-invasive wireless wearable respiratory monitoring system used for continuous measurement of respiratory parameters, including minute ventilation and respiratory rate, during the perioperative period.
-Link: https://clinicaltrials.gov/study/NCT07838025
-
-SUMMARY:
-
-
 ## NCT07458906
 Delta-like Protein 3 (DLL3)- Targeted PET Imaging in Neuroendocrine Carcinoma
 
 Intervention: : Diagnostic Test: conventional imaging (CT, MRI or 18F-FDG PET/CT), DLL3-targeted PET/CT — Participants will undergo DLL3-Targeted PET/CT imaging for the evaluation of tumor lesions. Imaging findings will be compared with conventional imaging modalities as part of the study analysis.
 Link: https://clinicaltrials.gov/study/NCT07458906
-
-SUMMARY:
-
-
-## NCT07756229
-Predictors of Response After Physiotherapy Treatment in People With Chronic Non-specific Neck Pain
-
-Intervention: : Manual physiotherapy and neck-specific exercise programme — The physiotherapy intervention will consist of six weekly sessions combining manual physiotherapy and a neck-specific exercise programme. Manual physiotherapy will include passive mobilisations of the cervical and thoracic spine and soft tissue techniques. The exercise programme will include daily home exercises targeting cervical mobility and neuromuscular control, including neck flexor and neck extensor training. The intervention is based on the protocol described by Villanueva-Ruiz et al. (2025).
-Link: https://clinicaltrials.gov/study/NCT07756229
 
 SUMMARY:
 
@@ -6532,15 +6328,6 @@ Cultural Adaptation of an Educational Tool in Medullary Thyroid Cancer
 Intervention: : Interviews — * Questionnaires/Survey Measures
 * Qualitative Instruments
 Link: https://clinicaltrials.gov/study/NCT07142005
-
-SUMMARY:
-
-
-## NCT07782879
-The DoubleTake Study: A Randomized, Waitlist-Controlled Trial of Message Exposure Delivered Via a Discrete Choice Experiment With Eye-Tracking on Quit Attempts Among Adults Who Smoke Menthol Cigarettes
-
-Intervention: : Message Exposure via Discrete Choice Experiment — Participants will view 64 anti-smoking social media messages, presented across 16 choice sets, in a discrete choice experiment (DCE) with eye-tracking. Within each choice set, participants indicate which message most attracts their attention, which they would be most likely to share or repost, and which would most motivate them to quit smoking.
-Link: https://clinicaltrials.gov/study/NCT07782879
 
 SUMMARY:
 
@@ -6565,31 +6352,11 @@ Link: https://clinicaltrials.gov/study/NCT07235540
 SUMMARY:
 
 
-## NCT07758101
-A Phase I Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Subcutaneous Injection or Intravenous Infusion of SHR-7590 Injection in Healthy Chinese Participants and Participants With Moderate-to-Severe Inflammatory Bowel Disease (Ulcerative Colitis and Crohn's Disease)
-
-Intervention: : SHR-7590 — SHR-7590
-: Placebo — Placebo
-Link: https://clinicaltrials.gov/study/NCT07758101
-
-SUMMARY:
-
-
 ## NCT06878326
 Resting-State Functional Connectivity as a Predictor of tDCS Effects in Adolescents With Autism Spectrum Disorder
 
 Intervention: : tDCS — Participant will receive three stimulation conditions: cathodal tDCS of the left DLPFC, anodal tDCS of the left DLPFC and sham-tDCS. The order of the conditions will be randomized and counterbalanced across participants, and the three stimulation conditions will be administered at least a week apart to avoid carry-over effects. The tDCS session will last for 20 minutes.
 Link: https://clinicaltrials.gov/study/NCT06878326
-
-SUMMARY:
-
-
-## NCT07841249
-Impact of Lobectomy Versus Sublobar Resection on Cardiorespiratory Fitness: An Observational Study Based on Cardiopulmonary Exercise Testing
-
-Intervention: : Lobectomy — Anatomic resection of an entire pulmonary lobe. The procedure may be performed via open thoracotomy or minimally invasive approaches, including video-assisted thoracoscopic surgery (VATS) or robot-assisted thoracoscopic surgery (RATS). The surgical approach and technique are determined by the treating surgeon according to routine clinical practice, tumor characteristics, patient anatomy, and pulmonary function. No randomization or study-specific intervention is assigned by the research protocol.
-: Sublobar Resection — Lung-preserving resection including segmentectomy and wedge resection. Segmentectomy is an anatomic resection of one or more bronchopulmonary segments. Wedge resection is a non-anatomic resection of lung parenchyma containing the lesion, typically with a wedge-shaped margin. The procedure may be performed via open thoracotomy or minimally invasive approaches, including VATS or RATS. The specific surgical procedure and approach are determined by the treating surgeon according to routine clinical practice, tumor characteristics, patient anatomy, and pulmonary function. No randomization or study-specific intervention is assigned by the research protocol.
-Link: https://clinicaltrials.gov/study/NCT07841249
 
 SUMMARY:
 
@@ -6608,16 +6375,6 @@ Guselkumab Real-world Effectiveness Among Bio-NaÏve Patients With Moderate-to-s
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07302360
-
-SUMMARY:
-
-
-## NCT07755007
-Pneumatic Tube System Versus Personnel Transport and the Hemolysis Index of Emergency Department Blood Samples: A Randomized, Split-Sample, Single-Blind Trial
-
-Intervention: : Pneumatic Tube System Transport — Blood sample transport using the Sumetzberger Power Control pneumatic tube system (Sumetzberger, Austria). The system operates at a speed of 4-5 m/s over a distance of approximately 120 meters using cushioned capsules. Transport duration ranges between 50 and 90 seconds.
-: Manual Personnel Transport — Blood sample transport performed manually by emergency department staff carrying the tube on foot from the phlebotomy area to the central clinical laboratory. Transport is dispatched simultaneously with the paired pneumatic tube sample.
-Link: https://clinicaltrials.gov/study/NCT07755007
 
 SUMMARY:
 
@@ -6688,25 +6445,6 @@ Link: https://clinicaltrials.gov/study/NCT06952660
 SUMMARY:
 
 
-## NCT07841288
-Prevelance of Klebsiella Pneumonie Isolates in the Respiratory Intensive Care Unit at Sohag University Hospitals
-
-Intervention: : No intervention (observational study) — no intervention
-Link: https://clinicaltrials.gov/study/NCT07841288
-
-SUMMARY:
-
-
-## NCT07744802
-A Phase 1, Open-label, Fixed-sequence Study to Evaluate the Effect of Vimseltinib on P-glycoprotein (P-gp) Inhibition in Healthy Male Participants
-
-Intervention: : Vimseltinib — Administered orally
-: Dabigatran — Administered orally
-Link: https://clinicaltrials.gov/study/NCT07744802
-
-SUMMARY:
-
-
 ## NCT07220824
 GUselkumab for the Treatment of PsA: Effectiveness Results by Ultrasound
 
@@ -6716,55 +6454,11 @@ Link: https://clinicaltrials.gov/study/NCT07220824
 SUMMARY:
 
 
-## NCT07793383
-Adaptive Decision Support for Addiction Treatment (ADAPT) Serial Randomized Testing for Usability, Round 3
-
-Intervention: : Refined EMBED CDS — Refined EMBED CDS
-: Provider alert that nurse completed COWS — Provider alert that nurse completed COWS
-Link: https://clinicaltrials.gov/study/NCT07793383
-
-SUMMARY:
-
-
-## NCT07802964
-A Randomized, Double-blind, Dose-escalation Phase I Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, Immunogenicity, and Pharmacodynamics of a Single Oral Dose of HRS-4139 in Healthy Participants
-
-Intervention: : HRS-4139 Tablet — HRS-4139 tablet.
-: HRS-4139 Placebo — HRS-4139 placebo.
-Link: https://clinicaltrials.gov/study/NCT07802964
-
-SUMMARY:
-
-
 ## NCT07309445
 A Multicenter, Prospective, Longitudinal Study to Assess Real-World Use and Outcomes After the Launch of TAR-200 for NMIBC in the US
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07309445
-
-SUMMARY:
-
-
-## NCT07758985
-A Phase 1b, Single-Center, Randomized, Double-Blind, Placebo-Controlled Proof-of-Concept Study to Evaluate Safety, Tolerability, Pharmacokinetics and Mosquitocidal Activity of Single Oral Doses of Lotilaner in Healthy Participants in Mali.
-
-Intervention: : Cohort 1 low dose lotilaner with a high-fat meal — Participants will receive a single low dose of lotilaner with a high-fat meal
-: Cohort 1 low dose placebo with a high-fat meal — Participants will receive a single low dose of placebo with a high-fat meal
-: Cohort 2 high dose lotilaner in fasted state — Participants will receive high dose lotilaner in a fasted state
-: Cohort 2 high dose placebo in fasted state — Participants will receive a single high dose of placebo in a fasted state
-: Cohort 3 high dose lotilaner with a high-fat meal — Participants will receive a single high dose of lotilaner after a high-fat meal
-: Cohort 3 high dose placebo with a high-fat meal — Participants with receive a single high dose of placebo with a high-fat meal
-Link: https://clinicaltrials.gov/study/NCT07758985
-
-SUMMARY:
-
-
-## NCT07781631
-An Open-label, Fixed-sequence, Two-period Phase I Trial to Evaluate the Effect of Multiple Oral Doses of Carbamazepine, a Strong CYP3A4 Inducer, on the Pharmacokinetics of Verducatib at Steady State in Healthy Male Trial Participants
-
-Intervention: : Verducatib — Verducatib
-: Carbamazepine — Carbamazepine
-Link: https://clinicaltrials.gov/study/NCT07781631
 
 SUMMARY:
 
@@ -6813,24 +6507,6 @@ AN OPEN-LABEL PHASE 1 STUDY TO EVALUATE PF-07994525 IN PARTICIPANTS WITH ADVANCE
 Intervention: : PF-07994525 — Oral administration
 : Midazolam — Oral administration
 Link: https://clinicaltrials.gov/study/NCT07426757
-
-SUMMARY:
-
-
-## NCT07836361
-Clinical Cohort Study of Systemic Sclerosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07836361
-
-SUMMARY:
-
-
-## NCT07839949
-Dynamic Analysis of Inspiratory Effort Using Non-invasive Monitoring as a Predictor of Liberation From Invasive Mechanical Ventilation Starting From the Transition Phase to Assisted Spontaneous Ventilation: a Prospective Observational Cohort Study Using Multivariate Joint Modeling and a Bayesian Approach
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07839949
 
 SUMMARY:
 
@@ -6907,26 +6583,6 @@ Link: https://clinicaltrials.gov/study/NCT07213167
 SUMMARY:
 
 
-## NCT07666828
-Evaluation of Lower Limb Haemodynamics Using Three (TRI) Neuromuscular Electrical Stimulation Foot Pad Programmes: A Crossover (X) Randomised Controlled Study in Healthy (HE) Adults
-
-Intervention: : Medic — The Medic programme is a currently marketed neuromuscular electrical stimulation (NMES) foot pad programme. It delivers electrical stimulation through the soles of the feet, via a commercially available NMES medical device, to induce lower limb muscle contractions and improve blood circulation during use.
-: P1 — Programme 1 (P1) is an investigational NMES foot pad programme that incorporates a modified stimulation pattern designed to reduce muscle adaptation during a 30-minute stimulation session while maintaining the same intended purpose and mode of action as the marketed programme.
-: PM7 — Personalised Medic v7 (PM7) is an investigational NMES foot pad programme that incorporates a modulation function intended to optimise the haemodynamic response during stimulation while maintaining the same intended purpose and mode of action as the marketed programme.
-Link: https://clinicaltrials.gov/study/NCT07666828
-
-SUMMARY:
-
-
-## NCT07708896
-Evolution of Chronic Inflammatory Skin Diseases
-
-Intervention: : advanced sistemic therapies — evaluate the safety and efficacy of advanced sistemic therapies used in inflammatory skin diseases.
-Link: https://clinicaltrials.gov/study/NCT07708896
-
-SUMMARY:
-
-
 ## NCT07242248
 Real World Observation of Guselkumab Treatment in Patients With Ulcerative Colitis and Crohn's Disease - a Study of Treatment Outcomes in the UK
 
@@ -6950,23 +6606,6 @@ Mindfulness Training for Hotel Staff: A Mixed-Methods Randomized Controlled Tria
 
 Intervention: : A mindfulness-based intervention — This is a 6-week mindfulness-based program consisting of mindfulness practices, cognitive-behavioral techniques, and other psychological exercises with 6 sessions (1 hour/session)
 Link: https://clinicaltrials.gov/study/NCT07541027
-
-SUMMARY:
-
-
-## NCT07766304
-Long-term Psychological and Cognitive Evaluation of Children Treated With Allogeneic Hematopoietic Stem Cell Transplantation for Immunodeficiency
-
-Intervention: : Neurocognitive, psychological, and psychosocial assessement — * A neuropsychological assessment including:
-
-  * Administration of standardized psychometric tests.
-  * Administration of parental and self-report questionnaires.
-  * A semi-structured neuropsychological interview about academic and developmental history, and current difficulties.
-* A psychological assessment including two clinical interviews:
-
-  * The first with the child alone.
-  * The second with at least one parent (ideally both) and the child.
-Link: https://clinicaltrials.gov/study/NCT07766304
 
 SUMMARY:
 
@@ -7033,18 +6672,6 @@ Link: https://clinicaltrials.gov/study/NCT07470645
 SUMMARY:
 
 
-## NCT07673341
-Imaging PARP Expression in Cholangiocarcinoma
-
-Intervention: : Computed Tomography — Undergo PET/CT and/or CT
-: Fluorine F 18 Fluorthanatrace — Given IV
-: Magnetic Resonance Imaging — Undergo MRI
-: Positron Emission Tomography — Undergo PET/CT
-Link: https://clinicaltrials.gov/study/NCT07673341
-
-SUMMARY:
-
-
 ## NCT07476326
 A Randomized, Double-Blind, Parallel, Multicenter, Two-Arm Study to Compare the Pharmacokinetics, Safety, and Immunogenicity Between Bmab1700 and Opdivo® After Complete Resection of Stage IIB/C, Stage III, or Stage IV Melanoma
 
@@ -7080,154 +6707,6 @@ A Randomized, Double-blind, 2-way Crossover, Multicenter Study to Evaluate the S
 Intervention: : HFA-152a — HFA-152a will be administered.
 : HFA-134a — HFA-134a will be administered.
 Link: https://clinicaltrials.gov/study/NCT07645248
-
-SUMMARY:
-
-
-## NCT07807423
-Relationship Between Spatiotemporal Dispersion Areas DISPLAYed by Volta Medical Artificial Intelligence Software and Atrial Arrhythmia Recurrence After Pulmonary Vein Isolation-Only Ablation for Persistent Atrial Fibrillation
-
-Intervention: : Complete biatrial mapping — All enrolled patients undergo catheter ablation for persistent atrial fibrillation. During the mapping phases of the procedure, the CE-marked Volta AF-Xplorer II artificial intelligence software is used according to its intended use to identify and display areas exhibiting spatiotemporal dispersion.
-
-Complete biatrial mappings of spatiotemporal dispersion areas are performed before and after Pulmonary Vein Isolation using Volta AF-Xplorer II connected to a compatible electroanatomical 3D mapping system (EnSite or CARTO).
-
-For the abation, Pulmonary vein isolation (PVI) is performed using radiofrequency (RF) or pulsed field ablation (PFA), consisting of the creation of contiguous circumferential lesions around each pulmonary vein antrum.
-
-The main phases of the ablation procedure are:
-
-* 1st complete biatrial mapping
-* Ablation (PVI only)
-* 2nd complete biatrial mapping
-Link: https://clinicaltrials.gov/study/NCT07807423
-
-SUMMARY:
-
-
-## NCT07822529
-GO-ON: Guselkumab lOngterm Persistency in Adult Patients With inflammatOry Bowel Disease: a Real World, National Non-iNterventional Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07822529
-
-SUMMARY:
-
-
-## NCT07840391
-ORTOMOVE: Protocol for a Prospective Cohort Study Comparing Physical Activity, Sleep Quality and Patient-reported Outcomes Following Same- Day Discharge Knee Arthroplasty
-
-Intervention: : Medial unicompartmental knee arthroplasty (UKA) — Primary medial UKA performed as part of routine clinical care for knee osteoarthritis. The procedure is not assigned by the study.
-: Total knee arthroplasty (TKA) — Primary TKA performed as part of routine clinical care for knee osteoarthritis. The procedure is not assigned by the study.
-Link: https://clinicaltrials.gov/study/NCT07840391
-
-SUMMARY:
-
-
-## NCT07841158
-Histological and Histomorphometric Assessment With Inflammatory Profile Analysis of Bone Tissue After Horizontal Ridge Augmentation of the Lower Posterior Mandible Using a Novel Customized Porous Zirconia Shell Technique: Clinical Case Study
-
-Intervention: : Customized porous zirconia shell — A CAD/CAM-milled zirconia shell with 1.5 mm pores, designed from each patient's CBCT scan and fixed with 3-4 buccal screws over a 1:1 mix of autogenous bone chips and xenograft. It replaces the autogenous cortical plates used in the Khoury technique and is removed after 6 months.
-Link: https://clinicaltrials.gov/study/NCT07841158
-
-SUMMARY:
-
-
-## NCT07841392
-Comparison of Recall and Perceived Applicability of Ganzouri Airway Scoring System Versus LEMON Score for Airway Assessment Among Anesthesia Residents; a Prospective Observational Study
-
-Intervention: : Ganzouri Airway Scoring System — This scoring system evaluates seven parameters:
-
-1. Mouth opening (interincisor distance)
-2. Thyromental distance
-3. Mallampati classification
-4. Neck movement
-5. Ability to prognath (mandibular protrusion)
-6. Body weight
-7. History of difficult intubation Each parameter was scored, score interpretation from 1- 4 with increasing difficulty , ≥4 suggesting awake intubation.
-: LEMON Score — The LEMON mnemonic represents:
-
-1. Look externally (facial trauma, large incisors, beard, etc.)
-2. Evaluate 3-3-2 rule (mouth opening, hyomental distance, thyroidtomouth distance)
-3. Mallampati score
-4. Obstruction (presence of airway obstruction)
-5. Neck mobility
-Link: https://clinicaltrials.gov/study/NCT07841392
-
-SUMMARY:
-
-
-## NCT07841535
-Molecular-based Optimization of Pathogen Identification in Sepsis Patients in the Indonesian National Referral Hospital
-
-Intervention: : Standard-of-care blood culture — Participants will undergo standard blood culture using the BACT/ALERT system. Cultures will be monitored until a final result of either microbial growth or no growth is obtained.
-: Hybrispot DNA Flow — Hybrispot DNA Flow is a diagnostic tool combining multiplex polymerase chain reaction (PCR) and flow-through hybridization.
-: Metagenomic 16s RNA — The metagenomic approach using the 16S rRNA platform enables comprehensive identification of microorganisms, including fastidious bacteria, low-abundance microorganisms, and unexpected or previously unrecognized pathogens.
-Link: https://clinicaltrials.gov/study/NCT07841535
-
-SUMMARY:
-
-
-## NCT07841691
-Optimising Antibiotic Use for Young African Children Hospitalised With Lower Respiratory Tract Infections: the Role of Biomarkers, Clinical Severity Scoring and Clinician Attitudes
-
-Intervention: : CRP- and PREPARE-guided Antibiotic Prescription — Antibiotic prescribing is guided by serial point-of-care CRP measurements and repeated PREPARE clinical severity score assessments. A predefined algorithm incorporating CRP results and clinical severity assessment is used to support decisions regarding antibiotic initiation, continuation, and discontinuation in children hospitalised with lower respiratory tract infections.
-Link: https://clinicaltrials.gov/study/NCT07841691
-
-SUMMARY:
-
-
-## NCT07842029
-SANDBOX: Scalable Assessment of Neurodegenerative Diagnosis Via Biomarkers and Online Examination
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07842029
-
-SUMMARY:
-
-
-## NCT07842458
-Depth Electrode Cortical Reverberation Monitoring After Traumatic Brain Injury
-
-Intervention: : A multi-contact depth electrode — Placement of a multi-contact depth electrode through the same burr hole created with a twist drill for clinically indicated EVD placement in TBI patients. The electrode will be positioned adjacent to the EVD catheter and connected to a stimulator/recording system to deliver biphasic, charge- balanced pulses (1-6 mA, 60-1000 µs) between adjacent contacts less than or equal to once every 3 seconds (0.33 Hz) while recording evoked cortical reverberation responses.
-Link: https://clinicaltrials.gov/study/NCT07842458
-
-SUMMARY:
-
-
-## NCT07842575
-Development of the Kinesiophobia Severity Scale in Urinary Incontinence: A Validity and Reliability Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07842575
-
-SUMMARY:
-
-
-## NCT07842991
-Clinical Evaluation of a Stannous Fluoride Toothpaste Versus a 67% Bicarbonate Toothpaste and Colgate Cavity Protection Toothpaste for Dental Plaque Reduction and Prevention of Gum Problems: a Six-month Clinical Study in Italy
-
-Intervention: : 0.45% SnF HW with NaF (1450 F) — toothpaste
-: 67% Bicarbonate with NaF (1400 F) — toothpaste
-: Colgate Cavity Protection Toothpaste — Toothpaste with MFP/NaF (1450 F)
-Link: https://clinicaltrials.gov/study/NCT07842991
-
-SUMMARY:
-
-
-## NCT07843004
-Capitalizing on AI to CapTure Undiagnosed Structural Heart Disease
-
-Intervention: : EHR Alert — EKG Algorithm to identify structural heart disease
-Link: https://clinicaltrials.gov/study/NCT07843004
-
-SUMMARY:
-
-
-## NCT07843095
-Protein Supplementation During Luteal Phase
-
-Intervention: : protein supplement — Protein supplementation during progesterone peak to stop protein degradation effect.
-: Placebo — Will receive placebo supplementation
-Link: https://clinicaltrials.gov/study/NCT07843095
 
 SUMMARY:
 
@@ -7367,15 +6846,6 @@ Link: https://clinicaltrials.gov/study/NCT04545957
 SUMMARY:
 
 
-## NCT07676630
-Effect of Neuroscience-Based Exercise Training on Cortical Activation, Focus, and Performance in Professional Female Volleyball Players
-
-Intervention: : Exercise — An 8-week (3 days/week) structured program added to regular training, combining: (1) eye warm-up exercises (eye massage, palming) and (2) volleyball-specific visual-motor coordination stations, including Saccade, Anti-Saccade, and Smart Optometry stations (targeting visual tracking, reaction speed, and eye-hand coordination), Brock String (depth perception and eye-hand coordination), Star Chart station (visual scanning and spatial awareness), and Pinhole Glasses Small Area Game (restricted peripheral vision to enhance focused attention and quick decision-making). Sessions are conducted by a physiotherapist, with total training time matched to the control group.
-Link: https://clinicaltrials.gov/study/NCT07676630
-
-SUMMARY:
-
-
 ## NCT07451730
 MultiCPR: The Influence of Resuscitation on History Recall
 
@@ -7500,15 +6970,6 @@ Link: https://clinicaltrials.gov/study/NCT05179473
 SUMMARY:
 
 
-## NCT07702708
-A Multicenter Prospective Observational Cohort Study: Predicting Neoadjuvant Chemotherapy Response Using Pre-Treatment DCE-MRI-Based AI Models in HR+/HER2- Breast Cancer
-
-Intervention: : Pre-treatment DCE-MRI-based AI model — Preoperative dynamic contrast-enhanced MRI images are input into an artificial intelligence prediction model to stratify HR+/HER2- breast cancer patients into high and low neoadjuvant chemotherapy benefit subgroups.
-Link: https://clinicaltrials.gov/study/NCT07702708
-
-SUMMARY:
-
-
 ## NCT05449106
 Evaluation of Clinical Outcomes of Unruptured Brain Arteriovenous Malformations Treated With Medical Management Alone Based on Multimodal Computer Tomography: A Long-term Multicenter Prospective Cohort Study
 
@@ -7523,15 +6984,6 @@ Subendocardial Viability Ratio in Hypertension
 
 Intervention: : Arterial tonometry — Arterial transcutaneous tonometry
 Link: https://clinicaltrials.gov/study/NCT06309511
-
-SUMMARY:
-
-
-## NCT07693283
-To Investigate the Expression of Target in Endometriotic Lesions
-
-Intervention: : Retrospective molecular expression analysis in endometriosis tissue specimens — This study involves no prospective interventional measures for participants.
-Link: https://clinicaltrials.gov/study/NCT07693283
 
 SUMMARY:
 

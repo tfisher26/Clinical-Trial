@@ -1060,15 +1060,6 @@ Link: https://clinicaltrials.gov/study/NCT06454838
 SUMMARY:
 
 
-## NCT07668271
-A Single-center, Randomized, Double-blind, Phase IV Lot-to-lot Consistency Clinical Trial in 18-30 Years-old Females in China to Evaluate Immunogenicity and Safety of Recombinant Human Papillomavirus 9-valent (Types 6/11/16/18/31/33/45/52/58) Vaccine (Escherichia Coli)
-
-Intervention: : 9-valent HPV vaccine (Cecolin 9) — Recombinant human papillomavirus 9-valent (types 6/11/16/18/31/33/45/52/58) vaccine (Escherichia Coli) (Xiamen Innovax Biotech Co., Ltd., Xiamen, China)
-Link: https://clinicaltrials.gov/study/NCT07668271
-
-SUMMARY:
-
-
 ## NCT07455760
 Investigating Subcortical Contributions to Speech Sequencing in Deep Brain Stimulator Recipients
 
@@ -1114,15 +1105,6 @@ Blood samples for cohort n°3 (collection during blood donation at Etablissement
 
 1 blood sample for each healthy donor 14mL of blood (2 tubes, 7mL per tube)
 Link: https://clinicaltrials.gov/study/NCT06474169
-
-SUMMARY:
-
-
-## NCT07831018
-Impact of AI Care Summaries on Caregiver Comprehension of Hospital Course
-
-Intervention: : AI Care Summary — Written AI-generated plain-language summary of the patient's hospital course, reviewed and approved by the attending physician and provided to the caregiver during the hospitalization.
-Link: https://clinicaltrials.gov/study/NCT07831018
 
 SUMMARY:
 
@@ -1726,16 +1708,6 @@ Monitoring Electrode Insertion During Cochlear Implant Surgery With OTOGUIDE
 
 Intervention: : OTOGUIDE software — OTOGUIDE performs objective measurements to enable the monitoring of the electrode insertion and the functioning of the electrode. OTOGUIDE guides the users through a workflow-based session to assess the implant status and to define a surgical approach. The users can plan an insertion target and monitor the real-time electrode insertion using an impedance-based method to automatically detect the number of contacts inside the cochlea.
 Link: https://clinicaltrials.gov/study/NCT07690995
-
-SUMMARY:
-
-
-## NCT07809659
-Operationalising Multifactorial Ovarian Cancer Risk Assessment Using the CanRisk Tool Versus Standard Practices.
-
-Intervention: : CanRisk — Risk assessment using the CanRisk tool, incorporating personal and family history, genetic testing results and polygenic risk score (PRS), to provide individualized ovarian cancer risk estimation.
-: Standard clinical risk assessment — Standard clinical genetic counselling, genetic testing and risk assessment according to national clinical practice, without use of the CanRisk tool.
-Link: https://clinicaltrials.gov/study/NCT07809659
 
 SUMMARY:
 
@@ -3515,18 +3487,6 @@ Link: https://clinicaltrials.gov/study/NCT06011954
 SUMMARY:
 
 
-## NCT07681076
-A Phase 4, Randomized, Open Label Study to Evaluate the Safety and Tolerability of Twice Daily Xanomeline/Trospium Chloride (KarXT) With Prophylactic and PRN Antiemetic Use in Healthy Volunteers
-
-Intervention: : KarXT — Specified dose on specified days
-: Trimethobenzamide — Specified dose on specified days
-: Ondansetron — Specified dose on specified days
-: Meclizine — Specified dose on specified days
-Link: https://clinicaltrials.gov/study/NCT07681076
-
-SUMMARY:
-
-
 ## NCT05743374
 Micronutrient and Additive Modifications May Optimize Diet To Health
 
@@ -4771,17 +4731,6 @@ Link: https://clinicaltrials.gov/study/NCT04792606
 SUMMARY:
 
 
-## NCT07711457
-Application of Extended Reality (XR)-Assisted CT-Guided Localization in Extracranial-intracranial (EC-IC) Bypass Surgery
-
-Intervention: : NTU OpVerse surgical simulation platform — NTU OpVerse is a patient-specific metaverse-based surgical simulation and assistance platform developed through collaboration among National Taiwan University Hospital, National Taiwan University, and technology partners. The platform integrates medical-image processing, three-dimensional reconstruction, digital-twin technology, and extended reality, including virtual, augmented, and mixed-reality applications.
-
-Patient-specific computed tomography or magnetic resonance imaging data can be imported into the platform and reconstructed into interactive three-dimensional anatomical models. These models allow surgeons to visualize the spatial relationships among target lesions, blood vessels, organs, bones, and other relevant anatomical structures. Through an immersive extended-reality interface, surgeons can manipulate the reconstructed models, examine them from different perspectives, and conduct individualized preoperative planning and procedural simulation.
-Link: https://clinicaltrials.gov/study/NCT07711457
-
-SUMMARY:
-
-
 ## NCT07319091
 Evaluation of Mitochondrial Metabolism in Patients With Cystinosis: CYSTI-MITO Project
 
@@ -5773,17 +5722,6 @@ Link: https://clinicaltrials.gov/study/NCT06592859
 SUMMARY:
 
 
-## NCT07767175
-A Study Investigating Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of NNC0721-8060 in Healthy Adult Participants Living With Overweight or Obesity
-
-Intervention: : NNC0721-8060 — NNC0721-8060 will be administered subcutaneously.
-: Semaglutide — Semaglutide will be administered subcutaneously.
-: Placebo — Placebo will be administered subcutaneously.
-Link: https://clinicaltrials.gov/study/NCT07767175
-
-SUMMARY:
-
-
 ## NCT06985784
 Enhancing Patient Well-Being: Feasibility of Virtual Reality in Head and Neck Cancer Patients to Improve Depressive Symptomatology, Anxiety and Pain
 
@@ -5879,15 +5817,6 @@ Link: https://clinicaltrials.gov/study/NCT06678295
 SUMMARY:
 
 
-## NCT07683962
-Influence of Early Wound Healing on the 12-month Clinical and Radiographic Outcomes of Regenerative Periodontal Surgery: a Prospective Observational Cohort Study
-
-Intervention: : Periodontal Regenerative Therapy — All subjects undergo surgical debridement of the intrabony defect followed by a regenerative approach (biologics with or without bone grafts, or blood clot alone) using papilla preservation techniques (MIST, M-MIST, MPPT, SPPF, or SFA).
-Link: https://clinicaltrials.gov/study/NCT07683962
-
-SUMMARY:
-
-
 ## NCT07132788
 Understanding the Effects of Pulmonary Arterial Hypertension on Lean Muscle Mass
 
@@ -5912,15 +5841,6 @@ A Real-world Study on the Efficacy and Safety of Menin Inhibitors as Maintenance
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07559695
-
-SUMMARY:
-
-
-## NCT07780513
-Identification of Cell Type-Specific Insulin Responsive Quantitative Trait Loci (QTL) in Human Skeletal Muscle
-
-Intervention: : Insulin 80mU/m2*min — 80mU/m2\*min euglycemic-hyperinsulinemic clamp
-Link: https://clinicaltrials.gov/study/NCT07780513
 
 SUMMARY:
 
@@ -6530,15 +6450,6 @@ Link: https://clinicaltrials.gov/study/NCT07070128
 SUMMARY:
 
 
-## NCT07816887
-Assessment of Vitreous Changes Following Cataract Surgery
-
-Intervention: : cataract surgery — standard cataracte surgery
-Link: https://clinicaltrials.gov/study/NCT07816887
-
-SUMMARY:
-
-
 ## NCT05839418
 Sustained Effort Network for Treatment of Status Epilepticus/European Academy of Neurology Registry on Refractory Status Epilepticus (SENSE-II/AROUSE)
 
@@ -6693,15 +6604,6 @@ Impact of Auditory Stimulation in Eating Pleasure : Multicentric Study With Bisc
 
 Intervention: : Compare the noise and pleasure of crunching between two hyperprotein nutritional supplements — Validate the evaluation criteria "Do you hear the biscuit crunch?" and "Is it a pleasure?"
 Link: https://clinicaltrials.gov/study/NCT04923087
-
-SUMMARY:
-
-
-## NCT07704320
-Pilot Clinical Assessment of the BreathAlert Device in Monitoring Apneic Episodes in Infants at Risk for Apnea
-
-Intervention: : BreathAlert (low cost respiratory rate and apnea monitor) — A BreathAlert device is attached to the subject. Data from BreathAlert and vital signs monitors is collected.
-Link: https://clinicaltrials.gov/study/NCT07704320
 
 SUMMARY:
 

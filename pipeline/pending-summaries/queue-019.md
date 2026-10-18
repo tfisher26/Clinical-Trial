@@ -72,15 +72,6 @@ Link: https://clinicaltrials.gov/study/NCT04706663
 SUMMARY:
 
 
-## NCT07726108
-Implementing Digital Anticipatory Protocols at Triage to Improve Emergency Department Flow: A Before-After Study Protocol
-
-Intervention: : Digital Anticipatory Protocols at Triage — The intervention consists of adding digital checkboxes to the electronic triage system. This provides nurses with formalized options for anticipated management based on patient acuity, aiming to encourage and document anticipatory actions while stimulating clinical reasoning.
-Link: https://clinicaltrials.gov/study/NCT07726108
-
-SUMMARY:
-
-
 ## NCT06366529
 Explore the Value of New Magnetic Resonance Technology in Non-invasive Quantitative Assessment of Renal Dysfunction and Renal Fibrosis
 
@@ -129,15 +120,6 @@ Link: https://clinicaltrials.gov/study/NCT07611266
 SUMMARY:
 
 
-## NCT07677722
-Prospective Comparative Study of Clinical Outcomes and Complications in Medial Knee Prostheses: Fixed Bearing Versus Mobile Bearing Design
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07677722
-
-SUMMARY:
-
-
 ## NCT07163182
 A Randomised, Double-blind, Placebo-controlled Study to Investigate the Safety, Tolerability and Pharmacokinetics of CHF6467 After Single and Repeated Ascending Doses by Intranasal Route in Healthy Adult Subjects
 
@@ -163,16 +145,6 @@ Longitudinal Pulmonary Chronic Graft-versus-host-disease (GvHD) Assessment in He
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07297303
-
-SUMMARY:
-
-
-## NCT07686224
-Evaluation of the Nutritional Value of a New Hydrolysed Rice Protein-based Formula
-
-Intervention: : Rice formula (New formula based on hydrolysed rice proteins) — The infant is exclusively fed the infant formula based on hydrolysed rice proteins from inclusion (postnatal age: day 10 (±3)) until the postnatal age of 4 months (day 120 (±3)).
-: Control formula (Standard cow's milk proteins-based formula) — The infant is exclusively fed the control formula from inclusion (postnatal age: day 10 (±3)) until the postnatal age of 4 months (day 120 (±3)).
-Link: https://clinicaltrials.gov/study/NCT07686224
 
 SUMMARY:
 
@@ -206,16 +178,6 @@ Link: https://clinicaltrials.gov/study/NCT07128862
 SUMMARY:
 
 
-## NCT07699575
-Anti-inflammatory Effects of Curcumin, Ginger and Piperine Supplementation in Ultra-trail Runners: a Double-blind Randomized Placebo-controlled Trial
-
-Intervention: : 9-5-1 — The investigational intervention is an oral food-supplement capsule combining curcumin, ginger, and piperine in a proprietary "9-5-1" ratio (curcuma extract : ginger extract : black pepper/piperine extract), administered as 4 capsules per day for 30 consecutive days prior to the race.
-: Placebo — Capsule excipients are maltodextrin and hydroxypropylmethylcellulose (HPMC), allowing an identical-appearing placebo for double-blind conditions.
-Link: https://clinicaltrials.gov/study/NCT07699575
-
-SUMMARY:
-
-
 ## NCT05324553
 Patient Derived Preclinical Models
 
@@ -223,17 +185,6 @@ Intervention: : Tissue Collection — Research tissue specimen will be obtained 
 : Blood Collection — Up to 50 mL of research blood will be drawn around the time of the procedure. Additional blood may be collected in selected cases, as warranted, to monitor disease recurrence/remission or perform additional
 : Buccal Swab — Buccal swab may be requested, if necessary, to generate germline data.
 Link: https://clinicaltrials.gov/study/NCT05324553
-
-SUMMARY:
-
-
-## NCT07781670
-Electrophysiological, Autonomic, and Psychological Responses to Acute Physical and Emotional Stress: A Within-Subject Experimental EEG Study
-
-Intervention: : Cold Pressor Test — Participants will immerse one hand in an ice-water bath and will be instructed to maintain the immersion for as long as tolerable, up to a maximum of three minutes. Participants may withdraw their hand at any time if the stimulation becomes intolerable. The actual duration of hand immersion will be recorded as an index of pain tolerance. EEG and autonomic activity will be continuously recorded during the task.
-: Negative Autobiographical Memory Recall — Participants will be instructed to select a personally painful or distressing autobiographical memory and focus on its emotional and experiential aspects for three minutes while seated with their eyes closed. No specific autobiographical event will be suggested by the researcher. EEG and autonomic activity will be continuously recorded during the task.
-: Affective Picture-Viewing Task — Participants will view negative and neutral images selected from the Nencki Affective Picture System (NAPS). Each trial will consist of a 10-second fixation period followed by a 30-second image presentation. Images will be presented in randomized order while EEG and autonomic activity are continuously recorded.
-Link: https://clinicaltrials.gov/study/NCT07781670
 
 SUMMARY:
 
@@ -471,31 +422,11 @@ Link: https://clinicaltrials.gov/study/NCT06237803
 SUMMARY:
 
 
-## NCT07765498
-A Single- and Multiple-Ascending Dose Study to Evaluate the Safety and Pharmacokinetics of LY4355756 in Healthy Participants
-
-Intervention: : LY4355756 — Administered orally as capsule
-: LY4355756 — Administered orally as tablet
-: Midazolam — Administered orally as liquid
-Link: https://clinicaltrials.gov/study/NCT07765498
-
-SUMMARY:
-
-
 ## NCT05234866
 Paradoxical Lucidity in Severe End-Stage Dementia
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05234866
-
-SUMMARY:
-
-
-## NCT07833917
-RISE Lab: Building Resilience Through Responsibility
-
-Intervention: : RISE Lab is a tier 2 small group mental health intervention aimed at building self-regulation and resilience among middle school students at risk for mental health concerns. — The goal of this pilot study is to develop, implement, and evaluate RISE Lab (Regulate, Identity, Strengthen, Empower), a small-group Tier 2 intervention that builds self-regulation, responsibility, and resilience among middle school students with behavioral and mental health needs. A two lesson, Cognitive Behavioral Therapy (CBT) aligned sequence on self-regulation from an employability social skills curriculum originally developed for justice-involved youth into a Tier 2 intervention for middle school students with behavioral and mental health needs.
-Link: https://clinicaltrials.gov/study/NCT07833917
 
 SUMMARY:
 
@@ -684,24 +615,6 @@ Link: https://clinicaltrials.gov/study/NCT06605001
 SUMMARY:
 
 
-## NCT07762339
-Comparison of Erector Spinae Plane Block and Caudal Block for Postoperative Analgesia in Pediatric Patients Undergoing Orchiopexy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07762339
-
-SUMMARY:
-
-
-## NCT07663539
-Foundations of Communication in Uncertainty Study (FOCUS): Insights From Bereaved Parents and Oncologists
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07663539
-
-SUMMARY:
-
-
 ## NCT07030062
 Transcatheter Aortic Valve Replacement With Echocardiography Guidance
 
@@ -779,15 +692,6 @@ Link: https://clinicaltrials.gov/study/NCT06701955
 SUMMARY:
 
 
-## NCT07729449
-Predictive Value of Optic Nerve Sheath Diameter and Cerebral Oxygenation Changes for Post-Dural Puncture Headache in Obstetric Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07729449
-
-SUMMARY:
-
-
 ## NCT07125898
 Decoding Central Defects in Dystrophinopathies From Diagnostic to Remediation
 
@@ -829,16 +733,6 @@ Lp(a)CCELERATE: Impact of Implementation Strategies on Lp(a) Testing in Secondar
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07508007
-
-SUMMARY:
-
-
-## NCT07804407
-Prospective Evaluation of Artificial Intelligence-generated History of Present Illness Drafts in the Emergency Department
-
-Intervention: : EDnote HPI (AI-generated HPI draft) — On-premise large language model-based tool that transcribes the patient-physician encounter in real time and generates an unedited HPI draft. The treating physician is blinded to the AI HPI draft.
-: Conventional physician HPI — HPI written by the treating emergency physician according to usual practice, blinded to the EDnote-generated HPI draft.
-Link: https://clinicaltrials.gov/study/NCT07804407
 
 SUMMARY:
 
@@ -904,16 +798,6 @@ Link: https://clinicaltrials.gov/study/NCT07457723
 SUMMARY:
 
 
-## NCT07729839
-Study of Safety, Tolerability, and Pharmacokinetics of ADB116 for Injection in Healthy Chinese Adults: A Single-Center, Randomized, Double-Blind, Placebo-Controlled, Single-Ascending-Dose Phase I Clinical Trial
-
-Intervention: : ADB116 for Injection — ADB116 for Injection, single intravenous bolus injection
-: Placebo for ADB116 for Injection — Matching placebo, single intravenous bolus injection
-Link: https://clinicaltrials.gov/study/NCT07729839
-
-SUMMARY:
-
-
 ## NCT06592651
 Home Within the Heart
 
@@ -957,15 +841,6 @@ Intervention: : No Salt, No β-OHB — Participants will consume the following f
 : High Salt, No β-OHB — Participants will consume the following for ten days. Enteric capsules will be filled with Morton's table salt. Sodium consumption will be normalized to caloric intake (2 mg Sodium/Calorie). The placebo supplement will be a β-OHB-free, taste and viscosity-matched, beverage produced by KetoneAid.
 : High Salt, High β-OHB — Participants will consume the following for ten days. Enteric capsules will be filled with Morton's table salt. Sodium consumption will be normalized to caloric intake (2 mg Sodium/Calorie). Ketone beverage will be the β-OHB supplement produced by KetoneAid. Participants will consume 24 mL (12 grams β-OHB) of the ketone beverage three times a day (total 36 grams β-OHB).
 Link: https://clinicaltrials.gov/study/NCT05545501
-
-SUMMARY:
-
-
-## NCT07688785
-Effects of Basic Body Awareness Therapy on Spatiotemporal Gait Characteristics and Plantar Pressure Distribution in Healthy Young Adults
-
-Intervention: : Basic Body Awareness Therapy — The Basic Body Awareness Therapy program includes low-intensity physiotherapy exercises focused on awareness of contact with the floor, postural alignment, breathing-movement integration, weight transfer, trunk control, balance, and fluent movement quality.
-Link: https://clinicaltrials.gov/study/NCT07688785
 
 SUMMARY:
 
@@ -1112,16 +987,6 @@ Link: https://clinicaltrials.gov/study/NCT05046002
 SUMMARY:
 
 
-## NCT07739121
-Benchmarking AI for Clinical Oncology decisioNmaking (BEACON): A Prospective, Multicentre, Blinded Evaluation of Frontier Large Language Models Against Multidisciplinary Tumour Board Recommendations in Oncology Treatment Planning
-
-Intervention: : Multidisciplinary tumour boards — Two independent tumour boards per localisation (10 boards in total) issue a categorical recommendation for every synthetic case. Where both boards agree, their consensus defines the reference standard; where they differ, the case-domain is classified as EQUIPOISE and analysed separately.
-: Frontier large language models — Five frontier LLMs (GPT-5.6, Claude Fable 5, Gemini 3.1 Pro, DeepSeek V4 Pro, Llama 4 Maverick) each receive the identical structured input for every case, three times in independent sessions, under locked prompts, versions and settings.
-Link: https://clinicaltrials.gov/study/NCT07739121
-
-SUMMARY:
-
-
 ## NCT07616934
 A Phase 1, First-in-Human, Randomized, Double-Blind, Placebo-Controlled, Dose-Escalation Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-A1 in Healthy Young Adults
 
@@ -1254,15 +1119,6 @@ Link: https://clinicaltrials.gov/study/NCT06865872
 SUMMARY:
 
 
-## NCT07820644
-A Single-center, Open-label, Single-arm, Observational Cohort Study on Early Diagnosis and Risk Prediction of Hepatocellular Carcinoma in Patients With Chronic Liver Disease Based on a Digital Management Platform
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07820644
-
-SUMMARY:
-
-
 ## NCT06626360
 SCreening fOr Malnutrition and Obesity in Patients With COVID-19 and Other Diseases
 
@@ -1363,30 +1219,11 @@ Link: https://clinicaltrials.gov/study/NCT06600633
 SUMMARY:
 
 
-## NCT07694687
-Family Involvement in ICU Delirium Assessment: A Prospective Observational Study Using the FAM-CAM
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07694687
-
-SUMMARY:
-
-
 ## NCT06944158
 Antimicrobial Resistance (AMR) Knowledge, Attitudes, and Practices Among Healthcare Workers in Syria: Multicenter Cross Sectional Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06944158
-
-SUMMARY:
-
-
-## NCT07772713
-Smart Health Care and Innovative Technology Service Model Plan: Development of Innovative Health Promotion System for Senior Adults
-
-Intervention: : Smart Elastic Band App — Participants in the SE group perform resistance band training using the Resistance Band Training System twice weekly for 12 weeks, with each session lasting approximately 30 minutes. Training sessions and exercise completion are recorded by the system.
-: Paper-based Resistance Band Exercise Guide — Participants in the Ctrl group are instructed to perform resistance band training twice weekly for 12 weeks according to a paper-based exercise guide, with each session lasting approximately 30 minutes.
-Link: https://clinicaltrials.gov/study/NCT07772713
 
 SUMMARY:
 
@@ -1406,15 +1243,6 @@ Test-retest Reliability and Agreement of Trunk Muscle Activation in Pain-free Pe
 
 Intervention: : No intervention — No intervention
 Link: https://clinicaltrials.gov/study/NCT06975202
-
-SUMMARY:
-
-
-## NCT07805564
-Evaluation of the Association Between the VEXUS Score and Hemodynamic Status and the Occurrence of Acute Kidney Injury After Open-Heart Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07805564
 
 SUMMARY:
 
@@ -1551,15 +1379,6 @@ Measuring Aided Language Development
 
 Intervention: : AAC Generative Language Intervention — Aided AAC Language Input/Output Intervention
 Link: https://clinicaltrials.gov/study/NCT06512168
-
-SUMMARY:
-
-
-## NCT07664488
-Cephalometric Tracing: A Comparison Between Digital Analysis and Artificial Intelligence
-
-Intervention: : Cephalometric Analysis — All included lateral cephalometric radiographs will undergo cephalometric analysis using both digital manual tracing and artificial intelligence-based automated systems. Manual digital tracing will be performed with Delta-Dent software by a single experienced orthodontist through manual identification of cephalometric landmarks. The same radiographs will subsequently be analysed using three fully automated AI-based software programs (WebCeph™, QuantX, and Smartee) without manual correction of landmark positioning. No therapeutic intervention or modification of patient treatment will be performed, as this is an observational comparative study based exclusively on retrospective analysis of radiographic records.
-Link: https://clinicaltrials.gov/study/NCT07664488
 
 SUMMARY:
 
@@ -1767,16 +1586,6 @@ Link: https://clinicaltrials.gov/study/NCT06872294
 SUMMARY:
 
 
-## NCT07815496
-The Modulatory Effects of Oxytocin on Fairness Perception and Related Prosocial Behaviors
-
-Intervention: : Oxytocin nasal spray — intranasal administration of oxytocin (24IU)
-: Placebo — intranasal administration of placebo (24IU)
-Link: https://clinicaltrials.gov/study/NCT07815496
-
-SUMMARY:
-
-
 ## NCT07487272
 Single-cell and Spatial Transcriptomic Profiling of Gingival Tissues in Aggressive and Chronic Periodontitis: Deciphering Cellular Heterogeneity and Inflammatory Microenvironment Features
 
@@ -1834,16 +1643,6 @@ Intervention: : Vitamin A — 1,000 μg retinyl palmitate twice a day for 6 mont
 : Nicotinamide — 500 mg NAM twice a day for 6 months
 : Other: Placebo — Identical placebo pills twice a day
 Link: https://clinicaltrials.gov/study/NCT05702398
-
-SUMMARY:
-
-
-## NCT07779265
-Randomized, Double-Blind, Placebo-Controlled Exploratory Study Assessing the Effects of Probiotic Supplementation on Gut Barrier Function, Immune Response, and Well-Being.
-
-Intervention: : Probiotic capsules — Fructooligosaccharides, selected probiotic strains, vitamins
-: Placebo — Maltodextrin, corn starch
-Link: https://clinicaltrials.gov/study/NCT07779265
 
 SUMMARY:
 
@@ -1985,15 +1784,6 @@ Influence of Body Mass Index on Gingival Health, White Spot Lesions, Whole Saliv
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07217756
-
-SUMMARY:
-
-
-## NCT07714837
-Orofacial Pain, Sleep-Related Problems, and Oral Health-Related Quality of Life Among Musicians in German Amateur Orchestras: A Cross-Sectional Online Survey
-
-Intervention: : Questionaire — Percentage (%) of surveyed musicians with presence of orofacial pain and other studied conditions like sleep bruxism, sleep disorders, and Oral Health-Related Quality of Life
-Link: https://clinicaltrials.gov/study/NCT07714837
 
 SUMMARY:
 

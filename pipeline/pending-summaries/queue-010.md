@@ -693,15 +693,6 @@ Link: https://clinicaltrials.gov/study/NCT06255197
 SUMMARY:
 
 
-## NCT07771335
-The Erlangen Stroke Project (ESPro)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07771335
-
-SUMMARY:
-
-
 ## NCT06528197
 Construction of Clinical Model of Primary Sjogren's Syndrome Combined Traditional Chinese Medicine and Western Medicine Based on Multi-omics
 
@@ -725,16 +716,6 @@ The Clinical Application of Artificial Intelligence Assisted Renal Biopsy Image 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07330362
-
-SUMMARY:
-
-
-## NCT07712640
-A Phase 1, Single Dose, Open-label, Randomized 4-Period, 4-Sequence Crossover Study to Assess the Relative Bioavailability of Two Tablet Formulations of BGB-58067 and the Effect of Food on the Pharmacokinetics of a Single Oral Dose of BGB-58067 Administered Simultaneously to Healthy Adult Participants
-
-Intervention: : BGB-58067 Tablet (F-01 Formulation) — Administered orally
-: BGB-58067 Tablet (F-02 Formulation) — Administered orally
-Link: https://clinicaltrials.gov/study/NCT07712640
 
 SUMMARY:
 

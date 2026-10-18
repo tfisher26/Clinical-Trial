@@ -1164,15 +1164,6 @@ Link: https://clinicaltrials.gov/study/NCT06741735
 SUMMARY:
 
 
-## NCT07741604
-A Two-part, Non-randomized, Open-label, Parallel-group Study to Assess the Effect of Renal Impairment on the Pharmacokinetics and Safety of RO7795081 Following a Single Oral Dose of RO7795081
-
-Intervention: : RO7795081 — Participants will receive RO7795081 as per the schedule described in the protocol.
-Link: https://clinicaltrials.gov/study/NCT07741604
-
-SUMMARY:
-
-
 ## NCT07446608
 Predicting the Efficacy of Dienogest in Patients With Endometriosis Using MRI
 
@@ -1608,18 +1599,6 @@ Study of Pelvic Organ Mobility by Dynamic MRI in Pelvic Endometriosis
 
 Intervention: : Dynamic MRI Sequence — Addition of a Dynamic MRI Sequence during the MRI examination performed in routine care
 Link: https://clinicaltrials.gov/study/NCT05779462
-
-SUMMARY:
-
-
-## NCT07689747
-Acute Effects of Neurocognitively Enriched Functional Performance Testing Conditions on Balance and Functional Performance in Athletes With Chronic Ankle Instability: A Randomized Crossover Study
-
-Intervention: : Standard Testing Condition — Participants perform functional performance tests under standard testing conditions without attentional focus instructions or additional cognitive tasks. This condition serves as the reference condition for comparison with neurocognitively enriched testing conditions
-: Internal Focus of Attention — Participants perform functional performance tests while receiving internal focus of attention instructions directing attention toward body movements, joint positions, and movement control during task execution.
-: External Focus of Attention — Participants perform functional performance tests while receiving external focus of attention instructions directing attention toward movement outcomes and environmental targets during task execution.
-: Cognitive Dual-Task Condition — Participants perform functional performance tests while simultaneously completing a cognitive task involving backward repetition of number sequences, increasing cognitive load during motor performance.
-Link: https://clinicaltrials.gov/study/NCT07689747
 
 SUMMARY:
 
@@ -2972,18 +2951,6 @@ Link: https://clinicaltrials.gov/study/NCT07726771
 SUMMARY:
 
 
-## NCT07673120
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of Single Ascending Doses and Multiple Doses of ABBV-313
-
-Intervention: : ABBV-313 — Injection
-: Placebo — Injection
-: ABBV-313 — Infusion
-: Placebo — Infusion
-Link: https://clinicaltrials.gov/study/NCT07673120
-
-SUMMARY:
-
-
 ## NCT06597474
 Food-Body-Mind Intervention: Promote Whole Child Health
 
@@ -3124,15 +3091,6 @@ Does Your Jaw Tell the Story of Your Pain? Masseter Muscle Thickness, Bruxism, a
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06874816
-
-SUMMARY:
-
-
-## NCT07809152
-Relationship Between Collagen-Containing Supplement Use and Muscle Mass and Body Image Following Metabolic and Bariatric Surgery: A Prospective Observational Study
-
-Intervention: : Collagen-containing supplement — Collagen-containing supplement products used at the participants' own discretion following sleeve gastrectomy. The type of product, daily dosage, and duration of use were self-reported by participants
-Link: https://clinicaltrials.gov/study/NCT07809152
 
 SUMMARY:
 
@@ -3320,15 +3278,6 @@ Intervention: : Neurological function — Neurological function will be examined
 : Peripheral blood test — Collect peripheral blood samples from patients.
 : Hematoma test — Collect hematoma fluid, dura mater, and hematoma outer membrane samples from patients.
 Link: https://clinicaltrials.gov/study/NCT06429774
-
-SUMMARY:
-
-
-## NCT07766941
-State of In-hospital Disaster Protection at Children's Hospitals in Germany
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07766941
 
 SUMMARY:
 
@@ -3615,15 +3564,6 @@ Link: https://clinicaltrials.gov/study/NCT06387381
 SUMMARY:
 
 
-## NCT07730931
-Forced Oscillatory Technique for the Diagnosis, Monitoring, and Assessment of Treatment Response in Bronchiolitis Obliterans Syndrome Following Allogeneic Bone Marrow Transplantation
-
-Intervention: : FOT - Forced Oscillation Technique — Forced Oscillation Technique (FOT) performed in addition to standard pulmonary function testing for the assessment of bronchiolitis obliterans syndrome after allogeneic hematopoietic stem cell transplantation
-Link: https://clinicaltrials.gov/study/NCT07730931
-
-SUMMARY:
-
-
 ## NCT06984302
 HYPOTENSION PREDICTION INDEX FOR HEMODYNAMIC OPTIMIZATION IN MAJOR VASCULAR SURGERY
 
@@ -3638,15 +3578,6 @@ An Observational, Non-Interventional Study Supporting Validation of eVO2peak Usi
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05678530
-
-SUMMARY:
-
-
-## NCT07693270
-Identifying Biomarkers Related to Opioid Use and Pain Response Following Traumatic Injury and Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07693270
 
 SUMMARY:
 
@@ -3691,16 +3622,6 @@ Link: https://clinicaltrials.gov/study/NCT06786169
 SUMMARY:
 
 
-## NCT07747779
-Comparison of Hormonal Response to a Mixed-Meal Tolerance Test After Laparoscopic Roux-en-Y Gastric Bypass Versus Laparoscopic Sleeve Gastrectomy With Duodenojejunal Bypass in Patients With Super Morbid Obesity: A Prospective Single-Center Non-Inferiority Randomized Clinical Trial
-
-Intervention: : Sleeve gastrectomy with duodenojejunal bypass — Novel bariatric procedure
-: Roux-en-Y gastric bypass — Standard bariatric procedure
-Link: https://clinicaltrials.gov/study/NCT07747779
-
-SUMMARY:
-
-
 ## NCT07434154
 Evaluation of Oxidative Stress: Comparison Between Type 1 Diabetes Mellitus and Latent Autoimmune Diabetes in Adults
 
@@ -3734,15 +3655,6 @@ Evaluation of the Clinical Outcomes of the Total Knee Prosthesis With Posterior 
 
 Intervention: : Knee arthroplasty — Knee arthroplasty surgery with perseus orthokey alignment device
 Link: https://clinicaltrials.gov/study/NCT06321042
-
-SUMMARY:
-
-
-## NCT07741383
-A Study on the Efficacy and Safety of TEER Combined Electrical Cardioversion in Patients With Severe Mitral Regurgitation and Atrial Fibrillation: A Prospective, Multicenter, Open-Label Randomized Controlled Study
-
-Intervention: : TEER and Electrical Cardioversion — Transcatheter Edge-to-Edge Repair (TEER) followed by immediate electrical cardioversion (ECV) during the same procedure. ECV is performed with synchronized shock at 100-200J, preceded by intravenous amiodarone 300mg. If the first shock fails, a repeated shock up to 200J may be attempted. All patients receive guideline-directed medical therapy (GDMT), anticoagulation, and antiarrhythmic drugs per standard practice.
-Link: https://clinicaltrials.gov/study/NCT07741383
 
 SUMMARY:
 
@@ -4236,15 +4148,6 @@ Link: https://clinicaltrials.gov/study/NCT05024175
 SUMMARY:
 
 
-## NCT07773870
-Association of Cumulative Cold-Region Exposure With Left Ventricular Remodeling and Cardiovascular Outcomes After Percutaneous Coronary Intervention: A Multicenter Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07773870
-
-SUMMARY:
-
-
 ## NCT06720363
 Development of a Predictive Model of Fetal PH At Birth from Novel Variables Derived from Cardiotocographic Tracing
 
@@ -4277,16 +4180,6 @@ A Study of the Correlation Between Portal Vein Thrombosis and Prognosis of Liver
 
 Intervention: : Observation — No intervention were made.
 Link: https://clinicaltrials.gov/study/NCT06513780
-
-SUMMARY:
-
-
-## NCT07751718
-Investigation of Effects of Pilates Exercises on Pain, Posture in Office Workers
-
-Intervention: : Pilates Exercise — Pilates exercise
-: Desk Exercise — desk exercise
-Link: https://clinicaltrials.gov/study/NCT07751718
 
 SUMMARY:
 
@@ -4503,15 +4396,6 @@ Forecasting Seizures Using IntelliGent Wearable Technology for Health Tracking
 Intervention: : SeizureWise algorithm — An investigational algorithm which enables forecasting of future seizure probabilities based on the pattern and frequency of previous generalized tonic-clonic seizure (GTCS) events, as well as changes in physiological and behavioral variables
 : Multi-day Visualizations — Multi-day visualizations of sensor derived data
 Link: https://clinicaltrials.gov/study/NCT06275685
-
-SUMMARY:
-
-
-## NCT07739732
-Impact of Periodontitis on Metabolomics in Gingival Crevicular Fluid
-
-Intervention: : Periodontal probing depth — Periodontal probing depth measured in millimeters
-Link: https://clinicaltrials.gov/study/NCT07739732
 
 SUMMARY:
 

@@ -2,15 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT07682363
-Attitudes, Perceptions, Clinical Practice, and Barriers in Diagnosis and Management of Patients With Metabolic Dysfunction-associated Steatotic Liver Disease: a Cross-sectional Survey on Physicians in China
-
-Intervention: : No treatment is given — This study is a cross-sectional survey-based study. The design is observational and descriptive. Collection of data will be performed via a quantitative online survey.
-Link: https://clinicaltrials.gov/study/NCT07682363
-
-SUMMARY:
-
-
 ## NCT05550675
 Prospective Database of Factors Associated With Faecal vs. Double Incontinence in Patients Referred for High Resolution Anorectal Manometry.
 
@@ -49,15 +40,6 @@ Link: https://clinicaltrials.gov/study/NCT07269873
 SUMMARY:
 
 
-## NCT07795216
-Affordable, Tailored Physical Therapy for Financially Vulnerable People With Trauma-related Injuries (AFTER-TRAUMA): a Prospective Cohort Study
-
-Intervention: : Questionnaires — PROMIS Questionnaires
-Link: https://clinicaltrials.gov/study/NCT07795216
-
-SUMMARY:
-
-
 ## NCT07403136
 An Open-Label, Randomized Phase II Study of Becotatug Vedotin With or Without PD-1 Inhibitor Immunotherapy in Patients With Advanced Esophageal Squamous Cell Carcinoma Refractory to Previous Immunochemotherapy
 
@@ -79,15 +61,6 @@ Link: https://clinicaltrials.gov/study/NCT06226272
 SUMMARY:
 
 
-## NCT07698158
-Growing Well Study: The Role of Portion Size, Plant-based and Commercial Foods on Young Child Growth
-
-Intervention: : Dietary intake and patterns (including vegetarian, vegan, and dairy-free diets) — Assessment of dietary intake, patterns, and food/drink portion sizes in infants and young children, including consumption of commercial foods, formula milks, fruit juices, and free sugars, and comparison of different dietary patterns (e.g., vegetarian, vegan, dairy-free diets). Dietary data are collected at baseline and at 12-month follow-up.
-Link: https://clinicaltrials.gov/study/NCT07698158
-
-SUMMARY:
-
-
 ## NCT06735625
 Pilot Study "AHSP as a Biomarker of Sickle Cell Disease in a Population of Adults and Children"
 
@@ -95,16 +68,6 @@ Intervention: : Measurement of AHSP concentration — Pseudonymization and ident
 
 The 4 mL research sample will then be divided into 1 mL fractions by a technician in the laboratory and stored at -80°C in the medical biology laboratory.
 Link: https://clinicaltrials.gov/study/NCT06735625
-
-SUMMARY:
-
-
-## NCT07693868
-An NNC6022-0004 Single and Multiple Ascending Dose Study Investigating Safety, Tolerability, Pharmacokinetics, Food Effect and Target Engagement in Healthy Adults Including a Single Cohort in Adults Living With Obesity
-
-Intervention: : NNC6022-0004 — Participants will receive single dose of NNC6022-0004 administered orally in capsule form.
-: Placebo — Participants will receive placebo matched to NNC6022-0004 administered orally in capsule form.
-Link: https://clinicaltrials.gov/study/NCT07693868
 
 SUMMARY:
 
@@ -413,14 +376,6 @@ Link: https://clinicaltrials.gov/study/NCT05769868
 
 SUMMARY:
 
-## NCT07834736
-Post-market Clinical Study of the Fortilink-TS Ti
-
-Intervention: : Posterior lumbar interbody fusion surgery — Fortilink-TS Ti
-Link: https://clinicaltrials.gov/study/NCT07834736
-
-SUMMARY:
-
 ## NCT07312305
 Small Airways Disease Functional Assessment in Idiopathic Pulmonary Fibrosis (SWIFT-IPF)
 
@@ -495,23 +450,6 @@ Store Safely: Rural Firearm Injury Prevention for Families
 
 Intervention: : Store Safely — The Store Safely intervention occurs online and is self-administered. Once directed to the Store Safely website, participants are welcomed and instructed to complete each step of the online program. Upon clicking "Start," participants are taken to Step 1 of the intervention and instructed to review a brief video. Step 2 involves a review of a data infographics. Participants are then directed to the Decision Aid in Step 3. In Step 4, participants are instructed to complete the Family Firearm Storage Action Plan. In Step 5, participants will review another brief video. There will also be an optional step, consisting of a resource page that details local options for obtaining safe storage devices. At the end of each step, participants mark a checkbox to indicate they have completed the intervention activity which facilitates website analytics of participant engagement. Lastly, participants are thanked and provided with details about the final steps of the trial.
 Link: https://clinicaltrials.gov/study/NCT06719713
-
-SUMMARY:
-
-## NCT07774650
-A Phase 0 Study of the Pharmacokinetics, Biodistribution and Radiation Dosimetry of Granzyme-B Targeted [Cu-64]-Labeled Positron Emission Tomography (PET) Radiotracers in Adult Healthy Volunteers
-
-Intervention: : Granzyme-B targeted [64Cu]-labeled PET radiotracer — Single intravenous administration of a Granzyme-B targeted \[64Cu\]-labeled positron emission tomography (PET) radiotracer to assess pharmacokinetics, biodistribution, and radiation dosimetry in adult healthy volunteers.
-Link: https://clinicaltrials.gov/study/NCT07774650
-
-SUMMARY:
-
-## NCT07766031
-Postoperative Pain and Analgesic Use Following Lumbar Discectomy: A Comparative Study of Endoscopic Surgery and Open Surgery
-
-Intervention: : Endoscopic surgery — The procedure is performed under general anesthesia, with the patient in the knee-chest position. After identifying the surgical site using a surgical fluoroscope, sterile skin preparation is performed (by swabbing the area and applying sterile drapes). The approach is percutaneous and transmuscular, using one channel for instruments and another for the endoscopic camera. After exposing the spinal canal, the nerve root is identified and protected. The herniated disc is then accessed following an incision in the posterior longitudinal ligament and resected using a disc forceps. The procedure concludes with skin closure.
-: Open surgery — The procedure is performed under general anesthesia, with the patient in the knee-chest position. After identifying the surgical level using a surgical fluoroscope, sterile skin preparation is performed (by swabbing the area and applying sterile drapes). A skin incision is made to allow for a posterior approach with muscle dissection. Recalibration is performed to expose the nerve structures. The nerve root is identified and protected; the herniated disc is then accessed after incision of the posterior longitudinal ligament and resected using a disc forceps. Closure is performed layer by layer (fascia, subcutaneous tissue, skin).
-Link: https://clinicaltrials.gov/study/NCT07766031
 
 SUMMARY:
 
@@ -723,22 +661,6 @@ Link: https://clinicaltrials.gov/study/NCT05691790
 
 SUMMARY:
 
-## NCT07780708
-Validating Dietary Quality Measures and Exploring Barriers to Healthy Eating Among Older Adults in Los Angeles
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07780708
-
-SUMMARY:
-
-## NCT07806266
-The European Organisation for Research and Treatment of Cancer: Module Development for Metastatic Breast Cancer (Phase I-IIIa/b)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07806266
-
-SUMMARY:
-
 ## NCT06227754
 Randomized Controlled Trial of Optical Coherence Tomography Versus Angiography for Culprit Lesion Revascularization in Patients With Acute Myocardial Infarction
 
@@ -907,14 +829,6 @@ Link: https://clinicaltrials.gov/study/NCT06641752
 
 SUMMARY:
 
-## NCT07770386
-Performance of CO2-derived Parameters in Predicting Low Cardiac Output Syndrome in Children After Cardiac Surgery With Cardiopulmonary Bypass
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07770386
-
-SUMMARY:
-
 ## NCT06827795
 An Open, Parallel-group, Randomized, Medical Device Study to Assess the Usability and Performance of Surgify HaloTM in Spine Surgery Versus State-of-art (Rosen Burr)
 
@@ -1076,14 +990,6 @@ Link: https://clinicaltrials.gov/study/NCT06130449
 
 SUMMARY:
 
-## NCT07833787
-BioNortHealth Project: Creation of a Cohort of Adolescents and Young Adults Supported by Digital Biobanks
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07833787
-
-SUMMARY:
-
 ## NCT05674513
 Disparities in Emergency Contraceptive Metabolism Dictate Efficacy
 
@@ -1125,14 +1031,6 @@ An Open-label, Multicentre, Single-Arm Study to Evaluate the Safety, Tolerabilit
 
 Intervention: : Meropenem plus vaborbactam — Meropenem plus vaborbactam fixed dose combination adjusted by body weight up to 2g/2g
 Link: https://clinicaltrials.gov/study/NCT06828848
-
-SUMMARY:
-
-## NCT07671001
-A Phase 3, Open-label Study to Assess the Pharmacokinetics, Pharmacodynamics and Safety of Depemokimab (GSK3511294) Administered Subcutaneously as Add on Maintenance Treatment of Asthma With Type 2 Inflammation Characterised by an Eosinophilic Phenotype in Participants Aged 6 to 11 Years Old
-
-Intervention: : Depemokimab — Depemokimab will be administered.
-Link: https://clinicaltrials.gov/study/NCT07671001
 
 SUMMARY:
 
@@ -1329,14 +1227,6 @@ A Retrospective Observational Study Characterizing Tumour-microenvironment Spati
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06518382
-
-SUMMARY:
-
-## NCT07824297
-NAIF 2.0 - COGNIFY: Cognitive Impairment in Patients With Intracranial Dural Arteriovenous Fistulae: Exploration & Understanding
-
-Intervention: : Brain MRI — Participants will undergo a brain MRI on a 3T scanner at baseline assessment and approximately 6 months after endovascular embolization. The MRI protocol includes routinary morphologic sequences (e.g., 3D T1-weighted imaging, T2-weighted FLAIR, susceptibility-weighted imaging), as well as a multi-shell diffusion MRI with multiple b-values and gradient directions. These sequences will be used to assess conventional brain findings and diffusion-derived metrics potentially related to glymphatic function, including DTI-ALPS, DKI-MK and FW imaging. The main otcome of the study is to evaluate changes in these metrics in relation to treatment.
-Link: https://clinicaltrials.gov/study/NCT07824297
 
 SUMMARY:
 
@@ -2260,14 +2150,6 @@ Contribution of Diaphragmatic Ultrasound for Monitoring Diaphragmatic Function i
 Intervention: : Diaphragmatic ultrasound — duration 15 minutes, performed at M0, M3, M6 and M9
 : Electro-physiological exploration of the diaphragm — duration between 30 and 60 minutes performed at M0
 Link: https://clinicaltrials.gov/study/NCT05352958
-
-SUMMARY:
-
-## NCT07704333
-Phase 1 Clinical Trial for The Assessment Of [18F]-Fluorocellobiose ([18F]FCB) Pharmacokinetics in Healthy Volunteers and Subjects With Invasive Mold Infections
-
-Intervention: : [18F]-Fluorocellobiose ([18F]FCB) — PET tracer spcific for fungal infections.
-Link: https://clinicaltrials.gov/study/NCT07704333
 
 SUMMARY:
 
@@ -3823,14 +3705,6 @@ Link: https://clinicaltrials.gov/study/NCT06906640
 
 SUMMARY:
 
-## NCT07674953
-Oxygen Delivery in CPAP and Its Relationship With Regional Lung Ventilation in Preterm Infants
-
-Intervention: : Effective oxygen delivery and lung expansion measurement — This intervention arm will involve any infant who is already on nCPAP. It will involve placing a catheter in the infant's oropharynx and wrapping soft EIT bands around the infants chest to measure effective oxygen delivery and lung expansion, respectively.
-Link: https://clinicaltrials.gov/study/NCT07674953
-
-SUMMARY:
-
 ## NCT06652633
 A Long-term Follow-up Study for Patients Treated With Galapagos CAR T-cell Therapies
 
@@ -4006,15 +3880,6 @@ Link: https://clinicaltrials.gov/study/NCT06614088
 
 SUMMARY:
 
-## NCT07791407
-Magnetic Resonance Imaging Based Risk Stratification for Defibrillator Implantation in Heart Failure Patients Requiring Cardiac Resynchronization Therapy (MADURAI CRT)
-
-Intervention: : left bundle branch pacing — Capture of left bundle branch fibers by positioning the lead deep inside the proximal inter ventricular septum. Atrial lead will positioned in the right atrium
-: Biventricular pacing with defibrillator — Biventricular pacing with right ventricular ICD lead and coronary sinus lead. Atrial lead will be positioned in the right atrium
-Link: https://clinicaltrials.gov/study/NCT07791407
-
-SUMMARY:
-
 ## NCT06875609
 ctDNA Clearance and ctDNA Monitoring Study in Cutaneous Squamous Cell Carcinoma
 
@@ -4029,14 +3894,6 @@ Neural Mechanisms of Spatial Representations Beyond the Self
 Intervention: : Self-navigation task — Participants will perform a self-navigation task with two experimental conditions: Either they will be asked to walk towards a visible wall-mounted sign, or they will be asked to find and learn a hidden target location within the experimental room.
 : Observation task — Participants will sit on a chair in a corner of the room (RNS participants) or watch a video that was recorded from the corner of the room (EMU participants). They will be asked to keep track of another person's location who is walking around the room, and to press a button whenever the other person crosses a previously-learned target location.
 Link: https://clinicaltrials.gov/study/NCT05406349
-
-SUMMARY:
-
-## NCT07739238
-THE EFFECTS OF DIFFERENT BREATHING EXERCISES ON RESPIRATORY PARAMETERS AND HEART RATE VARIABILITY
-
-Intervention: : breathing exercises — diaphragmatic breathing exercises, square breathing technique exercises, alternative nostril breathing exercises, and dynamic neuromuscular stabilization-based breathing exercises
-Link: https://clinicaltrials.gov/study/NCT07739238
 
 SUMMARY:
 
@@ -4229,14 +4086,6 @@ Link: https://clinicaltrials.gov/study/NCT07354607
 
 SUMMARY:
 
-## NCT07666360
-An Investigation of Cranio-Cervico-Mandibular Factors Predicting the Severity of Temporomandibular Disorders
-
-Intervention: : Assessments — No intervention was applied.
-Link: https://clinicaltrials.gov/study/NCT07666360
-
-SUMMARY:
-
 ## NCT06185920
 Non Interventional Retrospective and Prospective Single Center Descriptive Study of Severe Infections Treated With Phage Therapy at the Hospices Civils de Lyon (PHAGEinLYON Clinic Cohort Study).
 
@@ -4360,15 +4209,6 @@ The Akershus Study of Ischemic Stroke and Thrombolysis -1 (ASIST-1) Epidemiology
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05378490
-
-SUMMARY:
-
-## NCT07788014
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled Study of Single and Multiple Asceding Doses of GV-100 With Food-Effect and Drug Drug Interaction Evaluations in Healthy Participants
-
-Intervention: : GV-100 — GV-100 will be administered orally
-: Placebo — Matched to GV-100
-Link: https://clinicaltrials.gov/study/NCT07788014
 
 SUMMARY:
 
@@ -4609,15 +4449,6 @@ Link: https://clinicaltrials.gov/study/NCT07261228
 
 SUMMARY:
 
-## NCT07668687
-European Multi-Centre Castor™ and Cratos™ Branched Endovascular Arch Repair Registry
-
-Intervention: : Implantation with Castor™ stent graft — Treatment of subjects diagnosed with thoracic aortic pathologies using the Castor™ Branched Aortic Stent-Graft and Delivery System. Follow up as per institutional standard of care.
-: Implantation with Cratos™ stent graft — Treatment of subjects diagnosed with thoracic aortic pathologies using the Cratos™ Branched Aortic Stent-Graft and Delivery System. Follow up as per institutional standard of care.
-Link: https://clinicaltrials.gov/study/NCT07668687
-
-SUMMARY:
-
 ## NCT07325058
 Exploration of the Effect, and Their Duration, of Different Frequency Transcutaneous Auricular Vagal Nerve Stimulation on Sensory Perception.
 
@@ -4687,24 +4518,6 @@ Link: https://clinicaltrials.gov/study/NCT04996628
 
 SUMMARY:
 
-## NCT07720765
-A National, Monocentric, Prospective Cohort Study to Evaluate the Utility and Applicability of Optical Coherence Tomography in Neurological Clinical Practice
-
-Intervention: : Optical Coherence Tomography (OCT) - Heidelberg SPECTRALIS HRA+OCT — Spectral-domain Optical Coherence Tomography (OCT) performed using the Heidelberg SPECTRALIS HRA+OCT device (Class IIa CE-marked medical device). The procedure is non-invasive: the patient sits in front of the device and is asked to fix a target (light or cross) through a lens. No drugs or contrast agents are administered. OCT automatically acquires images of the macular region (where GCL and IPL are most represented) and the optic nerve head region (where RNFL is most represented), providing automated measurements of the thickness of individual retinal layers.
-
-OCT is performed at baseline and at follow-up visits at 6, 12, 18, and/or 24 months. Ophthalmological evaluation may be performed at the investigators' discretion if OCT images, clinical symptoms, or medical history suggest concurrent ocular pathology. Patients with a known diagnosis of epilepsy or history of epileptic seizures will not undergo specific imaging modes using clearly visible light sources (MultiColor, FA, BAF).
-Link: https://clinicaltrials.gov/study/NCT07720765
-
-SUMMARY:
-
-## NCT07746336
-Treatment Based on High Precision Cardiac Mapping: Advancing Personalized Outcomes Through Optimized Localization
-
-Intervention: : ACORYS Mapping System — ADAS 3D (ADAS 3D Medical, Barcelona; CE 714517) and the ACORYS Mapping System (Corify Care SL, Madrid; CE 775709) are two independently operating, CE-marked devices used within their approved intended use. ADAS 3D processes cardiac magnetic resonance images to characterize myocardial scar, border zone, and conduction corridors. ACORYS performs non-invasive electrocardiographic mapping, importing the ADAS 3D-derived anatomy to contextualize its electrophysiological maps. The structural and functional information from both devices is reviewed by the treating electrophysiologist as decision-support information, alongside invasive electroanatomic mapping; the ablation strategy and all treatment decisions remain at the physician's clinical discretion.
-Link: https://clinicaltrials.gov/study/NCT07746336
-
-SUMMARY:
-
 ## NCT06446336
 Creation of a Pre-operative Score, the HASS Score, for Injuries Reliable Diagnosis of Long Biceps Tendon
 
@@ -4742,15 +4555,6 @@ Pregnancy Registry, Infants, Serum/Milk Analysis (PRISMA): Pregnancy Registry fo
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06940323
-
-SUMMARY:
-
-## NCT07706244
-A Prospective Cohort Study Comparing Preoperative Anxiety and One-Year Patient-Reported Outcomes Between Enhanced Recovery After Surgery and Conventional Care in Orthopedic Surgery Patients
-
-Intervention: : Enhanced Recovery After Surgery (ERAS) pathway — A standardized, multidisciplinary perioperative care pathway including standardized preoperative education, nutrition and fasting optimization (shortened fasting time with preoperative carbohydrate drinks), multimodal anesthesia and analgesia (prioritizing non-opioid medications and nerve blocks), and early mobilization (encouraging mobilization within hours postoperatively, early oral intake, and early catheter removal).
-: Conventional care group — Routine perioperative clinical care based on conventional medical orders. It primarily includes conventional routing education, strict fasting from midnight before surgery, and reliance on opioid medications via patient-controlled analgesia (PCA) as the primary method for postoperative pain management. Postoperative mobilization and oral intake are guided later based on patient tolerance and routine medical orders.
-Link: https://clinicaltrials.gov/study/NCT07706244
 
 SUMMARY:
 
@@ -5219,15 +5023,6 @@ Link: https://clinicaltrials.gov/study/NCT07223372
 
 SUMMARY:
 
-## NCT07827898
-Central Sensitization, Ultrasonographic Findings, Functional Status, and Psychosocial Factors in Lateral Epicondylitis
-
-Intervention: : Pressure pain threshold — Pressure pain threshold is defined as the minimal pressure level that causes pain. The measurement will be applied twice for each region with a 1-minute interval, and the average of these applications will be recorded. A trial test will be conducted on the patient before the actual test. Pressure will be applied to selected points with a pressure algometer until pain is induced, and the test for that area will be terminated when the patient feels pain.
-: Ultrasonography — The cross-sectional area of the radial nerve will be measured in the antecubital fossa and the spiral groove. Three measurements will be taken for the nerve cross-sectional area, and the average will be calculated. For the measurement of common extensor tendon thickness, the probe will be placed over the lateral epicondyle, and the evaluation will be conducted with the elbow in 90 degrees of flexion and the forearm in mid-supination. The Sonosite M-Turbo device will be used for ultrasonography and will be performed by a rehabilitation specialist with 10 years of experience.
-Link: https://clinicaltrials.gov/study/NCT07827898
-
-SUMMARY:
-
 ## NCT06669377
 Transcatheter Arterial Chemoembolization Combined With ICIs Plus MTT After Irradiation Stent Placement in HCC With Main PVTT: a Multicenter Propensity Score Matching Study
 
@@ -5249,14 +5044,6 @@ CCHS SHARE: A Multi-center Longitudinal Natural History Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06554275
-
-SUMMARY:
-
-## NCT07680725
-The Effect of Bottle PEP Exercise on Expiratory Muscle Thickness, Strength, and Balance Parameters in Parkinson's Disease Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07680725
 
 SUMMARY:
 
@@ -5410,14 +5197,6 @@ Link: https://clinicaltrials.gov/study/NCT06903780
 
 SUMMARY:
 
-## NCT07759427
-Using Non-Invasive Mapping To Eliminate Structural Heart Disease Ventricular Tachycardia: a UK Randomised Controlled Trial
-
-Intervention: : VIVO-assisted mapping — VIVO (or View Into Ventricular Onset) is a non-invasive cardiac mapping technology which uses images from patients' previous heart scans, a picture of their chest (taken at the start of the procedure) and a tracing of their VT, to locate where the ventricular tachycardia is coming from.
-Link: https://clinicaltrials.gov/study/NCT07759427
-
-SUMMARY:
-
 ## NCT06408012
 Enabling Neuroscience Research Approaches for Brain, feeLings and Emotions (ENABLE): An Innovative Platform for Clinical Trials in Mood Disorders
 
@@ -5432,14 +5211,6 @@ Implementing the NYU Electronic Patient Visit Assessment (ePVA) for Head and Nec
 Intervention: : NYU Electronic Patient Visit Assessment (ePVA) — The NYU Electronic Patient Visit Assessment (ePVA) for head and neck cancer is a digital patient-reported symptom monitoring system, providing actionable information at point-of-care that enables clinicians to provide real-time interventions. Patients access the ePVA through a web link and complete the survey questions within 10 minutes on digital devices (e.g., smart phones, laptops, or digital devices provided by the clinic).
 : Usual Care — Usual care encompasses pre-treatment, on treatment, and post-treatment care. Pre-treatment care includes education of patients on the treatment plan. On-treatment care includes daily monitoring by a nurse in the radiation therapy (RT) department, weekly on-treatment visits with the RT nurse practitioner and radiation oncologist, and weekly visits with medical oncology nurse practitioners and medical oncologists for patients receiving RT plus chemotherapy. Post-treatment care includes follow-up visits with HNC clinicians (i.e., surgeon, medical oncologist, oral maxillofacial surgeons, and radiation oncologist) to assess the patient's cancer status and identify the patient's acute and long-term symptoms. The clinician's decisions on radiologic exams and referrals to appropriate specialist services, including dental care, are based on the patient's cancer status and symptoms.
 Link: https://clinicaltrials.gov/study/NCT06030011
-
-SUMMARY:
-
-## NCT07827001
-A Pilot Study Assessing the Safety of an Active Surveillance Approach to Local Therapy in Patients With Brain Metastases Undergoing CNS-Penetrating Systemic Therapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07827001
 
 SUMMARY:
 
@@ -5466,14 +5237,6 @@ Migration in a Cruciate Retaining and a Condylar Stabilizing Insert of a Robot-a
 Intervention: : Condylar Stabilizing (CS) insert — During TKA surgery a Condylar Stabilizing (CS) insert is implanted and tantalum beads are placed around the prosthesis.
 : Cruciate Retaining (CR) insert — During TKA surgery a Cruciate Retaining (CR) insert is implanted and tantalum beads are placed around the prosthesis.
 Link: https://clinicaltrials.gov/study/NCT05936593
-
-SUMMARY:
-
-## NCT07725198
-Immediate Neuromuscular Responses of the Obliquus Capitis Inferior Following Upper Cervical Manual Therapy
-
-Intervention: : Thrust long-axis manipulation of C1-C2 — One thrust manipulation is provided in the thrust group. a 5 second long axis hold traction of C1-C2 was repeated 3 times in the mobilization group
-Link: https://clinicaltrials.gov/study/NCT07725198
 
 SUMMARY:
 
@@ -5927,14 +5690,6 @@ Link: https://clinicaltrials.gov/study/NCT06279572
 
 SUMMARY:
 
-## NCT07705061
-Hertel Exophthalmometry Values in Mexican Adults and Their Association With Demographic Factors and Systemic Diseases
-
-Intervention: : Hertel Exophthalmometry — Standardized bilateral Hertel exophthalmometry performed using a Hertel exophthalmometer to measure globe protrusion.
-Link: https://clinicaltrials.gov/study/NCT07705061
-
-SUMMARY:
-
 ## NCT06788353
 Prospective Collection of Therapeutic Efficacy and Safety Data in Patients with Unresectable Hepatocellular Carcinoma
 
@@ -6111,14 +5866,6 @@ Link: https://clinicaltrials.gov/study/NCT06986083
 
 SUMMARY:
 
-## NCT07673328
-Enhancing Voluntary Motion in Broad Patient Populations With Modular Powered Orthoses Renewal
-
-Intervention: : Modular powered orthosis — This study will investigate modular, lower-limb, powered orthoses that fit to user-specific weakened joints and control force/torque in a manner that enhances voluntary motion in broad patient populations. The central hypothesis is that high-torque, low-inertia motor systems controlled with energetic objectives will enable modular powered orthoses to partially assist the joints. High-torque electric motors combined with minimal transmissions can be freely rotated (i.e., backdriven) by human joints, allowing the use of an emerging torque control method called energy shaping to reduce the perceived weight/inertia of the body during any motion. By mounting these modular actuators to commercial orthoses, this technology will be easily prescribed/configured by clinicians.
-Link: https://clinicaltrials.gov/study/NCT07673328
-
-SUMMARY:
-
 ## NCT06468774
 Intestinal Ischemia Biomarker and Quality of Life of the Patients With Chronic Mesenteric Ischemia and Median Arcuate Ligament Syndrome
 
@@ -6271,14 +6018,6 @@ Link: https://clinicaltrials.gov/study/NCT06227728
 
 SUMMARY:
 
-## NCT07766135
-Liver and Coagulation Disorders in Cardiac Transthyretin Amyloidosis (ATTR-CA): New Horizons in Disease Staging and Follow-Up
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07766135
-
-SUMMARY:
-
 ## NCT06821243
 Multidimensional Assessment of Virus-associated Head and Neck Cancer Patients for the Discovery of Predictive Biomarkers to Guide Clinical Intervention
 
@@ -6406,14 +6145,6 @@ Parkinson's Foundation Surveys
 
 Intervention: : Non-interventional — non-interventional
 Link: https://clinicaltrials.gov/study/NCT05066763
-
-SUMMARY:
-
-## NCT07772362
-Investigation of in Vivo Endogenous and/or Exogenous Production of Phenolic Metabolites in People With an Ileostomy Using an Oral (Poly)Phenol Challenge Test
-
-Intervention: : (Poly)phenol rich capsules — (Poly)phenol rich capsules (\~3 g)
-Link: https://clinicaltrials.gov/study/NCT07772362
 
 SUMMARY:
 
@@ -6856,15 +6587,6 @@ A Prospective Study on the Correlation Between Tissue-resident Immune Cell Subse
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06708507
-
-SUMMARY:
-
-## NCT07823335
-Acute Endocrine Responses to Aerobic and Anaerobic Exercise in Sedentary Women: A Comparative Analysis of Thyroid Hormones and Cortisol
-
-Intervention: : 20-Meter Shuttle Run Test — Participants will perform a progressive 20-meter shuttle run test by running continuously between two lines positioned 20 meters apart in time with prerecorded audio signals. The initial running speed will progressively increase as the interval between audio signals decreases. The test will end when the participant fails to reach the designated line before the signal on two consecutive occasions.
-: Wingate Anaerobic Test — Participants will perform a 30-second Wingate anaerobic test on a Monark cycle ergometer connected to computerized analysis software. Following an unloaded acceleration phase of approximately 3-4 seconds, a resistance corresponding to 65 g/kg of body mass will be applied. Participants will be instructed to pedal against this resistance at maximal effort for 30 seconds. Peak power, mean power, minimum power, and fatigue index will be recorded.
-Link: https://clinicaltrials.gov/study/NCT07823335
 
 SUMMARY:
 

@@ -341,15 +341,6 @@ Link: https://clinicaltrials.gov/study/NCT06354010
 SUMMARY:
 
 
-## NCT07712822
-Integrating Evidence-based Approaches to Prevent Child Maltreatment in Kyrgyzstan
-
-Intervention: : Integrated Family and Economic Empowerment Program — This intervention uniquely integrates three evidence-based approaches (strengthening families, coparenting and father involvement, and economic empowerment) into a single coordinated prevention model. Unlike stand-alone parenting or couples programs, it simultaneously targets family processes (communication, co-parenting, stress regulation), child self-regulation and school adaptation, and structural economic stressors through asset-building and financial literacy components. The program is culturally adapted for Kyrgyzstani families using stakeholder-guided methods and delivered within school settings by trained social pedagogues. The integration of behavioral family intervention with economic strengthening distinguishes it from traditional parenting-only or school-only prevention programs.
-Link: https://clinicaltrials.gov/study/NCT07712822
-
-SUMMARY:
-
-
 ## NCT06524479
 Investigating the Functional Characteristics During Wakefulness and Sleep Based on SEEG
 
@@ -463,15 +454,6 @@ Ventilation Using Radiographic Examination: Functional Lung Imaging Techniques f
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06159660
-
-SUMMARY:
-
-
-## NCT07776782
-A Phase 1, Open-Label, Single-Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of MT-201 Administered With Concomitant Infliximab in Healthy Participants
-
-Intervention: : MT-201 — MT-201 and Infliximab
-Link: https://clinicaltrials.gov/study/NCT07776782
 
 SUMMARY:
 

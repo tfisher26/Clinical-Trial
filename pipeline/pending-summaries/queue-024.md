@@ -34,15 +34,6 @@ Link: https://clinicaltrials.gov/study/NCT05183542
 SUMMARY:
 
 
-## NCT07758114
-Prenatal Education on Environmental Exposures During Pregnancy Study (PEEPS)
-
-Intervention: : Educational Intervention — The actual curriculum, infographics, and educational materials will be adapted from "Seafood at its Best," a detailed curriculum that covers four primary areas: 1) overview of seafood and seafood sourcing, 2) health benefits of seafood consumption, 3) seafood-borne illnesses and risks from seafood consumption, and 4) tips for selecting, buying, handling, storing, and cooking seafood.
-Link: https://clinicaltrials.gov/study/NCT07758114
-
-SUMMARY:
-
-
 ## NCT07495865
 A Prospective, Open-label, Non-interventional Post-market Study Evaluating the Performance and Safety of AnGelHA 2 Filler for Correcting Moderate to Severe Wrinkles and Folds and Facial Contour Remodeling in Routine Clinical Use.
 
@@ -67,16 +58,6 @@ Patient, Parent and Clinician Voices - Establishing National and International R
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07524049
-
-SUMMARY:
-
-
-## NCT07823231
-Impact Evaluation of Accelerating Climate-Resilient Water, Sanitation and Hygiene Services for Schools and Healthcare Facilities in Karamoja
-
-Intervention: : Climate-resilient school WASH infrastructure package — Construction of climate-resilient water systems on school grounds, comprising motorised boreholes (15 fitted with data loggers for remote monitoring of functionality and water levels); construction or rehabilitation of sex-disaggregated latrines and handwashing stations to meet national pupil-to-latrine ratio standards; construction of dedicated menstrual health sanitary facilities with enclosed changing areas, water supply and hygienic waste disposal; construction of community water access points adjacent to each school extending water access to surrounding households; and groundwater monitoring, water quality testing and surveillance. The UNICEF Uganda Country Office contracts the works, and UNICEF engineers and district local governments jointly supervise them.
-: WASH and menstrual health capacity building and social and behaviour change package — Training of District Water Officers on WASH-in-schools monitoring protocols and water quality testing; training of School Management Committees and Parent-Teacher Associations on operation and maintenance of WASH facilities including basic repair, record-keeping and maintenance budgeting; training of teachers and school prefects on menstrual hygiene management; formation or strengthening of School Health Clubs as a peer-to-peer platform for hygiene and menstrual health promotion; community engagement and social and behaviour change campaigns; provision of information, education and communication materials; and training on local manufacture of menstrual health products. Delivered through UNICEF implementing partners and embedded within district health and education systems.
-Link: https://clinicaltrials.gov/study/NCT07823231
 
 SUMMARY:
 
@@ -149,15 +130,6 @@ Evaluation of Medical Benefit of a New Prosthetic Leg Designed to Decrease Menta
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06635655
-
-SUMMARY:
-
-
-## NCT07833566
-Inflammation and Biopsy-site-marker in Breast Cancer (MOSAIC)
-
-Intervention: : Biopsy-Site Marker Placement. — Tissue samples will be collected from Breast Cancer patients, stages I-III, who underwent lumpectomy (mastectomy) after biopsy site marker placement during image-guided biopsy.
-Link: https://clinicaltrials.gov/study/NCT07833566
 
 SUMMARY:
 
@@ -529,15 +501,6 @@ Link: https://clinicaltrials.gov/study/NCT05734378
 SUMMARY:
 
 
-## NCT07679321
-The Impact of Anxiety/Depression on the Efficacy of Asthma Control Drugs and the Construction of a Predictive Model for the Risk of Acute Asthma Attacks
-
-Intervention: : No intervention measures — No intervention measures
-Link: https://clinicaltrials.gov/study/NCT07679321
-
-SUMMARY:
-
-
 ## NCT06839404
 Pharmacodynamic Analysis of the HaemOdynamic Effects of a Standard Fluid BolUS - the PHOEBUS Study
 
@@ -561,16 +524,6 @@ Evaluation of Altitude as an Independent Risk Factor for Mortality in Pediatric 
 
 Intervention: : Geographic Altitude — Participants are grouped according to the altitude of the pediatric intensive care unit (PICU) where they are admitted: low altitude (0-1500 m), intermediate altitude (1501-2500 m), high altitude (2501-3500 m), and very high altitude (\>3500 m). Altitude is treated as the primary exposure variable. No therapeutic intervention is administered as part of this study.
 Link: https://clinicaltrials.gov/study/NCT07193771
-
-SUMMARY:
-
-
-## NCT07808411
-Prospective Repeated-Measures Study of Popliteal Vein Diameter During the First 48 Hours After Commercial Air Travel to Bogota for a Plastic Surgery Intervention
-
-Intervention: : Commercial Air Travel Exposure — Participants complete a commercial flight of at least 4 hours to Bogota. Flight duration, connections, cabin class, seat characteristics, movement, fluid intake, alcohol, sedatives, and compression stocking use will be recorded. Linked arm/group(s): Postflight Repeated-Measures Cohort.
-: Standardized Bilateral Popliteal Vein Duplex Ultrasound — After at least 10 minutes of supine rest, the popliteal vein will be imaged at a fixed landmark with minimal probe pressure. Anteroposterior and transverse diameters, cross-sectional area, compressibility, and flow will be recorded in both legs, with three repeated measurements averaged. Linked arm/group(s): Postflight Repeated-Measures Cohort.
-Link: https://clinicaltrials.gov/study/NCT07808411
 
 SUMMARY:
 
@@ -638,16 +591,6 @@ The Relationship Between Chronic Non-Specific Low Back Pain and Isokinetic Perfo
 
 Intervention: : Humac Isokinetic 2015 System 2 — Humac isokinetic device will be used for testing and assessing ankle joint profile including torque, endurance, joint position, and time parameters for both limbs for 50 patients diagnosed with chronic non specific low back pain
 Link: https://clinicaltrials.gov/study/NCT07636967
-
-SUMMARY:
-
-
-## NCT07774000
-Randomized, Placebo-controlled Clinical Study for the Evaluation and the Comparison of the Dose-response Efficacy of 4 Cosmetic Investigational Products (3 Active, 1 Placebo; 1 Tested Investigational Product Per Subject), After Repeated Applications for 12 Weeks, Under Normal Conditions of Use, in Female Adult Subjects
-
-Intervention: : Topical niacinamide riboside — Niacinamide chloride (NR) prepared in a dry nanofiber pillow will be applied to the skin using a standardized gel serum twice daily, for 12 weeks. NR is a precursor to the essential cellular co-enzyme, NAD+, which has been directly associated with the molecular hallmarks of aging.
-: Placebo — Topical Skin Care Product: Placebo prepared in a a dry nanofiber pillow, applied topically to the face, twice daily for 12 weeks.
-Link: https://clinicaltrials.gov/study/NCT07774000
 
 SUMMARY:
 
@@ -746,15 +689,6 @@ BELux Children OutcoME During A(@)Dulthood With Growth Hormone Deficiency
 
 Intervention: : Biological Sample — Clinical examination and blood test. The clinical examination and blood test are considered standard-of-care as they could be performed annually or bi-annually as part of an adult GHD follow-up. Subsequently, the data will be collected directly from the patient's chosen physician.
 Link: https://clinicaltrials.gov/study/NCT06694506
-
-SUMMARY:
-
-
-## NCT07709819
-A Nanoscopic Second Look Into the Knee Joint, What Have We Learned?
-
-Intervention: : Nanoscopic Arthroscopy of the Knee — Participants who agree to participate will undergo a postoperative in-clinic nanoscopic arthroscopy of the knee at a routine follow-up visit. A small nanoscope will be inserted into the knee joint in a clinic setting to obtain images that will be used for comparison to the arthroscopic images taken from their surgery and preoperative MRI images. The estimated healing will then be recorded and compared with patient reported outcome survey scores.
-Link: https://clinicaltrials.gov/study/NCT07709819
 
 SUMMARY:
 
@@ -893,17 +827,6 @@ Validation and Development of Digital Anthropometry Methodologies.
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07003516
-
-SUMMARY:
-
-
-## NCT07715721
-Exploration on the Relationship Between Distinct Sarcopenia, Traditional Chinese Medicine Body Constitution, and Circadian Rhythm Patterns of Older Adults and Impact of Acupoint-stimulated Interventions
-
-Intervention: : Sleep Hygiene Education — A 2-week digital/remote curriculum focusing on sleep hygiene education and sleep-related self-care guidelines.
-: Vivifrail Exercise Program — A 12-week customized multicomponent physical exercise program designed for frailty prevention and physical function enhancement.
-: Comprehensive Geriatric and Traditional Chinese Medicine Assessment — A comprehensive cross-sectional assessment for 300 older adults, including 7-day actigraphy, scientific tongue and pulse diagnosis, the simplified Body Constitution Questionnaire (BCQ), and standard geriatric functional assessment scales. Eligible and consenting participants are referred for overnight polysomnography (PSG).
-Link: https://clinicaltrials.gov/study/NCT07715721
 
 SUMMARY:
 
@@ -1938,16 +1861,6 @@ Link: https://clinicaltrials.gov/study/NCT06727695
 SUMMARY:
 
 
-## NCT07760402
-Comparative Effects of Propofol and Sevoflurane Anesthesia in Living Kidney Donors on Perioperative Plasma miR-146a, miR-155, and miR-21 Levels: A Randomized Prospective Comparative Trial
-
-Intervention: : Sevoflurane — Inhalation anesthetic agent administered at a concentration of 1.5-2% with a 50% Air / 50% Oxygen mixture for the maintenance of general anesthesia.
-: propofol — Intravenous anesthetic agent administered via continuous TIVA infusion at a dose of 4-10 mg/kg/hour with a 50% Air / 50% Oxygen mixture for the maintenance of general anesthesia.
-Link: https://clinicaltrials.gov/study/NCT07760402
-
-SUMMARY:
-
-
 ## NCT07302256
 A Randomized, Double-blind, Controlled Phase I Clinical Trial to Evaluate the Safety and Immunogenicity of the Influenza Virus Split Vaccine for Individuals Aged 60 Years and Above
 
@@ -1980,15 +1893,6 @@ Link: https://clinicaltrials.gov/study/NCT07354841
 SUMMARY:
 
 
-## NCT07797374
-Pain and Nausea in the Post-Anaesthesia Care Unit After Bariatric Surgery: A Registry Study Linking the Swedish Perioperative Register (SPOR) and the Scandinavian Obesity Surgery Registry (SOReg)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07797374
-
-SUMMARY:
-
-
 ## NCT06350994
 Early Assessment of Cardiac Function After Treatment With CAR-T Cells
 
@@ -2003,15 +1907,6 @@ A Phase 1, Open-label, Randomized, 2-Treatment, 2-Period, Crossover Study to Ass
 
 Intervention: : Navlimetostat — Specified dose on specified days
 Link: https://clinicaltrials.gov/study/NCT07544628
-
-SUMMARY:
-
-
-## NCT07665307
-An Umbrella Observational Study to Determine Novel Actionable Biomarkers, Mechanisms, and Mitigation of Rare Chimeric Antigen Receptor T Cell (CAR-T) Toxicities in Relapsed/Refractory Multiple Myeloma (RRMM)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07665307
 
 SUMMARY:
 
@@ -2113,15 +2008,6 @@ Rationale:
 
 • This serves as the control group for comparison with all active intervention arms.
 Link: https://clinicaltrials.gov/study/NCT07092930
-
-SUMMARY:
-
-
-## NCT07773961
-School-based Prevention of Teacher Violence Against Children: A Cluster-randomized Controlled Trial in Zambia
-
-Intervention: : Interaction Competencies with Children — Interaction Competencies with Children - for Teachers (ICC-T) Core training components include teacher-student interaction, maltreatment prevention, effective discipline strategies, identifying and supporting burdened students and implementation of the training materials into the school setting.
-Link: https://clinicaltrials.gov/study/NCT07773961
 
 SUMMARY:
 
@@ -2463,16 +2349,6 @@ Intervention: : Questionnaires — Patients will complete various questionnaires
 
 Patients who needs to come back for a visit at Day 7 (+ 3 days) will complete the FHSQ-Fr questionnaire for a second time
 Link: https://clinicaltrials.gov/study/NCT06933953
-
-SUMMARY:
-
-
-## NCT07752472
-A Phase I, Randomized, Double-Blind, Placebo-Controlled, Single and Multiple Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of PSTC100 in Healthy Adult Subjects
-
-Intervention: : PSTC100 tablets — PSTC100 tablets
-: PSTC100 tablets — dose 7 once daily, dose 8 once daily, dose 9 once daily
-Link: https://clinicaltrials.gov/study/NCT07752472
 
 SUMMARY:
 
@@ -2910,16 +2786,6 @@ Link: https://clinicaltrials.gov/study/NCT06245629
 SUMMARY:
 
 
-## NCT07663890
-EXPLOration Des Processus à l'Origine du Trouble Dissociatif de l'Identité (TDI)(EXPLOTDI)
-
-Intervention: : Questionnaire and Physical Exam — 5 standardized assessment tools measuring, respectively, dissociation (sDIS-Q; Vancappel, Chkili, et al., 2025), beliefs about dissociation (DSB; Vancappel et al., 2023), knowledge and skills related to dissociation (KADS; Vancappel, Chami, et al., 2025), psychotrauma (Ashbaugh et al., 2016), and dissociation simulation.
-: Interview — qualitative interview with the therapist they are already seeing
-Link: https://clinicaltrials.gov/study/NCT07663890
-
-SUMMARY:
-
-
 ## NCT07245420
 Evaluation Of Cardiovascular Health Outcomes Among Survivors 2 (ECHOS2)
 
@@ -3064,15 +2930,6 @@ Link: https://clinicaltrials.gov/study/NCT05020574
 SUMMARY:
 
 
-## NCT07727694
-Securing Access to Innovative Molecules in Oncology and Hematology for Children, Adolescents and Young Adults
-
-Intervention: : data collection — In particular, the patient's demographic data, medical history, previous and concomitant treatments, data on the treatment of interest (legal framework, compassionate use/ off-label), dosage, start date, etc.), clinical data will be collected. biological (including molecular profiling of the tumor if available) and radiological follow-up, information on adverse effects.
-Link: https://clinicaltrials.gov/study/NCT07727694
-
-SUMMARY:
-
-
 ## NCT06751797
 Balance Confidence, Kinesiophobia, and Associated Factors in Parkinson's Disease: A Controlled Study
 
@@ -3094,15 +2951,6 @@ Link: https://clinicaltrials.gov/study/NCT05923970
 SUMMARY:
 
 
-## NCT07754266
-Headache Ear Auditory Dizziness Sinus (HEADS) Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07754266
-
-SUMMARY:
-
-
 ## NCT05289310
 Effects of Daily Low Oxygen Exposure on Weight Status, Body Composition, and Metabolic Health
 
@@ -3120,16 +2968,6 @@ Intervention: : Standard Referral to 211 — Participants receive a standard ref
 : e-SINCERE (Phone Support) — Participants receive a study-provided cellphone to ensure stable phone access. Using this device, participants are connected to United Way 211 specialists, who provide referral services for identified social needs. This intervention focuses on overcoming communication barriers that might otherwise prevent successful service connection.
 : e-SINCERE (Digital Navigation) — Participants receive a study-provided TracFone and direct support from a trained Digital Navigator. The Digital Navigator assists participants with accessing United Way 211 services, troubleshooting barriers to phone or internet use, and reinforcing follow-through on referrals. This arm is designed to provide enhanced, structured navigation support to address digital access barriers and increase successful service connections.
 Link: https://clinicaltrials.gov/study/NCT07174466
-
-SUMMARY:
-
-
-## NCT07665242
-Effects of a Chatbot-Based Intervention on Behavioral Responsiveness and Neural Anticipation of Social and Monetary Incentives in Individuals With Anhedonia
-
-Intervention: : MI Chatbot Interaction — The experimental chatbot is designed to use principles of Motivational Interviewing to support participants in exploring their personal values, motivation for change, and daily behavioral goals related to pleasure, engagement, and reward-seeking. During the intervention period, participants will interact with the chatbot regularly through brief text-based conversations. The chatbot will provide empathic, non-judgmental responses, encourage reflection on current difficulties, and help participants identify small, feasible actions that may increase daily engagement and positive experiences. It will not provide diagnosis, crisis counseling, or medical treatment.
-: Active Control Chatbot Interaction — Participants will interact with a chatbot matched in format and frequency of use. This chatbot will provide neutral nature-related stories or general natural history content. It will be designed to maintain participant engagement while avoiding therapeutic techniques, motivational interviewing strategies, behavioral activation guidance, or personalized mental health advice. This active control condition will help control for nonspecific effects of chatbot interaction, attention, expectancy, and digital engagement.
-Link: https://clinicaltrials.gov/study/NCT07665242
 
 SUMMARY:
 
@@ -3157,16 +2995,6 @@ Diagnosing Vesicoureteric Reflux in Children by Direct Isotope Cystography and C
 
 Intervention: : Contrast-enhanced voiding ultrasonography (CEVUS), Direct isotope cystography — We have no specific intervention. We investigate different diagnostic modalities of VUR.
 Link: https://clinicaltrials.gov/study/NCT06138080
-
-SUMMARY:
-
-
-## NCT07669077
-A Phase 1, Open-Label, Lactation Study to Assess Concentrations of Nipocalimab in Breast Milk of Healthy Lactating Women
-
-Intervention: : Nipocalimab — Nipocalimab will be administered as an intravenous (IV) infusion.
-: Breast Milk Sampling — Breast milk sampling at pre-defined time points for 8 days.
-Link: https://clinicaltrials.gov/study/NCT07669077
 
 SUMMARY:
 
@@ -3326,15 +3154,6 @@ Link: https://clinicaltrials.gov/study/NCT05299138
 SUMMARY:
 
 
-## NCT07834203
-State Representation in Early Psychosis 2
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07834203
-
-SUMMARY:
-
-
 ## NCT06860438
 Can Perfusion Index Indicate the Need of Vasopressor in ICU Patients with Sepsis and Septic Shock, Prospective Observational Study
 
@@ -3349,15 +3168,6 @@ Analysis of the Relationship Between Immunosuppressive Treatment Status and Clin
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06834191
-
-SUMMARY:
-
-
-## NCT07690813
-Efficacy of Machine Learning Models for Predicting Cycloplegic Refractive Error Based on Non-Cycloplegic Parameters in Adults With Myopia
-
-Intervention: : Machine learning model for predicting cycloplegic refraction — The machine learning model was applied to each participant's non-cycloplegic parameters to predict cycloplegic spherical equivalent.
-Link: https://clinicaltrials.gov/study/NCT07690813
 
 SUMMARY:
 
@@ -3519,15 +3329,6 @@ ARISe at UMass Chan: Remote Eye Tracking Study of Vaccine Messaging in Rural Pop
 
 Intervention: : Exposure to source and message content — Within each arm, participants will be exposed to two messages each of which are delivered by the same source (peer or professional) and have message content related to one of the 7C Constructs.
 Link: https://clinicaltrials.gov/study/NCT07236034
-
-SUMMARY:
-
-
-## NCT07816536
-Observational, Single-center Study Evaluating Changes in the Intestinal Microbiota of Children Exclusively Fed Via Gastrostomy When Switching to the Enteral Nutrition Formula Compleat® Paediatric Nature Mix.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07816536
 
 SUMMARY:
 
@@ -3914,15 +3715,6 @@ Intervention: : Interactive Mindfulness Breathing ChatGPT-Powered Intervention �
 : Interactive Mind Wandering ChatGPT-Powered Intervention — The intervention is a ChatGPT-powered mind wandering bot configured using a 15-minute guided exercise adapted from Hafenbrack et al. (2014), Clinton et al. (2018), and Arch and Craske (2006). The session is divided into one-minute segments: the first minute provides settling instructions (for example, inviting participants to adopt a comfortable position), followed by step-by-step guidance of the mindfulness breathing exercise. To foster reflection and encourage active engagement, the chatbot was trained to interact with the participants using interactive prompts. This includes asking questions, such as "When you are ready, please share...What feeling or memory stood out most clearly as your mind wandered?", "When you are ready, please share...where did your attention drift... to just now?".
 : Mindfulness Breathing Audio-only — This intervention consists of listening to a 15-minute mindfulness breathing audio-only exercise, adapted from Hafenbrack et al. (2014), Clinton et al. (2018), and Arch and Craske (2006). There will be no verbal interactions in this intervention.
 Link: https://clinicaltrials.gov/study/NCT07333365
-
-SUMMARY:
-
-
-## NCT07835386
-Educational Strategy in Populations of Different Socioeconomic Status to Improve Cardiovascular Health Through a Digital Health Literacy Program: e-DUCASS Advance
-
-Intervention: : Enhanced Digital Health Literacy Program — The intervention is a 24-month enhanced digital health literacy program designed to improve cardiovascular health through sustained education on healthy lifestyles. Participants receive new educational content weekly through a web-based application. Content includes short videos and summary infographics addressing healthy eating, physical activity, sleep health, avoidance of tobacco and nicotine exposure, and other cardiovascular health-related behaviors. The program combines education, evaluation, and motivation. Brief knowledge assessments reinforce learning, while information on content access and views is used to monitor engagement. Motivational activities, participation feedback, and access to support are provided to encourage adherence and sustained behavior change. Content is adapted when appropriate for adolescent participants.
-Link: https://clinicaltrials.gov/study/NCT07835386
 
 SUMMARY:
 

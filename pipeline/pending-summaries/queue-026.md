@@ -76,15 +76,6 @@ Link: https://clinicaltrials.gov/study/NCT06997276
 SUMMARY:
 
 
-## NCT07732608
-PROSPECT: A Registry and Longitudinal Natural History Study of Individuals at Risk for Genetic Prion Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07732608
-
-SUMMARY:
-
-
 ## NCT07489417
 Impact of Sleep Restriction on Blood Pressure Reactivity
 
@@ -183,15 +174,6 @@ Perspectives on the Multidisciplinary Approach to Metabolic Dysfunction-associat
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07188220
-
-SUMMARY:
-
-
-## NCT07689656
-A Clinical Study on the Safety and Tolerability, Biodistribution, Radiation Dosimetry, and Diagnostic Efficacy of [68Ga]Ga-ELI421 Injection PET Imaging in Patients With Prostate Cancer
-
-Intervention: : [68Ga]Ga-ELI421 injection — Administration Protocol: A single rapid intravenous bolus injection of \[68Ga\]Ga-ELI421 injection at a radioactivity dose of about 185 MBq (5 mCi), followed by catheter flushing with approximately 10 mL of 0.9% sterile normal saline. Static scanning and/or dynamic scanning Whole-body PET Imaging will be performed. PSMA PET imaging will be performed in accordance with routine clinical practice.
-Link: https://clinicaltrials.gov/study/NCT07689656
 
 SUMMARY:
 
@@ -571,15 +553,6 @@ Link: https://clinicaltrials.gov/study/NCT06353854
 SUMMARY:
 
 
-## NCT07774390
-Long-Term Outcomes of Ibrutinib Plus Venetoclax in Patients With Chronic Lymphocytic Leukemia in Routine Clinical Practice
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07774390
-
-SUMMARY:
-
-
 ## NCT07509047
 A Phase II, Randomized, Controlled, Age-descending Study in Adults and Children to Evaluate the Safety and Immunogenicity of the OSP:rTTHc Cholera Conjugate Vaccine in Cholera-endemic Region
 
@@ -897,16 +870,6 @@ The ENDOCARDITIS AUMC Data Collection : a Matched Cohort Study on Perioperative 
 
 Intervention: : None, observational — Patients with infective endocarditis who do and do not undergo valve surgery compared with patientswithout endocarditis, who are operated on with similar valve surgery
 Link: https://clinicaltrials.gov/study/NCT05139589
-
-SUMMARY:
-
-
-## NCT07688278
-Early Detection of Elevated Blood Sugar in Patients With Advanced Periodontitis: a Feasibility Study
-
-Intervention: : Point-of-care HbA1c screening — All participants undergo capillary HbA1c testing at the dental clinic using a validated point-of-care instrument. Test results are provided to the participant during the visit.
-: Conditional standardized primary care referral — Participants with HbA1c ≥42 mmol/mol receive standardized information about the elevated test result and are referred to their listed primary care centre for further diagnostic assessment and preventive follow-up according to routine clinical practice.
-Link: https://clinicaltrials.gov/study/NCT07688278
 
 SUMMARY:
 
