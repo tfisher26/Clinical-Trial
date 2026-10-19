@@ -6599,15 +6599,6 @@ Link: https://clinicaltrials.gov/study/NCT07089537
 
 SUMMARY:
 
-## NCT07089797
-Effect of Nurse-supported Mobile App for Self-help Cognitive Behavioral Therapy for Insomnia in Informal Cancer Caregivers: a Randomized Controlled Trial
-
-Intervention: : Nurse-Supported Mobile App for Self-Help CBT-I — The intervention consists of two components: 1) a mobile app (i.e., WeChat mini program) delivered 6-week self-help CBT-I program; and 2) Weekly nurse support session (up to 20 minutes each) across a 6 week intervention period.
-: Sleep hygiene education — The participants in the control group will receive only sleep hygiene (one-page handout) via WeChat. Access to the CBT-I WeChat mini program will be offered to these participants after the completion of the 3-month follow-up assessment.
-Link: https://clinicaltrials.gov/study/NCT07089797
-
-SUMMARY:
-
 ## NCT07089966
 HIV Testing Counselor-led Care to Catalyze Integration of PrEP Delivery in Family Planning Clinics: The HIV Testing Services PrEP Integration (HTS PrEP) Project
 
@@ -11847,14 +11838,6 @@ The Role of Mobile Apps in Promoting Cardiovascular Health and Motivation to Exe
 
 Intervention: : Experimental group using BumptUp mobile exercise app — This BumptUp app has been developed specifically for pregnancy with safety and screening feature. This intervention will be unique since the researchers will evaluate the cardiovascular health outcomes following the 8 weeks of intervention.
 Link: https://clinicaltrials.gov/study/NCT07166822
-
-SUMMARY:
-
-## NCT07166926
-Mobile Pediatric Thoracic and Abdominopelvic Computed Tomography (CT)
-
-Intervention: : Mobile CT — SOMATOM On.site
-Link: https://clinicaltrials.gov/study/NCT07166926
 
 SUMMARY:
 

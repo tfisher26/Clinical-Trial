@@ -3618,15 +3618,6 @@ Link: https://clinicaltrials.gov/study/NCT05650905
 
 SUMMARY:
 
-## NCT05650996
-The Impact of Early ADL Participation on Functional Outcomes Post Distal Radius Fracture
-
-Intervention: : ADL/Cast Care instruction — Participants in the experimental group will watch a video instructing them on early ADL participation after DRF fracture treated in a cast and cast care. Participants in the experimental group will also receive a handout on ADL participation and cast care.
-: Cast Care Instruction — Participants in the control group will watch a video instructing them on cast care. Participants in the control group will receive a handout on cast care.
-Link: https://clinicaltrials.gov/study/NCT05650996
-
-SUMMARY: Recovery after a broken wrist can be slow. This study tests early participation in everyday activities, with instruction on cast care, to improve function after a distal radius fracture.
-
 ## NCT05651295
 A Precision Medicine Approach to Target Engagement for Emotion Regulation
 
@@ -5357,14 +5348,6 @@ Link: https://clinicaltrials.gov/study/NCT05703425
 
 SUMMARY: Women who have had a preterm birth are at risk of another. This study tests sulfasalazine during pregnancy to see if it lowers CRH, a hormone linked to early labor.
 
-## NCT05703542
-A Phase 1 Study of BXCL701 in Relapsed/Refractory Acute Myeloid Leukemia or Relapsed/Refractory Myelodysplastic Syndrome With Excess Blasts - 2
-
-Intervention: : BXCL701 — Tablet, taken Orally
-Link: https://clinicaltrials.gov/study/NCT05703542
-
-SUMMARY: Acute myeloid leukemia or myelodysplastic syndrome with excess blasts that has come back is hard to treat. This study tests BXCL701 in these patients.
-
 ## NCT05703971
 A Phase 1/2 Clinical Trial of Quaratusugene Ozeplasmid and Atezolizumab Maintenance Therapy in Patients With Extensive Stage Small Cell Lung Cancer (ES-SCLC)
 
@@ -6555,14 +6538,6 @@ Intervention: : SynEx Wound Cleanser — SynEx is a concentrated form of SynePur
 Link: https://clinicaltrials.gov/study/NCT05743283
 
 SUMMARY:
-
-## NCT05743517
-Patient-Tailored Physical Activity Intervention Among Older Women With Gynecologic Cancers Undergoing Chemotherapy (Fit4Treatment)
-
-Intervention: : Fit4Treatment — This study will test the core intervention of an activity tracker and commercially available app (Fitbit) in addition to four components which are expected to improve physical activity. The intervention will be delivered over 12 weeks with a 12 week follow up period.
-Link: https://clinicaltrials.gov/study/NCT05743517
-
-SUMMARY: Older women getting chemotherapy for gynecologic cancers often lose fitness. This study tests Fit4Treatment, a patient tailored physical activity program.
 
 ## NCT05743868
 Metabolic Heterogeneity Underlying Hypertriglyceridemia: Hepatic Triglyceride Biosynthesis in Humans With Different Insulin Resistance Phenotypes
@@ -12309,19 +12284,6 @@ Link: https://clinicaltrials.gov/study/NCT05926622
 
 SUMMARY:
 
-## NCT05926687
-Optimizing Outcomes Through Sequencing Parent-Mediated Interventions for Young Children With Autism
-
-Intervention: : Social Communication — Intervention: Social Communication Who: Parent \& Child \& Therapist Frequency: 1-hour twice/week
-: Disruptive Behavior — Intervention: Disruptive Behavior Who: Parent \& Therapist only Frequency: 1-hour once/week
-: Social Communication + Reduce Frequency — Intervention: Social Communication Who: Parent \& Child \& Therapist Frequency: 1-hour once/week
-: Social Communication + Add Tools — Intervention: Social Communication Who: Parent \& Child \& Therapist Frequency: 1-hour twice/week
-: Disruptive Behavior + Reduce Frequency — Intervention: Disruptive Behavior Who: Parent \& Therapist only Frequency: 1-hour every other week
-: Disruptive Behavior + Add Tools — Intervention: Disruptive Behavior Who: Parent \& Therapist only Frequency: 1-hour once/week
-Link: https://clinicaltrials.gov/study/NCT05926687
-
-SUMMARY: Young children with autism benefit from parent mediated interventions. This study tests the best order for delivering interventions focused on social communication and other skills.
-
 ## NCT05926726
 JWATM214，an Armored GPC3-directed CAR-T ，in the Treatment Amongst Subjects With Advanced Hepatocellular Carcinoma ：a Single-arm, Open-label，Dose-escalation Study
 
@@ -12508,17 +12470,6 @@ Intervention: : cytokine essays — evaluation of immunomodulatory cytokines by 
 Link: https://clinicaltrials.gov/study/NCT05931718
 
 SUMMARY:
-
-## NCT05931913
-Transcranial Magnetic Stimulation to Augment Exposure and Response Prevention for Pediatric OCD
-
-Intervention: : Transcranial Magnetic Stimulation: intermittent theta burst to dorsolateral prefrontal cortex — TMS will be delivered over the dorsolateral prefrontal cortex (dlPFC) using an intermittent bursting pattern
-: Exposure with Response Prevention — ERP will be delivered daily, immediately following TMS
-: Transcranial Magnetic Stimulation: Sham — Sham stimulation will use the Magstim sham air-cooled coil, which produces auditory signals and appears identical to an active coil but contains a mu-metal shield that diverts the majority of the magnetic flux such that a minimal (\<3%) magnetic field is delivered to the cortex
-: Transcranial Magnetic Stimulation: continuous theta burst to pre supplementary motor area — TMS will be delivered over the pre supplementary motor area (preSMA) using a continuous bursting pattern
-Link: https://clinicaltrials.gov/study/NCT05931913
-
-SUMMARY: Obsessive compulsive disorder in children is often treated with exposure and response prevention therapy. This study tests adding transcranial magnetic stimulation.
 
 ## NCT05932069
 The Active AMD Study to Improve Function in Veterans With Age Related Macular Degeneration

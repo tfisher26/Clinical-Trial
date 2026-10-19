@@ -906,20 +906,6 @@ Link: https://clinicaltrials.gov/study/NCT06886945
 SUMMARY:
 
 
-## NCT04746820
-Prognostic Value of Functional Near-infrared Spectroscopy in Unconscious Neurocritical Care Patients- a Prospective Pilot Study
-
-Intervention: : single-center prospective pilot study — fNIRS will be compared to evoked potentials in an experimental group consisting of unconscious neuro-intensive care patients and in a control group consisting of healthy, conscious subjects.
-
-To compare fNIRS with evoked potentials there are two test phases:
-
-1. The cerebral response to a somatosensory stimulus (peripheral nerve stimulation) is measured by fNIRS and SSEP
-2. The cerebral response to an auditory stimulus is measured by fNIRS and AEP
-Link: https://clinicaltrials.gov/study/NCT04746820
-
-SUMMARY:
-
-
 ## NCT07345572
 Investigating the Impact of Early Time-Restricted Eating on Health Outcomes and Quality of Life in Adults With and Without Asthma
 
@@ -1864,15 +1850,6 @@ Prospective Global Registry of Complications of Percutaneous Coronary Interventi
 
 Intervention: : Cardiac Catheterization — Cardiac Catheterization
 Link: https://clinicaltrials.gov/study/NCT05100940
-
-SUMMARY:
-
-
-## NCT05743673
-A Feasibility Study of the SHAPE™ Test of Aerobic Fitness in Older Adults Presenting for Moderate to High-risk Surgery
-
-Intervention: : Shape II — cardiopulmonary exercise testing apparatus
-Link: https://clinicaltrials.gov/study/NCT05743673
 
 SUMMARY:
 

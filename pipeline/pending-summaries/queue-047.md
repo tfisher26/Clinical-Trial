@@ -2140,15 +2140,6 @@ Link: https://clinicaltrials.gov/study/NCT06781801
 
 SUMMARY:
 
-## NCT06781827
-Application Research of Lactobacillus Reuteri in the Treatment of Inflammatory Bowel
-
-Intervention: : Probiotic — The experimental phase of the study lasts 8 weeks and each patient will be visited 4 times (January, March, June, and December).
-: Maltodextrin — The experimental phase of this study had last 8 weeks and each patient will make 4 visits (January, March, June, and December).
-Link: https://clinicaltrials.gov/study/NCT06781827
-
-SUMMARY:
-
 ## NCT06781879
 Chemoablation Or Bladder Resection With Adjuvant Chemotherapy in Recurrent Non-Muscle Invasive Bladder Cancer
 
@@ -16069,20 +16060,6 @@ Link: https://clinicaltrials.gov/study/NCT06979375
 
 SUMMARY:
 
-## NCT06979492
-Prophylactic Transfusion In Pregnant in Women With Sickle Cell Disease
-
-Intervention: : Prophylactic Transfusion Intervention group: Transfusion — For participants randomized to the prophylactic transfusion intervention group, the first RBC transfusion will occur within 3 weeks of randomization. All transfusions will be managed per SOC.
-
-SOC prophylactic RBC transfusion management is as follows: transfusions are performed at 3-6 week intervals with the intent to maintain a pre-transfusion hemoglobin S level at \<30%. All participants will have a complete blood count, reticulocyte count, hemoglobin fractionation, complete metabolic profile with LDH, ferritin, and type/screen at baseline and within 3 days of all monthly transfusions. All RBC transfusions must be compatible between the recipient and the donor and antigen matched for Rh (D/Cc/Ee) and Kell antigens at a minimum. For participants with a previous history of RBC alloimmunization, extended matched RBCs will be provided (Rh, Kell, Duffy, Kidd, S/s) per NHLBI/ASH guidelines to minimize further alloimmunization.
-: Control group — Participants randomized to the control group will be followed per SOC. SOC management for pregnant women with SCD includes but is not limited to
-
-* Clinic appointments with an SCD provider every 2 months
-* Lab draws - complete blood count, reticulocyte count, hemoglobin fractionation, complete metabolic profile with LDH and ferritin.
-Link: https://clinicaltrials.gov/study/NCT06979492
-
-SUMMARY:
-
 ## NCT06979700
 Early Wake-up Predictors After Out-of-hospital Cardiac Arrest - an Observational, Multicenter Substudy of the DANOHCA Trial
 
@@ -17269,15 +17246,6 @@ Intervention: : Cerebral MRI without contrast agent injection — Cerebral MRI a
 : saliva sample — Saliva sample for DNA analysis at inclusion or send to their home.
 : Questionnaires — Quality of life and cognitive questionnaires at inclusion
 Link: https://clinicaltrials.gov/study/NCT06995040
-
-SUMMARY:
-
-## NCT06995131
-Evaluation of Aqueous Humor DEL-1 and IL-17 Levels in Diabetic Cataract Patients
-
-Intervention: : Del 1 — During cataract surgery, approximately 0.1-0.2 mL of aqueous humor will be sampled with a sterile 27 gauge syringe before viscoelastic is introduced into the anterior chamber. DEL 1 will be analyzed by ELISA
-: IL 17 — During cataract surgery, approximately 0.1-0.2 mL of aqueous humor will be sampled with a sterile 27 gauge syringe before viscoelastic is introduced into the anterior chamber. IL 17 levels will be analyzed by ELISA
-Link: https://clinicaltrials.gov/study/NCT06995131
 
 SUMMARY:
 

@@ -2248,14 +2248,6 @@ Link: https://clinicaltrials.gov/study/NCT07259590
 
 SUMMARY:
 
-## NCT07259668
-An Observational Pilot Study Evaluating the Efficacy and Safety of LPS Adsorption Using the Efferon LPS Device in Patients With Thermal Burns
-
-Intervention: : Efferon LPS — Efferon LPS, a medical device, which is a single-use cartridge filled with a polymeric adsorbent that selectively adsorbs endotoxin via surface-immobilized ligand and excessive cytokines via its intrinsic porosity. Two hemoadsorption procedures will be performed per patient, with a duration of 6-12 hours each and an interval of 24 hours between procedures. The procedures may be administered in combination with hemofiltration or hemodiafiltration, as determined by the investigator.
-Link: https://clinicaltrials.gov/study/NCT07259668
-
-SUMMARY:
-
 ## NCT07259733
 Strategy for Rapid Control of Apparent Resistant Arterial Hypertension in the Public Health System (FAST Control)
 
@@ -6155,15 +6147,6 @@ Rapid Escalation of LipiD Lowering Therapy to Reduce RecUrrent Cardiovascular Ev
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07311941
-
-SUMMARY:
-
-## NCT07312032
-The Effects of Footplate Stiffness on Foot Loading Within Carbon Fiber Custom Dynamic Orthoses
-
-Intervention: : Carbon Fiber Custom Dynamic Orthosis — The carbon fiber custom dynamic orthosis (CDO) used in this study will consist of a semi-rigid carbon fiber footplate, a carbon fiber posterior strut, and a proximal cuff that wraps around the leg below the knee.
-: Carbon Fiber Footplate — One or two additional full-length carbon fiber footplates will be placed under the CDO footplate to increase the effective footplate stiffness
-Link: https://clinicaltrials.gov/study/NCT07312032
 
 SUMMARY:
 
@@ -15614,14 +15597,6 @@ Impact of Menstrual Phases and Menopause on Intraoperative Anesthetic Consumptio
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07456202
-
-SUMMARY:
-
-## NCT07456241
-An EHR-Embedded Pragmatic Stepped-Wedge Clinical Trial of Ambient Artificial Intelligence to Reduce Nursing Staff Documentation Time
-
-Intervention: : Artificial Intelligence — Ambient AI software intervention is implemented into the nursing staff workflow. The software incorporates Automated Speech Recognition technology with Large Language Models to generate clinical documentation in real-time
-Link: https://clinicaltrials.gov/study/NCT07456241
 
 SUMMARY:
 

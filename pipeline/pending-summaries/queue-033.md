@@ -7024,15 +7024,6 @@ Link: https://clinicaltrials.gov/study/NCT04711551
 SUMMARY:
 
 
-## NCT05555095
-The Medicaid Innovation Collaborative (MIC) Experience: Transforming Care Through Digital Health: A Mixed Methods Analysis
-
-Intervention: : digital health delivered multicomponent intervention — The MIC program will have set minimum levels of connectivity for each of the three defined conditions under study.
-Link: https://clinicaltrials.gov/study/NCT05555095
-
-SUMMARY:
-
-
 ## NCT05319678
 Analysis of Musical and Voice Skills in Children and Adult Cochlear Implant Users
 

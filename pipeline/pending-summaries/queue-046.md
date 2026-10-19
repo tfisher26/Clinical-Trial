@@ -2424,14 +2424,6 @@ Link: https://clinicaltrials.gov/study/NCT06513273
 
 SUMMARY:
 
-## NCT06513910
-Evaluating the Impact of Community-Based Mindfulness and Musical Programs on Psychiatric Measures, Social Music Study 2b.
-
-Intervention: : Music — Participants in dyads will be positioned across from each other while listening to various types of music (i.e. music that is harmonically-intact and music in which the harmonic content has been randomly scrambled).
-Link: https://clinicaltrials.gov/study/NCT06513910
-
-SUMMARY:
-
 ## NCT06513949
 Phase 2, Randomized, Double-Blind, Placebo-Controlled, Safety and Efficacy Study of Anti-CD14 Treatment With a Recombinant Chimeric Monoclonal Antibody (IC14) in Hospitalized Patients With Acute Respiratory Distress Syndrome
 
@@ -3322,15 +3314,6 @@ Training sessions are closely monitored to ensure effectiveness and safety. This
 Link: https://clinicaltrials.gov/study/NCT06529848
 
 SUMMARY: Some people have chest pain from reduced blood flow to the heart even though their heart arteries are not blocked. This study tests a cycling exercise training program to see whether it improves symptoms and heart blood flow.
-
-## NCT06530212
-Sleeve Gastrectomy With Jejuno-ieal Bypass
-
-Intervention: : SGJIB — sleeve gastrectomy with jejunoileal bypass with anastomosis between the jejunum at about 100 cm from the duodeno-jejunal flexure and the ileum at 250 cm from the ileocaecal junction.
-: SAS-JB — single anastomosis sleeve jejunal bypass (SAS-JB) with biliary limb equal one third of total intestinal length.
-Link: https://clinicaltrials.gov/study/NCT06530212
-
-SUMMARY: Obesity and related conditions like diabetes may not improve enough with sleeve gastrectomy alone. This study tests combining sleeve gastrectomy with a bypass that connects two parts of the small intestine to see whether it gives better results.
 
 ## NCT06530303
 Efficacy and Safety of Autologous Tumor-Infiltrating Lymphocytes (TIL) Therapy Combined With Immunotherapy in Patients With Advanced or Metastatic Refractory Colon and Rectal Cancer (Colorectum)
@@ -5330,19 +5313,6 @@ Intervention: : Mycophenolate Mofetil (MMF) Maintenance Group — Mycophenolate 
 Link: https://clinicaltrials.gov/study/NCT06568549
 
 SUMMARY:
-
-## NCT06569212
-Beta-1 Adrenergic Inhibition to Reduce Cardiac Injury and Inflammation After Subarachnoid Hemorrhage (BADCATS)
-
-Intervention: : Metoprolol — Metoprolol Dosing:
-
-Metoprolol Injection (instructions: 5mg, once) Metoprolol Tab (25mg PO, q12 hours, timed to start 1hr after Metoprolol Injection, 6 doses) If unable to take PO medication, Metoprolol Injection (instructions, 5mg q6hrs for 12 doses) Continue for 72-hours of administration unless reaching stopping criteria
-: Placebo — Placebo Dosing:
-
-Placebo Injection (instructions: 5mL NS, once) Placebo Tab (1 tab PO, q12 hours, timed to start 1hr after placebo injection, 6 doses) If unable to take PO medication, Placebo Injection (instructions, 5mL q6hrs for 12 doses) Continue for 72-hours of administration unless reaching stopping criteria
-Link: https://clinicaltrials.gov/study/NCT06569212
-
-SUMMARY: Bleeding around the brain from a burst aneurysm can also injure the heart. This study tests metoprolol, a beta blocker that slows the heart, to see whether it reduces heart injury and inflammation.
 
 ## NCT06569303
 Virtual Positive Parenting Intervention to Promote Filipino Family Wellness: A Randomized Controlled Trial : Filipino Family Health Initiative 1.0
@@ -13509,14 +13479,6 @@ Link: https://clinicaltrials.gov/study/NCT06695897
 
 SUMMARY:
 
-## NCT06695988
-Time-restricted Eating Acceptability, Efficacy and Safety in Free-living Adults With Obesity
-
-Intervention: : Time Restricted Eating — The intervention group will eat and drink in a prescribed daily feeding window of 8-hour between 6 a.m. to 8 p.m. for 8 weeks and follow their normal exercise and resistance training routines. We will allow +/-1 hour starting and ending times for the eating window while aiming for an 8-hour eating window
-Link: https://clinicaltrials.gov/study/NCT06695988
-
-SUMMARY: Obesity raises the risk of many health problems, and diets are hard to sustain. This study tests eating within an 8 hour window each day for eight weeks to see whether it is acceptable, safe and helps with weight loss.
-
 ## NCT06696027
 Investigating the Role of Hematopoietic Mutations and Mosaic Mutation in the Y Chromosome in Autoimmune Rheumatologic Diseases
 
@@ -14782,14 +14744,6 @@ Intervention: : JAK1 Inhibitor — Golidocitnib 150mg QD orally, with a 28-day c
 Link: https://clinicaltrials.gov/study/NCT06716658
 
 SUMMARY: Slow growing T cell and NK cell lymphomas that return or resist treatment have few options. This study tests golidocitinib, a pill that blocks the JAK1 enzyme, to see whether it controls the disease.
-
-## NCT06716814
-A Multinational, Prospective, Open-label, Roll-over Study (LIBERTY) to Provide Post-trial Access to Treatment for Patients With Haemophilia A Who Have Completed a Previous Trial With Efanesoctocog Alfa
-
-Intervention: : Efanesoctocog alfa — Treatment starts when the patient completes the parent study and continues until efanesoctocog alfa is commercially available in each patient's respective country, or until March 2027, whichever comes first.
-Link: https://clinicaltrials.gov/study/NCT06716814
-
-SUMMARY: People with hemophilia A who completed an earlier study of efanesoctocog alfa may want to keep using it. This roll over study provides continued access to this long acting clotting factor and tracks its safety.
 
 ## NCT06716840
 Remimazolam Besylate Versus Propofolfor Sedation of Postcardioperative Patients in Intensive Care Unit: a Prospective,Single-center,Randomized Non-inferior Trial

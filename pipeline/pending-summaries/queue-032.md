@@ -904,16 +904,6 @@ Link: https://clinicaltrials.gov/study/NCT04782830
 SUMMARY:
 
 
-## NCT06168474
-Evaluating the Impact of a SIMPlified LaYered Consent Process on Recruitment of Potential Participants to the Staphylococcus Aureus Network Adaptive Platform Trial: a Pragmatic Nested Randomized Clinical Trial
-
-Intervention: : Simplified layered consent form — The simplified consent form includes all essential elements of trial consent including an explanation of the trial procedures, data and sample collection, and follow-up information. The form also outlines important ethical considerations for patients, such as confidentiality, regulatory and safety requirements, the ability to drop out, and the necessary process and contact numbers for grievances or feedback. In addition to the text, the form includes links to additional written information and videos that can be accessed on top of the simplified informed consent form (i.e., the additional layers in the layered consent process). These materials are hosted on the main SNAP trial website (https://www.snaptrial.com.au/patients) and are available in English and French. Participants will be able to access these directly through embedded hyperlinks using provided electronic tablets.
-: Full-length consent form — The full-length informed consent form contains all information upfront. Links to additional information will not be provided on the form but are freely available on the Internet should the participant wish to access them.
-Link: https://clinicaltrials.gov/study/NCT06168474
-
-SUMMARY:
-
-
 ## NCT05876676
 Rapid Diagnostic Centre Biomarker Study
 

@@ -1619,15 +1619,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04510636
-Phase 2 Study Evaluating the Safety and Efficacy of Pembrolizumab (KEytruda) in Combination With Bendamustine (TREanda) in Relapsed/Refractory Hodgkin Lymphoma
-
-Intervention: : Pembrolizumab — Pembrolizumab is a intravenously administered humanized monoclonal antibody that blocks the interaction between PD-1 and its ligands, PD-L1 and PD-L2.
-: Bendamustine Hydrochloride — Bendamustine is a unique alkylating agent with substantial activity in hematologic malignancies.
-Link: https://clinicaltrials.gov/study/NCT04510636
-
-SUMMARY: Hodgkin lymphoma that has come back or stopped responding needs new treatment options. This study tests Keytruda, an immunotherapy given by IV, combined with the chemotherapy drug bendamustine.
-
 ## NCT04511013
 A Randomized Phase 2 Trial of Encorafenib + Binimetinib + Nivolumab vs Ipilimumab + Nivolumab in BRAF-V600 Mutant Melanoma With Brain Metastases
 

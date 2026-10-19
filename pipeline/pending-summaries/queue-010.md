@@ -522,15 +522,6 @@ Link: https://clinicaltrials.gov/study/NCT06764511
 SUMMARY:
 
 
-## NCT04510363
-Optic Nerve Sheath Diameter, Carotid Duplex and Transcranial Duplex as a Prognostic Predicting Factor in Post-cardiac Arrest Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04510363
-
-SUMMARY:
-
-
 ## NCT06499363
 Treprostinil in Newborns With Pulmonary Hypertension; a Noninterventional Study to Collect Data on Drug Utilization, Safety, and Effectiveness.
 

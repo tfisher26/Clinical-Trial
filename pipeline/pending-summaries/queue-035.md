@@ -720,17 +720,6 @@ Link: https://clinicaltrials.gov/study/NCT06955897
 SUMMARY:
 
 
-## NCT04978168
-Using Implementation Interventions and Peer Recovery Support to Improve Opioid Treatment Outcomes in Community Supervision
-
-Intervention: : Core Intervention — Staff are provided with a core set of implementation strategies to facilitate interorganizational linkages between probation agencies and local community treatment providers.
-: Peer Support Specialists (PSS) — Participants randomized to PSS will meet with a PSS for 6 months. Contact scheduled is flexible and based on the participant's needs and wants, plus written guidance for PSS-participant interactions.
-: Treatment as Usual (TAU) — Participants randomized to TAU will receive the services that will be offered at the time the Core Implementation intervention is completed.
-Link: https://clinicaltrials.gov/study/NCT04978168
-
-SUMMARY:
-
-
 ## NCT06293053
 A Multicenter Open-label Study to Investigate the Pharmacokinetics and Safety of Dupilumab in Participants ≥6 Months to <18 Years of Age With Prurigo Nodularis
 

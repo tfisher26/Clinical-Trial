@@ -385454,3 +385454,235 @@ Exclusion criteria:
 CALLOUT_HEADING:
 CALLOUT_TEXT:
 
+## NCT07501780
+Real-world Evaluation of the Implementation of LC-OCT in Daily Clinical Practice: a Retrospective Observational Study
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Patients aged ≥18 years
+* LC-OCT performed as part of diagnostic evaluation between January 2025 and June 2025 at Mohs clinics in the Netherlands
+* Histopathological results (biopsy or excision) and/or 6-12 month clinical follow-up data available
+"""
+Exclusion criteria:
+"""
+* Patients \<18 years of age
+* Cases without histopathological confirmation or available follow-up data
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07715747
+Phase I Clinical Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of TJ037130 in Adult Participants With Advanced Solid Tumors
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Males or females aged 18 years or older;
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1;
+* Voluntarily enroll in the study and be able to comply with scheduled visits, treatment schedules, laboratory tests and other study procedures;
+* Participants with histologically and/or cytologically confirmed recurrent or metastatic advanced malignant tumors for whom no standard therapy with clinical benefit is available, or who are ineligible for existing standard treatment regimens. Claudin 6 (CLDN6) positive expression confirmed by immunohistochemistry (IHC) ;
+* Agree to provide archived tumor tissue or fresh biopsy tumor samples (not mandatory during the dose escalation phase);
+* Have at least one evaluable tumor lesion per RECIST Version 1.1 (dose escalation phase); have at least one measurable tumor lesion per RECIST Version 1.1 (dose expansion phase);
+* All acute adverse events resulting from prior anticancer therapies have resolved to Grade ≤ 1 or baseline per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v6.0 (excluding toxicities judged by the Investigator to pose no safety risk, such as alopecia, peripheral neurotoxicity, hypothyroidism stabilized with hormone replacement therapy, etc.);
+* Be deemed an appropriate candidate for this clinical trial by the Investigator with an expected survival of ≥ 12 weeks;
+* Demonstrate adequate organ function within 7 days prior to the first dose of study drug;
+* Male and female participants of childbearing potential must agree to use two forms of effective contraception throughout the study period and for 6 months after the last dose of TJ037130. In addition, female participants of childbearing potential must have a negative serum or urine pregnancy test.
+"""
+Exclusion criteria:
+"""
+* Prior exposure to CLDN6-targeted therapy;
+* Prior exposure to 4-1BB agonists;
+* Received PD-1/PD-L1 therapy or other immune checkpoint inhibitors/agonists within 28 days prior to the first dose of study drug;
+* History of a second malignancy within the past 3 years, except cutaneous squamous cell carcinoma, cutaneous basal cell carcinoma, or carcinoma in situ of the cervix;
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07741565
+Window Trial of Intratumoral (IT) Neoadjuvant Fluorescently Labelled Nivolumab (nivo800) in Head and Neck Squamous Cell Carcinoma (HNSCC)
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Participants must have biopsy proven HNSCC.
+2. Planned to undergo surgical excision.
+3. Age ≥ 18 years.
+4. Adequate hematologic and end-organ function appropriate for surgical resection and anesthesia (within 30 days of infusion).
+5. Written informed consent.
+"""
+Exclusion criteria:
+"""
+1. Patients not eligible for SOC surgical resection
+2. Active or history of autoimmune disease or immune deficiency, including, but not limited to, myasthenia gravis, myositis, autoimmune hepatitis, systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease, antiphospholipid antibody syndrome, Wegener granulomatosis, Sjögren syndrome, Guillain-Barré syndrome, or multiple sclerosis with the following exceptions:
+
+   * Patients with a history of autoimmune-related hypothyroidism who are on thyroid-replacement hormone are eligible for the study.
+   * Patients with controlled Type 1 diabetes mellitus who are on an insulin regimen are eligible for the study.
+   * Patients with eczema, psoriasis, lichen simplex chronicus, or vitiligo with dermatologic manifestations only (e.g., patients with psoriatic arthritis are excluded) are eligible for the study provided if all the following conditions are met:
+   * Rash must cover \< 10% of body surface area
+   * Disease is well controlled at baseline and requires only low-potency topical corticosteroids
+   * No occurrence of acute exacerbations of the underlying condition requiring psoralen plus ultraviolet A radiation, methotrexate, retinoids, biologic agents, oral calcineurin inhibitors, or high-potency oral corticosteroids within the previous 12 months.
+3. History of idiopathic pulmonary fibrosis, organizing pneumonia (e.g., bronchiolitis obliterans), drug-induced pneumonitis, or idiopathic pneumonitis, or evidence of active pneumonitis on screening chest CT scan.
+
+   * History of radiation pneumonitis in the radiation field (fibrosis) is permitted.
+4. Significant cardiovascular disease (such as New York Heart Association Class II or greater cardiac disease, myocardial infarction, or cerebrovascular accident) within 6 months prior to initiation of study treatment, unstable arrhythmia, or unstable angina
+5. Severe unresolved infection within 4 weeks prior to initiation of study treatment.
+6. Prior allogeneic stem cell or solid organ transplantation
+7. History of severe allergic anaphylactic reactions to chimeric or humanized antibodies or fusion proteins
+8. Chronic treatment with systemic immunosuppressive medication in excess of physiologic maintenance doses of corticosteroids (\>10 mg/day of prednisone or equivalent) (including, but not limited to, corticosteroids, cyclophosphamide, azathioprine, methotrexate, thalidomide, and anti-TNF-a agents), with the following exceptions:
+
+   * Patients who received acute, systemic immunosuppressant medication or a dose of systemic immunosuppressant medication are eligible for the study.
+   * Physiologic corticosteroid replacement therapy at doses ≤ 10 mg/day of prednisone or equivalent for adrenal or pituitary insufficiency and in the absence of active autoimmune disease is permitted.
+   * Patients with asthma that requires intermittent use of bronchodilators, inhaled steroids, or local steroid injections may participate.
+   * Patients using topical, ocular, intra-articular, or intranasal steroids (with minimal systemic absorption) may participate.
+   * Brief courses of corticosteroids for prophylaxis (e.g., contrast dye allergy) or study treatment-related standard pre-medication are permitted.
+9. Pregnant or breastfeeding, or intention of becoming pregnant during study treatment or within 5 months after the final administration of study treatment.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07773987
+Immunotherapy and Nodal-Sparing Irradiation for T-Cell Induction and Unmasking of Tumor Antigenicity in the Microenvironment for Head and Neck Cancer
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Patients 18 years or older.
+* Patients with surgically resectable squamous cell carcinoma of the oral cavity or HPV-negative squamous cell carcinoma of the oropharynx. Resectability will be determined by the treating surgeon. Patients must have locoregionally advanced disease defined by clinical T3-4 staging and/or clinical node positive staging.
+* A CPS score of at least 1 on initial biopsy.
+* Zubrod, or Eastern Cooperative Oncology Group (ECOG) performance status 0-2.
+* Pregnancy. It is not known what effects this treatment has on human pregnancy or development of the embryo or fetus. Therefore, female patients participating in this study should avoid becoming pregnant, and male patients should avoid impregnating a female partner. Non-sterilized female patients of reproductive age and male patients should use effective methods of contraception through defined periods during and after study treatment as specified below.
+
+Female patients must meet one of the following:
+
+* Postmenopausal for at least one year before the screening visit, OR
+* Surgically sterile (i.e., undergone a hysterectomy or bilateral oophorectomy), OR
+* If subject is of childbearing potential (defined as not satisfying either of the above two criteria):
+
+  * Agree to practice two effective methods of contraception (combination methods requires use of two of the following: diaphragm with spermicide, cervical cap with spermicide, contraceptive sponge, male or female condom, hormonal contraceptive, intrauterine device, etonogestrel implant, etc.) from the time of signing of the informed consent form through 90 days after the last dose of study agent, AND
+  * Must also adhere to the guidelines of any treatment-specific pregnancy prevention program, if applicable, OR
+  * Agree to practice true abstinence when this is in line with the preferred and usual lifestyle of the subject. (Periodic abstinence \[e.g., calendar, ovulation, symptom-thermal, post ovulation methods\] and withdrawal are not acceptable contraception methods).
+
+Male patients, even if surgically sterilized (i.e., status post vasectomy), must agree to one of the following:
+
+* Practice effective barrier contraception during the entire study treatment period and through 90 days after the last study drug dose, OR
+* Must also adhere to the guidelines of any study-specific pregnancy prevention program, if applicable, OR
+* Agree to practice true abstinence when this is in line with the preferred and usual lifestyle of the subject. (Periodic abstinence \[e.g., calendar, ovulation, symptom-thermal, post ovulation methods\] and withdrawal are not acceptable methods of contraception.) - Ability to understand a written informed consent document, and the willingness to sign it.
+"""
+Exclusion criteria:
+"""
+* HPV-positive squamous cell carcinoma of the oropharynx.
+* Tumor inaccessible for clinic-based biopsy as determined by the treating surgeon.
+* Solid organ transplant requiring chronic immunosuppression.
+* Autoimmune disease requiring use of steroids or chronic immunosuppression.
+* Prior invasive malignancy within the past 3 years (except for T1a surgically treated melanoma with negative margins, any early-stage non-melanomatous skin cancer, early-stage prostate cancer, or differentiated thyroid cancer). Patients with benign non-metastasizing tumors are eligible.
+* Life expectancy less than 12 months.
+* Performance status Zubrod ≥ 3.
+* Patients with prior external beam radiation therapy (RT) to the head and neck that overlaps the expected treatment fields.
+
+  a. Note: Patients receiving prior Iodine-131 therapy will be eligible.
+* Prior systemic therapy, including cytotoxic chemotherapy, biologic/targeted therapy, or immune therapy for the study cancer.
+* Body weight ≤ 30 kg.
+* Any of the following severe laboratory abnormalities within 30 days of registration, unless corrected prior to it:
+
+  1. Sodium \< 125 mmol/L or \> 155 mmol/L
+  2. Potassium \< 3.5 mmol/L or \> 6 mmol/L
+  3. Glucose \> 400 mg/dl
+  4. Serum calcium (ionized or adjusted for albumin) \< 7 mg/dl or \> 12.5 mg/dl
+  5. Magnesium \< 0.9 mg/dl or \> 3 mg/dl
+* Unstable angina and/or congestive heart failure requiring hospitalization within three months of registration.
+* Transmural myocardial infarction within three months of registration.
+* Medical or psychiatric illness that would compromise the patient's ability to tolerate treatment or limit compliance with study requirements.
+* Pregnancy or women of childbearing potential and men who are sexually active and not willing/able to use medically acceptable forms of contraception during treatment and for 6 months after radiation. This exclusion is necessary because the treatment involved in this study may be significantly teratogenic. Women who are breastfeeding are also excluded.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07879820
+Targeting Tissue-Resident T Cells for Personalized Immunotherapy and Recurrence Prevention in Patients With Node-Positive Prostate Cancer Undergoing PSMA-Guided Surgery
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Male participants.
+* Age 18 to 85 years.
+* Biopsy-proven prostate cancer with positive lymph nodes on staging PSMA PET (miN+).
+* Planned robot-assisted radical prostatectomy with extended pelvic lymph-node dissection.
+* Able to understand and willing to sign written informed consent.
+"""
+Exclusion criteria:
+"""
+* Neoadjuvant hormonal therapy before surgery.
+* Inability to complete imaging examinations according to the protocol.
+* Bone or visceral metastatic disease (M1b-c) on preoperative imaging.
+* Life expectancy \<12 months.
+* Previous chemotherapy.
+* Previous brachytherapy or external-beam radiotherapy.
+* Congestive heart failure.
+* Any other significant disease/disorder that, in the investigator's opinion, may increase risk, influence study results, or impair participation.
+* History of allergic disease/reactions likely to be exacerbated by study IMPs or radiotracer components (68Ga-PSMA).
+* Experimental drug within 30 days before radiotracer administration or within 5 half-lives of that experimental drug.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07880600
+Multicenter Prospective Observational Cohort Study of Pre-Treatment Breast DCE-MRI-Based Artificial Intelligence Model for Predicting Populations Benefiting From Neoadjuvant Chemotherapy in Locally Advanced Triple-Negative Breast Cancer
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Female patients aged ≥ 18 years.
+2. Histologically confirmed invasive triple-negative breast cancer; patients with ER/PR 1%-10% positive and HER2-negative status are also eligible given their biological features resembling triple-negative breast cancer.
+3. Clinical stage T2-3N0-3M0 or T1N1-3M0 according to AJCC 8th edition, with potential indication for neoadjuvant chemotherapy.
+4. Availability of both MRI and pathological biopsy materials; standardized breast DCE-MRI examination and pathological biopsy completed prior to neoadjuvant chemotherapy, with image quality satisfying requirements for model analysis.
+5. Patients planned to receive standard neoadjuvant chemotherapy followed by surgical treatment. Patients who are undergoing standard neoadjuvant chemotherapy or have completed neoadjuvant chemotherapy awaiting surgery are also eligible.
+6. Post-operative pathology available to assess neoadjuvant chemotherapy response (pCR or non-pCR).
+7. Eastern Cooperative Oncology Group (ECOG) performance status 0-1; adequate function of major organs to tolerate planned therapy.
+8. Voluntary participation and provision of written informed consent.
+"""
+Exclusion criteria:
+"""
+1. Prior systemic anti-tumor therapy for breast cancer other than neoadjuvant chemotherapy.
+2. Inflammatory breast cancer or distant metastatic disease (M1).
+3. Concurrent active malignancy during neoadjuvant chemotherapy or surgical period.
+4. History of autoimmune diseases, such as systemic lupus erythematosus, acanthosis and other related disorders.
+5. Documented history of neurological or psychiatric disorders, including epilepsy, dementia, etc.
+6. Contraindications to MRI or unacceptable image quality for analysis.
+7. No definitive surgery performed or incomplete postoperative pathological reports.
+8. Severe comorbidities that preclude chemotherapy or surgical intervention.
+9. Missing required clinical information, MRI images, or pathological biopsy specimens for analysis.
+10. Other conditions rendering the subject inappropriate for enrollment, in the investigator's judgment.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07881588
+Construction and Empirical Research of a Risk Prediction Model for Preventing Lower Extremity Arteriosclerosis Obliterans in Diabetic Patients Based on the HAPA Model
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Meet the clinical diagnostic criteria for type 2 diabetes;
+* Age ≥18 years old;
+* The patient is conscious, has no language communication barriers, and has certain reading and writing abilities.
+* The patient or caregiver can use smart devices.
+* Informed consent and voluntary participation.
+"""
+Exclusion criteria:
+"""
+* Those with severe audio-visual or cognitive impairments;
+* Combined with other serious physical diseases, such as malignant tumors, etc.
+* Have a history of mental illness;
+* Patients who already have lower extremity arterial disease.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+

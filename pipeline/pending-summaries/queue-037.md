@@ -30,15 +30,6 @@ Link: https://clinicaltrials.gov/study/NCT06057402
 SUMMARY:
 
 
-## NCT05852418
-Registry Study of the Provision of Assistive Devices, Medicines, and Other Healthcare Measures in an Inter-cohort Observation of Patients With ALS , SMA and Other Neurological Diseases.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05852418
-
-SUMMARY:
-
-
 ## NCT07172919
 A Rollover Study of Sotorasib With or Without Panitumumab for the Treatment of Cancer Subjects With KRAS p.G12C Mutation Previously Treated in an Amgen-Sponsored Study
 
@@ -3303,15 +3294,6 @@ ZEPOSIA® (Ozanimod) Pregnancy Registry: A Prospective, Observational Study on t
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05170126
-
-SUMMARY:
-
-
-## NCT05466786
-Landscape Ofhomologous Recombination-related (HRR) Genes Mutations and HRD, and Correlation With Survival in HER2-lowbreast Cance
-
-Intervention: : Standard Management — Standard Management
-Link: https://clinicaltrials.gov/study/NCT05466786
 
 SUMMARY:
 
