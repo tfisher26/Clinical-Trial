@@ -1094,15 +1094,6 @@ Link: https://clinicaltrials.gov/study/NCT06808269
 SUMMARY:
 
 
-## NCT05650255
-A Digital Twin for Exoskeleton Pilot
-
-Intervention: : A Digital Twin for Exoskeleton Pilot — The purpose of this project is to establish a digital twin of this driving, which will perform the driving action in parallel, and calculate in parallel in the virtual environment the torque required to provide each joint torque to maintain stable walking without falling, and this torque can be used as a monitoring basis for the auxiliary torque of each axis for the exoskeleton. When the exoskeleton's movements are out of range of a stable gait, the controller can warn and attenuate the output of auxiliary forces, and on the other hand, it has the opportunity to analyze whether the intention of driving is to switch the movement mode - such as stopping, or sitting, squatting, etc.
-Link: https://clinicaltrials.gov/study/NCT05650255
-
-SUMMARY:
-
-
 ## NCT05759039
 A Randomized Clinical Pilot Trial Comparing Isolated Medial Patellofemoral Ligament Reconstruction to Medial Patellofemoral Ligament Reconstruction Combined with Tibial Tubercle Osteotomy: SHould You TransFer the Tubercle (SHYFT)?
 
@@ -1702,15 +1693,6 @@ Intervention: : Prosthetic device (Lunaris) — Participants with an amputation 
 : No prosthetic device — Able-bodied individuals will conduct experiments to enable comparison with the participants with amputation
 : Prosthetic device (Sach foot) — Participants with an amputation will conduct experiments with the prosthetic device
 Link: https://clinicaltrials.gov/study/NCT05818410
-
-SUMMARY:
-
-
-## NCT07232342
-Capillary Leak Index Versus Conventional Biomarkers in Predicting Sepsis-Related Outcomes
-
-Intervention: : Capillary Leak Index Versus — Blood samples will be collected at three time points: within 1-2 hours of ICU admission (Day 0), Day 1, Day 2 and Day 7, to monitor trends in CLI and conventional biomarkers during the ICU stay. • CR
-Link: https://clinicaltrials.gov/study/NCT07232342
 
 SUMMARY:
 

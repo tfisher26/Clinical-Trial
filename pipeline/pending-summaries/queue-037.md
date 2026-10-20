@@ -267,15 +267,6 @@ Link: https://clinicaltrials.gov/study/NCT05889585
 SUMMARY:
 
 
-## NCT06499701
-Volume Kinetics of Fluid Resuscitation With 30 ml/kg Ringer Lactate in Early Sepsis
-
-Intervention: : Ringer's Lactate — Ringer's Lactate is administered at a dose of 30ml/kg, with the first 20ml/kg given at a constant rate over the initial 30 minutes, followed by a 30-minute pause, and then an additional 10ml/kg over the next 15 minutes, completing the infusion within 75 minutes.
-Link: https://clinicaltrials.gov/study/NCT06499701
-
-SUMMARY:
-
-
 ## NCT06989853
 Advancing Troiluzole as a Treatment for Methamphetamine Use Disorder: A Human Laboratory Study
 

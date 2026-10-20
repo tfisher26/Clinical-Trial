@@ -1310,15 +1310,6 @@ Link: https://clinicaltrials.gov/study/NCT05704530
 SUMMARY:
 
 
-## NCT07780526
-A Prospective Observational Pilot Study Evaluating Anesthesiologists' Preoperative Clinical Prediction of Postoperative İntensive Care Unit (İCU) Admission in Adult Surgical Patients
-
-Intervention: : Preoperative Clinical Prediction of Postoperative ICU Admission — Before the index procedure, the anesthesiologist will record whether postoperative intensive care unit admission is anticipated based on routine preoperative clinical assessment. This assessment is observational and will not alter routine patient care.
-Link: https://clinicaltrials.gov/study/NCT07780526
-
-SUMMARY:
-
-
 ## NCT06679543
 Effects of Partial Sleep Deprivation on Cardiac Output During Cycling
 

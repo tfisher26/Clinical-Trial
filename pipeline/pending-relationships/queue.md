@@ -102724,3 +102724,87 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04374721
+Clinical Study on Circadian Genes Dysregulation in Patients With Glucocorticoid Disorders
+Conditions: metabolic/addison_disease, metabolic/adrenal_insufficiency, metabolic/cushing_syndrome, neurological/pituitary_acth_hypersecretion
+
+Inclusion criteria:
+"""
+* Primary or secondary chronic adrenal insufficiency, previously or newly diagnosed.
+* ACTH-dependent or ACTH-independent Cushing's Syndrome diagnosis during active disease (new diagnosis or recidivating).
+
+  * Signed informed consent to participate in the study.
+"""
+
+RELATIONSHIP:
+
+## NCT06043713
+Phase I Study of Autologous CD8+ and CD4+ Transgenic T Cells Expressing High Affinity KRASG12V Mutation-Specific T Cell Receptors in Participants With Metastatic Solid Tumors With KRAS G12V Mutations
+Conditions: cancer/carcinoma_non_small_cell_lung, cancer/colonic_neoplasms, cancer/pancreatic_neoplasms
+
+Inclusion criteria:
+"""
+* LEUKAPHERESIS: Diagnosis of metastatic solid tumor
+* LEUKAPHERESIS: Tissue confirmation of solid tumor. Confirmation of diagnosis must be or have been performed by internal pathology review of archival biopsy material or other pathologic material at Fred Hutch/University of Washington Cancer Consortium (UWMC)
+* LEUKAPHERESIS: HLA-A\*11:01 confirmed through HLA typing at a clinically accredited laboratory
+* LEUKAPHERESIS: Previously documented KRASG12V mutation in tumor or plasma cell-free deoxyribonucleic acid (cfDNA) specimens by polymerase chain reaction (PCR) or next-generation sequencing (NGS) test
+* LEUKAPHERESIS: Measurable disease by RECIST 1.1 criteria: Participants must have measurable disease, defined as at least one target lesion that can be measured in at least one dimension (longest diameter to be recorded) as ≥ 10 mm, unless lymph node in which case short axis must be ≥ 15 mm. Baseline imaging (for example, diagnostic CT chest/abdomen/pelvis and imaging of the affected extremity as appropriate), brain imaging (MRI or CT scan) if clinically indicated, must be obtained within 8 weeks of the first planned T cell infusion. MRI can be substituted for CT in participants unable to have CT contrast
+* LEUKAPHERESIS: Participants must be willing to undergo tumor biopsy for research purposes if safe and feasible at baseline (prior to first T cell infusion), 2-3 weeks after the first T cell infusion, and approximately 2 weeks +/- 1 week after the 2nd infusion (if applicable), if safe and feasible (these time windows may vary due to manufacturing or clinical reasons). Should there be no tumor tissue that is accessible for biopsy, participants will still be considered for participation, at the discretion of the investigator. Similarly, should an investigator determine that a biopsy cannot be performed safely for clinical reasons, biopsies may be cancelled or rescheduled. Patients can also refuse biopsies at any time after enrollment
+* LEUKAPHERESIS: Participants must be at least two weeks or five half-lives (for small molecules) from last systemic treatment: At least 2 weeks must have passed since any: immunotherapy (for example, T-cell infusions, immunomodulatory agents, interleukins, vaccines), or chemotherapy cancer treatment. At least five half-lives must have passed from treatment with small molecules or other investigational agents. There is no washout period for radiation, so long as radiated lesion is not the lesion being evaluated for RECIST measurements on the protocol. Bisphosphonates and denosumab are permitted
+* LEUKAPHERESIS: Participants must have progressed on or be intolerant to at least one lines of prior therapy including any targeted therapies indicated for participants with each of the tumor types eligible to enroll, as applicable
+* LEUKAPHERESIS: Patients with solid tumors harboring targetable molecular alterations including but not limited to EGFR mutations, ALK, ROS, NTRK fusions, microsatellite instability (MSI)-high, tumor mutational burden (TMB) high, BRAF v600 mutations, HER2 amplifications, must have been treated or refused treatment with applicable targeted therapies, as applicable
+* LEUKAPHERESIS: Fertile male and female participants must be willing to use an effective contraceptive method before, during, and for at least 4 months after the last A11KRASG12V-TCR infusion
+* LEUKAPHERESIS: 18 years or older at the time of enrollment
+* LEUKAPHERESIS: Capable of understanding and providing a written informed consent
+* LEUKAPHERESIS: Eastern Cooperative Oncology Group (ECOG) performance status of =\< 1
+
+  * No uncontrolled pleural effusion, pericardial effusion, or ascites requiring repeated drainage more than once every 28 days
+* LEUKAPHERESIS: No uncontrolled pleural effusion, pericardial effusion, or ascites requiring repeated drainage more than once every 28 days
+* LEUKAPHERESIS: Renal: Creatinine clearance \>= 50 ml/min by Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) or 24-hour urine clearance
+* LEUKAPHERESIS: Hepatic: Total bilirubin \< 2.0 mg/dL
+* LEUKAPHERESIS: Hepatic: Aspartate transferase (AST) and alanine transaminase (ALT) \< 5x upper limit of normal (ULN)
+* LEUKAPHERESIS: Hepatic: Participants with suspected Gilbert syndrome may be included if total bilirubin (Bili) \> 3 mg/dL but no other evidence of hepatic dysfunction
+* LEUKAPHERESIS: Cardiac: Participants 60 years of age or older are required to have left ventricular ejection fraction (LVEF) evaluation performed within 60 days prior to enrollment. LVEF may be established with echocardiogram or MUGA scan, and LVEF must be \>= 35%. Cardiac evaluation for other participants is at the discretion of the treating physician
+* LEUKAPHERESIS: Hematologic: Absolute neutrophil count (ANC) \>= 1000 cells/ mm\^3
+* LEUKAPHERESIS: Nutrition: Albumin \>= 3 g/dL
+* START OF TREATMENT: Measurable disease by RECIST 1.1 criteria: Participants must have measurable disease, defined as at least one target lesion that can be measured in at least one dimension (longest diameter to be recorded) as \>= 10 mm, unless lymph node in which case short axis must be \>= 15 mm. Baseline imaging (for example, diagnostic CT chest/abdomen/pelvis and imaging of the affected extremity as appropriate), brain imaging (MRI or CT scan) must be obtained within 8 weeks of the first planned T cell infusion. MRI can be substituted for CT in participants unable to have CT contrast
+* START OF TREATMENT: Participants must be willing to undergo tumor biopsy for research purposes if safe and feasible at baseline (prior to first T cell infusion), 2-3 weeks after the first T cell infusion, and approximately 2 weeks +/- 1 week after the 2nd infusion (if applicable), if safe and feasible (these windows may vary due to manufacturing or clinical reasons). Should there be no tumor tissue that is accessible for biopsy, participants will still be considered for participation, at discretion of the investigator. Similarly, should an investigator determine that a biopsy cannot be performed safely for clinical reasons, biopsies may be cancelled or rescheduled
+* START OF TREATMENT: Participants must be at least two weeks from last systemic treatment: At least 2 weeks must have passed since any: immunotherapy (for example, T-cell infusions, immunomodulatory agents, interleukins, vaccines), or chemotherapy cancer treatment. At least five half-lives must have passed from treatment with small molecules or other investigational agents. There is no washout period for radiation, so long as radiated lesion is not the lesion being evaluated for RECIST measurements on the protocol. Bisphosphonates and denosumab are permitted
+* START OF TREATMENT: ECOG performance status of =\< 1
+* START OF TREATMENT: Renal: Creatinine clearance \>= 50 ml/min by CKD-EPI or 24-hour urine clearance
+
+  * Exceptions may be at the discretion of the PI to allow participants with organ function affected by their organ-specific tumor involvement
+* START OF TREATMENT: Hepatic: Total bilirubin \< 2.0 mg/dL
+
+  * Exceptions may be at the discretion of the PI to allow participants with organ function affected by their organ-specific tumor involvement
+* START OF TREATMENT: AST and ALT \< 5x upper limit of normal (ULN)
+* START OF TREATMENT: Participants with suspected Gilbert syndrome may be included if total Bili \> 3 mg/dl but no other evidence of hepatic dysfunction
+* START OF TREATMENT: Pulmonary: =\< grade 1 dyspnea and oxygen saturation of arterial blood (SaO2) \>= 92% on ambient air. If pulmonary function tests (PFTs) are performed based on the clinical judgement of the treating physician, participants with forced expiratory volume in the first second (FEVI) \>= 50% of predicted and diffusing capacity of the lungs for carbon monoxide (DLCO) (corrected) \>= 40% of predicted will be eligible
+
+  * Exceptions may be at the discretion of the PI to allow participants with organ function affected by their organ-specific tumor involvement
+* START OF TREATMENT: Hematologic: ANC \>= 1000 cells/ mm\^3
+
+  * Exceptions may be at the discretion of the PI to allow participants with organ function affected by their organ-specific tumor involvement
+* START OF TREATMENT: Nutrition: Albumin \>= 3 g/dL
+
+  * Exceptions may be at the discretion of the PI to allow participants with organ function affected by their organ-specific tumor involvement
+* START OF TREATMENT: Participants with a history of chronic obstructive pulmonary disease (COPD), emphysema, or greater than 30 pack year smoking history should undergo PFTs and meet the following criteria:
+
+  * FEVI \>= 50% of predicted and DLCO (corrected) \>= 40% of predicted will be eligible
+"""
+
+RELATIONSHIP:
+
+## NCT06067451
+Impact of SMART GOAL Setting Protocol on Body Weight and Metabolic Parameters in Children and Adolescents With Prediabetes; a Randomized Clinical Trial.
+Conditions: metabolic/nutritional_and_metabolic_diseases, metabolic/pediatric_obesity, metabolic/prediabetic_state
+
+Inclusion criteria:
+"""
+1. Children between ages 10-18 years at baseline visit
+2. Children with BMI for age and sex ≥ 85th percentile at baseline visit
+3. Children with hemoglobin A1c 5.7% to 6.4% at baseline visit
+"""
+
+RELATIONSHIP:
+

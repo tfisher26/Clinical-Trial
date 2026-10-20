@@ -7408,14 +7408,6 @@ Link: https://clinicaltrials.gov/study/NCT06602843
 
 SUMMARY: Locally advanced esophageal cancer often returns after surgery. This study gives chemotherapy and immunotherapy before surgery, followed by radiation and immunotherapy afterward, to see whether this approach improves outcomes.
 
-## NCT06603246
-A Phase Ic, Open-label, Multicenter Study to Evaluate the Safety, Tolerability, and Activity of Inhaled GDC-6988 in Patients With Muco-obstructive Disease
-
-Intervention: : GDC-6988 — GDC-6988 will be administered using a dry powder inhalation (DPI) device.
-Link: https://clinicaltrials.gov/study/NCT06603246
-
-SUMMARY: Muco obstructive lung diseases like cystic fibrosis cause thick mucus that blocks the airways. This study tests GDC-6988, an inhaled dry powder medicine, to see whether it is safe and helps clear the airways.
-
 ## NCT06603324
 Efficacy and Safety of Paediatric CVVHD Treatment With MultiFiltratePRO: A Prospective Multicenter Study
 
@@ -9628,15 +9620,6 @@ Link: https://clinicaltrials.gov/study/NCT06640179
 
 SUMMARY:
 
-## NCT06640192
-Clinical Trial Phase II, Multicenter, Open-label, Randomized and Controlled Trial to Eliminate the Latent Reservoir of HIV-1 by Administering High Doses of Antiretroviral Drugs.
-
-Intervention: : Standardised triple antiretroviral therapy — patients have to use Triple therapy antiretroviral drugs on their usual regimen containing an integrase inhibitor. There are many types of drugs within this group, so they are not specified.
-: High doses Triple therapy antiretroviral drugs — dolutegravir 50 mg/12 h, maraviroc 300 mg/12 h and lamivudine 300 mg/12 h
-Link: https://clinicaltrials.gov/study/NCT06640192
-
-SUMMARY: HIV medicines control the virus but cannot clear the hidden reservoir of infected cells. This study tests high doses of antiretroviral drugs to see whether they shrink this latent reservoir.
-
 ## NCT06640283
 Dynamic Assessment of ctDNA in Patients With Cervical and Anal Canal Tumors to Optimize Follow-up and Clinical Outcomes in the Brazilian Unified Health System (SUS)
 
@@ -11808,17 +11791,6 @@ Intervention: : 400 mg CITRAPEAK® (glucosyl-hesperidin) supplementation — The
 Link: https://clinicaltrials.gov/study/NCT06672952
 
 SUMMARY:
-
-## NCT06673095
-ICEMAN (Intelligent Choice of Excision Margin): A Randomized Controlled Trial of Narrow Excision Versus Wide Excision for Adults With Primary Invasive Cutaneous Melanomas
-
-Intervention: : Biospecimen Collection — Undergo blood sample collection
-: Excision — Undergo narrow margin excision
-: Excision — Undergo wide margin excision
-: Survey Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT06673095
-
-SUMMARY: Melanoma of the skin is removed with a margin of healthy tissue, but how much is needed is unclear. This study compares narrower with wider excision margins to see whether narrower surgery is just as safe.
 
 ## NCT06673329
 Safety and Efficacy of Brodalumab in the Treatment of Immune-Related Adverse Events: A Pilot Study

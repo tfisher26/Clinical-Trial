@@ -8814,14 +8814,6 @@ Link: https://clinicaltrials.gov/study/NCT07754318
 
 SUMMARY:
 
-## NCT07754331
-A Phase I, Single-Centre, Randomised, Single-dose, Open-label, 2-period, 2-way Crossover Study to Assess the Effect of Haemodialysis on the Pharmacokinetics, Safety, and Tolerability of Balcinrenone/Dapagliflozin in Participants With Kidney Failure
-
-Intervention: : Balcinrenone/dapagliflozin — Participants will be receiving balcinrenone/ dapagliflozin before or after hemodialysis
-Link: https://clinicaltrials.gov/study/NCT07754331
-
-SUMMARY:
-
 ## NCT07754461
 A Phase III, Randomised, Double-blind, Parallel-group, 56-week Study, Evaluating the Efficacy and Safety of Survodutide (BI 456906), Compared With Placebo, in Participants With Type 2 Diabetes, as an Adjunct to Diet and Physical Activity Alone or in Combination With Either Oral Antidiabetic Medications or Insulin
 
@@ -12071,14 +12063,6 @@ Intervention: : Carbohydrate beverage — Participants ingest 210 mL of a \~15% 
 : Prolonged cycling exercise protocol — Each experimental session comprises 5 minutes of warm-up at 100 W, 155 minutes at 55% of maximal power output (Wmax) with the cycle ergometer set in hyperbolic mode, and a final 20 minutes of maximal self-paced effort in linear mode, followed by 5 minutes of low-load cool-down. The same protocol is applied in all three conditions, with load individually prescribed from the maximal incremental test performed at the pre-experimental visit.
 : Standardized breakfast — On the morning of each experimental session, after the baseline venous blood draw and following an overnight fast of 8 to 12 hours, participants consume a standardized breakfast providing 1.5 g of carbohydrate per kg of body mass, 40 g of protein and 7 g of fat. Participants are instructed to consume the entire meal. The same breakfast is provided before all three experimental sessions.
 Link: https://clinicaltrials.gov/study/NCT07792876
-
-SUMMARY:
-
-## NCT07792941
-A RANDOMISED, PHASE 1, OPEN-LABEL, SINGLE-DOSE, STUDY TO EVALUATE THE PHARMACOKINETICS AND TOLERABILITY OF TILREKIMIG IN HEALTHY PARTICIPANTS WHEN CO-MIXED WITH RHUPH20 AS A SUBCUTANEOUS INJECTION
-
-Intervention: : tilrekimig and rHuPH20 — subcutaneous injection
-Link: https://clinicaltrials.gov/study/NCT07792941
 
 SUMMARY:
 
@@ -18183,6 +18167,26 @@ A Study on Associations Between Multidimensional Human Phenotypic Traits and Hum
 
 Intervention: : Fingerprint Morphological Characteristics — Fingerprint images of all ten fingers will be collected using a high-resolution fingerprint scanner. Dermatoglyphic characteristics, including fingerprint pattern types (arch, loop, and whorl), total ridge counts, and ridge counts of individual fingers, will be quantitatively and qualitatively assessed. These naturally occurring phenotypic characteristics are observed and measured only, with no intervention assigned to participants.
 Link: https://clinicaltrials.gov/study/NCT07857798
+
+SUMMARY:
+
+## NCT03503331
+UAB Alzheimer's Disease Center Core Cohort - Imaging Substudy
+
+Intervention: : [C-11]PiB-PET/MRI — All study participants will undergo brain imaging with \[C-11\]PiB-PET/MRI. \[C-11\]PiB is a PET imaging agent used primarily to measure the amount of abnormal protein (called beta-amyloid) in the brain. The investigator will also use this tracer to evaluate regional cerebral blood flow.
+Link: https://clinicaltrials.gov/study/NCT03503331
+
+SUMMARY:
+
+## NCT04150042
+SHARON: Study of Metastatic Cancers in Patients Using Autologous Stems Cells and Potentiated Redox Cycling to Overcome Drug Resistance to Nitrogen Mustard Derivatives
+
+Intervention: : Melphalan — Intravenous melphalan (to be given in conjunction with the other listed drugs).
+: BCNU — Intravenous BCNU (to be given in conjunction with the other listed drugs).
+: Vitamin B12B — Intravenous vitamin B12b (to be given in conjunction with the other listed drugs).
+: Vitamin C — Intravenous vitamin C (to be given in conjunction with the other listed drugs).
+: Autologous Hematopoietic Stem Cells — After each cycle of chemotherapy, participants will receive an autologous hematopoietic stem cell infusion.
+Link: https://clinicaltrials.gov/study/NCT04150042
 
 SUMMARY:
 

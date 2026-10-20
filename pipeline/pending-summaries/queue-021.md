@@ -207,16 +207,6 @@ Link: https://clinicaltrials.gov/study/NCT07227324
 SUMMARY:
 
 
-## NCT06612970
-A Phase 1a, Randomized, Double-blind, Placebo-controlled, Single Dose-escalation Study to Evaluate the Safety, Tolerability and Pharmacokinetics of HB0056 in Adult Healthy Subjects.
-
-Intervention: : HB0056 — HB0056 Injection
-: Placebo — Placebo
-Link: https://clinicaltrials.gov/study/NCT06612970
-
-SUMMARY:
-
-
 ## NCT07144111
 A Phase 1, Open-Label, Single-Dose Study to Evaluate the Effect of Moderate or Severe Hepatic Impairment on the Pharmacokinetics of Inavolisib
 

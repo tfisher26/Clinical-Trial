@@ -4031,15 +4031,6 @@ Link: https://clinicaltrials.gov/study/NCT07429864
 SUMMARY:
 
 
-## NCT04512456
-Autonomic and Hemodynamic Responses to Muscular Ergoreflex Activation in People Living With HIV/AIDS: Effects of Exercise Training.
-
-Intervention: : Exercise training — Exercise training performed during 12 weeks, 3 sessions per week of 60 minutes of strength and aerobic exercises.
-Link: https://clinicaltrials.gov/study/NCT04512456
-
-SUMMARY:
-
-
 ## NCT05628922
 Response-adapted Modulation Therapy for Locally Advanced Nasopharyngeal Carcinoma Based on Circulating Epstein-Barr Virus DNA Level Post Induction Chemotherapy
 

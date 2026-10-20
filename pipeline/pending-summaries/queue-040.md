@@ -2378,15 +2378,6 @@ Link: https://clinicaltrials.gov/study/NCT07618572
 SUMMARY:
 
 
-## NCT06757842
-Acceptability and Feasibility of an 8-week In-person Mindfulness-Based Cognitive Therapy Program in a University Population: a Quasi-experimental Pilot Study
-
-Intervention: : Mindfulness in Students — The mindfulness intervention includes eight 90-minute group sessions held weekly at Universidad de los Andes, co-facilitated by two instructors. One leads the activities, while the other assists with technical aspects, monitors adverse events, and provides participant support. Participants will receive mindfulness worksheets and are required to practice at home for 15 minutes daily. They will have access to an online platform with audiovisual materials to guide their practice and will complete home practice logs online. Skills taught include sitting meditation (focused on breathing, thoughts, emotions, or sensations), body scan meditation, standing meditation, and mindfulness of daily activities. Group discussions will cover topics such as defining mindfulness, managing stress and pain, the difference between mindfulness and being on 'autopilot,' and how perceptions affect stress, as well as the relationship between pain and suffering, and the acceptance of unwanted experiences.
-Link: https://clinicaltrials.gov/study/NCT06757842
-
-SUMMARY:
-
-
 ## NCT07151768
 Prospective Validation of the Novel PVD-B65 Risk Score in Patients With Chronic Lung Disease and Pulmonary Hypertension
 
@@ -4246,16 +4237,6 @@ Prospective Multicenter Cohort to Discriminate Asthma Versus Chronic Obstructive
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07602192
-
-SUMMARY:
-
-
-## NCT06577337
-A Phase 1, Randomized, Double-Blind, Sponsor-Open, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Immunogenicity, and Pharmacokinetics of Single Ascending Doses of M5542 Administered Subcutaneously in Healthy Participants
-
-Intervention: : M5542 — Participants will receive a single ascending dose of M5542 subcutaneously on Day 1.
-: Placebo — Participants will receive a single dose of placebo matched to M5542 subcutaneously on Day 1.
-Link: https://clinicaltrials.gov/study/NCT06577337
 
 SUMMARY:
 

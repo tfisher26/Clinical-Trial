@@ -217,15 +217,6 @@ Link: https://clinicaltrials.gov/study/NCT06586268
 SUMMARY:
 
 
-## NCT04510766
-Molecular Characterization of Solid Tumors and Lymphomas to Optimize the Drug Development Process and Patients Enrollment in Early Phase Clinical Trials
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04510766
-
-SUMMARY:
-
-
 ## NCT06976528
 Understanding the Associations Between Romantic Relationship Conflict, Psychophysiological Responding and Alcohol Misuse Among Emerging Adults
 

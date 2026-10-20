@@ -281,14 +281,6 @@ Link: https://clinicaltrials.gov/study/NCT05364788
 
 SUMMARY:
 
-## NCT06028646
-Dynamic Airway CT is Diagnostic for Tracheomalacia in Children
-
-Intervention: : Dynamic Airway CT scan (DA-CT) — Patient will be asked to perform movements during the scan.
-Link: https://clinicaltrials.gov/study/NCT06028646
-
-SUMMARY:
-
 ## NCT05620186
 Registry Endovascular Training Curriculum PROSPECT for Surgical Trainees (PROficiency-based StePwise Endovascular Curricular Training Program)
 

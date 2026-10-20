@@ -377,14 +377,6 @@ Link: https://clinicaltrials.gov/study/NCT07000357
 
 SUMMARY:
 
-## NCT07000461
-Can Transcranial Doppler Predict Postoperative Cognitive Dysfunction After Cardiopulmonary Bypass
-
-Intervention: : Transcranial Doppler measurement of the middle cerebral artery — Transcranial Doppler examination was performed using a low-frequency (2-3.5 MHz) sector/cardiac probe through the transtemporal acoustic window. Middle cerebral artery (MCA) flow was identified in color Doppler mode at a depth of 3-7 cm with flow directed toward the probe. Pulsed-wave Doppler was applied, and peak systolic and end-diastolic velocities were recorded as the average of three measurements.
-Link: https://clinicaltrials.gov/study/NCT07000461
-
-SUMMARY:
-
 ## NCT07000526
 Inhaled Sedation in Critically Ill Patients: a Multicentre Randomized Clinical Trial
 
@@ -8699,14 +8691,6 @@ Link: https://clinicaltrials.gov/study/NCT07123623
 
 SUMMARY:
 
-## NCT07124091
-The Effect of a Micro-Appreciation Intervention (Three-Things Journal Application) on Caregiver Burden, Family Functioning, and Happiness Levels for Mothers of Children With Autism Spectrum Disorder
-
-Intervention: : Positive Event Writing Intervention — Mothers in the intervention group will be asked to write down three positive events each day for four weeks as part of a positive psychology journaling activity..
-Link: https://clinicaltrials.gov/study/NCT07124091
-
-SUMMARY:
-
 ## NCT07124117
 A Phase 1/2, Open-Label, Dose-Escalation and Cohort-Expansion Study Evaluating the Safety, Pharmacokinetics, and Therapeutic Activity of OBI-902 in Participants With Advanced Solid Tumors
 
@@ -10552,15 +10536,6 @@ Intervention: : Neuropsychological assessment tests for spatial neglect — Stan
 
 The purpose is to establish normative reference scores in healthy French-speaking adults according to age, sex, and professional qualification. No therapeutic intervention or patient population is involved.
 Link: https://clinicaltrials.gov/study/NCT07145970
-
-SUMMARY:
-
-## NCT07146646
-A Phase II Trial of Trifluridine/Tipiracil Plus Oxaliplatin in Patients With Advanced or Metastatic Biliary Tract Cancer Following First-Line Therapy
-
-Intervention: : Trifluridine/tipiracil — FTD/TPI will be taken by mouth on Days 1-5 of the 14-day treatment cycle. The starting does is 25mg/m2 twice per day.
-: Oxaliplatin — Oxaliplatin is given on Day 1 of each 14-day cycle. It is given intravenously (by IV) over 2 hours.
-Link: https://clinicaltrials.gov/study/NCT07146646
 
 SUMMARY:
 
@@ -14100,15 +14075,6 @@ Link: https://clinicaltrials.gov/study/NCT07192705
 
 SUMMARY:
 
-## NCT07192757
-Improving Speech in Noise Perception for Individuals With Age-related Hearing Loss
-
-Intervention: : transcutaneous auricular vagus nerve stimulation — active electrical stimulation applied to the cymba conchae of the left ear
-: Sham Control — electrical stimulation applied to a location on the ear not innervated by the auricular vagus
-Link: https://clinicaltrials.gov/study/NCT07192757
-
-SUMMARY:
-
 ## NCT07192783
 Effects of Lavender Oil Inhalation Applied to Patients With Primary Hypertension on Anxiety, Sleep Quality and Blood Pressure
 
@@ -17022,15 +16988,6 @@ Pulse Arrival Time as an Alternative Biomarker to Detect Lower-Extremity Periphe
 
 Intervention: : Segmental pulse arrival time assessment — A proprietary device has been developed to obtain segmental pulse arrival times in the arms and legs. Using this information, the propagation time of the pulse is being investigated as a biomarker to detect the presence of lower-extremity atherosclerosis. Furthermore, the impacts of aging on the biomarker will be assessed.
 Link: https://clinicaltrials.gov/study/NCT07226193
-
-SUMMARY:
-
-## NCT07226258
-A Randomized, Double-Blind, Placebo-Controlled, Single Dose Study to Assess the Safety and Efficacy of SL1002 Injectable for the Treatment of Knee Pain in Patients With Osteoarthritis of the Knee
-
-Intervention: : SL1002 — SL1002 injectable solution
-: Normal Saline — Normal Saline
-Link: https://clinicaltrials.gov/study/NCT07226258
 
 SUMMARY:
 

@@ -545,15 +545,6 @@ Link: https://clinicaltrials.gov/study/NCT05520346
 
 SUMMARY:
 
-## NCT05520762
-Hospital Airway Resuscitation Trial: A Cluster-Randomized, Pragmatic Trial
-
-Intervention: : A strategy of first choice supraglottic airway — See description in Arms section
-: A strategy of first choice endotracheal intubation — See description in Arms section
-Link: https://clinicaltrials.gov/study/NCT05520762
-
-SUMMARY: In hospital cardiac arrest often requires an airway to be placed quickly. This study compares a strategy of using a supraglottic airway first with other airway approaches.
-
 ## NCT05520788
 Ambispective Cohort Study of Precision Medicine for Primary Hepatobiliary Cancer Based on Next-generation Sequencing
 
@@ -2556,14 +2547,6 @@ Intervention: : NavDx(R) — NavDx® is a blood test that utilizes digital dropl
 Link: https://clinicaltrials.gov/study/NCT05606133
 
 SUMMARY:
-
-## NCT05606731
-A Hybrid Mobile Phone Family Intervention to Prevent Childhood Obesity
-
-Intervention: : Family-Based Childhood Obesity Intervention — The study will focus on the effectiveness of a community- and family-based intervention that will involve multiple family caregivers. The intervention will include in-person and mobile phone components focusing on Latino caregivers of young children, to support evidence-based and age appropriate dietary, media-viewing, and physical activity practices among 2- to 5-year old children.
-Link: https://clinicaltrials.gov/study/NCT05606731
-
-SUMMARY: Childhood obesity can lead to lasting health problems. This study tests a family based program delivered partly by mobile phone to prevent obesity in children.
 
 ## NCT05606809
 Comparison of Scores for Early Brain Damage Assessment at Intensive Care Unit Admission After Cardiac Arrest
@@ -5271,15 +5254,6 @@ Link: https://clinicaltrials.gov/study/NCT05701111
 
 SUMMARY:
 
-## NCT05701358
-A Randomized Trial of Physiology-guided vs Angiography-guided Non-culprit Lesion Complete Revascularization Strategies & an Observational Study of Optical Coherence Tomography in Patients With Acute MI & Multivessel Coronary Artery Disease
-
-Intervention: : Physiology-guided NCL PCI — For RFR, PCI will be performed as per local practice for all lesions with RFR ≤0.89. For FFR, PCI will be performed as per local practice for all NCLs with FFR ≤0.80.
-: Angiography-guided NCL PCI — PCI will be performed as per local practice
-Link: https://clinicaltrials.gov/study/NCT05701358
-
-SUMMARY:
-
 ## NCT05701527
 A Phase 1A/B Study To Evaluate The Safety And Tolerability Of EBC-129 As A Single Agent And In Combination With Pembrolizumab In Advanced Solid Tumours
 
@@ -7762,14 +7736,6 @@ Intervention: : IMPACT Program — care at 3 levels:
 (1) co-definition of the health situation, (2) co-planning of care and co-actions, and (3) co-assessment with the patient and with the team caring for him or her, and incorporating evidence-based measurement tools.
 : usal care — usual management with a Nurse in Advanced Practice.
 Link: https://clinicaltrials.gov/study/NCT05780762
-
-SUMMARY:
-
-## NCT05781152
-Clinical, Imaging, and Endoscopic Outcomes of Children Newly Diagnosed With Crohn's Disease
-
-Intervention: : Anti-TNF therapy — Use of anti-TNF therapy for children and adolescents with newly diagnosed Crohn's disease guided by a clinical decision support tool
-Link: https://clinicaltrials.gov/study/NCT05781152
 
 SUMMARY:
 
@@ -13334,15 +13300,6 @@ Link: https://clinicaltrials.gov/study/NCT05956951
 
 SUMMARY: Early schizophrenia is linked to changes in sleep brain waves called spindles. This study tests closed loop auditory stimulation during sleep to restore spindle activity.
 
-## NCT05957367
-A Master Protocol for the Multi-Cohort, Phase 1/2 Study of DCC-3116 in Combination With Anticancer Therapies in Participants With Advanced Malignancies
-
-Intervention: : Inlexisertib — Oral Tablet Formulation
-: Ripretinib — Oral Tablet Formulation
-Link: https://clinicaltrials.gov/study/NCT05957367
-
-SUMMARY:
-
 ## NCT05957523
 Effects of Remote Ischemic Preconditioning on Peripheral Blood Biomarkers in Healthy Adults (EMINENT): a Single-centre, Open-label, Randomized Controlled Clinical Trial
 
@@ -15773,14 +15730,6 @@ International Active Surveillance Study: Native Estrogen Estetrol (E4) Safety St
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06028555
-
-SUMMARY:
-
-## NCT06028646
-Dynamic Airway CT is Diagnostic for Tracheomalacia in Children
-
-Intervention: : Dynamic Airway CT scan (DA-CT) — Patient will be asked to perform movements during the scan.
-Link: https://clinicaltrials.gov/study/NCT06028646
 
 SUMMARY:
 

@@ -13236,15 +13236,6 @@ Link: https://clinicaltrials.gov/study/NCT07420400
 
 SUMMARY:
 
-## NCT07420582
-The Effect of Antegrade Pump Blood Reinfusion Via Crystalloid "Chase" Technique on Postoperative Transfusion Requirements in Adult Cardiac Surgery Patients: A Prospective Observational Study
-
-Intervention: : Antegrade Pump Blood Reinfusion — Adult patients undergoing cardiac surgery with cardiopulmonary bypass in whom antegrade pump blood reinfusion is performed at the end of bypass using the crystalloid chase technique, as part of routine clinical practice.
-: No Anterograde Pump Blood Reinfusion — Adult patients undergoing cardiac surgery with cardiopulmonary bypass in whom anterograde pump blood reinfusion is not performed at the end of bypass. Standard institutional clinical management is applied.
-Link: https://clinicaltrials.gov/study/NCT07420582
-
-SUMMARY:
-
 ## NCT07420829
 Perinatal, Cognitive, Linguistic, and Social-emotional Correlates of Developmental Delay in Polish Preschool Children From a Biopsychosocial Perspective
 
@@ -16413,14 +16404,6 @@ Comparison of Efficacy and Safety of Manual Syringing Versus Pneumatic Pressure 
 Intervention: : Manual syringing — Participants in this arm receive blood products administered manually by clinical staff using 20 mL syringes through 18-gauge peripheral and 16-gauge external jugular cannulae
 : pneumatic pressure bag — Participants in this arm receive blood products administered using a pneumatic pressure bag inflated to a constant 300 mmHg through 18-gauge peripheral and 16-gauge external jugular cannulae
 Link: https://clinicaltrials.gov/study/NCT07466719
-
-SUMMARY:
-
-## NCT07466745
-Autus Size-Adjustable Valve for Surgical Pulmonary Valve Replacement Continued Access Study
-
-Intervention: : Pulmonary Valve Replacement Surgery — Pulmonary valve replacement surgery with the Autus Valve
-Link: https://clinicaltrials.gov/study/NCT07466745
 
 SUMMARY:
 

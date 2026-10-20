@@ -605,15 +605,6 @@ Link: https://clinicaltrials.gov/study/NCT07002814
 SUMMARY:
 
 
-## NCT06036056
-NMR - Based Metabolomics Approach to Improve Clinical Management in Patients With Respiratory Failure
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06036056
-
-SUMMARY:
-
-
 ## NCT04524637
 The Utility of Thromboelastography for Predicting the Risk of Coagulation-Related Damages Secondary to Traumatic Brain Injury
 

@@ -3149,15 +3149,6 @@ Link: https://clinicaltrials.gov/study/NCT06850298
 SUMMARY:
 
 
-## NCT05816083
-Development and Evaluation of a Virtual Reality Tool for At-Risk Trauma-Exposed Young People
-
-Intervention: : Virtual Reality Tool — Virtual Reality Tool for At-Risk Trauma-Exposed Young People
-Link: https://clinicaltrials.gov/study/NCT05816083
-
-SUMMARY:
-
-
 ## NCT06602856
 The Benefits of Pre-hospital POCUS Examinations in Air Rescue
 

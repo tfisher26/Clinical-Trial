@@ -1630,49 +1630,6 @@ Link: https://clinicaltrials.gov/study/NCT04511013
 
 SUMMARY: Melanoma with a BRAF mutation that has spread to the brain is hard to treat. This study compares two targeted pills plus an immunotherapy drug with a combination of two immunotherapy drugs given by IV.
 
-## NCT04511039
-A Phase I Study of Trifluridine/ Tipiracil Plus the Poly (ADP) Ribose Polymerase Inhibitor Talazoparib in Advanced Cancers
-
-Intervention: : Trifluridine and Tipiracil Hydrochloride — Given PO
-: Talazoparib Tosylate — Given PO
-Link: https://clinicaltrials.gov/study/NCT04511039
-
-SUMMARY: Advanced cancers often stop responding to standard treatments. This study tests a chemotherapy pill combined with a PARP inhibitor pill, which blocks a protein cancer cells use to repair DNA.
-
-## NCT04511078
-Phase II Open-Label Study Evaluating Panitumumab-IRDye800 as an Optical Imaging Agent to Detect Head and Neck Cancer During Surgical Procedures
-
-Intervention: : Panitumumab-IRDye800 — single dose infusion of panitumumab-IRDye800CW
-Link: https://clinicaltrials.gov/study/NCT04511078
-
-SUMMARY:
-
-## NCT04511234
-Randomized Controlled Trial of First Sirolimus Coated Balloon Versus Standard Balloon Angioplasty in The Treatment of Superficial Femoral Artery and Popliteal Artery Disease
-
-Intervention: : MagicTouch PTA sirolimus drug coated balloon (DCB) — For participants randomised to MagicTouch PTA sirolimus DCB, following successful plain balloon angioplasty of the arterial lesion, (defined as \<30% residual stenosis after treatment at rated burst pressure of the angioplasty balloon), MagicTouch PTA sirolimus coated balloon will be applied at the lesion after appropriate sizing using the diameter of the plain balloon angioplasty.
-: POBA standard balloon — For participants randomised to the standard balloon angioplasty group, a placebo standard balloon which is identical to the SCB will also be applied at the lesion after appropriate sizing using the diameter of the plain balloon angioplasty.
-Link: https://clinicaltrials.gov/study/NCT04511234
-
-SUMMARY: Narrowed arteries in the thigh and behind the knee can cause leg pain and poor blood flow. This study compares a balloon coated with the drug sirolimus with a standard balloon for opening these arteries.
-
-## NCT04512716
-Iomab-ACT: A Pilot Study of 131-I Apamistamab Followed by CD19-Targeted CAR T-Cell Therapy for Patients With Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia or Diffuse Large B-Cell Lymphoma
-
-Intervention: : 131-I Apamistamab — Patients will receive 131-I apamistamab 5-7 days prior to a single infusion of 1x10\^6 19-28z CAR T-cells/kg for those in the B-ALL cohort, or 2x10\^6 19-28z CAR T-cells/kg, for those in the DLBCL. 131-I apamistamab may be administered inpatient or outpatient at the discretion and judgment of the treating investigators.
-: CAR T-cell — 19-28z CAR T-cells will be administered inpatient as a single infusion of 1x10\^6 19-28z CAR T-cells/kg, for those in the B-ALL cohort, or 2x10\^6 19-28z CAR T-cells/kg, for those in the DLBCL cohort. Patients will be observed inpatient for a minimum of 7 days (longer as clinically indicated and at the discretion of the treating physician).
-Link: https://clinicaltrials.gov/study/NCT04512716
-
-SUMMARY: Relapsed or refractory B cell leukemia and lymphoma are hard to treat. This pilot study tests a radioactive antibody given before CD19 targeted CAR T cell therapy.
-
-## NCT04512755
-AIMS Medical Outcomes Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04512755
-
-SUMMARY:
-
 ## NCT04513288
 ICITRU : Randomized Trial of Immunonutrition With L-citrulline in Patients Hospitalized in Intensive Care for Sepsis or Septic Shock
 
@@ -2570,14 +2527,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT04603404
 
 SUMMARY:
-
-## NCT04603859
-When to INDuce for OverWeight? - a Randomised Controlled Trial (WINDOW)
-
-Intervention: : Elective induction of labor at 39 gestational weeks and 0 to 3 days — Elective induction of labor (eIOL) according to local policies
-Link: https://clinicaltrials.gov/study/NCT04603859
-
-SUMMARY: Pregnant women with overweight or obesity face extra risks around birth. This study tests planned induction of labor at 39 weeks of pregnancy for women with overweight, to see if it improves outcomes.
 
 ## NCT04604509
 PISCES I: Precision Implemented Smoking Cessation Evaluation Study
@@ -3875,16 +3824,6 @@ A Prospective Observational Cohort Study in Chinese Patients With Primary Intrac
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04707105
-
-SUMMARY:
-
-## NCT04707885
-Clinical Utility of Residual Hearing in the Cochlear Implant Ear
-
-Intervention: : Electrocochleography — The use of ECochG monitoring will be employed. This will be conducted intraoperatively during the entire portion of the CI electrode insertion component.
-
-For the purposes of this clinical trial, the stimulus will consist of a 500 Hz tone burst presented at \~105-110 dB SPL. This was chosen due to the time and resource limitations in the operating room. Hence, the surgical team can only utilize a very limited dataset for intraoperative decision making and previous studies have demonstrated that 500 Hz stimulation offers the most robust, reliable, and useful ECochG signal during electrode insertions.
-Link: https://clinicaltrials.gov/study/NCT04707885
 
 SUMMARY:
 
@@ -7839,14 +7778,6 @@ Link: https://clinicaltrials.gov/study/NCT05016219
 
 SUMMARY: Alzheimer's disease often disrupts sleep and daily rhythms. This study tests rhythmic light therapy, including narrowband blue light, to align the body clock and brain rhythms.
 
-## NCT05016817
-Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for the Treatment of Idiopathic Pulmonary Fibrosis
-
-Intervention: : AlloRx — cultured allogeneic adult umbilical cord derived mesenchymal stem cells
-Link: https://clinicaltrials.gov/study/NCT05016817
-
-SUMMARY: Idiopathic pulmonary fibrosis causes scarring of the lungs that gets worse over time. This study tests the safety of IV infusions of stem cells grown from donated umbilical cord tissue.
-
 ## NCT05016908
 Extracellular RNA Biomarkers of Duchenne Muscular Dystrophy
 
@@ -7886,14 +7817,6 @@ Intervention: : Vitamin K1 — Vitamin K1 capsule (10mg) to be administered 3 ti
 Link: https://clinicaltrials.gov/study/NCT05018221
 
 SUMMARY: Calciphylaxis is a rare, painful condition in people on dialysis where calcium builds up in small blood vessels of the skin. This study tests vitamin K1 capsules and magnesium citrate given after dialysis sessions.
-
-## NCT05018845
-Safety of Cultured Allogeneic Adult Umbilical Cord Derived Mesenchymal Stem Cell Intravenous Infusion for the Treatment of Chronic Kidney Disease.
-
-Intervention: : AlloRx — cultured allogeneic adult umbilical cord derived mesenchymal stem cells
-Link: https://clinicaltrials.gov/study/NCT05018845
-
-SUMMARY: Chronic kidney disease slowly reduces the kidneys' ability to filter the blood. This study tests the safety of IV infusions of stem cells grown from donated umbilical cord tissue.
 
 ## NCT05019716
 A Phase 1 Study of the Bromodomain Inhibitor ZEN003694 in Combination With Platinum-based Chemotherapy in Patients With NUT Carcinoma
@@ -11703,15 +11626,6 @@ Link: https://clinicaltrials.gov/study/NCT05259605
 
 SUMMARY:
 
-## NCT05259709
-A First-in-Human Study of 89Zr-DFO-REGN5054 (Anti-CD8) Positron Emission Tomography in Patients With Solid Malignancies Treated With Cemiplimab
-
-Intervention: : 89Zr˗DFO˗REGN5054 — Administered by intravenous (IV) infusion during Part A and B.
-: cemiplimab — Administered by IV infusion every 3 weeks (Q3W).
-Link: https://clinicaltrials.gov/study/NCT05259709
-
-SUMMARY:
-
 ## NCT05260177
 ALZLIGHT Stage III - Study on the Effect of 40 Hz Non-Invasive Light Therapy System
 
@@ -11785,15 +11699,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05262543
 
 SUMMARY:
-
-## NCT05263284
-A Phase 1 Trial of 8-Chloro-Adenosine in Combination With Venetoclax in Patients With Relapsed/Refractory Acute Myeloid Leukemia
-
-Intervention: : 8-Chloroadenosine — Given IV
-: Venetoclax — Given PO
-Link: https://clinicaltrials.gov/study/NCT05263284
-
-SUMMARY: Acute myeloid leukemia that has come back or stopped responding is hard to treat. This study tests 8-chloro-adenosine, given by IV, combined with the pill venetoclax.
 
 ## NCT05263674
 Fast Acute Sedation at Intensive Care vs. High-dose i.v. Anti-seizure Medication for Treatment of Non-convulsive Status Epilepticus (FAST-trial)

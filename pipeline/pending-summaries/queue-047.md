@@ -1379,16 +1379,6 @@ Link: https://clinicaltrials.gov/study/NCT06771908
 
 SUMMARY:
 
-## NCT06772051
-Short Dentin Etching With a Universal Adhesive: Two-Year Double-Blind Trial Comparing Etching Strategies and Durations
-
-Intervention: : Resin composite restoration bonded using universal adhesive in etch and rinse mode (15 seconds etching) — Resin composite restoration bonded using universal adhesive in etch and rinse mode (15 seconds etching)
-: Resin composite restoration bonded using universal adhesive in etch and rinse mode (5 seconds etching) — Resin composite restoration bonded using universal adhesive in etch and rinse mode (5 seconds etching)
-: Resin composite restoration bonded using universal adhesive in self-etch mode — Resin composite restoration bonded using universal adhesive in self-etch mode
-Link: https://clinicaltrials.gov/study/NCT06772051
-
-SUMMARY:
-
 ## NCT06772194
 Taiwan Post-Stroke Disability Study (T-PODS): A Survey of Multiple Post-Stroke Disability Domains Among Stroke Patients in Taiwan
 
@@ -4449,14 +4439,6 @@ Intervention: : Computed Tomography — Undergo PET/CT
 : Flotufolastat F-18 Gallium — Given IV
 : Positron Emission Tomography — Undergo PET/CT
 Link: https://clinicaltrials.gov/study/NCT06813898
-
-SUMMARY:
-
-## NCT06814080
-Residual Gastric Content and GLP-1
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06814080
 
 SUMMARY:
 
@@ -12834,15 +12816,6 @@ Smart Monitoring Assessing Spasticity-related Health - A Prospective Multiple Sc
 
 Intervention: : Device: Smartwatch (Withings Scanwatch) — All-day monitoring of patients via smartwatch
 Link: https://clinicaltrials.gov/study/NCT06937723
-
-SUMMARY:
-
-## NCT06937749
-A Randomized, Double-blind, Placebo-controlled Phase 2 Study Evaluating the Efficacy and Safety of IBI362 in Participants With Metabolic Dysfunction-Associated Steatohepatitis (MASH)
-
-Intervention: : Placebo — Placebo administered subcutaneously (SC) once a week.
-: IBI362 — IBI362 administered subcutaneously (SC) once a week.
-Link: https://clinicaltrials.gov/study/NCT06937749
 
 SUMMARY:
 

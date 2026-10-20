@@ -927,16 +927,6 @@ Link: https://clinicaltrials.gov/study/NCT06807203
 SUMMARY:
 
 
-## NCT07629232
-Feasibility Study - Measuring Corneal Parameters
-
-Intervention: : Investigational device — Measurement of corneal parameters
-: Comparator device — Measurement of corneal parameters
-Link: https://clinicaltrials.gov/study/NCT07629232
-
-SUMMARY:
-
-
 ## NCT06668038
 Evaluation of the Contribution of Multicenter Expertise (Radiotherapists and Physicists) and Use of Deformable Fusion Software Allowing the Accumulation of Doses in Equivalent Dose 2 Grays for Re-irradiations With Curative Intent
 
@@ -1406,15 +1396,6 @@ Predictive Factors Associated With Functional Decline and Quality of Life Declin
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07412379
-
-SUMMARY:
-
-
-## NCT06763445
-Exploring the Relationship Between Caring Experience, Perceived Behavioral Control, and Caring Intention Among University Students
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06763445
 
 SUMMARY:
 

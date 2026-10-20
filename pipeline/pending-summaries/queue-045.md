@@ -5461,14 +5461,6 @@ Link: https://clinicaltrials.gov/study/NCT06214065
 
 SUMMARY: People with autism can have trouble understanding others' thoughts. This study tests transcranial magnetic stimulation of the temporoparietal junction to change related brain activity.
 
-## NCT06214611
-Adaptive Radiotherapy in the Treatment of Patients With a Histologically Confirmed Malignant Tumor in the Head and Neck Region: Prospective Validation of ART in Patients With HNT (Prospektive Validierung Der ART Bei Patientinnen Und Patienen Mit Kopf-Hals Tumoren,)
-
-Intervention: : Adaptive Radiotherapy — Adaptive Radiotherapy in the head and neck region
-Link: https://clinicaltrials.gov/study/NCT06214611
-
-SUMMARY:
-
 ## NCT06214949
 Personalized Repetitive Transcranial Magnetic Stimulation (PrTMS) as a Treatment for Chronic Neck Pain
 

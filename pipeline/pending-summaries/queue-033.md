@@ -2,15 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT06650306
-The Impact of Soft Contact Lenses on the Corneal Neuromediators and Optical Quality in High Myopia Prior to SMILE
-
-Intervention: : This study does not involve any interventions — This study does not involve any interventions
-Link: https://clinicaltrials.gov/study/NCT06650306
-
-SUMMARY:
-
-
 ## NCT06702111
 Allogeneic Hematopoietic Stem Cell Transplant (HSCT) in Adults: Clinical Outcome and Complications
 
@@ -549,15 +540,6 @@ Hypoxia Profiles Identified in Term Newborns With Cord pH <7.00
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07333599
-
-SUMMARY:
-
-
-## NCT06707792
-Investigation of Validity and Reliability of 6 Minute Stepper Test in Kidney Transplant Recipients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06707792
 
 SUMMARY:
 
@@ -3685,15 +3667,6 @@ Aggression and Social-Emotional Information Processing: Neural Correlates During
 Intervention: : Alcohol (Ethanol) — 95% Ethanol diluted in Grape-flavored drink
 : Placebo — Grape-flavored drink
 Link: https://clinicaltrials.gov/study/NCT06118580
-
-SUMMARY:
-
-
-## NCT07309211
-A Multi-centre, Retrospective Study Assessing Durvalumab as Consolidation Treatment for Patients With Limited-stage Small Cell Lung Cancer (LS-SCLC) Following by Sequential Chemoradiotherapy (sCRT)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07309211
 
 SUMMARY:
 

@@ -760,15 +760,6 @@ Link: https://clinicaltrials.gov/study/NCT06195527
 SUMMARY:
 
 
-## NCT07122921
-Sleep Disturbance in Hong Kong Children With Cancer: A Cross-Sectional Study Comparing Healthy Counterparts and Children With Other Chronic Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07122921
-
-SUMMARY:
-
-
 ## NCT07301814
 Clinical Application of PET Imaging Targeting CLDN18.2 in Malignant Tumors
 
