@@ -145479,3 +145479,1488 @@ CATEGORY_LABEL:
 SUBCATEGORY:
 SUBCATEGORY_LABEL:
 
+## GVHD (Acute or Chronic)
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Information-motivation-behavior Skills Model
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Systolic Bundle Branch Block, Left
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Sub-health Status
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Healthy Vollunteer
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Influenza Immunization
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Aggressive B-cell Non-Hodgkin Lymphoma (aNHL)
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Unilateral
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Recent
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Postoperative Pain After Spinal Surgery
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Unfit, New-diagnosis DLBCL
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## ACUTE SINUSITIS
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Exercise-Induced Muscle Damage
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Elevated Caregiver Strain
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Acute Lymphoblastic Leukemia, Childhood
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Pregnancy Complicated With Intrauterine Adhesion
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Pain Trajectories
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Biliary Track Cancer
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Non-Nutritive Sweetener
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Patients With Severe Corneal Melting
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Ulnar Neuropathy at Elbow
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## HER2 Expression
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Isolated Extremity Fracture
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Prophylactic SBRT
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Pancreatic Leak
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## EEG Power Spectra
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Mesenchymal Stem Cell
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Cisplatin-induced Hearing Loss
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Cisplatin Ototoxicity
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Inner Ear Hearing Loss
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Acute Graft Versus Host Disease in Intestine
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Smoking Status
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Fasting Glucose
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Urinary Albumin-to-Creatinine Ratio
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Safety in Healthy Adults
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Uncontrolled or Resistant Hypertension
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## AIDS-Related Kaposi Sarcoma
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Skin Kaposi Sarcoma
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Heart Failure New York Heart Association Class III
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Heart Failure New York Heart Association (NYHA) Class II
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Pregnancy at Increased Risk of Fetal Congenital Anomalies
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Thoracic Spinal Cord Injury
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Pulpectomy
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Root Canal Obturation
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Fish Oils
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Zone II Flexor Tendon Injury
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Grade 2 IDH1-mutant Glioma
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Grade 3 IDH1-mutant Glioma
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Oligodendroglioma IDH-1 Mutant and 1/p19q-codeleted
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Astrocytoma IDH Mutant Grade 3
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Astrocytoma IDH Mutant Grade 2
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Endotracheal Aspiration
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Tracheostomy Patients
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Crown
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
+## Current OBGYN Attending, Resident, or Fellow at University Hospitals
+(no MeSH match)
+
+Existing categories — reuse one of these ids if it fits:
+- cardiovascular ("Heart & Cardiovascular")
+- metabolic ("Metabolic & Weight")
+- other ("Other Conditions")
+- eye ("Eye & Vision")
+- blood ("Blood & Lymphatic")
+- cancer ("Cancer")
+- infectious ("Infectious Disease")
+- renal ("Kidney & Urologic")
+- mental_health ("Mental Health")
+- neurological ("Neurological")
+- skin ("Skin & Connective Tissue")
+- digestive ("Digestive & GI")
+- immune ("Immune System & Autoimmune")
+- respiratory ("Respiratory")
+- musculoskeletal ("Musculoskeletal")
+- genetic ("Genetic & Congenital")
+- ent ("Ear, Nose & Throat")
+
+CATEGORY:
+CATEGORY_LABEL:
+SUBCATEGORY:
+SUBCATEGORY_LABEL:
+
