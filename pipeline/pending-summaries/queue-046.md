@@ -1650,14 +1650,6 @@ Link: https://clinicaltrials.gov/study/NCT06495073
 
 SUMMARY:
 
-## NCT06495632
-Scheduled or As Needed Regimen? a Pilot Feasibility Study on Multimodal Pain Control and Post-Operative Pain
-
-Intervention: : Motrin and narcotic — See described earlier
-Link: https://clinicaltrials.gov/study/NCT06495632
-
-SUMMARY: After surgery, pain medicines can be given on a fixed schedule or only when needed. This study compares scheduled and as needed doses of ibuprofen and opioids to see which gives better pain control.
-
 ## NCT06495983
 Dynamic Hormone Profiling and Multimodal Data Capture in Primary Aldosteronism
 
@@ -13577,18 +13569,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06698146
 
 SUMMARY:
-
-## NCT06698172
-Analysis of Motor Performance Improvement Following Visual Rehabilitation Treatment in Individuals with Visual Field Defects Due to Acquired Brain Injury
-
-Intervention: : Virtual Reality rehabilitation — The study includes 12 weekly 45-minute visual rehabilitation sessions using a Virtual Reality device with Visionary Sport software. Originally designed for sports visual training, this software features gamified exercises to improve visual response times under professional supervision. Activities include games to enhance fixation, ocular motility, peripheral vision, and vergence.
-
-The "Peripheral Attention" activity trains reaction times to static stimuli perceived in the peripheral retina, adjustable to the patient's visual field defect. Stimuli can be placed at 10, 20, or 30 degrees in the peripheral field. The VR headset (Vive Focus 3) includes an eye tracker to monitor and adapt stimuli based on patient performance.
-
-Patients also perform 30 minutes of daily exercises at home, using proprietary software and Tobii 4C and 5C eye-tracking devices for ocular monitoring.
-Link: https://clinicaltrials.gov/study/NCT06698172
-
-SUMMARY: Damage to the brain can cause loss of part of the visual field, affecting movement and daily tasks. This study tests 12 weeks of virtual reality visual rehabilitation to see whether it improves motor performance.
 
 ## NCT06698250
 Phase II Trial of Zanzalintinib (XL-092) in Combination With Durvalumab Plus Tremelimumab in Unresectable Hepatocellular Carcinoma (ZENOBIA)

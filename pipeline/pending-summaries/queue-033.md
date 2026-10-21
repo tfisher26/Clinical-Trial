@@ -4484,15 +4484,6 @@ Link: https://clinicaltrials.gov/study/NCT06309433
 SUMMARY:
 
 
-## NCT06702774
-Active Case Finding Using Mobile Vans Equipped With Artificial Intelligence Aided Radiology Tests and Sputum Collection for Rapid Diagnostic Tests to Reduce Tuberculosis Prevalence Among High-risk Populations in Rural China: a Pragmatic Cluster Randomized Controlled Trial
-
-Intervention: : Active case finding — Villagers will be informed through public announcements and social workers. Before the campaign, social workers and village doctors will recruit participants and obtain consent through door-to-door visits. A mobile van equipped with an AI-assisted digital radiography (DR) machine and a refrigerator will visit villages on agreed dates. Participants will complete a TB symptom questionnaire and undergo DR screening. Those with TB symptoms or abnormal DR results will provide on-site sputum samples and collect additional morning and night samples. Trained staff will ensure proper collection and offer nebulizer support if needed. Samples will be transported daily to hospitals for testing using smear, culture, and GeneXpert. Participants with negative bacteriological results but abnormal findings will be referred for further clinical assessment.
-Link: https://clinicaltrials.gov/study/NCT06702774
-
-SUMMARY:
-
-
 ## NCT07177781
 Longer-term Effects of Wild Blueberry Consumption on Brain Function in Older Men and Women
 
@@ -4687,16 +4678,6 @@ Gut Microbiota Profiling in Patients With Monoclonal Gammopathy: Implications fo
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06690593
-
-SUMMARY:
-
-
-## NCT07280936
-A Randomized, Double-blind, Placebo-controlled, Dose-escalation Phase I Study on the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of SHR-2906 Injection in Healthy Subjects With a Single Dose and in Obese Patients With Multiple Doses
-
-Intervention: : SHR-2906 Injection — SHR-2906 injection, in different doses.
-: SHR-2906 Injection Placebo — SHR-2906 injection placebo.
-Link: https://clinicaltrials.gov/study/NCT07280936
 
 SUMMARY:
 

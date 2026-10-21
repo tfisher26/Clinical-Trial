@@ -3189,14 +3189,6 @@ Link: https://clinicaltrials.gov/study/NCT05339360
 
 SUMMARY:
 
-## NCT04514445
-Bicuspid aoRtic vAlVe gEnetic Research - BRAVE Study
-
-Intervention: : Observational
-Link: https://clinicaltrials.gov/study/NCT04514445
-
-SUMMARY:
-
 ## NCT07133529
 Decision-making and Food Intake ("Buffet Study")
 

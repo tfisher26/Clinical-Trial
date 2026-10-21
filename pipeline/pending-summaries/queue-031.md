@@ -67,17 +67,6 @@ Link: https://clinicaltrials.gov/study/NCT06069505
 SUMMARY:
 
 
-## NCT05525039
-Dissecting the Therapeutic Mechanism of an Effective Combination Treatment Targeting Neuromuscular Junction Dengeneration and Myosteatosis to Combat Sarcopenia
-
-Intervention: : Low-magnitude High-frequency Vibration — 0.3g, 35Hz, 20mins/day, at least 3 times/week
-: β-hydroxy β-methylbutyrate (HMB) supplement — Oral nutritional HMB supplement at 3g/day
-: Protein supplement — Daily protein supplement intake
-Link: https://clinicaltrials.gov/study/NCT05525039
-
-SUMMARY:
-
-
 ## NCT07606339
 Real-world, International, Non-interventional Study of Guselkumab Persistence in Patients With Crohn's Disease and Ulcerative Colitis
 

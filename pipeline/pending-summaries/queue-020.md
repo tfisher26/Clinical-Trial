@@ -2841,16 +2841,6 @@ Link: https://clinicaltrials.gov/study/NCT07491185
 SUMMARY:
 
 
-## NCT07332806
-Impact of Site of Tracheal Extubation on Operating Room Efficiency During Robot-assisted Surgery: a Randomized Trial
-
-Intervention: : Extubation in post-anesthesia care unit (PACU) — At the end of surgery, patients will be transfered from OR to PACU with endotracheal intubation and then extubated in PACU.
-: Extubation in operating room (OR) — At the end of surgery, patients will be extubated in OR and then transfered from OR to PACU.
-Link: https://clinicaltrials.gov/study/NCT07332806
-
-SUMMARY:
-
-
 ## NCT05908461
 The Early Childhood Friendship Project: Testing Key Mechanisms and the Moderating Role of Physiological Reactivity
 

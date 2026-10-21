@@ -102808,3 +102808,58 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04557449
+A PHASE 1/2A STUDY EVALUATING THE SAFETY, TOLERABILITY, PHARMACOKINETICS, PHARMACODYNAMICS, AND ANTI-TUMOR ACTIVITY OF PF-07220060 AS A SINGLE AGENT AND AS PART OF COMBINATION THERAPY IN PARTICIPANTS WITH ADVANCED SOLID TUMORS
+Conditions: cancer/colorectal_neoplasms, cancer/liposarcoma, cancer/prostatic_neoplasms
+
+Inclusion criteria:
+"""
+* Part 1: Breast Cancer (BC)
+
+  * Refractory Hormone Receptor Positive (HR+), Human Epidermal Growth Factor Receptor 2 Negative (HER2-) BC
+  * Part 1A/Part 1D/Part 1E also include: Refractory HR-positive/HER2-positive BC
+* Part 1: Tumors other than BC (Part 1A/Part 1D/Part 1E): NSCLC, prostate, CRC, liposarcoma, or tumors with previously confirmed CDK4 or CCND1 amplification according to local standard tests
+* Part 1F: prostate cancer
+* Part 1G: HR-positive/HER2-negative BC
+* Part 2A, 2B, 2C, 2E, and 2F: HR-positive/HER2-negative BC
+* Part 1D: metastatic castration resistant prostate cancer
+* Giredestrant Combination Cohort: ER-positive/HER2-negative BC
+* Prior systemic Treatment
+
+  * Part 1: HR-positive/HER2-negative BC
+
+    * At least 1 line of SOC, including CD4/6 inhibitor therapy for advanced or metastatic disease, or if CDK4/6 inhibitors are not considered appropriate in the opinion of the investigator
+    * HR-positive/HER2-positive BC (Parts 1A/1D/1E): at least 1 prior treatment of approved HER2 targeting therapy
+    * Tumors other than BC (Parts 1A/1D/1E/1F): tumor that is resistant to at least 2 lines of SOC for advanced or recurrent disease or for which no standard therapy is available
+  * Part 2A and 2E: at least 1 line of standard of care (including prior CDK4/6i) for advanced/metastatic disease; Prior chemo is allowed; Prior fulvestrant, mTOR and/or PI3K inhibitors are allowed
+  * Part 2B: no prior systemic anti-cancer therapies for advanced/metastatic BC
+  * Part 2C:
+
+    * Progressed during treatment or within 12 months of completion of adjuvant therapy with an aromatase inhibitor if postmenopausal, or tamoxifen if pre or perimenopausal, or
+    * Progressed while on or within 1 month after the endo the prior aromatase inhibitor therapy for advanced/metastatic BC if postmenopausal or prior endocrine treatment for advanced/metastatic BC if pre or perimenopausal
+    * One previous line of chemotherapy for advanced/metastatic disease is allowed in addition to endocrine therapy
+  * Part 1G and 2F: at least 2 lines of SOC for advanced or metastatic disease, including CDK4/6 inhibitor and endocrine therapy
+  * Giredestrant Combination Cohort: at least 1 (no more than 3) prior line(s) of SOC for advanced or metastatic disease, including CDK4/6 inhibitor and endocrine therapy
+
+General Inclusion Criteria
+
+* All participants must be refractory to or intolerant of existing therapies known to provide clinical benefit for their condition.
+* Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) 0 or 1
+* Adequate renal, liver, and bone marrow function
+"""
+
+RELATIONSHIP:
+
+## NCT06069518
+Continuous Glucose Monitoring as a Strategy to Optimize Metabolic Control in Patients With Diabetes on Peritoneal Dialysis Therapy Entitled to the IMSS
+Conditions: metabolic/diabetes_mellitus_type_2, renal/renal_insufficiency_chronic
+
+Inclusion criteria:
+"""
+* Diagnosis of diabetic nephropathy.
+* Insulin-dependent diabetes mellitus requiring insulin for glycemic control.
+* At least three months of peritoneal dialysis treatment.
+"""
+
+RELATIONSHIP:
+

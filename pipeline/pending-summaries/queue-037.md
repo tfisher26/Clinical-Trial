@@ -2182,15 +2182,6 @@ Link: https://clinicaltrials.gov/study/NCT07612020
 SUMMARY:
 
 
-## NCT06899490
-Machine Learning Analysis of Lingual Colorimetry and MADRS Score in Acupuncture Patients: a Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06899490
-
-SUMMARY:
-
-
 ## NCT06716450
 A Study to Evaluate the Accuracy, Usability and Readability of the Multiplo® TP/HIV Antibody Self-Test Performed by Observed Intended Users in Canada and the Impact of Peer-led HIV and Syphilis Care Among People Experiencing Homelessness in Toronto
 
@@ -2435,19 +2426,6 @@ Supporting Practices In Respecting Elders Phase 2
 Intervention: : Annual Wellness Visit — Completion of a structured Annual Wellness Visit (AWV) questionnaire administered by an assigned practice staff member for Medicare beneficiaries deemed by study algorithm as high-risk. Those responses will then be used by the primary care team to place any needed referrals and offer any indicated personal health advice and create a care plan for the coming year. Routine usual care from the primary care practice will occur.
 : Annual Wellness Visits + Geriatric Resources and Assessment for the Care of Elders (AWV + GRACE) — The practice will initiate the Geriatric Resources and Assessment for the Care of Elders (GRACE) program for Medicare beneficiaries deemed by study algorithm as high-risk and meeting other study criteria (see below). After completion of the in-home structured annual wellness visit (AWV) and GRACE assessment by the NP/SW team, responses will be reviewed and applied to construct an individualized care plan using the GRACE protocols inclusive of advance care planning, health maintenance, medication management, assistance with any difficulty walking, falls, dementia, depression, chronic pain, malnutrition, weight loss, urinary incontinence, visual impairment, hearing impairment, or caregiver burden.
 Link: https://clinicaltrials.gov/study/NCT07166861
-
-SUMMARY:
-
-
-## NCT07547774
-Role of Preoperative Sleep Quality in Predicting Postoperative Inflammation, Pain Severity, and Analgesic Requirement After Breast Cancer Surgery
-
-Intervention: : Preoperative Sleep Quality Assessment (PSQI) — Preoperative sleep quality will be assessed using the Pittsburgh Sleep Quality Index (PSQI), a validated self-reported questionnaire evaluating sleep quality over the previous month.
-
-Based on PSQI scores, patients will be categorized into two cohorts: good sleep quality (PSQI ≤ 5) and poor sleep quality (PSQI \> 5). No intervention or modification to standard clinical care will be applied.
-
-All perioperative management will be conducted according to routine institutional protocols. This study is purely observational, and the PSQI assessment is used solely for grouping and analytical purposes.
-Link: https://clinicaltrials.gov/study/NCT07547774
 
 SUMMARY:
 

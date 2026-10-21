@@ -829,16 +829,6 @@ Link: https://clinicaltrials.gov/study/NCT07536529
 SUMMARY:
 
 
-## NCT04517266
-Evaluating Omitting of Internal Mammary Irradiation Among Early Stage Intermediate Risk (N1) Breast Cancer Patients According to Clinical-genomic Model: an Open Label, Non-inferior Randomized Controlled Trial
-
-Intervention: : omit of IMI group — clincial high risk breast （≥2 risk factors）patients with 18-gene low risk an indication for regional nodal irradiation will received 2 Gy for 25 fractions to chest wall or whole breast and supraclavicular lymph nodes irradiation and sequential tumor bed boost of 2 Gy for 5 fractions following breast conserving surgery.
-: IMI group — clincial high risk breast （≥2 risk factors）patients with 18-gene low risk an indication for regional nodal irradiation will received 2 Gy for 25 fractions to chest wall or whole breast and supraclavicular lymph nodes irradiation and sequential tumor bed boost of 2 Gy for 5 fractions following breast conserving surgery.
-Link: https://clinicaltrials.gov/study/NCT04517266
-
-SUMMARY:
-
-
 ## NCT06029504
 Optical Guided Sentinel Node Biopsy for Staging of Vulvar Cancer
 

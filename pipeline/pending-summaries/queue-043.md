@@ -293,14 +293,6 @@ Link: https://clinicaltrials.gov/study/NCT06382883
 
 SUMMARY: Obstructive sleep apnea, where breathing stops and starts during sleep, is closely linked to excess weight. This study tests an individually tailored lifestyle and physical activity program for overweight people with sleep apnea who already use a CPAP machine.
 
-## NCT06751589
-Pilot Weight Loss Intervention With Dual GIP/GLP-1 Receptor Agonist Therapy in Patients With Endometrial Cancer and Obesity, Overweight, With or Without Diabetes
-
-Intervention: : Tirzepatide — 2.5 mg administered using a pre-filled injector once weekly for 4 weeks and then increase to 5 mg once weekly.
-Link: https://clinicaltrials.gov/study/NCT06751589
-
-SUMMARY: Many people with endometrial cancer also live with obesity or overweight. This pilot study tests a weekly weight loss injection that acts on the GIP and GLP-1 hormone receptors in these patients, with or without diabetes.
-
 ## NCT07309172
 Keto-Brain: Cerebral Energy Substrate Metabolism in First-Episode Schizophrenia
 
@@ -1616,53 +1608,6 @@ Intervention: : Sacituzumab Govitecan (SG)+Toripalimab — Sacituzumab govitecan
 
 Toripalimab: 240mg, administered by intravenous infusion on day 1.
 Link: https://clinicaltrials.gov/study/NCT06991790
-
-SUMMARY:
-
-## NCT04511013
-A Randomized Phase 2 Trial of Encorafenib + Binimetinib + Nivolumab vs Ipilimumab + Nivolumab in BRAF-V600 Mutant Melanoma With Brain Metastases
-
-Intervention: : Binimetinib — Given PO
-: Encorafenib — Given PO
-: Ipilimumab — Given IV
-: Nivolumab — Given IV
-Link: https://clinicaltrials.gov/study/NCT04511013
-
-SUMMARY: Melanoma with a BRAF mutation that has spread to the brain is hard to treat. This study compares two targeted pills plus an immunotherapy drug with a combination of two immunotherapy drugs given by IV.
-
-## NCT04513288
-ICITRU : Randomized Trial of Immunonutrition With L-citrulline in Patients Hospitalized in Intensive Care for Sepsis or Septic Shock
-
-Intervention: : Experimental treatment L-citrulline (Protéocit®) — Enteral administration of citrulline for 5 days.
-: Placebo treatment — Enteral administration of iso-nitrogenous placebo for 5 days.
-Link: https://clinicaltrials.gov/study/NCT04513288
-
-SUMMARY: Sepsis and septic shock are life threatening reactions to infection. This study tests giving the amino acid L-citrulline through the digestive tract as a nutrition therapy for patients in intensive care.
-
-## NCT04513639
-The Relapse from MRD Negativity As Indication for Treatment (REMNANT) Study
-
-Intervention: : Early treatment of relapse with carfilzomib, dexamethasone, daratumumab — Second line treatment will start at MRD reapperance
-: Standard treatment of relapse with carfilzomib, dexamethasone, daratumumab — Second line treatment will start at progressive disease
-Link: https://clinicaltrials.gov/study/NCT04513639
-
-SUMMARY:
-
-## NCT04514445
-Bicuspid aoRtic vAlVe gEnetic Research - BRAVE Study
-
-Intervention: : Observational
-Link: https://clinicaltrials.gov/study/NCT04514445
-
-SUMMARY:
-
-## NCT04514965
-Measuring Macrophage Activation Markers and Influence on Bile Acid Composition in Patients With Primary Biliary Cholangitis After Treatment With Bezafibrate
-
-Intervention: : Blood sampling — Blood sampling
-: Fibroscan — Measurement of liver stiffness
-: Question — Question about pruritus
-Link: https://clinicaltrials.gov/study/NCT04514965
 
 SUMMARY:
 
@@ -9623,14 +9568,6 @@ Adaptive Mechanisms Responsible for Weight Change in Youth With Obesity
 
 Intervention: : Meal replacement and lifestyle modification — Meal replacement and lifestyle modification
 Link: https://clinicaltrials.gov/study/NCT05125822
-
-SUMMARY:
-
-## NCT05126589
-Metagenomic Study on the Distributive Pattern of Respiratory Virus in the Community After the Emergence of COVID-19
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05126589
 
 SUMMARY:
 

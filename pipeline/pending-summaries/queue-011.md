@@ -101,15 +101,6 @@ Link: https://clinicaltrials.gov/study/NCT06600737
 SUMMARY:
 
 
-## NCT07193693
-Assessment of Barriers Limiting Optical Coherence Tomography Penetration in Actual Clinical Practice & Training (OCT2ACT) Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07193693
-
-SUMMARY:
-
-
 ## NCT07335120
 A reaL-world Data and Sample coMpendium of frAil aNd/or Multiply treAted Patients With Large B-Cell Lymphoma
 

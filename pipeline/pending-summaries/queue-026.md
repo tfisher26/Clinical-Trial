@@ -367,16 +367,6 @@ Link: https://clinicaltrials.gov/study/NCT05831397
 SUMMARY:
 
 
-## NCT06529237
-Plasmodium Falciparum Molecular Surveillance in Mozambique to Monitor Markers of Antimalarial Drug Resistance, Rapid Tests Diagnostic Failure and Transmission in Mozambique: Phase 2
-
-Intervention: : LDH-based malaria rapid diagnostic test — Malaria testing using an LDH-based malaria rapid diagnostic test will be added to standard routine testing of suspected cases at health facilities
-: Malaria rapid diagnostic test — Routine malaria rapid diagnostic tests
-Link: https://clinicaltrials.gov/study/NCT06529237
-
-SUMMARY:
-
-
 ## NCT06379945
 Unified platforM for a Better integRal Evaluation of MyeLodyspLastic Syndromes in SpAin-Strategy for Unraveling Personalized genoMic Medicine in Public heAlth System (UMBRELLA-SUMMA)
 

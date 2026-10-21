@@ -74,15 +74,6 @@ Link: https://clinicaltrials.gov/study/NCT06636383
 SUMMARY:
 
 
-## NCT04513054
-Is There a Genetic Predisposition for Acute Stress-induced (Takotsubo) Cardiomyopathy: The GENETIC Study
-
-Intervention: : Blood collection for genetic analysis — Blood collection for genetic analysis
-Link: https://clinicaltrials.gov/study/NCT04513054
-
-SUMMARY:
-
-
 ## NCT06738329
 Investigating the Impact of the Seaweed Derived Food Additive, Carrageenan, on the Human Gut Microbiome
 
@@ -383,15 +374,6 @@ A Study on Combined Low-pass Whole-genome and Methylome Testing of Bloody Nipple
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07250204
-
-SUMMARY:
-
-
-## NCT06856902
-BEhavioral and Adherence Model for Improving Quality, Health Outcomes and Cost-Effectiveness of healthcaRe
-
-Intervention: : B-COMPASS implementation — The patients in the intervention arm will receive B-COMPASS enhanced engagement in addition to standard care. The enhanced engagement is implemented as educational material to the HCP who is engaging with the patient. The content of the educational material will be based on the patient's B-COMPASS patient description. The engagement will either be in person or via phone call depending on the patient visiting schedule of each recruited patient.
-Link: https://clinicaltrials.gov/study/NCT06856902
 
 SUMMARY:
 

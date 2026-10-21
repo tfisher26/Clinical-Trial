@@ -2394,15 +2394,6 @@ Link: https://clinicaltrials.gov/study/NCT06939231
 SUMMARY:
 
 
-## NCT06845826
-Point-of-Care High-Sensitivity Troponin Testing in the Emergency Department to Assess Myocardial Infarction for Timely Discharge
-
-Intervention: : Point-of-Care high-sensitivity troponin testing — To establish in a randomized interventional controlled trial whether a novel POC test-guided strategy in acute chest pain patients in the ED results in a reduced length of stay compared to the usual central laboratory testing strategy when managing patients with a suspicion of NSTEMI
-Link: https://clinicaltrials.gov/study/NCT06845826
-
-SUMMARY:
-
-
 ## NCT06628102
 Improving Detection of Early Lung Cancer in a Diverse Population
 
@@ -3680,16 +3671,6 @@ Link: https://clinicaltrials.gov/study/NCT06966440
 SUMMARY:
 
 
-## NCT07550816
-A Drug-drug Interaction Study to Evaluate the Impact of Multiple Subcutaneous Injections of ZT002 on the Pharmacokinetics of Metformin, Warfarin, Rosuvastatin and Digoxin in Overweight and Obese Participants
-
-Intervention: : ZT002 injection, metformin, warfarin — Drug: metformin Participants will receive metformin twice daily for 3.5 days in both periods Drug: warfarin Participants will receive a single dose of warfarin in both periods Drug: ZT002 Participants will receive multiple doses of ZT002 in the second period
-: ZT002 injection, rosuvastatin, digoxin — Drug: rosuvastatin Participants will receive a single dose of rosuvastatin in both periods Drug: digoxin Participants will receive a single dose of digoxin in both periods Drug: ZT002 Participants will receive multiple doses of ZT002 in the second period
-Link: https://clinicaltrials.gov/study/NCT07550816
-
-SUMMARY:
-
-
 ## NCT06966414
 Effects of Bodyweight High-intensity Exercise at Different Times of Day on 72-hour Eating Behaviours and Physical Activity in Physically Inactive Adults
 
@@ -4746,19 +4727,6 @@ Patient Experience of Benefits and Limitations of Single Injection Peripheral Ne
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07641842
-
-SUMMARY:
-
-
-## NCT06780943
-Quantification of Motor Compensation Following Biomechanical, Proprioceptive and Physiological Alterations Post-lower Limb Amputation.
-
-Intervention: : Biomechanics — Amputees and controls will be equipped with measurement sensors to record spatio-temporal, kinetic, kinematic, pressure, electromyographic and physiological parameters of gait in the movement analysis laboratory (GRAIL System).
-
-16 Anatolog FSR sensors will be installed in the amputee population (transtibial, transfemoral on the medial, lateral, anterior and posterior parts of the stump, 4 per side, aligned in the proximal/distal axis. The Anatolog sensors have a sampling frequency of 100Hz. Electromyographic data recording is performed by setting up a number of EMGs depending on the healthy population or the level of amputation. Surface electromyography (sEMG) signals will be recorded from 10 muscles on each lower limb for control subjects and transtibial amputees
-: Physiological — Energy consumption (VO2), will be performed using the VO2 Master Pro (VO2 Master Health Sensors Inc., Vernon, British Columbia, CA). Each participant will wear a face mask connected to the VO2 Master, which will measure oxygen consumption in real time during the assessment. The mask will be adjusted to prevent air leakage and ensure accurate measurements.
-: Proprioceptive — For amputees, the joint above the amputation will be measured due to the presence of the proximal insertions of the bi-articular muscles and the absence of their distal insertion (i.e., knee joint for transtibial amputees and hip joint for transfemoral amputees).
-Link: https://clinicaltrials.gov/study/NCT06780943
 
 SUMMARY:
 

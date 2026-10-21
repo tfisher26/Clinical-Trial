@@ -672,18 +672,6 @@ Link: https://clinicaltrials.gov/study/NCT05593055
 SUMMARY:
 
 
-## NCT07443059
-A Phase I Clinical Study to Evaluate the Pharmacokinetic Characteristics and Safety of Single-dose of Zovaglutide (ZT002 Injection) in Participants With Different Degrees of Renal Insufficiency and Matched Participants With Normal Renal Function
-
-Intervention: : Zovaglutide — Receive a single dose , SC
-: Zovaglutide — Receive a single dose , SC
-: Zovaglutide — Receive a single dose , SC
-: Zovaglutide — Receive a single dose , SC
-Link: https://clinicaltrials.gov/study/NCT07443059
-
-SUMMARY:
-
-
 ## NCT06885359
 A Post-market Study Evaluating Clinical and Safety Outcomes of Bipolar Hemiarthroplasty Using CoCrMo LOCK Bipolar Femoral Heads in Subjects With Hip Fracture
 

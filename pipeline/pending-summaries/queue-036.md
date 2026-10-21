@@ -395,15 +395,6 @@ Link: https://clinicaltrials.gov/study/NCT06603194
 SUMMARY:
 
 
-## NCT05077124
-Safe and Timely Antithrombotic Removal (STAR) Registry: International Registry on the Use of CytoSorb for Removal of Antithrombotic Agents in the Acute Hospital Setting
-
-Intervention: : CytoSorb — Sorbent hemoperfusion system
-Link: https://clinicaltrials.gov/study/NCT05077124
-
-SUMMARY:
-
-
 ## NCT05767242
 Early Neurophysiological Markers of Language Impairments: a Longitudinal Study on Infants At Familial Risk
 

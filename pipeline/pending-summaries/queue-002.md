@@ -1684,14 +1684,6 @@ Link: https://clinicaltrials.gov/study/NCT07569263
 
 SUMMARY:
 
-## NCT07571928
-The NOVA-NOA Trial A Novel Aromatase Inhibitor, Leflutrozole, for Treatment of Non-Obstructive Azoospermia A Prospective Interventional Study
-
-Intervention: : Leflutrozole, Dose 2 — Leflutrozole capsule 0.3 mg once weekly administered orally
-Link: https://clinicaltrials.gov/study/NCT07571928
-
-SUMMARY:
-
 ## NCT07575672
 Finerenone in Patients Undergoing Transcatheter Aortic Valve Implantation With Heart Failure: A Prospective, Multicenter, Randomized, Placebo-Controlled Trial
 
@@ -11886,14 +11878,6 @@ Link: https://clinicaltrials.gov/study/NCT07791043
 
 SUMMARY:
 
-## NCT07791095
-REDUCTION ACCURACY IN NASO-ORBITO-ETHMOIDAL FRACTURES AFTER VIRTUAL REDUCTION AND FIXATION USING PRE-ADAPTED MINIPLATES (A CLINICAL TRIAL)
-
-Intervention: : pre-adapted titanium miniplates based on a virtually reduced 3D model — Naso-orbito-ethmoidal (NOE) treated using pre-adapted titanium miniplates based on a virtually reduced 3D model
-Link: https://clinicaltrials.gov/study/NCT07791095
-
-SUMMARY:
-
 ## NCT07791134
 Investigation of the Immediate Effect of Connective Tissue Massage on Pressure Pain Threshold in Fibromyalgia
 
@@ -17719,16 +17703,6 @@ Link: https://clinicaltrials.gov/study/NCT07855237
 
 SUMMARY:
 
-## NCT07855250
-A Phase-1, Open-label, One-sequence, Two-treatment Period, Cross-over, Drug-drug Interaction Study to Evaluate the Effect of Oral Rilzabrutinib on P-gp, BCRP, OATP1B1 and OATP1B3 Substrates in Healthy Participants
-
-Intervention: : Rilzabrutinib — From Day 1 to Day 12 of Period 2
-: Rosuvastatin — Single dose on Day 1 of Period 1 and on Day 8 of Period 2
-: Digoxin — Single dose on Day 1 of Period 1 and on Day 8 of Period 2
-Link: https://clinicaltrials.gov/study/NCT07855250
-
-SUMMARY:
-
 ## NCT07855276
 A Randomized, Double-blind, Placebo-controlled Mechanistic Study in Adult Patients With Moderate to Severe Hidradenitis Suppurativa to Explore the Effects of Remibrutinib on Tissue Level
 
@@ -18170,23 +18144,58 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT03503331
-UAB Alzheimer's Disease Center Core Cohort - Imaging Substudy
+## NCT03300492
+A Phase I/II Single Center Study to Assess the Safety, Tolerability and Feasibility of Pre-emptive Immunotherapy With in Vitro Expanded Natural Killer Cells in Patients Treated With Haplo-HSCT for AML/MDS
 
-Intervention: : [C-11]PiB-PET/MRI — All study participants will undergo brain imaging with \[C-11\]PiB-PET/MRI. \[C-11\]PiB is a PET imaging agent used primarily to measure the amount of abnormal protein (called beta-amyloid) in the brain. The investigator will also use this tracer to evaluate regional cerebral blood flow.
-Link: https://clinicaltrials.gov/study/NCT03503331
+Intervention: : NK-DLI — Application of three infusions of ex vivo expanded NK cells on days
+
++10, +15 and +20 with increasing NK cell doses (1x107/kg, 1x108/kg and the remaining cells up to 1x109/kg) following haplo-HSCT. Maximal cumulative T-cell dose is fixed at \<1x105/kg.
+Link: https://clinicaltrials.gov/study/NCT03300492
 
 SUMMARY:
 
-## NCT04150042
-SHARON: Study of Metastatic Cancers in Patients Using Autologous Stems Cells and Potentiated Redox Cycling to Overcome Drug Resistance to Nitrogen Mustard Derivatives
+## NCT03001362
+Radical External Beam Chemoradiation in Patients With Rectal Cancer: a "Wait-and-see" Approach
 
-Intervention: : Melphalan — Intravenous melphalan (to be given in conjunction with the other listed drugs).
-: BCNU — Intravenous BCNU (to be given in conjunction with the other listed drugs).
-: Vitamin B12B — Intravenous vitamin B12b (to be given in conjunction with the other listed drugs).
-: Vitamin C — Intravenous vitamin C (to be given in conjunction with the other listed drugs).
-: Autologous Hematopoietic Stem Cells — After each cycle of chemotherapy, participants will receive an autologous hematopoietic stem cell infusion.
-Link: https://clinicaltrials.gov/study/NCT04150042
+Intervention: : Radical external beam radiotherapy — pelvic radiotherapy to a dose of 45 Gy in 25 fractions with a tumor boost to a dose of 9 Gy in 5 fractions (thus total of 54 Gy/30 fractions to the primary tumor), combined with radio sensitizing chemotherapy.
+Link: https://clinicaltrials.gov/study/NCT03001362
+
+SUMMARY:
+
+## NCT03648814
+Efficacy and Safety of Intracameral Versus Intravitreal Bevacizumab Injection as an Adjunctive Therapy Before Trabeculectomy With Mitomycin-C in Neovascular Glaucoma: A Prospective Randomized Trial
+
+Intervention: : Intracameral injection — A/C injection of 1.25 mg/0.05 mL bevacizumab
+: Intravitreal injection — Vitreous injection of 1.25 mg/0.05 mL bevacizumab
+Link: https://clinicaltrials.gov/study/NCT03648814
+
+SUMMARY:
+
+## NCT02265770
+An International Clinical Program for the Diagnosis and Treatment of Children, Adolescents and Young Adults With Ependymoma
+
+Intervention: : 16 weeks of VEC + CDDP — Days 1-36-71-106: Vincristine: 1.5 mg/m² (maximal dose 2 mg) i.v.; Days 1-3-36-38-71-73-106-108: Etoposide: 100 mg/m² infused over 60 minutes; Days 1-36-71-106: Cyclophosphamide: 3000 mg/m² in 3 divided infusions (1000 mg/m²/infusion) infused over 60 minutes; Days 22-57-92: Cisplatin: 80 mg/m² over 4 hours + Vincristine:1.5 mg/m² (maximal dose 2 mg) i.v.
+: VEC + HD-MTX — Days 1-22-43: Vincristine: 1.5 mg/m² (maximal dose 2 mg) i.v.; Days 1-3-22-24-43-45: Etoposide: 100 mg/m² infused over 60 minutes; Days 1-22-43: Cyclophosphamide: 3000 mg/m² in 3 divided infusions (1000 mg/m²/infusion) infused over 60 minutes; Days 15-36-57: Administer methotrexate at 8000 mg/m² as a 24 hour IV infusion on days 15-36-57. 10% of the dose should be given over the first hour and 90% over the remaining 23 hours. The infusion must finish at 24 hours even if it has not been completed.
+: Chemotherapy + Valproate — Days 1-57-113-169-225-281-337: Vincristine and Carboplatin; Days 15-71-127-183-239-295-351: Vincristine and Methotrexate; Days 29-85-141-197-253-309-365: Vincristine and Cyclophosphamide; Days 43-44-99-100-154-155-211-212-267-268-323-324-379-380: Cisplatin 2-day continuous infusion.
+
+Valproate: initial dose 30 mg/kg/day for two weeks in 2 divided doses (BID 15 mg/kg). Increasing weekly up to 40 - 50 - 60 mg/kg/day in 2 divided doses.
+: Conformal radiotherapy — Conformal radiotherapy: 59.4Gy (children \<18 months or with risk factors: 54Gy). Daily fraction 1.8 Gy, 5 fractions / week.
+: VEC — D1: Vincristine: 1.5 mg/m² (maximal dose 2 mg) i.v.; D1-D3: Etoposide: 100 mg/m² infused over 60 minutes; D1: Cyclophosphamide: 3000 mg/m² in 3 divided infusions (1000 mg/m²/infusion) infused over 60 minutes; D22: Vincristine: 1.5 mg/m² (maximal dose 2 mg) i.v.; D22-D24: Etoposide: 100 mg/m² infused over 60 minutes; D22: Cyclophosphamide: 3000 mg/m² in 3 divided infusions (1000 mg/m²/infusion) infused over 60 minutes; D43: Vincristine: 1.5 mg/m² (maximal dose 2 mg) i.v.; D43-D45: Etoposide: 100 mg/m² infused over 60 minutes; D43: Cyclophosphamide: 3000 mg/m² in 3 divided infusions (1000 mg/m²/infusion) infused over 60 minutes
+: Chemotherapy — Days 1-57-113-169-225-281-337: Vincristine and Carboplatin; Days 15-71-127-183-239-295-351: Vincristine and Methotrexate; Days 29-85-141-197-253-309-365: Vincristine and Cyclophosphamide; Days 43-44-99-100-154-155-211-212-267-268-323-324-379-380: Cisplatin 2-day continuous infusion.
+: conformal radiotherapy +/- boost — Conformal radiotherapy: 59.4Gy (children \<18 months or with risk factors: 54Gy). Daily fraction 1.8 Gy, 5 fractions / week.
+
+In case of persistent residue : Boost of radiation 8 Gy in 2 equivalent fractions
+Link: https://clinicaltrials.gov/study/NCT02265770
+
+SUMMARY:
+
+## NCT03207854
+Protocol for Immunology Specimen Collection From Cancer Patients, Patients With Hematologic Diagnoses, and Healthy Normal Controls
+
+Intervention: : Biospecimen Collection — Undergo collection of peripheral blood, bone marrow, and tissue
+: Laboratory Biomarker Analysis — Correlative studies
+: Questionnaire Administration — Ancillary studies
+Link: https://clinicaltrials.gov/study/NCT03207854
 
 SUMMARY:
 

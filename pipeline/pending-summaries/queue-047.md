@@ -146,14 +146,6 @@ Link: https://clinicaltrials.gov/study/NCT06751498
 
 SUMMARY:
 
-## NCT06751589
-Pilot Weight Loss Intervention With Dual GIP/GLP-1 Receptor Agonist Therapy in Patients With Endometrial Cancer and Obesity, Overweight, With or Without Diabetes
-
-Intervention: : Tirzepatide — 2.5 mg administered using a pre-filled injector once weekly for 4 weeks and then increase to 5 mg once weekly.
-Link: https://clinicaltrials.gov/study/NCT06751589
-
-SUMMARY:
-
 ## NCT06751836
 Advancing Pandemic Preparedness: Innovative Multidisciplinary Strategies for COMBATing Severe Dengue
 

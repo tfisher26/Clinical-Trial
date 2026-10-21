@@ -1742,15 +1742,6 @@ Link: https://clinicaltrials.gov/study/NCT06783400
 SUMMARY:
 
 
-## NCT05282654
-Real-time Symptom Monitoring Using ePROs to Prevent Adverse Events During Care Transitions
-
-Intervention: : ePRO Application — The intervention consists of a patient portal, EHR-integrated web-app to communicate risk of post-discharge adverse events using patient-reported outcome questionnaires, discharge preparation checklist during hospitalization. After discharge, the intervention will provide real-time symptom monitoring using ePROs and facilitate communication with clinicians based on prediction model-informed ePRO score trends exceeding escalation thresholds.
-Link: https://clinicaltrials.gov/study/NCT05282654
-
-SUMMARY:
-
-
 ## NCT06965699
 Testing the Effect of a Plant-based, Protein-dense Sauce (ProSauce) on Metabolic Availability of Essential Amino Acids and Gut Fullness and Satiety in Older Adults
 

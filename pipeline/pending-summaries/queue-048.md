@@ -33,15 +33,6 @@ Link: https://clinicaltrials.gov/study/NCT06995898
 
 SUMMARY:
 
-## NCT06995976
-Dosimetry and Preliminary Clinical Application Study of a Novel Probe Targeting CD73
-
-Intervention: : 68Ga-dPNE — Intravenous injection of 68Ga-dPNE. 68Ga-dPNE PET/CT will be used to detect tumors.
-: 18F-FDG — Intravenous injection of 18F-FDG.18F-FDG PET/CT will be used to detect tumors.
-Link: https://clinicaltrials.gov/study/NCT06995976
-
-SUMMARY:
-
 ## NCT06996080
 A Randomized, Double-masked, Sham-controlled, Multicenter, Phase 3 Study to Evaluate the Efficacy and Safety of Intravitreal Tabirafusp Alfa (KSI-101) in Participants With Macular Edema Secondary to Inflammation (MESI) - PINNACLE
 
@@ -11388,14 +11379,6 @@ Link: https://clinicaltrials.gov/study/NCT07159282
 
 SUMMARY:
 
-## NCT07159659
-Post-operative Medium Chain Triglyceride Diet May Reduce Hospital Stay Following Lung Resection
-
-Intervention: : MCT Diet — MCT diet for patients following lung resection
-Link: https://clinicaltrials.gov/study/NCT07159659
-
-SUMMARY:
-
 ## NCT07159750
 Real-world Prospective Study on the Use of Anti-CGRP Drugs in Migraine
 
@@ -12896,14 +12879,6 @@ Deep Learning-Based Opportunistic Screening of Coronary Artery Disease on Non-Co
 
 Intervention: : Deep Learning Analysis of Non-contrast Chest CT — Analysis of clearly visualized coronary segments on non-contrast chest CT using deep learning models, compared with CCTA reference standard.
 Link: https://clinicaltrials.gov/study/NCT07181512
-
-SUMMARY:
-
-## NCT07181590
-BaLloon-based PFA Ablation poST Approval Outcomes for PAF and PersAF
-
-Intervention: : Pulsed Field Ablation — Pulsed Field Ablation using the Volt PFA System
-Link: https://clinicaltrials.gov/study/NCT07181590
 
 SUMMARY:
 

@@ -1659,18 +1659,6 @@ Link: https://clinicaltrials.gov/study/NCT06318598
 SUMMARY:
 
 
-## NCT06958198
-A Phase Ib Age De-escalation, Open Label Study of the Safety and Immunogenicity of the Multi-stage Malaria Vaccine Candidate R21 + RH5.1 + R78C in Matrix-M™ in Adults Aged 18-35 Years and Children Aged 5-17 Months in Burkina Faso
-
-Intervention: : R21 — A protein particle comprising recombinant HBsAg fused to the central repeat and the C-terminus of the circumsporozoite protein
-: RH5.1 — A soluble protein vaccine against the RH5 antigen
-: R78C — A soluble RIPR EGF-CyRPA fusion protein vaccine
-: Matrix-M™ — A saponin-based vaccine adjuvant
-Link: https://clinicaltrials.gov/study/NCT06958198
-
-SUMMARY:
-
-
 ## NCT06050369
 Actimetric and Electrophysiological Analyses of Repetitive Behaviors (Tics and Compulsions)
 

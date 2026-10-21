@@ -6649,15 +6649,6 @@ Link: https://clinicaltrials.gov/study/NCT06996938
 SUMMARY:
 
 
-## NCT05414994
-Assessment of the Ocular Microbiome in Health and Disease
-
-Intervention: : Eye swab — This is a simple swab under the eyelids of both eyes
-Link: https://clinicaltrials.gov/study/NCT05414994
-
-SUMMARY:
-
-
 ## NCT06220396
 CArdioMEtabolic Function and Reserve Capacity in Healthy Adults: The CAMERA Study
 

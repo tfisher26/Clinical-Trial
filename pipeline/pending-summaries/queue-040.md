@@ -3347,17 +3347,6 @@ Link: https://clinicaltrials.gov/study/NCT05191485
 SUMMARY:
 
 
-## NCT04944615
-IVUS-CTO: Comparison of the Effect of Intravascular Ultrasound-guided Versus Angiographic-guided Drug-eluting Stent Implantation on Long-term Clinical Outcomes in Patients With Chronic Complete Occlusion of Coronary Artery Disease: a Prospective, Multicenter, Randomized Controlled Clinical Study
-
-Intervention: : The guidewire successfully passed the CTO lesion — The successful passage of the guide wire through the CTO lesion was defined as: the guide wire successfully passed through the CTO lesion and reached the distal true lumen as confirmed by angiography.
-
-Aspirin load dose (300 mg), clopidogrel load dose (300 mg), or ticagrelor load dose (180 mg) is recommended for all subjects prior to stent implantation and is recommended to be taken at least 6 hours prior to surgery.
-Link: https://clinicaltrials.gov/study/NCT04944615
-
-SUMMARY:
-
-
 ## NCT07468708
 Evaluation of Dosimetry, Safety, Biodistribution and Preliminary Diagnostic Efficacy of ⁶⁸Ga-FC516 in Healthy Subjects and Patients With Prostate Cancer
 

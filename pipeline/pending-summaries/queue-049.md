@@ -7348,14 +7348,6 @@ Link: https://clinicaltrials.gov/study/NCT07327632
 
 SUMMARY:
 
-## NCT07327658
-Investigation of the Changes in Periodontal Pocket Depth Following Periodontal Treatment in Patients With Periodontitis
-
-Intervention: : Periodontal Treatment — Periodontal treatment was performed according to standard clinical protocols. Periodontal pocket depth was measured at baseline and at 1, 3, and 6 months following treatment.
-Link: https://clinicaltrials.gov/study/NCT07327658
-
-SUMMARY:
-
 ## NCT07327684
 Research on the Morphology and Functional Assessment of Brown Adipose Tissue With Photoacoustic Imaging
 
@@ -8940,15 +8932,6 @@ Randomized Trial of Anticoagulation Plus Batroxobin for Acute Cerebral Venous Th
 Intervention: : batroxobin — The initial dose of batroxobin is 10 BU, followed by 5 BU every other day.
 : Anticoagulation Agents — Low-molecular-weight heparin bridging to warfarin 3 mg/day, rivaroxaban 10-20 mg/day or dabigatran 110-150 mg twice daily.
 Link: https://clinicaltrials.gov/study/NCT07352358
-
-SUMMARY:
-
-## NCT07352826
-The Effect of Blood Carboxyhemoglobin Levels on NF-kB, NRF2 and PGC-1α During Low-flow and Normal-flow Anesthesia
-
-Intervention: : low-flow anasthesia — In Group LF, FGF will then be maintained at 0.6 L/min (O₂ 50%, air 50%), with desflurane adjusted to maintain MAC = 1
-: Normal akımlı anestezi — In Group NF, FGF will be maintained at 2 L/min (O₂ 50%, air 50%) with desflurane adjusted to maintain MAC = 1..
-Link: https://clinicaltrials.gov/study/NCT07352826
 
 SUMMARY:
 

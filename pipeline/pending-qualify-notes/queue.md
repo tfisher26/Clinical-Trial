@@ -1288321,3 +1288321,2185 @@ Exclusion criteria:
 
 QUALIFY_NOTE:
 
+## NCT04557449
+A PHASE 1/2A STUDY EVALUATING THE SAFETY, TOLERABILITY, PHARMACOKINETICS, PHARMACODYNAMICS, AND ANTI-TUMOR ACTIVITY OF PF-07220060 AS A SINGLE AGENT AND AS PART OF COMBINATION THERAPY IN PARTICIPANTS WITH ADVANCED SOLID TUMORS
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Part 2B: prior neoadjuvant or adjuvant treatment with a non-steroidal aromatase inhibitor with disease recurrence while on or within 12 months of completing treatment. Prior treatment with any CDK4/6 inhibitor
+* Part 2C: prior treatment with any CDK inhibitor, fulvestrant, everolimus, or any agent whose mechanism of action is to inhibit the PI3K-mTOR pathway
+* Known active uncontrolled or symptomatic Central Nervous System (CNS) metastases carcinomatous meningitis, or leptomeningeal disease
+* Other active malignancy within 3 years prior to randomization, except for adequately treated basal cell or squamous cell skin cancer, or carcinoma in situ
+* Major surgery or radiation within 4 weeks prior to study intervention
+* Last anti-cancer treatment within 2 weeks prior to study intervention; Part 1G and 2F: tamoxifen treatment within 35 days of Day -4
+* Participation in other studies involving investigational drug(s) within 4 weeks prior to study entry
+* Part 1G and 2F: history of or current pulmonary embolism or deep vein thrombosis
+* Giredestrant Combination Cohort: history (within 6 months of screening) of or presence of idiopathic symptomatic bradycardia or resting heart rate \<50 bpm at screening
+* Pregnant or breastfeeding female participant
+* Active inflammatory gastrointestinal (GI) disease, known diverticular disease or previous gastric resection or lap band surgery including impairment of gastrointestinal function or GI disease
+"""
+
+QUALIFY_NOTE:
+
+## NCT05334940
+Atopy Network - Comprehensive Allergy Centers: Medical Care of Patients With Moderate to Severe Allergic Diseases
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* \<2 atopic disorders
+* poor compliance
+* pregnancy or breastfeeding
+"""
+
+QUALIFY_NOTE:
+
+## NCT05468554
+Evaluation of Metformin Effect on the Fertility of Women Treated With 131I for Thyroid Cancer
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Hypersensitivity to metformin.
+2. Subjects with polycystic ovarian syndrome or other diseases of the ovaries (primary / secondary ovarian failure).
+3. Subjects taking metformin during last week.
+4. Subjects with liver malfunction and abnormal hepatitis marker results (ALT and AST activity \>3ULN.\*
+5. Subjects with eGFR below 45ml/min/1.73m2.\*
+6. Subjects with lactic acidosis or having history of metabolic acidosis.
+7. Subjects with serum AMH concentration\* below lower range norm.
+8. Subjects with history of congestive heart disease NYHA stage III/IV.
+9. Subjects with acute myocardial ischemia (CCS 3-4).
+10. Subjects with history of sepsis or severe infection.
+11. Subject with lung disease (uncontrolled asthma based on GINA 2000 Guidelines and COPD GOLD ≥ 3 stage).
+12. Positive result of pregnancy test or pregnancy planned during the study.
+13. Alcohol or other substance dependent syndromes.
+14. BMI \<18.5 kg/m2.
+15. Accompanying diseases with poor prognosis in the opinion of the researcher.
+16. As per Investigator (or his designee) judgement, subject cannot participate in the study due to reasons (i.e. medical, psychiatric and/or social reason).
+17. Unreliability or lack of cooperation. \*based on the laboratory results from screening visit
+"""
+
+QUALIFY_NOTE:
+
+## NCT05644704
+SportSense 6D Fusion - Application of Multi-sensor Fusion Environment in Movement, Training and Injury Prevention in Bat and Arm Swing Sports-Intelligent Sports Injury Prevention and Training System
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Surgery history in pitching arm
+* Musculoskeletal disease
+* Neuromuscular disease
+"""
+
+QUALIFY_NOTE:
+
+## NCT05688865
+Correlation and Clinical Utility of Urinary Biomarker in Membranous Glomerulonephritis
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* secondary causes of membranous nephropathy, e.g. lupus nephritis, viral hepatitis B and C and malignancy
+"""
+
+QUALIFY_NOTE:
+
+## NCT05961176
+Exploratory Study on Bio-Signal Telemonitoring Using Electronic Textiles in a Pediatric Acute and Critical Care Setting
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Any existing condition, diagnosis or physiologic state, in the opinion of the principal investigator, Co-Investigators or most responsible physicians, in which presence of the study monitoring system may have negative effects on patient status or may impair care delivered by the treating team (e.g. hemodynamic instability, at risk for acute deterioration in condition).
+2. Patients with active wounds or devices (such as a chest tube or invasive lines) in areas that prohibit placement of all configurations of textile device. \*
+3. Patients with Methicillin-Resistant Staphylococcus aureus (MRSA) that represent an infection control risk.
+4. Patients cannulated to extracorporeal membrane oxygenation (ECMO).
+5. Patients with imaging/procedures scheduled outside of the CCCU within the 12 hours following eligibility assessment. \*\*
+6. Patients with an implanted cardioverter defibrillator (ICD)
+7. Patients with a pacemaker, either implanted or temporary (temporary pacing wires not in use are allowed). \*\*\*
+8. Patients whose chest/abdomen size is too large or small to fit the available sizes of the Skiin Pediatric Band.
+
+Eligibility may be reassessed once an appropriate body location for the textile placement becomes available.\*
+
+Eligibility may be reassessed after the patient returns to the CCCU.\*\*
+
+Eligibility may be reassessed after the temporary pacemaker has been removed.\*\*\*
+"""
+
+QUALIFY_NOTE:
+
+## NCT06003491
+A Randomized Controlled Trial for Surgical Treatment of Reducible Atlantoaxial Dislocation
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* The pathology is traumatic or RA Underwent operations in occipital-cervical region before With mortal diseases Without ability to sign papers
+"""
+
+QUALIFY_NOTE:
+
+## NCT06069518
+Continuous Glucose Monitoring as a Strategy to Optimize Metabolic Control in Patients With Diabetes on Peritoneal Dialysis Therapy Entitled to the IMSS
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Positive serology for human immunodeficiency virus (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV).
+* Acute medical complications.
+* Hospitalization for cardiovascular, metabolic, or infectious conditions within the month preceding enrollment.
+* Cancer.
+* Pregnancy.
+* Allergy.
+"""
+
+QUALIFY_NOTE:
+
+## NCT06267105
+Clinical Study to Compare Functional Results in Patients Affected by Trigger Finger When Surgery is Performed Through a Transverse or Longitudinal Surgical Incision in the Skin.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Thumb
+* Polydigital
+* Allergy to local anesthetics and/or vasoconstrictor agents.
+* Previous surgery
+* Patients who, in the researcher's opinion, are not good candidates for the study (e.g. inability to comply with the follow-up program, comorbidity, poor physical or mental health in general, drug or alcohol abuse problems...).
+"""
+
+QUALIFY_NOTE:
+
+## NCT06330766
+Impact of Targeted Preoperative Dental Screening on Post-procedural Risk of Infective Endocarditis in Patients Undergoing Transcatheter Aortic Valve Implantation: a Prospective Observational Study
+Trigger: exclusion text missing/short
+
+Exclusion criteria:
+"""
+* None
+"""
+
+QUALIFY_NOTE:
+
+## NCT06381609
+Contribution of Addiction Peer Support on Adherence to Care and Clinical Outcomes in Alcohol Dependence: a Prospective Controlled Trial With Medico-economic Component
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Other severe substance use disorder, i.e. DSM-5 criteria ≥ 6 (excluding tobacco)
+* Patient under protective measure (safeguard measure, guardianship) or deprived of liberty or in ordered care and hospitalization measures without consent.
+* Inability to communicate and express oneself orally in French, compromising the possibility of exchanges between the Peer support and the patient.
+* Psychiatric or cognitive comorbidities making inclusion impossible, at the investigator's discretion.
+* Individual accompaniment by a Peer support in the 15 days prior to inclusion.
+"""
+
+QUALIFY_NOTE:
+
+## NCT06452992
+Microbiome and Metabolomics Profiling in Children With Obstructive Sleep Apnoea
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Previous upper airway surgery, genetic or syndromal disease, congenital or acquired neuromuscular disease, suspected or confirmed congenital or acquired immunodeficiency, known metabolic syndrome, craniofacial abnormalities, structural or congenital heart disease, use of medications or therapy that could affect immunity such as systemic corticosteroids, chemotherapy, radiation therapy, intravenous immunoglobulins.
+"""
+
+QUALIFY_NOTE:
+
+## NCT06481410
+Exploratory Study on the Efficacy and Safety of Methylene Blue in Treating Severe Septic Shock Patients: A Prospective, Randomized, Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Pregnant or breastfeeding women.
+2. Individuals allergic to methylene blue or any components of the methylene blue injection.
+3. Individuals with a personal or family history of glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+4. Patients with an expected survival time of less than 48 hours.
+5. Patients who have been on norepinephrine for more than 24 hours.
+"""
+
+QUALIFY_NOTE:
+
+## NCT06507904
+A PHASE 1, RANDOMIZED, CROSSOVER DESIGN STUDY TO ASSESS PALATABILITY OF OSIVELOTOR (PF-07940367) PEDIATRIC FORMULATIONS WITH DOSING VEHICLE (PART 1) AND RANDOMIZED, SINGLE-DOSE, PARALLEL DESIGN STUDY TO ESTIMATE RELATIVE BIOAVAILABILITY OF OSIVELOTOR PEDIATRIC FORMULATION WITH DOSING VEHICLE AND WITH WATER COMPARED TO CLINICAL TABLET FORMULATION, AND EFFECT OF FOOD AND/OR ACID-REDUCING AGENT ON BIOAVAILABILITY IN HEALTHY ADULT PARTICIPANTS (PART 2)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Evidence or history of clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurological, or allergic disease (including drug allergies, but excluding untreated, asymptomatic, seasonal allergies at the time of dosing).
+* Use of prescription or nonprescription drug, dietary and herbal supplements within 7 days or 5 half-lives (whichever is longer), with the exception of moderate or strong cytochrome P450 (CYP)3A inducers or inhibitors which are prohibited within 14 days plus 5 half-lives, prior to the first dose of study intervention.
+* Current use of any prohibited concomitant medication(s) or participant unwilling/able to use a permitted concomitant medication(s).
+* Previous administration with an investigational product (drug or vaccine) within 30 days (or as determined by the local requirement) or 5 half-lives preceding the first dose of study intervention used in this study (whichever is longer). Participation in studies of other investigational products (drug or vaccine) at any time during their participation in this study.
+* For females, pregnancy, as indicated by a positive serum pregnancy test (serum) at screening and/or a positive pregnancy test (serum and/or urine) on Day -1 in women of childbearing potential.
+* Screening supine BP ≥140 mm Hg (systolic) or ≥90 mm Hg (diastolic) for participants \<60 years; and ≥150/90 mm/Hg for participants ≥60 years old, following at least 5 minutes of supine rest.
+* Standard 12-lead ECG that demonstrates clinically relevant abnormalities that may affect participant safety or interpretation of study results (eg, QTcF \[QTc corrected using Fridericia's formula\] \>450 ms, complete left bundle branch block (LBBB), signs of an acute or indeterminate-age myocardial infarction, ST-T interval changes suggestive of myocardial ischemia, second- or third- degree AV (atrioventricular) block, or serious bradyarrhythmias or tachyarrhythmias).
+* Participants with defined abnormalities in kidney and liver laboratory tests at screening.
+* Participants in Sub-Saharan Africa or who have relocated from Sub-Saharan Africa within 6 months of screening.
+"""
+
+QUALIFY_NOTE:
+
+## NCT06591026
+Helpline Delivery of Brief Interventions for Postpartum Heavy Episodic Drinking
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Resides outside of the United States
+* Age under 18 years or over 45 years
+* Did not give birth to an infant within the prior 4 weeks
+* Cannot speak and read English
+* Does not own a text-enabled cell-phone
+* Does not receive a score of at least 2 on the T-ACE alcohol risk screener
+* Does not report either drinking weekly or more often in the past month or having 4 or more standard drinks at least monthly in the 12 months prior to becoming pregnant
+* Scores greater than 4 on the AUDIT-C, indicating an alcohol use disorder
+"""
+
+QUALIFY_NOTE:
+
+## NCT06624332
+Digital Screening and Brief Intervention for Perinatal Substance Use in Home Visiting
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Does not speak English
+* Under age 18 years
+* Did not give birth to a baby within the prior year
+* Not enrolled in a Healthy Families Kansas program with a participating home visitor
+* Currently enrolled in substance use treatment
+"""
+
+QUALIFY_NOTE:
+
+## NCT06807918
+Effects of Ketone Supplementation on Brain Energetics and Alcohol Consumption in Alcohol Use Disorder
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Unwilling or unable to refrain from use of alcohol, within 24 hours of Alcohol Bar Lab, MRI and PET procedures (self-report, breathalyzer).
+2. Use of psychoactive medications or medications that may affect study results (self-report, medical history).
+3. Current DSM-5 diagnosis of a major psychiatric disorder (other than alcohol, Marijuana, and nicotine use disorders) that required hospitalization or daily medication in the past year.
+4. Current significant alcohol withdrawal symptoms in the past 12 months that required medical treatment (self-report, medical history).
+5. A current, clinically significant physical disease or abnormality on the basis of medical history, physical examination, or routine laboratory evaluation that could interfere with study participation or make it hazardous for the subject to do so (e.g., bleeding disorder, pancreatitis, epilepsy, liver disease, kidney disease, or diabetes as determined by history and clinical exam); ALAT or ASAT concentration greater than 3 times the upper limit of normal (ULN), or bilirubin above the ULN. (Note-abnormal laboratory tests during screening may be repeated once).
+6. Current, major gastrointestinal (GI) diseases, such as: GERD, Crohn's disease, Irritable bowel syndrome, Ulcerative colitis, Celiac disease Diverticulitis, or other clinically significant physical disease that may interfere with the intake of the Ketone Supplement based on medical history, and evaluation of the Study Physician.
+7. Clinically significant laboratory findings that could affect brain function (e.g., HIV+).
+8. Head trauma with loss of consciousness for more than 30 minutes (self-report, medical history).
+9. Pregnant or breast-feeding
+10. Weight greater than 250lbs (Need to cap amount of alcohol give based on weight to individuals).
+11. BMI greater than 35.
+12. Self-reported claustrophobia.
+13. Contraindications to MRI (e.g., metal in the body that cannot be removed and is not MRI compatible).
+"""
+
+QUALIFY_NOTE:
+
+## NCT06822348
+Short-term Effects of Osteopathic Manipulations on Heart Rate Variability in Lung Cancer Patients - A Randomized Pilot Study (OSTEOCAN2)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patient with unilateral or bilateral vagotomy.
+* Patient with cardiac arrhythmia.
+* Patient undergoing treatment influencing cardiac rhythm (anti-arrhythmic drugs, beta-blockers, etc.)
+* Patient with relapsed cancer already treated with chemotherapy.
+"""
+
+QUALIFY_NOTE:
+
+## NCT06887452
+Pharmacist-Led Treat-to-Target Urate Lowering Therapy in Patients in Gout (Pharm-UP) Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Any patient intolerant or unable to take urate-lowering therapies (allopurinol or febuxostat)
+* Patients with a rheumatology encounter within the prior 3 months
+* Patients on an allopurinol dose \> 300 or a Febuxostat dose \> 40
+* Patients with stage IV/V Chronic Kidney Disease (CKD)
+* Patients with a life expectancy \< 12 months
+* Patients with a concomitant medication of azathioprine or 6-MPC (urate-lowering therapy contraindicated)
+"""
+
+QUALIFY_NOTE:
+
+## NCT07118410
+Effect of Resistance Exercise With Blood Flow Restriction by Vascular Occlusion on Myocardial Function in Heart Failure With Reduced Ejection Fraction
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patient participating in another Category I interventional study, or having participated in another interventional study in the last month
+* Patient in an exclusion period determined by a previous study
+* Patient under court protection, guardianship or curatorship
+* Unable to provide informed consent, or patient refuses to sign consent form
+* Pregnant, parturient or breast-feeding patient
+* Moderate to severe peripheral arterial disease. Arterial Doppler scan for arterial stenosis, with measurement of femoral and distal flows.
+* Active or recent deep vein thrombosis. Check with venous Doppler ultrasound, looking for venous compressibility at the roots of the thighs, and 4-point venous ultrasound.
+* Medication known to alter the effects of ischemic conditioning (cyclosporine, glibenclamide).
+* Uncontrolled arterial hypertension
+* Severe valvular disease
+"""
+
+QUALIFY_NOTE:
+
+## NCT07120503
+A Phase 2 Randomized, Double-blind Placebo-Controlled Study to Evaluate the Pharmacokinetics, Immunogenicity, Safety and Efficacy of WIN378 in Adult Participants With Moderate or Severe Asthma
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Participants with a known, pre-existing, clinically important lung condition other than asthma
+* Tuberculosis or treatment required for tuberculosis within 12 months
+* Current or former smokers ≥10 pack years
+* History of cancer
+* Receipt of any marketed biologic agent within 4 months or 5 half-lives prior to screening; Receipt of immunoglobulin or blood products within 30 days prior to screening or during the Screening Run-in period; Receipt of any live or attenuated vaccines within 15 days prior to screening
+* Helminth infection within 24 weeks prior to screening
+* Use of immunosuppressive medication within 3 months prior to Screening Visit or during the Screening Run-in period
+* Participants who are pregnant, lactating or breastfeeding
+"""
+
+QUALIFY_NOTE:
+
+## NCT07227103
+A Randomized, Double-Blind Controlled Comparison of NRX-101 vs. Placebo for Adults Being Treated With Transcranial Magnetic Stimulation for Treatment Resistant Depression: The SPARC-TMS Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+A patient is ineligible for inclusion in this study Heterosexual female of childbearing potential who is not willing to use one of the specified forms of birth control during the study. 2. Female who is pregnant (positive pregnancy test at Screening) or breastfeeding. 3. Active suicidality (without the intention to act) as evidenced by a score of \>3 on the Columbia Suicide Severity Rating Scale. 4. Current DSM-5 diagnosis of moderate or severe substance use disorder (except marijuana or tobacco use disorder) within the 12 months prior to Screening. (Note: Substance use disorder cannot be the precipitant for study entry). 5. Current DSM-5 diagnosis of alcohol use disorder 6. A lifetime history of phencyclidine (PCP)/ketamine drug abuse 7. History of schizophrenia or schizoaffective disorder 8. History of anorexia nervosa, bulimia nervosa, eating disorder not otherwise specified (NOS), or other specified feeding and eating disorders (OSFED) within 3 years of Screening. 9. Has dementia, delirium, amnestic, or any other cognitive disorder. 10. Renal impairment defined as estimated glomerular filtration rate (eGFR) \< 60 mL/min, calculated using the 2021 CKD-EPI creatinine equation (racefree). 11. Clinically significant hepatic impairment. Clinically significant hepatic impairment is defined as a history of chronic liver disease (e.g., cirrhosis, chronic hepatitis, alcoholic liver disease, nonalcoholic steatohepatitis) or evidence at Screening of acute liver disease or impaired liver function (e.g., ALT or AST \>3 × ULN, total bilirubin \>2 × ULN) or in the opinion of the Investigator. 12. A clinically significant abnormality on the Screening physical examination that may affect safety or study participation, or that may confound interpretation of study results according to the study clinician. 13. Risk factors for neurocardiogenic syncope including history of syncope/ presyncope related to noxious stimuli, anxiety, micturation, or posture. 14. Co-morbidities as ascertained by medical history, physical examination (including measurement of vital signs), clinical laboratory evaluations, and electrocardiogram (ECG) which might interfere with compliance or the ability to assess efficacy or safety. 15. Diagnosis of moderate to severe heart disease or current episode of:
+
+1. Myocardial infarction within 1 year of Screening.
+2. Diagnosis of angina pectoris.
+3. Prolonged QTc interval, as measured by Fridericia's correction formula (QTcF) ≥450 msec at Screening for males or ≥ 470 msec for females on 2 of 3 measurements at least 15 minutes apart prior to randomization on Day 1. 16. Diagnosis of chronic lung disease, excluding asthma. 17. Lifetime history of any of the following: neurologic conditions with structural cerebral damage, traumatic brain injury, multiple sclerosis, surgical procedures involving the brain or meninges, meningoencephalitis, degenerative central nervous system (CNS) disorder (e.g., Alzheimer's Disease, Parkinson's Disease), mental retardation, stroke (ischemic or hemorrhagic), intracranial abscess, or any other disease/procedure/accident/intervention that, according to the clinician, is deemed associated with significant injury to, or malfunction of, the CNS. 18. History of epilepsy, personal history of seizure, family history of epilepsy or seizure in a first degree relative. 19. Diagnosis of parenchymal or leptomeningeal cancer.
+
+Diabetes mellitus fulfilling any of the following criteria:
+
+1. Unstable diabetes mellitus defined as glycosylated hemoglobin (HbA1c) \>8.0 percent at Screening.
+2. Admitted to the hospital for treatment of diabetes mellitus or diabetes mellitus-related illness in the past 12 weeks.
+3. Not under physician care for diabetes mellitus.
+4. Not on the same dose of oral hypoglycemic drug(s) and/or diet for the 4 weeks prior to Screening. 180645 180645 Protocol NRX101-011\_ MIND1 V3.0 FINAL Pg. 8 NRX101-011 Protocol v3.0 9 Confidential
+5. Not on the same dose of oral thiazolidinediones (glitazones) for the 8 weeks prior to Screening. 21. Any current or past history of any physical condition which, in the opinion of the investigator, may put the patient at risk or interfere with study results interpretation. 22. On exclusionary concomitant psychotropic and non-psychotropic medications (see Section 9.5) 23. Prescribed more than one agent in each of the following categories at randomization:
+
+a. Approved SSRIs. b. Approved serotonin and norepinephrine reuptake inhibitors (SNRIs). c. Approved tetracyclic antidepressants (TeCAs). 24. Currently prescribed oxcarbazepine or carbamazepine. 25. Exclusionary laboratory values or any other clinically significant abnormal laboratory result at Screening. Within normal limits (WNL) will be determined based on lab values of the local lab used. 26. Known allergies to lurasidone or Latuda®, cycloserine or Seromycin®, or the following excipients: mannitol, croscarmellose sodium, magnesium stearate, silicon dioxide, and/or hydroxypropylmethylcellulose (HPMC). 27. Participation in any clinical trial with an investigational drug or device within the past 3 months or planned concurrent study participation. 28. Study site personnel and/or persons employed by NRx Pharma, Inc., the Contract Research Organization (CRO), the investigator, or study site (i.e., permanent, temporary contract worker, or designee responsible for the conduct of the study), or an immediate family member (i.e., spouse, parent, child, or sibling \[biological or legally adopted\]) of such persons. Positive urine toxicity screening for use of any cocaine, opiates, nonprescribed amphetamines, or non-prescribed barbiturates. (Note: cannabinoids or marijuana use is not exclusionary, unless patient meets the DSM-5 criteria for cannabis withdrawal). 30. Patients with pacemakers and/or any implants including metal in the head except the mouth (cochlear implant, implanted brain stimulators, aneurysm clips) 31. Individuals with an intracranial lesion or increased intracranial pressure
+"""
+
+QUALIFY_NOTE:
+
+## NCT07249944
+Myofunctional Therapy for Children With Obstructive Sleep Apnoea - a Multi-centre Randomised Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Genetic, syndromal, or metabolic disease
+* Congenital or acquired neuromuscular disease
+* Syndromal craniofacial abnormalities or previous craniofacial surgery
+* Severe developmental delay (developmental or functional age \<66% of chronological age)
+* Children with OSA who are indicated for and will receive other treatments such as adenotonsillectomy, positive airway pressure therapy or orthodontic treatment.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07288918
+The Effects of Different Educational Methods Given to Patients Undergoing Organ Transplantation on Quality of Life, Compliance With İmmunosuppressive Therapy and Symptom Control
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Having a diagnosis of a psychiatric or neurological disorder,
+* Having hearing or vision problems severe enough to impede communication,
+* Requesting to leave during the research period
+"""
+
+QUALIFY_NOTE:
+
+## NCT07289880
+Efficacy of Diacylglycerol Oil on Metabolic Risk Factors in Prediabetes
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Diagnosis of diabetes (Type 1 or Type 2).
+2. Current use of any glucose-lowering medication.
+3. Use of appetite suppressants or hormonal medications.
+4. History of bariatric surgery, or weight change \>5% in the past 3 months.
+5. Alcohol consumption \>40 g/day.
+6. Use of antibiotics, probiotics, or prebiotics within the past 3 months.
+7. Pregnancy, lactation or planning pregnancy.
+8. History of severe cardiovascular disease, malignancy, autoimmune disease, cognitive impairment, or severe dysfunction of thyroid, liver, kidney, or digestive system.
+9. Inability to comprehend information, communicate effectively, or comply with the study protocol.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07344285
+A Prospective Study of Cardiovascular Risk of Patients Admitted for Acute Exacerbation of COPD
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Pregnant subjects
+* Inability to give informed consent
+* Cancer patient who are on active chemotherapy or on palliative care
+"""
+
+QUALIFY_NOTE:
+
+## NCT07351357
+Multi-Centre Pragmatic Randomized Controlled Trial of Bowel Preparation Before Peritoneal Dialysis Catheter Insertion
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* known contraindication to peritoneal dialysis
+* ongoing diarrhoea or active inflammatory bowel disease
+* participation in another interventional study within last 30 days of randomization
+* history of a psychological illness or condition that would interfere with the patient's ability to understand the requirement of the study and/or comply with the dialysis procedures
+"""
+
+QUALIFY_NOTE:
+
+## NCT07379710
+Concomitant Use of Norepinephrine With Ephedrine Versus Norepinephrine Alone to Maintain Arterial Blood Pressure During Spinal Anesthesia for Cesarean Delivery, a A Prospective Double-blinded Study.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Uncontrolled cardiac morbidities As reduction of ejection fraction\< 60%, History (within 3months) of myocardial infarction, cerebrovascular accident, transient ischemic attacks or coronary artery disease/stents
+* Poorly controlled Hypertensive disorders of pregnancy
+* Peripartum bleeding
+* Coagulation disorders
+* Baseline systolic blood pressure (SBP) \< 100 mmHg
+* Refusal of patients.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07392645
+Clinical Efficacy of Electroacupuncture for Generalized Anxiety Disorder and Its Central Mechanism Based on Neuroimaging Changes
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Complicated with severe cardiovascular, cerebrovascular, or organic diseases.
+* History of other psychiatric disorders (e.g., schizophrenia, bipolar disorder).
+* Contraindications for MRI (e.g., metal implants, claustrophobia).
+* Pregnancy or lactation.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07413653
+Virtual hIStology of Crohn's Disease Ex-vivo Resected Anatomical Lesions
+Trigger: exclusion text missing/short
+
+Exclusion criteria:
+"""
+\- None
+"""
+
+QUALIFY_NOTE:
+
+## NCT07415694
+Evaluation of Child's Behavior Using Single Rotary File System Versus Manual Instrumentation in Pulpectomy of Primary Molars - A Randomized Clinical Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patients:
+
+  * Uncooperative children.
+  * Children with systemic disease.
+  * Physical or mental disabilities.
+  * Refusal of participation.
+  * Unable to attend follow- up visits.
+  * Refusal to sign the informed consent.
+
+Teeth:
+
+* Previously accessed teeth.
+* Mobile mandibular primary molars.
+* Pain on percussion.
+* Swelling in the vestibule or on palpation.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07438275
+Evaluation of Near-Infrared Spectroscopy and Bispectral Index Monitoring During Cerebral Aneurysm Coil Embolization
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Refusal or inability to provide informed consent
+* History of severe cerebrovascular disease other than the target aneurysm
+* Severe cardiac, pulmonary, hepatic, or renal dysfunction
+* Pre-existing neurological deficits interfering with NIRS or BIS interpretation
+* Known scalp or skin conditions preventing proper placement of NIRS or BIS sensors
+* Emergency procedures
+* Pregnancy -
+"""
+
+QUALIFY_NOTE:
+
+## NCT07465666
+Real-world Effectiveness of Angiotensin Receptor-Neprilysin Inhibitor (ARNi) Therapy in Lowering Blood Pressure in Hypertensive Patients in the United Arab Emirates
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Patients with malignant or severe hypertension (systolic blood pressure \[SBP\] ≥180 mmHg, diastolic blood pressure \[DBP\] ≥110 mmHg) at baseline.
+2. Patients with secondary causes of hypertension, as determined by the treating physician.
+3. Patients with a history of, or at risk of developing, angioedema.
+4. Patients with evidence of severe renal impairment (e.g., estimated glomerular filtration rate \[eGFR\] \<30 mL/min/1.73 m\^2).
+5. Pregnant or lactating women.
+6. Patients with serum potassium level ≥5.5 mmol/L at baseline.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07508514
+Early Temporal Dynamics of Optic Nerve Sheath Diameter After Glucocorticoid Therapy in Giant Cell Arteritis
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1\) Concurrent participation in a blinded interventional pharmaceutical clinical trial.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07548346
+REVIVE-CVST: A Multicenter, Prospective, Randomized, Open-Label, Blinded-Endpoint (PROBE) Trial of Endovascular Thrombectomy Plus Standard Medical Care Versus Standard Medical Care Alone in Adults With Acute or Subacute Cerebral Venous Sinus Thrombosis at High Risk of Poor Outcome in the Middle East and North Africa Region
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Isolated cortical vein thrombosis without dural sinus involvement
+* Isolated cavernous sinus thrombosis
+* Chronic-phase CVST on MRI phase characterization
+* Pre-morbid modified Rankin Scale (mRS) score greater than 2
+* Glasgow Coma Scale (GCS) score less than 9 at randomization
+* Imminent risk of transtentorial herniation requiring emergent decompressive craniectomy
+* Massive cerebral edema with midline shift greater than 10 mm requiring surgical intervention
+* Active systemic bleeding or hemorrhagic diathesis
+* Severe allergy to iodinated contrast media
+* CVST secondary to active hematological malignancy or life expectancy less than 12 months
+* Pregnancy
+* Participation in another interventional clinical trial within 30 days
+* Any condition rendering the patient unsuitable for study participation per investigator judgment
+"""
+
+QUALIFY_NOTE:
+
+## NCT07554326
+Rise & Thrive: Community-Engagement Intervention to Address Chronic Stress and Prevent Depression in Adolescents and Young Adults
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Younger than 15 years old, or older than 20 years old
+2. Unable to attend the in-person sessions
+3. Non-fluent English speaker
+4. Do not identify as Black or Hispanic/Latine
+"""
+
+QUALIFY_NOTE:
+
+## NCT07572994
+Evaluation of the Effect of Adding Sodium Bicarbonate to Lidocaine in the Treatment of Myofascial Pain Syndrome Using Surface Electromyography (sEMG)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Known allergy or hypersensitivity to lidocaine, sodium bicarbonate, or other amide-type local anesthetics Current use of anticoagulants or presence of bleeding disorders Local or systemic infection at or near the injection site History of fibromyalgia, cancer-related pain, or central pain syndromes Major psychiatric disorders (e.g., schizophrenia, severe depression) Recent trauma or surgery to the neck, shoulder, or back within the past 6 months Use of analgesics (e.g., NSAIDs, opioids) within 5 days prior to injection Severe systemic diseases (e.g., uncontrolled diabetes, liver failure, kidney failure, severe cardiovascular disease)
+
+\-
+"""
+
+QUALIFY_NOTE:
+
+## NCT07587138
+Clinical Evaluation of a Novel Trifocal IOL
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Clinically significant corneal diseases which may, according to the investigator's medical opinion, adversely affect visual outcomes.
+* Any ocular or systemic health condition or medical issue that, in the investigator's medical opinion, could make the study results unreliable, prevent the person from finishing the study, or increase their safety risk.
+* People who want to have one eye set for distance vision and the other for near vision.
+* The doctor expects significant blurry vision (astigmatism) after the procedure.
+* Other protocol-specified exclusion criteria may apply.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07590336
+Study on the Clinical Application of GPC3-targeting 68Ga-NYM207 PET/CT in Hepatocellular Carcinoma
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Pregnancy or lactation;
+2. Severe claustrophobia;
+3. On treatment with anti-tumor drugs targeting GPC3;
+4. Any condition deemed by the investigator to interfere with study results or increase participant risk.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07594379
+Effect of Bedside Flexible Bronchoscopy-Guided Airway Clearance on Lung Aeration in Mechanically Ventilated Patients With Atelectasis: A Multicenter Randomized Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Expected duration of artificial airway maintenance less than 5 days
+2. Untreated tension pneumothorax
+3. Large pleural effusions requiring thoracentesis.
+4. Known or suspected aspiration
+5. Active intrapulmonary hemorrhage
+6. Severe dysfunction of other organs with expected short-term mortality within 7 days or need for palliative care
+7. Any other condition judged by the medical team to make the participant unsuitable for the study
+8. Informed consent not obtained
+"""
+
+QUALIFY_NOTE:
+
+## NCT07618559
+The Food Network Effect: A Study of Food Related Visual Stimuli and Postoperative Gastrointestinal Recovery
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Critical illness requiring ICU-level care beyond the immediate postoperative period
+* Mechanical ventilation (intubated patients)
+* Requirement for high-level non-invasive ventilation (BiPAP for respiratory failure)
+* Hemodynamic instability requiring vasopressor support
+* Life support measures, including continuous renal replacement therapy (CRRT) or ECMO
+* Altered mental status impairing participation (delirium requiring restraints)
+* Glasgow Coma Scale (GCS) \< 13 or inability to follow commands
+"""
+
+QUALIFY_NOTE:
+
+## NCT07640334
+The Combination of Aortic Dissection Detection Risk Score With D-dimer to Rule-Out Acute Aortic Syndrome: Multicentre Prospective Study in Emergency Departments
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* An alternative diagnosis to AAS established by the treating physician after the initial assessment; OR
+* Trauma cases; OR
+* Patients with a known diagnosis of AAS before the index ED visit (e.g. with a diagnostic imaging done before the ED visit or referral from other institutions for AAS); OR
+* Clinical severity or other conditions not allowing complete evaluation/proper enrolment; OR
+* Patient who refuse to participate.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07644221
+Transcranial Electrical Stimulation for Noninvasive Study of Pain Circuits in Patients With Chronic Pain
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* If the subject is non-ambulatory.
+* If the subject is female of child-bearing potential, subject must not be pregnant.
+* Subject must not have a history of brain surgery or uncontrolled neurological conditions, such as seizure, fainting spells, transient ischemic attack.
+* Subject must not have lifetime history of severe, uncontrolled mood disorders (anxiety, depression, bipolar), psychotic disorders, other neural disorders, or heart disease.
+* Subject must not have any implanted electronic or metallic devices.
+* Subject must not have heart diseases, including known arrhythmia, or severe liver or severe gastrointestinal disease or chronic severe infectious disease (e.g. HIV/AIDS).
+"""
+
+QUALIFY_NOTE:
+
+## NCT07647549
+Pulmonary Hypertension (PH) Biorepository for Translational Research
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Any individual who does not meet all inclusion criteria or is deemed by the local investigator not to be a blood draw candidate will be excluded from participating in this study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07658183
+A Randomized, Open-Label, Multicenter Phase II Clinical Trial: Comparing the Efficacy and Safety of Different Doses of BL0175 Injection in Treating Postmenopausal Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Locally Advanced or Metastatic Breast Cancer Patients
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Participants with symptomatic central nervous system (CNS) metastases or cancerous meningitis;
+2. Have a history of other primary malignant tumors (except for participants who have been cured of skin basal cell carcinoma, skin squamous cell carcinoma, or cervical carcinoma in situ, and participants with other primary tumors that have no evidence of disease for 2 years or more and do not require treatment).
+3. Patients whose pericardial effusion, pleural effusion or ascites remain uncontrollable after intervention.
+4. Participants who have a history of allogeneic transplantation (including but not limited to allogeneic organ, bone marrow, or stem cell transplantation).
+5. A history of allergic to fulvestrant, or prone to allergic reactions (such as prone to angioedema, urticaria, asthma, rash, etc.).
+6. Severe cardiovascular or cerebrovascular diseases, including: Heart failure classified as New York Heart Association (NYHA) functional class III-IV (assessment only for patients with a history of heart disease), or left ventricular ejection fraction (LVEF) \<50% (if LVEF data are available); Uncontrolled ventricular arrhythmias: baseline QT interval corrected by Fridericia method (QTcF) \> 480 ms, or congenital long QT syndrome; Myocardial infarction, severe or unstable angina, congestive heart failure, cerebrovascular accident (including transient ischemic attack), symptomatic pulmonary embolism, or other clinically significant thromboembolic events occurring within 6 months prior to the first administration of the investigational drug, or coronary artery bypass graft surgery performed within 6 months prior to the first administration of the investigational drug; Clinically symptomatic bradycardia as assessed by the investigator; Other clinically significant cardiovascular diseases that, in the opinion of the investigator, make the patient unsuitable for participation in the trial.
+7. Human immunodeficiency virus (HIV) infection or positive HIV antibody test at screening.
+8. Active hepatitis B (HBV DNA ≥2000 IU/mL) or active hepatitis C (HCV RNA ≥200 IU/mL). Additionally, eligible participants with hepatitis B or C must agree to receive antiviral treatment according to established guidelines; otherwise, they will not be enrolled.
+9. Active infection requiring intravenous antibiotic therapy within 1 week prior to the first administration of the investigational drug.
+10. Moderate or severe hepatic impairment, defined as meeting Child-Pugh classification criteria B or C.
+11. Insufficient organ function reserve at baseline, as defined by any of the following criteria (no blood products \[including platelets or red blood cells\] or colony-stimulating factors \[including granulocyte colony-stimulating factor, granulocyte-macrophage colony-stimulating factor, or recombinant erythropoietin\] administered within 7 days prior to testing): Absolute neutrophil count (ANC) \<1.5×10⁹/L; Total bilirubin \>1.5×ULN; ALT or AST \>3×ULN if no liver metastasis is present; ALT or AST \>5×ULN if liver metastasis is present; Hemoglobin (Hb) \<90 g/L; Platelet count (PLT) \<100×10⁹/L; International Normalized Ratio (INR) \>1.5 (for patients on anticoagulant therapy, values within therapeutic range are acceptable); Creatinine clearance \<30 mL/min.
+12. Receipt of anti-tumor drugs or investigational agents within the following time intervals prior to the first administration of the investigational drug: Anti-tumor endocrine therapy, targeted small-molecule therapy, or radiotherapy (except palliative radiotherapy or radiotherapy not involving the planned target lesion) ≤14 days or 5 half-lives (whichever is shorter); Chemotherapy ≤28 days or 5 half-lives (whichever is shorter); Immunotherapy or cell therapy (e.g., chimeric antigen receptor T-cell therapy) ≤28 days; other forms of cell therapy must be discussed with the investigator to determine eligibility; Monoclonal antibodies used for anti-tumor treatment ≤28 days; Traditional Chinese medicine with a clearly defined anti-tumor indication ≤14 days; Immunosuppressive therapy for any reason ≤7 days; All other investigational drugs or devices ≤28 days or 5 half-lives (whichever is shorter).
+13. Bleeding disorders (e.g., disseminated intravascular coagulation, deficiency of coagulation factors), or requiring long-term anticoagulant therapy (excluding antiplatelet therapy and low-dose warfarin or low-molecular-weight heparin).
+14. Severe vascular embolic events requiring medical or surgical intervention.
+15. Active autoimmune diseases requiring systemic treatment (including use of immunomodulatory agents, corticosteroids, or immunosuppressive drugs).
+
+    Note: Patients with hyperthyroidism/hypothyroidism are eligible for enrollment. Hormonal replacement therapy and symptomatic treatments (e.g., levothyroxine for adrenal or pituitary insufficiency, insulin, or physiologic corticosteroid replacement) are not considered forms of systemic therapy and are permitted.
+16. Received systemic corticosteroids within 4 weeks prior to the first administration of the investigational medicinal product (except low-dose corticosteroids, such as ≤20 mg prednisone per day or equivalent).
+17. Underwent major surgery within 4 weeks prior to the first administration of the investigational medicinal product, or planned to undergo major surgery during the study period.
+18. Currently pregnant or breastfeeding, or expected to become pregnant during the study period (from screening visit through 2 years after the last dose of study treatment).
+19. Not recovered from toxicity related to prior treatment (including prior immunotherapy) and/or complications from surgical interventions to a CTCAE v6.0 grade ≤1.
+
+    Note: Participants with stable chronic adverse events (≤grade 2) that are not expected to resolve spontaneously (e.g., peripheral neuropathy and alopecia) are allowed.
+20. Any other condition deemed unsuitable for participation in this trial by the investigator.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07673575
+EFFECT OF MULLIGAN CERVICAL SUSTAINED NATURAL APOPHYSEAL GLIDE ON POSTURAL STABILITY IN PATIENTS WITH CHRONIC NECK PAIN
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* The patients will be excluded if they present with:
+
+  1. Specific causes of neck pain, such as fracture, tumor, infection, inflammatory disease, or cervical myelopathy, confirmed by X Ray and physical examination
+  2. Cervical radiculopathy or neurological deficits (e.g., dermatomal sensory loss, reflex changes, or muscle weakness)
+  3. History of cervical spine surgery or recent trauma (within the last 6 months)
+  4. Vestibular disorders or conditions affecting balance (e.g., vertigo unrelated to cervical origin)
+  5. Temporomandibular disorders, significant shoulder pathology, and shoulder surgeries that may influence cervical movement or outcomes
+  6. Participation in physiotherapy or manual therapy for neck pain within the previous 3 months
+  7. Pregnancy or any medical condition contraindicates manual therapy
+  8. History of chronic ankle instability
+  9. Any lower limb pathology affecting balance
+"""
+
+QUALIFY_NOTE:
+
+## NCT07684313
+Multi-center, Single-arm, Observational Study Assessing Real-world Safety and Performance of the TRIFORMIS RESILIA Tricuspid Valve for Surgical Tricuspid Valve Replacement (TRIBLAZE Study)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+• Untreatable hypersensitivity to nitinol alloys (nickel and titanium)
+"""
+
+QUALIFY_NOTE:
+
+## NCT07687056
+A Multicentre,Prospective,Randomized,Open Label,Blinded-endpoint Trial for Reperfusion Enhancement After Completing Thrombectomy Using Intraarterial Thrombolysis(REACT-IA-Thrombolysis Domain)Embedded in A Multi-faCtorial,mulTi-arm, Multi-staGe,Randomised,gLOBal Adaptive pLatform Trial for Stroke(ACT-GLOBAL) NCT06352632
+Trigger: exclusion text missing/short
+
+Exclusion criteria:
+"""
+There are no platform level exclusion criteria.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07701538
+Association Between Frailty and Central Venous Catheterization Difficulty in Adult Cardiac Surgery Patients: A Prospective Ultrasound-Based Observational Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Conditions Affecting Neck Anatomy
+
+1. Previous neck surgery.
+2. History of radiotherapy to the neck region.
+3. Presence of a neck mass, infection, or any lesion that may distort neck anatomy.
+4. Known internal jugular vein thrombosis.
+5. Congenital vascular anomalies causing significant alteration of the internal jugular vein or carotid artery anatomy.
+
+Clinical Conditions Affecting Catheterization
+
+1. Patients requiring emergency cardiac surgery.
+2. Presence of an existing central venous catheter.
+3. Severe coagulopathy (INR \> 2.0 or platelet count \< 50,000/mm³).
+4. Hemodynamic instability or requirement for active cardiopulmonary resuscitation.
+
+Conditions Affecting Frailty and Handgrip Strength Assessment
+
+1. Severe neurological disorders (e.g., advanced dementia or disabling sequelae of stroke).
+2. Orthopedic or neuromuscular disorders affecting upper extremity function.
+3. Inability to perform handgrip strength measurement due to severe arthritis or hand deformity.
+
+Conditions Affecting Study Participation
+
+1. Cognitive impairment preventing reliable clinical assessment or informed participation.
+2. Refusal to participate in the study.
+3. Any other condition that, in the investigator's judgment, may compromise patient safety or interfere with study participation.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07708350
+A Pilot Trial of Hematopoietic Stem Cell BCL11A Enhancer Gene Editing for Sickle Cell Disease
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Subjects who have concomitant condition or illness including, but not limited to:
+
+   1. Uncontrolled infection, such as current febrile illness, infection requiring parenteral antibiotics, or systemic fungal infection.
+   2. Active malignancy.
+   3. Active complication of underlying hemoglobinopathy that would place the patient at unacceptable risk for participation, in the judgment of the Investigators.
+   4. Major surgery in the past 30 days.
+   5. Medical/psychiatric illness/social situations that would limit compliance with study requirements as determined by the treating physician.
+
+      * Contraindication to administration of conditioning medication (busulfan).
+
+3\. Subjects who have undergone allogeneic or autologous hematopoietic stem cell transplant previously.
+
+4\. Either or both of the following findings on screening bone marrow aspirate/biopsy: a) diagnosis of myelodysplastic syndrome (MDS) based on morphology and/or cytogenetics (based on WHO definitions) or b) pathogenic mutation in any gene on the Rapid Heme Panel (RHP), a next-generation targeted sequencing clinical assay for hematologic malignancy associated mutations.
+
+5\. For SCD patients:
+
+1. Severe cerebral vasculopathy (defined by occlusion or stenosis in the circle of Willis; or presence of Moyamoya disease)
+2. Receiving a chronic transfusion regimen for primary or secondary stroke prophylaxis. (Note: patients with a history of abnormal transcranial Doppler (TCD) who have transitioned from transfusions to hydroxyurea for stroke prophylaxis are also not eligible for the study. Most recent TCD must be within one year of screening for patients up to 16 years old.)
+3. History of overt stroke or any neurologic event lasting \> 24 hours. (Note: patients with imaging evidence of silent stroke but not on a chronic transfusion regimen are not excluded.) 6. Severe iron overload that is deemed to be grounds for exclusion based on the opinion of the Principal Investigator.
+
+   7\. Known positive Human Immunodeficiency Virus (HIV) serology or HIV nucleic acid testing, or positive serology for Hepatitis C (HCV), Hepatitis B (HBV), or Human T-Lymphotropic Virus (HTLV).
+
+   8\. Known acute hepatitis or evidence of moderate or severe portal fibrosis or cirrhosis on prior biopsy.
+
+   9\. Receipt of an investigational study drug or procedure within 90 days of study enrollment.
+
+   10\. Pregnancy, or breastfeeding in a postpartum female, or absence of adequate contraception for fertile subjects. Females of child-bearing potential must agree to use a medically acceptable method of birth control such as oral contraceptive, intrauterine device, barrier and spermicide, or contraceptive implant/injection from Screening through at least 6 months after drug product infusion. Male subjects must agree to use effective contraception (including condoms) from Screening through at least 6 months after drug product infusion.
+
+   11\. An assessment by the Investigators that the subject will not comply with the study procedures outlined in the study protocol, or that, as determined by the investigators and/or transplant physician, the subject has any other condition rendering the subject ineligible for Hematopoietic Stem Cell Transplantation (HSCT) or other study procedures.
+
+   12\. Patients carrying at least one cytosine (C) alternate allele at the SNP site rs114518452, chr2:210530659-210530659 (GRCh38/hg38), where guanine (G) is the reference allele.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07713719
+Pathophysiology of Heart Failure: the Role of Arterial Stiffness and Endothelial Function
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* • Inability to provide verbal informed consent.
+
+  * Presenting with severe symptoms; major co-morbidity or other alternative diagnoses (e.g., malignancy, severe respiratory disease, severe mental health problem/s).
+  * Recent acute coronary syndrome (within 60 days).
+  * Severe physical disability preventing independence.
+  * Severe renal insufficiency.
+  * Pregnancy (Present or planned).
+  * Life expectancy less than 12 months
+"""
+
+QUALIFY_NOTE:
+
+## NCT07735286
+Automating Tobacco Cessation in Primary Care Via EHR Integration: A Non-Randomized Trial
+Trigger: exclusion text missing/short
+
+Exclusion criteria:
+"""
+* None except as specified in inclusion criteria.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07735611
+Robotic Systems Evaluation for Peripheral Pulmonary Lesions: A Randomized Trial (RISE Trial)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Enrolled in another clinical trial that requires the use of a specific navigational/robotic bronchoscopy platform.
+* Enrolled in another bronchoscopy-related clinical trial.
+* Participant or legally authorized representative declines participation.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07735637
+A Phase III, Open-label, Multicentre, Randomised Study Comparing Consolidation Treatment With AZD0120, an Autologous Dual Targeting Chimeric Antigen Receptor T-cell (CAR-T) Therapy Directed Against BCMA and CD19, Versus Autologous Stem Cell Transplant (ASCT) in Participants With Newly Diagnosed Multiple Myeloma Who Are Transplant Eligible (TE NDMM) (DURGA-6)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Known active, or prior history of CNS involvement or exhibits clinical signs of meningeal involvement of MM.
+* Primary amyloidosis, active plasma cell leukaemia (at diagnosis and/or at time of screening), Waldenstrom macroglobulinemia or POEMS syndrome.
+* Significant neurological or psychiatric condition
+* Significant medical condition that places the participant at an unacceptable risk for treatment-related complications
+* Participants who required the introduction of an additional agent therapy due to inadequate response.
+* Prior T-cell engager therapy directed at any target.
+* Prior CAR-T and/or CAR-NK cell therapy directed at any target for any indications
+* Prior any therapy that is targeted to BCMA and CD19.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07749833
+Efficacy of an Artificial Intelligence-Driven Program Versus a Traditional Physical Therapy Program in Patients With Low Back Dysfunction
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Recent spinal injury or spinal surgery.
+* Previous spinal surgery within the last 6 months.
+* Severe neurological disorders (e.g., multiple sclerosis or Parkinson's disease).
+* Chronic conditions that significantly limit mobility (e.g., advanced arthritis).
+* Current use of strong opioid analgesics.
+* Severe psychiatric disorders.
+* Inability to use or access the required technology for the AI intervention.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07759336
+Personalized Analgesia Through Central Nervous System Engagement to Unlock Performance
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Inflammatory arthritis (e.g. rheumatoid arthritis).
+* More intense pain due to another chronic pain syndrome (e.g. fibromyalgia, hip osteoarthritis)
+* Significant pain or weakness in the lower extremities due to a neurological condition (e.g. lumbar radiculopathy, paresis due to stroke)
+* New, ongoing acute pain
+* Recent use of duloxetine defined as any use within the last 3 months
+* Current use of antidepressants or tramadol
+* Current routine use of more than 30 mg oral morphine equivalents per day (use of \<=30 mg OME does not exclude the participant).
+* New treatment that may help knee osteoarthritis (including medication, exercise, behavioral, or complementary and integrative treatments) started in the last month. Stable use of treatments for greater than 1 month does not exclude the participant.
+* Unwillingness to maintain current knee osteoarthritis treatments for the duration of the study. This means that eligible participants must plan for the following: medications and dietary supplements should not change substantially in frequency or dose; behavioral therapy, exercise therapy, and complementary and integrative therapies should be consistent; and there should be no interventional treatments planned for lower extremity musculoskeletal conditions (e.g. joint steroid injections, knee radiofrequency ablation, knee replacement surgery).
+* Recent knee intra-articular injection of steroid or other agent (greater than 1 month does not exclude the participant)
+* Recent knee radiofrequency ablation (greater than 3 months does not exclude the participant)
+* Recent knee arthroscopic surgery (greater than 3 months does not exclude the participant)
+* History of knee replacement or open knee surgery on the index knee, defined as the more painful knee on average over the last month.
+* Inability to walk or climb stairs without significant assistance (e.g. a one-person assist, use a wheelchair; use of a cane does not exclude the participant).
+* Inability to participate in study procedures (e.g. cognitive impairment limiting ability to understand directions, inability to understand and read English)
+* Uncontrolled or unstable medical disorder preventing participation in study procedures
+* History of brain surgery
+* Tattoos on sensory testing sites
+* Pregnancy
+* History of severe renal impairment defined by GFR \< 30 ml/min or, if renal function testing is not available on EMR review, patient-reported history of acute or chronic kidney disease of any severity
+* History of chronic liver disease or cirrhosis
+* History of angle-closure glaucoma
+"""
+
+QUALIFY_NOTE:
+
+## NCT07778498
+A Phase I/II, First-in-Human, Open-Label, Dose Escalation and Dose Expansion Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Preliminary Efficacy, and Immunogenicity of TJ102 in Participants With Advanced or Metastatic Ovarian Cancer and Other Solid Tumors.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Has know hypersensitivity to any component of TJ102 or has a history of severe hypersensitivity reactions to other monoclonal antibodies.
+2. Has received more than two (2) prior antibody-drug conjugate (ADC) therapies in the advanced or metastatic disease setting, including ADCs containing topoisomerase I inhibitor payloads (e.g., SN-38, DXd, exatecan derivatives) or antimicrotubule payloads (e.g., MMAE, DM1/DM4, auristatins, maytansinoids).
+3. Prior therapy with any antibody-drug conjugate (ADC) whose cytotoxic payload is eribulin or a structural derivative thereof is prohibited in the advanced/metastatic disease setting.
+4. Has received mitomycin and nitrosoureas treatment within 6 weeks prior to the first administration; oral fluorouracil-like drugs such as S-1, capecitabine, or palliative radiotherapy within 2 weeks prior to the first administration; Has received other chemotherapy, biological therapy, major surgery, radical radiotherapy, targeted therapy (including small molecule inhibitor of tyrosine kinase) and other anti-tumor therapy within 5 half-lives or 28 days, whichever is shorter, prior to the first administration of TJ102; Has received anti-tumor herbal medicine within 14 days prior to first dose of TJ102;
+5. Has received a strong or moderate CYP3A4 inhibitor within 3 half-lives prior to first dose of TJ102;
+6. Received an investigational drug within 28 days or 2 half-lives (whichever is shorter) prior to first dose of TJ102; Current participation in other interventional clinical studies (participation in survival follow-up is allowed);
+7. Toxic effects of prior anti-tumor therapy have not recovered to NCI-CTCAE V6.0 Grade ≤1 (excluding alopecia and skin pigmentation). Subject with irreversible toxicities caused by prior anti-tumor therapy (eg, hearing loss) that will not increase the safety risk may be eligible per the discretion of the Investigator;
+8. Has a history of (non-infectious) interstitial lung disease (ILD) that required steroids, has current ILD/pneumonitis, or where suspected ILD/pneumonitis can't be ruled out by imaging at screening;
+9. Presence of severe dry eye syndrome, severe keratitis, severe conjunctivitis, or other severe conditions that may increase the risk of corneal epithelial damage at the discretion of investigator;
+10. Presence of Grade ≥2 or history of Grade ≥3 peripheral neuropathy.
+11. Uncontrolled or significant cardiovascular disease
+12. For patients with documented positive virology status, as confirmed by Screening hepatitis B virus (HBV), hepatitis C virus (HCV) and human immunodeficiency virus (HIV) tests, only the following patients may be eligible as evaluated by the sponsor and investigator:
+
+    Patients with active hepatitis B: HBV DNA ≤500 IU/mL during Screening. Patients who are hepatitis C virus antibody positive (HCV Ab+), should have controlled infection (HCV RNA≤ULN by polymerase chain reaction \[PCR\] either spontaneously or in response to a successful prior course of anti-HCV therapy at Screening). Patients with controlled infections must undergo periodic monitoring of HCV RNA as per treating physician.
+13. Severe infection, including but not limited to hospitalization due to infection, bacteraemia, or severe pneumonia complications, occurs within 4 weeks prior to initiation of study treatment; Or patients who received therapeutic oral or intravenous antibiotics and who received prophylactic antibiotics (e.g., for the prevention of urinary tract infection or chronic obstructive pulmonary disease) within two weeks prior to starting study treatment.
+14. Active central nervous system (CNS) metastases or meningeal metastases. Subjects may be enrolled in the study if their CNS metastases have received adequate local therapy and have been clinical stable for at least 4 weeks (i.e., imaging shows no progression of the brain lesion and neurologically relevant symptoms are stable), and require a dose of prednisone of ≤20 mg/day (or equivalent dose). Subjects with untreated CNS metastases are excluded.
+15. Other malignancies within 3 years prior to initiation of study treatment (Note: does not include tumors with a negligible risk for metastasis or death, eg, non-melanoma basal cell carcinoma or squamous cell carcinoma of the skin, breast/cervical carcinoma in situ, superficial bladder carcinoma that have received radical treatment and without evidence of disease recurrence);
+16. Female patients who are lactating or breastfeeding;
+17. The investigator believes that the subject may have other factors that may affect the results of the study and interfere with the subject's participation in the entire study process, including previous or existing physical conditions, abnormal treatment or laboratory tests, and the subject's unwillingness to comply with all procedures, restrictions, and requirements of the study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07779798
+A Phase 1, Open-Label, Dose-Escalation Study to Evaluate Safety, Tolerability, and Clinical Activity of CBX-663 in Participants With Relapsed or Refractory Myeloid Malignancies, Advanced Solid Tumors, or Recurrent or Progressive Glioblastoma.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Cohort C (Recurrent/Progressive GBM) Specific Exclusion Criteria:
+
+1. Known or suspected leptomeningeal disease are excluded, defined as radiographic evidence of leptomeningeal involvement on MRI of the brain and/or spine, or positive cerebrospinal fluid (CSF) cytology, at screening or prior to first dose.
+2. Tumors involving the brainstem or spinal cord are excluded, including primary tumors arising from, or metastatic lesions involving, the brainstem (midbrain, pons, or medulla) or spinal cord.
+3. Received prior bevacizumab or any other anti-VEGF or anti-VEGFR therapy.
+4. Absolute lymphocyte count \<800/uL.
+5. Clinically significant mass effect or midline shift.
+
+   Exclusion Criteria for All Participants:
+6. Previous treatment with any pHLA-targeting T-cell engager.
+7. Isolated extramedullary relapse.
+8. Active central nervous system (CNS) disease. Participants with prior CNS history can be enrolled if the participant has a negative lumbar puncture following completion of intrathecal chemotherapy.
+
+   • Note: this does not apply to Cohort C GBM participants
+9. Known HIV infection.
+10. Active hepatitis B infection (participants with documented clearance following treatment are allowed).
+11. Active hepatitis C infection (participants with documented clearance following treatment are allowed).
+12. Any acute or chronic infection requiring systemic treatment
+13. Pregnant or nursing women: Negative serum pregnancy tests are required during Screening and a negative serum or urine pregnancy test is required within 72 hours prior to receiving the first study drug administration, in females of childbearing potential. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.
+14. Cardiac Disease:
+
+    * Any of the following within the 6 months prior to study entry: myocardial infarction, uncontrolled/unstable angina, congestive heart failure (New York Heart Association Classification Class \>II), life-threatening, uncontrolled arrhythmia, cerebrovascular accident, or transient ischemic attack.
+    * QTc using Fridericia's correction (QTcF) \>480 msec
+15. Graft-Versus-Host Disease (GVHD): Active GVHD.
+16. Concurrent malignancy in the previous 2 years with the exception of basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma in situ (e.g., breast carcinoma, cervical cancer in situ, melanoma in situ) treated with potentially curative therapy. Concurrent malignancy must be in CR or no evidence of disease (NED) during this timeframe.
+17. Current or historical diagnosis of a gastrointestinal autoimmune or inflammatory condition, including but not limited to ulcerative colitis (UC), Crohn's disease (CD), indeterminate colitis, or microscopic colitis (collagenous or lymphocytic colitis), or a history of GI toxicity from previous therapy that, in the opinion of the investigator, should preclude study participation.
+18. Significant impairment of lung function requiring chronic use of ambulatory supplemental oxygen.
+19. Screening laboratory values or investigations that do not meet the requirements for adequate organ function.
+20. History of or any concurrent condition, therapy, or laboratory abnormality that in the Investigator's opinion might confound the results of the study, interfere with the participant's participation for the full duration of the study, or is not in the best interest of the participant to participate.
+21. Any commercially available or investigational anti-leukemic or anti-cancer therapy other than CBX 663, with the following exceptions:
+
+    • Intrathecal chemotherapy for CNS prophylaxis is permitted after C1 is complete, at the treating physician's discretion.
+22. Participants who experienced severe, life-threatening or recurrent (≥ Grade 2) immune-mediated adverse events or infusion-related reactions including those that led to permanent discontinuation while on previous treatment with immuno-oncology agents.
+23. Any concurrent systemic treatment to prevent GVHD. Topical treatments for GVHD are permitted. Participants who stopped calcineurin inhibitor (CNI) prophylaxis should be off CNI for at least 4 weeks.
+24. Known allergy or sensitivity to study drug, including excipients.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07781800
+From Screening to Action: Implementing Navigation Interventions for Patients With Breast Cancer and High-risk Social Determinants of Health
+Trigger: exclusion text missing/short
+
+Exclusion criteria:
+"""
+(none)
+"""
+
+QUALIFY_NOTE:
+
+## NCT07783737
+China Glomerulonephritis Kidney Transplant Recipient Cohort: A Prospective Multicenter Observational Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* History of organ transplantation or planned multiple organ transplantation.
+* Complicated with malignancy.
+* Failure to undergo kidney transplantation for any reason.
+* Unable to provide written informed consent form (ICF).
+"""
+
+QUALIFY_NOTE:
+
+## NCT07789314
+REACT: A Just-in-Time Adaptive Intervention to Reduce Reactive Digital Behavior in College Students
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Varsity student-athlete governed by the university athletic association
+* Unable to complete study procedures in English
+"""
+
+QUALIFY_NOTE:
+
+## NCT07812350
+Digital Care Pathway and Asynchronous Communication for Primary Care Patients With Uncontrolled Hypertension: a Cluster-Randomized Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* unwillingness to participate in the study
+* secondary hypertension or hypertensive crisis (office blood pressure \>200/130 mmHg)
+* atrial fibrillation
+* stage 4 or 5 chronic kidney disease (eGFR \<30 mL/min/1.73 m²)
+* a life expectancy of less than 1 year
+* pregnancy or breastfeeding
+* a clearly impaired ability to use the study interventions or participate in the study, as determined by a healthcare professional (e.g., insufficient Finnish language proficiency, dementia, psychiatric illness, or sensory impairments)
+"""
+
+QUALIFY_NOTE:
+
+## NCT07815912
+Effectiveness of a Cognitive Behavioral Therapy-Based Smoking Relapse Prevention Intervention Among Patients With Cancer at a Hospital in Vietnam
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Have a medical, psychiatric, cognitive, hearing, speech, or other condition that prevents effective communication or meaningful participation in the counseling intervention or study assessments.
+2. Are not expected to be contactable or able to complete the planned follow-up assessments.
+3. Are currently using other combustible tobacco products, such as waterpipe tobacco, shisha/hookah, cigars, or pipes.
+4. Are currently participating in another structured smoking-cessation intervention or clinical trial that could materially affect the study outcomes.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07820761
+Evaluating the Safety and Efficacy of Robot-assisted Retinal Vein Cannulation in Patients With Retinal Vein Occlusions.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Participants with comorbidities contraindicating vitreoretinal surgery (e.g. excessive tremor) as determined by the investigator.
+* Participants with ocular comorbidities contraindicating the use of steroid implants (e.g. glaucoma) or anti-VEGFs as determined by the investigator.
+* Participants who are participating in another research trial involving an investigational product or surgical intervention.
+* Participants with known allergy to Fluorescein
+* Participants with contraindications for the use of tPA (Alteplase, Boehringer Ingelheim, Germany) or currently receiving or starting medications that have a known interaction with tPA, as identified in the SmPC, which may alter its efficacy or safety profile of tPA.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07823426
+Prevalence of Cervical Spinal Cord Signal Abnormalities and Determinants of Treatment Selection in Patients With Cervical Radicular Pain: A Prospective Cohort Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Previous cervical spine surgery
+* Acute cervical spine trauma
+* Known cervical spinal malignancy
+* Active spinal infection
+* Known inflammatory, demyelinating, or other non-degenerative spinal cord disease
+* Severe cognitive impairment or communication difficulty preventing reliable clinical assessment
+* Inadequate or non-diagnostic cervical MRI quality
+* Refusal to participate
+"""
+
+QUALIFY_NOTE:
+
+## NCT07833956
+Relationship Between Cardiovascular Recovery After a Submaximal Exercise Test and Circadian Rhythm: A 6-Minute Walk Test-Based Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Presence of cardiovascular, pulmonary, neurological, or orthopedic disease.
+* Having a health problem that prevents exercise.
+* Use of medication that may affect exercise tolerance.
+* Pregnancy.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07838675
+Feasibility Of An Online Self-management Mediterranean Diet Program To Improve Dietary Behaviour And Quality Of Life For People Living With Parkinson's Disease: The MediPD Pilot Randomised Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Atypical or secondary parkinsonism
+* Living in an institution
+* Self-reported body mass index \<18.5 kg/m²
+* High risk of malnutrition, defined as MUST score ≥2
+* Receiving prescribed nutritional support
+* Significant cognitive impairment, defined as T-CogS ≤21
+* Pregnancy
+* Active inflammatory bowel disease
+* Dysphagia requiring a pureed diet
+* Food allergies that would prevent adherence to a Mediterranean-style diet
+* Following a vegan diet that would prevent adherence to the study's Mediterranean-style dietary intervention.
+* Current participation in another interventional trial
+* Participation in an investigational medicinal product trial within the previous 90 days where this may affect study outcomes or participant burden
+* Previous participation in a My Moves Matter dietary programme.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07840235
+Cervical Stiffness in Women With Threatened Preterm Labor: a Czech Cohort Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Signs of imminent labor such as strong, painful and intense contractions (strong suspicion of true labor).
+* Cervical dilatation ≥ 3 cm
+* Signs of intrauterine infection / amnionitis
+* Obstetric indication for immediate delivery (advanced labor, cord prolapse, placenta abruption, signs of fetal distress)
+* Confirmed fetal abnormality
+* Fetal death
+* Known or suspected rupture of membranes
+* Confirmed vasa / placenta previa
+* Severe active vaginal bleeding
+* Light bleeding that cannot be stopped
+* Cerclage or pessary in place
+* Müllerian anomalies
+* Female genital mutilation
+"""
+
+QUALIFY_NOTE:
+
+## NCT07861282
+Impact of a Therapeutic Exercise Program Delivered Through Telerehabilitation on Postoperative Recovery in Patients Diagnosed With Lung Cancer (TEPUL): A Randomized Controlled Clinical Trial.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Any medical condition or comorbidity that contraindicates participation in an exercise program.
+* Current psychiatric disorder that may interfere with study participation.
+* Inability to provide written informed consent.
+* Previous thoracic surgery.
+* History of another malignancy within the past one year.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07870915
+Investigation of the Relationship Between Interoception and Postural Control in Constipation-Predominant Irritable Bowel Syndrome
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Having a neurological, rheumatological, or serious orthopedic disease.
+* Having a history of surgery that may affect posture.
+* Pregnancy.
+* Being unable to complete the assessments due to cognitive or communication impairment.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07874672
+Clinical Effectiveness of the Serratus Posterior Superior Intercostal Plane Block (SPSIP Block) in Shoulder Arthroscopy: an Exploratory Prospective Observational Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Refusal to provide consent to study participation.
+* Pre-existing central or peripheral sensory neuropathy.
+* Estimated time between block performance and entry into the operating room of less than 30 minutes.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07876076
+A Phase 1, Randomized, Double-blind, Placebo-controlled, Single and Multiple Ascending Dose Study to Evaluate Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Immunogenicity of Subcutaneous and Intravenous ADX-001 in Healthy Adult Participants
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+You cannot participate in this study if any of the following apply to you:
+
+1. Medical Conditions
+
+   * You have a serious or ongoing health condition affecting the heart, lungs, liver, kidneys, digestive system, hormones, nervous system, immune system, or mental health.
+   * You have a history of severe allergic reactions, anaphylaxis, or are allergic to the study drug or its ingredients.
+2. Infections
+
+   * You test positive for HIV, hepatitis B, or hepatitis C.
+   * You have tuberculosis (TB), a history of TB, recent close contact with someone who has active TB, or a positive TB screening test.
+   * You test positive for COVID-19 before receiving the study drug.
+   * You have an active or long-term infection requiring treatment.
+   * You have needed antibiotics or other anti-infective treatment within the last month.
+   * You were hospitalized or required intravenous (IV) treatment for an infection within the last 3 months.
+   * You have a history of certain recurring infections, such as shingles (herpes zoster).
+   * You have a fever higher than 37.7°C during screening or within 7 days before dosing.
+   * In some cases, minor abnormalities may be accepted if the study doctor considers them not clinically important.
+
+4\. Heart and Blood Pressure Problems 5. Previous Medications or Treatments
+
+* You have previously received medicines that target TNFα or IL-23.
+* You have received other biologic medicines within the last 6 months.
+* You have used medicines that significantly suppress the immune system within the required washout period.
+* You have recently used prescription or over-the-counter medications that could affect study results.
+* You received a live vaccine within the last 12 weeks or any other vaccine within the last 4 weeks.
+* You donated blood, plasma, or platelets too recently before joining the study.
+
+  6\. Alcohol or Drug Use. 7. Pregnancy and Reproductive Considerations
+* You are pregnant, breastfeeding, or planning to become pregnant during the study period.
+* You are unwilling to use the required birth control methods.
+
+  8\. Participation in Other Research Studies
+* You have recently participated in another clinical trial involving an investigational drug or device.
+* You have previously participated in this study.
+
+  9\. Ability to Participate
+* You are unable to understand the study requirements or provide informed consent.
+* You are unable or unwilling to follow study procedures and visit schedules.
+
+  10\. Conflict of Interest
+* You are an employee of the study sponsor or investigator, or an immediate family member of one.
+
+  11\. Other Safety Concerns
+* The study doctor believes that participating could put your health at risk, prevent you from completing the study, or affect the reliability of the study results.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07876726
+Effect of Video Based and Standard Information on Maternal Anxiety Levels and Procedure Decision in Pregnant Woman Offered Amniocentesis and Chorionic Villus Sampling: a 4 Group Prospective Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Having a history of psychiatric disorders or depression,
+* Currently using psychiatric/psychotropic medication,
+* Having a history of invasive procedures in previous pregnancies,
+* Having a multiple pregnancy,
+* Having visual, auditory, or cognitive impairments,
+* Leaving more than 3 questions unanswered in the data collection tools (scales and forms) or withdrawing/dropping out of the study before completion.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07884773
+Safety and Efficacy of Combination Therapy (Danazol + Prednisolone + Thalidomide) in Thalidomide-Refractory Transfusion-Dependent β-Thalassemia Patients: A Prospective Randomized Controlled Clinical Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Previous allogeneic hematopoietic stem cell or bone marrow transplantation.
+* Diabetes mellitus or clinically significant uncontrolled metabolic disease.
+* Active severe infection or uncontrolled hepatic, renal, or cardiovascular disease.
+* Significant pre-existing peripheral neuropathy or history of clinically significant thromboembolic disease.
+* Known hypersensitivity to any study medication.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07884877
+A Prospective Phase II Study of Personalized Ultrafractionated Stereotactic Adaptive Radiotherapy (PULSAR) Combined With Immunotherapy in Patients With Advanced Hepatocellular Carcinoma
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Pregnant or breastfeeding women
+* Active brain or leptomeningeal metastases
+* More than 5 extrahepatic metastatic lesions (multiple intrahepatic lesions are allowed)
+* Prior radiotherapy to the treatment site
+* Moderate or refractory ascites, or hepatic encephalopathy
+* Contraindications to immune checkpoint inhibitors, such as active autoimmune disease requiring systemic treatment (hypothyroidism stable on hormone replacement and type 1 diabetes controlled with insulin are allowed)
+* Uncontrolled serious comorbidities (e.g., uncontrolled infection, NYHA class II or higher heart disease, myocardial infarction or stroke within 3 months, unstable angina or arrhythmia)
+* Unable to comply with the study protocol
+* Considered unsuitable for the study by the investigator
+"""
+
+QUALIFY_NOTE:
+
+## NCT07884955
+A Randomized Controlled Study Comparing Inclisiran Plus Spironolactone Versus Statin Plus Spironolactone for Primary Aldosteronism
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Office blood pressure \>180/110mmHg.
+2. Severe hepatic insufficiency or severe renal insufficiency.
+3. Acute coronary syndrome, myocardial infarction, percutaneous coronary intervention, or cerebrovascular accident within the previous 6 months; heart failure of NYHA class II-IV.
+4. Serum potassium \<2.5mmol/L or \>5.5mmol/L.
+5. Pregnancy or planned pregnancy within 1year.
+6. Neurological or psychiatric disorders.
+7. Concurrent malignant neoplasm.
+8. Low-density-lipoprotein-cholesterol(LDL-C) \<2.6mmol/L.
+9. Any other conditions that, in the investigator's opinion, may interfere with efficacy and/or safety assessment of the study (including but not limited to poor subject compliance or inability to attend scheduled follow-up due to long-distance residence).
+"""
+
+QUALIFY_NOTE:
+
+## NCT07884994
+HUGO-SLEEVE: Evaluating the Feasibility of Robotic Sleeve Gastrectomy With a New Platform
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Previous upper abdominal surgery
+* Revisional bariatric surgery
+* American Society of Anesthesiologists (ASA) physical status classification ≥ IV
+* Oral anticoagulation therapy
+* Presence of a ventriculoperitoneal shunt
+* Severe hepatomegaly or other contraindications to a robotic surgical approach
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885020
+Tracking Inner Experiences: Neuronal and Behavioral Perspectives in Conscious Neurotypical Participants.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Presence of a neurological or psychiatric disorder.
+* Presence of an uncorrected sensory deficit.
+* Use of medications acting on the central nervous system.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885072
+Long Term Outcome After Use of Vacuum-induced Tamponade for Postpartum Hemorrhage at a Single Tertiary Center
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Decline of informed consent.
+* Inability to establish contact (e.g., incorrect address, telephone number not reachable, moved abroad).
+* Women who are unable to provide informed consent (e.g., due to language barriers without translation support, or cognitive impairment).
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885124
+Driving Pressure-Guided Individualized PEEP Versus Standard PEEP: Effects on Postoperative Pulmonary Complications in Upper Abdominal Digestive Surgery
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Refusal to participate or inability to provide written informed consent.
+* Pregnancy.
+* ASA physical status greater than III.
+* History of acute respiratory distress syndrome.
+* Pulmonary hypertension.
+* Bronchopleural fistula.
+* Chronic obstructive pulmonary disease with severe emphysema.
+* Pre-existing cardiac arrhythmia.
+* Decompensated heart failure.
+* Known condition associated with increased intracranial pressure.
+* Intra-abdominal hypertension.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885137
+Ocular Fluid Work-up in Presumed Trematode Induced Granulomatous Uveitis
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Causes of granulomatous uveitis other than trematodal infection.
+* Inconclusive UBM findings.
+* Ocular trauma.
+* Previous ocular surgeries including (anterior chamber wash for AC granulomas).
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885176
+Deep Repetitive Transcranial Magnetic Stimulation in the Treatment of Tinnitus
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Objective tinnitus
+* Severe and unstable internal medicine, neurological, and psychiatric comorbidities (particularly acute psychosis, severe depression, or substance dependence; epilepsy; brain tumor; encephalitis; history of traumatic brain injury)
+* Presence of contraindications for TMS (electrical implants or metallic objects in the body, such as a pacemaker or insulin pump)
+* Currently undergoing or planning to undergo tinnitus treatment during the study
+* Meniere's disease, otosclerosis, acoustic neuroma, or other clear-cut or treatment-requiring causes of tinnitus
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885189
+Digital Cognitive Assessment in Stroke Patients for Evaluating Long-Term Cognitive Recovery: The TuCAN App for Patients With Middle Cerebral Artery Ischemia (TuCAN-Media)"
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* ≤ 18 years of age
+* Pregnancy
+* Pre-existing severe dementia
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885215
+The Effect of Applying Respiratory Muscle Strengthening and Diaphragmatic Breathing Exercises On Pain Levels, Sleep Quality, and Lung Capacity In Participants With Shoulder Pain and Disability
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Presence of neuromuscular diseases.
+* History of shoulder subluxation or dislocation.
+* Presence of pulmonary diseases.
+* History of shoulder surgery.
+* Current use of analgesic medications.
+* History of thoracic surgery.
+* Presence of spinal deformities.
+* History of endocrine diseases.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885397
+A Multicenter, Open-Label, Single-Arm Phase Ib/II Study of the Safety and Efficacy of Sonrotoclax in Combination With Azacitidine in Patients With Myelodysplastic Neoplasms With Increased Blasts-2 (MDS-IB2)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Disease already transformed to acute myeloid leukemia (AML).
+2. Prior treatment with chemotherapy, sonrotoclax, or other BCL-2 inhibitors.
+3. Uncontrolled active infection, including severe bacterial, fungal, or viral infection.
+4. Active hepatitis B, hepatitis C, human immunodeficiency virus (HIV) infection, or active tuberculosis that is not adequately controlled.
+5. Significant uncontrolled cardiac, hepatic, renal, or other major organ dysfunction that, in the investigator's judgment, would preclude safe study treatment.
+6. Active graft-versus-host disease (GVHD) after prior allogeneic hematopoietic stem cell transplantation or ongoing requirement for systemic immunosuppressive therapy.
+7. Anticipated need for continuous use of a strong CYP3A inhibitor during sonrotoclax initiation and dose ramp-up that cannot be discontinued or replaced.
+8. Uncontrolled high risk of tumor lysis syndrome (TLS) that, in the investigator's judgment, makes the participant unsuitable for sonrotoclax treatment.
+9. Pregnant or breastfeeding women.
+10. Known severe hypersensitivity to sonrotoclax, azacitidine, or any of their excipients.
+11. Concurrent participation in another interventional clinical study without meeting applicable discontinuation requirements.
+12. Any other condition that, in the investigator's judgment, makes the participant unsuitable for participation in the study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885410
+Perceptions and Expectations of Patients Regarding a Change in Treatment in Cystic Fibrosis (PERCE-MUCO)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patient objects to the use of their data for this project\\n•
+* Currently receiving the new CFTR modulator VTD
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885423
+Clinical Evaluation of the ACP3-Targeted Dual-Modality PET/Fluorescence Imaging Probe 68Ga-XMFH01 for Preoperative Imaging and Intraoperative Surgical Guidance in Prostate Cancer
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patients who are unwilling or unable to provide written informed consent or cooperate with study procedures;
+* Patients who are unable to tolerate PET/CT examinations;
+* Patients who have previously received any of the following treatments for prostate cancer: (a) Systemic therapy: More than 2 months of androgen deprivation therapy (ADT) or conventional hormonal therapy, or any prior treatment with novel hormonal agents, chemotherapy, immunotherapy, or targeted therapy. (b) Local therapy: Prior pelvic radiotherapy or surgery for prostate cancer;
+* Patients who are medically unfit for or unable to tolerate the planned surgical procedure for prostate cancer.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885436
+68Ga-XHER2 PET/CT for Noninvasive Assessment of HER2 Expression Across Solid Tumors
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* patients with pregnancy
+* the inability or unwillingness of the research participant, parent or legal representative to provide written informed consent
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885449
+The Effect of Mind Mapping-Based Education on Postoperative Pain, Kinesiophobia, and Discharge Readiness in Patients Undergoing Total Knee A
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Individuals with a neurological diagnosis (e.g., Alzheimer's disease) or a psychiatric diagnosis (e.g., schizophrenia) that may affect cognitive function.
+
+Individuals who are not literate in Turkish.
+
+Individuals undergoing bilateral total knee arthroplasty.
+
+Individuals with a history of previous orthopedic surgery.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885475
+Dexmedetomidine for Refractory Pain in Palliative Cancer Patients
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Dexmedetomidine hypersensitivity
+* Hypotension (systolic blood pressure (BP) \< 90)
+* Bradycardia (heart rate (HR) \< 50)
+* Serious heart disease or AV block grade 2 or 3 if no pacemaker.
+* Severe liver failure (e.g. Child-Pugh-C or similar)
+* Acute cerebrovascular disease
+* Neuraxial pain management
+* Patients unable to comply with trial procedures
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885488
+Screening Elderly Adults in Rural Communities for Heart Failure Using an NT-proBNP-Guided Strategy in China (SEARCH-HF)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. An estimated life expectancy of less than 3 months based on a comprehensive assessment by a qualified clinician; 2. A confirmed diagnosis of schizophrenia, severe dementia, or other psychiatric or cognitive disorders that would preclude adequate cooperation with questionnaires, blood sampling, echocardiography, or other study-related screening procedures.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885592
+Effect of Direct Fetal Intravenous Immunoglobulin Administration During Intrauterine Transfusion on Neonatal Outcomes in Rhesus Isoimmunised Pregnancies: A Randomized Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Major fetal structural anomaly or chromosomal abnormality
+2. Maternal contraindication to intrauterine transfusion
+3. Known immunoglobulin A deficiency with anti-immunoglobulin A antibodies
+4. Previous anaphylaxis to intravenous immunoglobulin
+5. Severe maternal renal impairment (chronic kidney disease stage 4 or 5 or acute renal failure)
+6. Multiple gestation pregnancy
+7. Anticipated technical infeasibility of umbilical venous access
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885605
+A Randomized, Double-Masked, Placebo-Controlled, Single Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of ETHY-001
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Part A and Part B:
+
+* Significant medical conditions or physical findings that may affect participant safety.
+* Active liver or kidney dysfunction at screening.
+* Known hypersensitivity to monoclonal antibody products and/or subcutaneous injections.
+* Blood pressure or ECG abnormalities at screening.
+* Pregnancy of plans for pregnancy; breastfeeding.
+* The participant has a history of alcohol or substance abuse within the last 12 months before screening.
+* Use of any investigational drug within 60 days prior to the first injection of study drug.
+* History of treatment with teprotumumab or other anti-IGF-1R monoclonal antibodies.
+
+Other protocol-defined exclusion criteria apply.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885618
+Investigation of Factors Influencing Outcomes in Patients Requiring ECMO and Impella Support, With Special Focus on Their Metabolic and Thyroid Hormone Changes (Az ECMO és Impella kezelést igénylő Betegek kimenetelét befolyásoló tényezők vizsgálata, különös Tekintettel Metabolikus és Pajzsmirigyhormon változásaikra)
+Trigger: exclusion text missing/short
+
+Exclusion criteria:
+"""
+* None
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885696
+The Effect of Acupressure Application on Pain Scores and Procedure Tolerance in Extracorporeal Shock Wave Lithotripsy Treatment
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Kidney anomaly (e.g., horseshoe kidney) or severe hydronephrosis.
+* Morbid obesity.
+* Chronic neuropathic disease that may affect pain perception or neural response to acupressure.
+* Use of any analgesics within \[12/24\] hours prior to the procedure.
+* Use of anticoagulants.
+* Impaired skin integrity (wound, infection, tenderness) at the acupressure application sites (LI4 or Qiu).
+* Amputation of the relevant extremity.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885722
+SMARTomicS: Protocol for a Randomised Controlled Trial Evaluating a Multi-layered Digital Phenotyping and Pharmacogenomic Intervention for Suicide Prevention
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Refusal to install the trial mobile applications (MeMind and eB2 Mindcare)
+* Inability to comprehend or sign the informed consent form
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885800
+Incidental Gallbladder Carcinoma :Incidence and Clinical Significance in Specimens From Routine Cholecystectomies in Sohag Locality
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Patients with preoperatively confirmed gallbladder carcinoma.
+2. Patients undergoing cholecystectomy as part of planned oncological surgery for another malignancy.
+3. Patients with missing, damaged, or inadequately preserved gallbladder specimens.
+4. Patients with incomplete clinical or histopathological data.
+5. Patients refusing participation or postoperative follow-up.
+
+   \-
+"""
+
+QUALIFY_NOTE:
+
+## NCT07885943
+Assessment of the Degree of Regeneration After Partial Meniscectomy Based on Thin-layer MRI Image Segmentation and Reconstruction
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patients who did not undergo an MRI scan within one week after surgery for the removal of the inferior meniscus using arthroscopy, who had MRI scan contraindications or refused the procedure.
+
+Patients who underwent nuclear magnetic resonance (NMR) re-evaluation and had undergone surgery at least half a year prior to the commencement of this experiment.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886047
+Study of Propranolol Hydrochloride in Combination With Adebrelimab and Platinum-Based Chemotherapy in Patients With Small Cell Lung Cancer (BRIO-SCLC)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Concurrent participation in another interventional clinical study or receiving other investigational drugs, unless participating in an observational clinical study.
+2. Prior exposure to any anti-PD-1 or anti-PD-L1, PD-L2, CD137, CTLA-4 antibody therapy, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways.
+3. Systemic treatment with Chinese patent medicines with anti-tumor indications or immunomodulatory drugs (including thymosin, interferon, and interleukins; except for local administration to control pleural effusion or ascites) within 2 weeks prior to first dose.
+4. Current use of oral or intravenous beta-blockers (e.g., atenolol, bisoprolol, carvedilol, labetalol, metoprolol, nadolol, sotalol, etc.) that cannot be safely switched to non-beta-blocker alternatives. Current subjects should have a washout period of at least 14 days with adequate transition period.
+5. Contraindications to Beta-Blocker Use Hypersensitivity to any component of this product Bronchial asthma or risk of bronchospasm Ketoacidosis and metabolic acidosis Severe or symptomatic bradycardia, atrioventricular block (Grade II or III), sinoatrial block, sick sinus syndrome Cardiogenic shock Right heart dysfunction caused by pulmonary hypertension Congestive heart failure (NYHA Class III or IV) Hypotension (systolic blood pressure \<100 mmHg) Prolonged fasting state Severe peripheral circulatory failure (e.g., gangrene) Symptomatic peripheral arterial disease or Raynaud's syndrome, untreated pheochromocytoma Unstable angina or Prinzmetal's angina Concurrent use of rizatriptan benzoate Severe chronic obstructive pulmonary disease (COPD) Uncontrolled Type I or Type II diabetes mellitus (glycated hemoglobin \[HbA1C\] \>8.5 or fasting glucose \>160 mg/dL at screening)
+6. Hepatic encephalopathy, hepatorenal syndrome, or Child-Pugh Class B or more severe cirrhosis.
+7. Malignant bowel obstruction (within 3 months prior to informed consent signing) or history of the following conditions: inflammatory bowel disease or extensive intestinal resection (partial colectomy or extensive small bowel resection with concurrent chronic diarrhea), Crohn's disease, or ulcerative colitis.
+8. Completion of palliative radiotherapy within 7 days prior to first study drug administration.
+9. Clinically active diverticulitis, intra-abdominal abscess, or gastrointestinal obstruction.
+10. History of psychoactive drug abuse or drug addiction.
+11. Known hypersensitivity to active ingredients or excipients of the study drug.
+12. Known history of primary immunodeficiency, or ongoing systemic corticosteroid therapy or any other form of immunosuppressive therapy.
+13. Use of immunosuppressive drugs within 4 weeks prior to first study treatment, excluding intranasal, inhaled, or other routes of topical corticosteroids, or physiological doses of systemic corticosteroids (i.e., not exceeding 10 mg/day prednisone or equivalent dose of other corticosteroids), or corticosteroids used for prevention of contrast agent allergy.
+14. Failure to recover adequately (i.e., to Grade ≤1 or baseline, excluding fatigue or alopecia) from any intervention-induced toxicities and/or complications prior to starting treatment.
+15. Receipt of live attenuated vaccines within 4 weeks prior to first study treatment or planned vaccination during the study (inactivated influenza vaccine for seasonal influenza is allowed within 4 weeks prior to first dose; however, live attenuated influenza vaccine is not permitted).
+16. Major surgery (craniotomy, thoracotomy, or laparotomy) within 4 weeks prior to first study treatment, or expectation of requiring major surgery during study treatment; laparoscopic exploratory surgery within 2 weeks prior to first study treatment.
+17. Known symptomatic central nervous system metastases and/or carcinomatous meningitis. Exception may be made for subjects with previously treated brain metastases if the subject's condition is stable (no evidence of radiographic progression for at least 4 weeks prior to first dose of trial treatment, confirmed by repeat imaging showing no new brain metastases or enlargement of existing brain metastases), and no corticosteroid treatment is required for at least 14 days prior to first dose of trial treatment. This exception does not include carcinomatous meningitis, which should be excluded regardless of clinical stability.
+18. Clinically uncontrolled pleural effusion or ascites (subjects who do not require drainage of effusion or in whom effusion does not significantly increase 3 days after stopping drainage may be enrolled).
+19. Bone metastases with risk of paraplegia.
+20. Known or suspected autoimmune disease or history of such disease within the past 2 years (subjects with vitiligo, psoriasis, alopecia, or Graves' disease not requiring systemic treatment within the past 2 years, hypothyroidism requiring only thyroid hormone replacement therapy, and Type 1 diabetes mellitus requiring only insulin replacement therapy may be enrolled).
+21. Known active tuberculosis.
+22. Known history of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.
+23. Known history of human immunodeficiency virus (HIV) infection (i.e., HIV antibody positive).
+24. Known acute or chronic active hepatitis B virus (HBsAg positive with HBV DNA viral load ≥200 IU/mL or ≥10³ copies/mL) or acute or chronic active hepatitis C virus (HCV antibody positive with HCV RNA positive).
+25. Active syphilis infection requiring treatment.
+26. Interstitial lung disease requiring corticosteroid therapy.
+27. Active or poorly controlled severe infection.
+28. Severe cardiovascular disease (e.g., myocardial infarction, arterial thromboembolism, cerebrovascular thromboembolism); angina requiring treatment; symptomatic peripheral vascular disease; NYHA Class 3 or 4 congestive heart failure; or uncontrolled Grade ≥3 hypertension (diastolic blood pressure ≥100 mmHg or systolic blood pressure ≥160 mmHg) despite antihypertensive treatment.
+29. History of other primary malignancies within 5 years, except for: Malignancies in complete remission for at least 2 years prior to enrollment with no other treatment required during the study Adequately treated non-melanoma skin cancer or lentigo maligna with no evidence of disease recurrence Adequately treated carcinoma in situ with no evidence of disease recurrence
+30. Pregnant or lactating female patients.
+31. Other acute or chronic medical conditions, psychiatric conditions, or laboratory abnormalities that may: increase the risk associated with study participation or study drug administration, or interfere with the interpretation of study results, and which, in the judgment of the investigator, render the patient ineligible for participation in this study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886099
+Acute Effects of Circuit Breathing Exercise on Smoking Cessation and Respiratory Function Among Youth E-Cigarette Users
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Development of an illness, injury, or other circumstance that prevents continued participation.
+* Withdrawal of consent or unwillingness to continue participation.
+* Current use of illicit drugs or other tobacco/nicotine products, including conventional cigarettes, shisha/hookah, roll-your-own tobacco, or other nicotine-containing products.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886112
+Evaluation of the Statistical Validity of Cervical Spine Measurements-Including Range of Motion, Strength, and Functional Test Results-for Return to Sport in Patients Who Have Undergone Surgery for Cervical Stenosis and/or Herniation : Comparison Between a Group of Patients and a Group of Healthy Controls
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Patient group
+
+Patients meeting any of the following criteria will be excluded:
+
+o Medical contraindication
+
+Control group
+
+Participants meeting any of the following criteria will be excluded:
+
+* Reported history of spinal or upper-limb injury within the last 12 months
+* Reported history of upper-limb surgery
+
+In all cases, the following will be excluded:
+
+* Protected individuals: adults under guardianship, curatorship, or other legal protection; individuals deprived of liberty by judicial or administrative decision
+* Pregnant, breastfeeding, or recently delivered women
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886125
+THE EFFECT OF ABDOMINAL MASSAGE TRAINING PROVIDED TO CAREGIVERS ON CONSTIPATION MANAGEMENT IN PALLIATIVE CARE PATIENTS AND THEIR CAREGIVERS
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+Patients:
+
+* Constipation caused by an acute surgical or pathophysiological condition, such as ileus.
+* Any clinical condition that makes abdominal massage unsafe.
+* Active surgical complications in the abdominal region.
+* A clinical condition that prevents completion of the study procedures.
+
+Caregivers:
+
+* Insufficient cognitive or physical capacity to perform the techniques taught during training.
+* A health or social condition that prevents completion of the study procedures.
+
+Criteria for Discontinuation:
+
+* Participant requests withdrawal from the study.
+* Patient is discharged from the hospital.
+* Patient dies.
+* The data collection process cannot be completed.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886164
+The Effect of Whole-Body Point-of-Care Ultrasonography on Emergency Department Management of Patients Aged 65 Years and Older Presenting With a Ground-Level Fall
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* High-energy trauma mechanism (e.g., traffic accident, fall from height, crush injury)
+* Hemodynamic instability requiring priority resuscitation
+* Withdrawal of consent
+* Loss to follow-up or missing outcome data
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886203
+Evaluation of a Point-of-Care, AI-Powered Spectroscopy Device for Triage of Suspicious Vulvar Lesions: A Pilot Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Pregnancy
+* Incarceration
+* Lesion proximal to the hymen (no vaginal or peri-urethral mucosal lesions)
+* Lesions at the anal verge
+* Absence of residual lesion beyond prior biopsy or surgical site (device cannot be applied on a healing biopsy site or surgical scar)
+* Lesion covered with excessive crust, erosion, or ulceration
+* Previous treatment with CO2 laser, cavitational ultrasonic surgical aspiration (CUSA), cryotherapy, or other ablative techniques at the site of device application
+* Previous treatment with vulvar radiation therapy at the site of device application
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886229
+A Prospective, Multicenter, Open-Label Study of Propranolol Hydrochloride in Combination With Toripalimab and Platinum-Based Chemotherapy as Perioperative Treatment for Resectable Non-Small Cell Lung Cancer
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Concurrent participation in another interventional clinical study or receiving other investigational drugs, unless participating in an observational clinical study.
+2. Prior exposure to any anti-PD-1 or anti-PD-L1, PD-L2, CD137, CTLA-4 antibody therapy, or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways.
+3. Systemic treatment with Chinese patent medicines with anti-tumor indications or immunomodulatory drugs (including thymosin, interferon, and interleukins; except for local administration to control pleural effusion or ascites) within 2 weeks prior to first dose.
+4. Current use of oral or intravenous beta-blockers (e.g., atenolol, bisoprolol, carvedilol, labetalol, metoprolol, nadolol, sotalol, etc.) that cannot be safely switched to non-beta-blocker alternatives. Current subjects should have a washout period of at least 14 days with adequate transition period.
+5. Contraindications to Beta-Blocker Use Hypersensitivity to any component of this product Bronchial asthma or risk of bronchospasm Ketoacidosis and metabolic acidosis Severe or symptomatic bradycardia, atrioventricular block (Grade II or III), sinoatrial block, sick sinus syndrome Cardiogenic shock Right heart dysfunction caused by pulmonary hypertension Congestive heart failure (NYHA Class III or IV) Hypotension (systolic blood pressure \<100 mmHg) Prolonged fasting state Severe peripheral circulatory failure (e.g., gangrene) Symptomatic peripheral arterial disease or Raynaud's syndrome, untreated pheochromocytoma Unstable angina or Prinzmetal's angina Concurrent use of rizatriptan benzoate Severe chronic obstructive pulmonary disease (COPD) Uncontrolled Type I or Type II diabetes mellitus (glycated hemoglobin \[HbA1C\] \>8.5 or fasting glucose \>160 mg/dL at screening)
+6. Hepatic encephalopathy, hepatorenal syndrome, or Child-Pugh Class B or more severe cirrhosis.
+7. Malignant bowel obstruction (within 3 months prior to informed consent signing) or history of the following conditions: inflammatory bowel disease or extensive intestinal resection (partial colectomy or extensive small bowel resection with concurrent chronic diarrhea), Crohn's disease, or ulcerative colitis.
+8. Completion of palliative radiotherapy within 7 days prior to first study drug administration.
+9. Clinically active diverticulitis, intra-abdominal abscess, or gastrointestinal obstruction.
+10. History of psychoactive drug abuse or drug addiction.
+11. Known hypersensitivity to active ingredients or excipients of the study drug.
+12. Known history of primary immunodeficiency, or ongoing systemic corticosteroid therapy or any other form of immunosuppressive therapy.
+13. Use of immunosuppressive drugs within 4 weeks prior to first study treatment, excluding intranasal, inhaled, or other routes of topical corticosteroids, or physiological doses of systemic corticosteroids (i.e., not exceeding 10 mg/day prednisone or equivalent dose of other corticosteroids), or corticosteroids used for prevention of contrast agent allergy.
+14. Failure to recover adequately (i.e., to Grade ≤1 or baseline, excluding fatigue or alopecia) from any intervention-induced toxicities and/or complications prior to starting treatment.
+15. Receipt of live attenuated vaccines within 4 weeks prior to first study treatment or planned vaccination during the study (inactivated influenza vaccine for seasonal influenza is allowed within 4 weeks prior to first dose; however, live attenuated influenza vaccine is not permitted).
+
+166.Major surgery (craniotomy, thoracotomy, or laparotomy) within 4 weeks prior to first study treatment, or expectation of requiring major surgery during study treatment; laparoscopic exploratory surgery within 2 weeks prior to first study treatment.
+
+17\. Known symptomatic central nervous system metastases and/or carcinomatous meningitis. Exception may be made for subjects with previously treated brain metastases if the subject's condition is stable (no evidence of radiographic progression for at least 4 weeks prior to first dose of trial treatment, confirmed by repeat imaging showing no new brain metastases or enlargement of existing brain metastases), and no corticosteroid treatment is required for at least 14 days prior to first dose of trial treatment. This exception does not include carcinomatous meningitis, which should be excluded regardless of clinical stability.
+
+18\. Clinically uncontrolled pleural effusion or ascites (subjects who do not require drainage of effusion or in whom effusion does not significantly increase 3 days after stopping drainage may be enrolled).
+
+19\. Bone metastases with risk of paraplegia. 20. Known or suspected autoimmune disease or history of such disease within the past 2 years (subjects with vitiligo, psoriasis, alopecia, or Graves' disease not requiring systemic treatment within the past 2 years, hypothyroidism requiring only thyroid hormone replacement therapy, and Type 1 diabetes mellitus requiring only insulin replacement therapy may be enrolled).
+
+21.Known active tuberculosis. 22. Known history of allogeneic organ transplantation or allogeneic hematopoietic stem cell transplantation.
+
+23.Known history of human immunodeficiency virus (HIV) infection (i.e., HIV antibody positive).
+
+24\. Known acute or chronic active hepatitis B virus (HBsAg positive with HBV DNA viral load ≥200 IU/mL or ≥10³ copies/mL) or acute or chronic active hepatitis C virus (HCV antibody positive with HCV RNA positive).
+
+25.Active syphilis infection requiring treatment. 26. Interstitial lung disease requiring corticosteroid therapy. 27. Active or poorly controlled severe infection. 28. Severe cardiovascular disease (e.g., myocardial infarction, arterial thromboembolism, cerebrovascular thromboembolism); angina requiring treatment; symptomatic peripheral vascular disease; NYHA Class 3 or 4 congestive heart failure; or uncontrolled Grade ≥3 hypertension (diastolic blood pressure ≥100 mmHg or systolic blood pressure ≥160 mmHg) despite antihypertensive treatment.
+
+29.History of other primary malignancies within 5 years, except for: Malignancies in complete remission for at least 2 years prior to enrollment with no other treatment required during the study Adequately treated non-melanoma skin cancer or lentigo maligna with no evidence of disease recurrence Adequately treated carcinoma in situ with no evidence of disease recurrence.
+
+30.Pregnant or lactating female patients. 31.Other acute or chronic medical conditions, psychiatric conditions, or laboratory abnormalities that may: increase the risk associated with study participation or study drug administration, or interfere with the interpretation of study results, and which, in the judgment of the investigator, render the patient ineligible for participation in this study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886268
+A Multicenter, Randomized, Double-Masked, Vehicle Controlled Study to Assess the Efficacy and Safety of TP-06 in Participants With Persistent Corneal Epithelial Defects
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Active ocular infection in either eye
+* Corneal perforation or high risk of corneal perforation
+* Severe eyelid abnormalities
+* Ocular or eyelid surgery in the study eye within 3 months prior to Baseline (unless PCED was caused by surgery)
+* Use of prohibited ophthalmic medications or procedures as defined in the protocol
+* Any condition that, in the Investigator's judgment, would interfere with study participation or interpretation of results
+
+Note: Additional exclusion criteria apply, as defined in the protocol
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886320
+A Single-Center, Open-Label, Randomized Controlled Trial Evaluating the Efficacy and Safety of Adapalene Gel in Patients Receiving Radiotherapy Who Develop Acute Radiation Dermatitis
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Patients unable to cooperate with the study: cognitive impairment, severe mental illness, communication disorders, or other reasons (such as extreme anxiety, uncontrollable pain) that prevent understanding and active cooperation with the research process and postoperative care.
+* Any previous or current illnesses, treatments, or laboratory abnormalities that may confound the study results, affect the subjects' full participation in the study, or involve participation that may not be in the subjects' best interests.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886333
+Effectiveness of Buzzy Bee Device in Anxiety Reduction and Pain Control During Local Anesthesia Administration
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Children with known allergy to local anesthetic agents.
+* Children with developmental delays, intellectual disabilities, or severe uncooperative behavior (Frankl rating 1 or 2).
+* Children presenting with acute dental pain, swelling, or active infection at the injection site.
+* Parental refusal to provide written informed consent for participation
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886463
+Functional Biomechanical Analysis in Patients Who Underwent Lateral Ankle Ligament Repair With Augmentation
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Concomitant surgical procedures likely to alter postoperative recovery.
+* History of major lower-limb fractures.
+* Associated injuries involving the lower limbs or lumbar spine.
+* Any other surgery performed within 6 months prior to the index procedure.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886606
+Cannabidiol Pharmacotherapy for Co-occurring Opioid Use Disorder and Chronic Pain
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Other current major psychiatric disorders deemed clinically unstable by the principal investigator, such as severe depression and/or active suicidal ideation.
+* Having experienced major psychosocial stressors recently (≤ 6 weeks before enrollment), at the discretion of the principal investigator.
+* Buprenorphine dose over 24 mg per day.
+* Having received inpatient psychiatric treatment recently (≤ 60 days before enrollment).
+* Candidates receiving products containing either THC or CBD will be excluded. All participants will be asked to abstain from cannabinoids. Prior to receiving the study medication on the first test session, participants' cannabinoid use will be assessed using a quantitative point-of-care urine 11-nor-9-carboxy-THC concentration test with a cut-off of ≤ 50 mg/mL. If a participant tests greater than ≤50 mg/mL, they will be asked to abstain for an additional 7 to 14 days. If 14 days after their initial THC concentration test the participant continues to test positive, they will not be allowed to participate in the study.
+* A physician will carefully evaluate participants for use of over-the-counter or prescription psychoactive drugs known to affect pain threshold or pain tolerance (including NSAIDS, serotonin-norepinephrine reuptake inhibitors (SNRIs) (e.g. venlafaxine, duloxetine), gabapentinoids, tricyclic antidepressants (e.g., nortriptyline, amitriptyline), anticonvulsant medications (e.g., topiramate, carbamazepine)). Only participants who are on stable doses (i.e., consistent daily administration of the medication for at least three months at the same dose following the last dose change, either increase or decrease) of these medications, and whose dosing schedules allow participation in the study visits, thus excluding instances of single-dose or temporary dosing of the medication, will be eligible as determined by principal investigator. If possible, the morning dose will be administered after the study visit.
+* Current, regular use of benzodiazepines, other prescription opioids, or platelet inhibitors (e.g., clopidogrel, apixaban, ticagrelor).
+* Current weight of less of 60 kg.
+* Allergy to sesame seed oil, which is an ingredient of the CBD formulation used.
+* Serious medical or neurological illness or treatment for a medical disorder that could interfere with study participation as determined by principal investigator.
+* Participants who have elevation of liver enzymes (ALT and/or AST) 2x above the normal limit or higher.
+* Contraindications for exposure to cold temperatures, such as Raynaud's phenomenon and hypertension.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886827
+Functional Electrical Stimulation for Improving Shoulder Pain
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Acute diagnosed rotator cuff tears
+* Osteoarthritis-induced shoulder pain
+* Currently receiving treatment or physical therapy for shoulder pain
+* Previous shoulder surgery
+* Taking medications that affect the central nervous system
+* Metabolic or cardiovascular disease
+* Metal Implants or pacemakers
+* Skin lesions on the shoulder
+* Aversion to needles
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886879
+Comprehensive Phenotyping of Type 1 Gaucher Disease Patients for Prodromal Parkinson's Disease: A Behavioral and Biomarker Study
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+• Subjects with diminished mental capacity and unable to consent for themselves
+"""
+
+QUALIFY_NOTE:
+
+## NCT07886957
+AI-based Algorithm Development for Improved Diagnostics in the Intensive Care and Acute Stroke Setting Using Electroencephalography (SMART-EEG)
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+All participants:
+
+\- (Suspected) skin damage or infection at the placement area of the subhairline EEG patch
+
+Postanoxic coma (ICU):
+
+\- Other types of severe brain injury, either pre-existing or coinciding with cardiac arrest. These include stroke, traumatic brain injury and progressive neurodegenerative disease.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887178
+The Effect of a Methyl Donor-Rich Diet in the Postpartum Period on Maternal Depression Levels, Breastfeeding Success and Infant Weight: A Randomized Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Development of serious postpartum complications, such as postpartum hemorrhage or sepsis.
+* A maternal or infant health condition requiring prolonged hospitalization.
+* Introduction of complementary foods to the infant during the study.
+* Maternal smoking or alcohol use.
+* Failure to adhere to the dietary intervention.
+* Failure to attend follow-up assessments or voluntary withdrawal from the study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887191
+Effectiveness of Epley Maneuver Versus Semont Maneuver on Dizziness and Balance in Stroke Survivors With Posterior Canal Benign Paroxysmal Positional Vertigo: A Randomized Controlled Trial
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Other vestibular disorders (e.g., Meniere's disease (inner ear disorder causing vertigo, hearing loss, and tinnitus)) Diagnosed cognitive impairment (unable to follow instructions) Medically unstable patients Severe cervical spine disorders (e.g., instability, fracture) Spinal conditions restricting head movement Completely bed-bound patients Any contraindication to Dix Hallpike repositioning maneuvers
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887269
+NUS Health Study: Improving Sleep, Sedentariness and Physical Activity in NUS Staff
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Staff who tender their resignation from NUS during the 16-month study period will be discontinued from the study.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887360
+Effect of Lower Limb Proprioceptive Neuromuscular Facilitation Combined With Core Stability Training Versus Proprioceptive Neuromuscular Facilitation Alone on Balance and Functional Mobility in Chronic Stroke Survivors
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Severe cognitive impairment preventing participation. Severe spasticity (Modified Ashworth Scale \>3). Other neurological or musculoskeletal conditions affecting balance. Uncontrolled cardiovascular conditions.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887425
+Tear Fluid Collection in Patients Before and After Corneal Incision or Trauma.
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Prior history of full-thickness corneal laceration from trauma or from a surgical procedure
+* Current diagnosis of glaucoma or use of ocular hypotensive drops or oral aqueous suppressants.
+* Actively being treated for the diagnosis of dry eyes with a topical drop other than artificial tears.
+* Actively taking oral or topical supplementation of Vitamin C.
+* Scheduled for additional eye surgeries, combined with the routine cataract surgery.
+* Surgical plan that would include incisions in the clear for cataract extraction.
+* Inability to provide informed consent due to suspected head trauma, altered mental status, or other factors impairing decision-making capacity.
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887451
+Comparison of Serum and Salivary Leptin Levels in Children With and Without Adenoid/Adenotonsillar Hypertrophy
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Signs of acute upper or lower respiratory tract infection at the time of sampling or within the previous 2 weeks
+* Chronic endocrine, metabolic, cardiac, renal, hepatic or hematologic systemic disease
+* Obesity, growth retardation or a clinically diagnosed nutritional disorder
+* Previous adenoidectomy or adenotonsillectomy
+* Use of systemic corticosteroids, hormone preparations or immunomodulatory drugs within the last 3 months
+* Insufficient cooperation during clinical evaluation or sampling, or inability to obtain an adequate blood and/or saliva sample
+* Lack of written informed consent from a parent or legal guardian
+
+Control Group
+
+Inclusion Criteria:
+
+* Age 3 to 18 years
+* No adenoid or adenotonsillar hypertrophy on clinical and endoscopic evaluation
+* No history of nasal obstruction, chronic snoring or sleep-disordered breathing
+* Similar age and sex distribution to the patient group
+* No known chronic systemic disease and no medical contraindication to venous blood and saliva sampling
+* Written informed consent obtained from a parent or legal guardian
+
+Exclusion Criteria:
+
+\* Same exclusion criteria as the patient group
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887633
+Subcortical OCD Neuromodulation With Acoustic Therapy - Dose Duration Optimization
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+1. Co-morbid psychiatric disorder other than depression or anxiety disorder
+2. Active suicidal risk (defined by C-SSRS)
+3. History of neurological condition
+4. Pregnant or breastfeeding, or planning to become pregnant during the study period
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887685
+Comparative Effect Between Mulligan Leg Raise and Spinal Mobilization With Limb Movement in Lumbar Radiculopathy
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+; MRI findings indicating Spinal instability Significant neuroforaminal stenosis Structural abnormalities requiring surgical intervention (e.g., large disc herniation ) Clinical findings indicating: presence of severe neurological and severe motor weakness (Manual MuscleTesting grades 0, 1, or 2) Signs of cauda equina lesion (e.g., saddle anesthesia, bowel/bladder dysfunction) Diagnosed spinal conditions; Lumbar spondylolisthesis, Lumbar spine fracture, Spinal stenosis, Spinal tumor, Ankylosing spondylitis History of previous spinal surgery Pregnancy
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887698
+Effects of Instrument-Assisted Soft Tissue Mobilization Versus Post Facilitation Stretch Technique in Chronic Neck Pain
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* History of cervical surgery or recent trauma
+* Inflammatory, infectious, or malignant spinal conditions
+* Cervical disc pathology with neurological signs
+* Pregnancy
+* Skin lesions or conditions contraindicating IASTM
+"""
+
+QUALIFY_NOTE:
+
+## NCT07887724
+The Effect of Combined Supplementation With Channa Striata and Curcuma Domestica Rhizome on Nutritional Status, Inflammatory Markers, and Quality of Life in Patients With Active Pulmonary TB at the Medan City Public Health Center
+Trigger: no disqualify items extracted
+
+Exclusion criteria:
+"""
+* Pregnant or breastfeeding women.
+* Individuals who are overweight or obese.
+* Individuals with comorbidities such as diabetes mellitus, HIV, impaired kidney function, or impaired liver function.
+* Patients with drug-resistant tuberculosis, including MDR-TB or XDR-TB, or patients who previously failed an anti-tuberculosis treatment regimen.
+* Patients with extrapulmonary tuberculosis.
+* Patients who have consumed snakehead fish supplements, curcuma supplements, or high-dose multivitamin supplements within the previous two weeks.
+* Patients with a history of allergy to fish or turmeric-derived products. Patients with swallowing disorders or gastrointestinal diseases that may affect supplement absorption.
+* Patients who are uncooperative or discontinue treatment before completing the study.
+"""
+
+QUALIFY_NOTE:
+

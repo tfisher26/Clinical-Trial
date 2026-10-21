@@ -11174,16 +11174,6 @@ Link: https://clinicaltrials.gov/study/NCT07641504
 
 SUMMARY:
 
-## NCT07641569
-Comparison of Motor-Motor and Cognitive-Motor Dual-Task Training in Patients With Parkinson's Disease
-
-Intervention: : Single Task Exercise Training — Single task balance and walking exercises. 5-minute warm-up period, followed by 15 minutes of balance exercises and 15 minutes of walking exercises with a 5-minute rest in between, and then a 5-minute cool-down period.
-: Motor-Motor Dual Task Exercise Training — Motor-motor dual task balance and walking exercises. Motor-motor dual task balance and walking exercises. 5-minute warm-up period, followed by 15 minutes of balance exercises and 15 minutes of walking exercises concurrently performed with upper extremity motor tasks with a 5-minute rest in between, and then a 5-minute cool-down period.
-: Cognitive-Motor Dual Task Exercise Training — Cognitive-motor dual task balance and walking exercises. Cognitive-motor dual task balance and walking exercises. 5-minute warm-up period, followed by 15 minutes of balance exercises and 15 minutes of walking exercises concurrently performed with cognitive tasks with a 5-minute rest in between, and then a 5-minute cool-down period.
-Link: https://clinicaltrials.gov/study/NCT07641569
-
-SUMMARY:
-
 ## NCT07641582
 Development of an Atrial Fibrillation Prediction Model Using Polygenic Risk Score: A Prospective Cohort Study
 
