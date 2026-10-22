@@ -8458,15 +8458,6 @@ Link: https://clinicaltrials.gov/study/NCT07345312
 
 SUMMARY:
 
-## NCT07345364
-A Phase I, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of Single Ascending Doses of SIM0811 Injection in Healthy Chinese Adult Participants
-
-Intervention: : SIM0811 — The study will employ a dose-escalation design starting from Cohort 1. Each cohort will receive a single administration, sequentially completing Cohort 2, Cohort 3, Cohort 4, Cohort 5 , Cohort 6, Cohort 7,Cohort 8 and Cohort 9. After administration in each cohort, participants will be observed for 7 days for safety evaluation. Provided no stopping criteria are met, escalation to the next dose level may proceed only after review by the Safety Review Committee (SRC).
-: Placebo — The study will employ a dose-escalation design starting from Cohort 1. Each cohort will receive a single administration, sequentially completing Cohort 2, Cohort 3, Cohort 4, Cohort 5 , Cohort 6, Cohort 7 Cohort 8and Cohort 9. After administration in each cohort, participants will be observed for 7 days for safety evaluation. Provided no stopping criteria are met, escalation to the next dose level may proceed only after review by the Safety Review Committee (SRC).
-Link: https://clinicaltrials.gov/study/NCT07345364
-
-SUMMARY:
-
 ## NCT07345481
 The Principle of Stimulus Equivalence Learning and Its Neuropsychological Correlates in Adults With Acquired Brain Injury (ABI).
 

@@ -993,15 +993,6 @@ Link: https://clinicaltrials.gov/study/NCT07073079
 SUMMARY:
 
 
-## NCT05452291
-Exploring Multiomics Biomarkers for Urolithiasis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05452291
-
-SUMMARY:
-
-
 ## NCT06953167
 Cognitive Health in Ageing Register: Investigational and Observational Trial Studies in Dementia Research (CHARIOT): Prospective Readiness Cohort (PRO) Longitudinal Study
 

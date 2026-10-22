@@ -3300,15 +3300,6 @@ Link: https://clinicaltrials.gov/study/NCT06421324
 SUMMARY:
 
 
-## NCT04518423
-Prevalence, Determinants and Natural History of Frailty and Pre-frailty in People Over the Age of 65 Years in a Prospective 5-year Observation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04518423
-
-SUMMARY:
-
-
 ## NCT06931457
 Efficacy and Safety of the Application of Pulsed Radiofrequency, Combined With Platelet Rich Plasma, to the Treatment of Idiopathic Glossopharyngeal Neuralgia (GPN): A Study Protocol for a Multi-Center, Prospective, Open-Label, Propensity Score Match Cohort Study
 

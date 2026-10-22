@@ -9408,15 +9408,6 @@ Link: https://clinicaltrials.gov/study/NCT05834764
 
 SUMMARY: Early or locally advanced HER2 positive breast cancer at high risk can come back. This study tests pyrotinib after standard anti HER2 therapy.
 
-## NCT05834777
-Prevention of Intradialytic Hypotension by Inhibiting Bradykinin B2 Receptor A Randomized, Double-blind, Placebo-controlled, Cross Over Explorative Study
-
-Intervention: : Icatibant — Icatibant will be administered with an infusion rate of 100µg/kg/h for 15 minutes before their hemodialysis session (pre-infusion) and 50µg/kg/h during their routine hemodialysis session (maintenance infusion).
-: Placebo — 0.9% sodium chloride will be administered as the same rate as icatibant
-Link: https://clinicaltrials.gov/study/NCT05834777
-
-SUMMARY: Blood pressure often drops during dialysis. This crossover study tests blocking the bradykinin B2 receptor, compared with placebo, to prevent this intradialytic hypotension.
-
 ## NCT05834907
 Prevention of Attachment Insecurity, Physiological Dysregulation, and Child Behavior Problems
 
@@ -9805,14 +9796,6 @@ Intervention: : Amoxicillin/clavulanate — Amoxicillin-clavulanate 875-125mg by
 Link: https://clinicaltrials.gov/study/NCT05846399
 
 SUMMARY: Cat bites to the hand and forearm can cause infection. This study tests preventive antibiotics, and different durations, against a placebo.
-
-## NCT05846620
-Pulmonary Immune Cell-microbiome Interactions in the Healthy Lung: the ILLUMINA-2 Study
-
-Intervention: : Bronchoalveolar lavage — Bronchoalveolar lavage in the middle lobe of the right lung and a mini-bronchoalveolar lavage in the upper and lower lobe of the right lung
-Link: https://clinicaltrials.gov/study/NCT05846620
-
-SUMMARY:
 
 ## NCT05846750
 A Prospective, Open-label, Single-arm, Multicenter Study to Evaluate the Efficacy and Safety of Obinutuzumab(GA101) in Combination With Lenalidomide in Relapsed and Refractory(R/R) Marginal Zone Lymphoma (MZL)
@@ -10490,14 +10473,6 @@ Intervention: : psychoeduc/self-care/self-hypnosis group — See arm description
 Link: https://clinicaltrials.gov/study/NCT05867966
 
 SUMMARY: People who had breast or digestive cancer often have a cluster of symptoms like fatigue, sleep problems and low mood. This study tests psychoeducation and self care to manage them.
-
-## NCT05868135
-Guided Internet-delivered Treatment for Moderate Depression, Social Anxiety Disorder and Panic Disorder - An Open Naturalistic Multicentre Cost-effectiveness Trial
-
-Intervention: : eMeistring — Initial face-to-face visit, eight/nine sessions/modules of therapist guided ICBT, final face-to-face visit
-Link: https://clinicaltrials.gov/study/NCT05868135
-
-SUMMARY: Moderate depression, social anxiety and panic disorder are common. This study tests guided internet delivered treatment in regular care settings.
 
 ## NCT05868226
 PRE-Investigation of Serial Studies to Predict Your Therapeutic Response With Imaging And moLecular Analysis: A Phase I/II Platform Trial
@@ -16774,14 +16749,6 @@ Intervention: : COMPRENDO Peer Navigation Intervention — Parents randomized to
 Link: https://clinicaltrials.gov/study/NCT06055296
 
 SUMMARY:
-
-## NCT06055439
-A Phase 1/2 Study to Evaluate CHM-2101, an Autologous Cadherin 17 (CDH17) Chimeric Antigen Receptor (CAR) T Cell Therapy for the Treatment of Relapsed or Refractory Gastrointestinal Cancers
-
-Intervention: : CHM-2101 CAR-T cells — Cadherin 17 (CDH17) Chimeric Antigen Receptor (CAR)-positive T cells
-Link: https://clinicaltrials.gov/study/NCT06055439
-
-SUMMARY: Gastrointestinal cancers that come back or resist treatment need new options. This study tests CHM-2101, CAR-T cells that target CDH17.
 
 ## NCT06055452
 Effects and Mechanism of SGLT2 Inhibitors in Pre-heart Failure Populations With Hypertension

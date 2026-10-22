@@ -1611,29 +1611,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04518475
-A Multicenter, Randomized, Open-label Study To Compare The Efficacy And Safety Of Eltrombopag Combining Rituximab With Eltrombopag In Adult ITP Patients
-
-Intervention: : eltrombopag combining rituximab — After enrollment,all subjects receive eltrombopag treatment,the initial dose of eltrombopag administration was an oral 75 mg once daily.Complete blood count including platelet count was done once a week.The dose of eltrombopag was adjusted according to the subject platelet count during the period from week 1 to week 24. If the platelet count \>250×10\^9/L, the eltrombopag will stop until the platelet count \<30×10\^9/L.
-
-All subjects receive single dose infusion of rituximab 375 mg/m(2) within 14 days after enrollment.
-
-Efficacy and safety will be evaluated at Week 4, Week 8, and Week 12.
-: eltrombopag — After enrollment,all subjects receive eltrombopag treatment,the initial dose of eltrombopag administration was an oral 75 mg once daily.Complete blood count including platelet count was done once a week.The dose of eltrombopag was adjusted according to the subject platelet count during the period from week 1 to week 24. If the platelet count \>250×10\^9/L, the eltrombopag will stop until the platelet count \<30×10\^9/L.
-
-Efficacy and safety will be evaluated at Week 4, Week 8, and Week 12.
-Link: https://clinicaltrials.gov/study/NCT04518475
-
-SUMMARY: Immune thrombocytopenia is a condition where the immune system destroys platelets, raising the risk of bleeding. This study compares the drug eltrombopag alone or combined with the antibody drug rituximab in adults.
-
-## NCT04518501
-Fuzuloparib Plus Arsenic Trioxide in Patients With Platinum Resistance Relapsed Ovarian Cancer
-
-Intervention: : Arsenic trioxide Tablet +Fuzuloparib Capsules — Arsenic trioxide Tablet : 0.27\*9 tid po consecutive 21 days with 1 week rest． Fuzuloparib Capsules: 150 mg bid po
-Link: https://clinicaltrials.gov/study/NCT04518501
-
-SUMMARY: Ovarian cancer that has come back and no longer responds to platinum chemotherapy is hard to treat. This study tests a targeted capsule combined with arsenic trioxide tablets.
-
 ## NCT04519905
 Phase III Study of Concurrent Radiotherapy in Elderly Patients With Esophageal Squamous Cell Carcinoma (ESO-Shanghai 15)
 
@@ -9053,14 +9030,6 @@ Link: https://clinicaltrials.gov/study/NCT05098613
 
 SUMMARY: B cell non Hodgkin lymphoma that has come back or stopped responding is hard to treat. This study tests CAR-T cells engineered to target both CD19 and CD22 in teens and adults.
 
-## NCT05098821
-Pattern Recognition of Immune Cells in Atopic Dermatitis Patients Receiving Dupilumab
-
-Intervention: : not applicable, observational study — Patients undergoing systemic therapy according to international accepted guidelines for the therapy of atopic dermatitis, observational study
-Link: https://clinicaltrials.gov/study/NCT05098821
-
-SUMMARY:
-
 ## NCT05099315
 Identification of Skin-associated Microbiota in Atopic Dermatitis Patients Undergoing Systemic Therapy
 
@@ -14566,14 +14535,6 @@ Neural Mechanisms of Spatial Representations Beyond the Self
 Intervention: : Self-navigation task — Participants will perform a self-navigation task with two experimental conditions: Either they will be asked to walk towards a visible wall-mounted sign, or they will be asked to find and learn a hidden target location within the experimental room.
 : Observation task — Participants will sit on a chair in a corner of the room (RNS participants) or watch a video that was recorded from the corner of the room (EMU participants). They will be asked to keep track of another person's location who is walking around the room, and to press a button whenever the other person crosses a previously-learned target location.
 Link: https://clinicaltrials.gov/study/NCT05406349
-
-SUMMARY:
-
-## NCT05406635
-A National Randomized Non-inferiority Trial: Imaging Versus Cardiac Biomarker Monitored HER2 Directed Therapy in Patients With Breast Cancer
-
-Intervention: : Biomarkers: Troponins and natriuretic peptides — Biomarker monitored treatment with measurement of NT-proBNP and cTNT / TNI in weeks 0, 9, 18, 30 and 48 of the treatment period.
-Link: https://clinicaltrials.gov/study/NCT05406635
 
 SUMMARY:
 

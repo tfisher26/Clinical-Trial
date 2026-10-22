@@ -1558,15 +1558,6 @@ Link: https://clinicaltrials.gov/study/NCT07031102
 SUMMARY:
 
 
-## NCT06192914
-Prospective Survey of the Repeated Occurrence of Anaphylactic Reactions in Patients with Food Allergies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06192914
-
-SUMMARY:
-
-
 ## NCT04603196
 Prevalence and Impact of Obstructive Sleep Apnea in Multiple Sclerosis
 

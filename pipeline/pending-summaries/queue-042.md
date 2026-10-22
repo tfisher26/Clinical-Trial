@@ -1427,14 +1427,6 @@ Link: https://clinicaltrials.gov/study/NCT06122415
 
 SUMMARY:
 
-## NCT05406635
-A National Randomized Non-inferiority Trial: Imaging Versus Cardiac Biomarker Monitored HER2 Directed Therapy in Patients With Breast Cancer
-
-Intervention: : Biomarkers: Troponins and natriuretic peptides — Biomarker monitored treatment with measurement of NT-proBNP and cTNT / TNI in weeks 0, 9, 18, 30 and 48 of the treatment period.
-Link: https://clinicaltrials.gov/study/NCT05406635
-
-SUMMARY:
-
 ## NCT06262828
 Harnessing Evidence And Real-world Data To Improve Cardiovascular Health and Services (HEARTWISE) - The Personalised - CARdiovascular DIsease Risk Assessment for Chinese (P-CARDIAC) Real World Evidence Study - Population-based Study
 
@@ -1632,14 +1624,6 @@ LMWH Versus UFH as ECMO Anticoagulation in Lung Transplantation: A Prospective, 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06868823
-
-SUMMARY:
-
-## NCT06952959
-Using Professional Intelligent Skin Analyzers to Analyze the Effects of Cosmetic Acupuncture on Skin Health and Aging: A Randomized Controlled Trial
-
-Intervention: : Acupuncture — Cosmetic acupuncture
-Link: https://clinicaltrials.gov/study/NCT06952959
 
 SUMMARY:
 
@@ -5869,14 +5853,6 @@ Intervention: : cgm — Participants will wear a continuous glucose monitoring d
 : Behavioral Self-Monitoring of Blood Glucose — Participants will perform regular self-monitoring of blood glucose using a finger-prick glucose meter, along with standard prenatal care.
 : Control — Participants will receive standard prenatal care without additional glucose monitoring interventions
 Link: https://clinicaltrials.gov/study/NCT07263412
-
-SUMMARY:
-
-## NCT06574165
-Relationships of Affect and Neuroinflammation With Clinical Pain in Veterans With Fibromyalgia
-
-Intervention: : Moderate Intensity Continuous Training — 6-week structured exercise intervention. The intervention will include twice weekly, center-based, aerobic exercise consisting of continuous treadmill walking. Each center-based session will include 45 minutes of aerobic exercise in addition to balance and flexibility exercises to promote cool-down. During each exercise session, participants will also be asked to wear a heart rate monitor to measure mean pulse during exercise sessions.
-Link: https://clinicaltrials.gov/study/NCT06574165
 
 SUMMARY:
 

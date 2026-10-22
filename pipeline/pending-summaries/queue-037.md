@@ -1444,15 +1444,6 @@ Link: https://clinicaltrials.gov/study/NCT07216261
 SUMMARY:
 
 
-## NCT07527780
-Could Hyperacusis and Misophonia Be Causes of Occupational Stress Among Teachers?
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07527780
-
-SUMMARY:
-
-
 ## NCT06777485
 China Liver Cancer Clinical Registry Cohort Database (HEAL)
 

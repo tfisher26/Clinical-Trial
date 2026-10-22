@@ -5612,14 +5612,6 @@ Link: https://clinicaltrials.gov/study/NCT06574100
 
 SUMMARY:
 
-## NCT06574165
-Relationships of Affect and Neuroinflammation With Clinical Pain in Veterans With Fibromyalgia
-
-Intervention: : Moderate Intensity Continuous Training — 6-week structured exercise intervention. The intervention will include twice weekly, center-based, aerobic exercise consisting of continuous treadmill walking. Each center-based session will include 45 minutes of aerobic exercise in addition to balance and flexibility exercises to promote cool-down. During each exercise session, participants will also be asked to wear a heart rate monitor to measure mean pulse during exercise sessions.
-Link: https://clinicaltrials.gov/study/NCT06574165
-
-SUMMARY:
-
 ## NCT06574360
 Dual Modulation of Sigma-1 and NMDA Receptors in the Treatment of Schizophrenia
 
@@ -10514,16 +10506,6 @@ Link: https://clinicaltrials.gov/study/NCT06653387
 
 SUMMARY: Some people with narrowed neck arteries are at high risk from standard surgery. This study tests the CGuard Prime stent placed through a small neck incision with a system that protects the brain, to see whether it works safely.
 
-## NCT06653400
-Combined Ketorolac and Lidocaine Paracervical Block for Office Hysteroscopy: a Randomized Controlled Trial
-
-Intervention: : paracervical block — paracervical block with office hysteroscopy
-: Lidocaine — Dosage: 20 mL of 1% lidocaine
-: ketorolac — Dosage: 2 mL (30 mg) of ketorolac
-Link: https://clinicaltrials.gov/study/NCT06653400
-
-SUMMARY: Office hysteroscopy, a camera exam of the womb, can be painful. This study tests combining the anti inflammatory ketorolac with a lidocaine nerve block around the cervix to see whether it reduces pain.
-
 ## NCT06653413
 Exploring the Diagnostic Performance of Dynamic Chest Radiology in Chronic Obstructive Pulmonary Disease
 
@@ -14788,15 +14770,6 @@ Intervention: : Immunohistochemistry and in situ hybridisation analysis — immu
 Link: https://clinicaltrials.gov/study/NCT06718153
 
 SUMMARY:
-
-## NCT06718179
-Randomized Comparison of Short Versus 12 Months Prasugrel Plus Aspirin in Patients with Acute Coronary Syndromes Treated with Percutaneous Coronary Intervention and Everolimus-eluting Stents (SORT OUT XII DAPT Duration Trial)
-
-Intervention: : Short duration of aspirin and prasugrel — aspirin 75 mg/day for 1 months plus prasugrel 10 mg/day (5 mg/day) for 1 year, followed by lifelong aspirin 75 mg/day after 1 year
-: Conventional duration of aspirin and prasugrel — aspirin 75 mg/day lifelong plus prasugrel 10 mg/day (5 mg/day) for 1 year
-Link: https://clinicaltrials.gov/study/NCT06718179
-
-SUMMARY: After a heart attack and stent, people usually take two blood thinners for a year, which raises bleeding risk. This study compares a short course of prasugrel plus aspirin with the standard 12 months.
 
 ## NCT06718192
 A Randomized Controlled Trial to Evaluate the Effectiveness of Bleomycin and Cryotherapy in Treating Plantar Warts.

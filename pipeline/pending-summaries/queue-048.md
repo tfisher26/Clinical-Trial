@@ -11262,14 +11262,6 @@ Link: https://clinicaltrials.gov/study/NCT07156994
 
 SUMMARY:
 
-## NCT07157215
-An International Survey on the Use of NIV Outside the ICU (NIV-Safety Study)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07157215
-
-SUMMARY:
-
 ## NCT07157631
 A Double-Blind, Randomized, Placebo-Controlled, Multi-Center Trial to Evaluate the Efficacy and Safety of Tranexamic Acid in Adult Liver Transplantation (ESTA Trial)
 
@@ -14725,16 +14717,6 @@ Link: https://clinicaltrials.gov/study/NCT07198100
 
 SUMMARY:
 
-## NCT07198139
-A Phase 1b, Randomized, Double-blind, Placebo-controlled Trial to Evaluate the Efficacy, Safety and Pharmacokinetics of CDI-988 in Healthy Adults After Challenge With Norovirus
-
-Intervention: : CDI-988 — Antiviral to treat norovirus
-: Placebo — Matching placebo
-: Snow Mountain Virus — Challenge with Snow Mountain Virus
-Link: https://clinicaltrials.gov/study/NCT07198139
-
-SUMMARY:
-
 ## NCT07198152
 The Application of Artificial Intelligence in Screening Adrenal Nodules in Low-dose Chest CT
 
@@ -15100,14 +15082,6 @@ A Phase 2 Randomized Stepped Wedge Study of Emapalumab in APECED Enteritis
 
 Intervention: : Emapalumab — Emapalumab will be administered via IV infusion once a month. The initial dose of emapalumab is 6 mg/kg followed by a second dose of 6 mg/kg after 3 days. Subsequently, the dose is 6 mg/kg once a month for five additional doses.
 Link: https://clinicaltrials.gov/study/NCT07202598
-
-SUMMARY:
-
-## NCT07202650
-EFFECT OF GUİDED IMAGERY ON PREMENSİVE SYNDROME İN UNİVERSİTY STUDENTS
-
-Intervention: : guided imagery — Guided imagery is a form of mind-body communication, defined as a flow of thoughts involving what we smell, taste, see, hear, and touch, or as the way the mind encodes, stores, and retrieves information. Guided imagery is based on the understanding that the mind and body are interconnected and that the mind can influence bodily functions. Stress and anxiety directly affect the brain and the immune system.
-Link: https://clinicaltrials.gov/study/NCT07202650
 
 SUMMARY:
 

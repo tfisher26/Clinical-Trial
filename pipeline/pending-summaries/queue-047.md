@@ -3004,16 +3004,6 @@ Link: https://clinicaltrials.gov/study/NCT06792682
 
 SUMMARY:
 
-## NCT06792695
-A Phase II, Open-label, Multicenter, Master Protocol to Evaluate the Safety and Efficacy of Novel Study Interventions and Combinations in Participants With Colorectal Cancer (CANTOR)
-
-Intervention: : Volrustomig — Volrustomig will be administered as intravenous (IV) infusion.
-: FOLFIRI (Fluorouracil (5-FU), leucovorin, irinotecan) — FOLFIRI will be administered as IV infusion.
-: Bevacizumab — Bevacizumab will be administered as IV infusion.
-Link: https://clinicaltrials.gov/study/NCT06792695
-
-SUMMARY:
-
 ## NCT06792734
 Phase 1A/1B Trial of BTM-3566 in Relapsed/Refractory Mature B Cell Lymphomas
 
@@ -13856,14 +13846,6 @@ Functional, Clinical, and Predictive Validation Study of the EMILY AI Device in 
 
 Intervention: : Emily.AI — EMILY.AI is composed of an O2 regulating valve together with an intelligent system which allows the automation in the regulation of O2 and its customization.
 Link: https://clinicaltrials.gov/study/NCT06952816
-
-SUMMARY:
-
-## NCT06952959
-Using Professional Intelligent Skin Analyzers to Analyze the Effects of Cosmetic Acupuncture on Skin Health and Aging: A Randomized Controlled Trial
-
-Intervention: : Acupuncture — Cosmetic acupuncture
-Link: https://clinicaltrials.gov/study/NCT06952959
 
 SUMMARY:
 

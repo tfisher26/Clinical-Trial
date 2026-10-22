@@ -67,18 +67,6 @@ Link: https://clinicaltrials.gov/study/NCT06294405
 SUMMARY:
 
 
-## NCT06933056
-Comparison of Antiplatelet Effects of Sotagliflozin to FDA-approved Antiplatelet Drugs: an Interventional Study
-
-Intervention: : Sotagliflozin (SOTA) followed by 3 drugs in a random order — 400 mg/day SOTA Each drug will be given daily for 2 weeks.
-: Aspirin followed by 3 drugs in a random order — 81 mg/day Aspirin Each drug will be given daily for 2 weeks.
-: Clopidogrel followed by 3 drugs in a random order — 75 mg/day clopidogrel Each drug will be given daily for 2 weeks.
-: Eliquis followed by 3 drugs in a random order — 5 mg orally twice daily Eliquis Each drug will be given daily for 2 weeks.
-Link: https://clinicaltrials.gov/study/NCT06933056
-
-SUMMARY:
-
-
 ## NCT06910527
 Study of the Evolution of Circulating Plasma and Urinary DNA of Renal Origin in Kidney Transplant Patients
 

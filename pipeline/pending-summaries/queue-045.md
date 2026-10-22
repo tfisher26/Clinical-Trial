@@ -2613,15 +2613,6 @@ Link: https://clinicaltrials.gov/study/NCT06141239
 
 SUMMARY:
 
-## NCT06141720
-Feasibility of a Mindfulness Intervention for Endometriosis Surgery
-
-Intervention: : pain education — Pain education
-: mindfulness of pain introduction and intervention — Brief mindfulness of pain introduction and intervention
-Link: https://clinicaltrials.gov/study/NCT06141720
-
-SUMMARY: Endometriosis surgery can be followed by ongoing pain. This study tests the feasibility of a mindfulness intervention around surgery.
-
 ## NCT06142084
 True Ileal Digestibility of Different Plant-based Proteins in a Human Ileostomy Model
 
@@ -12376,14 +12367,6 @@ Link: https://clinicaltrials.gov/study/NCT06361108
 
 SUMMARY: Nerve pain in the feet and legs from diabetes can be hard to treat with pills. This study tests YJ001, a spray applied to the skin, at increasing doses to see whether it is safe and relieves pain compared with a placebo.
 
-## NCT06361394
-The Impacts of Mindfulness on Psychological Wellbeing and Nursing Competencies Among Nursing Students
-
-Intervention: : Mindfulness and Happiness elective course — Participants in the experimental group will receive the "Mindfulness and Happiness" elective course, consisting of 2 hours per week for 18 consecutive weeks.
-Link: https://clinicaltrials.gov/study/NCT06361394
-
-SUMMARY:
-
 ## NCT06361498
 Accuracy of Ultrasound for the Evaluation of Percutaneous Gastrostomy Tube Position and Leakage
 
@@ -14522,14 +14505,6 @@ Intervention: : Clascoterone — Clascoterone Cream 1% (Winlevi) is indicated fo
 Link: https://clinicaltrials.gov/study/NCT06403501
 
 SUMMARY: Acne on the face is common and can be hard to control with existing creams. This study tests clascoterone cream, sold as Winlevi, which blocks hormones that drive oil production, against a plain cream to see whether it clears acne.
-
-## NCT06403540
-The Impact of Laparotomy and Analgesia Methods on Postoperative Diaphragm Muscle Contraction in Major Abdominal Surgeries.
-
-Intervention: : ultrasonography — Using ultrasonography to measure diaphragm thickness
-Link: https://clinicaltrials.gov/study/NCT06403540
-
-SUMMARY:
 
 ## NCT06403618
 Evaluation of the PreCursor-M+® Assay Performance in the Management of Women Diagnosed With CIN2

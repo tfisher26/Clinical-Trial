@@ -2607,17 +2607,6 @@ Link: https://clinicaltrials.gov/study/NCT06748677
 SUMMARY:
 
 
-## NCT06925373
-Housing, Environment, And Living Conditions for Transformed Health (HEALTHe Birmingham)
-
-Intervention: : Indoor Air Purification — An indoor air purifier with a dual HEPA/activated carbon filter, a usage tracker, and an indoor air quality monitor will be installed in public housing residences.
-: Neighborhood Improvements — Improved built environment (green space, sidewalks, street lights) and social environment (educational and workforce development programs, wrap-around social services, Internet access).
-: Housing Improvements — High-quality public housing
-Link: https://clinicaltrials.gov/study/NCT06925373
-
-SUMMARY:
-
-
 ## NCT06503146
 18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detection
 

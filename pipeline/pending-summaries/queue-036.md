@@ -1060,15 +1060,6 @@ Link: https://clinicaltrials.gov/study/NCT06664359
 SUMMARY:
 
 
-## NCT05761093
-A Study to Evaluate Patient and Physician Benefit/ Risk Preferences for Treatment of Metastatic Prostate Cancer (mPC) in Hong Kong: a Discrete Choice Experiment
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05761093
-
-SUMMARY:
-
-
 ## NCT07504029
 Human Clinical Trial Evaluating the Blood Glucose-Regulating Effects of Momordica Charantia Peptides
 
@@ -1638,16 +1629,6 @@ Prognostic Model of Hypertension
 
 Intervention: : Standard therapy — Individualized blood pressure reduction program
 Link: https://clinicaltrials.gov/study/NCT06160921
-
-SUMMARY:
-
-
-## NCT05818696
-A Brief Fear of Uncertainty-Focused Intervention as an Adjunct to Lethal Means Counseling
-
-Intervention: : Lethal Means Counseling (LMC) — The research interventionist uses a guiding approach to identify methods for secure firearm storage and reflects the participant's reasons for and against secure firearm storage, with a particular focus on the service member's verbalized reasons for wanting to adopt or use the identified storage methods.
-: CBT for Uncertainty - Enhanced (CUE) — CUE consists of a 1-hour manualized intervention that uses interactive content to enhance participant learning of critical intervention components. The session includes (1) psychoeducation regarding the role of IU in exacerbating anxiety/mood sensations, (2) practice identifying and challenging maladaptive thoughts about uncertainty and accompanying distress, and (3) behavioral activities to challenge participants' capacity to handle uncertainty.
-Link: https://clinicaltrials.gov/study/NCT05818696
 
 SUMMARY:
 

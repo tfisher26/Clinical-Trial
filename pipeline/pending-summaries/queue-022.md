@@ -1307,20 +1307,6 @@ Link: https://clinicaltrials.gov/study/NCT06419101
 SUMMARY:
 
 
-## NCT07631845
-Effects of a Mindfulness-based Music Breathing Intervention in Enhancing Resilience Among Community-dwelling Elders at Risk of Mental Health Problems: A Pilot Randomised Controlled Trial
-
-Intervention: : Mindfulness-based music breathing intervention — Participants in the intervention group will receive a 4-week music plus mindfulness-based breathing program, consisting of one 60-minute face-to-face session per week. The sessions will be delivered in small groups by a qualified music breathing practitioner. The intervention will follow a structured protocol developed by the research team and reviewed by a certified trained music-breathing therapist.
-
-Each session will consist of four progressive breathing phases, including:
-
-I. Discovery Breathing - to increase awareness of breath and bodily sensations II. Triangular Breathing - to cultivate control and balance through rhythm III. Silent Breathing - to promote stillness and internal reflection IV. Music Breathing - to combine guided music listening with mindful breathing for emotional regulation
-: control group — Participants in the control group will receive usual care, which may include access to existing community-based services, health education, or leisure activities, but will not involve any structured music or mindfulness-based intervention.
-Link: https://clinicaltrials.gov/study/NCT07631845
-
-SUMMARY:
-
-
 ## NCT07632014
 Improving Cancer Outcomes for Children, Adolescents, and Young Adults: A Multicenter Prospective Cohort Study on Treatment Failure and Toxicity in Low- and Middle-Income Countries.
 

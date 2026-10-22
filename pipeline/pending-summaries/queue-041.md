@@ -1498,15 +1498,6 @@ Link: https://clinicaltrials.gov/study/NCT07084168
 SUMMARY:
 
 
-## NCT06100991
-CorEvitas Generalized Pustular Psoriasis (GPP) Drug Safety and Effectiveness Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06100991
-
-SUMMARY:
-
-
 ## NCT06531798
 Post-marketing Phase IV, Multicenter, Prospective Study to Observe the Safety and Tolerability of Breztri aerosphereTM Containing a Fixed Dose Combination of Budesonide 160 mcg/ Glycopyrronium 7.2 mcg/ Formoterol Fumarate Dehydrate 5 mcg in Patients With Moderate to Severe Chronic Obstructive Pulmonary Disease
 

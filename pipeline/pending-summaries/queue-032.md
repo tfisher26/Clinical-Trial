@@ -2400,19 +2400,6 @@ Link: https://clinicaltrials.gov/study/NCT04602325
 SUMMARY:
 
 
-## NCT07585578
-Multidimensional Dysfunction in Patients With Post-Intensive Care Syndrome in China: A Multi-center Real-world Study
-
-Intervention: : Data Collection and Assessment — 1. General clinical data collection: demographic characteristics, primary disease, duration of tracheostomy tube retention, duration of mechanical ventilation before transfer, and length of ICU stay before transfer; history of organ dysfunction; tube/catheter status; disease severity; nutritional status.
-2. Physical function assessment: diaphragmatic excursion, diaphragm thickness, thickening fraction, PEF; Medical Research Council score for muscle strength, ICU Mobility Scale; comprehensive score: Chelsea Critical Care Physical Assessment Tool score.
-3. Cognitive function assessment: Standardized Five Questions，Mini-Mental State Examination.
-4. Psychological status assessment: Patient Health Questionnaire-9 for depression, Generalized Anxiety Disorder 7-item scale , Pittsburgh Sleep Quality Index, Brief Pain Inventory-9, Hospital Anxiety and Depression Scale for family caregivers.
-5. Quality of life and functional capacity: Barthel Index, EQ-5D-5L.
-Link: https://clinicaltrials.gov/study/NCT07585578
-
-SUMMARY:
-
-
 ## NCT07458516
 IMaging Pre-PrOlifeRative sTAge of Diabetic retiNopaThy to Guarantee Timely Treatment - IMPORTANT
 
@@ -3032,15 +3019,6 @@ MAXIMAL and SELF-SELECTED WALKING SPEED AFTER KNEE ARTHROPLASTY
 
 Intervention: : Physical function — Observe walking speed, both maximal and self-selected, over a 12-months period after knee arthroplasty
 Link: https://clinicaltrials.gov/study/NCT06847113
-
-SUMMARY:
-
-
-## NCT05271669
-Patterns of SARS-CoV-2 Immunity at Household Level and Their Changes Over Time
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05271669
 
 SUMMARY:
 
@@ -5859,20 +5837,6 @@ Developing Extracellular Vesicle Based MPRINT Translational Resource Platform fo
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06249178
-
-SUMMARY:
-
-
-## NCT06831539
-Impact of PEG Bowel Preparation on Gut Microbiome Composition Recovery
-
-Intervention: : PEGLyte bowel preparation — Volunteers will be administered 4L of PEG bowel preparation. The following instructions will be provided with the prescription:
-
-1. Fill the supplied container containing the bowel cleanse powder with lukewarm water (to facilitate dissolution) to the 4-liter fill line. The solution is clear and colourless when reconstituted to a final volume of 4 liters.
-2. After capping the container, shake vigorously several times to ensure that the ingredients are dissolved. The solution is more palatable if chilled prior to drinking. When reconstituted use within 48 hours.
-3. Attempt to drink a maximum of 4 liters at a rate of 240 mL (8 oz.) every 10 minutes, until 4 liters has been consumed or the rectal effluent is clear. Rapid drinking of each portion is preferred to drinking small amounts continuously.
-4. The first bowel movements should occur approximately one hour after the start of bowel cleanse administration. Continue drinking until the watery stool is clear and free of solid matter.
-Link: https://clinicaltrials.gov/study/NCT06831539
 
 SUMMARY:
 
