@@ -2758,16 +2758,6 @@ Link: https://clinicaltrials.gov/study/NCT06923774
 SUMMARY:
 
 
-## NCT06730555
-Project ACCESS: Advancing Access to HIV/HCV Testing Through Transformation in Syringe Services Programs: A Cluster Randomized Trial
-
-Intervention: : ACCESS Intervention — Participants will receive the ACCESS intervention with funding, consisting of up to 16 hours of practice facilitation per month in person and/or virtually. Practice facilitation is training and support on implementation of routine HIV/HCV screening.
-: Control Group — Participants will receive a link to the CDC compendium of evidence-based interventions for HIV prevention.
-Link: https://clinicaltrials.gov/study/NCT06730555
-
-SUMMARY:
-
-
 ## NCT04761549
 Identification of Key Parameters to Initiate the Shift Towards 3D, Dynamic and Mechanically-informed Decision Making in Adolescent Idiopathic Scoliosis
 

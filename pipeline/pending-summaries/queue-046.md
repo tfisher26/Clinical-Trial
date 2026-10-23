@@ -15560,15 +15560,6 @@ Link: https://clinicaltrials.gov/study/NCT06728293
 
 SUMMARY:
 
-## NCT06728371
-Intravenous Methadone for Sternotomy Pain Control in Cardiac Surgery: Double-blinded, Randomized Controlled Trial
-
-Intervention: : Methadone — 0.2mg/kg intravenous methadone given at induction
-: Morphine — 0.2mg/kg intravenous morphine given at induction
-Link: https://clinicaltrials.gov/study/NCT06728371
-
-SUMMARY: Pain after open heart surgery through the breastbone is significant. This study compares a single dose of methadone with morphine at the start of anesthesia to see which gives better pain control.
-
 ## NCT06728462
 A Study Benchmarking FREEDOM Substudy to Evaluate the Effects of Amorphous Calcium Carbonate in Postmenopausal Women
 

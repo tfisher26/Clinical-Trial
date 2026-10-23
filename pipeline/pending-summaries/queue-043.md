@@ -9565,14 +9565,6 @@ Link: https://clinicaltrials.gov/study/NCT05127265
 
 SUMMARY:
 
-## NCT05128006
-Improving Dermatology Access by Direct-to-Patient Teledermatology and Computer-Assisted Diagnosis
-
-Intervention: : New patient teledermatology visit — new patient teledermatology visits
-Link: https://clinicaltrials.gov/study/NCT05128006
-
-SUMMARY:
-
 ## NCT05129345
 Addressing Barriers to Achieving Cardiometabolic Disorders Prevention and Treatment Goals for Persons Living With HIV in the Southeastern United States
 
@@ -15605,15 +15597,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05460975
 
 SUMMARY:
-
-## NCT05461898
-RehabGBs: Rehabilitation in People With Guillain-Barré Syndrome
-
-Intervention: : Inpatient Rehabilitation — Standard inpatient rehabilitation program with a interdisciplinary team that included a physiotherapist who ensured muscle strength, balance, aerobic and functional training, an occupational therapist who provided training of basic and instrumental activities of daily living and education of energy conservation techniques and a a speech and language therapist for swallowing training.
-: Inspiratory muscle training — Inspiratory muscle training protocol during 6 weeks with a electronic-controlled valve device
-Link: https://clinicaltrials.gov/study/NCT05461898
-
-SUMMARY: Guillain Barre syndrome causes sudden weakness from nerve damage. This study tests a standard inpatient rehabilitation program with an interdisciplinary team for people with this condition.
 
 ## NCT05462457
 Prospective, Multicentric Registry Study Evaluating the False-negative Rate of Targeted Axillary Dissection (TAD) in Primary Breast Cancer With Initially ≥ 3 Suspicious Lymph Nodes Under Neoadjuvant Systemic Therapy (SenTa 2)

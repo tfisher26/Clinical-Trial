@@ -9577,14 +9577,6 @@ Link: https://clinicaltrials.gov/study/NCT07610850
 
 SUMMARY:
 
-## NCT07611526
-Investigation of the Individual Fatigue Response During Blood Flow Restriction Training on a Cycle Ergometer Following Orthopedic Surgical Interventions
-
-Intervention: : Cycling BFR — Cycling ergometer with blood flow restriction
-Link: https://clinicaltrials.gov/study/NCT07611526
-
-SUMMARY:
-
 ## NCT07611565
 Comparison of Sensory Integration Therapy and Conventional Physical Therapy on Gross Motor Function in Children With Athetoid Cerebral Palsy: A Randomized Controlled Trial
 

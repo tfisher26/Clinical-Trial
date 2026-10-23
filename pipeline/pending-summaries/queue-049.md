@@ -679,15 +679,6 @@ Link: https://clinicaltrials.gov/study/NCT07240454
 
 SUMMARY:
 
-## NCT07240558
-Pandemic Influenza Vaccine in Organ Transplantation (PIVOT Trial): Safety and Immunogenicity of Pandemic Influenza Vaccine in Organ Transplant Recipients
-
-Intervention: : H5N1 vaccine (Arepanrix, GSK) — 2 doses of H5N1 vaccine, 3 weeks apart, given IM (deltoid)
-: Placebo — 2 doses of 0.5mls normal saline, 3 weeks apart, given IM (deltoid)
-Link: https://clinicaltrials.gov/study/NCT07240558
-
-SUMMARY:
-
 ## NCT07240883
 ENDO1000 - A UK-wide Endometriosis Research Project
 
@@ -2863,20 +2854,6 @@ Implementation of the Methylome in the Characterization of Solid Tumors
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07268066
-
-SUMMARY:
-
-## NCT07268183
-Influence of Pre-diagnostic Estrogen Fluctuations on the Development of Prolactin-Secreting Macroadenomas or Microadenomas: A Comparative Study Conducted at Hôpital Louis Pradel
-
-Intervention: : Standardized questionnaire — The intervention is a questionnaire which will be administered only if informations available on medical files are not sufficient.
-
-1 mounth before questionning our cases and controls, they will receive a participant information note.
-
-It will be administered primarily by telephone. If the patient prefers not to answer by telephone, a paper version will be mailed to her. In this case, she will have up to two months to return the completed questionnaire by post.
-
-The questionnaire will collect detailed information on potential exposures to estrogens and reproductive history.
-Link: https://clinicaltrials.gov/study/NCT07268183
 
 SUMMARY:
 
@@ -5580,14 +5557,6 @@ Telemedicine-supported Management of Acute Ischemic Stroke in the Basic-level Ho
 
 Intervention: : Telemedicine-Supported Management — Receive round-the-clock 7×24h remote consultation guidance from expert teams at leading stroke centers, covering patient triage and initial assessment, thrombolysis decision-making, and treatment guidance. Undergo quality control for standardized workflow implementation, and professional training.
 Link: https://clinicaltrials.gov/study/NCT07302971
-
-SUMMARY:
-
-## NCT07302997
-A Single-Center, First-in-Human, Randomized, Controlled, Feasibility Study of a New Device for the Real-Time Continuous Monitoring of the Injection Pressure of Local Anesthetic in Subjects Undergoing Ultrasound-guided Peripheral Nerve Block: the Smart Needle Monitoring System Investigation
-
-Intervention: : Smart Needle Monitoring System — The Smart Needle Monitoring System is used to perform the ultrasound-guided axillary block. The monitor connected to the Smart Needle will display real-time and record the injection pressure profile during the entire PNB procedure
-Link: https://clinicaltrials.gov/study/NCT07302997
 
 SUMMARY:
 
@@ -9898,15 +9867,6 @@ Link: https://clinicaltrials.gov/study/NCT07368751
 
 SUMMARY:
 
-## NCT07369063
-Impact of Vitamin D Therapy on Thyroid Function and Antibody Levels in Pediatric Graves' Disease: A Pilot Feasibility Trial
-
-Intervention: : Ergocalciferol 50,000 IU — Participants will receive ergocalciferol 50,000 IU oral capsules weekly for the first 8 weeks, followed by 50,000 IU every two weeks for the subsequent 16 weeks (total 24 weeks).
-: Methimazole — Methimazole is considered standard of care for pediatric Graves' disease. Dosing is determined and adjusted by the participant's treating physician
-Link: https://clinicaltrials.gov/study/NCT07369063
-
-SUMMARY:
-
 ## NCT07369076
 A Phase 1b/2 Study to Evaluate NB-4746 in Participants With Amyotrophic Lateral Sclerosis.
 
@@ -10350,15 +10310,6 @@ Phase I Study of Vaccination With DC/MM Fusion Cells in Combination With BCMA Di
 Intervention: : DC/MM Fusion Vaccine — Dendritic Cell and tumor fusion vaccine, via subcutaneous injection (under the skin), per protocol.
 : GM-CSF — Granulocyte-Macrophage Colony-Stimulating Factor, via subcutaneous injection, per standard of care.
 Link: https://clinicaltrials.gov/study/NCT07377435
-
-SUMMARY:
-
-## NCT07377539
-A Double-Blind, Sponsor-Unblinded, Randomized, Placebo-Controlled Study of the Safety, Tolerability, and Pharmacokinetics of Single-Ascending Doses of JZP047 and an Open-Label Food Effect Study of JZP047 in Healthy Male and Female Participants
-
-Intervention: : JZP047 — Single dose
-: Placebo — Single dose
-Link: https://clinicaltrials.gov/study/NCT07377539
 
 SUMMARY:
 

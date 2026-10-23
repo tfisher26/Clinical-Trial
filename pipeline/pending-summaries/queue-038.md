@@ -6164,15 +6164,6 @@ Link: https://clinicaltrials.gov/study/NCT07404956
 SUMMARY:
 
 
-## NCT06157931
-Resilient Students Training (ReST): A Pilot Randomized Controlled Trial
-
-Intervention: : Resilient Student Training intervention (ReST) — ReST consists of one individual 60-minute session and two 90-minute group-based sessions.
-Link: https://clinicaltrials.gov/study/NCT06157931
-
-SUMMARY:
-
-
 ## NCT07135791
 Real-Time Monitoring of Fatigue In Daily Life Among Adults With Cerebral Palsy or Acquired Brain Injury: An Observational Study
 

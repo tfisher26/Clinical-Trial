@@ -730,19 +730,6 @@ Link: https://clinicaltrials.gov/study/NCT07182916
 SUMMARY:
 
 
-## NCT06616116
-Development and Verification of Effectiveness of Biofeedback Contents for Stress Management Using Real-time Bio-signal Monitoring Device
-
-Intervention: : Biosignal feedback — 1. Real-time neurofeedback guided mindfulness
-
-   : Unlike standard mindfulness therapies, this intervention integrates real-time monitoring of brainwave activity (EEG). Participants in the experimental group receive immediate auditory feedback during their mindfulness sessions, which helps guide their practice and enhance engagement.
-2. Tailored progress report In addition to real-time feedback, participants in the Mindfulness with biosignal feedback group receive detailed reports of their biosignal data (EEG and HRV) before, during, and after each session. These reports allow for deeper self-reflection and personalized adjustments to their mindfulness practice, which is not commonly provided in other mindfulness programs.
-: Sham Comparator — Biosignal Monitoring (EEG and HRV) during Mindfulness without real-time feedback
-Link: https://clinicaltrials.gov/study/NCT06616116
-
-SUMMARY:
-
-
 ## NCT05578105
 Prevalence and Genetic Alternation of Autoimmune Polyglandular Syndrome Type II in Taiwan
 

@@ -195,15 +195,6 @@ Link: https://clinicaltrials.gov/study/NCT07227324
 SUMMARY:
 
 
-## NCT07144111
-A Phase 1, Open-Label, Single-Dose Study to Evaluate the Effect of Moderate or Severe Hepatic Impairment on the Pharmacokinetics of Inavolisib
-
-Intervention: : Inavolisib — Participants will receive a single oral dose of inavolisib
-Link: https://clinicaltrials.gov/study/NCT07144111
-
-SUMMARY:
-
-
 ## NCT06740838
 Overnight Dexamethasone in Primary Aldosteronism Screening in Patients on Interfering Therapy (the ODEPRASC Study)
 

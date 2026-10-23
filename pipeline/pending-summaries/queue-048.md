@@ -11816,14 +11816,6 @@ Link: https://clinicaltrials.gov/study/NCT07167381
 
 SUMMARY:
 
-## NCT07167433
-Ovarian Cancer Epidemiology and Care in Brazil: A Multicenter Perspective (OLIVIA Study) Observational, Bi-directional (Prospective and Retrospective) Study for Patients With Newly Diagnosed Ovarian Cancer Stages IA to IVB, or Persistent or Recurrent Disease From January 2021; Irrespective of Histology
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07167433
-
-SUMMARY:
-
 ## NCT07167446
 Exploring the Neuroprotective Potential of Cannabidiol (CBD) in Preventing Oxaliplatin (Ox)-Induced Neuropathy: A Prospective Study
 

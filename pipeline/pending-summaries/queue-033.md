@@ -1348,15 +1348,6 @@ Link: https://clinicaltrials.gov/study/NCT07550010
 SUMMARY:
 
 
-## NCT05337410
-YES: Innovative Discussion for Engagement, Achievement, and Service
-
-Intervention: : YES IDEAS — YES IDEAS is an adapted version of the evidence based YES (Youth Empowerment Solutions) program. Through the YES program, youth design and implement their own projects to help improve their own communities. The adapted YES IDEAS curriculum empowers youth from various backgrounds to address bullying and promote positive behaviors as a way to reduce violent behavior. Over the course of the program, youth carry out a community change project aimed at promoting non-violence in their community.
-Link: https://clinicaltrials.gov/study/NCT05337410
-
-SUMMARY:
-
-
 ## NCT05350813
 Impact of Procalcitonin-guided Algorithm on Early Discontinuation of Antibiotic Therapy in Pediatric Intensive Care Units : a Multicenter Randomized Controlled Trial
 
@@ -6851,16 +6842,6 @@ If the participant does not have an upcoming scheduled appointment, they will re
 : Portal message only — Participant will only receive portal message with no reminder text messages.
 : Usual Care — Standard of care
 Link: https://clinicaltrials.gov/study/NCT07322367
-
-SUMMARY:
-
-
-## NCT07628881
-A Phase 1, Single-dose, Open-label, Randomized, Crossover Study in Healthy Adult Participants to Evaluate Relative Bioavailability and Food Effect of Tablet for Oral Suspension of Sonrotoclax
-
-Intervention: : Sonrotoclax Tablet for Oral Suspension — Administered orally
-: Sonrotoclax Tablet — Administered orally
-Link: https://clinicaltrials.gov/study/NCT07628881
 
 SUMMARY:
 

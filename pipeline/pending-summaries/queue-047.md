@@ -2822,14 +2822,6 @@ Link: https://clinicaltrials.gov/study/NCT06790264
 
 SUMMARY:
 
-## NCT06790394
-A Test-retest Study to Evaluate the Reproducibility of [18F]Florbetaben PET Imaging in Patients With Cardiac Amyloidosis and Control Patients
-
-Intervention: : Florbetaben F18 — Florbetaben F18 is a radioactive diagnostic agent being developed for the indication of PET imaging of the heart to detect amyloid pathology. All patients will receive two administrations of Florbetaben F18 at a radioactive dose of 300 megabecquerel (MBq).
-Link: https://clinicaltrials.gov/study/NCT06790394
-
-SUMMARY:
-
 ## NCT06790576
 Optimizing Transcranial Magnetic Stimulation for Stimulant Use Disorder
 
@@ -15082,14 +15074,6 @@ Effects of Mixed Reality on Manipulative Skills, Functionality and Quality of Li
 Intervention: : Conventional Upper Limb Treatment — Control group (CG) will receive two 60-minute sessions per week for a period of ten weeks (a total of 20 sessions per group). The CG will receive a specific conventional physiotherapy intervention by a physiotherapist with expertise in the care of people with MS. This intervention will be based on conventional physiotherapy exercises \[23\], including shoulder, elbow, wrist and finger joint mobilization, forearm and hand muscle strengthening exercises, gross and fine motor work and functional task practice with the aim of mimicking the movements included in the settings specifically designed for the experimental intervention.
 : Experimental intervention with mixed reality — Experimental group will receive the same conventional physiotherapy treatment (40 minutes) in addition to a mixed reality protocol, using Meta Quest 3.0. glasses (20 minutes), by retraining on tasks specifically designed for this project and linked to the specific locations (kitchen, bathroom, living room, bedroom and garden-terrace. The intervention will be carried out by a physiotherapist skilled in the use of the technology. The patient's initial position will be seated facing a table at mid-trunk height, with the elbow at 90° of flexion and the forearm in neutral pronation-supination. The therapist will provide manual assistance as needed, moving to upright-high seated or standing positions as the protocol progresses and as tasks require, and work will be done bilaterally.
 Link: https://clinicaltrials.gov/study/NCT06968676
-
-SUMMARY:
-
-## NCT06968741
-Study to Assess the Safety and Effectiveness of the UrOActive® Artificial Urinary sPHincter In the treAtment of Stress Urinary Incontinence in Men
-
-Intervention: : Artificial Urinary Sphincter (AUS) — AUS implant
-Link: https://clinicaltrials.gov/study/NCT06968741
 
 SUMMARY:
 

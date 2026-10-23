@@ -2744,14 +2744,6 @@ Link: https://clinicaltrials.gov/study/NCT06146270
 
 SUMMARY:
 
-## NCT06146608
-Heme and Non-heme Iron Intakes, Gut Microbiota, and Influence on Host Iron Absorption
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06146608
-
-SUMMARY:
-
 ## NCT06146725
 The RESBIOP-study: Resection Versus Biopsy in High-grade Glioma Patients (ENCRAM 2202)
 

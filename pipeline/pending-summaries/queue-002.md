@@ -18144,43 +18144,43 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT04381208
-Datos de la Historia clínica y Del Examen físico y neurológico Que Orientan al diagnóstico de Dolor Originario en la articulación sacroilíaca
+## NCT04499833
+Evaluation of the HepatoPredict Prognostic Tool in the Decision of Liver Transplant in Hepatocellular Carcinoma
 
-Intervention: : Complete clinical examination — Medical history-taking, physical examination with provocative maneuvers, radiographic imaging (if relevant), and sacroiliac joint block (if indicated), facet joint block (if indicated)
-Link: https://clinicaltrials.gov/study/NCT04381208
-
-SUMMARY:
-
-## NCT04123314
-Pilot Study of Serotonin 2A Receptor (5-HT2A) Agonist Psilocybin for Depression in Patients With Mild Cognitive Impairment or Early Alzheimer's Disease
-
-Intervention: : Psilocybin — Dosing at the first session will be 15 mg/70 kg. For the second session participants will either remain at the initial dose, or increase to 25 mg/70 kg at the discretion of the study team.
-Link: https://clinicaltrials.gov/study/NCT04123314
+Intervention: : liver transplant — liver transplant
+Link: https://clinicaltrials.gov/study/NCT04499833
 
 SUMMARY:
 
-## NCT04297085
-Prospective Cohort Study on the Determinants of Venous THromboembolic Recurrence. BREIZH-Cohorte
+## NCT02010866
+Reaching Out to Distressed Medical Residents, Fellows, and Faculty Through the OHSU Resident and Faculty Wellness Program Interactive Screening Program (ISP)
 
-Intervention: : Biologic sample — Biological samples will be taken from the subjects included
-Link: https://clinicaltrials.gov/study/NCT04297085
+Intervention: : counseling — in-person counseling through RFWP offered to distressed respondents on the ISP and others who seek counseling (due to other reasons for referral)
+Link: https://clinicaltrials.gov/study/NCT02010866
 
 SUMMARY:
 
-## NCT04433455
-Influencing Factors of Cerebrovascular Disease and Cognition in Hemodialysis Patients: an Observational Study
+## NCT01004133
+The Healthy Elderly Longevity Cohort
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04433455
+Link: https://clinicaltrials.gov/study/NCT01004133
 
 SUMMARY:
 
-## NCT02693509
-Get With The Guidelines-Heart Failure Registry
+## NCT01084967
+Study of Clinical Characteristics and Genetic Susceptibility in Chinese Obese Youngs
 
-Intervention: : GWTG Heart Failure program — Evidence based guideline recommended therapies and counseling prior to hospital discharge
-Link: https://clinicaltrials.gov/study/NCT02693509
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT01084967
+
+SUMMARY:
+
+## NCT03417115
+Treatment and Outcome of Patients With Breast Cancer: Clinical Research Platform for Real World Data
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03417115
 
 SUMMARY:
 

@@ -340,18 +340,6 @@ Link: https://clinicaltrials.gov/study/NCT07349173
 SUMMARY:
 
 
-## NCT07191483
-A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, Pharmacokinetics (PK), and Pharmacodynamics (PD) of KYN-5356 as Adjunctive Treatment in Adults With Cognitive Impairment Associated With Schizophrenia
-
-Intervention: : KYN-5356 low dose — oral tablet
-: Placebo — Oral tablet
-: KYN-5356 Medium Dose — oral tablet
-: KYN-5356 High Dose — oral tablet
-Link: https://clinicaltrials.gov/study/NCT07191483
-
-SUMMARY:
-
-
 ## NCT06816186
 Department of Nurse-Midwifery and Women Health Graduate Institute of Nurse Midwifery
 

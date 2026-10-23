@@ -4187,15 +4187,6 @@ Link: https://clinicaltrials.gov/study/NCT07198529
 SUMMARY:
 
 
-## NCT04519619
-Drug Use Investigation for Eylea for Neovascular Glaucoma (NVG)
-
-Intervention: : Aflibercept (Eylea, BAY86-5321) — Administration by intravitreal injection
-Link: https://clinicaltrials.gov/study/NCT04519619
-
-SUMMARY:
-
-
 ## NCT07206628
 Real-world Study to Assess Adherence to IOP Lowering Therapy in Patients With Glaucoma or Ocular Hypertension Using CONNECTDROP®: the GRANITE Study (Glaucoma tReatment AdhereNce wIth connecTed dEvice in Italy)
 

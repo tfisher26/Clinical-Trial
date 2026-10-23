@@ -736,30 +736,11 @@ Link: https://clinicaltrials.gov/study/NCT06410248
 SUMMARY:
 
 
-## NCT06829875
-Are We Providing Timely Access to Musculoskeletal Outpatient Therapy Services? an Exploratory Study
-
-Intervention: : wait for outpatient appointment — this is an observational study measuring impact of pain and function at start and end of wait for those waiting for care from outpatient physiotherapy occupations therapy and podiatry
-Link: https://clinicaltrials.gov/study/NCT06829875
-
-SUMMARY:
-
-
 ## NCT05812287
 Exploring the Difference Between Gastric Cardia Cancer and Non-cardia Gastric Cancer Based on Multiomics
 
 Intervention: : Detection of biological samples based on multi-omics analysis — In this study, we combined multi-omics analysis to study the changes of various samples such as feces, serum, and saliva, and screen key differential markers.
 Link: https://clinicaltrials.gov/study/NCT05812287
-
-SUMMARY:
-
-
-## NCT06529757
-Skin Wetting in Burn Survivors
-
-Intervention: : Whole body cooling — Subjects will exercise for 60 minutes in the indicated environmental condition while being exposed to whole body skin wetting. Skin wetting will be performed by spraying water onto the whole body throughout the exercise bout.
-: Non-cooling — Subjects will exercise for 60 minutes in the indicated environmental condition while being exposed to no cooling modalities.
-Link: https://clinicaltrials.gov/study/NCT06529757
 
 SUMMARY:
 

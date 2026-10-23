@@ -307,18 +307,6 @@ Link: https://clinicaltrials.gov/study/NCT05824442
 SUMMARY:
 
 
-## NCT07028996
-Clinical Investigation Plan for Non-CE-marked Medical Device Without Marking Objective (Category 4.4) to Evaluate Tolerance, Use and Performance of a Urine Collection Device (PEASY), in Hospitalized Patients: First-in-man Pilot Study
-
-Intervention: : Daily use of the PEASY urine collection device for 5 days — The PEASY device features a non-adhesive attachment system to the penis, unlike penile sheaths which are used for the same indications and whose attachment system is based on an adhesive system. Fixation of the PEASY device to the penis involves the use of a clamp on the foreskin. The clamp has a certain elasticity and has been developed to be atraumatic.
-
-The medical device comprises a glans cup which covers the urinary meatus. This cup therefore rests on the glans.
-: Daily collection of patient feedback using a visual analog scale (0-100) — Daily collection of patient feedback using a visual analog scale (0-100) and any suggestions for improving the device during an open interview at the end of the test period.
-Link: https://clinicaltrials.gov/study/NCT07028996
-
-SUMMARY:
-
-
 ## NCT06159335
 Use of 18F-Fluciclovine PET for Discerning Tumor From Treatment Change in Patients With Brain Metastases Undergoing Immunotherapy
 

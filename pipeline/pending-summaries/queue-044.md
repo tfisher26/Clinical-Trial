@@ -7113,14 +7113,6 @@ Link: https://clinicaltrials.gov/study/NCT05765812
 
 SUMMARY: Glioblastoma is an aggressive brain cancer. This study tests Debio 0123 combined with temozolomide, and with radiotherapy in newly diagnosed patients.
 
-## NCT05766124
-A Pilot Study Comparing the Clinical Efficacy and Bleeding Risk Between Low Dose and Standard Dose Intrapleural Tissue Plasminogen Activator for Pleural Infection
-
-Intervention: : Tissue Plasminogen Activator — Intrapleural administration of tissue plasminogen activator
-Link: https://clinicaltrials.gov/study/NCT05766124
-
-SUMMARY: Pleural infection can be treated with clot busting drugs placed into the chest. This pilot study compares low dose with standard dose intrapleural tissue plasminogen activator.
-
 ## NCT05766410
 A Randomized, Open-label, Parallel-group Study Comparing the Immune Modulation Effect of Ribociclib, Palbociclib, and Abemaciclib in Early ER+/HER2- Breast Cancer
 
@@ -9124,19 +9116,6 @@ Intervention: : cefepime and enmetazobactam combination — Cefepime and enmetaz
 Link: https://clinicaltrials.gov/study/NCT05826990
 
 SUMMARY:
-
-## NCT05827081
-A Phase IIIb Study to Characterize the Efficacy and Safety of Adjuvant Ribociclib Plus Endocrine Therapy in a Close-to-clinical Practice Patient Population With HR+ HER2- Early Breast Cancer (Adjuvant WIDER)
-
-Intervention: : Ribociclib — Ribociclib 400 mg orally once daily on days 1-21 of a 28 day cycle followed by 7 days rest
-: Letrozole — Letrozole 2.5 mg orally once daily continuously
-: Ansastrozole — Anastrozole 1 mg orally once daily continuously.
-: Goserelin — Goserelin administered subcutaneously at 3.6 mg once every 4 weeks if the one-month depot formulation is used or at 10.8 mg once every 3 months if the three-month depot formulation is used
-: Leuprolide — Leuprolide administered subcutaneously at 3.75 mg once every 4 weeks if the one-month depot formulation is used or at 11.25 mg once every 3 months if the three-month depot formulation is used
-: Exemestane — Exemestane 25 mg once daily continuously
-Link: https://clinicaltrials.gov/study/NCT05827081
-
-SUMMARY: Early breast cancer that is hormone receptor positive can come back after surgery. This study tests adjuvant ribociclib with hormone therapy in a patient group close to everyday clinical practice.
 
 ## NCT05827549
 Evaluation of Treatment Efficacy According to Risk Group in Relapsed Childhood Acute Lymphoblastic Leukemia

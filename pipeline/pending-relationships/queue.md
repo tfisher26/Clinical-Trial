@@ -102863,3 +102863,25 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04339907
+Uncovering Inflammatory Mediators of Glaucoma Pathogenesis After Corneal Transplantation in Aqueous Humor and Tears
+Conditions: eye/low_tension_glaucoma, other/neurogenic_inflammation
+
+Inclusion criteria:
+"""
+* Aged 18 years old or older
+* Informed consent
+* Ability to be followed for the duration of the study
+* Presence of ocular disease specified for each group
+
+Specific criteria for each group:
+
+* Group 1 : have no glaucoma and no systemic diseases
+* Group 2 : need to have glaucoma filtration surgery without prior corneal transplantation
+* Group 3 : need to have corneal transplantation (penetrating keratoplasty or Boston keratoprosthesis), with or without glaucoma
+* Group 4 : need to have intraocular surgery after prior corneal transplantation (penetrating keratoplasty or Boston keratoprosthesis)
+* Group 5 : need to have glaucoma filtration surgery with prior corneal transplantation (penetrating keratoplasty or Boston keratoprosthesis)
+"""
+
+RELATIONSHIP:
+

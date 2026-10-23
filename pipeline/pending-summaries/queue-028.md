@@ -128,19 +128,6 @@ Link: https://clinicaltrials.gov/study/NCT06166056
 SUMMARY:
 
 
-## NCT04517656
-Biomarkers Impact Evaluation on the Post-transplant Immune Response After Allografting of Hematopoietic Stem Cells: MENTALO Study
-
-Intervention: : Blood samples — A peripheral blood sample will be taken and will include 2 EDTA tubes of 5 mL, for a total volume of 10 mL:
-
-* Samples before the allograft,
-* Samples at different times post-allograft: 15 days, 30 days, 60 days, 90 days, 180 days, 360 days,
-* Samples in the event of the occurrence of concomitant events during the 12-month follow-up period: occurrence of acute Graft Versus Host Disease, chronic Graft Versus Host Disease, or relapse of the disease before the initiation of a new treatment.
-Link: https://clinicaltrials.gov/study/NCT04517656
-
-SUMMARY:
-
-
 ## NCT06555757
 Utilising AI Analysis of Sounds To prEdict heaRt failurE decOmpensation
 
