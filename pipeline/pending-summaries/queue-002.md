@@ -18144,43 +18144,50 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT04499833
-Evaluation of the HepatoPredict Prognostic Tool in the Decision of Liver Transplant in Hepatocellular Carcinoma
+## NCT04411225
+Effects of Cannabidiol (CBD) Versus Placebo as an Adjunct to Treatment in Early Psychosis: Understanding the Mechanism and Mediators of Action
 
-Intervention: : liver transplant — liver transplant
-Link: https://clinicaltrials.gov/study/NCT04499833
-
-SUMMARY:
-
-## NCT02010866
-Reaching Out to Distressed Medical Residents, Fellows, and Faculty Through the OHSU Resident and Faculty Wellness Program Interactive Screening Program (ISP)
-
-Intervention: : counseling — in-person counseling through RFWP offered to distressed respondents on the ISP and others who seek counseling (due to other reasons for referral)
-Link: https://clinicaltrials.gov/study/NCT02010866
+Intervention: : Cannabidiol oral solution — Both the active drug (cannabidiol) and placebo will be in oral solution.
+Link: https://clinicaltrials.gov/study/NCT04411225
 
 SUMMARY:
 
-## NCT01004133
-The Healthy Elderly Longevity Cohort
+## NCT03966014
+Different Duration and Dosing of Amoxicillin in Patients With Erythema Migrans. A Randomized Clinical Trial.
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01004133
-
-SUMMARY:
-
-## NCT01084967
-Study of Clinical Characteristics and Genetic Susceptibility in Chinese Obese Youngs
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01084967
+Intervention: : EM-amoxicillin 3 x 10 days — Patients will receive amoxicillin 500 milligram tid for 10 days
+: EM-amoxicillin 3 x 14 days — Patients will receive amoxicillin 500 milligram tid for 14 days
+: Controls — No intervention.
+Link: https://clinicaltrials.gov/study/NCT03966014
 
 SUMMARY:
 
-## NCT03417115
-Treatment and Outcome of Patients With Breast Cancer: Clinical Research Platform for Real World Data
+## NCT03232918
+A Randomized Controlled Trial Evaluating the Effect of the Oxytocin Infusion Rate on Fetal Heart Rate Changes and Maternal-Fetal Outcomes During the Initiation of Combined Spinal-Epidural Labor Analgesia
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03417115
+Intervention: : Half dose Oxytocin — Patients randomized to the half dose oxytocin group will have the oxytocin infusion reduced to 50 % prior to placement of combined spinal epidural for labor analgesia
+Link: https://clinicaltrials.gov/study/NCT03232918
+
+SUMMARY:
+
+## NCT02402244
+The Project: EveryChild Protocol: A Registry, Eligibility Screening, Biology and Outcome Study
+
+Intervention: : Cytology Specimen Collection Procedure — Undergo cytology specimen collection
+: Medical Chart Review — Undergo medical data review
+Link: https://clinicaltrials.gov/study/NCT02402244
+
+SUMMARY:
+
+## NCT02087852
+Kidney Cancer DNA Registry
+
+Intervention: : salvia for germline DNA
+: the Kidney Cancer Questionnaire — Patients will complete the appropriate surveys on either paper or on the computer/iPad in the office using REDCap software. If patients are unable to complete their questionnaires at the time of their in-office visit, a link to the questionnaires in REDCap will be emailed to them. The survey data that is collected in REDCap will be stored in REDCap. Clinic staff may also call patients to remind patients to complete questionnaires.
+: Family History Questionnaire (when applicable) — Patients will complete the appropriate surveys on either paper or on the computer/iPad in the office using REDCap software. If patients are unable to complete their questionnaires at the time of their in-office visit, a link to the questionnaires in REDCap will be emailed to them. The survey data that is collected in REDCap will be stored in REDCap. Clinic staff may also call patients to remind patients to complete questionnaires.
+: Blood draw
+: Epidemiologic Questionnaire — Patients will complete the appropriate surveys on either paper or on the computer/iPad in the office using REDCap software. If patients are unable to complete their questionnaires at the time of their in-office visit, a link to the questionnaires in REDCap will be emailed to them. The survey data that is collected in REDCap will be stored in REDCap. Clinic staff may also call patients to remind patients to complete questionnaires.
+Link: https://clinicaltrials.gov/study/NCT02087852
 
 SUMMARY:
 
