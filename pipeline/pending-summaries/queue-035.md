@@ -1237,17 +1237,6 @@ Link: https://clinicaltrials.gov/study/NCT05275972
 SUMMARY:
 
 
-## NCT07285863
-An Open-Label Study On The Effects Of Human Secretin For Injection (CHIROSTIM) On Pancreatic Fluid Composition In Normal Human Volunteer Participants
-
-Intervention: : Secretin (human synthetic) - ChiRhoClin — During endoscopic ultrasound (EUS), a dose of intravenous secretin (0.2 µg/kg) will be administered over the course of 1 minute to stimulate pancreatic ductal cells to secrete pancreas fluid.
-
-Duodenal fluid will be aspirated through the echoendoscope in 5 minute increments (5, 10, 15, and 20 minutes) after the secretin has been administered
-Link: https://clinicaltrials.gov/study/NCT07285863
-
-SUMMARY:
-
-
 ## NCT06406049
 FINISHING HIV: An Ending the HIV Epidemic (EHE) Model for Latinx Integrating One-Stop-Shop Pre-Exposure Prophylaxis (PrEP) Services, a Social Network Support Program and a National Pharmacy Chain
 

@@ -5062,17 +5062,6 @@ Link: https://clinicaltrials.gov/study/NCT07279467
 SUMMARY:
 
 
-## NCT07301892
-Impact of Generative Artificial Intelligence on Diagnosing Rheumatoid Arthritis Complications
-
-Intervention: : Generative AI prediction report for RA complications — Generative AI based on multiple large language models (LLMs) is used to predict potential complications and co-existing diseases in patients with rheumatoid arthritis using EHR data available at admission. Physicians use these AI predictions as additional information to adjust their diagnostic plans during differential diagnosis. The impact of this intervention on the final diagnoses at discharge will be measured.
-
-Before the prospective study, the adoptability of the generative AI prediction reports will be validated using EHR records from retrospective RA patients.
-Link: https://clinicaltrials.gov/study/NCT07301892
-
-SUMMARY:
-
-
 ## NCT06796595
 Perioperative Medical Program to Optimize Nerve Regeneration After Robot-assisted Laparoscopic Neurolyses of Pudendal and/or Inferior Cluneal Nerves for Chronic Neuralgias: Results After 1-year Follow-up
 

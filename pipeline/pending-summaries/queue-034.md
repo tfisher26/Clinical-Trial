@@ -2289,16 +2289,6 @@ Link: https://clinicaltrials.gov/study/NCT06380049
 SUMMARY:
 
 
-## NCT07538115
-Comparison of Advanced Hemodynamic Monitoring With Standard Monitoring During Propofol Sedation for Endoscopic Retrograde Cholangiopancreatography Procedures: A Randomized Controlled Trial
-
-Intervention: : Hemodynamic Monitoring — Advanced hemodynamic monitoring performed using the MostCare system via radial arterial cannulation during ERCP under propofol sedation.
-: Standard Monitoring — Standard intra-procedural monitoring including non-invasive blood pressure, ECG, pulse oximetry, and BIS during ERCP under propofol sedation
-Link: https://clinicaltrials.gov/study/NCT07538115
-
-SUMMARY:
-
-
 ## NCT06771856
 Time to Step Up to Stepped Care: A Novel Strategy for Cognitive Behavioral Therapy for Insomnia in Chronic Spinal Pain - a Randomized Controlled Trial
 

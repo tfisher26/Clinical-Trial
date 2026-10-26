@@ -1057,15 +1057,6 @@ Link: https://clinicaltrials.gov/study/NCT07245017
 
 SUMMARY:
 
-## NCT07245030
-A Comparative Evaluation of the Effectiveness of Virtual Reality Eyewear vs Show-Do Technique on Dental Anxiety and Behavior in a Group of Children With Different Levels of Hearing Impairment During Dental Prophylaxis Procedure: A Randomized Controlled Trial
-
-Intervention: : virtual reality distraction — children wear virtual reality glasses during dental prophylaxis procedure to reduce dental anxiety and enhance patient's behavior.
-: show-do technique — conventional behavioral technique where the dentist shows and then perform the procedure to reduce anxiety and build cooperation.
-Link: https://clinicaltrials.gov/study/NCT07245030
-
-SUMMARY:
-
 ## NCT07245134
 Virtual Reality Exposure Therapy in Patients With Obsessive-Compulsive Disorder: A Randomized Controlled Trial in Inpatients
 

@@ -2864,14 +2864,6 @@ Link: https://clinicaltrials.gov/study/NCT07038096
 
 SUMMARY:
 
-## NCT07038148
-Exploring the Efficacy of Single-stage Stapled Conversion of Gastric Bypass to Sleeve Gastrectomy, More Leak?
-
-Intervention: : Stapled reversal of gastric bypass to sleeve gastrectomy utilising stapling technique. — This research entails a single-stage laparoscopic conversion of gastric bypass to sleeve gastrectomy. The procedure entails the closure of the gastrojejunostomy with an endo-stapler and the reconstruction of the stomach by resecting along the greater curvature to create a sleeve gastrectomy. An intraoperative leak test will be conducted using methylene blue. Patients are monitored postoperatively for at least 24 hours, with subsequent assessments of nutritional status, weight, gastroesophageal reflux disease (GERD) symptoms, and quality of life at 3 and 6 months.
-Link: https://clinicaltrials.gov/study/NCT07038148
-
-SUMMARY:
-
 ## NCT07038720
 A Phase I Study to Evaluate the Safety, Tolerability, Pharmacokinetic Profile, and Food Effect of UA026 Tablets in Healthy Adult Subjects and Adult Subjects With Moderate to Severe Plaque Psoriasis
 
@@ -13802,15 +13794,6 @@ Intervention: : OTS-412 — 1×10E8 pfu, once, 1 cycle, IT
 : OTS-412 — 3×10E8 pfu, once, 1 cycle, IT
 : OTS-412 — optimal dose, once, 1 cycle, IT
 Link: https://clinicaltrials.gov/study/NCT07190833
-
-SUMMARY:
-
-## NCT07191067
-A Multi-Center Two-Arm, Randomized, Blinded, Sham-Controlled Trial to Determine the Safety and Efficacy of the NOVABLOC System on Postoperative Pain, Functional Recovery and Opioid Use in Patients Undergoing Primary Total Knee Arthroplasty
-
-Intervention: : Percutaneous radiofrequency electrical nerve stimulation — Percutaneous radiofrequency electrical nerve stimulation will be applied to the femoral and sciatic nerves prior to TKA.
-: Non-therapeutic stimulation — Electrical square wave stimulation performed to mimic the duration of the active arm and mimic the procedure for blinding purposes.
-Link: https://clinicaltrials.gov/study/NCT07191067
 
 SUMMARY:
 

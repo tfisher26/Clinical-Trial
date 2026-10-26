@@ -424,15 +424,6 @@ Link: https://clinicaltrials.gov/study/NCT06246409
 
 SUMMARY: Clear instructions can help people take part in their first radiotherapy session. This study compares modernized patient instructions with the existing instructions given before radiation treatment.
 
-## NCT04519905
-Phase III Study of Concurrent Radiotherapy in Elderly Patients With Esophageal Squamous Cell Carcinoma (ESO-Shanghai 15)
-
-Intervention: : Paclitaxel plus carboplatin — Paclitaxel （45mg/m2) plus carboplatin (AUC=2); five cycles; qw
-: radiotherapy — Different radiotherapy dose in different groups.
-Link: https://clinicaltrials.gov/study/NCT04519905
-
-SUMMARY: Older adults with esophageal squamous cell cancer need treatment that works without being too harsh. This study tests radiotherapy given together with weekly paclitaxel and carboplatin chemotherapy in elderly patients.
-
 ## NCT05307809
 Cytokine Expression in Sera, ex Vivo Stimulated Peripheral Blood Mononuclear Cells Culture, and Skin in Psoriasis - Comparison of Patients With and Without Joint Involvement
 
@@ -1445,15 +1436,6 @@ Link: https://clinicaltrials.gov/study/NCT04985344
 
 SUMMARY: Posttraumatic stress disorder can affect children after a frightening event. This study tests recalling the traumatic memory while taking propranolol, a common blood pressure pill, compared with a placebo, in children.
 
-## NCT07756385
-Comparison of Ultrasound Efficiency and Early Postoperative Outcomes of Two Phacoemulsification Systems (UNITY VCS 4D Phaco and Centurion With Active Sentry Probe): A Randomized Contralateral Eye Study
-
-Intervention: : UNITY VCS SYSTEM ® — 4D PHACO PROBE
-: CENTURION VISION SYSTEM ® — ACTIVE SENTRY PROBE
-Link: https://clinicaltrials.gov/study/NCT07756385
-
-SUMMARY: Cataract surgery breaks up and removes the cloudy lens using ultrasound energy. This study compares two phacoemulsification machines, one in each eye, to see which uses ultrasound more efficiently and gives better early results.
-
 ## NCT05271240
 A Phase III Randomized Trial of Repeated Superselective Intraarterial Cerebral Infusion (SIACI) of Bevacizumab (Avastin) With Temozolomide and Radiation Compared to Temozolomide and Radiation Alone in Newly Diagnosed Glioblastoma (GBM)
 
@@ -1610,15 +1592,6 @@ Toripalimab: 240mg, administered by intravenous infusion on day 1.
 Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
-
-## NCT04519905
-Phase III Study of Concurrent Radiotherapy in Elderly Patients With Esophageal Squamous Cell Carcinoma (ESO-Shanghai 15)
-
-Intervention: : Paclitaxel plus carboplatin — Paclitaxel （45mg/m2) plus carboplatin (AUC=2); five cycles; qw
-: radiotherapy — Different radiotherapy dose in different groups.
-Link: https://clinicaltrials.gov/study/NCT04519905
-
-SUMMARY: Older adults with esophageal squamous cell cancer need treatment that works without being too harsh. This study tests radiotherapy given together with weekly paclitaxel and carboplatin chemotherapy in elderly patients.
 
 ## NCT04520074
 A Phase III,Randomized, Multi-center, Open Label Study of Adjuvant Chemotherapy of Three-step Regimens (ACTS) in BRCA1/2 Wide-type Stage III and Stage IV Epithelial Ovarian, Fallopian Tube, and Primary Peritoneal Cancer (EOC, FTC, PPC)
@@ -4060,14 +4033,6 @@ Intervention: : Cellular Therapy — Given ds-MSCs IV
 Link: https://clinicaltrials.gov/study/NCT04744116
 
 SUMMARY: Acute graft versus host disease, where donor immune cells attack the body after a transplant, can be hard to treat when steroids fail. This study compares two doses of cord tissue stem cells plus ruxolitinib against ruxolitinib alone.
-
-## NCT04745221
-Efficacy and Safety of Autologous Fecal Bacteria Transplantation in Preventing Acute Graft Versus Host Disease After Haploidentical Hematopoietic Stem Cell Transplantation: a Multicenter, Open, Randomized Controlled Clinical Study
-
-Intervention: : autologous fecal bacteria — autologous fecal bacteria transplantation
-Link: https://clinicaltrials.gov/study/NCT04745221
-
-SUMMARY: Acute graft versus host disease is a serious complication after a stem cell transplant from a half matched donor. This study tests transplanting the patient's own previously collected gut bacteria back after the transplant to help prevent it.
 
 ## NCT04746625
 Safety and Performance of the Polaris® 24 Adjustable Valve System in Hydrocephalus Patients' Treatment
@@ -15404,15 +15369,6 @@ Intervention: : Baricitinib 2 MG Oral Tablet — Baricitinib, a Janus Kinase inh
 Link: https://clinicaltrials.gov/study/NCT05452564
 
 SUMMARY: HIV can persist in the brain and nervous system despite treatment. This study tests baricitinib, a Janus kinase inhibitor pill, to see if it reduces HIV in the central nervous system.
-
-## NCT05452876
-Alberta Back Care Pathway (ABCp)
-
-Intervention: : ABCp — Intervention is a care pathway that helps primary care physicians categorize back pain patients with each category having preferred interventions.
-: Usual Care — Standard of care treatment
-Link: https://clinicaltrials.gov/study/NCT05452876
-
-SUMMARY:
 
 ## NCT05453682
 Hypofractionated Intensity-modulated Radiation Therapy With Concurrent Chemotherapy in Musc Le-invasive Bladder Cancer:

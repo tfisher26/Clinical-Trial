@@ -331,16 +331,6 @@ Link: https://clinicaltrials.gov/study/NCT07451977
 SUMMARY:
 
 
-## NCT06354010
-Cross-sectional and Prospective Study to Characterize Early-onset Presbycusis
-
-Intervention: : Genotyping — Genotyping to determine if patients present mutations to the gene GJB2.
-: Audiological assessments — Audiological assessments
-Link: https://clinicaltrials.gov/study/NCT06354010
-
-SUMMARY:
-
-
 ## NCT06524479
 Investigating the Functional Characteristics During Wakefulness and Sleep Based on SEEG
 

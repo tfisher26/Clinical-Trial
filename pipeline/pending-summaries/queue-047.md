@@ -6629,15 +6629,6 @@ Link: https://clinicaltrials.gov/study/NCT06847373
 
 SUMMARY:
 
-## NCT06847763
-The Effect of Online Therapeutic Neuroscience Education Added to Conventional Physiotherapy Program on Clinical Outcomes, Treatment Expectations and Satisfaction Levels in Patients With Chronic Low Back Pain
-
-Intervention: : Therapeutic Neuroscience Education — Therapeutic Neuroscience Education applied in the form of one-on-one seminar format, focused on pain neurophysiology, and in the form of speaking sessions. Within the scope of these speaking sessions, pictures, diagrams, graphs, examples, metaphors, and homework assignments explaining the neurophysiology of pain are used.
-: Conventional Program — Conventional physiotherapy includes hot packs (20 minutes), ultrasound (1 mHz frequency, 1,5 watt/cm², 5 minutes left/right lumbar region), TENS (100Hz, 20 minutes), and home exercises.
-Link: https://clinicaltrials.gov/study/NCT06847763
-
-SUMMARY:
-
 ## NCT06848478
 Level Up! (The Combined and Independent Effects of Exercise Training and Dietary Enhancement on Cardiometabolic Health in Adolescents With Obesity)
 
@@ -10417,15 +10408,6 @@ e-Sense® Normal Values of Urodynamic Pressures Using e-Sense® Catheters
 
 Intervention: : eSense 7Fr Single Sensor Bladder Catheter — Urinary and abdominal catheters inserted into the body to measure pressure for urodynamics.
 Link: https://clinicaltrials.gov/study/NCT06905808
-
-SUMMARY:
-
-## NCT06905873
-A Randomized, Double-Blind, Placebo Controlled, Multi-center Study to Evaluate the Safety and Efficacy of FB102 in Patients With Non-Segmental Vitiligo
-
-Intervention: : FB102 — Route of administration- Intravenous (IV)
-: Placebo — Route of administration- Intravenous (IV)
-Link: https://clinicaltrials.gov/study/NCT06905873
 
 SUMMARY:
 

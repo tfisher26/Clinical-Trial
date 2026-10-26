@@ -4803,15 +4803,6 @@ Link: https://clinicaltrials.gov/study/NCT07537621
 
 SUMMARY:
 
-## NCT07537634
-Comparison Between Vonoprazan-Based Triple Therapy and Esomeprazole-Based Triple Therapy for Eradication of Helicobacter Pylori Infection: An Open-Label Randomized Controlled Trial
-
-Intervention: : vonoprazan-based triple therapy (VAL regimen) — vonoprazan 20 mg twice daily (30 minutes before meal), Amoxicillin 1 g twice daily (After meal), Levofloxacin 500 mg once daily for 14 days
-: Esomeprazole-based triple therapy (EAL regimen) — Esomeprazole 20 mg twice daily (30 minutes before meal), Amoxicillin 1 g twice daily (After meal), Levofloxacin 500 mg once daily for 14 days
-Link: https://clinicaltrials.gov/study/NCT07537634
-
-SUMMARY:
-
 ## NCT07537660
 Auricular Point Stimulation Plus Dexamethasone for Nausea and Vomiting Caused by Gemcitabine Combined With Paclitaxel Protein-bound in Pancreatic Cancer Treatment
 
@@ -13136,15 +13127,6 @@ E-Mergir: a Randomized Controlled Trial to Test the Efficacy of a Digital Psycho
 
 Intervention: : E-Mergir — e-Health intervention to promote mental and sexual health of prostate cancer survivors. An online psychological intervention (e-Health app technology) specifically tailored to meet the needs of Portuguese men with prostate cancer was developed to promote participants' mental and sexual health. The intervention protocol was designed under the principles of Cognitive Behavior Therapy (CBT), featuring psychological and sexual health promotion strategies. The intervention program consists of 5 modules covering components of psychoeducation, sexual rehabilitation, mindfulness, cognitive restructuring, and relapse prevention. The modules will be delivered online (using text, videos, and graphics) along with therapeutic support provided by a certified Clinical Psychologist, over an eight-week period.
 Link: https://clinicaltrials.gov/study/NCT07754929
-
-SUMMARY:
-
-## NCT07756385
-Comparison of Ultrasound Efficiency and Early Postoperative Outcomes of Two Phacoemulsification Systems (UNITY VCS 4D Phaco and Centurion With Active Sentry Probe): A Randomized Contralateral Eye Study
-
-Intervention: : UNITY VCS SYSTEM ® — 4D PHACO PROBE
-: CENTURION VISION SYSTEM ® — ACTIVE SENTRY PROBE
-Link: https://clinicaltrials.gov/study/NCT07756385
 
 SUMMARY:
 

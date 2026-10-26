@@ -513,15 +513,6 @@ Link: https://clinicaltrials.gov/study/NCT05392881
 SUMMARY:
 
 
-## NCT06908499
-Ten-Year Outcomes of Randomized Comparison of Drug-eluting Stent Implantation Versus Optimal Medical Treatment in Patient With Chronic Total Occlusion: DECISION-CTO Trial
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06908499
-
-SUMMARY:
-
-
 ## NCT06601010
 The Value of 68Ga-grazytracer PET in Monitoring Responses to Immunotherapy of Pancreatic Cancer.
 

@@ -5745,15 +5745,6 @@ Link: https://clinicaltrials.gov/study/NCT04658303
 SUMMARY:
 
 
-## NCT06581861
-PREVENT ALL ALS - Longitudinal Biomarker Study for Participants Who Are Genetically at Risk for Amyotrophic Lateral Sclerosis (ALS)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06581861
-
-SUMMARY:
-
-
 ## NCT05981911
 a Non-randomized, Prospective, Open-label Registry to Compare the Effectiveness and Safety of XIENCE Skypoint™ Stents Versus Other DESs in Patients With Coronary Artery Disease
 

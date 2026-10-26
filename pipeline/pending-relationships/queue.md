@@ -102885,3 +102885,30 @@ Specific criteria for each group:
 
 RELATIONSHIP:
 
+## NCT05116904
+Chronobiological Characterization of Smith Magenis Syndrome and Autism Spectrum Disorders in Paediatric Age
+Conditions: mental_health/autism_spectrum_disorder, neurological/smith_magenis_syndrome
+
+Inclusion criteria:
+"""
+* Genetically confirmed Smith Magenis syndrome (microdeletion of the short arm of chromosome 17 or mutation of the RAI1 gene; obtained by FISH, CGH-array or molecular biology) and children with neuropsychologically confirmed autism spectrum disorder, with no genetic pathology found.
+* Aged 5-14 years
+* Consent form signed by the parent(s)
+* Requiring a sleep assessment in the Hopital Femme Mère Enfant paediatric sleep unit of Pr Franco
+* Affiliation to a social security system.
+"""
+
+RELATIONSHIP:
+
+## NCT05595200
+Prevalence, Phenotypes, Predictors and Prognostic Implication of Obstructive Sleep Apnea in Pulmonary Hypertension
+Conditions: neurological/sleep_apnea_syndromes, respiratory/hypertension_pulmonary, respiratory/sleep_apnea_obstructive
+
+Inclusion criteria:
+"""
+* Aged ≥18 years old
+* Diagnosed with pulmonary hypertension by right heart catheterization
+"""
+
+RELATIONSHIP:
+

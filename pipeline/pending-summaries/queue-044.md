@@ -2930,14 +2930,6 @@ Link: https://clinicaltrials.gov/study/NCT05625659
 
 SUMMARY:
 
-## NCT05626530
-A Pilot Trial of the Tolerability and Clinical Effectiveness of Letermovir When Used for Secondary Prophylaxis to Prevent Recurrent Cytomegalovirus Disease in Solid Organ Transplant Recipients
-
-Intervention: : Letermovir — Open label 480 mg given daily for 60 days
-Link: https://clinicaltrials.gov/study/NCT05626530
-
-SUMMARY: Cytomegalovirus can come back in people who have had an organ transplant. This pilot study tests letermovir taken daily for 60 days to prevent recurrent CMV disease.
-
 ## NCT05627375
 Best Antithrombotic Therapy in Patients With Acute Venous ThromboEmbolism While Taking Antiplatelets
 
@@ -4643,22 +4635,6 @@ Intervention: : RFN-Advanced Retrograde Femoral Nailing System — RFN-Advanced 
 Link: https://clinicaltrials.gov/study/NCT05680987
 
 SUMMARY: Fractures of the lower thigh bone are often fixed with a rod inside the bone. This case series tests the Retrograde Femoral Nail Advanced for fixing distal femur and femoral shaft fractures.
-
-## NCT05681468
-Metabolic and Inflammatory Outcomes of the Ketogenic Diet Comparing Saturated and Unsaturated Fat Sources
-
-Intervention: : Keto-SAT — Nutrition counselling focused on Keto diet (saturated fat).
-
-10% TE as carbohydrate (mainly from vegetables and whole grain products), protein between 20-30% TE and fat between 60-70%.
-: Keto-CAN — Nutrition counselling focused on Keto diet (unsaturated fat).
-
-10% TE as carbohydrate (mainly from vegetables and whole grain products), protein between 20-30% TE and fat between 60-70%.
-: LFD — Nutrition counselling focused on low-fat diet.
-
-30% total energy (TE) as fat, 50% TE as carbohydrates (primarily whole grains) and 17-20% TE protein (mainly lean sources).
-Link: https://clinicaltrials.gov/study/NCT05681468
-
-SUMMARY:
 
 ## NCT05681624
 Maternal Oxygen Supplementation for Intrauterine Resuscitation: a Multicenter Randomized Trial
@@ -13340,14 +13316,6 @@ Link: https://clinicaltrials.gov/study/NCT05959720
 
 SUMMARY: Adults with acute lymphoblastic leukemia may benefit from treatments used in children. This study tests a pediatric style chemotherapy regimen in adults in Brazil.
 
-## NCT05959746
-Clinical Development of a Tool for Optimized Self- and Hetero-diagnosis of Stroke Using Artificial Intelligence: Stage1- Collection of Video-clinical Data in a Pragmatic Situation.
-
-Intervention: : AI-STROKE application — Complete neurological exam of stroke patients will be filmed by healthcare workers and themselves using the AI-STROKE application
-Link: https://clinicaltrials.gov/study/NCT05959746
-
-SUMMARY:
-
 ## NCT05960331
 Influence of Autonomy on Motor Learning in People With Parkinson's Disease
 
@@ -13798,15 +13766,6 @@ Intervention: : Peer-Delivered Behavioral Activation ("Peer Activate") — The P
 Link: https://clinicaltrials.gov/study/NCT05973838
 
 SUMMARY: People in treatment for opioid use disorder often use other substances too. This study tests a peer delivered behavioral activation program in mobile telemedicine treatment.
-
-## NCT05974553
-Dialectical Behavior Therapy for Justice-Involved Veterans: A Randomized Clinical Trial
-
-Intervention: : Dialectical Behavior Therapy for Justice-Involved Veterans — 16 weeks of Dialectical Behavior Therapy for Justice-Involved Veterans, including weekly 60-minute group therapy and biweekly 30-minute individual case management
-: Supportive Group Psychotherapy for Justice-Involved Veterans — 16 weeks of clinician-facilitated supportive group psychotherapy for justice-involved Veterans, including weekly 75-minute group psychotherapy (20 hours total intervention). All interventions delivered via telehealth.
-Link: https://clinicaltrials.gov/study/NCT05974553
-
-SUMMARY: Veterans involved with the justice system often have emotional and behavioral problems. This study tests dialectical behavior therapy adapted for them.
 
 ## NCT05974774
 Intermittent Androgen Deprivation Therapy in the Era of AR Pathway Inhibitors; a Phase 3 Pragmatic Randomized Trial.
@@ -15907,14 +15866,6 @@ A Real-world Study of the Efficacy and Safety of PEGylated Recombinant Human Gro
 
 Intervention: : Polyethylene glycol recombinant human growth hormone injection — 0.1-0.3mg/kg.w
 Link: https://clinicaltrials.gov/study/NCT06037473
-
-SUMMARY:
-
-## NCT06037681
-Cannabis Use and Outcomes in Black and White Patients With Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06037681
 
 SUMMARY:
 

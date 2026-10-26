@@ -1208,17 +1208,6 @@ Link: https://clinicaltrials.gov/study/NCT07029334
 SUMMARY:
 
 
-## NCT06600633
-Study of the Efficacy of Dietary Supplementation in Targeting Sleep Quality (NutriSom Study A)
-
-Intervention: : 14 days of intervention with Placebo Product (PP) — 1 spray (0 mg melatonin)
-: 14 days of intervention with Active Control (AC) — 1 spray (1 mg melatonin)
-: 14 days of intervention with Test Product (TP) — 1 spray (0.3 mg melatonin)
-Link: https://clinicaltrials.gov/study/NCT06600633
-
-SUMMARY:
-
-
 ## NCT06944158
 Antimicrobial Resistance (AMR) Knowledge, Attitudes, and Practices Among Healthcare Workers in Syria: Multicenter Cross Sectional Study
 

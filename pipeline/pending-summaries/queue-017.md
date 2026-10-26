@@ -1045,15 +1045,6 @@ Link: https://clinicaltrials.gov/study/NCT06069258
 SUMMARY:
 
 
-## NCT07297758
-Investigation of Latissimus Dorsi Muscle Activation During Shoulder Extension Exercises
-
-Intervention: : Exercise — Standing with the shoulder in \~30° abduction and external rotation and the elbow extended, participants elevate the arm to three preset flexion angles (30°,60°, 90°, 120°; measured by goniometer) and then perform shoulder extension past the trunk against color-coded elastic bands. Bands are anchored overhead and pulled diagonally downward; the band angle is adjusted to match each shoulder-flexion condition. Tempo is metronome-paced: 3 s concentric, 3 s isometric (at peak), 3 s eccentric. Resistance is individualized using the OMNI Perceived Exertion Scale and titrated until 6-8/10 is reached prior to data capture. Each condition is recorded for 3 repetitions with \~5 s between reps; \~2 min rest is provided between conditions. A brief familiarization (\~3 min per condition) is given, and the order of MVICs and exercise conditions is randomized.
-Link: https://clinicaltrials.gov/study/NCT07297758
-
-SUMMARY:
-
-
 ## NCT06152289
 Development of New Diagnostic Tools in Capsule Endoscopy
 
@@ -1606,15 +1597,6 @@ Intervention: : Collection of biological sample (blood and/or CSF) — Blood sam
 
 If cerebrospinal fluid (CSF) has been drawn for diagnosis, remaining sample available will be stored in the control cohort (1 ml).
 Link: https://clinicaltrials.gov/study/NCT05370079
-
-SUMMARY:
-
-
-## NCT06487754
-New-onset Chronic Pelvic Pain in Transgender People Using Testosterone Therapy: an Exploratory Qualitative Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06487754
 
 SUMMARY:
 

@@ -9956,16 +9956,6 @@ Link: https://clinicaltrials.gov/study/NCT06308510
 
 SUMMARY:
 
-## NCT06308770
-Fatigue in Lupus Intervention Programmes (FLIP): A Randomised Controlled Trial Investigating the Effectiveness of Fatigue Management in Systemic Lupus Erythematosus
-
-Intervention: : Standard Care — Participants receive fatigue booklets from two charitable organisations providing information on fatigue, sleep, energy conservation, exercise and stress to help manage fatigue.
-: 4 week FMP — Participants attend 3 once weekly live online group interventions with a final intervention 8 weeks later.
-: 7 week FMP — Participants attend 6 once weekly live online group interventions with a final intervention 8 weeks later.
-Link: https://clinicaltrials.gov/study/NCT06308770
-
-SUMMARY: Fatigue is one of the most common and disabling symptoms of lupus. This study compares structured fatigue management programs with standard care using information booklets to see which better reduces tiredness.
-
 ## NCT06308965
 Does Vessel-sparing Surgery in Anterior Approach Total Hip Arthroplasty Change Clinical Outcome?
 

@@ -118,16 +118,6 @@ Link: https://clinicaltrials.gov/study/NCT07419997
 SUMMARY:
 
 
-## NCT06166056
-A Randomised, Double-blind, Placebo-controlled Study to Investigate the Safety, Tolerability, and Pharmacokinetics of Inhaled CHF6333 After Single Ascending Doses in Healthy Volunteers and One Single Dose in Adult Subjects With Bronchiectasis, Followed by a Placebo-controlled, Repeated Dose, 3-way Cross-over in Adult Subjects With Bronchiectasis
-
-Intervention: : CHF6333 — CHF6333 Part I SAD; CHF6333 Part II MD.
-: CHF6333 Placebo — Placebo Part I SAD; Placebo Part II MD.
-Link: https://clinicaltrials.gov/study/NCT06166056
-
-SUMMARY:
-
-
 ## NCT06555757
 Utilising AI Analysis of Sounds To prEdict heaRt failurE decOmpensation
 

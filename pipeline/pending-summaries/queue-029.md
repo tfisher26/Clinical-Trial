@@ -1205,15 +1205,6 @@ Link: https://clinicaltrials.gov/study/NCT06432907
 SUMMARY:
 
 
-## NCT07234292
-Evaluation of Patient Satisfaction With a New Preservative-free Eyelid Cream as a Complementary Care in Post-eyelid Surgery: The ADMIRE Study
-
-Intervention: : Cosmetic: Blephaderm — Preservative free eyelid cream: Aqua (water), oleyl erucate, trehalose, sodium acrylates copolymer, lecithin, Ophiopogon japonicus root extract, hydrolyzed hyaluronic acid, maltodextrin, tocopherol, sodium hydroxide, phytic acid, Glycine soja (soybean) oil, Helianthus annuus seed oil.
-Link: https://clinicaltrials.gov/study/NCT07234292
-
-SUMMARY:
-
-
 ## NCT07470749
 Frequency of MAFLD and Its Association With Nutritional Status and Metabolic Risk Factors in a Rural Population of Bangladesh
 
