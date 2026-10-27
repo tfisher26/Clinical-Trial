@@ -1357,14 +1357,6 @@ Link: https://clinicaltrials.gov/study/NCT06756100
 
 SUMMARY:
 
-## NCT05481749
-Neuropsychological Assessment Of The Non-institutionalized Oldest-Old Population. Multicenter Normative Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05481749
-
-SUMMARY:
-
 ## NCT06296485
 Pragmatic Clinical Trial of Continuous Glucose Monitoring-based Interventions for Safe Insulin Use in High-Risk Older Adults With Type 2 Diabetes
 

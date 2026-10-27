@@ -1798,15 +1798,6 @@ Link: https://clinicaltrials.gov/study/NCT05602649
 SUMMARY:
 
 
-## NCT07541677
-Investigating the Prevalence and Risk Factors for Sarcopenia Amongst Adults Seeking Treatment for Obesity
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07541677
-
-SUMMARY:
-
-
 ## NCT06734338
 Validation of the STUMBL Score for Risk Stratification in Emergency Department Patients With Blunt Thoracic Trauma: A Prospective Observational Study in Iraq
 

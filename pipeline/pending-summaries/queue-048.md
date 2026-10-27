@@ -2358,14 +2358,6 @@ Link: https://clinicaltrials.gov/study/NCT07031297
 
 SUMMARY:
 
-## NCT07031323
-OnTrackCF: Engagement, Feasibility, and Acceptability Study
-
-Intervention: : OnTrackCF — OnTrackCF is a mHealth application co-developed with Upstream Dream. It is designed specifically to track and support adherence to CFTR modulator therapy. The app allows users to track their modulator intake and disease symptoms while supporting their adherence goals using Behavioral Change Techniques (BCTs) with empirical evidence of efficacy. The BCTs are administered primarily in the form of messages designed to deliver specific BCTs. The app sends up to 3 adherence support messages per day and provides detailed data to the user about their adherence levels, adherence goals, and disease symptoms. This process will continue until we reach an N=60 AWCF enrolled OR demonstrate that we have achieved 12 weeks of sustained user engagement with the app.
-Link: https://clinicaltrials.gov/study/NCT07031323
-
-SUMMARY:
-
 ## NCT07031648
 The Effect Of Laughter Yoga And Pilates On Pregnancy Compliance, Anxiety And Prenatal Attachment In Pregnant Women Receiving Childbirth Preparation Training
 

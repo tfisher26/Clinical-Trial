@@ -811,15 +811,6 @@ Link: https://clinicaltrials.gov/study/NCT06494254
 SUMMARY:
 
 
-## NCT05969483
-Validation of a Processed EEG Device (pEEG, Masimo Sedline®) as a Monitoring Tool for the Analgosedation Level in Mechanically Ventilated Critically Ill Children
-
-Intervention: : pEEG monitoring — pEEG monitoring during PICU admission
-Link: https://clinicaltrials.gov/study/NCT05969483
-
-SUMMARY:
-
-
 ## NCT07536529
 Investigation of the Role of Redox Status of Patients With Autoimmune Rheumatic Diseases on Disease Progression: An Epidemiological Study
 
@@ -1410,15 +1401,6 @@ Pupillometry in Identifying Postoperative Opioid-induced Respiratory Depression 
 
 Intervention: : Infrared Pupillometry — Non-invasive pupillometry measurements will be performed using a commercially available, FDA-regulated infrared pupillometer. Measurements will be collected at predefined perioperative time points for research purposes only and will not be used to guide clinical care.
 Link: https://clinicaltrials.gov/study/NCT07573150
-
-SUMMARY:
-
-
-## NCT06415084
-Hyperemesis Gravidarum Prevalence : A Repeated Cross-sectional Population Based Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06415084
 
 SUMMARY:
 
@@ -2835,16 +2817,6 @@ Placebo Optimization of the Presurgical Long-term Video-EEG Monitoring (OPERA)
 Intervention: : Seizure placebo pill — patients in this study arm receive a covered placebo pill on a daily basis (1-0-1) with the indication of possible acceleration of seizure occurrence during presurgical video-EEG
 : Well-being placebo pill — patients in this study arm receive a covered placebo pill on a daily basis (1-0-1) with the indication of possible improvement of emotional well-being during video-EEG
 Link: https://clinicaltrials.gov/study/NCT06383689
-
-SUMMARY:
-
-
-## NCT07402668
-Does AI Make Clinicians More Appropriately Confident? A Randomized Study in Preterm Birth Prediction
-
-Intervention: : AI prediction (binary) — AI decision support based on cervical ultrasound providing a binary classification (preterm birth before 37 weeks or term birth) in addition to standard clinical information.
-: AI risk estimate (%) — AI decision support based on cervical ultrasound providing an estimate of preterm birth risk (%) in addition to standard clinical information.
-Link: https://clinicaltrials.gov/study/NCT07402668
 
 SUMMARY:
 

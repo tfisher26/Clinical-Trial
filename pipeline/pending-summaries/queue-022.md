@@ -2517,24 +2517,6 @@ Link: https://clinicaltrials.gov/study/NCT06856148
 SUMMARY:
 
 
-## NCT07122986
-A PHASE 1, RANDOMIZED, DOUBLE-BLIND, THIRD-PARTY-UNBLINDED STUDY TO EVALUATE THE SAFETY AND TOLERABILITY OF A VACCINE AGAINST E COLI IN HEALTHY ADULTS
-
-Intervention: : E coli vaccine 1 Dose A — Candidate E coli vaccine 1 Dose A, administered according to a 0, 6-month interval
-: E coli vaccine 1 Dose B — Candidate E coli vaccine 1 Dose B, administered according to a 0, 6-month interval
-: E coli vaccine 2 — Candidate E coli vaccine 2, administered according to a 0, 6-month interval
-: E coli vaccine 3 — Candidate E coli vaccine 3, administered according to a 0, 6-month interval
-: E coli Vaccine 4 Dose A — Candidate E coli vaccine 4 Dose A, administered according to a 0, 6-month interval
-: E coli Vaccine 4 Dose B — Candidate E coli vaccine 4 Dose B, administered according to a 0, 6-month interval
-: E coli Vaccine 4 Dose C — Candidate E coli vaccine 4 Dose C, administered according to a 0, 6-month interval
-: E coli Vaccine 5 Dose A — Candidate E coli vaccine 5 Dose A, administered according to a 0, 6-month interval
-: E coli Vaccine 5 Dose B — Candidate E coli vaccine 5 Dose B, administered according to a 0, 6-month interval
-: Placebo — Placebo administered according to a 0, 6-month interval
-Link: https://clinicaltrials.gov/study/NCT07122986
-
-SUMMARY:
-
-
 ## NCT07248865
 A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single-Ascending-Dose (SAD) and Multiple-Ascending-Dose (MAD) Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Subcutaneous Injection(s) of CLYM116 in Normal Healthy Volunteers
 

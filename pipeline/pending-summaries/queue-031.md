@@ -333,15 +333,6 @@ Link: https://clinicaltrials.gov/study/NCT07350785
 SUMMARY:
 
 
-## NCT06263868
-First Observatory of Precocious and Advanced Puberty in Private Healthcare.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06263868
-
-SUMMARY:
-
-
 ## NCT06540287
 An Observational Study of Aging Biomarkers in Older Elite Athletes Compared to Non-exercising Healthy Older Adults.
 

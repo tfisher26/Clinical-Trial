@@ -1593,28 +1593,12 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04520074
-A Phase III,Randomized, Multi-center, Open Label Study of Adjuvant Chemotherapy of Three-step Regimens (ACTS) in BRCA1/2 Wide-type Stage III and Stage IV Epithelial Ovarian, Fallopian Tube, and Primary Peritoneal Cancer (EOC, FTC, PPC)
-
-Intervention: : Etoposide, Cyclophosphamide, Carboplatin/Cisplatin — CTX 400mg（250mg/m2）+VP-16 100mg (70mg/m2)d1-d3 iv 4w/6cycles , CBP(AUC=5) d1/CDDP 30mg/m2 d1-d2+CTX 600mg(400mg/m2)d1-d2 iv 8w/6cycles
-Link: https://clinicaltrials.gov/study/NCT04520074
-
-SUMMARY: Advanced ovarian, fallopian tube and peritoneal cancers often come back after initial treatment. This study tests a three step chemotherapy plan after surgery for patients without BRCA1 or BRCA2 mutations.
-
 ## NCT04520217
 Pilot Studies Testing Use of Topical Imipramine in Reducing Ultraviolet B Induced Microvesicle Particle Release in Photosensitive Subjects
 
 Intervention: : 4% Imipramine Cream — 4% Imipramine Cream
 : Base Cream — Base Cream
 Link: https://clinicaltrials.gov/study/NCT04520217
-
-SUMMARY:
-
-## NCT04521790
-Role of Endomyocardial Biopsy and Aetiology-based Treatment in Patients With Inflammatory Heart Disease in Arrhythmic and Non-arrhythmic Clinical Presentations: an Integrated Approach for the Optimal Diagnostic and Therapeutic Management
-
-Intervention: : support treatment, cardiac medical treatment, aetiology-specific treatment, device implant, arrhythmia ablation — Treatment will be patient-tailored, integrating international guidelines recommendation and the experience of the center where enrollment takes place.
-Link: https://clinicaltrials.gov/study/NCT04521790
 
 SUMMARY:
 
@@ -16009,14 +15993,6 @@ Lung Ultrasound-guided Hemodynamic Optimization in Major Non-cardiac Surgery: a 
 Intervention: : noradrenaline and vascular filling — In the control group, the haemodynamic management of the patients is done according to usual practice by maintaining blood pressure with noradrenaline and optimising stroke volume with vascular filling.
 : pulmonary ultrasound after vascular filling — In the interventional group, intraoperative haemodynamic management is based on an algorithm that includes measurement of the number of B-lines appearing on pulmonary ultrasound after vascular filling. Monitoring of the stroke volume will also be performed in this group in order to stop the vascular filling if the ESV does not increase by more than 10%.
 Link: https://clinicaltrials.gov/study/NCT05481723
-
-SUMMARY:
-
-## NCT05481749
-Neuropsychological Assessment Of The Non-institutionalized Oldest-Old Population. Multicenter Normative Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05481749
 
 SUMMARY:
 

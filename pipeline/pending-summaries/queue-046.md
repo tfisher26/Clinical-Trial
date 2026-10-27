@@ -16630,14 +16630,6 @@ Link: https://clinicaltrials.gov/study/NCT06744296
 
 SUMMARY:
 
-## NCT06744465
-NearWave Optical Molecular Monitoring for Predicting Complete Pathological Response (pCR) to Neoadjuvant Chemotherapy (NAC) in Breast Cancer Patients
-
-Intervention: : NearWave monitoring — NearWave optical molecular monitoring
-Link: https://clinicaltrials.gov/study/NCT06744465
-
-SUMMARY:
-
 ## NCT06744504
 Anthracycline-based Standard-dose vs Intermediate-dose Cytarabine Induction in the Treatment of Acute Myeloid Leukemia With RUNX1-RUNX1T1: a Prospective, Randomized, Controlled Phase III Clinical Trial
 

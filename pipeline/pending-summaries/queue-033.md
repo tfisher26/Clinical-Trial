@@ -2035,16 +2035,6 @@ Link: https://clinicaltrials.gov/study/NCT07085611
 SUMMARY:
 
 
-## NCT07150702
-The Effect of Close Follow-up by a Physician in Addition to a Conventional Physical Therapy Program in Patients With Low Back Pain
-
-Intervention: : Conventional physical therapy program — Conventional physical therapy program that includes hot packs, transcutaneous electrical nerve stimulation, ultrasound, and core stabilization exercises
-: Close follow-up by a physician — Daily physician-patient meetings during the sessions
-Link: https://clinicaltrials.gov/study/NCT07150702
-
-SUMMARY:
-
-
 ## NCT06150352
 Exploring the Association Between Cognitive Function, Obstructive Sleep Apnea and Brain Imaging, and the Determinants of Neurocognitive Decline in Subjects With Subjective or Mild Cognitive Impairment
 
@@ -6533,15 +6523,6 @@ Real World Observation of Guselkumab Treatment in Patients With Ulcerative Colit
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07242248
-
-SUMMARY:
-
-
-## NCT07209852
-Safety, Performance, and Clinical Benefit of Pacing the Left Bundle Branch Area - Post-Market Clinical Follow-up (SEPTA PMCF)
-
-Intervention: : Pacemaker lead — The pacemaker lead under investigation is a bipolar, steroid-releasing pacemaker electrode with active fixation (IS-1 connection) designed for chronic stimulation and sensing in the right atrium, right ventricle or left bundle branch area (LBBA). In this study, the lead is implanted in the LBBA and connected to a single- or dual-chamber pacemaker. Implantation is performed using a compatible, CE-marked catheter for pacemaker implantation.
-Link: https://clinicaltrials.gov/study/NCT07209852
 
 SUMMARY:
 

@@ -4273,17 +4273,6 @@ Link: https://clinicaltrials.gov/study/NCT07707531
 
 SUMMARY:
 
-## NCT07707648
-A Feasibility, Double Blind, Placebo-controlled Clinical Study Designed to Evaluate the Effect of 'Encer' on Cancer Treatment Related Fatigue
-
-Intervention: : encer — Homeopathy is one of the most commonly used complementary therapies along with herbs and vitamins in 7 out of 14 European countries, and an average 31.4% of cancer patients in those countries use Homeopathy. The use of homeopathy in patients with cancer has been associated with an improvement in Quality of life (QOL) and a decrease in fatigue symptoms (Medioni et al., 2023). Homeopathy, also known as homeopathic medicine, is a medical system that was developed in Germany more than 200 years ago. It's based on two unconventional theories: "Like cures like"-the notion that a disease can be cured by a substance that produces similar symptoms in healthy people, and "Law of minimum dose"-the notion that the lower the dose of the medication, the greater its effectiveness.
-
-Many homeopathic products are so diluted that no molecules of the original substance remain (Cartwright, 2018).
-: Placebo — Placebo tablets identical in appearance, taste, and administration schedule to ENCER, but containing only inactive ingredients and no homeopathic active ingredients. Participants received one tablet orally twice daily for 12 weeks.
-Link: https://clinicaltrials.gov/study/NCT07707648
-
-SUMMARY:
-
 ## NCT07707830
 Morphometric Characteristics of Internal Organs and Morphofunctional Status of the Musculoskeletal System in Patients With Hypothyroidism
 
@@ -7090,14 +7079,6 @@ A Phase 1/2, Open-label, Multicenter Study of UB-VV400 With Rapamycin in Relapse
 Intervention: : UB-VV400 — UB-VV400 is a gene therapy that generates CD22-directed CAR T cells in the body.
 : Rapamycin (sirolimus) — Rapamycin is a drug approved by the FDA for indications unrelated to cancer.
 Link: https://clinicaltrials.gov/study/NCT07735533
-
-SUMMARY:
-
-## NCT07736235
-The Effect of Amniotic Fluid Odor on Postnatal Adaptation and Stress in Healthy Newborns Born by Cesarean Section
-
-Intervention: : Amniotic Fluid Odor Sterile Distilled Water Odor — In the intervention group, healthy newborns born by cesarean section will be exposed to the odor of their own amniotic fluid shortly after birth. Amniotic fluid collected during delivery will be applied to a sterile material and positioned near the newborn's nose without direct contact with the skin or airway. The intervention will be administered according to a standardized study protocol. The newborns' postnatal adaptation, physiological parameters, and stress responses will be assessed at predetermined time points.
-Link: https://clinicaltrials.gov/study/NCT07736235
 
 SUMMARY:
 
@@ -13651,14 +13632,6 @@ Link: https://clinicaltrials.gov/study/NCT07813026
 
 SUMMARY:
 
-## NCT07813039
-A Phase 1, Open-label, Randomized, Crossover Study to Evaluate the Relative Bioavailability of a Tablet Formulation of VX-581 in Healthy Adult Subjects
-
-Intervention: : VX-581 — Tablet and Suspension for Oral Administration.
-Link: https://clinicaltrials.gov/study/NCT07813039
-
-SUMMARY:
-
 ## NCT07813208
 Real-world Investigation of Diagnosis, Treatment, and Survival Status of Children With Ph+ ALL in China
 
@@ -16907,14 +16880,6 @@ Link: https://clinicaltrials.gov/study/NCT07850570
 
 SUMMARY:
 
-## NCT07850661
-Validity and Reliability Study of the Barrier Specific Self-Efficacy Scale in Turkish
-
-Intervention: : Questionnaire Administration — Administration of the Turkish version of the Barrier-Specific Self-Efficacy Scale (BARSE) and other related questionnaires to investigate its validity and reliability.
-Link: https://clinicaltrials.gov/study/NCT07850661
-
-SUMMARY:
-
 ## NCT07850674
 A Comparative Study of Spinal Mobility, Axial Rigidity, and Kinesiophobia Between Parkinson's Disease Patients With and Without Temporomandibular Disorders
 
@@ -18144,47 +18109,108 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT01137643
-Tissue Procurement For Hematolymphoid Conditions
+## NCT03878849
+Phase 2, Randomized, Prospective, Open-Label, Parallel-Arm, Dose Optimization Study to Investigate the Safety, Tolerability, PK/PD, and Anti- Tumor Effect of 2X-121 in Patients With Recurrent, Advanced Ovarian Cancer.
 
-Intervention: : biologic sample preservation procedure — All samples collected during routine clinical care.
-: cytology specimen collection procedure — All Samples collected during routine clinical care.
-Link: https://clinicaltrials.gov/study/NCT01137643
+Intervention: : 2X-121 — 2X-121 will be administered daily as 600 mg (200 mg 2X-121 morning dose + 400 mg (2 x 200 mg) 2X-121 evening dose) hard gelatin capsules in a 28 days cycle.
+: 2X-121 — 2X-121 will be administered daily as 800 mg (400 mg (2 x 200 mg) 2X-121 morning dose + 400 mg (2 x 200 mg) 2X-121 evening dose) hard gelatin capsules in a 28 days cycle.
+Link: https://clinicaltrials.gov/study/NCT03878849
 
 SUMMARY:
 
-## NCT03246334
-MONITOR-IC: a Mixed Methods Multicenter Prospective Open Cohort Study Determining and Improving Long-term Outcomes of ICU Survivors
+## NCT02863250
+Improving Outcomes for Patients With Critical Bleeding Requiring Massive Transfusion
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03246334
+Link: https://clinicaltrials.gov/study/NCT02863250
 
 SUMMARY:
 
-## NCT04090567
-Overcoming PARP Inhibitor Resistance in BRCA Germline Mutation Positive Advanced Breast Cancer
+## NCT02328573
+The Impact of Group Singing on Patients With Stroke and Their Personal Caregivers
 
-Intervention: : Cediranib — Given PO
-: Ceralasertib — Given PO
-: Olaparib — Given PO
-Link: https://clinicaltrials.gov/study/NCT04090567
+Intervention: : Communal singing
+Link: https://clinicaltrials.gov/study/NCT02328573
 
 SUMMARY:
 
-## NCT03753412
-Prospective Observational Study Regarding the Determinants of Functional Disability and Quality of Life in Patients Recovering From Severe Acute Cardiac or Respiratory Failure Considered for Mechanical Cardiorespiratory Support (CLEVERER)
+## NCT04243720
+Immune Resistance Interrogation Study
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03753412
+Link: https://clinicaltrials.gov/study/NCT04243720
 
 SUMMARY:
 
-## NCT02781519
-Gender Related Differences in the Acute Effects of Delta-9-Tetrahydrocannabinol in Healthy Humans
+## NCT04195633
+Hematopoietic Stem Cell Transplantation From Haploidentical Donors in Patients With Hematological Malignancies Using a Treosulfan-Based Preparative Regimen
 
-Intervention: : THC — Active THC (0.015mg/kg) administered over 10 minutes
-: Placebo — Control: small amount of alcohol (quarter teaspoon), with no THC over 10 minutes
-Link: https://clinicaltrials.gov/study/NCT02781519
+Intervention: : Allogeneic Hematopoietic Stem Cell Transplantation — Undergo allogeneic hematopoietic stem cell transplantation
+: Cyclophosphamide — Given IV
+: Cyclosporine — Given IV or PO
+: Filgrastim — Given IV
+: Fludarabine — Given IV
+: Mycophenolate Mofetil — Given IV or PO
+: Mycophenolate Sodium — Given PO
+: Total-Body Irradiation — Undergo total-body irradiation
+: Treosulfan — Given IV
+: Bone Marrow Aspiration — Undergo bone marrow aspiration
+: Bone Marrow Biopsy — Undergo bone marrow biopsy
+: Echocardiography Test — Undergo echocardiography
+: Biospecimen Collection — Undergo blood sample collection
+: Computed Tomography — Undergo CT or PET/CT
+: Positron Emission Tomography — Undergo PET/CT
+Link: https://clinicaltrials.gov/study/NCT04195633
+
+SUMMARY:
+
+## NCT03643276
+International Collaborative Treatment Protocol for Children and Adolescents With Acute Lymphoblastic Leukemia - AIEOP-BFM ALL 2017
+
+Intervention: : Blinatumomab — Experimental therapy in randomizations R-HR and R-MR
+: Bortezomib — Experimental therapy in randomization R-eHR
+: Cyclophosphamide — Part of standard chemotherapy and included in experimental treatment phase Protocol IB long in randomization R-T
+: Cytarabine — Part of standard chemotherapy and included in experimental treatment phase Protocol IB long in randomization R-T and in the intensification block Myocet-FLA for patients with very high relapse risk
+: Daunorubicin — Part of standard chemotherapy
+: Myocet — Part of intensification block Myocet-FLA for patients with very high relapse risk
+: Dexamethasone — Part of standard chemotherapy
+: Doxorubicin — Part of standard chemotherapy
+: Etoposide — Part of standard chemotherapy
+: Fludarabine Phosphate — Part of intensification block Myocet-FLA for patients with very high relapse risk
+: Ifosfamide — Part of standard chemotherapy
+: 6-Mercaptopurine — Part of standard chemotherapy and included in experimental treatment phase Protocol IB long in randomization R-T
+: Methotrexate — Part of standard chemotherapy
+: Pegaspargase — Part of standard chemotherapy
+: Prednisolone — Part of standard chemotherapy
+: Tioguanin — Part of standard chemotherapy
+: Vincristine — Part of standard chemotherapy
+: Vindesine — Part of standard chemotherapy
+: Erwinase — Part of standard chemotherapy as substitute for PEG-L-Asparaginase in case of allergic reaction
+Link: https://clinicaltrials.gov/study/NCT03643276
+
+SUMMARY:
+
+## NCT03800017
+Investigating the Role of Skeletal Muscle Dysfunction on Dyspnea and Exercise Intolerance in Interstitial Lung Disease
+
+Intervention: : Hyperoxia — Participants breathe 60% oxygen during exercise
+Link: https://clinicaltrials.gov/study/NCT03800017
+
+SUMMARY:
+
+## NCT03237702
+Decipher the Biology of Lethal Prostate Cancer - Urine Metabolomics Profiling in Men Receiving Prostate Biopsy and Men With Diagnosed Prostate Cancer Receiving MCS Supplementation
+
+Intervention: : Multi-Carotenoids — All participants in the second stage will receive multi-carotenoids 30 mg qd for 8 weeks.
+Link: https://clinicaltrials.gov/study/NCT03237702
+
+SUMMARY:
+
+## NCT03231241
+SunStar Project to Explore the Chronification Process in Headache Through Functional Imaging, Deep Phenotyping, and Analysis of CSF of Blood Products
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03231241
 
 SUMMARY:
 

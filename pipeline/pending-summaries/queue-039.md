@@ -2588,16 +2588,6 @@ Link: https://clinicaltrials.gov/study/NCT06728098
 SUMMARY:
 
 
-## NCT04520672
-Circulating Tumor Cells (CTC) in Cancer
-
-Intervention: : Blood samples — Blood samples (3 ethylenediaminetetraacetic acid (EDTA) tubes with a volume of 7.5 ml blood each) will be processed for CTC isolation and characterization, ranging from molecular analysis to culture and drug screen.
-: Samples from tumor draining vessels — In case of tumor resection, 3 EDTA tubes (5 ml) will be withdrawn from the tumor draining vessels for CTC isolation and characterization, ranging from molecular analysis to culture and drug screen.
-Link: https://clinicaltrials.gov/study/NCT04520672
-
-SUMMARY:
-
-
 ## NCT04602962
 Studies Aiming at Identifying Predictors for Fertility Treatments' Outcomes and to Evaluate the Efficacy and Safety of Fertility Preservation
 

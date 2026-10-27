@@ -78,15 +78,6 @@ Link: https://clinicaltrials.gov/study/NCT06725511
 SUMMARY:
 
 
-## NCT07425613
-Early Changes in Dynamic Cervical Movement Control Following Anterior Cervical Discectomy and Fusion: A Prospective Controlled Longitudinal Study
-
-Intervention: : Anterior Cervical Discectomy and Fusion — Anterior cervical discectomy and fusion (ACDF) is a surgical procedure performed under general anesthesia to treat cervical disc herniation or degenerative disc disease causing nerve root or spinal cord compression. The procedure involves an anterior approach to the cervical spine, removal of the affected intervertebral disc (discectomy), decompression of neural structures, and placement of an interbody graft or cage with or without anterior plate fixation to achieve segmental fusion. The specific surgical technique and implant selection are determined by the treating spine surgeon according to standard clinical practice.
-Link: https://clinicaltrials.gov/study/NCT07425613
-
-SUMMARY:
-
-
 ## NCT05572944
 Validation and Optimization of Multidimensional Modelling for Never Smoking Lung Cancer Risk Prediction by Multicenter Prospective Study
 

@@ -945,15 +945,6 @@ Link: https://clinicaltrials.gov/study/NCT06004349
 SUMMARY:
 
 
-## NCT07409012
-Pain During Cesarean Delivery: a Patient-Centered Assessment Tool Developed With Mixed Methods
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07409012
-
-SUMMARY:
-
-
 ## NCT05895981
 An Exploratory Clinical Trial to Evaluate the Safety and Efficacy of Sacral Nerve Stimulation in Patients
 

@@ -3375,15 +3375,6 @@ Link: https://clinicaltrials.gov/study/NCT06797206
 
 SUMMARY:
 
-## NCT06797245
-The APPROVE Trial: A Randomized Controlled Trial Evaluating the Efficacy and Safety of a Prescription Digital Therapeutic for Treatment of Overactive Bladder in Women
-
-Intervention: : RiSolve App — Participants randomized to intervention will be given access to the RiSolve PDTx app for 10 weeks after initial activation.
-: AUGS Patient Handouts — AUGS "Overactive Bladder" and "Pelvic Floor Muscles and Bladder Training" Patient Fact Sheets will be provided and reviewed.
-Link: https://clinicaltrials.gov/study/NCT06797245
-
-SUMMARY:
-
 ## NCT06797258
 Safety And Effectiveness Of FlexHD® Pliable Acellular Dermal Matrix In Implant-Based Breast Reconstruction
 
@@ -4017,14 +4008,6 @@ Effect of Hyperbaric Oxygen Therapy on Insulin Resistance in Postmenopausal Wome
 Intervention: : Hyperbaric oxygen therapy — Hyperbaric Oxygen Therapy (HBOT):(Haux, Starmed 2300, Germany). A multichamper Double-lock, divided into Main chamber and Antichamber, with omega Ω-shape and all safety and CE-Certificate,
 : Hypoglycemic Drug — Metformin reduces serum glucose level by several different mechanisms without increasing insulin secretion.it increases the effects of insulin so it is termed "insulin sensitizer ,metformin also suppresses the endogenous glucose production by the liver ,which is mainly due to a reduction in the rate of gluconeogenesis and asmall effect on glycogenolysis. Moreover, metformin activates the enzyme adenosine monophosphate kinase (AMPK) resulting in the inhibition of key enzymes involved in gluconeogenesis and glycogen synthesis in the liver while stimulating insulin signaling and glucose transport in muscles
 Link: https://clinicaltrials.gov/study/NCT06806345
-
-SUMMARY:
-
-## NCT06806709
-Reducing Blood Culture Contamination With the Use of a Needle-less Blood Draw Device (PIVO Pro): An Adaptive Group Sequential Randomized Controlled Trial (The PIVO Trial)
-
-Intervention: : PIVO-Pro needle-free blood collection device — The PIVO™ Pro Needle-free Blood Collection Device advances a flexible flow tube through the intravenous catheter to access optimal blood draw conditions, overcoming traditional hurdles to collect high-quality, reliable blood samples.
-Link: https://clinicaltrials.gov/study/NCT06806709
 
 SUMMARY:
 

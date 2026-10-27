@@ -6884,14 +6884,6 @@ Link: https://clinicaltrials.gov/study/NCT07562425
 
 SUMMARY:
 
-## NCT07562438
-Prospective Clinical Trial of Low-dose 177Lu-P17-088 in the Treatment of Metastatic Castration-Resistant Prostate Cancer
-
-Intervention: : 177Lu-P17-088 — administered intravenously once every 6-8 weeks (1 cycle) for 4 cycles
-Link: https://clinicaltrials.gov/study/NCT07562438
-
-SUMMARY:
-
 ## NCT07562490
 A Randomized Controlled Trial of Plasma ctDNA Methylation-Guided Adjuvant Chemotherapy Decision-Making in High-Risk Stage III (T4N+ or T1-3N2) Colorectal Cancer
 
@@ -12680,14 +12672,6 @@ Clinical Evaluation and Outcomes of Multi-signal SAVI Scout (Scout MD) Localized
 
 Intervention: : SAVI Scout MD system — Implantable radar reflector system allowing placement of multiple uniquely identifiable localizers for intraoperative tumor localization.
 Link: https://clinicaltrials.gov/study/NCT07686250
-
-SUMMARY:
-
-## NCT07686575
-Objective Response Rate of Ivonescimab With Chemotherapy in Locally Advanced Resectable Oral and Oropharyngeal Squamous Cell Carcinoma
-
-Intervention: : Ivonescimab（AK112，a PD-1/VEGF bispecific antibody） — Patients received two cycles of Ivonescimab combined with chemotherapy at a 3-week interval. The therapeutic regimen consisted of Ivonescimab (10 mg/kg) in combination with paclitaxel (135-175 mg/m²) plus cisplatin (80-120 mg/m²) or carboplatin (0.3-0.4 g/m²). Oral swabs and saliva samples were collected within 3 days prior to the initiation of the first cycle of Ivonescimab plus chemotherapy, within 3 days prior to the initiation of the second cycle, and within 3 days prior to surgery. Intraoperatively, tumor tissues and paracancerous tissues were harvested, and a 3 mm-thick section of the resected primary tumor lesion was obtained for pathological examination to investigate the tumor regression pattern.
-Link: https://clinicaltrials.gov/study/NCT07686575
 
 SUMMARY:
 

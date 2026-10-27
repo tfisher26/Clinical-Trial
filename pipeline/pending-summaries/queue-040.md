@@ -950,15 +950,6 @@ Link: https://clinicaltrials.gov/study/NCT05885009
 SUMMARY:
 
 
-## NCT04522687
-Observation of the Impact of Radiotherapy With or Without Chemotherapy in the Value of Peripheral Blood Lymphocyte Subsets for Patients With Thoracic Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04522687
-
-SUMMARY:
-
-
 ## NCT07578610
 Accuracy and Calibration of Evidence-Grounded Biomedical Signal Extraction From Free-Text Symptom Descriptions: A Prospective Observational Registry Using the OpenGenome Automated Research Instrument
 
@@ -1712,15 +1703,6 @@ Specifically, each day participants will:
 
 (1) total recreational screen time, (2) usage contexts (e.g., situations or triggers), (3) awareness of potential overuse, and (4) use of regulation strategies (e.g., planning, monitoring, evaluation).
 Link: https://clinicaltrials.gov/study/NCT07511374
-
-SUMMARY:
-
-
-## NCT07600554
-A Phase I Study to Evaluate the Safety and Dosimetry of Imaging With 68Ga-OncoACP3 in Prostate Cancer
-
-Intervention: : [68Ga]Ga-OncoACP3 — Single intravenous bolus injection.
-Link: https://clinicaltrials.gov/study/NCT07600554
 
 SUMMARY:
 
@@ -3871,18 +3853,6 @@ Cell Therapy for Osteoarthritis
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07320118
-
-SUMMARY:
-
-
-## NCT04520048
-Exploratory Study. Endothelial Function and Vascular-tropic Biomarkers: Predictive Indicators of the Progression of Hypertensive Disorders in Pregnancy to Pre-eclampsia?
-
-Intervention: : Determination of the UEMP levels — Quantification of UEMP by flow cytometry in urine (10 ml) collected at 26 ± 2 week and 34th ± 2 week of amenorrhea.
-: Aortic central pressure and the carotid-femoral pulse wave velocity — Measurement of the aortic central arterial pressure (systolic and diastolic arterial pressure) by applanation tonometry, and the index of aortic increase by applanation tonometry, the carotid-femoral pulse wave velocity using the SphygmoCor® system (PWV Medical) and/or Popmetre.
-: Vascular biomarker assay — Plasma angiogenic biomarker levels determination using an immunoassay, including circulating sFlt-1, circulating PIGF, sFlt-1 / PIGF ratio, circulating VEGF, circulating soluble endoglin (sEng), other biomarkers assessment, including anti-angiotensin II receptor (AT1), circulating copeptin, circulating interleukin 17 (IL-17), Urinary Neutrophil Gelatinase-Associated Lipocalin (NGAL), as well as CEMP and CEC quantification using flow cytometry.
-: Measurement of the uterine artery diameter — This measurement is added to the routine examination of the uterine artery. Bi-dimensional ultrasound imaging with angio-Doppler allows the study of the artery as the blood flow velocity and vessel diameter. Uterine artery Doppler pulsatility index (UtA-PI), mean flow velocity and diameter measurement could be calculated with Doppler instrument with software could determine instantaneous true mean blood flow velocity. Measurement is made by placing the cursor from outer edge to outer edge of the artery adventitia, on a cross-section and taking the largest diameter
-Link: https://clinicaltrials.gov/study/NCT04520048
 
 SUMMARY:
 

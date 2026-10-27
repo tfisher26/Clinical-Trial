@@ -165,15 +165,6 @@ Link: https://clinicaltrials.gov/study/NCT07260526
 SUMMARY:
 
 
-## NCT04521673
-Pathogen Detection in Infectious Uveitis in China
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04521673
-
-SUMMARY:
-
-
 ## NCT06691074
 Systematic Assessment of the Acute Cavo-Tricuspid Isthmus Block Durability After Pulsed Electric Field Ablation
 

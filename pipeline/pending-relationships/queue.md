@@ -102912,3 +102912,47 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05160480
+A Pilot Study of Total-body PET Using FDA-approved Radiotracers Beyond 18F-FDG
+Conditions: blood/breast_cancer_lymphedema, cancer/neuroendocrine_tumors, cancer/prostatic_neoplasms
+
+Inclusion criteria:
+"""
+* Persons \>18 yo with suspected prostate cancer metastasis
+* Prior imaging study (CT, and/or MRI and/or Bone scan and/or Fluciclovine scan) suspicious for metastatic disease, obtained within 4 months from the research scan date.
+
+  68Ga DOTATATE (n=3) or 64Cu-DOTATATE (n=3)
+
+Inclusion Criteria:
+
+* Persons \> 18 yo suspicious for or diagnosed with somatostatin receptor positive neuroendocrine tumors (NETs)
+* Prior DOTATATE PET/CT scan suspicious for tumor obtained not earlier than 4 months from the research scan date.
+"""
+
+RELATIONSHIP:
+
+## NCT05274607
+French Epidemiological Pediatric Study for Pneumonia and Pleuropneumonia in Hospitalized Children Aged 1 Months to 15 Years.
+Conditions: infectious/chlamydial_pneumonia, respiratory/pleural_effusion_malignant
+
+Inclusion criteria:
+"""
+* ages between 1 month and 15 years
+* presence of parenchymatous condensation and/or pleural effusion on chest x-rays and/or ultrasounds and/or CT scans
+* fever ≥38.5 °C if age ≥3 months since the onset of symptoms or ≥38 °C if the child is less than 3 months old.
+* Hospitalization
+"""
+
+RELATIONSHIP:
+
+## NCT06166407
+The Breisgau Pheno Heart Study
+Conditions: cardiovascular/non_st_elevated_myocardial_infarction, cardiovascular/st_elevation_myocardial_infarction, other/anterior_wall_myocardial_infarction
+
+Inclusion criteria:
+"""
+* Emergency coronary angiography and age\>18 years and STEMI or NSTEMI or "none of these diseases"
+"""
+
+RELATIONSHIP:
+

@@ -1248,15 +1248,6 @@ Link: https://clinicaltrials.gov/study/NCT07444034
 SUMMARY:
 
 
-## NCT06459011
-TAKINGCARE - TAcKlING the Needs of Carers of People With Chronic respirAtoRy disEases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06459011
-
-SUMMARY:
-
-
 ## NCT07006636
 Effect of Watermelon Consumption on Cardiometabolic Health and Whole-Body Antioxidant Capacity
 

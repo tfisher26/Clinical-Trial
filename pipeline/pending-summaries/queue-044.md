@@ -6489,15 +6489,6 @@ Link: https://clinicaltrials.gov/study/NCT05743283
 
 SUMMARY:
 
-## NCT05743868
-Metabolic Heterogeneity Underlying Hypertriglyceridemia: Hepatic Triglyceride Biosynthesis in Humans With Different Insulin Resistance Phenotypes
-
-Intervention: : Standardized Dinner — De novo lipogenesis (DNL) will be assessed in all participants with a standardized dinner
-: Premeal exercise — DNL will be assessed in all participants with short bouts of premeal exercise with a standardized dinner
-Link: https://clinicaltrials.gov/study/NCT05743868
-
-SUMMARY:
-
 ## NCT05743933
 Chongqing Adrenogenic Autonomic Cortisol Secretion Cohort Study
 
@@ -6563,15 +6554,6 @@ Intervention: : Zolpidem Tartrate 10 mg — two days preoperatively and five day
 Link: https://clinicaltrials.gov/study/NCT05746143
 
 SUMMARY: Sleep after spine surgery can be poor and may affect recovery. This study tests zolpidem, a sleep medicine, taken before and after lumbar spine fusion.
-
-## NCT05746884
-Haemostatic Gel Prophylaxis for Post Duodenal Endoscopic Resection Bleeding
-
-Intervention: : duodenal mucosectomy — Standard resection technique will be performed for duodenal mucosectomy, as well as the usual hemostasis at the discretion of the operator.
-: ampullectomy — Standard resection technique will be performed for ampullectomy, as well as the usual hemostasis at the discretion of the operator.
-Link: https://clinicaltrials.gov/study/NCT05746884
-
-SUMMARY: Removing growths from the duodenum through an endoscope can cause bleeding afterward. This study tests applying a hemostatic gel to prevent this bleeding.
 
 ## NCT05747755
 Achieving Diagnostic Excellence Through Prevention and Teamwork (ADEPT)
