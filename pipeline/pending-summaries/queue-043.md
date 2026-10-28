@@ -1593,33 +1593,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04520217
-Pilot Studies Testing Use of Topical Imipramine in Reducing Ultraviolet B Induced Microvesicle Particle Release in Photosensitive Subjects
-
-Intervention: : 4% Imipramine Cream — 4% Imipramine Cream
-: Base Cream — Base Cream
-Link: https://clinicaltrials.gov/study/NCT04520217
-
-SUMMARY:
-
-## NCT04522193
-Physiopathology of Dumping Syndrome in Esophageal Atresia
-
-Intervention: : Glycemic Holter — Continuous glycaemia monitoring,
-: gastric emptying scintigraphy — Fasting administration of a Technecium-labelled milk bottle and quantification of the remaining radioactivity by a camera every 30 minutes for 4 hours.
-: Holter ECG — continuous cardiac monitoring
-Link: https://clinicaltrials.gov/study/NCT04522193
-
-SUMMARY:
-
-## NCT04522765
-Diurnal Blood Pressure and Arterial Stiffness Patterns in Those at Increased Risk of Cardiovascular Disease
-
-Intervention: : Assessment of 24 hour blood pressure and arterial stiffness — Assessment of 24 hour blood pressure and arterial stiffness using Mobil-o-graph device
-Link: https://clinicaltrials.gov/study/NCT04522765
-
-SUMMARY:
-
 ## NCT04526353
 Prospective Randomized Clinical Trial of Early Oxybutinin Treatment for Boys With Posterior Urethral Valves
 
@@ -14923,18 +14896,6 @@ ESAN II - Energy Sensing in Depression. Effects of Aronia Melanocarpa on Immunom
 Intervention: : Aronia Juice — The intervention is based an the additional consumption of 200 ml natural juice a day for a period of six weeks. The participants are asked to drink the natural and commercially available juice in addition to their regular diet. Further, they are asked not to change their diets and lifestyle behaviour during the intervention.
 : Placebo — A beverage is prepared according to a known recipe. It contains macro- and micronutrients in comparable amounts like the aronia juice. It is completely polyphenol free.
 Link: https://clinicaltrials.gov/study/NCT05432362
-
-SUMMARY:
-
-## NCT05432518
-Biomarker and Tumor Cell Culture-Driven Pilot Trial for Treatment of Recurrent Glioblastoma
-
-Intervention: : Afatinib — Afatinib will be administered orally at a dose of 40 mg daily in patients with EGFR amplification.
-: Dasatinib — Dasatinib will be administered orally at a dose of 100 mg once daily in patients with PDGFR amplification.
-: Palbociclib — Palbociclib will be administered orally at a dose of 125 mg once daily in patients with CDK4 and CDK6 amplification.
-: Everolimus — Everolimus will be administered orally at a dose of 10 mg daily in patients with PI3K/PTEN/mTOR activated pathways.
-: Olaparib — Olaparib will be administered orally at a dose of 300 mg twice daily in patients with TP53 mutation.
-Link: https://clinicaltrials.gov/study/NCT05432518
 
 SUMMARY:
 

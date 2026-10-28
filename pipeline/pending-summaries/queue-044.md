@@ -133,15 +133,6 @@ Link: https://clinicaltrials.gov/study/NCT05498207
 
 SUMMARY:
 
-## NCT05499702
-The Effects of Glucagon on Hepatic Metabolism in People With Type 2 Diabetes After Caloric Restriction
-
-Intervention: : Caloric Restriction — Subjects will be instructed to consume a diet of 900 kcal daily using meals derived from "Nutritional Guidelines after Bariatric Surgery". Compliance will be monitored by weekly meetings with the dietician using an electronic record of food intake
-: Hyperglycemic clamp — Hyperglycemic clamp to measure the effect of glucagon on hepatic metabolism
-Link: https://clinicaltrials.gov/study/NCT05499702
-
-SUMMARY:
-
 ## NCT05500170
 The Benefits of Nicotinamide Riboside Upon Cognition and Sleep in Older Veterans
 
@@ -2799,14 +2790,6 @@ Intervention: : Motivational Interviewing — Three motivational interviewing se
 Link: https://clinicaltrials.gov/study/NCT05617898
 
 SUMMARY:
-
-## NCT05618002
-Lemborexant vs Zopiclone vs Clonidine for Insomnia Treatment in Chronic Pain Patients
-
-Intervention: : Lemborexant — For insomnia treatment, each patient ingests Lemborexant or Zopiclone or Clonidine on alternate nights. Each patient uses a special validated sleep diary to collect data.
-Link: https://clinicaltrials.gov/study/NCT05618002
-
-SUMMARY: People with chronic pain often have insomnia. This study compares lemborexant, zopiclone and clonidine for treating insomnia in chronic pain patients.
 
 ## NCT05618054
 Pediatric POTS: Does a Periaqueductal Gray-vagus Nerve Interface Malfunction Explain the Natural History With Its Numerous Co-morbidities?

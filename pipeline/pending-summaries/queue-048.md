@@ -3567,18 +3567,6 @@ Link: https://clinicaltrials.gov/study/NCT07049575
 
 SUMMARY:
 
-## NCT07049588
-A Multi-omic Approach to the Identification of Novel Biomarkers in Early Charcot-Marie-Tooth 1A Disease (CMT1A)
-
-Intervention: : Quantitative neuromuscular MRI — Quantification of biomarkers as fat fraction, magnetization Transfer Ratio, muscular volume, relaxation time T2
-: Skin biopsy — Performed on the arm or index finger, depending on patient age
-: Clinical scores — ONLS, CMTES-R, CMT-Peds, CMT-FOM
-: Blood test — 10 ml sample
-: Patient Report Outcomes Measures — pCMT-QoL, EVA, WALK-12, PGI-c, SF-12
-Link: https://clinicaltrials.gov/study/NCT07049588
-
-SUMMARY:
-
 ## NCT07049848
 SATURN-STS: Phase II Study of Neoadjuvant Atezolizumab With Doxorubicin, Concurrent Atezolizumab With Pre-operative Radiation Therapy and Adjuvant Atezolizumab in Patients With High-risk Surgically Resectable Extremity and Truncal Soft Tissue Sarcoma
 
@@ -3969,14 +3957,6 @@ Intervention: : BL-B01D1 — Administration by intravenous infusion for a cycle 
 : Pembrolizumab — Administration by intravenous infusion for a cycle of 3 weeks.
 : Bevacizumab — Administration for a cycle of 3 weeks.
 Link: https://clinicaltrials.gov/study/NCT07054567
-
-SUMMARY:
-
-## NCT07054723
-Daily Stress Process and Daily Cognitive Performance Among Racially Diverse Breast Cancer Survivors: A Feasibility and Validation Study
-
-Intervention: : Mobile Daily Diary — This study will include a 14-day daily diary survey in which participants will be expected to complete morning (\~5 minutes) and night (\~10 minutes) assessments using mobile phones provided by the research team.
-Link: https://clinicaltrials.gov/study/NCT07054723
 
 SUMMARY:
 

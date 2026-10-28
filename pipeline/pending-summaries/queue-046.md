@@ -7366,15 +7366,6 @@ Link: https://clinicaltrials.gov/study/NCT06602375
 
 SUMMARY: Jaw joint and muscle disorders cause pain and difficulty opening the mouth. This study adds manual physical therapy and exercise to routine dental care to see whether it improves pain and jaw function.
 
-## NCT06602479
-A Phase 2, Randomised, Multicentre, Parallel-Group Treatment, Double-Blind Study to Investigate the Safety and Efficacy of Subcutaneous MEDI0618 in the Reduction of Migraine Headache Days Compared to Placebo in Adult Participants With Episodic Migraine
-
-Intervention: : MEDI0618 — MEDI0618 per protocol
-: Placebo — Volume-matched placebo for all arms
-Link: https://clinicaltrials.gov/study/NCT06602479
-
-SUMMARY: Episodic migraine causes headaches several days a month. This study tests MEDI0618, an injected medicine, against a placebo to see whether it reduces the number of migraine days.
-
 ## NCT06602622
 Change in Body Weight and BMI in PWH Virologically Suppressed Who Maintain a Second-generation INSTI Regimen Compared to Those Who Switch to DOR/3TC/TDF At 48 Weeks
 

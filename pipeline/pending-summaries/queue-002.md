@@ -10129,15 +10129,6 @@ Link: https://clinicaltrials.gov/study/NCT07768800
 
 SUMMARY:
 
-## NCT07768813
-Bioequivalence of Survodutide (BI 456906) When Administered Via Pre-filled Syringe (Formulation A) and Vial (Formulation B2) in Male and Female Trial Participants Who Are Healthy or Otherwise Healthy But Overweight/Obese (an Open-label, Randomised, Single-dose, Two-period, Two-sequence Crossover Trial)
-
-Intervention: : Survodutide formulation A — Pre-filled pen
-: Survodutide formulation B2 — Survodutide formulation B2
-Link: https://clinicaltrials.gov/study/NCT07768813
-
-SUMMARY:
-
 ## NCT07769151
 BIO-FUNCTION for NRM Prediction in SCTCT: Assessing Biological and Functional Reserve to Predict Non-Relapse Mortality in Stem Cell Transplant and Cell Therapy
 
@@ -18109,108 +18100,103 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT03878849
-Phase 2, Randomized, Prospective, Open-Label, Parallel-Arm, Dose Optimization Study to Investigate the Safety, Tolerability, PK/PD, and Anti- Tumor Effect of 2X-121 in Patients With Recurrent, Advanced Ovarian Cancer.
+## NCT04359069
+Optimal Duration of Urinary Catheterization After Total Mesorectal Excision
 
-Intervention: : 2X-121 — 2X-121 will be administered daily as 600 mg (200 mg 2X-121 morning dose + 400 mg (2 x 200 mg) 2X-121 evening dose) hard gelatin capsules in a 28 days cycle.
-: 2X-121 — 2X-121 will be administered daily as 800 mg (400 mg (2 x 200 mg) 2X-121 morning dose + 400 mg (2 x 200 mg) 2X-121 evening dose) hard gelatin capsules in a 28 days cycle.
-Link: https://clinicaltrials.gov/study/NCT03878849
+Intervention: : Urinary catheter removal on postoperative day 1 — Urinary catheter will be removed on day 1 (experimental) instead of day 3 (standard of care).
+: Urinary catheter removal on postoperative day 3 — Urinary catheter will be removed on day 3 (standard of care)
+Link: https://clinicaltrials.gov/study/NCT04359069
 
 SUMMARY:
 
-## NCT02863250
-Improving Outcomes for Patients With Critical Bleeding Requiring Massive Transfusion
+## NCT02485847
+IRIS Registry: Intelligent Research in Sight Registry
+
+Intervention: : Ophthalmology — A registry of ophthalmic ambulatory encounters which captures essential data elements for continuous quality improvement efforts, enhanced patient care outcomes, and pay for performance programs.
+Link: https://clinicaltrials.gov/study/NCT02485847
+
+SUMMARY:
+
+## NCT03414827
+Genetic Evaluation of Renal Cell Carcinoma; Predicting Biomarkers for Renal Cell Carcinoma
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02863250
+Link: https://clinicaltrials.gov/study/NCT03414827
 
 SUMMARY:
 
-## NCT02328573
-The Impact of Group Singing on Patients With Stroke and Their Personal Caregivers
+## NCT03025477
+Randomized Study Assessing Two Strategies of First Line: a Strategy With Intraperitoneal Chemotherapy and a Strategy With Total Intravenous Strategy, in Patients With Epithelial Advanced Ovarian Cancer
 
-Intervention: : Communal singing
-Link: https://clinicaltrials.gov/study/NCT02328573
+Intervention: : CC0 - Carboplatin (IV) - Paclitaxel (IV) — (6 cycles)
+: CC0 - Cisplatin (IP) - Epirubicin (IV) — (6 cycles)
+: CC>0 - Carboplatin (IV)- Paclitaxel (IV) — * carboplatin (IV) - paclitaxel (IV) (3 cycles)
+* Interval surgery
+* Carboplatin (IV) - paclitaxel (IV) (3 cycles)
+: CC>0 - Cisplatin (IP/IV)- Epirubicin (IV) — * Cisplatin (IV) - Epirubicin (IV) (3 cycles)
+* Interval surgery :
 
-SUMMARY:
-
-## NCT04243720
-Immune Resistance Interrogation Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04243720
-
-SUMMARY:
-
-## NCT04195633
-Hematopoietic Stem Cell Transplantation From Haploidentical Donors in Patients With Hematological Malignancies Using a Treosulfan-Based Preparative Regimen
-
-Intervention: : Allogeneic Hematopoietic Stem Cell Transplantation — Undergo allogeneic hematopoietic stem cell transplantation
-: Cyclophosphamide — Given IV
-: Cyclosporine — Given IV or PO
-: Filgrastim — Given IV
-: Fludarabine — Given IV
-: Mycophenolate Mofetil — Given IV or PO
-: Mycophenolate Sodium — Given PO
-: Total-Body Irradiation — Undergo total-body irradiation
-: Treosulfan — Given IV
-: Bone Marrow Aspiration — Undergo bone marrow aspiration
-: Bone Marrow Biopsy — Undergo bone marrow biopsy
-: Echocardiography Test — Undergo echocardiography
-: Biospecimen Collection — Undergo blood sample collection
-: Computed Tomography — Undergo CT or PET/CT
-: Positron Emission Tomography — Undergo PET/CT
-Link: https://clinicaltrials.gov/study/NCT04195633
+  * if CC0: Cisplatin (IP) - Epirubicin (IV) (3 cycles)
+  * if CC\>0 Cisplatin (IV)- Epirubicin (IV) (3 cycles)
+Link: https://clinicaltrials.gov/study/NCT03025477
 
 SUMMARY:
 
-## NCT03643276
-International Collaborative Treatment Protocol for Children and Adolescents With Acute Lymphoblastic Leukemia - AIEOP-BFM ALL 2017
+## NCT03353467
+A Prospective Clinical Trial of Endoscopic Nasopharyngectomy for Newly Diagnosed Stage I Nasopharyngeal Carcinoma Patients
 
-Intervention: : Blinatumomab — Experimental therapy in randomizations R-HR and R-MR
-: Bortezomib — Experimental therapy in randomization R-eHR
-: Cyclophosphamide — Part of standard chemotherapy and included in experimental treatment phase Protocol IB long in randomization R-T
-: Cytarabine — Part of standard chemotherapy and included in experimental treatment phase Protocol IB long in randomization R-T and in the intensification block Myocet-FLA for patients with very high relapse risk
-: Daunorubicin — Part of standard chemotherapy
-: Myocet — Part of intensification block Myocet-FLA for patients with very high relapse risk
-: Dexamethasone — Part of standard chemotherapy
-: Doxorubicin — Part of standard chemotherapy
-: Etoposide — Part of standard chemotherapy
-: Fludarabine Phosphate — Part of intensification block Myocet-FLA for patients with very high relapse risk
-: Ifosfamide — Part of standard chemotherapy
-: 6-Mercaptopurine — Part of standard chemotherapy and included in experimental treatment phase Protocol IB long in randomization R-T
-: Methotrexate — Part of standard chemotherapy
-: Pegaspargase — Part of standard chemotherapy
-: Prednisolone — Part of standard chemotherapy
-: Tioguanin — Part of standard chemotherapy
-: Vincristine — Part of standard chemotherapy
-: Vindesine — Part of standard chemotherapy
-: Erwinase — Part of standard chemotherapy as substitute for PEG-L-Asparaginase in case of allergic reaction
-Link: https://clinicaltrials.gov/study/NCT03643276
+Intervention: : Endoscopic surgery — Endoscopic nasopharyngectomy included endoscopic resection, with or without posterior pedicle nasal mucoperiosteal flap resurfacing the nasopharyngeal defects.
+: Intensity-modulated radiotherapy — All of the patients were received irradiation by IMRT. The target volumes were delineated according to a previously described institutional treatment protocol, which is in accordance with the International Commission on Radiation Units and Measurements reports 50 and 62.
+Link: https://clinicaltrials.gov/study/NCT03353467
 
 SUMMARY:
 
-## NCT03800017
-Investigating the Role of Skeletal Muscle Dysfunction on Dyspnea and Exercise Intolerance in Interstitial Lung Disease
+## NCT03842007
+Understanding Mechanisms of Normal and Disordered Defecation
 
-Intervention: : Hyperoxia — Participants breathe 60% oxygen during exercise
-Link: https://clinicaltrials.gov/study/NCT03800017
-
-SUMMARY:
-
-## NCT03237702
-Decipher the Biology of Lethal Prostate Cancer - Urine Metabolomics Profiling in Men Receiving Prostate Biopsy and Men With Diagnosed Prostate Cancer Receiving MCS Supplementation
-
-Intervention: : Multi-Carotenoids — All participants in the second stage will receive multi-carotenoids 30 mg qd for 8 weeks.
-Link: https://clinicaltrials.gov/study/NCT03237702
+Intervention: : Rectal Barostat Study — Contractions will be recorded with a balloon inserted into the rectum and inflated
+: Fecoflowmetry — Rectum will be filled with a small amount of paste.Two thin catheters will be inserted into the anus to measure pressures and electrical activity (electromyography or EMG). Subjects will be asked to sit on a commode, contract (squeeze) your anal muscles, blow into a balloon, and expel the paste into the commode.
+Link: https://clinicaltrials.gov/study/NCT03842007
 
 SUMMARY:
 
-## NCT03231241
-SunStar Project to Explore the Chronification Process in Headache Through Functional Imaging, Deep Phenotyping, and Analysis of CSF of Blood Products
+## NCT02140255
+Very Early Intensive Treatment of Infants Living With HIV to Achieve HIV Remission: A Phase I/II Proof of Concept Study
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03231241
+Intervention: : Nucleoside Reverse Transcriptase Inhibitors (NRTIs) — Chosen by the site investigator and dosed according to World Health Organization (WHO) or individual country or local standard guidelines.
+: Nevirapine (NVP) — Administered orally. Dosed according to study step/participant's age/participant's weight.
+: Lopinavir/Ritonavir (LPV/r) — Administered orally. Dosed according to study step and participant's age.
+: Raltegravir (RAL) — Administered orally. Dosed according to study step and participant's age.
+: VRC01 — 40 mg/kg administered subcutaneously.
+: Dolutegravir (DTG) — Dosed according to study step/participant's age/participant's weight
+: VRC07-523LS — 40 mg/kg administered subcutaneously.
+Link: https://clinicaltrials.gov/study/NCT02140255
+
+SUMMARY:
+
+## NCT04499833
+Evaluation of the HepatoPredict Prognostic Tool in the Decision of Liver Transplant in Hepatocellular Carcinoma
+
+Intervention: : liver transplant — liver transplant
+Link: https://clinicaltrials.gov/study/NCT04499833
+
+SUMMARY:
+
+## NCT04421560
+A Phase Ib/II Study of Pembrolizumab, Ibrutinib and Rituximab in Refractory/Relapsed Primary Central Nervous System Lymphoma (PCNSL)
+
+Intervention: : Ibrutinib — Capsule, taken by mouth daily
+: Pembrolizumab — Given as an intravenous injection through a vein (IV) every 3 weeks
+: Rituximab — Given as infusion into a vein (intravenous, IV)
+Link: https://clinicaltrials.gov/study/NCT04421560
+
+SUMMARY:
+
+## NCT02010866
+Reaching Out to Distressed Medical Residents, Fellows, and Faculty Through the OHSU Resident and Faculty Wellness Program Interactive Screening Program (ISP)
+
+Intervention: : counseling — in-person counseling through RFWP offered to distressed respondents on the ISP and others who seek counseling (due to other reasons for referral)
+Link: https://clinicaltrials.gov/study/NCT02010866
 
 SUMMARY:
 

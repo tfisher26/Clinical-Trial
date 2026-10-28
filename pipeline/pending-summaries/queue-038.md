@@ -3881,16 +3881,6 @@ Link: https://clinicaltrials.gov/study/NCT07616830
 SUMMARY:
 
 
-## NCT07243730
-Determination of the Early Postprandial Essential Amino Acid Bioavailability of Yogurt vs Milk A Randomized Controlled Clinical Trial in Healthy Volunteers - A Bioavailability Study -
-
-Intervention: : Full fat yogurt (fermented) — Test
-: Generic full fat pasteurized milk (non-fermented) — Control
-Link: https://clinicaltrials.gov/study/NCT07243730
-
-SUMMARY:
-
-
 ## NCT07093853
 Residual Ridge Changes in Mandibular Overdentures Retained by Four Locator Attachments Versus Four-Implant Bar Attachments: A 10-Year Retrospective Study
 

@@ -3395,14 +3395,6 @@ Link: https://clinicaltrials.gov/study/NCT06667492
 
 SUMMARY:
 
-## NCT07054723
-Daily Stress Process and Daily Cognitive Performance Among Racially Diverse Breast Cancer Survivors: A Feasibility and Validation Study
-
-Intervention: : Mobile Daily Diary — This study will include a 14-day daily diary survey in which participants will be expected to complete morning (\~5 minutes) and night (\~10 minutes) assessments using mobile phones provided by the research team.
-Link: https://clinicaltrials.gov/study/NCT07054723
-
-SUMMARY:
-
 ## NCT07266909
 Impact of Attentional Tunneling or the "Tunnel Effect" in Dentistry. Multi-centre Cross-sectional Study of a Population of French Practitioners.
 

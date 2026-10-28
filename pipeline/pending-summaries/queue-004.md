@@ -1432,15 +1432,6 @@ Link: https://clinicaltrials.gov/study/NCT07131241
 SUMMARY:
 
 
-## NCT07467265
-Rapid Shallow Index as Successfully Predictor of Outcome of Extubating
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07467265
-
-SUMMARY:
-
-
 ## NCT06789211
 Impact of Symptoms and Left Ventricular Systolic Function in Patients With Moderate Mixed Aortic Valve Disease
 

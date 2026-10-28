@@ -1659,16 +1659,6 @@ Link: https://clinicaltrials.gov/study/NCT07084701
 SUMMARY:
 
 
-## NCT05262010
-A Multicenter Randomized, Blinded, Placebo-controlled Phase III Clinical Trial Evaluating the Protective Efficacy, Safety and Immunogenicity of a 11-valent Recombinant Human Papillomavirus Vaccine (Hansenulapolymorpha) in Chinese Women Aged 9-45 Years
-
-Intervention: : 11-valent recombinant human papilloma virus vaccine (Hansenula polymorpha) — According to the 0, 2, and 6 months immunization program, intramuscular injection of the upper arm deltoid muscle, 3 doses of the experiment vaccine
-: placebo — According to the 0, 2, and 6 months immunization program, intramuscular injection of the upper arm deltoid muscle, 3 doses of the placebo
-Link: https://clinicaltrials.gov/study/NCT05262010
-
-SUMMARY:
-
-
 ## NCT07377682
 Observational Prospective Study in Patients With Major Depressive Disorder and Mild Cognition Impairment Treated With Trazodone in a Real-world Setting (TRACOMDD)
 

@@ -2465,15 +2465,6 @@ Link: https://clinicaltrials.gov/study/NCT06137664
 
 SUMMARY: Polio vaccines help eradicate polio worldwide. This study tests a novel live attenuated trivalent oral polio vaccine co administered with other vaccines in adults, children and newborns.
 
-## NCT06137755
-A Multicenter, Active-controlled, Open-label Phase I Study to Assess Safety and Tolerability and to Explore Immunogenicity of CVI-VZV-001 Vaccine in Healthy Adults Aged 50 to 64 Years
-
-Intervention: : CVI-VZV-001 — Investigational Product
-: Shingrix — Investigational Product
-Link: https://clinicaltrials.gov/study/NCT06137755
-
-SUMMARY: Shingles is caused by the varicella zoster virus. This study tests the CVI-VZV-001 vaccine in healthy adults aged 50 to 64.
-
 ## NCT06138067
 A Pilot Study of Low Versus High Intensity Patient Navigation Program to Improve the Enrollment on Clinical Trials Among Cancer Patients
 
@@ -12153,14 +12144,6 @@ Link: https://clinicaltrials.gov/study/NCT06356584
 
 SUMMARY: Colorectal cancer that has spread to the liver and progressed after two lines of treatment has few options. This study compares fruquintinib, a pill that blocks tumor blood vessel growth, plus the immunotherapy sintilimab, with or without radiation to the liver.
 
-## NCT06356727
-Microvascular Dysfunction Assessment to Predict Left Ventricular Reverse Remodeling in Idiopathic Dilated Cardiomyopathy
-
-Intervention: : Thermodilution based assessment of coronary microcirculation — Coronary microvascular assessment with the derivation of CFR, IMR and MRR will be performed using a standard pressure/thermodilution guidewire.
-Link: https://clinicaltrials.gov/study/NCT06356727
-
-SUMMARY:
-
 ## NCT06357182
 A Phase Ib Investigation of the LSD1 Inhibitor Iadademstat (ORY-1001) in Combination With Azacitidine and Venetoclax in Newly Diagnosed AML
 
@@ -13183,15 +13166,6 @@ An Open-Label, Multi-center Phase 1/2 Study Evaluating the Safety, Tolerability,
 
 Intervention: : 3HP-2827 — 3HP-2827 will be administered orally once daily in 28-day cycles.
 Link: https://clinicaltrials.gov/study/NCT06378593
-
-SUMMARY:
-
-## NCT06378619
-Machine Learning Analysis Of The Tapping Test And The Archimedean Spiral For The Differential Diagnosis Of Essential Tremor And Parkinson's Disease.
-
-Intervention: : Tapping Test — For the administration of the tapping test, a computer application installed on a Tablet will be used. The test will be administered up to 3 times, with a 15-minute interval between each administration. Each tapping test trial will last 15 seconds. At the beginning of the session, the patient will perform 2 practice attempts.
-: Archimedes Spiral — For the administration of the Archimedean spiral, a computer application installed on a Tablet will be used. The Tablet screen will display a drawing of the spiral, serving as a reference for the participant. The test will be administered up to 3 times, with a 15-minute interval between each administration. At the beginning of the session, the patient will perform 2 practice attempts.
-Link: https://clinicaltrials.gov/study/NCT06378619
 
 SUMMARY:
 

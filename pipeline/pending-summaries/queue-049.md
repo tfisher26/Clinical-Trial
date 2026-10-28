@@ -6258,19 +6258,6 @@ Link: https://clinicaltrials.gov/study/NCT07314281
 
 SUMMARY:
 
-## NCT07314346
-A Phase 1, Open-Label, Two-Part, Single-Sequence Study to Evaluate the Effect of Multiple Oral Doses of BEM/RZR FDC on the Pharmacokinetics of Buprenorphine/Naloxone or Methadone in Participants on Stable Maintenance Therapy for Opiate Withdrawal
-
-Intervention: : Buprenorphine/Naloxone + BEM/RZR — Day -5 to Day -1:buprenorphine/naloxone as individualized QD doses up to 24mg/6mg.
-
-Day 1 to Day 5:Individualized QD doses of buprenorphine/naloxone. Day 6 to Day 12:Individualized QD doses of buprenorphine/naloxone + BEM 550mg/RZR 180mg QD.
-
-Day 13 Individualized QD doses of buprenorphine/naloxone.
-: Methadone +BEM/RZR — Day -5 to Day -1:methadone individualized QD doses: 30-150mg. Day 1 to Day 5:Individualized QD does of methadone. Day 6 to Day 12:Individualized QD doses of methadone + BEM 550mg/RZR 180mg QD. Day 13 Individualized QD doses of methadone.
-Link: https://clinicaltrials.gov/study/NCT07314346
-
-SUMMARY:
-
 ## NCT07314450
 Procedural Sedation and Analgesia for Treatment of Adults With Fractures and Dislocations in the Emergency Department
 

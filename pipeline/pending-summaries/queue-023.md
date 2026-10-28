@@ -1037,15 +1037,6 @@ Link: https://clinicaltrials.gov/study/NCT07585409
 SUMMARY:
 
 
-## NCT07599462
-Designing and Evaluating Communication for Dual Users of E-cigarettes and Combustible Cigarettes
-
-Intervention: : communication — Participants view an image that is an ad designed to encourage them to quit their use of cigarettes and e-cigarettes.
-Link: https://clinicaltrials.gov/study/NCT07599462
-
-SUMMARY:
-
-
 ## NCT07426718
 An Expanded inVestigation of Inflammacheck™ to Measure Exhaled Breath CondensaTe Hydrogen perOxide in RespiratorY Conditions A Cross-sectional, Observational Study Comparing Exhaled Breath Biomarkers Across Respiratory Diseases and Healthy Volunteers.
 

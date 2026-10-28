@@ -2105,15 +2105,6 @@ Link: https://clinicaltrials.gov/study/NCT07442864
 SUMMARY:
 
 
-## NCT07319156
-Assessment of Upper Extremity Proprioception in Patients With Cervical Radiculopathy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07319156
-
-SUMMARY:
-
-
 ## NCT07443618
 Monitoring of Oedema in Cancer Patients - A Pilot Study
 

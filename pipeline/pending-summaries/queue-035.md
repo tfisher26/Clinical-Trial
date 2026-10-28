@@ -6184,15 +6184,6 @@ Link: https://clinicaltrials.gov/study/NCT07533773
 SUMMARY:
 
 
-## NCT07096154
-Improving Emotional Wellbeing of University Students Using Culturally Adapted Cognitive Behavioural Approaches in Group Settings" (UniWELL-C): Protocol of a Feasibility and Effectiveness Study
-
-Intervention: : Group CBT Anxiety Management — An 8-session Group Cognitive Behavioural Therapy for anxiety management.
-Link: https://clinicaltrials.gov/study/NCT07096154
-
-SUMMARY:
-
-
 ## NCT06585761
 Effect of Sodium Glucose Co-tansporter 2 Inhibitors (SGLT2I) on Inflammatory and Oxidative Stress Markers Level in Heart Failure Patients
 

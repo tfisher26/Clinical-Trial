@@ -1367,16 +1367,6 @@ Link: https://clinicaltrials.gov/study/NCT07675863
 SUMMARY:
 
 
-## NCT06257017
-Surveillance of the Genetic Signature in Circulating Tumor DNA for Guiding Adjuvant Chemotherapy in Urothelial Carcinoma: A Pilot Randomized Controlled Trial
-
-Intervention: : gemcitabine — 1,000 mg/m2 intravenous gemcitabine on day 1 and day 8
-: Cisplatin — 70 mg/m2 intravenous cisplatin (split into 2 doses on day 1 and day 8)
-Link: https://clinicaltrials.gov/study/NCT06257017
-
-SUMMARY:
-
-
 ## NCT06902415
 Research on the Application of Quantitative Digital Subtraction Angiography Hemodynamic Analysis Platform in Cerebrovascular Diseases
 

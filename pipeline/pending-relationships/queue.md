@@ -102956,3 +102956,97 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT00682513
+Clinical, Genetic, and Cellular Consequences of Mutations in the NA,K-ATPase ATP1A3
+Conditions: neurological/parkinsonian_disorders, other/dystonia
+
+Inclusion criteria:
+"""
+* clinical presentation consistent with ATP1A3 disease (RDP, AHC) or confirmed diagnosis of RDP or AHC
+"""
+
+RELATIONSHIP:
+
+## NCT04886804
+Beamion LUNG-1: An Open Label, Phase I Dose Escalation Trial, With Dose Confirmation and Expansion, of Zongertinib (BI 1810631) as Monotherapy in Patients With Advanced or Metastatic Solid Tumors With HER2 Aberrations
+Conditions: cancer/carcinoma_non_small_cell_lung, cancer/neoplasm_metastasis
+
+Inclusion criteria:
+"""
+* Histologically or cytologically confirmed diagnosis of an advanced, unresectable and/or metastatic non-haematologic malignancy. Patient must show presence of at least one measurable lesion according to Response Evaluation Criteria In Solid Tumors (RECIST) 1.1.
+* Eastern Cooperative Oncology Group (ECOG) score of 0, 1 or 2 (ECOG=2 only for Cohorts 6, 7 and 9) .
+* Availability and patient willingness to provide a sample of tumour for confirmation of the patient´s Human epidermal growth factor receptor 2 (HER2) status. This sample can be archival material obtained at any time prior to study enrollment.
+* Patient willing and able to comply with the protocol requirements for tumour biopsies (biopsies from brain metastases are not allowed).
+* Adequate organ function defined as all of the following:
+
+  * Absolute neutrophil count (ANC) ≥ 1.5 x 10\^9/L (≥ 1.5 x 10\^3/μL) (≥ 1500/mm\^3); haemoglobin ≥ 9.0 g/dL (≥ 90 g/L) (≥ 5.6 mmol/L); platelets ≥ 100 x 10\^9/L (100 x 10\^3/μL) (100 x 10\^3/mm3) without the use of hematopoietic growth factors within 4 weeks of start of trial medication.
+  * Total bilirubin ≤ 1.5 times the upper limit of normal (ULN), except for patients with Gilbert's syndrome: total bilirubin ≤ 3 x ULN or direct bilirubin ≤ 1.5 x ULN.
+  * Estimated Glomerular Filtration Rate (eGFR) ≥ 50 mL/min - calculated using Chronic Kidney Disease Epidemiology (CKD-EPI) formula (≥ 30 mL/min/1.73m² for cohorts 6, 8, and 9).
+  * Aspartate transaminase (AST) and alanine transaminase (ALT) ≤ 3 x ULN if no demonstrable liver metastases, or otherwise ≤ 5 x ULN if transaminase elevation is attributable to liver metastases.
+  * Alkaline Phosphatase \< 5 x ULN.
+* Recovered from any previous therapy-related toxicity to ≤ Common Terminology Criteria for Adverse Events (CTCAE) Grade 1 at start of treatment (except for alopecia, stable sensory neuropathy and hypothyroidism (patients on thyroid replacement therapy) which must be ≤ CTCAE Grade 2)
+* Life expectancy of at least 12 weeks at the start of treatment in the opinion of the investigator.
+* At least 18 years of age at the time of consent or over the legal age of consent in countries where that is greater than 18 years.
+* Signed and dated written informed consent in accordance with International Council on Harmonisation-Good Clinical Practice (ICH-GCP) and local legislation prior to admission to the trial.
+* Male or female patients. Women of childbearing potential (WOCBP) and men who are able to father a child must be ready and able to use highly effective methods of birth control per International Council on Harmonisation (ICH) M3 (R2) that result in a low failure rate of less than 1% per year when used consistently and correctly.
+
+Additional inclusion criteria for Phase Ia
+
+* Patients with a documented diagnosis of HER2 aberration: overexpression OR gene amplification OR non-synonymous somatic mutation OR gene rearrangement involving HER2 or Neuregulin 1 (NRG1)
+* Patient who has failed conventional treatment or for whom no therapy of proven efficacy exists or who is not eligible for established treatment options. Patient must have exhausted, or not be a suitable candidate for, available treatment options known to prolong survival for their disease
+
+Additional inclusion criteria for Phase Ib - Cohort 1 only
+
+* Non-squamous non-small cell lung cancer (NSCLC) patients with documented human epidermal growth factor receptor 2 (HER2) mutation in the tyrosine kinase domain (TKD) as per local lab results.
+* Patient who had received, in the advanced/metastatic setting, at least one line of systemic therapy. Patients with non-squamous NSCLC harboring additionally genomic aberrations for which approved targeted therapy is available as standard of care, must have received prior treatment with an approved targeted therapy.
+
+Additional inclusion criteria for Phase Ib - Cohort 2 only
+
+* Non-squamous NSCLC patient with a documented HER2 mutation in the tyrosine kinase domain (TKD) as per local lab results.
+* Treatment naïve for non-squamous NSCLC.
+
+Additional inclusion criteria for Phase Ib - Cohort 3 only
+
+* NSCLC Patient with a documented HER2 mutation outside of the tyrosine kinase domain (TKD) as per local lab results or squamous NSCLC patient with mutation in the TKD as per local lab results. After implementation of CTP v8, only non-squamous NSCLC patients with a documented activating HER2 mutation outside of the tyrosine kinase domain (TKD) as per local lab results.
+* Patient who had received, in the advanced/metastatic setting, at least one line of systemic therapy. Patients with NSCLC harboring additionally genomic aberrations for which approved targeted therapy is available as standard of care, must have received prior treatment with an approved targeted therapy. After implementation of CTP v8, patients who had received, in the advanced/metastatic setting, at least one line of systemic therapy OR patients who are treatment naïve for non-squamous NSCLC (no prior systemic therapy, immunotherapy or targeted therapy for stage IIIB or IV adenocarcinoma).
+
+Additional inclusion criteria for Phase Ib - Cohort 4 only
+
+* NSCLC patients with documented HER2 mutation in the TKD as per local lab results.
+* NSCLC patients who are either treatment naïve or who had received any prior line of treatment, in the advanced/metastatic setting. Patients with NSCLC harboring additional genomic aberrations for which approved targeted therapy is available as standard of care, must have received prior treatment with an approved targeted therapy.
+* Patient with active brain metastases who are not eligible for immediate local therapy, as per investigator evaluation.
+
+Additional inclusion criteria for Phase Ib - Cohort 5 only
+
+* Non-squamous NSCLC patients with documented HER2 mutation in the TKD as per local lab results.
+* Patient should have received, in the advanced/metastatic setting, at least one line of systemic therapy that includes a platinum-based combination chemotherapy and should have been treated with previous HER2 directed antibody-drug conjugates (ADC) in the same advanced/metastatic setting and developed disease progression recurrence during or after completing this therapy. Patients with NSCLC harboring additional genomic aberrations for which approved targeted therapy is available as standard of care, must have received prior treatment with an approved targeted therapy.
+
+Additional inclusion criteria for Phase Ib - Cohort 6 only
+
+* Non-squamous NSCLC patient with documented HER2 mutation in the TKD as per local lab results.
+* Patient who had received, in the advanced/metastatic setting, at least one line of systemic therapy.
+* Patient without active brain metastases or patient with active brain metastases who are not eligible for immediate local therapy, as per investigator evaluation.
+* Patient who is not eligible for any other recruiting cohort.
+
+Additional inclusion criteria for Phase Ib - Cohort 7 only
+
+* Non-squamous NSCLC patient with documented HER2 mutation in the TKD as per local lab results.
+* Patient who had received, in the advanced/metastatic setting, at least one line of systemic therapy.
+* Patient without active brain metastases or patient with active brain metastases who are not eligible for immediate local therapy, as per investigator evaluation.
+* Patient who is not eligible for any other recruiting cohort.
+
+Additional inclusion criteria for Phase Ib - Cohort 8 only
+
+* Treatment naïve for NSCLC
+* NSCLC (adenocarcinoma or squamous) patient with documented HER2 mutation in the tyrosine kinase domain (TKD) or non-squamous NSCLC with a documented HER2 mutation in the non tyrosine kinase domain (non TKD) as per local lab results
+
+Additional inclusion criteria for Phase Ib - Cohort 9 only
+
+* Non-squamous NSCLC patient with documented HER2 mutation in the TKD as per local lab results.
+* Patient who had received, in the advanced/metastatic setting, at least one line of systemic therapy. Patients with NSCLC harboring additionally genomic aberrations for which approved targeted therapy is available as standard of care, must have received prior treatment with an approved targeted therapy.
+
+Further inclusion criteria apply.
+"""
+
+RELATIONSHIP:
+
