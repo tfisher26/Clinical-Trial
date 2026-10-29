@@ -1586,15 +1586,6 @@ Link: https://clinicaltrials.gov/study/NCT07586709
 
 SUMMARY:
 
-## NCT07723924
-A Phase 2b, Randomized, Double-blind, Placebo-controlled, Parallel Group Study of the Efficacy and Safety of Plecanatide in Children and Adolescents Age 6 to <18 Years of Age With Functional Constipation (FC)
-
-Intervention: : plecanatide — Plecanatide is administered orally once daily for 8 weeks. Participants receive weight-based dosing corresponding to assigned treatment arm (low-dose or high-dose) to achieve target exposure ranges. Tablets may be taken with or without food and may be swallowed whole or administered in an alternative form if necessary, as specified in the protocol.
-: Placebo — Placebo tablets matching plecanatide in appearance are administered orally once daily for 8 weeks. Placebo is used to maintain blinding and is administered under the same conditions as active study drug.
-Link: https://clinicaltrials.gov/study/NCT07723924
-
-SUMMARY:
-
 ## NCT07855913
 Endoscopic Ultrasound-Guided Coil and Glue Injection Versus Endoscopic Glue Injection in Patients With Cirrhosis and Gastric Variceal Bleed: An Open Label Randomized Controlled Trial
 

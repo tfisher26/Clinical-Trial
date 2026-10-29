@@ -1604,16 +1604,6 @@ Link: https://clinicaltrials.gov/study/NCT05740696
 SUMMARY:
 
 
-## NCT06904365
-Ovarian-Sparing Adaptive Radiotherapy in Young Adult Women (OvAR-Y): an In-Silico Feasibility Trial
-
-Intervention: : HyperSight cone beam computed tomography (CBCT) scan — HyperSight is a novel onboard imaging platform with a rapid-acquisition high-quality CBCT imager capable of acquiring images sufficient for simulation and treatment.
-: ETHOS 2.0 — ETHOS 2.0, an artificial intelligence treatment planning system, will be utilized in an emulator to create SCRT plans to determine the feasibility of clinically significant ovarian dose reductions in-silico.
-Link: https://clinicaltrials.gov/study/NCT06904365
-
-SUMMARY:
-
-
 ## NCT07116720
 The Effect of Unloading Maneuvers During Spinal Flexion Exposure
 

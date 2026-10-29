@@ -681,12 +681,3 @@ Link: https://clinicaltrials.gov/study/NCT04631042
 
 SUMMARY:
 
-
-## NCT07414251
-Evaluation of the Preoperative Preparation for Pediatric Cardiac Surgery and Pediatric Cardiac Catheterization Procedures
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07414251
-
-SUMMARY:
-

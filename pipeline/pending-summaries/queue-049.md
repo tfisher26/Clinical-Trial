@@ -1312,14 +1312,6 @@ Link: https://clinicaltrials.gov/study/NCT07249398
 
 SUMMARY:
 
-## NCT07249567
-Comparison of Respiratory and Peripheral Muscle Strength, Exercise Capacity, and Muscle Oxygenation in Individuals With COPD and PRISM
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07249567
-
-SUMMARY:
-
 ## NCT07249671
 Effects of Rope Skipping in Cardiopulmonary Fitness in School Going Children
 
@@ -7153,16 +7145,6 @@ Link: https://clinicaltrials.gov/study/NCT07325708
 
 SUMMARY:
 
-## NCT07325812
-Evaluation of the Effects of Periodic Recruitment Maneuvers on Atelectasis and Respiratory Mechanics in Elective Spine Surgery Using Lung Ultrasonography
-
-Intervention: : Alveolar Recruitment Maneuver — Alveolar recruitment maneuvers will be performed under general anesthesia using standard mechanical ventilation techniques within routine clinical safety limits. After prone positioning, a baseline recruitment maneuver will be applied by stepwise increasing positive end-expiratory pressure (PEEP) from 8 cmH₂O to 10 cmH₂O and 15 cmH₂O while maintaining an upper airway pressure limit of ≤30 cmH₂O for approximately 10 seconds. Following the maneuver, mechanical ventilation will continue with a PEEP level of approximately 8 cmH₂O according to routine clinical practice.
-
-In the periodic recruitment group, additional recruitment maneuvers will be repeated approximately once per hour during the intraoperative period. In the standard recruitment group, no additional intraoperative maneuvers will be applied apart from a final recruitment maneuver performed before extubation as part of routine anesthetic care.
-Link: https://clinicaltrials.gov/study/NCT07325812
-
-SUMMARY:
-
 ## NCT07325851
 Prospective and Observational Study of Patients Referred to the Chronic Pain Unit for Palliative Treatment With Ozone Therapy Between 2026 and 2029. Prospective Study EPOOzo-2.
 
@@ -9459,14 +9441,6 @@ A Multicenter, Open Label Study to Investigate the Safety and Efficacy of Ponesi
 
 Intervention: : Ponesimod — Oral Tablet
 Link: https://clinicaltrials.gov/study/NCT07362017
-
-SUMMARY:
-
-## NCT07362043
-Assessment of a Hand-held Femtosecond Laser to Perform Anterior Capsulorhexis During Cataract Surgery (Post-market Study)
-
-Intervention: : Cataract surgery with Rx, a handheld femtosecond laser for anterior capsulotomy (CE-marked device used as intended) — Cataract surgery with Rx, a handheld femtosecond laser for anterior capsulotomy
-Link: https://clinicaltrials.gov/study/NCT07362043
 
 SUMMARY:
 

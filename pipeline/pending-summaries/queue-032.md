@@ -5985,16 +5985,6 @@ Link: https://clinicaltrials.gov/study/NCT06126627
 SUMMARY:
 
 
-## NCT05417867
-Associations of Fatigue and Chemotherapy-Induced Nausea With Changes in Gut Microbiome Composition Profiles
-
-Intervention: : Biospecimen Collection — Undergo collection of stool and blood samples
-: Questionnaire Administration — Complete questionnaires
-Link: https://clinicaltrials.gov/study/NCT05417867
-
-SUMMARY:
-
-
 ## NCT07067749
 Treatment Expedition With MRI Processing and Optimization for Muscle Invasive Bladder Cancer
 

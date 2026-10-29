@@ -3310,19 +3310,6 @@ Link: https://clinicaltrials.gov/study/NCT06745076
 SUMMARY:
 
 
-## NCT06406179
-Randomized Controlled Multicenter Trial to Evaluate the Efficacy and Safety of Dd-cfDNA in Routine Patient Care in Kidney Transplant Recipients
-
-Intervention: : dd-cfDNA-guided — In groups I and II, the blood sample for dd-cfDNA assay will be taken on D0, just prior to transplantation, for all patients.
-
-in addition, for patients following a dd-cf DNA-guided strategy based on dd-cf DNA ; samples for dd-cf DNA assay will be taken at M3 and M12 visits and at visits for clinical indication (5 maximum) and the blood will be sent to the PARCC technical platform of INSERM UMR 970. By combining the dd-cfDNA level and relevant medical data, an integration report will be sent to the centers to stratify patients into high-risk or low-risk rejection profiles.
-
-If the patient is classified in the "low risk of rejection" subgroup, he may decide not to perform the biopsy. If the patient is classified in the "high risk of rejection" subgroup, he may decide to perform the biopsy within 15 days of the sample being taken. the decision to perform the biopsy is left to the discretion of the physician.
-Link: https://clinicaltrials.gov/study/NCT06406179
-
-SUMMARY:
-
-
 ## NCT07588256
 New Taipei City 888 Digital Medical AI Platform for the Prevention and Treatment of the Three Highs (Hypertension, Hyperglycemia, Hyperlipidemia) and Cardio-Renal-Vascular Diseases: Validation and Implementation Through Large-Scale Cluster Randomized Clinical Trials: T-888-DIGICARE-DREAM
 

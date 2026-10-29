@@ -820,15 +820,6 @@ Link: https://clinicaltrials.gov/study/NCT06307184
 SUMMARY:
 
 
-## NCT07093801
-Real-world Experience of Lutetium (177Lu) Vipivotide Tetraxetan in Metastatic Castration Resistant Prostate Cancer, an Observational, National, Multicenter, Prospective Cohort Study (PLU4REAL).
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07093801
-
-SUMMARY:
-
-
 ## NCT06754345
 68Ga-NK224 PET Imaging of PD-L1 Expression in Cancers
 

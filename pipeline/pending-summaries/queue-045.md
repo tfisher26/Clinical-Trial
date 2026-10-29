@@ -4492,15 +4492,6 @@ Link: https://clinicaltrials.gov/study/NCT06187025
 
 SUMMARY:
 
-## NCT06187077
-Techquity by FAITH!: A Cluster Randomized Controlled Trial To Assess the Efficacy of a Community-informed, Cardiovascular Health Promotion Mobile Intervention With Digital Health Advocate Support
-
-Intervention: : DHA-Enhanced FAITH! App — This group of participants will follow an 11-week guided intervention with the FAITH! App. Weekly educational modules provide information on components of cardiovascular health (CVH). Participants are given a Fitbit to track physical activity, which will automatically synch to the app and will be asked to track their daily fruit and vegetable intake on the app. DHAs will promote CVH and digital health readiness as peer mentors by guiding participants through the educational modules and encouraging use of the additional interactive app features. During the guided intervention phase, they will facilitate weekly visits with participants in their church, which will follow the FAITH! App modules and integrate a digital health topic. Following the 11-week guided intervention, participants will have a 12-month maintenance phase with access to use the app as they wish.
-: FAITH! App — This group of participants will follow an 11-week guided intervention with the FAITH! App. Each week, an educational module is completed in the app, which provides information on a component of cardiovascular health. Participants will be given a Fitbit to track their physical activity, which will automatically synch to the app, and will be asked to track their daily fruit and vegetable intake on the app as well. Following the 11-week guided intervention, participants will have a 12-month maintenance phase in which they will have access to use the app as they wish.
-Link: https://clinicaltrials.gov/study/NCT06187077
-
-SUMMARY: Heart disease risk is high in many faith communities, and technology can help. This study tests Techquity by FAITH, a community informed digital program to promote cardiovascular health.
-
 ## NCT06187311
 A Randomized, Open-labelled, Investigator-initiated Clinical Trial to Evaluate Efficacy and Safety of Rivaroxaban 15mg and 20mg in Patients With Non-valvular Atrial Fibrillation
 

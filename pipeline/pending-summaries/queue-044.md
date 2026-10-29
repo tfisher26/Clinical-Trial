@@ -14747,15 +14747,6 @@ Link: https://clinicaltrials.gov/study/NCT06003556
 
 SUMMARY:
 
-## NCT06003621
-A Single Arm, Open-label, Phase II Signal-seeking Trial of Tiragolumab and Atezolizumab in Patients With Advanced Solid Tumours.
-
-Intervention: : Tiragolumab — 600mg IV every 21 days from Cycle 1 Day 1
-: Atezolizumab — 1,200mg IV every 21 days from Cycle 2 Day 1
-Link: https://clinicaltrials.gov/study/NCT06003621
-
-SUMMARY: Advanced solid tumors need new treatment options. This study tests tiragolumab combined with atezolizumab to look for signs of benefit.
-
 ## NCT06003634
 Older Adults Using Social Support to Improve Self-Care: Adaptation, Implementation, and Feasibility of Peer Support for Older Adults With T2DM in Appalachia.
 

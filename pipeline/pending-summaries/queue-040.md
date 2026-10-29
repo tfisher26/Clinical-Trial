@@ -2841,15 +2841,6 @@ Link: https://clinicaltrials.gov/study/NCT05196789
 SUMMARY:
 
 
-## NCT06499844
-Comparing Approaches to Assess Nitric Oxide-dependent Cutaneous Vasodilation
-
-Intervention: : Acetylcholine — acetylcholine, and acetylcholine + L-NAME (Nitric oxide synthase inhibitor) are locally and acutely delivered to the cutaneous microvasculature to assess endothelium- and nitric oxide-dependent dilation
-Link: https://clinicaltrials.gov/study/NCT06499844
-
-SUMMARY:
-
-
 ## NCT06535074
 Differentiating Pathophysiological Mechanisms of Hypoxemia Episodes by Continuous Lung Function Monitoring in Preterm Infants
 
@@ -2913,15 +2904,6 @@ The Oxford Risk Factors And Non-Invasive Imaging Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05169333
-
-SUMMARY:
-
-
-## NCT06527742
-Correlations of Body Composition Measures with Functional Outcomes and the Clinical Frailty Scale in Inpatient Rehabilitation: a Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06527742
 
 SUMMARY:
 
@@ -3231,16 +3213,6 @@ Obstacle course:
 
   4\. Post intervention assessment by tool MHA will use.
 Link: https://clinicaltrials.gov/study/NCT07244120
-
-SUMMARY:
-
-
-## NCT07352579
-From Screening to Support: A Multi-Method Analysis of HRSN Integration in Cancer Care
-
-Intervention: : Survey — Participants complete a one-time electronic survey to assess factors influencing the decision to decline assistance for identified Health-Related Social Needs (HRSNs). The survey includes questions related to transportation access, food insecurity, housing instability, and utility needs. Survey completion takes approximately 10 minutes.
-: Interview — Interviews will be semi-structured and will be offered to 20 participants who have completed the survey and meet eligibility criteria. Interviews will be conducted via a Zoom. Zoom will create a transcription of the interview which will be saved in a secure encrypted space, no video will be saved.
-Link: https://clinicaltrials.gov/study/NCT07352579
 
 SUMMARY:
 

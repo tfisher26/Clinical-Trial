@@ -449,15 +449,6 @@ Link: https://clinicaltrials.gov/study/NCT07144176
 SUMMARY:
 
 
-## NCT07287618
-Clinical Evaluation of Potassium and Ionized Calcium Tests Using the i-STAT CG8+ Cartridge With the i-STAT 1 Analyzer for Capillary Specimens
-
-Intervention: : Blood draw — Capillary whole blood specimens collected from fingerstick(s) from each enrolled subject using blood collection capillary tubes.
-Link: https://clinicaltrials.gov/study/NCT07287618
-
-SUMMARY:
-
-
 ## NCT07201025
 Imaging Assessments of ARPKD Kidney Disease Progression
 

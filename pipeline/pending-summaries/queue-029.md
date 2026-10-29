@@ -380,16 +380,6 @@ Link: https://clinicaltrials.gov/study/NCT07504367
 SUMMARY:
 
 
-## NCT04966351
-Time-restricted Feeding to Mitigate Metabolic Impairments During Circadian Misalignment
-
-Intervention: : Time-restricted feeding — Each subject will participate in both conditions (CM and CM+TRF)--one in which food is allowed during the nighttime period and one in which food will be restricted to the daytime only. Food intake will be matched across conditions and designed to keep participants weight stable.
-: Circadian Misalignment — Healthy lean subjects will undergo circadian misalignment induced using a simulated night shift-work protocol in both conditions of the study. Each condition will last approximately 6 days.
-Link: https://clinicaltrials.gov/study/NCT04966351
-
-SUMMARY:
-
-
 ## NCT06322290
 Epidemiological Study on Invasive Bacterial Diseases (IBD)
 

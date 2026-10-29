@@ -348,15 +348,6 @@ Link: https://clinicaltrials.gov/study/NCT07299565
 SUMMARY:
 
 
-## NCT05640700
-Assessing Personalized Vaginal Microbiome Contributions to HPV-driven Pre-malignant and Malignant Cervical Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05640700
-
-SUMMARY:
-
-
 ## NCT07589114
 REM Enhancement Sleep Technology for Well-being, Emotion, and Life Lift
 

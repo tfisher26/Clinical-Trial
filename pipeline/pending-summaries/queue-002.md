@@ -3317,15 +3317,6 @@ Link: https://clinicaltrials.gov/study/NCT07697404
 
 SUMMARY:
 
-## NCT07697560
-A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Dose Escalation Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of AH-008 Following Single Ascending Dose Administration in Healthy Subjects
-
-Intervention: : AH-008 for Injection, 150 mg — Lyophilized powder
-: AH-008 for Injection, Placebo — Lyophilized powder
-Link: https://clinicaltrials.gov/study/NCT07697560
-
-SUMMARY:
-
 ## NCT07697599
 A Master Protocol for a Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of REGN7508 and REGN9933, Monoclonal Antibodies Against Factor XI, for Prophylaxis of Venous Thromboembolism in Participants With a Peripherally Inserted Central Catheter (PICC) (ROXI-PEAK)
 
@@ -5548,14 +5539,6 @@ Effects of Supervised Intradialytic Exercise Program on Postural Abnormalities i
 
 Intervention: : Supervised Intradialytic Multimodal Exercise Program — Exercises include thoracic extension, scapular retraction, deep cervical flexor activation, pectoral stretching, seated rowing, shoulder external rotation, seated knee extension, hip flexion, ankle pumps, and cycle ergometry. Resistance exercises will be performed for 1-3 sets of 10-15 repetitions and progressed every two weeks according to RPE, tolerance, and absence of adverse symptoms. Exercise will be stopped if the participant develops chest pain, severe dyspnea, dizziness, nausea, muscle cramps, pallor, arrhythmia, systolic blood pressure \>180 mmHg or \<90 mmHg, diastolic blood pressure \>110 mmHg, oxygen saturation \<90%, or any symptom judged unsafe by the supervising clinician.
 Link: https://clinicaltrials.gov/study/NCT07720401
-
-SUMMARY:
-
-## NCT07720531
-Smart Normal Labor From Healthcare Providers' Perspective: Evaluating Clinical Decision-Making Speed, Diagnostic Accuracy, Satisfaction, and Experience Using an AI-Based Mobile Application
-
-Intervention: : The intervention group — participants who actively use the AI application during labor management,
-Link: https://clinicaltrials.gov/study/NCT07720531
 
 SUMMARY:
 
@@ -18100,103 +18083,110 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT04359069
-Optimal Duration of Urinary Catheterization After Total Mesorectal Excision
+## NCT04501120
+A Phase Ib Study of the Safety, Pharmacokinetic of Lisaftoclax (APG-2575) Single Agent and in Combination With Homoharringtonine or Azacitidine in Patients With Relapsed/Refractory AML
 
-Intervention: : Urinary catheter removal on postoperative day 1 — Urinary catheter will be removed on day 1 (experimental) instead of day 3 (standard of care).
-: Urinary catheter removal on postoperative day 3 — Urinary catheter will be removed on day 3 (standard of care)
-Link: https://clinicaltrials.gov/study/NCT04359069
-
-SUMMARY:
-
-## NCT02485847
-IRIS Registry: Intelligent Research in Sight Registry
-
-Intervention: : Ophthalmology — A registry of ophthalmic ambulatory encounters which captures essential data elements for continuous quality improvement efforts, enhanced patient care outcomes, and pay for performance programs.
-Link: https://clinicaltrials.gov/study/NCT02485847
+Intervention: : Lisaftoclax (APG-2575) — Lisaftoclax (APG-2575) orally once daily, every 28 days as a cycle.
+: Reduced-dose HHT — 1mg IV QD on Days 1-14 (28-day cycle).
+: standard-dose HHT — 2mg/m\^2 IV QD on Days 1-7 (28-day cycle).
+: Azacitidine — 75 mg/m\^2 SC or Iv gtt QD on Days 1- 7 (28-day cycle).
+: Lisaftoclax (APG-2575) — Lisaftoclax (APG-2575) orally once daily for 14 days, every 28 days as a cycle.
+: olverembatinib — orally, with meals, QOD, every 28 days as a cycle.
+Link: https://clinicaltrials.gov/study/NCT04501120
 
 SUMMARY:
 
-## NCT03414827
-Genetic Evaluation of Renal Cell Carcinoma; Predicting Biomarkers for Renal Cell Carcinoma
+## NCT02328131
+European Registry on the Management of Helicobacter Pylori Infection
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03414827
+Link: https://clinicaltrials.gov/study/NCT02328131
 
 SUMMARY:
 
-## NCT03025477
-Randomized Study Assessing Two Strategies of First Line: a Strategy With Intraperitoneal Chemotherapy and a Strategy With Total Intravenous Strategy, in Patients With Epithelial Advanced Ovarian Cancer
+## NCT01732523
+Predictive Value of Carotid Lesion Neovascularization Detected by Contrast-enhanced Ultrasound (CEUS) in Patients With Asymptomatic Carotid Stenosis
 
-Intervention: : CC0 - Carboplatin (IV) - Paclitaxel (IV) — (6 cycles)
-: CC0 - Cisplatin (IP) - Epirubicin (IV) — (6 cycles)
-: CC>0 - Carboplatin (IV)- Paclitaxel (IV) — * carboplatin (IV) - paclitaxel (IV) (3 cycles)
-* Interval surgery
-* Carboplatin (IV) - paclitaxel (IV) (3 cycles)
-: CC>0 - Cisplatin (IP/IV)- Epirubicin (IV) — * Cisplatin (IV) - Epirubicin (IV) (3 cycles)
-* Interval surgery :
-
-  * if CC0: Cisplatin (IP) - Epirubicin (IV) (3 cycles)
-  * if CC\>0 Cisplatin (IV)- Epirubicin (IV) (3 cycles)
-Link: https://clinicaltrials.gov/study/NCT03025477
+Intervention: : Contrast enhanced carotid ultrasound
+Link: https://clinicaltrials.gov/study/NCT01732523
 
 SUMMARY:
 
-## NCT03353467
-A Prospective Clinical Trial of Endoscopic Nasopharyngectomy for Newly Diagnosed Stage I Nasopharyngeal Carcinoma Patients
+## NCT04004286
+Defense and Veterans Center for Integrative Pain Management (DVCIPM)Pain Registry Biobank
 
-Intervention: : Endoscopic surgery — Endoscopic nasopharyngectomy included endoscopic resection, with or without posterior pedicle nasal mucoperiosteal flap resurfacing the nasopharyngeal defects.
-: Intensity-modulated radiotherapy — All of the patients were received irradiation by IMRT. The target volumes were delineated according to a previously described institutional treatment protocol, which is in accordance with the International Commission on Radiation Units and Measurements reports 50 and 62.
-Link: https://clinicaltrials.gov/study/NCT03353467
-
-SUMMARY:
-
-## NCT03842007
-Understanding Mechanisms of Normal and Disordered Defecation
-
-Intervention: : Rectal Barostat Study — Contractions will be recorded with a balloon inserted into the rectum and inflated
-: Fecoflowmetry — Rectum will be filled with a small amount of paste.Two thin catheters will be inserted into the anus to measure pressures and electrical activity (electromyography or EMG). Subjects will be asked to sit on a commode, contract (squeeze) your anal muscles, blow into a balloon, and expel the paste into the commode.
-Link: https://clinicaltrials.gov/study/NCT03842007
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT04004286
 
 SUMMARY:
 
-## NCT02140255
-Very Early Intensive Treatment of Infants Living With HIV to Achieve HIV Remission: A Phase I/II Proof of Concept Study
+## NCT00107289
+Open Access Protocol of Targeted Radiotherapy With I-metaiodobenzylguanidine (I-MIBG) in Patients With Resistant Neuroblastoma or Malignant Chromaffin Cell Tumors
 
-Intervention: : Nucleoside Reverse Transcriptase Inhibitors (NRTIs) — Chosen by the site investigator and dosed according to World Health Organization (WHO) or individual country or local standard guidelines.
-: Nevirapine (NVP) — Administered orally. Dosed according to study step/participant's age/participant's weight.
-: Lopinavir/Ritonavir (LPV/r) — Administered orally. Dosed according to study step and participant's age.
-: Raltegravir (RAL) — Administered orally. Dosed according to study step and participant's age.
-: VRC01 — 40 mg/kg administered subcutaneously.
-: Dolutegravir (DTG) — Dosed according to study step/participant's age/participant's weight
-: VRC07-523LS — 40 mg/kg administered subcutaneously.
-Link: https://clinicaltrials.gov/study/NCT02140255
+Intervention: : iobenguane I 131 — A single dose of iodine I 131 metaiodobenzylguanidine (\^131I-MIBG) IV over 30 minutes to 4 hours or for 15 minutes for smaller patients on day 0. Patients undergo radiation dosimetry following the first dose of \^131I-MIBG to determine if a second dose can be safely administered. Some patients may receive a second dose of iodine I 131 metaiodobenzylguanidine (\^131I-MIBG) 6-8 weeks after the first dose. In some scenarios, extended time will be allowed before the second dose of 131I-MIBG for additional recovery and possible bridging therapy. If response is achieved and patients do not experience major toxicity. After blood radioactivity has fallen below 1 μCi/mL, patients may undergo autologous stem cell transplantation. After completion of study treatment, patients are followed at 4-6 weeks after \^131I-MIBG administration and then every 3 months for up to 1 year. Once patients are off treatment on this protocol, they will begin long term follow up through 5 years from enrollment.
+Link: https://clinicaltrials.gov/study/NCT00107289
 
 SUMMARY:
 
-## NCT04499833
-Evaluation of the HepatoPredict Prognostic Tool in the Decision of Liver Transplant in Hepatocellular Carcinoma
+## NCT04475289
+Registry for Invasive and Non-invasive Anatomical Assessment and Outcome of Coronary Artery Anomalies
 
-Intervention: : liver transplant — liver transplant
-Link: https://clinicaltrials.gov/study/NCT04499833
-
-SUMMARY:
-
-## NCT04421560
-A Phase Ib/II Study of Pembrolizumab, Ibrutinib and Rituximab in Refractory/Relapsed Primary Central Nervous System Lymphoma (PCNSL)
-
-Intervention: : Ibrutinib — Capsule, taken by mouth daily
-: Pembrolizumab — Given as an intravenous injection through a vein (IV) every 3 weeks
-: Rituximab — Given as infusion into a vein (intravenous, IV)
-Link: https://clinicaltrials.gov/study/NCT04421560
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT04475289
 
 SUMMARY:
 
-## NCT02010866
-Reaching Out to Distressed Medical Residents, Fellows, and Faculty Through the OHSU Resident and Faculty Wellness Program Interactive Screening Program (ISP)
+## NCT03750227
+Pre-Operative vs. Post-Operative Stereotactic Radiosurgery for Operative Metastatic Brain Tumors
 
-Intervention: : counseling — in-person counseling through RFWP offered to distressed respondents on the ISP and others who seek counseling (due to other reasons for referral)
-Link: https://clinicaltrials.gov/study/NCT02010866
+Intervention: : Conventional Surgery — Undergo surgery
+: Questionnaire Administration — Ancillary studies
+: Stereotactic Radiosurgery — Undergo stereotactic radiosurgery
+: Computed Tomography — Undergo CT
+: Magnetic Resonance Imaging — Undergo MRI
+: Biospecimen Collection — Undergo blood sample, tissue and CSF sample collection
+Link: https://clinicaltrials.gov/study/NCT03750227
+
+SUMMARY:
+
+## NCT03997110
+Rapid Palliation in Locally Advanced Cervical Cancer: A Phase III Randomized Trial
+
+Intervention: : Short course palliative radiation. — Week 1: Patients in the experimental arm will be treated with short course radiotherapy (25Gy/5#). The dose fractionation of 25 Gy in 5# over a week will be used. Week 4: Patients who have almost complete clinical response will be evaluated for brachytherapy will receive the appropriate brachytherapy procedure depending on the tumor response to a dose of 6-8Gy x 2-3#. The patients who will be found unsuitable for brachytherapy will be kept under observation. Week 12: After treatment completion, response assessment will be done using following parameters: • Pain assessment using numerical pain rating scale on 0-10 • Vaginal bleeding- yes/no • Vaginal discharge- yes/ no • Analgesic use- WHO ladder and dosing • QOL QC30, QLQC15 Pall, QLQC Cervix 24 • Disease response • Acute toxicity. Follow up: Patients follow up will be utilizing standard of care imaging and lab investigations used for the patients. Patients will be evaluated every 3 months for the study duration.
+: Long course palliative treatment. — Week1: All the patients will receive external sitting of radiation treatment, first fraction of 10 Gy. Week4: All the patients will receive external sitting of radiation treatment, second fraction of 10 Gy. Week7: Patients who have almost complete clinical response will be evaluated for brachytherapy will receive the appropriate brachytherapy procedure depending on the tumor response to a dose of 6-8Gy x 2-3#.The patients who will be found unsuitable for brachytherapy will receive another sitting of external radiation, third fraction of 10 Gy. Week 12: After treatment completion response assessment will be done using following parameters: • Pain assessment using numerical pain rating scale on 0-10 • Vaginal bleeding- yes/ no • Vaginal discharge- yes/no • Analgesic use- WHO ladder and dosing • QOL QC30, QLQC15 Pall, QLQC Cervix 24 • Disease response • Acute toxicity
+Link: https://clinicaltrials.gov/study/NCT03997110
+
+SUMMARY:
+
+## NCT02720679
+Investigation of the Genetics of Hematologic Diseases
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT02720679
+
+SUMMARY:
+
+## NCT03526159
+A Pilot Study of the Restoration of Functional Laminin 332 in JEB Patients With Nonsense Mutations After Topical and Intravenous Gentamicin Treatment
+
+Intervention: : Gentamicin Sulfate — Gentamicin (formulated as gentamicin sulfate) is a well-known, well-characterized antibiotic that has been used for four decades as a treatment against gram negative bacteria. It, like other aminoglycoside antibiotics, has the well documented added potential to facilitate readthrough of premature termination codons in eukaryotic cells and organisms.
+Link: https://clinicaltrials.gov/study/NCT03526159
+
+SUMMARY:
+
+## NCT03186391
+Sensitivity and Specificity of the AHA Post-exercise ABI Criteria
+
+Intervention: : Data collected — Use the data collected during a usual consultation to study the relationship between different parameters (rest pressure ...) and imaging
+Link: https://clinicaltrials.gov/study/NCT03186391
+
+SUMMARY:
+
+## NCT04120688
+3D Autotransplantation of Teeth
+
+Intervention: : 3D generated tooth replica — 3D generated tooth replicas are compared to conventional procedure
+Link: https://clinicaltrials.gov/study/NCT04120688
 
 SUMMARY:
 

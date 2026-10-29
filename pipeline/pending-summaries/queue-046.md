@@ -822,14 +822,6 @@ Link: https://clinicaltrials.gov/study/NCT06479122
 
 SUMMARY: Pain after a cesarean section can make it hard to move and care for a newborn. This study compares intravenous acetaminophen alone with a combination of acetaminophen and ibuprofen to see which gives better pain relief.
 
-## NCT06479161
-Effects of Oral Tranexamic Acid Following Total Knee Arthroplasty on Postoperative Pain and Range of Motion: A Randomized Control Trial
-
-Intervention: : Tranexamic acid — 1.95 grams oral
-Link: https://clinicaltrials.gov/study/NCT06479161
-
-SUMMARY: Knee replacement surgery often causes pain and swelling that limit movement. This study tests tranexamic acid pills after surgery to see whether reducing bleeding also lessens pain and improves knee motion.
-
 ## NCT06479174
 Cognitive Strategies for Optimizing Brain Health And Managing Transgenerational Vascular Risk Factors Post-Stroke (CHAMPS for Transgenerational Risk)
 

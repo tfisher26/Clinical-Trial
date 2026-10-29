@@ -1873,15 +1873,6 @@ Link: https://clinicaltrials.gov/study/NCT07501585
 
 SUMMARY:
 
-## NCT07501702
-A Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study With a Long-term Extension of Povetacicept in Adults With Generalized Myasthenia Gravis
-
-Intervention: : Povetacicept — Solution for Subcutaneous Injection.
-: Placebo — Solution for Subcutaneous Injection.
-Link: https://clinicaltrials.gov/study/NCT07501702
-
-SUMMARY:
-
 ## NCT07501767
 Effect of a Physiotherapist-Supervised Online Exercise Program on Pain and Functional Performance in Remote White-Collar Workers
 

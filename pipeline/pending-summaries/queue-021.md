@@ -635,15 +635,6 @@ Link: https://clinicaltrials.gov/study/NCT07638007
 SUMMARY:
 
 
-## NCT05020002
-Extracellular RNA Biomarkers of Myotonic Dystrophy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05020002
-
-SUMMARY:
-
-
 ## NCT06232213
 The PTC Microtumor Model is Used to Guide the Feasibility Study of Treatment for Patients With Drug-resistant or Relapsed Advanced Ovarian Epithelial Cancer or Endometrial Cancer
 

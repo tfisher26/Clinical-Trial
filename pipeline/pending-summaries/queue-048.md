@@ -968,14 +968,6 @@ Link: https://clinicaltrials.gov/study/NCT07010705
 
 SUMMARY:
 
-## NCT07010783
-Investigation of Respiratory Functions, Inspiratory Muscle Strength, Physical Fitness and Aerobic Capacity in Patients With Parkinson's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07010783
-
-SUMMARY:
-
 ## NCT07010822
 A Phase III, Double-blind, Randomized, Placebo Controlled Study to Evaluate the Mucosal Intestinal Immunity to Poliovirus Type-2 of nOPV2 at Birth Dose in Healthy IPV Vaccinated Infants
 
@@ -5673,17 +5665,6 @@ Intervention: : Take 1 ml of blood — Take 1 ml of blood
 : Valve collection (healthcare waste) — Valve collection (healthcare waste)
 : Collection of serious post-operative complications — Collection of serious post-operative complications
 Link: https://clinicaltrials.gov/study/NCT07075601
-
-SUMMARY:
-
-## NCT07075705
-Investigating the Feasibility of Using Transperineal Micro-Ultrasound to Detect Clinically Significant Prostate Cancer
-
-Intervention: : Biopsy of Prostate — Undergo standard of care prostate biopsy
-: Magnetic Resonance Imaging — Undergo MRI
-: Micro-ultrasound Imaging — Undergo transperineal micro-ultrasound imaging
-: Micro-ultrasound Imaging — Undergo transrectal micro-ultrasound imaging
-Link: https://clinicaltrials.gov/study/NCT07075705
 
 SUMMARY:
 

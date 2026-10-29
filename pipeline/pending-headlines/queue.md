@@ -378289,3 +378289,621 @@ Link: https://clinicaltrials.gov/study/NCT07902466
 
 HEADLINE:
 
+## NCT03351634
+Official name: EVALUATION OF THE SAFETY AND EFFICACY OF ADJUSTABLE CONTINENT THERAPY FOR THE MANAGEMENT OF NEUROGENIC INCONTINENCE IN CHILDREN WITH SPINAL DYSRAPHISM.
+Link: https://clinicaltrials.gov/study/NCT03351634
+
+HEADLINE:
+
+## NCT05558228
+Official name: Accuracy of Doppler Ultrasound Versus Manual Palpation of Pulse in Cardiac Arrest
+Link: https://clinicaltrials.gov/study/NCT05558228
+
+HEADLINE:
+
+## NCT05744336
+Official name: Assessing the Impact of Immersive Virtual Reality Experience on Injection-related Anxiety in Patients Undergoing Interventional Pain Spine Procedures: a Prospective Randomized Trial
+Link: https://clinicaltrials.gov/study/NCT05744336
+
+HEADLINE:
+
+## NCT06031233
+Official name: Evaluating the Safety of Shortened Infusion Times for dIfferent Oncological Immunotherapies; An Observational Prospective Study
+Link: https://clinicaltrials.gov/study/NCT06031233
+
+HEADLINE:
+
+## NCT06109376
+Official name: Efficacy and Safety of Endovascular Thrombectomy With Versus Without Hypothermia in Acute Large Vessel Occlusion Stroke: a Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT06109376
+
+HEADLINE:
+
+## NCT06221358
+Official name: Pharmacogenomics of Stimulant Treatment Response in Children and Adolescents With Attention-Deficit/ Hyperactivity Disorder
+Link: https://clinicaltrials.gov/study/NCT06221358
+
+HEADLINE:
+
+## NCT06295367
+Official name: Effectiveness of Out-of-Pocket Cost COMmunication and Financial Navigation (CostCOM) in Cancer Patients
+Link: https://clinicaltrials.gov/study/NCT06295367
+
+HEADLINE:
+
+## NCT06299800
+Official name: Type 2 Diabetes Mellitus and Cancer: Phenotyping of Patients at a Third-level Diabetes Centre
+Link: https://clinicaltrials.gov/study/NCT06299800
+
+HEADLINE:
+
+## NCT06399731
+Official name: NEuroStimulation for the Treatment of Mild Cognitive Impairment in Parkinson's Disease: an Acceptability Cross-over Study
+Link: https://clinicaltrials.gov/study/NCT06399731
+
+HEADLINE:
+
+## NCT06438900
+Official name: Fighting Western-diet Derived AGEs to Mitigate Muscle Wasting in Sarcobesity:Observational Study on the Relationship Between AGE Levels and Sarcobesity in an Adult Population Affected by Obesity and Type 2 Diabetes Mellitus
+Link: https://clinicaltrials.gov/study/NCT06438900
+
+HEADLINE:
+
+## NCT06680596
+Official name: A ctDNA Screening Program in Patients With HR+, HER2 Low Metastatic Breast Cancer for Detection of High-risk Relapse Patients on Any CDK4/6 Inhibitor Followed by a Single Arm Phase II Trial of Trastuzumab-deruxtecan in Patients With Persistent ctDNA After 1 Month of Treatment With Endocrine Therapy Combined With CDK4/6 Inhibitor
+Link: https://clinicaltrials.gov/study/NCT06680596
+
+HEADLINE:
+
+## NCT06686381
+Official name: A Phase II, Randomized, Non-comparative Double Arm, Open-label, 2-stage, Multicenter Study to Evaluate the Efficacy and Safety of 2 Tetra-modality Bladder Preservation Strategies in Muscle-invasive Bladder Cancer With Maximum TURBT Followed by Induction Platinum-based Chemotherapy/Avelumab Followed by Radiation Therapy Then Maintenance Avelumab or Watch and Wait Approach
+Link: https://clinicaltrials.gov/study/NCT06686381
+
+HEADLINE:
+
+## NCT06717308
+Official name: Surgical Drape With an Atraumatic Acrylic Adhesive for Negative Pressure Wound Therapy
+Link: https://clinicaltrials.gov/study/NCT06717308
+
+HEADLINE:
+
+## NCT06730737
+Official name: Brief Lifestyle Medicine Preventive Randomized Prospective Interactive Educational Intervention in the Primary Care Clinic
+Link: https://clinicaltrials.gov/study/NCT06730737
+
+HEADLINE:
+
+## NCT06753357
+Official name: Prevalence of Cancer Rehabilitation Needs and Drivers of Rehabilitation Service Uptake in Breast Cancer Survivors
+Link: https://clinicaltrials.gov/study/NCT06753357
+
+HEADLINE:
+
+## NCT06839703
+Official name: International Open-label Phase I Dose Escalation Study of Dinutuximab Beta in Combination With Vincristine/Doxorubicin/Cyclophosphamide and Ifosfamide/Etoposide in Pediatric, Adolescent, and Adult Patients With GD2-positive Ewing Sarcoma
+Link: https://clinicaltrials.gov/study/NCT06839703
+
+HEADLINE:
+
+## NCT07017803
+Official name: Molecular Epidemiology, Strains Genotyping of Multi-drug Resistant Tuberculosis Circulating in Central Africa Region
+Link: https://clinicaltrials.gov/study/NCT07017803
+
+HEADLINE:
+
+## NCT07031219
+Official name: Syndemic Triple HIV/HBV/HCV Virus Screening Via EMR Automation at Primary Care Clinics
+Link: https://clinicaltrials.gov/study/NCT07031219
+
+HEADLINE:
+
+## NCT07080619
+Official name: A Phase IIa Clinical Study to Assess the Efficacy and Safety of SC-101 in Patients With Advanced Malignant Tumors Positive for NECTIN4 Gene Amplification
+Link: https://clinicaltrials.gov/study/NCT07080619
+
+HEADLINE:
+
+## NCT07136519
+Official name: Toripalimab Plus Induction Chemotherapy Followed by Radiation Therapy Combined With Omega-3 for Locally Advanced Nasopharyngeal Carcinoma: A Phase II, Single Arm Clinical Trial
+Link: https://clinicaltrials.gov/study/NCT07136519
+
+HEADLINE:
+
+## NCT07185958
+Official name: Dual Energy CT - a Tool for Delineation of Tumor and Organs at Risk in Radiotherapy
+Link: https://clinicaltrials.gov/study/NCT07185958
+
+HEADLINE:
+
+## NCT07191145
+Official name: EarLy Infusion of Eptinezumab for TreatmEnt of ACute Post-Traumatic Headaches (ELITE-ACT): a Parallel Group, Randomized, Double Blind, Placebo Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07191145
+
+HEADLINE:
+
+## NCT07235995
+Official name: Effect of Analgesia With Acetaminophen-Mannitol Injection on Postoperative Delirium in Older Patients Undergoing Non-cardiac Surgery: Protocol for an Open-label Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07235995
+
+HEADLINE:
+
+## NCT07254793
+Official name: A Feasibility/Pilot First-in-human Study of Exercise-mobilized NK-enriched Donor Lymphocyte Infusions (DLI-X) to Prevent Leukemia Relapse After Allogeneic Hematopoietic Cell Transplantation
+Link: https://clinicaltrials.gov/study/NCT07254793
+
+HEADLINE:
+
+## NCT07331324
+Official name: The Coma Family Program (COMA-F): A Multi-site Clinical Trial of a Resilience Program for Caregivers of Patients With Severe Acute Brain Injury
+Link: https://clinicaltrials.gov/study/NCT07331324
+
+HEADLINE:
+
+## NCT07387770
+Official name: Assessment of Muscle Deterioration in Hospitalized Cancer Patients Using Surface Electromyography, Dynamometry, and Bioimpedance
+Link: https://clinicaltrials.gov/study/NCT07387770
+
+HEADLINE:
+
+## NCT07387848
+Official name: A Phase II,Open Label, Single Arm, Multicenter Study Investigating the Efficacy and Safety of Glofitamab When Used as a Bridge to and/or Consolidation Post-transplant for Patients With Relapsed/Refractory B-cell Lymphomas Transformed Low Grade B Cell Lymphoma) Fit and Eligible for ASCT
+Link: https://clinicaltrials.gov/study/NCT07387848
+
+HEADLINE:
+
+## NCT07388394
+Official name: Describe and Evaluate the Impact of Polypharmacy on Healthy Aging in People Living With HIV Over the Age of 75 Who Are Being Treated at Nice University Hospital.
+Link: https://clinicaltrials.gov/study/NCT07388394
+
+HEADLINE:
+
+## NCT07404878
+Official name: VITAL - Virginia Tech Accelerated Holographic LIFU for Anxiety
+Link: https://clinicaltrials.gov/study/NCT07404878
+
+HEADLINE:
+
+## NCT07413614
+Official name: The ACHIEVE-project: Advancing Cardiovascular and Ocular Health In Eye Patients. The Acute Effect of Exercise Type And Timing on Ambulatory Blood Pressure and Intra-Ocular Pressure in Individuals With Glaucoma.
+Link: https://clinicaltrials.gov/study/NCT07413614
+
+HEADLINE:
+
+## NCT07434648
+Official name: Comparison of Clinical Outcomes and Molecular Mechanisms After Tissue Expander Implantation in Mastectomy Patients - a Single Center, Randomized Controlled, Exploratory Clinical Trial
+Link: https://clinicaltrials.gov/study/NCT07434648
+
+HEADLINE:
+
+## NCT07462767
+Official name: Geroprotective Precision Medicine Strategies in PWH That Use Alcohol
+Link: https://clinicaltrials.gov/study/NCT07462767
+
+HEADLINE:
+
+## NCT07518329
+Official name: A Phase 1 Open-Label Dose-Escalation and Expansion Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Preliminary Efficacy of ALA-101, Allogeneic, Off-the-shelf, CD19-directed CAR-iNKT Cells in Patients With CD19+ Non-Hodgkin Lymphoma and Leukemia
+Link: https://clinicaltrials.gov/study/NCT07518329
+
+HEADLINE:
+
+## NCT07522177
+Official name: Using Short Animated Storytelling to Increase Intent for Colorectal Cancer Screening: A U.S. Online Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07522177
+
+HEADLINE:
+
+## NCT07558343
+Official name: Male breAsT cAncer preDisposition Factor: Creation of a Control Cohort 2
+Link: https://clinicaltrials.gov/study/NCT07558343
+
+HEADLINE:
+
+## NCT07567495
+Official name: Adding Dexmedetomidine or Clonidine to Spinal Anesthesia for Cesarean Delivery
+Link: https://clinicaltrials.gov/study/NCT07567495
+
+HEADLINE:
+
+## NCT07577583
+Official name: Long-term Follow-up (LTFU) of Study Participants Who Received Azer-Cel, An Allogeneic Chimeric Antigen Receptor T-Cell Product, in a TG Therapeutics, Inc., Clinical Study
+Link: https://clinicaltrials.gov/study/NCT07577583
+
+HEADLINE:
+
+## NCT07597161
+Official name: Effects of Noninvasive Spinal Cord Neuromodulation on Metabolic Function
+Link: https://clinicaltrials.gov/study/NCT07597161
+
+HEADLINE:
+
+## NCT07609602
+Official name: The Psychological Effects of Miscarriage Prediction Score: A Prospective Study
+Link: https://clinicaltrials.gov/study/NCT07609602
+
+HEADLINE:
+
+## NCT07614022
+Official name: A Phase I Study of the Bcl-2/Bcl-XL Inhibitor LP-118 In Combination With Ponatinib, Dexamethasone And Blinatumomab For Adults With Newly-Diagnosed, Philadelphia-Chromosome/BCR::ABL1-Positive Acute Lymphoblastic Leukemia
+Link: https://clinicaltrials.gov/study/NCT07614022
+
+HEADLINE:
+
+## NCT07650565
+Official name: Tissue Modeling in Systemic Sclerosis Using Induced Pluripotent Stem Cells (iPSCs)
+Link: https://clinicaltrials.gov/study/NCT07650565
+
+HEADLINE:
+
+## NCT07659314
+Official name: "Evolution of Postoperative Anal Pain Following Elective Proctological or Rectal Surgery Under the Effect of Transcutaneous Vagal Auricular Stimulation: a Feasibility Study - VAGANAL - Postoperative Pain and Vagal Stimulation"
+Link: https://clinicaltrials.gov/study/NCT07659314
+
+HEADLINE:
+
+## NCT07698106
+Official name: Rebooting Sensitivity to Checkpoint Blockade Therapy in Triple-Negative Breast Cancer With Isunakinra (RESETT- I)
+Link: https://clinicaltrials.gov/study/NCT07698106
+
+HEADLINE:
+
+## NCT07704372
+Official name: Superoxide Dismutase Skin Spray for Reducing Acute Radiation Dermatitis in Patients With Head and Neck Cancer Undergoing Radiotherapy: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial
+Link: https://clinicaltrials.gov/study/NCT07704372
+
+HEADLINE:
+
+## NCT07736586
+Official name: A Randomized, Double-Blind, Placebo-Controlled, Sequential Group, 2-Part, Phase Ι Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of HL40626S Tablets Following Oral Administration of Single and Multiple Ascending Doses to Healthy Adult Participants.
+Link: https://clinicaltrials.gov/study/NCT07736586
+
+HEADLINE:
+
+## NCT07748611
+Official name: SMART-PANC: SMAD4 Tailored Neoadjuvant Therapy for Pancreatic Cancer, A Phase ll Non-Randomized, Single Center Pilot Study
+Link: https://clinicaltrials.gov/study/NCT07748611
+
+HEADLINE:
+
+## NCT07756606
+Official name: Evaluating the Impacts of Informal Tick and Tickborne Disease Educational Tools on Children
+Link: https://clinicaltrials.gov/study/NCT07756606
+
+HEADLINE:
+
+## NCT07763431
+Official name: Efficacy of Home-Use Dual-Light Antimicrobial Photodynamic Therapy as an Adjunct to Supportive Peri-Implant Care in Patients With Peri-Implant Mucositis Around Screw-Retained Full-Arch Implant-Supported Prostheses: A Pilot Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07763431
+
+HEADLINE:
+
+## NCT07795346
+Official name: A Randomized, Controlled, Open-label, Multicenter Phase III Study to Evaluate the Efficacy and Safety of ATG-022 Compared With Investigator's Choice of Treatment in Subjects With Claudin18.2-Positive Advanced Gastric or Gastroesophageal Junction Adenocarcinoma
+Link: https://clinicaltrials.gov/study/NCT07795346
+
+HEADLINE:
+
+## NCT07801365
+Official name: Postoperative Analgesic Efficacy of Combined Popliteal and Adductor Canal Blocks in Children With Cerebral Palsy Undergoing Lower Extremity Surgery: A Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07801365
+
+HEADLINE:
+
+## NCT07806006
+Official name: Effect of Remimazolam Versus Propofol Total Intravenous Anesthesia on Intraoperative Hemodynamic Stability in Patients Undergoing Thoracic or Abdominal Endovascular Aortic Repair: A Randomized, Single-blind, Controlled Clinical Trial
+Link: https://clinicaltrials.gov/study/NCT07806006
+
+HEADLINE:
+
+## NCT07808697
+Official name: A Phase 2, Randomized, Observer-Blind, Dose Ranging Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1283 in Participants ≥6 Months to <12 Years of Age
+Link: https://clinicaltrials.gov/study/NCT07808697
+
+HEADLINE:
+
+## NCT07836374
+Official name: Pilot Randomized Controlled Trial of the RENEW Intervention for Axial Spondyloarthritis
+Link: https://clinicaltrials.gov/study/NCT07836374
+
+HEADLINE:
+
+## NCT07841925
+Official name: A Phase Ib/II Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetic Characteristics and Preliminary Efficacy of BL-M08D1 for Injection in Patients With Locally Advanced or Metastatic Melanoma and Other Solid Tumors
+Link: https://clinicaltrials.gov/study/NCT07841925
+
+HEADLINE:
+
+## NCT07856706
+Official name: A Phase 1, Single Ascending Dose Study to Assess the Safety, Tolerability, and Pharmacokinetics of ABBV-7828, and to Evaluate the Effect of Food on ABBV-7828 Pharmacokinetics in Healthy Adult Subjects
+Link: https://clinicaltrials.gov/study/NCT07856706
+
+HEADLINE:
+
+## NCT07856797
+Official name: A Prospective, Open-Label, Multicenter, Post-Market Clinical Follow-Up Study to Confirm the Long-term Safety and Effectiveness of RADIESSE® Injectable Implant for the Correction of Moderate to Severe Nasolabial Folds
+Link: https://clinicaltrials.gov/study/NCT07856797
+
+HEADLINE:
+
+## NCT07872904
+Official name: FutureShape Family: A Randomised Controlled Trial of an Enhanced Family Care Intervention Targeting Intergenerational Obesity
+Link: https://clinicaltrials.gov/study/NCT07872904
+
+HEADLINE:
+
+## NCT07881120
+Official name: A 2-Stage Operationally Seamless Phase 2/3, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Afimetoran in Participants With Active Cutaneous Lupus Erythematosus With or Without Systemic Manifestations and Refractory and/or Intolerant to Antimalarial Therapy
+Link: https://clinicaltrials.gov/study/NCT07881120
+
+HEADLINE:
+
+## NCT07883967
+Official name: The Effects of a Tele-rehabilitation-Guided Qigong Exercise Program on Pulmonary Function, Functional Capacity, and Symptom Control in Children and Adolescents With Asthma: A Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07883967
+
+HEADLINE:
+
+## NCT07897656
+Official name: Monitored Anesthesia Care and Soft Tissue Infiltration With Local Anesthesia for Older Adults With Hip Fracture: A Multi-Center Feasibility Randomized Clinical Trial
+Link: https://clinicaltrials.gov/study/NCT07897656
+
+HEADLINE:
+
+## NCT07902518
+Official name: The Use of Theta-Burst Transcranial Magnetic Stimulation in the Treatment of Persistent Auditory Hallucinations: A Pilot Study
+Link: https://clinicaltrials.gov/study/NCT07902518
+
+HEADLINE:
+
+## NCT07902622
+Official name: Pakistan Arthritis and Connective Tissue Disease Network - Systemic Lupus Erythematosus
+Link: https://clinicaltrials.gov/study/NCT07902622
+
+HEADLINE:
+
+## NCT07902791
+Official name: Sevoflurane vs. Propofol for General Anesthesia in Patients With Acute Ischemic Stroke Treated With Endovascular Therapy (SAVE Trial)
+Link: https://clinicaltrials.gov/study/NCT07902791
+
+HEADLINE:
+
+## NCT07902947
+Official name: The Effect of a Web-Based, Flipped-Classroom Approach to Pain Neuroscience Education on Levels of Fear of Labor Pain and Catastrophizing in Pregnant Women
+Link: https://clinicaltrials.gov/study/NCT07902947
+
+HEADLINE:
+
+## NCT07902960
+Official name: The Effect of Web-Based Simulation and Flipped Learning on Nursing Students' Knowledge of Blood Pressure Measurement and Self-Directed Learning Skills: A Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07902960
+
+HEADLINE:
+
+## NCT07902999
+Official name: A Randomized, Double-Blind, Multicenter Phase III Clinical Trial of HB0025 Injection Combined With Chemotherapy Versus Placebo Combined With Chemotherapy as First-Line Treatment for Advanced or Recurrent Endometrial Cancer
+Link: https://clinicaltrials.gov/study/NCT07902999
+
+HEADLINE:
+
+## NCT07903246
+Official name: A Prospective Cohort Study of Emotion-Related Disorders
+Link: https://clinicaltrials.gov/study/NCT07903246
+
+HEADLINE:
+
+## NCT07903298
+Official name: Informational Needs of Caregivers of Patients With Neuromotor Disease in Rehabilitation Hospitalization: Validation Study of the Informational Needs Questionnaire (QBI-R/V).
+Link: https://clinicaltrials.gov/study/NCT07903298
+
+HEADLINE:
+
+## NCT07903350
+Official name: BRAVO Study - Bundibugyo: Répondre Avec la Vaccination, " On Est Ensemble " Prospective Evaluation Embedded in the Bundibugyo Virus Disease Outbreak Response in the Democratic Republic of Congo
+Link: https://clinicaltrials.gov/study/NCT07903350
+
+HEADLINE:
+
+## NCT07903402
+Official name: Aspartylglucosaminuria (AGU) Registry and Natural History Study (AGU Registry).
+Link: https://clinicaltrials.gov/study/NCT07903402
+
+HEADLINE:
+
+## NCT07903415
+Official name: A PHASE 1, OPEN-LABEL STUDY TO INVESTIGATE THE SAFETY, TOLERABILITY, PHARMACOKINETICS, AND ANTITUMOR ACTIVITY OF PF-08098488 IN ADULT PARTICIPANTS WITH ADVANCED SOLID TUMORS.
+Link: https://clinicaltrials.gov/study/NCT07903415
+
+HEADLINE:
+
+## NCT07903441
+Official name: Phase 2b Clinical Trial Using Multiple Interventions With Distinct Anti-Reservoir Activities In People On Antiretroviral Treatment
+Link: https://clinicaltrials.gov/study/NCT07903441
+
+HEADLINE:
+
+## NCT07903454
+Official name: Ocular Anatomical Parameters in Patients Undergoing Anterior Segment Surgery Based on Swept-Source Optical Coherence Tomography: An Observational Study
+Link: https://clinicaltrials.gov/study/NCT07903454
+
+HEADLINE:
+
+## NCT07903532
+Official name: Multicentric Study for External Validation of the TB-NET Score
+Link: https://clinicaltrials.gov/study/NCT07903532
+
+HEADLINE:
+
+## NCT07903545
+Official name: Recovery Time With the Application of ALDRETE Score in Patients Undergoing Gastrointestinal Endoscopy: a Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07903545
+
+HEADLINE:
+
+## NCT07903623
+Official name: A Prospective, Single-Arm, Single-Center Clinical Study of QLS4131 Combined With Isatuximab in Patients With Newly Diagnosed Primary Plasma Cell Leukemia
+Link: https://clinicaltrials.gov/study/NCT07903623
+
+HEADLINE:
+
+## NCT07903675
+Official name: Effectiveness of the Autism Pupil Screen (APS) Detect Pupillometer for Identifying Autism Spectrum Disorder (ASD) in Routine Healthcare
+Link: https://clinicaltrials.gov/study/NCT07903675
+
+HEADLINE:
+
+## NCT07903792
+Official name: Diagnostic Value of Oropharyngeal Suction Compared With Induced Sputum and Oropharyngeal Swab, and the Effect of Respiratory Physiotherapy on the Detection of Microorganisms in Paediatric Patients With Chronic Respiratory Disease: a Randomized Clinical Trial
+Link: https://clinicaltrials.gov/study/NCT07903792
+
+HEADLINE:
+
+## NCT07903805
+Official name: Asthma and Primary Arterial Hypertension: an Inflammatory Link?
+Link: https://clinicaltrials.gov/study/NCT07903805
+
+HEADLINE:
+
+## NCT07903896
+Official name: Heat Effects on Mental Health in Young Adults (HEAT-MIND Lab PART 2)
+Link: https://clinicaltrials.gov/study/NCT07903896
+
+HEADLINE:
+
+## NCT07903987
+Official name: The Use of FAPI-PET/CT and FDG-PET/CT Scan in Acute and Chronic Phase Peyronie's Disease for Detection of Active Fibroblasts and Inflammation in the Penis - a Pilot Study
+Link: https://clinicaltrials.gov/study/NCT07903987
+
+HEADLINE:
+
+## NCT07904052
+Official name: Prospective, Randomised, Double-blind, Placebo-controlled Multicenter Trial of Efficacy and Safety of D. Pteronyssinus and D. Farinae Mannan-conjugated Allergoids in Patients With Rhinitis/Rhinoconjunctivitis Allergic to HDM
+Link: https://clinicaltrials.gov/study/NCT07904052
+
+HEADLINE:
+
+## NCT07904065
+Official name: Comparison of Two Anorganic Xenografts in the Lateral Window Maxillary Sinus Augmentation Technique With or Without Mandibular Bone Marrow Blood Admixture: Histomorphometric, Radiographic and Clinical Analysis
+Link: https://clinicaltrials.gov/study/NCT07904065
+
+HEADLINE:
+
+## NCT07904078
+Official name: Statewide Implementation of Sexual Orientation and Gender Identity (SOGI) Data Collection to Advance Health Equity
+Link: https://clinicaltrials.gov/study/NCT07904078
+
+HEADLINE:
+
+## NCT07904182
+Official name: A Prospective Single-Center Study of Absorbable Hydrogel Spacer for Whole-Course Radiotherapy in Cervical Cancer: Feasibility, Spatial Stability, and Dosimetric Outcomes
+Link: https://clinicaltrials.gov/study/NCT07904182
+
+HEADLINE:
+
+## NCT07904195
+Official name: Prospective, Randomised, Double-blind, Placebo-controlled Multicentre Trial of Efficacy and Safety of D. Pteronyssinus/D. Farinae Mannan-conjugated Allergoids in Patients With Mite-allergic Rhinitis/Rhinoconjunctivitis.
+Link: https://clinicaltrials.gov/study/NCT07904195
+
+HEADLINE:
+
+## NCT07904273
+Official name: Effects of Environmental Sustainability-Focused Service- Learning on Sustainable Consumption Behaviors and Sustainability Attitudes Among Nursing Students
+Link: https://clinicaltrials.gov/study/NCT07904273
+
+HEADLINE:
+
+## NCT07904286
+Official name: Investigation of the Correlation of Sensory Neurography Findings and S2PD Measurements After Digital Nerve Injury
+Link: https://clinicaltrials.gov/study/NCT07904286
+
+HEADLINE:
+
+## NCT07904299
+Official name: Effect of an Intergenerational Interaction Program Between Older Adults Living in a Nursing Home and Nursing Students on Loneliness, Joy of Life, and Ageism: A Pilot Randomized Controlled Trial
+Link: https://clinicaltrials.gov/study/NCT07904299
+
+HEADLINE:
+
+## NCT07904377
+Official name: Pilot Observational Study for the Development of an Artificial Intelligence-Driven Methodology to Identify Optimal Atrial Ablation Strategies Using Non-Invasive Electrocardiographic Imaging (ACORYS-AI4AF Pilot Study)
+Link: https://clinicaltrials.gov/study/NCT07904377
+
+HEADLINE:
+
+## NCT07904429
+Official name: Efficacy and Safety of Keverprazan-minocycline Dual Therapy With Different Treatment Durations Versus Bismuth-based Quadruple Therapy for Helicobacter Pylori Eradication: an Open-label, Multicenter, Randomized, Non-inferiority Trial.
+Link: https://clinicaltrials.gov/study/NCT07904429
+
+HEADLINE:
+
+## NCT07904546
+Official name: ADBest-TREAT: A Registry for Patients With Atopic Dermatitis Receiving Systemic, Local, or UV Therapy
+Link: https://clinicaltrials.gov/study/NCT07904546
+
+HEADLINE:
+
+## NCT07904728
+Official name: A Clinical Evaluation of Treating Contact Lens Discomfort With Water-Free Cyclosporine 0.1% Ophthalmic Solution
+Link: https://clinicaltrials.gov/study/NCT07904728
+
+HEADLINE:
+
+## NCT07904741
+Official name: The Effect of Different Exercise Training Programs on Muscle Oxygenation, Strength, Pain, and Functionality in Individuals With Knee Osteoarthritis
+Link: https://clinicaltrials.gov/study/NCT07904741
+
+HEADLINE:
+
+## NCT07904897
+Official name: Optimized Osteosynthesis: A Comparative Analysis of Bone Mineral Density Recovery in Mandibular Body Fractures Using Patient-Specific Versus Conventional Plates (A Randomized Controlled Clinical Trial)
+Link: https://clinicaltrials.gov/study/NCT07904897
+
+HEADLINE:
+
+## NCT07904910
+Official name: Evaluation of Crisaborole 2% Versus Tacrolimus 0.1% Each Combined With Excimer Light in the Treatment of Stable Non-segmental Facial Vitiligo: a Prospective Randomized Controlled Study.
+Link: https://clinicaltrials.gov/study/NCT07904910
+
+HEADLINE:
+
+## NCT07905053
+Official name: A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Food Effect of CBT-248 in Healthy Adult Participants
+Link: https://clinicaltrials.gov/study/NCT07905053
+
+HEADLINE:
+
+## NCT07905066
+Official name: Hemophagocytic Lymphohistiocytosis After Hematopoietic Stem Cell Transplantation: A Multicenter Ambispective Longitudinal Cohort Study
+Link: https://clinicaltrials.gov/study/NCT07905066
+
+HEADLINE:
+
+## NCT07905105
+Official name: A Randomized, Double-blind, Single-dose, Placebo-controlled Pharmacokinetic and Proof-of-concept Study to Evaluate the Safety of CYT-1010 in Healthy Volunteers and in Subjects With Moderate to Severe Pain After Third Molar Extraction
+Link: https://clinicaltrials.gov/study/NCT07905105
+
+HEADLINE:
+
+## NCT07905287
+Official name: A Multi-Center, Prospective, Observational Study of the Disease Burden of Hypophosphatasia (HPP) Patients in China
+Link: https://clinicaltrials.gov/study/NCT07905287
+
+HEADLINE:
+
+## NCT07905430
+Official name: PERSONALITY, SOCIAL DYNAMICS, & CONSUMPTION PREFERENCES - STUDY 2
+Link: https://clinicaltrials.gov/study/NCT07905430
+
+HEADLINE:
+
+## NCT07905781
+Official name: Evaluation of the Impact of Scintigraphy on Clinical Decision-Making and Patient Outcomes in Patients Undergoing Pulmonary Perfusion Scintigraphy and, When Required, Ventilation/Perfusion Scintigraphy for Suspected Pulmonary Embolism in the Emergency Department
+Link: https://clinicaltrials.gov/study/NCT07905781
+
+HEADLINE:
+
+## NCT07905807
+Official name: Early Detection and Kinetic Trajectory of Sepsis-Induced Coagulopathy in Severe Burn Patients: A Prospective Single-Center Observational Cohort Study
+Link: https://clinicaltrials.gov/study/NCT07905807
+
+HEADLINE:
+

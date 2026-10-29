@@ -895,24 +895,6 @@ Link: https://clinicaltrials.gov/study/NCT05319067
 SUMMARY:
 
 
-## NCT04524247
-Impact of Frailty on Clinical Outcomes of Patients Treated for Thoracoabdominal and Complex Abdominal Aortic Aneurysms With Physician-Modified Fenestrated and Branched Stent Grafts
-
-Intervention: : Physician Modified Endografts — Modification procedure Description of modified device is detailed in Section 3.5 of IDE. In summary, the steps involved in modification of the Zenith Alpha thoracic stent grafts are;
-
-1. Unsheathing of the stent graft
-2. Retrieval of a trigger wire from the inner cannula of the delivery system
-3. Rerouting of the trigger wire along the stent graft
-4. Removal of proximal barbs.
-5. Creation of fenestrations and/or branch cuffs
-6. Placement of radiopaque markers around the fenestrations/ branch cuffs
-7. Placement of temporary and/or permanent diameter constraining ties
-8. (Optional) Placement of preloaded wires through the fenestrations/branch cuffs
-Link: https://clinicaltrials.gov/study/NCT04524247
-
-SUMMARY:
-
-
 ## NCT05612256
 Electrical Impedance Tomography for Identification of Optimal Positive End-expiratory Pressure in Newborn Infants
 

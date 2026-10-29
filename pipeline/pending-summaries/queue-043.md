@@ -7622,14 +7622,6 @@ Link: https://clinicaltrials.gov/study/NCT05016219
 
 SUMMARY: Alzheimer's disease often disrupts sleep and daily rhythms. This study tests rhythmic light therapy, including narrowband blue light, to align the body clock and brain rhythms.
 
-## NCT05016908
-Extracellular RNA Biomarkers of Duchenne Muscular Dystrophy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05016908
-
-SUMMARY:
-
 ## NCT05017311
 Optimized Predictive Treatment In Medications for Unipolar Major Depression (OPTIMUM-D)
 
@@ -9031,15 +9023,6 @@ Intervention: : Icotinib — Oral
 Link: https://clinicaltrials.gov/study/NCT05104788
 
 SUMMARY: Lung cancer with an EGFR mutation that can be removed with surgery needs effective treatment. This study tests the targeted drug icotinib combined with chemotherapy before surgery.
-
-## NCT05104983
-Stopping TSC Onset and Progression 2B: Sirolimus TSC Epilepsy Prevention Study
-
-Intervention: : Sirolimus — The investigational drug product to be used in this study is sirolimus, provided in oral suspension.
-: Placebo — Matching placebo
-Link: https://clinicaltrials.gov/study/NCT05104983
-
-SUMMARY: Tuberous sclerosis complex is a genetic condition that often causes epilepsy early in life. This study tests sirolimus, given as an oral liquid, to see if it prevents epilepsy in children with TSC.
 
 ## NCT05107674
 A Phase 1a, Dose Escalation, Safety and Tolerability Study of NX-1607, a Casitas B-lineage Lymphoma Proto-oncogene (CBL-B) Inhibitor, in Adults With Advanced Malignancies, With Phase 1b Expansion in Select Tumor Types

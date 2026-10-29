@@ -3101,14 +3101,6 @@ Link: https://clinicaltrials.gov/study/NCT06793709
 
 SUMMARY:
 
-## NCT06793722
-The Effect of Technological Devices on the Child's Pain and Anxiety Level in Circumcision Performed With Local Anesthesia
-
-Intervention: : Technological device in circumcision — Circumcision is performed by watching a video/playing a game during the procedure in children who are circumcised.
-Link: https://clinicaltrials.gov/study/NCT06793722
-
-SUMMARY:
-
 ## NCT06793787
 Risk Evaluation by Coronary Imaging and Artificial Intelligence-Based Functional Analyzing Techniques: Plasma Proteomic Profiles of Atheroma Classified by Intracoronary Imaging.
 
@@ -3645,14 +3637,6 @@ Link: https://clinicaltrials.gov/study/NCT06802003
 
 SUMMARY:
 
-## NCT06802094
-Case-Control Research of the Movement Strategies Used During Balance Tasks in Children With and Without Developmental Coordination Disorder
-
-Intervention: : Single-session balance intervention in virtual reality — Single-session balance intervention (30 minutes) in a virtual reality environment, the Gait Real-time analysis Interactive Lab (GRAIL) or the Computer Assisted Rehabilitation Environment (CAREN) in children with and without Developmental Coordination Disorder (Motek Medical, The Netherlands).
-Link: https://clinicaltrials.gov/study/NCT06802094
-
-SUMMARY:
-
 ## NCT06802146
 A Multi-Site Break Through Cancer Pilot Study Testing the Feasibility and Safety of Therapeutic Intervention for Patients With High-risk Clonal Cytopenia of Undetermined Significance (CCUS)
 
@@ -4097,15 +4081,6 @@ Understanding Perinatal Spinal Cord Injury: Comprehensive Assessment and Persona
 Intervention: : Activity-Based Recovery Training — ABRT uses task-specific training to improve neuromuscular capacity. ABRT will be tailored to participant presentation. Activity-Based Locomotor Training consists of stepping, standing, and sitting activities on a body weight support (BWS) treadmill using a harness and while overground. Therapists and trainers provide hands-on assistance for safety and kinematics. BWS is varied during sessions with a goal of optimal kinematics at the lowest BWS. Activities performed standing will focus on alignment incorporating static, active, and dynamic tasks. Activities performed during overground are based on neuromuscular capacity and appropriate developmental and functional levels. Principles of ABRT will be shared with parents/caregivers to foster activity in the home and community. Activity-Based Upper Extremity Training uses task-specific training of the trunk and upper extremities administered in sitting or standing via manual facilitation or support in a stander for best posture.
 : Transcutaneous Spinal Cord Stimulation — Transcutaneous Spinal Cord Stimulation (scTs) is a non-invasive stimulation administered over the skin using a modulated biphasic or monophasic waveform at 15-90Hz and a carrier frequency of 5-10kHz. Bouts of scTs at the cervical, thoracic, lumbar, and/or coccygeal level will be administered midline or just lateral to the spinous processes during activity-based recovery training.
 Link: https://clinicaltrials.gov/study/NCT06808035
-
-SUMMARY:
-
-## NCT06808230
-Cocoa Flavanols for Migraine: A Pilot Study
-
-Intervention: : Cocoa extract — Cocoa extract manufactured as 250 mg capsules
-: Cocoa extract placebo — Cocoa extract placebo
-Link: https://clinicaltrials.gov/study/NCT06808230
 
 SUMMARY:
 

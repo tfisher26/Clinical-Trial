@@ -2952,17 +2952,6 @@ Link: https://clinicaltrials.gov/study/NCT06631157
 SUMMARY:
 
 
-## NCT06498128
-QUVIVIQ® Pregnancy Registry
-
-Intervention: : Daridorexant — Dosing and treatment duration of QUVIVIQ as part of this observational study is at the discretion of the healthcare provider in accordance with local clinical practice and local labeling.
-: Non-orexin receptor antagonist medications for insomnia — Dosing and treatment duration of non-orexin receptor antagonist medications for insomnia as part of this observational study is at the discretion of the healthcare provider in accordance with local clinical practice and local labeling.
-: No insomnia medication — No insomnia medication was administered.
-Link: https://clinicaltrials.gov/study/NCT06498128
-
-SUMMARY:
-
-
 ## NCT06679491
 Effects of Menstrual Cycle-based Undulating Periodized Resistance Training in Women's Neuromuscular Abilities
 
@@ -3999,15 +3988,6 @@ Comparative Assessment of Reflux Esophagitis in Cases With and Without Esophagea
 Intervention: : Per oral endoscopy myotomy (Per oral endoscopy myotomy) — POEM is the procedure to reduce the symptoms of dysphagia, regurgitation.
 : Endoscopy procedure — Endoscopy procedure is required to rule out type of reflux disease
 Link: https://clinicaltrials.gov/study/NCT06835374
-
-SUMMARY:
-
-
-## NCT04523415
-The Reliability and Reproducibility of Edelson Classification About Proxima Humeral Fractures
-
-Intervention: : without intervention, just retrospectively review the data about patients — without intervention
-Link: https://clinicaltrials.gov/study/NCT04523415
 
 SUMMARY:
 

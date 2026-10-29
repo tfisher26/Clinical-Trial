@@ -605,15 +605,6 @@ Link: https://clinicaltrials.gov/study/NCT07002814
 SUMMARY:
 
 
-## NCT04524637
-The Utility of Thromboelastography for Predicting the Risk of Coagulation-Related Damages Secondary to Traumatic Brain Injury
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04524637
-
-SUMMARY:
-
-
 ## NCT06901869
 ActivPARK - Physical Activity in Persons With Parkinson's Disease- Pilot Study
 
