@@ -2918,15 +2918,6 @@ Link: https://clinicaltrials.gov/study/NCT06715371
 SUMMARY:
 
 
-## NCT06073834
-LUNG INFECTION in ICU
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06073834
-
-SUMMARY:
-
-
 ## NCT06664229
 Development of the Flexible and Printed Electronic Device for Dementia and Fall Prevention of Older Adults
 

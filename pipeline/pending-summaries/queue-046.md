@@ -8908,15 +8908,6 @@ Link: https://clinicaltrials.gov/study/NCT06628154
 
 SUMMARY:
 
-## NCT06628206
-Phase 1b Randomized, Double Blind, Placebo-controlled Study to Evaluate Safety, Tolerability and Pharmacokinetics of LPX-TI641 in Patients With Rheumatoid Arthritis and Psoriatic Arthritis
-
-Intervention: : LPX-TI641 — Oral administration QD for 28 consecutive days
-: Placebo — Drug is LPX-TI641. Placebo an identical formulation without the LPX-TI641.
-Link: https://clinicaltrials.gov/study/NCT06628206
-
-SUMMARY: Rheumatoid arthritis and psoriatic arthritis cause painful, swollen joints. This study tests LPX-TI641, a daily pill, against a placebo for four weeks to check its safety.
-
 ## NCT06628336
 Post-Market Observational Study of the HARMONY® Evolution Implants and Instruments
 

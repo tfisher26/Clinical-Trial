@@ -2356,16 +2356,6 @@ Link: https://clinicaltrials.gov/study/NCT07686445
 
 SUMMARY:
 
-## NCT07686484
-A Phase 1, Randomized, Double-blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of a Single Dose of HRS-3095 in Healthy Participants
-
-Intervention: : HRS-3095 — Single dose HRS-3095 /placebo given orally - Dose level 1
-: HRS-3095 — Single dose HRS-3095 /placebo given orally - Dose level 2
-: HRS-3095 — Single dose HRS-3095 /placebo given orally - Dose level 3
-Link: https://clinicaltrials.gov/study/NCT07686484
-
-SUMMARY:
-
 ## NCT07686653
 A Study of the Value of Trio Genome Sequencing in the Etiological Evaluation of Early-Onset and/or Atypical Psychiatric Disorders Without Intellectual Disability or Congenital Anomalies
 
@@ -15602,17 +15592,6 @@ Link: https://clinicaltrials.gov/study/NCT07842367
 
 SUMMARY:
 
-## NCT07842432
-Improving Student Mental Health Through a Universal Trauma-Informed Intervention: Testing Effectiveness and Implementation of Relax, be Aware, and do a Personal Rating (RAP) Club
-
-Intervention: : RAP Club Delivered by a School Clinician — RAP Club is a 12-session universal group intervention to promote mental health among 8th graders. It is delivered twice weekly over six weeks during the school day. Sessions include mindfulness practices and skills training in emotion regulation, distress tolerance, communication, and problem-solving. School-based mental health providers will be trained to deliver the program.
-: RAP Club Delivered by a Teacher — RAP Club is a 12-session universal group intervention to promote mental health among 8th graders. It is delivered twice weekly over six weeks during the school day. Sessions include mindfulness practices and skills training in emotion regulation, distress tolerance, communication, and problem-solving. Teachers and school staff members without specialized mental health training will be trained to deliver the program.
-: Standard Supervision — RAP Club facilitators receive weekly virtual group supervision.
-: Enhanced Supervision — RAP Club facilitators receive weekly virtual group supervision plus in-person observation and coaching once per week (i.e., at 6 of the 12 intervention sessions).
-Link: https://clinicaltrials.gov/study/NCT07842432
-
-SUMMARY:
-
 ## NCT07842458
 Depth Electrode Cortical Reverberation Monitoring After Traumatic Brain Injury
 
@@ -18083,110 +18062,166 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT04501120
-A Phase Ib Study of the Safety, Pharmacokinetic of Lisaftoclax (APG-2575) Single Agent and in Combination With Homoharringtonine or Azacitidine in Patients With Relapsed/Refractory AML
+## NCT04370587
+A Phase 1/2a, Open-Label, Dose Escalation and Expansion Study of the Safety and Tolerability of T3011 Administered Via Intratumoral Injection as a Single Agent and in Combination With Intravenous Pembrolizumab in Patients With Advanced or Metastatic Solid Tumors
 
-Intervention: : Lisaftoclax (APG-2575) — Lisaftoclax (APG-2575) orally once daily, every 28 days as a cycle.
-: Reduced-dose HHT — 1mg IV QD on Days 1-14 (28-day cycle).
-: standard-dose HHT — 2mg/m\^2 IV QD on Days 1-7 (28-day cycle).
-: Azacitidine — 75 mg/m\^2 SC or Iv gtt QD on Days 1- 7 (28-day cycle).
-: Lisaftoclax (APG-2575) — Lisaftoclax (APG-2575) orally once daily for 14 days, every 28 days as a cycle.
-: olverembatinib — orally, with meals, QOD, every 28 days as a cycle.
-Link: https://clinicaltrials.gov/study/NCT04501120
+Intervention: : T3011 — T3011 will be administered up to 4mL as an intratumoral injection given Q2W.
+: T3011 + pembrolizumab — T3011 will be administered up to 4mL as an intratumoral injection in combination with intravenous pembrolizumab given Q3W.
+Link: https://clinicaltrials.gov/study/NCT04370587
 
 SUMMARY:
 
-## NCT02328131
-European Registry on the Management of Helicobacter Pylori Infection
+## NCT02038660
+Evaluation of Effectiveness and Safety of Drug-Eluting Balloon in Routine Clinical Practice; A Multicenter Prospective Observational Cohort Study
+
+Intervention: : Balloon angioplasty
+Link: https://clinicaltrials.gov/study/NCT02038660
+
+SUMMARY:
+
+## NCT02648009
+Metabolic Imaging of the Heart Using Hyperpolarized (13C) Pyruvate Injection
+
+Intervention: : Hyperpolarized (13) Pyruvate Injection — MRI with Hyperpolarized Pyruvate (13) Injection
+: Gadolinium — MRI with Gadolinium
+Link: https://clinicaltrials.gov/study/NCT02648009
+
+SUMMARY:
+
+## NCT02315729
+Analysis of Prognostic Cell Signaling Factors in Adolescent Idiopathic Scoliosis
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02328131
+Link: https://clinicaltrials.gov/study/NCT02315729
 
 SUMMARY:
 
-## NCT01732523
-Predictive Value of Carotid Lesion Neovascularization Detected by Contrast-enhanced Ultrasound (CEUS) in Patients With Asymptomatic Carotid Stenosis
+## NCT03736863
+A Phase II Exploratory Clinical Trial of Multiple Drug Combinations in the Treatment of Advanced Esophageal Squamous Cell Carcinoma
 
-Intervention: : Contrast enhanced carotid ultrasound
-Link: https://clinicaltrials.gov/study/NCT01732523
+Intervention: : Apatinib+ SHR-1210（Camrelizumab） — Apatinib 250mg, q.d.po+SHR-1210（Camrelizumab）200 mg，Intravenous injection，q2W
+: Apatinib+ SHR-1316（Adebrelimab） — Apatinib 250mg, q.d.po+SHR-1316（Adebrelimab） 1200 mg，Intravenous injection，q2W
+: SHR-1316（Adebrelimab）+SHR-A2009 — SHR-1316 was administered intravenously, 1200mg, Q3W; SHR-A2009 8mg/kg, iv, Q3W,
+Link: https://clinicaltrials.gov/study/NCT03736863
 
 SUMMARY:
 
-## NCT04004286
-Defense and Veterans Center for Integrative Pain Management (DVCIPM)Pain Registry Biobank
+## NCT03501576
+Evaluation of Human Immune Responses Vaccination in Patients With Lymphoma
+
+Intervention: : Inactivated Influenza Vaccine — Given seasonal inactivated influenza vaccine IM
+Link: https://clinicaltrials.gov/study/NCT03501576
+
+SUMMARY:
+
+## NCT01998750
+Study to Identify Rare Genetic Variants Causing Severe Early Childhood Obesity
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04004286
+Link: https://clinicaltrials.gov/study/NCT01998750
 
 SUMMARY:
 
-## NCT00107289
-Open Access Protocol of Targeted Radiotherapy With I-metaiodobenzylguanidine (I-MIBG) in Patients With Resistant Neuroblastoma or Malignant Chromaffin Cell Tumors
+## NCT03916809
+Impact of Expiratory Muscle Strength Training (EMST) on Swallowing Function in Persons Undergoing Radiotherapy With or Without Chemotherapy (CRT) for Cancers of the Head and Neck (HNCA)
 
-Intervention: : iobenguane I 131 — A single dose of iodine I 131 metaiodobenzylguanidine (\^131I-MIBG) IV over 30 minutes to 4 hours or for 15 minutes for smaller patients on day 0. Patients undergo radiation dosimetry following the first dose of \^131I-MIBG to determine if a second dose can be safely administered. Some patients may receive a second dose of iodine I 131 metaiodobenzylguanidine (\^131I-MIBG) 6-8 weeks after the first dose. In some scenarios, extended time will be allowed before the second dose of 131I-MIBG for additional recovery and possible bridging therapy. If response is achieved and patients do not experience major toxicity. After blood radioactivity has fallen below 1 μCi/mL, patients may undergo autologous stem cell transplantation. After completion of study treatment, patients are followed at 4-6 weeks after \^131I-MIBG administration and then every 3 months for up to 1 year. Once patients are off treatment on this protocol, they will begin long term follow up through 5 years from enrollment.
-Link: https://clinicaltrials.gov/study/NCT00107289
-
-SUMMARY:
-
-## NCT04475289
-Registry for Invasive and Non-invasive Anatomical Assessment and Outcome of Coronary Artery Anomalies
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04475289
+Intervention: : EMST — Expiratory muscle strength training (EMST) is an exercise program designed to strengthen the muscles of expiration by increasing expiratory load during breathing exercises using either resistive or pressure threshold devices. The EMST150 is a commercially-available device considered non-significant risk (NSR). The EMST150 device will be used for this study.
+Link: https://clinicaltrials.gov/study/NCT03916809
 
 SUMMARY:
 
-## NCT03750227
-Pre-Operative vs. Post-Operative Stereotactic Radiosurgery for Operative Metastatic Brain Tumors
+## NCT04109131
+A Brain Metastases Research Platform to Tackle the Challenge of CNS Metastases in Solid Tumours - BrainStorm Program
 
-Intervention: : Conventional Surgery — Undergo surgery
-: Questionnaire Administration — Ancillary studies
-: Stereotactic Radiosurgery — Undergo stereotactic radiosurgery
-: Computed Tomography — Undergo CT
-: Magnetic Resonance Imaging — Undergo MRI
-: Biospecimen Collection — Undergo blood sample, tissue and CSF sample collection
-Link: https://clinicaltrials.gov/study/NCT03750227
+Intervention: : Samples collection: Plasma — At baseline
+
+Part A:
+
+* TNBC/ HER2+ BC: once a year
+* NSCLC/SCLC: every 4 months
+* Melanoma: every 6 months
+
+Part B:
+
+o As close as possible to the diagnosis of CNS metastases and no later than 6 weeks after diagnosis
+
+Part C:
+
+o Every 3 months (+/- 1 month)
+: Samples collection: CSF — Part B: Mandatory CSF sampling at CNS diagnosis when clinically possible unless medically contra-indicated - As close as possible to the diagnosis of CNS metastases and no later than 6 weeks after diagnosis Part C: Additional CSF sampling in case CSF sampling is performed for routine clinical practice
+: Samples collection: Non-CNS Metastatic Tumour Tissue — Part B: Highly recommended non-CNS metastatic tumour tissue collection (1FFPE and 1 FT) at CNS metastases diagnosis (Part B) (NB: Bone lesions are excluded) - As close as possible to the diagnosis of CNS metastases and no later than 6 weeks after diagnosis
+: Brain MRI — Part A:
+
+* Brain MRI at inclusion is allowed within 45 days before enrolment
+* Brain MRI pre-CNS diagnosis (Part A) : HER2 BC/TNBC: once a year; NSCLC/SCLC: every 4 months; Melanoma: every 6 months (+/- 1 month)
+
+Part B:
+
+o As close as possible to the diagnosis of CNS metastases and no later than 6 weeks after diagnosis
+
+Part C:
+
+o Brain MRI post-CNS diagnosis (Part C): every 3 months (+/- 1 month window)
+: Samples collection: Serum — At baseline
+
+Part A:
+
+* TNBC/ HER2+ BC: once a year
+* NSCLC/SCLC: every 4 months
+* Melanoma: every 6 months
+
+Part B:
+
+o As close as possible to the diagnosis of CNS metastases and no later than 6 weeks after diagnosis for cohorts 1-5.
+Link: https://clinicaltrials.gov/study/NCT04109131
 
 SUMMARY:
 
-## NCT03997110
-Rapid Palliation in Locally Advanced Cervical Cancer: A Phase III Randomized Trial
+## NCT02973633
+Diffusion MRI in Heart Failure
 
-Intervention: : Short course palliative radiation. — Week 1: Patients in the experimental arm will be treated with short course radiotherapy (25Gy/5#). The dose fractionation of 25 Gy in 5# over a week will be used. Week 4: Patients who have almost complete clinical response will be evaluated for brachytherapy will receive the appropriate brachytherapy procedure depending on the tumor response to a dose of 6-8Gy x 2-3#. The patients who will be found unsuitable for brachytherapy will be kept under observation. Week 12: After treatment completion, response assessment will be done using following parameters: • Pain assessment using numerical pain rating scale on 0-10 • Vaginal bleeding- yes/no • Vaginal discharge- yes/ no • Analgesic use- WHO ladder and dosing • QOL QC30, QLQC15 Pall, QLQC Cervix 24 • Disease response • Acute toxicity. Follow up: Patients follow up will be utilizing standard of care imaging and lab investigations used for the patients. Patients will be evaluated every 3 months for the study duration.
-: Long course palliative treatment. — Week1: All the patients will receive external sitting of radiation treatment, first fraction of 10 Gy. Week4: All the patients will receive external sitting of radiation treatment, second fraction of 10 Gy. Week7: Patients who have almost complete clinical response will be evaluated for brachytherapy will receive the appropriate brachytherapy procedure depending on the tumor response to a dose of 6-8Gy x 2-3#.The patients who will be found unsuitable for brachytherapy will receive another sitting of external radiation, third fraction of 10 Gy. Week 12: After treatment completion response assessment will be done using following parameters: • Pain assessment using numerical pain rating scale on 0-10 • Vaginal bleeding- yes/ no • Vaginal discharge- yes/no • Analgesic use- WHO ladder and dosing • QOL QC30, QLQC15 Pall, QLQC Cervix 24 • Disease response • Acute toxicity
-Link: https://clinicaltrials.gov/study/NCT03997110
-
-SUMMARY:
-
-## NCT02720679
-Investigation of the Genetics of Hematologic Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02720679
+Intervention: : Diffusion Tensor MRI (DTI) — Diffusion Tensor MRI (DTI) measures the diffusion of water in the heart, which allows the orientation of the muscle fibers in the heart to be determined.
+: Gadolinium DOTA Meglumine — Late Gadolinium enhancement
+Link: https://clinicaltrials.gov/study/NCT02973633
 
 SUMMARY:
 
-## NCT03526159
-A Pilot Study of the Restoration of Functional Laminin 332 in JEB Patients With Nonsense Mutations After Topical and Intravenous Gentamicin Treatment
+## NCT03299530
+Accuracy of Corneal Astigmatism in Different Region Modes
 
-Intervention: : Gentamicin Sulfate — Gentamicin (formulated as gentamicin sulfate) is a well-known, well-characterized antibiotic that has been used for four decades as a treatment against gram negative bacteria. It, like other aminoglycoside antibiotics, has the well documented added potential to facilitate readthrough of premature termination codons in eukaryotic cells and organisms.
-Link: https://clinicaltrials.gov/study/NCT03526159
-
-SUMMARY:
-
-## NCT03186391
-Sensitivity and Specificity of the AHA Post-exercise ABI Criteria
-
-Intervention: : Data collected — Use the data collected during a usual consultation to study the relationship between different parameters (rest pressure ...) and imaging
-Link: https://clinicaltrials.gov/study/NCT03186391
+Intervention: : patients with corneal astigmatism — The total corneal astigmatism, anterior chamber depth, will be measured by a Scheimpflug tomographer. Pupil size will be measured by itrace device and MONCV3 device. Residual astigmatism will be tested by subjective refraction.
+Link: https://clinicaltrials.gov/study/NCT03299530
 
 SUMMARY:
 
-## NCT04120688
-3D Autotransplantation of Teeth
+## NCT03940911
+Fatigue and Skeletal Muscle Impact in Severe Axial Spondyloarthritis
 
-Intervention: : 3D generated tooth replica — 3D generated tooth replicas are compared to conventional procedure
-Link: https://clinicaltrials.gov/study/NCT04120688
+Intervention: : Measurement of aerobic exercise on cycloergometer — The incremental effects tests will be performed in a service specialized in the exploration of the exercise (physiology or cardiology according to the centers) in a spacious and air-conditioned room, in the presence of a medical specialist. exercise and close to the resuscitation equipment.
+
+Before the test, weight and height will be collected. Information on the conduct of the test will be given to the patient. A multi-derivation ECG recording will be detected throughout the duration of the test and followed by a physician experienced in the ECG effort.
+
+O2 saturation by oximetry of hens will be recorded continuously. Blood pressure will be recorded at each level. The collection of expired gases in the face mask whose tightness will be verified to measure the fractions inspired and expired in O2 and CO2 (Sensor Medics Vmax229, Yorba Linda, CA, USA) and calculations VO2 max and VCO2.
+
+Maximal power (W max) will be recorded. Patients will be encouraged during the test.
+Link: https://clinicaltrials.gov/study/NCT03940911
+
+SUMMARY:
+
+## NCT03626844
+Maternal Outcomes Following Manual Lysis of the Placenta After Fifteen Compared to Thirty Minutes. A Randomized Controlled Trial.
+
+Intervention: : Manual Lysis of Placenta after 15 minutes (Intervention) — Manual Lysis of Placenta after 15 minutes: We administer prophylactic antibiotics, under epidural analgesia, under aseptic conditions, we perform manual lysis of placenta by introducing the hand through the vagina to the uterine cavity, separating and removing the placenta.
+: Manual Lysis of Placenta after 30 minutes (Control) — Manual Lysis of Placenta after 30 minutes: We administer prophylactic antibiotics, under epidural analgesia, under aseptic conditions, we perform manual lysis of placenta by introducing the hand through the vagina to the uterine cavity, separating and removing the placenta.
+Link: https://clinicaltrials.gov/study/NCT03626844
+
+SUMMARY:
+
+## NCT04109365
+Electrical Epidural Stimulation Test for Confirmation of Epidural Catheter Placement in Labouring Women
+
+Intervention: : Electrical Epidural Stimulation Test (EST) — EST measures sensory/motor responses
+Link: https://clinicaltrials.gov/study/NCT04109365
 
 SUMMARY:
 

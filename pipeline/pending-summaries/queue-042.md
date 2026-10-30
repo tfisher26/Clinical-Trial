@@ -1663,14 +1663,6 @@ Link: https://clinicaltrials.gov/study/NCT06945198
 
 SUMMARY:
 
-## NCT07691866
-Examining the Relationship Between Balance and Cognitive Functions Based on Chronotype
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07691866
-
-SUMMARY:
-
 ## NCT07260071
 Family Study of Early Hypertension in Children and Young People at Risk of Autosomal Dominant Polycystic Kidney Disease
 
@@ -3209,14 +3201,6 @@ Causal Dynamics of Human Amygdala-Prefrontal Circuits During Fear Extinction Lea
 Intervention: : Direct intracranial electrical stimulation — During a resting state and extinction learning phase, participants will receive electrical stimulation (single-pulse and/or high-frequency stimulation) through the intracranial electrodes while recording local field potentials from the neural networks. Direct electrical stimulation will be accomplished using FDA-approved equipment and stimulation protocols that are consistent with those used routinely for clinical purposes.
 : Fear conditioning — Participants will be involved in a Pavlovian fear conditioning/extinction experiment while recording local field potential signals from the neural networks. During the experiment, neutral stimuli will be paired with an aversive but not painful electric shock (via the surface skin of the hand/foot) or screeching sound.
 Link: https://clinicaltrials.gov/study/NCT07800455
-
-SUMMARY:
-
-## NCT07334106
-Emotional Well-being and Biomarkers of Healthy Aging
-
-Intervention: : Positive Emotion Skills Intervention — Skills include positive events, capitalizing, gratitude, mindfulness, positive reappraisal, personal strengths, achievable goals, and self-compassion. The skills will be delivered over approximately 6 weeks, and individuals can participate from any device and location with internet access. A week will consist of 1-2 days of didactic material and 5-6 days of real-life skills practice and reporting. Participants cannot skip ahead and can only progress to the next lesson if they have completed the current one, but they can return to old lessons or exercises if they wish to.
-Link: https://clinicaltrials.gov/study/NCT07334106
 
 SUMMARY:
 

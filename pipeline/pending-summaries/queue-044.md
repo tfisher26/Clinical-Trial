@@ -8402,15 +8402,6 @@ Link: https://clinicaltrials.gov/study/NCT05804643
 
 SUMMARY:
 
-## NCT05805397
-Motivation Skills Training to Enhance Functional Outcomes for People With Schizophrenia
-
-Intervention: : Motivation Skills Training — Participants will complete a baseline assessment, receive weekly MST sessions in a group format for a duration of 12 weeks, and will then repeat the assessment battery from baseline immediately following treatment completion and 2-months after.
-: Healthy Behaviors Control Group — Participants will complete a baseline assessment, receive weekly HBC sessions in a group format for a duration of 12 weeks, and will repeat the assessment battery from baseline immediately following treatment completion and 2-months after.
-Link: https://clinicaltrials.gov/study/NCT05805397
-
-SUMMARY: People with schizophrenia often have low motivation that limits daily function. This study tests motivation skills training.
-
 ## NCT05805410
 Neuromuscular Mechanisms of Specific Trunk Interventions in Children With Cerebral Palsy
 
@@ -10275,14 +10266,6 @@ Intervention: : Time restricted eating — Participants assigned to the TRE grou
 Link: https://clinicaltrials.gov/study/NCT05866406
 
 SUMMARY: Poor eating patterns can harm heart and metabolic health. This study tests time restricted eating, where meals are limited to a set window each day, for cardiometabolic health.
-
-## NCT05866432
-Phase II Study of Datopotamab-Deruxtecan (Dato-DXd; DS-1026a) in Triple-negative Breast Cancer Patients With Newly Diagnosed or Progressing Brain Metastases
-
-Intervention: : Datopotamab deruxtecan — Will be given until PD or withdraw
-Link: https://clinicaltrials.gov/study/NCT05866432
-
-SUMMARY: Triple negative breast cancer that has spread to the brain is hard to treat. This study tests datopotamab deruxtecan, an antibody drug conjugate, in these patients.
 
 ## NCT05866523
 Teamwork Makes the Dream Work: Team-based Inpatient Anti-Retroviral Treatment and Access to Services (ARTAS)
@@ -13531,15 +13514,6 @@ Pragmatic Randomized Controlled Trial to Evaluate the Effect of CirrhosisRx, a N
 
 Intervention: : CirrhosisRx CDS — CirrhosisRx is a cirrhosis-specific CDS that organizes clinical data into clinically relevant groupings and links them to order sets consistent with national practice guidelines for inpatient cirrhosis care.
 Link: https://clinicaltrials.gov/study/NCT05967273
-
-SUMMARY:
-
-## NCT05967299
-A Phase 1 Single-Ascending Dose Study to Evaluate the Safety, Tolerability and Pharmacokinetics of Intravenous ZMA001 in Healthy Subjects
-
-Intervention: : Placebo Cohort 1 (1.5 mg/kg/dose) only — 30mg/ml Sucrose
-: ZMA001 (BC-NKA-20008) — ZMA001 is a fully human, monoclonal antibody (IgG1) that inhibits migration of activated monocytes and macrophages and reduces pulmonary vascular remodeling and pulmonary artery pressure in pre-clinical rodent models of pulmonary arterial hypertension (PAH).
-Link: https://clinicaltrials.gov/study/NCT05967299
 
 SUMMARY:
 

@@ -2,16 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT06994897
-A PHASE 1, RANDOMIZED, MULTI-CENTER, DOUBLE-BLIND, SPONSOR OPEN, PLACEBO-CONTROLLED, SINGLE DOSE-ESCALATION AND MULTIPLE DOSE STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND PHARMACOKINETICS OF PF-07985631 IN HEALTHY ADULT PARTICIPANTS
-
-Intervention: : PF-07985631 — Experimental Pfizer compound which will be SC or IV
-: Placebo — Placebo which will be SC or IV
-Link: https://clinicaltrials.gov/study/NCT06994897
-
-SUMMARY:
-
-
 ## NCT06808477
 A Randomized, Blinded, Placebo-controlled, Single- and Multiple-ascending Dose Study to Evaluate Safety, Tolerability, Pharmacokinetics, Immunogenicity, Pharmacodynamics and Clinical Activity of BBT001 in HVs and Adult Patients With AD
 

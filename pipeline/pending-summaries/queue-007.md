@@ -1092,15 +1092,6 @@ Link: https://clinicaltrials.gov/study/NCT06976073
 SUMMARY:
 
 
-## NCT06713265
-Study of the Link Between Freezing of Gait and Oropharyngeal Freezing in Parkinson's Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06713265
-
-SUMMARY:
-
-
 ## NCT07125859
 Prevalence of Preoperative Malnutrition and Changes in Nutritional Status Following Preoperative Nutrition Education in Surgical Patients Attending a Preoperative Clinic
 

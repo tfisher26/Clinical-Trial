@@ -10722,14 +10722,6 @@ Link: https://clinicaltrials.gov/study/NCT06910306
 
 SUMMARY:
 
-## NCT06910449
-Hemithoracic Volumetric Modulated Arc Radiotherapy as Part of Lung-Sparing Multimodality Therapy in Patients With Malignant Pleural Mesothelioma Phase II Trial
-
-Intervention: : hemithoracic Volumetric Arc Radiotherapy post Pleural decortication — post operative delivery of hemithoracic Volumetric Arc Radiotherapy
-Link: https://clinicaltrials.gov/study/NCT06910449
-
-SUMMARY:
-
 ## NCT06910631
 Optimisation du Parcours de Soins Des Enfants fébriles Par l'Utilisation de la CRP Capillaire en Soins Primaires : Protocole d'un Essai Multicentrique randomisé
 

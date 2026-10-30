@@ -5935,15 +5935,6 @@ Link: https://clinicaltrials.gov/study/NCT07649057
 SUMMARY:
 
 
-## NCT06775262
-Patients with Chronic Fatigue Complaints for Whom a Consultation Including Diagnostics Do Not Reveal a Somatic Diagnosis Atthe Internal Medicine Outpatient Clinic
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06775262
-
-SUMMARY:
-
-
 ## NCT07545317
 Efficacy and Safety of IL-23 Inhibitors in Patients With Active Crohn's Disease: A Prospective, Multicenter, Observational Study
 

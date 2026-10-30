@@ -218,16 +218,6 @@ Link: https://clinicaltrials.gov/study/NCT07814235
 SUMMARY:
 
 
-## NCT04525716
-What Are the Effects of the Covid-19 Pandemic Among Operated Patients? A Hospital Based Cohort in Stockholm, Sweden
-
-Intervention: : COVID-19 infection status — The investigators will compare patients with/without confirmed COVID-19 infection
-: Socioeconomic status — Patients from different socioeconomic groups will be compared
-Link: https://clinicaltrials.gov/study/NCT04525716
-
-SUMMARY:
-
-
 ## NCT06671184
 Nomogram for Predicting Difficult Transoral and Submental Thyroidectomy
 

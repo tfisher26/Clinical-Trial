@@ -792,15 +792,6 @@ Link: https://clinicaltrials.gov/study/NCT07488442
 
 SUMMARY:
 
-## NCT07488455
-An Evaluation of the Effectiveness of Video-Based or Written Pelvic Floor Education on Knowledge Levels and Pelvic Floor Function in Postpartum Women
-
-Intervention: : video-based education — An educational video covering pelvic floor anatomy, pelvic floor dysfunction, risk factors, and pelvic floor exercises
-: written education — A written text covering pelvic floor anatomy, pelvic floor dysfunction, risk factors, and pelvic floor exercises
-Link: https://clinicaltrials.gov/study/NCT07488455
-
-SUMMARY:
-
 ## NCT07488819
 Imaging PDE4B in People With Psychiatric Disorders With PET and the Radiotracer [18F]PF974
 
@@ -5484,15 +5475,6 @@ Perioperative Outcomes of Surgical Staging in Patients With Early-stage Endometr
 Intervention: : laparoscopic surgical staging — surgical staging by laparoscopy
 : open surgical staging — surgical staging through open surgery
 Link: https://clinicaltrials.gov/study/NCT07546825
-
-SUMMARY:
-
-## NCT07546903
-Comparison of the Postoperative Analgesic Efficacy of Ultrasound-Guided Suprainguinal Fascia Iliaca Block and Quadro-Iliac Plane Block in Patients Undergoing Hip Fracture Surgery
-
-Intervention: : Suprainguinal Fascia Iliaca Block — the area between the iliacus muscle and the fascia iliaca will be reached at the level of the anterior superior iliac spine, proximal to the inguinal ligament. Hydrodissection will be performed with 2 mL of saline, followed by the injection of 40 mL of 0.25% bupivacaine.
-: Quadro-Iliac Plane Block — At the level of the L3 vertebra, the probe will be placed just lateral to the spinous process to visualize the erector spinae, quadratus lumborum, and psoas major muscles.
-Link: https://clinicaltrials.gov/study/NCT07546903
 
 SUMMARY:
 
@@ -12695,14 +12677,6 @@ Study Protocol Used in Maternal Inheritance of a Pathogenic MT-ND1 Mutation Caus
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07691827
-
-SUMMARY:
-
-## NCT07691866
-Examining the Relationship Between Balance and Cognitive Functions Based on Chronotype
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07691866
 
 SUMMARY:
 

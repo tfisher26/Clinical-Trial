@@ -3641,15 +3641,6 @@ Link: https://clinicaltrials.gov/study/NCT06169514
 
 SUMMARY:
 
-## NCT06170047
-The Chicago Parent Program for Foster Care: A Randomized Control Trial Examining the Prevention of Behavior Problems Among Young Children in Foster Care Through Group-based Foster Caregiver Training
-
-Intervention: : Chicago Parent Program for Foster Care — CPP-FC consists of 12 two-hour sessions delivered virtually by two trained group leaders over 16 weeks (11 concurrent weeks, 1 one-month booster) in a group-based format. Foster and kinship caregivers of young children are systematically taught parenting skills through group discussions, videotaped vignettes, structured role play and weekly homework assignments.
-: Usual Care — The Usual Care control will receive services from the county, CHECK clinic, and for licensed caregivers, their licensing agency per usual care. Caregivers receive training and support from their county and/or private licensing agency, children are referred to community services by the caseworker when behaviors emerge, and support from behavioral health specialists is available when caregivers request them.
-Link: https://clinicaltrials.gov/study/NCT06170047
-
-SUMMARY: Young children in foster care are at risk of behavior problems. This study tests the Chicago Parent Program adapted for foster care to prevent these problems.
-
 ## NCT06170489
 A Phase III, Randomised, Open-label,, Multi-Center Clinical Study Comparing JS004 Plus Toripalimab With Investigator-Selected Chemotherapy in Patients With PD-(L)1 Monoclonal Antibody Refractory Classic Hodgkin Lymphoma (cHL)
 
@@ -13280,14 +13271,6 @@ A Retrospective/Prospective, Post-market, Multi-center Evaluation of the Clinica
 
 Intervention: : Triathlon Hinge Knee (THK) System — Participants receive Triathlon Hinge Knee (THK) System during primary or revision knee arthroplasty in accordance with the indications for use
 Link: https://clinicaltrials.gov/study/NCT06379321
-
-SUMMARY:
-
-## NCT06379347
-HOspitalized Patients and Clinical flUid Status, Assessment Using Point Of Care UltraSound
-
-Intervention: : POCUS performed on clinical indication — POCUS performed on clinical indication
-Link: https://clinicaltrials.gov/study/NCT06379347
 
 SUMMARY:
 

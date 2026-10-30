@@ -10280,18 +10280,6 @@ Link: https://clinicaltrials.gov/study/NCT05188079
 
 SUMMARY:
 
-## NCT05188092
-Effect of Lung Ultrasound-Guided Fluid Deresuscitation on Duration of Ventilation in Intensive Care Unit Patients (CONFIDENCE)
-
-Intervention: : Lung ultrasound guided deresuscitation — With every new LUS examination, the following scenarios, with distinct recommendations, are possible:
-
-1. LUS observations suggest massive pulmonary fluid overload, with the recommendation to minimize fluid infusion and start fluid withdrawal, targeting a negative fluid balance of at least -1500 ml in the next 24 hours;
-2. LUS suggests some pulmonary edema and/or significant pleural effusion. These LUS observations suggest little pulmonary fluid overload, with the suggestion to minimize fluid infusion and start fluid withdrawal, targeting a negative fluid balance at least -500 ml in the next 24 hours;
-3. LUS suggests absence of pulmonary edema and no pleural effusion. These LUS observations suggest no fluid overload, with the suggestion to target a neutral fluid balance in the next 24 hours.
-Link: https://clinicaltrials.gov/study/NCT05188092
-
-SUMMARY:
-
 ## NCT05188612
 International Survey of Acute Coronavirus Syndromes (ISACS)-COVID-19
 

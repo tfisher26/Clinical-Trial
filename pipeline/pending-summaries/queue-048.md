@@ -9385,15 +9385,6 @@ Link: https://clinicaltrials.gov/study/NCT07132879
 
 SUMMARY:
 
-## NCT07132918
-The cARdiac Radiation Therapy Sparing (HEARTS) for Thoracic Cancers
-
-Intervention: : MRgART — Magnetic Resonance-guided Adaptive Radiation Therapy (MRgART) is a form of MRgRT that incorporates daily adaptive planning, or making a new treatment plan each treatment, and real-time imaging during treatment delivery.
-: LINAC — Daily 3D x-ray scans will be obtained for radiation delivery to confirm tumor and organ at risk placement.
-Link: https://clinicaltrials.gov/study/NCT07132918
-
-SUMMARY:
-
 ## NCT07133009
 The Effect of the Intentional Relationship Model on Therapeutic Use of Self and Career Choice in Occupational Therapy Students
 
@@ -15075,16 +15066,6 @@ Link: https://clinicaltrials.gov/study/NCT07203131
 
 SUMMARY:
 
-## NCT07203222
-Comparison of the Efficacy of Low-Dose Laser and Transcutaneous Electrical Nerve Stimulation in Subacute Hemiplegic Shoulder Pain, and the Effect of Treatments on Upper Extremity Function and Quality of Life
-
-Intervention: : Low Dose Laser — Patients with subacromial-subdeltoid bursa, m. deltoideus, m. biceps longus, m. infraspinatus, and m. supraspinatus muscles (at the most painful point of the muscles) with a 13-diode Gallium-Aluminium-Arsenide laser device (Intelect Mobile Laser) with a wavelength of 850 nm and 50 mW, 4 Joules per day, 20 seconds, for a total of 15 laser sessions.
-: TENS — TENS therapy will be administered using the TENS device (Intelect Advanced Therapy System) for a total of 15 sessions, 5 days a week, 20 minutes per day, at a dose of 20-40 mA.
-: Conventional physical therapy — Only conventional physiotherapy is planned to be administered to patients.
-Link: https://clinicaltrials.gov/study/NCT07203222
-
-SUMMARY:
-
 ## NCT07203287
 Risk of Acute Complications With Rocuronium vs Cisatracurium in Patients With Chronic Kidney Disease
 
@@ -16246,14 +16227,6 @@ Link: https://clinicaltrials.gov/study/NCT07218510
 
 SUMMARY:
 
-## NCT07218640
-Aimmune Therapeutics Manufacturing, LLC Longitudinal Collaboration Study: Evaluating the Impact of Lifestyle Factors on the Microbiome
-
-Intervention: : Chia seeds — Participant will add 2.5 tbsp daily chia seeds to their diet for 8 weeks
-Link: https://clinicaltrials.gov/study/NCT07218640
-
-SUMMARY:
-
 ## NCT07218666
 Phase II Study of Zanzalintinib in Men With Aggressive Variant Prostate Cancer (NAPOLEON Study)
 
@@ -16411,15 +16384,6 @@ Disrupted Sleep and Concurrent Ectopy or Atrial Fibrillation
 
 Intervention: : HGNS Use Randomized Instructions — In this intervention assignment, participants will be instructed to turn off/not use their HGNS device during that night of sleep. HGNS 'on': In this intervention assignment, participants will be instructed to turn on/use their HGNS device during that night of sleep.
 Link: https://clinicaltrials.gov/study/NCT07220525
-
-SUMMARY:
-
-## NCT07220538
-Pragmatic Open-label, Parallel-group Clinical Trial on the Effectiveness of Extract of Ginkgo Biloba Leaves Tablets as add-on to Standard of Care in Participants With Cognitive Impairment After an Acute Ischemic Stroke (GiCIIS)
-
-Intervention: : Extract of Ginkgo Biloba Leaves Tablets 240 mg (2 x 40 mg, t.i.d.) — 3 x 2 film-coated tablets with 40 mg Extract of Ginkgo Biloba Leaves Tablets daily for 52 weeks plus standard of care in accordance with treatment guidelines
-: Standard of care (SoC) Group — Individualized therapy in accordance with treatment guideline from the Chinese Stroke Association
-Link: https://clinicaltrials.gov/study/NCT07220538
 
 SUMMARY:
 

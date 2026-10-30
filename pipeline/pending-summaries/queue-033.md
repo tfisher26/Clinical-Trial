@@ -1451,15 +1451,6 @@ Link: https://clinicaltrials.gov/study/NCT07340125
 SUMMARY:
 
 
-## NCT07254013
-Left Bundle Branch Area Pacing (LBBAP) Monitoring Assistant: Evaluation of Portable ECG Solution
-
-Intervention: : LBBAP implant — Use of Smart ECG system during the LBB implant
-Link: https://clinicaltrials.gov/study/NCT07254013
-
-SUMMARY:
-
-
 ## NCT06440148
 Role of Sclerostin in Mastocytosis Bone Disease
 

@@ -2366,15 +2366,6 @@ Link: https://clinicaltrials.gov/study/NCT07261293
 
 SUMMARY:
 
-## NCT07261436
-Performance Comparison of Large Language Models in TAP Block Ultrasound Interpretation: A Double-Blind Prospective Study
-
-Intervention: : Gemini 2.5 Pro Evaluation — Analysis of de-identified ultrasound videos by the Gemini 2.5 Pro artificial intelligence model. The model receives standardized prompts and provides anatomical interpretation, block success assessment, and clinical suggestion outputs.
-: ChatGPT-5.1 Evaluation — Analysis of de-identified ultrasound videos by the ChatGPT-5.1 artificial intelligence model. The model receives the same standardized questions and produces anatomical and clinical interpretations for comparison.
-Link: https://clinicaltrials.gov/study/NCT07261436
-
-SUMMARY:
-
 ## NCT07261631
 A Phase I Open-label, Multi-center Study to Evaluate the Safety, Tolerability, Dosimetry, and Preliminary Activity of [177Lu]Lu-DFC413 and Safety and Imaging Properties of [68Ga]Ga-NNS309 in Patients With Solid Tumors
 
@@ -7710,14 +7701,6 @@ A Safety and Efficacy Study of in Vivo CAR-T (HN2301) for Refractory Graves' Dis
 
 Intervention: : In Vivo CAR-T Therapy — Participants will receive 3 to 5 intravenous administrations of HN2301, given once every 2 days, according to the study dosing regimen.
 Link: https://clinicaltrials.gov/study/NCT07333677
-
-SUMMARY:
-
-## NCT07334106
-Emotional Well-being and Biomarkers of Healthy Aging
-
-Intervention: : Positive Emotion Skills Intervention — Skills include positive events, capitalizing, gratitude, mindfulness, positive reappraisal, personal strengths, achievable goals, and self-compassion. The skills will be delivered over approximately 6 weeks, and individuals can participate from any device and location with internet access. A week will consist of 1-2 days of didactic material and 5-6 days of real-life skills practice and reporting. Participants cannot skip ahead and can only progress to the next lesson if they have completed the current one, but they can return to old lessons or exercises if they wish to.
-Link: https://clinicaltrials.gov/study/NCT07334106
 
 SUMMARY:
 
