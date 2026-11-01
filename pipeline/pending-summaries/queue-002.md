@@ -18062,153 +18062,130 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT01179815
-Swiss Diabetes Registry - SwissDiab Study, a Prospective Cohort Study of Patients With Diabetes in Switzerland
+## NCT03716128
+Diagnosis of Renal Osteodystrophy in Patients With Reduced Renal Function Can 18F-PET Replace Bone Histomorphometry
+
+Intervention: : 18F-PET — Bone biopsy and 18F-PET
+Link: https://clinicaltrials.gov/study/NCT03716128
+
+SUMMARY:
+
+## NCT03717844
+Registry for Adults With Plasma Cell Disorders (PCD's)
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01179815
+Link: https://clinicaltrials.gov/study/NCT03717844
 
 SUMMARY:
 
-## NCT02820233
-Isolation and Characterization of ERBB Expressing Human Heart Progenitor Cells
+## NCT03561376
+Zinc Oxide Versus Petrolatum Following Skin Surgery: A Head-to-head, Prospective, Split-scar Study
+
+Intervention: : Topical zinc oxide vs. petrolatum post-surgical scars — Following linear closure on non-scalp skin with scar length \> 4.5 cm, incision site will be "split" and petrolatum applied to one half and zinc oxide ointment to the other half daily for one month following surgery.
+Link: https://clinicaltrials.gov/study/NCT03561376
+
+SUMMARY:
+
+## NCT03198052
+CAR-T Targeting GPC3, Mesothelin, Claudin18.2, GUCY2C, B7-H3, PSCA, PSMA, MUC1, TGFβ, HER2, Lewis-Y, AXL, or EGFR for Immunotherapy of Lung Cancer: Phase I Clinical Trial
+
+Intervention: : CAR-T cells targeting GPC3, Mesothelin, Claudin18.2, GUCY2C, B7-H3, PSCA, PSMA, MUC1, TGFβ, HER2, Lewis-Y, AXL, or EGFR — CAR-T cells injection: (1-10×10e6/kg CAR-T for each treatment; 3 or more cycles.
+Link: https://clinicaltrials.gov/study/NCT03198052
+
+SUMMARY:
+
+## NCT04019249
+HealthyWeightHub.fi: Web-based Management of Obesity in a Real-life Clinical Setting
+
+Intervention: : Healthy Weight Coaching — Healthy Weight Coaching is a 52 week long web-based weight loss program consisting of weekly modules, exercises, peer support, and one-on-one coaching. It encompasses themes such as diet, physical activity, coping with stress, sleep, and general health.
+Link: https://clinicaltrials.gov/study/NCT04019249
+
+SUMMARY:
+
+## NCT03828773
+PTX3 Genetically Stratified Randomized Double-blinded Allocation Event-driven Clinical Trial for Antifungal Prophylaxis in Patients With Acute Myeloid Leukemia
+
+Intervention: : Posaconazole — Posaconazole is a triazole with broad-spectrum activity, to include Candida species, Aspergillus species, and other fungal pathogens, including the Zygomycetes. Posaconazole is available as slow release tablets (300mg/day) and as intravenous (IV) formulation (300mg/day) and is licensed and approved in Switzerland for the prevention of IFI, including mold and yeast infections, in patients \>18 years who are at high risk of developing these types of infection (patients with long-term neutropenia or HCT recipients). Furthermore, international guidelines recommend posaconazole for primary antifungal prophylaxis in high-risk patients, such as AML patients with prolonged neutropenia. Posaconazole is available in Switzerland under the name of Noxafil® in capsules of 100mg, suspension of 40mg/mL and intravenous formulation of 300mg/16.7 mL.
+: Fluconazole — Fluconazole is an antifungal with activity against most Candida species. Fluconazole is licensed and approved in Switzerland for prophylaxis of IC in patients with neutropenia induced by chemotherapy or radiotherapy at a daily dose of 200 to 400 mg once daily. Fluconazole (200 mg or 400 mg once daily) is still currently used as primary antifungal prophylaxis (standard of care) in all 7 centers participating in this trial. Fluconazole is available in Switzerland under the name of Diflucan® in capsules of 50 mg, 150 mg and 200 mg and in powder for preparation of suspension (50 mg/5 ml and 200 mg/5 ml (forte)) or perfusion (2 mg/1 ml). Several generics of Diflucan® are authorized in Switzerland. Prescribing Diflucan® or any of its generics will remain at the discretion of and based on the standard operating procedures (SOP) at each institution.
+Link: https://clinicaltrials.gov/study/NCT03828773
+
+SUMMARY:
+
+## NCT03150511
+Tesamorelin Therapy to Enhance Axonal Regeneration, Minimize Muscle Atrophy, and Improve Functional Outcomes Following Peripheral Nerve Injury
+
+Intervention: : Tesamorelin 2 Milligrams (MG) — Daily self-administered study drug
+Link: https://clinicaltrials.gov/study/NCT03150511
+
+SUMMARY:
+
+## NCT04215731
+Neoadjuvant mFOLFOXIRI Plus Bevacizumab Versus Induction FOLFOX Followed by Concomitant Chemoradiotherapy in Patients With High-Risk Locally Advanced Rectal Cancer: Multicenter Randomized Phase III Trial
+
+Intervention: : Neoadjuvant chemotherapy with mFOLFOXIRI plus bevacizumab — Bevacizumab (5 mg/kg on day 1) plus mFOLFOXIRI (oxaliplatin 85 mg/m2, irinotecan 150 mg/m2, and folinic acid 400 mg/m2 followed by 5-fluorouracil 2400mg/m2 as a 46-hour continuous infusion on day 1) for 4 cycles and mFOLFOXIRI (oxaliplatin 85 mg/m2, irinotecan 150 mg/m2, and folinic acid 400 mg/m2 followed by 5-fluorouracil 2400mg/m2 as a 46-hour continuous infusion on day 1) for 2 cycles
+: Restaging — Restaging by pelvic magnetic resonance imaging (MRI)
+: Concomitant Chemoradiotherapy — Concomitant chemoradiotherapy (preoperative radiotherapy consisted of 50 Gy in 25 fractions, and concurrent with capecitabine at a fixed dose of 825 mg/m2 twice daily on days 1 to 5 for 5 weeks)
+: Surgery — Radical surgery (TME or more extended surgery)
+: Chemoradiotherapy (only when patients with MRF involved or ycT4a/b by restaging) — Chemoradiotherapy (preoperative radiotherapy consisted of 50 Gy in 25 fractions, and concurrent with capecitabine at a fixed dose of 825 mg/m2 twice daily on days 1 to 5 for 5 weeks)
+: Induction chemotherpay with FOLFOX — mFOLFOX6 (oxaliplatin 85 mg/m2, and folinic acid 400 mg/m2 followed by bolus 5-fluorouracil 400 mg/m2 and 5-fluorouracil 2400mg/m2 as a 46-hour continuous infusion on day 1) for 4 cycles
+Link: https://clinicaltrials.gov/study/NCT04215731
+
+SUMMARY:
+
+## NCT03956602
+Effects of Snack Types on Acute Glucose and Insulin Response
+
+Intervention: : Pretzels — To examine postprandial responses of pretzel consumption
+: Brazil nuts — To examine postprandial responses of Brazil nut consumption
+: Potato chips — To examine postprandial responses of potato chip consumption
+: Mixed nuts — To examine postprandial responses of mixed nut consumption
+: White bread — To examine postprandial responses of white bread consumption
+: Dried mango — To examine postprandial responses of dried mango consumption
+: Mango fruit — To examine postprandial responses of fresh mango consumption
+Link: https://clinicaltrials.gov/study/NCT03956602
+
+SUMMARY:
+
+## NCT03905239
+Impact of a Procalcitonin-based Algorithm on Quality of Management in Patients With Uncomplicated Adhesion-related Small Bowel Obstruction Assessed by Textbook Outcome: a Multicenter Cluster-randomized Open-label Controlled Trial. (ALPROC)
+
+Intervention: : algorithm — clinical examination and procalcitonin assessment
+Link: https://clinicaltrials.gov/study/NCT03905239
+
+SUMMARY:
+
+## NCT04324151
+Pembrolizumab Combined With Double Platinum Based Chemotherapy for Potentially Resectable Non-driver Gene Mutation Non-small Cell Lung Cancer
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02820233
+Link: https://clinicaltrials.gov/study/NCT04324151
 
 SUMMARY:
 
-## NCT01581424
-Natural History and Structural Functional Relationships in Fabry Renal Disease Natural History, Structural Functional Relationships and Determinants of Renal Structural Responses (Changes) With Enzyme Replacement Therapy in Fabry Disease
+## NCT03611816
+Biological Bank for Studies Related to Atrial Fibrillation and Stroke
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01581424
-
-SUMMARY:
-
-## NCT03760835
-Congenital Adrenal Hyperplasia: Innovative Once Daily Dual Release Hydrocortisone Treatment
-
-Intervention: : Conventional Glucocorticoids (immediate release hydrocortisone, cortisone acetate, prednisone, prednisolone, dexamethasone) — Treatment of congenital adrenal hyperplasia
-: Dual release hydrocortisone (plenadren) — Treatment of congenital adrenal hyperplasia
-Link: https://clinicaltrials.gov/study/NCT03760835
+Intervention: : Blood taken — Collection of clinical data
+: Blood taken — Collection of DNA
+: Blood taken — Collection of plasma
+Link: https://clinicaltrials.gov/study/NCT03611816
 
 SUMMARY:
 
-## NCT04318717
-Adjuvant Pembrolizumab and Hypofractionated Radiation Therapy for the Treatment of Mucosal Melanoma
+## NCT04380051
+Evaluation of a Sensory-tonic Stimulation on Development of Parent-infant Interaction and Social Cognition in Very Premature Children
 
-Intervention: : Pembrolizumab — Pembrolizumab is commercially available
-: Hypofractionated radiation therapy — It is preferred to leave at least 48 hours between fractions. Daily imaging to verify accurate set-up is mandatory.
-Link: https://clinicaltrials.gov/study/NCT04318717
-
-SUMMARY:
-
-## NCT04306432
-Cognitive Function After Radiation Therapy for Primary Brain Tumours
-
-Intervention: : Cognitive tests and Patient Reported Outcomes — Each patient will undergo cognitive tests and questionnaires
-Link: https://clinicaltrials.gov/study/NCT04306432
+Intervention: : sensory-tonic stimulation — sensory-tonic stimulation done by the parents to the child, five times a week during 15 minutes at each time
+: skin-to-skin contact — skin-to-skin contact left free for parents
+Link: https://clinicaltrials.gov/study/NCT04380051
 
 SUMMARY:
 
-## NCT03225820
-Implementation of Point-of-Care Pharmacogenomic Decision Support Accounting for Minority Disparities
+## NCT04137939
+Smart Health Care and Innovative Technology Service Model Plan : Development of Innovative Health Promotion System for Senior Adults
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03225820
-
-SUMMARY:
-
-## NCT00692939
-Autologous Stem Cell Transplantation With CD34-Selected Peripheral Blood Stem Cells (PBSC) in Pediatric and Adult Patients With Severe Crohn's Disease
-
-Intervention: : autologous CD34-selected peripheral blood stem cells transplant — high-dose immunotherapy followed by infusion of autologous CD34-selected peripheral blood stem cells (PBSC)
-: Alemtuzumab — Transplant conditioning
-: ATG — Transplant conditioning
-: Melphalan — Transplant conditioning
-: Thiotepa — Transplant conditioning
-: Rituximab — Transplant conditioning
-: Cyclophosphamide — Mobilization
-: G-CSF — Mobilization
-: Mesna — Mobilization
-Link: https://clinicaltrials.gov/study/NCT00692939
-
-SUMMARY:
-
-## NCT03819101
-A Phase III Trial of Acetylsalicylic Acid and Atorvastatin in Patients With Castrate-resistant Prostate Cancer
-
-Intervention: : Acetylsalicylic acid — 100mg
-: Atorvastatin — 80 mg
-Link: https://clinicaltrials.gov/study/NCT03819101
-
-SUMMARY:
-
-## NCT03297606
-Canadian Profiling and Targeted Agent Utilization Trial (CAPTUR): A Phase II Basket Trial
-
-Intervention: : Olaparib — 300mg taken twice daily
-: Dasatinib — 100mg administered orally once daily
-: Nivolumab plus Ipilimumab — * Combination Phase - 3mg/kg nivolumab administered as an intravenous infusion over 30 minutes every 3 weeks for the first 4 doses in combination with ipilmumab 1mg/kg administered intravenously over 30 minutes, followed by the single-agent phase.
-* Single-Agent Phase - 480mg nivolumab administered as an intravenous infusion over 30 minutes every 4 weeks.
-: Axitinib — 5mg orally twice daily
-: Bosutinib — 500mg orally once daily
-: Crizotinib — 250mg orally twice daily
-: Palbociclib — 125mg orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days
-: Sunitinib — 50mg orally once daily on a schedule of 4 weeks on treatment followed by 2 weeks off
-: Temsirolimus — 25mg infused over a 30-60 minute period once a week
-: Erlotinib — 150mg orally, once daily
-: Trastuzumab plus Pertuzumab — Trastuzumab = 3-weekly dose schedule. The recommended initial loading dose is 8mg/kg administered as a 90-minute infusion followed by 3-weekly maintenance dose of 6mg/kg administered as 90-minute infusion.
-
-Pertuzumab = 840mg administered as a 60-minute intravenous infusion, followed every 3 weeks thereafter by a dose of 420mg administered over a period of 30-60 minutes.
-: Vemurafenib plus Cobimetinib — Vemurafenib = 960 mg orally every 12 hours.
-
-Cobimetinib = 60 mg orally once daily for 21 days, followed by 7 days of rest
-: Vismodegib — 150mg taken orally, once daily
-: Tucatinib — 300mg taken orally, twice daily
-Link: https://clinicaltrials.gov/study/NCT03297606
-
-SUMMARY:
-
-## NCT04446676
-Impact of the Type of Stabilization in the Two-stage Knee Reimplantation on Reinfection - Prospective, Randomized Study.
-
-Intervention: : stabilization with stem — In both groups revision endoprosthesis of knee will be implanted with stem or sleeve stabilization.
-: stabilization with sleeve — In both groups revision endoprosthesis of knee will be implanted with stem or sleeve stabilization.
-Link: https://clinicaltrials.gov/study/NCT04446676
-
-SUMMARY:
-
-## NCT03308474
-Clinical Research Platform for Molecular Testing, Treatment and Outcome of Patients With Multiple Myeloma (Myeloma Registry Platform; MYRIAM)
-
-Intervention: : Routine care as per site standard. — Physician's choice according to patient's needs.
-Link: https://clinicaltrials.gov/study/NCT03308474
-
-SUMMARY:
-
-## NCT02883335
-Lorraine Registry of Multiple Sclerosis
-
-Intervention: : Observational registry
-Link: https://clinicaltrials.gov/study/NCT02883335
-
-SUMMARY:
-
-## NCT04119024
-Phase I Dose Escalation Study of Systemically Administered IL13Ra2 Chimeric Antigen Receptor (CAR) T Cells After a Nonmyeloablative Conditioning Regimen in Patients With Metastatic Melanoma and Other Solid Tumors
-
-Intervention: : Biopsy — Undergo biopsy
-: Biospecimen Collection — Undergo collection of blood samples
-: Computed Tomography — Undergo CT scan
-: Cyclophosphamide — Given IV
-: Fludarabine Phosphate — Given IV
-: Fludeoxyglucose F-18 — Undergo FDG-PET/CT scan
-: IL13Ralpha2-specific Hinge-optimized 4-1BB-co-stimulatory CAR/Truncated CD19-expressing Autologous TN/MEM Cells — Given IV
-: Magnetic Resonance Imaging — Undergo MRI
-: Positron Emission Tomography — Undergo PET scan
-Link: https://clinicaltrials.gov/study/NCT04119024
+Intervention: : smart exercise system — The smart exercise system contains an upper extremity ergometer (UEE) and a lower extremity ergometer (LEE). The revolutions per minute (RPM) of the ergometer are instructed to maintain in 55-65. The resistance of UEE is set from level 1 at the first session, and adjusted by rating of perceived exertion (RPE) of each user after each end of the session. The resistance of LEE is set from level 2 at the first session, and adjusted by rating of perceived exertion (RPE) of each user after each end of the session. The system also continuously records exercise-related device data, personal physiological parameters, and facial action units in a structured and systematic manner.
+Link: https://clinicaltrials.gov/study/NCT04137939
 
 SUMMARY:
 
