@@ -10763,16 +10763,6 @@ Link: https://clinicaltrials.gov/study/NCT05880212
 
 SUMMARY: Low back pain with nerve involvement is common in Bangladesh. This study tests the STOPS approach, a specific physiotherapy treatment, compared with usual physiotherapy.
 
-## NCT05880667
-Adaptive Radiation for Abdominopelvic Metastases (ARAM)
-
-Intervention: : Adaptive Stereotactic Body Radiation — Radiation therapy is given following generation of planning imaging at the time of simulation. A recent development has been diagnostic quality onboard imaging incorporated within radiation treatment machines. The incorporation of onboard imaging into standard practice has allowed the use Stereotactic Body Radiation (SBRT), which is a precise radiation technique that allows safe delivery of ablative radiation doses.
-
-More recently, the development of improved technologies and software have allowed radiation plans to be generated and delivered that are specific to the anatomy of the very moment the patient is being treated. This novel ability to adjust the radiation treatment plan based upon real time imaging is termed adaptive radiation therapy. This study will utilize the novel adaptive radiation therapy technology in a patient population with technically challenging disease to deliver ablative radiation with an appropriately low toxicity rate.
-Link: https://clinicaltrials.gov/study/NCT05880667
-
-SUMMARY:
-
 ## NCT05880680
 SEAL™ME: Saccular Endovascular Aneurysm Lattice System Multicenter Enrollment Global Registry
 
@@ -14429,14 +14419,6 @@ Link: https://clinicaltrials.gov/study/NCT05994833
 
 SUMMARY:
 
-## NCT05995106
-Prospective Validation of Usefulness in the Hypertensive Disorder of Pregnancy With Cardiovascular Disease Management Solution Based on Interconnection to Hospital Examination
-
-Intervention: : Heart4U — Mobile app.
-Link: https://clinicaltrials.gov/study/NCT05995106
-
-SUMMARY:
-
 ## NCT05995353
 A Phase 3, Multi-Center Study to Evaluate the Pharmacokinetics, Efficacy, and Safety of Risankizumab With Open-Label Induction, Randomized Double-Blind Maintenance, and Long-Term Extension Periods in Pediatric Subjects (2 to < 18 Years of Age) With Moderately to Severely Active Crohn's Disease
 
@@ -16738,14 +16720,6 @@ Intervention: : 19F MRI — Inhalation of a biologically inert contrast gas, per
 Link: https://clinicaltrials.gov/study/NCT06057714
 
 SUMMARY:
-
-## NCT06058169
-Pilot Investigation on the Effects of Sub Acute (12 Week) Home Base Whole-body Vibration Training in Osteoarthritis.
-
-Intervention: : Sub Acute Whole Body Vibration Training — Participants will be given a personal vibration plate (equipped with stabilizing bars) to take home for training which will last for up 12 weeks. For this test the participant will be asked to stand on a vibration plate for up to 20 minutes. Participants will be instructed to remove any footwear and stand mid-center on the platform in a standing position with feet shoulder width apart. The participant will be asked to step on and off of the vibration plate. During the first four weeks, participants will be asked to complete 5-10 minutes of WBV per day, at least 4-5 days per week. At least 24 hours will be recommended in between sessions during weeks 1-4. Beginning at week 5, participants will be asked to increase WBV time to up to 15 minutes and/or reduce the duration of rest. Beginning at week 9, based on how the participant feels, the study team may adjust the WBV time/duration up to 20 minutes per session, 4-5 days per week.
-Link: https://clinicaltrials.gov/study/NCT06058169
-
-SUMMARY: Osteoarthritis causes joint pain and stiffness. This pilot study tests 12 weeks of home based whole body vibration training.
 
 ## NCT06058442
 The Pancreatic Enzymes After Gastrectomy Trial

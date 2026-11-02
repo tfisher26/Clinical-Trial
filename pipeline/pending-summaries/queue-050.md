@@ -2310,16 +2310,6 @@ Link: https://clinicaltrials.gov/study/NCT07507500
 
 SUMMARY:
 
-## NCT07507708
-Insulin Delivery With Self-Adjusting Closed-Loop and Behavioral Glycemic Control Enhanced by Prediction (INSIGHT)
-
-Intervention: : Automated Insulin Delivery (AID) — Usual Care
-: AIDANET + Fully Closed Loop (FCL) — All participants will use AIDANET in FCL mode with instructions to avoid announcing meal boluses whenever possible during the four weeks.
-: AIDANET + Anticipatory Closed Loop (ACL) — All insulin will be delivered automatically. The algorithm will review past behaviors to determine the amount of insulin that will be needed for a meal.
-Link: https://clinicaltrials.gov/study/NCT07507708
-
-SUMMARY:
-
 ## NCT07507838
 Safety and Pharmacokinetics Study of Multiple Ascending Doses of VV913 Capsules in Chinese Healthy Participants
 
@@ -3244,18 +3234,6 @@ Intervention: : Chidamide — 20 mg of chidamide administered orally twice a wee
 : Sintilimab — 200 mg of sintilimab administered via intravenous drip once every 3 weeks (Q3W)
 : Bevacizumab — 7.5 mg/kg of bevacizumab administered via intravenous drip once every 3 weeks (Q3W)
 Link: https://clinicaltrials.gov/study/NCT07518602
-
-SUMMARY:
-
-## NCT07518784
-Accurate Point of Care Liver Disease Diagnostics
-
-Intervention: : LiverScope® exam — Participants will undergo a LiverScope® examination to measure liver proton density fat fraction (PDFF, primary) and T1 and T2 values (exploratory).
-: MR exam — Participants will undergo an advanced MR examination to measure liver PDFF, T1, T2, and liver stiffness values.
-: Blood draw — A blood sample of approximately 10 mL will be collected for routine laboratory tests including complete blood count (CBC) and comprehensive metabolic panel (CMP).
-: Body measurements — Height, weight, waist circumference, and hip circumference will be measured.
-: Questionnaire — A questionnaire will be administered to collect demographic information (including age, sex, race, and ethnicity), and medical and social history (including alcohol use, tobacco use, history of diabetes, history of liver disease, and current medications).
-Link: https://clinicaltrials.gov/study/NCT07518784
 
 SUMMARY:
 
@@ -4360,16 +4338,6 @@ Intervention: : Liquid Platelet-Rich Fibrin group — A partial thickness ellipt
 
 low-level laser applied to the surgical site (635nm, 200 mW) as part of the post-surgical treatment and at 3,7,10, and 14 days after surgery.
 Link: https://clinicaltrials.gov/study/NCT07532161
-
-SUMMARY:
-
-## NCT07532200
-Association of SCN9A (Nav1.7) Gene Expression and Inflammatory Cytokines (IL-6, TNF-α, IL-1β) With the Success of Inferior Alveolar Nerve Block in Patients With Symptomatic Irreversible Pulpitis: A Prospective Case-Control Study
-
-Intervention: : Inferior Alveolar Nerve Block — All participants will receive a standardized inferior alveolar nerve block (IANB) administered using 2% lidocaine with 1:80,000 epinephrine. The injection will be performed using a conventional Halsted technique with a 27-gauge long needle under strict aseptic conditions. The needle will be inserted at the pterygomandibular raphe region, advancing until bony contact is achieved near the mandibular foramen. Following negative aspiration, approximately 1.8 mL of anesthetic solution will be deposited slowly over 60-90 seconds.
-
-Lip numbness will be assessed after 10-15 minutes to confirm nerve block onset. No additional anesthetic techniques will be used prior to the assessment of primary anesthetic success. Endodontic access cavity preparation will then be initiated, and pain response during access and initial instrumentation will be recorded using a standardized pain scale. Anesthetic success or failure will be determined based on the patient's pain response, as per predefined criteria.
-Link: https://clinicaltrials.gov/study/NCT07532200
 
 SUMMARY:
 

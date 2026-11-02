@@ -2541,14 +2541,6 @@ Link: https://clinicaltrials.gov/study/NCT07033819
 
 SUMMARY:
 
-## NCT07033845
-Pharmacokinetic Study of Topical Phenylephrine
-
-Intervention: : Phenylephrine — Topical Phenylephrine
-Link: https://clinicaltrials.gov/study/NCT07033845
-
-SUMMARY:
-
 ## NCT07033923
 Neuro-computational Study of Thymic Fluctuations in Mood Disorders - MOODELING
 
@@ -4381,14 +4373,6 @@ A Phase IIa, Double-blind, Randomized, Placebo-controlled Trial in Participants 
 Intervention: : ETH47 — single intranasal dose of ETH47
 : Placebo — single intranasal dose of placebo
 Link: https://clinicaltrials.gov/study/NCT07059767
-
-SUMMARY:
-
-## NCT07059858
-Evaluation of Bladder and Bowel Functions, Participation and Quality of Life in Children With Intellectual Disabilities
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07059858
 
 SUMMARY:
 

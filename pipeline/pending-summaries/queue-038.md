@@ -5053,15 +5053,6 @@ Link: https://clinicaltrials.gov/study/NCT06189755
 SUMMARY:
 
 
-## NCT05710952
-Impact of Orthodontic Treatment on the Temporomandibular Joints (TMJ) Assessed by Modjaw in Adults
-
-Intervention: : Review by Modjaw — A review by Modjaw's will be done before the braces treatment and after.
-Link: https://clinicaltrials.gov/study/NCT05710952
-
-SUMMARY:
-
-
 ## NCT07112924
 CCM Technologies OPEN HF Registry: Observational Patient EvaluatioN of CCM® Therapy for Heart Failure
 

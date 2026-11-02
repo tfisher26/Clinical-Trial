@@ -15743,16 +15743,6 @@ Link: https://clinicaltrials.gov/study/NCT07460765
 
 SUMMARY:
 
-## NCT07460778
-Development of Serious Games for Rehabilitation, a Delphi Study
-
-Intervention: : Online survey — The first phase will consist of an online survey questionnaire aimed at identifying key development methods and tools for each stage of development. The survey will be structured using the Technology Readiness Level model and, by using open questions, experts will be asked to give their input on this model and the important items for each stage of development. Furthermore, the experts will be asked to identify the key principles that they find detrimental to the development of serious games for rehabilitation across all stages of development. Data collection for the first phase is completed after at least 30 participants answered the online survey. After all data is collected, the results from this online survey will be thematically analyzed and used to structure the focus group discussions organized in phase two.
-: Focus group discussions — The second phase of the modified Delphi study will consist of online focus group discussions (using Microsoft Teams) with 6 to 12 experts per session. First, a summary will be given of the results from the survey phase. Following this, the experts will be asked to revise and add onto these results for each stage of development. Additionally the experts will be asked to revise the key principles that span across all stages of development and add missing key principles. Lastly they will be asked to identify already existing methodologies or frameworks that incorporate some (or all) of the mentioned tools or methods.
-: Ranking results — In the next phase, experts will be asked to rank the different items mentioned during the focus group discussions through an online survey using Microsoft Forms. For each stage of development, the relevant items will be presented, and the experts will have to rank these items based on their relative priority for the development of serious games for rehabilitation. The results from this phase will be anonymized and sent to the experts as feedback. Afterwards the experts will have the chance to revise their answers based on this feedback.
-Link: https://clinicaltrials.gov/study/NCT07460778
-
-SUMMARY:
-
 ## NCT07460856
 Effects of Cranberry on Gut and Metabolic Health
 

@@ -103050,3 +103050,19 @@ Further inclusion criteria apply.
 
 RELATIONSHIP:
 
+## NCT05956067
+Chromatic Retinal Stimulation to Reduce Chronic Pain and Pain Sensitivity
+Conditions: musculoskeletal/fibromyalgia, other/chronic_pain
+
+Inclusion criteria:
+"""
+* Adults greater than or equal to 18 and less than or equal to 65.
+* Individuals who have been diagnosed with fibromyalgia or chronic low back pain by their physician.
+* Individuals who experience an average pain severity greater than 4/10 in intensity at baseline.
+* Willingness to wear a battery-operated portable ganzfeld light stimulator device for 2 hours per day at the same time each day (ideally complete the light therapy session between 5 am-10 am each morning) for 5 days.
+* Alert and oriented, and able to provide informed consent
+* Ability to read and speak English to complete validated questionnaires.
+"""
+
+RELATIONSHIP:
+

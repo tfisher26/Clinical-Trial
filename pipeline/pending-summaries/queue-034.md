@@ -5395,15 +5395,6 @@ Link: https://clinicaltrials.gov/study/NCT07410351
 SUMMARY:
 
 
-## NCT07422584
-Pilot Study of Systemic Inflammatory and Transcriptomic Responses in Patients Undergoing Open Retromuscular Ventral Hernia Repair
-
-Intervention: : Not applicable- observational study — There are no interventions in this observational study.
-Link: https://clinicaltrials.gov/study/NCT07422584
-
-SUMMARY:
-
-
 ## NCT06584253
 Relationship of Multidimensional Factors with Digital Addiction Among University Students: a Cross-Sectional Study
 

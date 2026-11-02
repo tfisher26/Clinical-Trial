@@ -1072,16 +1072,6 @@ Link: https://clinicaltrials.gov/study/NCT07377929
 SUMMARY:
 
 
-## NCT07551115
-Prevalence of Entamoeba Gingivalis and Trichomonas Tenax in Saliva and Subgingival Plaque Samples Among Periodontology Patients: A Prospective Observational Study
-
-Intervention: : Clinical Periodontal Evaluation — Comprehensive periodontal examination including plaque index, gingival index, bleeding on probing, probing pocket depth, and clinical attachment loss measurements using a Williams periodontal probe according to the 2017 World Workshop Classification.
-: Microscopic Examination of Oral Protozoa — Collection of unstimulated saliva and subgingival plaque samples followed by immediate light microscopy examination (10X and 40X magnification) to detect the presence and frequency of Entamoeba gingivalis and Trichomonas tenax trophozoites.
-Link: https://clinicaltrials.gov/study/NCT07551115
-
-SUMMARY:
-
-
 ## NCT06159244
 Intestinal Microbiota Profiling in HAA Patients
 

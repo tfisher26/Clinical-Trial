@@ -813,14 +813,6 @@ Link: https://clinicaltrials.gov/study/NCT07519733
 
 SUMMARY:
 
-## NCT06641752
-Evaluation of the Accuracy of Capillary Versus Venous CO Measurement in Subjects With Suspected Carbon Monoxide Poisoning: a Prospective, Multicenter, Diagnostic, Controlled Study.
-
-Intervention: : Blood drop sampling — The process: blood drop sampling Technique: capillary sampling Frequency: Once Time: 5 minutes Sample collection volume: 1mL Total collection volume: 1 mL
-Link: https://clinicaltrials.gov/study/NCT06641752
-
-SUMMARY:
-
 ## NCT06827795
 An Open, Parallel-group, Randomized, Medical Device Study to Assess the Usability and Performance of Surgify HaloTM in Spine Surgery Versus State-of-art (Rosen Burr)
 
@@ -4756,16 +4748,6 @@ Link: https://clinicaltrials.gov/study/NCT06597149
 
 SUMMARY:
 
-## NCT07532200
-Association of SCN9A (Nav1.7) Gene Expression and Inflammatory Cytokines (IL-6, TNF-α, IL-1β) With the Success of Inferior Alveolar Nerve Block in Patients With Symptomatic Irreversible Pulpitis: A Prospective Case-Control Study
-
-Intervention: : Inferior Alveolar Nerve Block — All participants will receive a standardized inferior alveolar nerve block (IANB) administered using 2% lidocaine with 1:80,000 epinephrine. The injection will be performed using a conventional Halsted technique with a 27-gauge long needle under strict aseptic conditions. The needle will be inserted at the pterygomandibular raphe region, advancing until bony contact is achieved near the mandibular foramen. Following negative aspiration, approximately 1.8 mL of anesthetic solution will be deposited slowly over 60-90 seconds.
-
-Lip numbness will be assessed after 10-15 minutes to confirm nerve block onset. No additional anesthetic techniques will be used prior to the assessment of primary anesthetic success. Endodontic access cavity preparation will then be initiated, and pain response during access and initial instrumentation will be recorded using a standardized pain scale. Anesthetic success or failure will be determined based on the patient's pain response, as per predefined criteria.
-Link: https://clinicaltrials.gov/study/NCT07532200
-
-SUMMARY:
-
 ## NCT06881745
 NUTRI_ACTIVE Study: Lifestyle and Nutrition Evaluation in Physically Active People and Athletes
 
@@ -6488,16 +6470,6 @@ An Observational Post-authorization Long-term Follow-up Study to Characterize th
 Intervention: : HEMGENIX — HEMGENIX is a gene therapy medicinal product that aims to deliver a factor IX (FIX) gene expression cassette to the liver of patients with hemophilia B.
 : Factor IX (FIX) — FIX prophylaxis therapy
 Link: https://clinicaltrials.gov/study/NCT06008938
-
-SUMMARY:
-
-## NCT07460778
-Development of Serious Games for Rehabilitation, a Delphi Study
-
-Intervention: : Online survey — The first phase will consist of an online survey questionnaire aimed at identifying key development methods and tools for each stage of development. The survey will be structured using the Technology Readiness Level model and, by using open questions, experts will be asked to give their input on this model and the important items for each stage of development. Furthermore, the experts will be asked to identify the key principles that they find detrimental to the development of serious games for rehabilitation across all stages of development. Data collection for the first phase is completed after at least 30 participants answered the online survey. After all data is collected, the results from this online survey will be thematically analyzed and used to structure the focus group discussions organized in phase two.
-: Focus group discussions — The second phase of the modified Delphi study will consist of online focus group discussions (using Microsoft Teams) with 6 to 12 experts per session. First, a summary will be given of the results from the survey phase. Following this, the experts will be asked to revise and add onto these results for each stage of development. Additionally the experts will be asked to revise the key principles that span across all stages of development and add missing key principles. Lastly they will be asked to identify already existing methodologies or frameworks that incorporate some (or all) of the mentioned tools or methods.
-: Ranking results — In the next phase, experts will be asked to rank the different items mentioned during the focus group discussions through an online survey using Microsoft Forms. For each stage of development, the relevant items will be presented, and the experts will have to rank these items based on their relative priority for the development of serious games for rehabilitation. The results from this phase will be anonymized and sent to the experts as feedback. Afterwards the experts will have the chance to revise their answers based on this feedback.
-Link: https://clinicaltrials.gov/study/NCT07460778
 
 SUMMARY:
 

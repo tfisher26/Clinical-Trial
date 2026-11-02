@@ -1125,15 +1125,6 @@ Link: https://clinicaltrials.gov/study/NCT07173881
 SUMMARY:
 
 
-## NCT07370194
-Investigating the Impact of Serum Potassium Levels on Prevalence and Risk Factors Associated With Management Strategies for Patients With Hyperkalaemia in Brazilian Clinical Settings: An Observational Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07370194
-
-SUMMARY:
-
-
 ## NCT06386107
 Association Between Thrombin Generation Parameters and the Risk of Bleeding in Patients Treated With Anticoagulants for Cancer Associated Thrombosis (CAT) (a Multicenter Study)
 
@@ -2813,15 +2804,6 @@ How Single-Word and Telegraphic Simplification Affects Language Processing and W
 
 Intervention: : Linguistic simplification — Children will participate in screen-based language processing and word learning tasks in which they hear utterances with different types and amounts of linguistic simplification (i.e., a within-group manipulation).
 Link: https://clinicaltrials.gov/study/NCT06951516
-
-SUMMARY:
-
-
-## NCT07368712
-Study to Investigate Renal Functional Reserve in Healthy Participants and in Participants With Impaired Renal Function.
-
-Intervention: : No investigational study intervention — The study does not involve the administration of any study intervention, investigational medicinal product, or device. Participants will undergo blood collection and urine sampling both before and after consuming a high-protein meal.
-Link: https://clinicaltrials.gov/study/NCT07368712
 
 SUMMARY:
 

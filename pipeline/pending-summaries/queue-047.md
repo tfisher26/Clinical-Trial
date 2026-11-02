@@ -13765,14 +13765,6 @@ Link: https://clinicaltrials.gov/study/NCT06952777
 
 SUMMARY:
 
-## NCT06952816
-Functional, Clinical, and Predictive Validation Study of the EMILY AI Device in Patients With Acute and Chronic Respiratory Failure
-
-Intervention: : Emily.AI — EMILY.AI is composed of an O2 regulating valve together with an intelligent system which allows the automation in the regulation of O2 and its customization.
-Link: https://clinicaltrials.gov/study/NCT06952816
-
-SUMMARY:
-
 ## NCT06953180
 Epigenetics and Prevention of Non-communicable Diseases in Kazakhstan: a Personalized Approach and Biological Age Prediction
 

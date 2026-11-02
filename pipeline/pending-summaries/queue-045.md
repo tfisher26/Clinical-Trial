@@ -624,16 +624,6 @@ Link: https://clinicaltrials.gov/study/NCT06084286
 
 SUMMARY: Advanced solid tumors that carry CLDN18.2 need new options. This study tests CAR-T cells that target both CLDN18.2 and PD-L1.
 
-## NCT06084364
-Painful Inflammatory Carpometacarpal-1 Osteoarthritis Treated With Intraarticular Steroids, Saline or an Occupational Therapy Intervention: the PICASSO Trial.
-
-Intervention: : Injection of triamcinolone acetonide into the CMC-1 joint — intraarticular injection with triamcinolone acetonide
-: Multimodal Occupational therapy for CMC-1 joint OA — Patient education, instructions about hand exercises, orthosis and training
-: Placebo — Intraarticular injection with saline
-Link: https://clinicaltrials.gov/study/NCT06084364
-
-SUMMARY: Inflammatory thumb base osteoarthritis causes pain. This study compares steroid injections, saline injections and an occupational therapy intervention.
-
 ## NCT06084806
 Test-retest Evaluation of [18F]F-AraG PET in Non-small Cell Lung Cancer (NSCLC) Patients
 
@@ -888,15 +878,6 @@ Intervention: : Urine sodium guided diuretic algorithm — Loop diuretics are ad
 Link: https://clinicaltrials.gov/study/NCT06092437
 
 SUMMARY:
-
-## NCT06092749
-Effectiveness of Transgrade vs Interlaminar Epidural Steroid Injection for Chronic Unilateral Lumbar Radicular Pain
-
-Intervention: : Transgrade technique (TG) — Transgrade (TG) Epidural Steroid Injection technique
-: Interlaminar technique (IL) — Interlaminar (IL) Epidural Steroid Injection technique
-Link: https://clinicaltrials.gov/study/NCT06092749
-
-SUMMARY: Lumbar nerve root pain can be treated with epidural steroid injections. This study compares a transgrade technique with an interlaminar technique.
 
 ## NCT06092957
 Reduced-dose Radiotherapy With/Without Concurrent Chemotherapy Versus Standard Chemoradiotherapy for High-risk Locoregionally Advanced Nasopharyngeal Carcinoma Who Achieved Complete Response After Induction Chemotherapy Plus Immunotherapy: a Randomized, Open-label, Multicenter, Phase III Trial
@@ -2560,14 +2541,6 @@ Intervention: : TranS-C — Transdiagnostic Sleep and Circadian Intervention (Tr
 Link: https://clinicaltrials.gov/study/NCT06139861
 
 SUMMARY: Teen depression is often linked to sleep and body clock problems. This study tests TranS-C, a sleep and circadian rhythm treatment.
-
-## NCT06140719
-A Retrospective and Prospective Observational Sub-Study for Diffuse Midline Glioma and Diffuse Intrinsic Pontine Glioma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06140719
-
-SUMMARY:
 
 ## NCT06140992
 PaCIFiC-CUP：Pan-Cancer Integrated Fingerprinting Classifier for Identifying the Origin of Cancer of Unknown Primary: A Multi-Center Prospective Cohort Study
@@ -7188,17 +7161,6 @@ Link: https://clinicaltrials.gov/study/NCT06254313
 
 SUMMARY:
 
-## NCT06254326
-ADAGiO: Adoptive Cellular Therapy for the TreAtment of Recurrent OliGodendrogliOma (OG) Adult Patients
-
-Intervention: : TTRNA-DC vaccines with GM-CSF — Participants will receive up to 9 intradermal DC vaccines (three -bi-weekly (q2 weeks) for priming, monthly for additional 2-3 cycles during T cell expansion, and three bi-weekly during T cell engraftment
-: Autologous Hematopoietic Stem cells (HSCs) — Participants will receive a single infusion of autologous CD34+ HSCs
-: TTRNA-xALT — Participants will receive a single infusion of ex vivo expanded tumor-reactive T cells
-: Td vaccine — All patients will receive a full Td booster IM vaccine 4-24 hours prior to Vaccine #1 and vaccine site pretreatment with a one-fifth dose of Td intradermally, at the site of planned vaccine, 4-24 hours prior to vaccines #3, #5, #7 and #9.
-Link: https://clinicaltrials.gov/study/NCT06254326
-
-SUMMARY: Recurrent oligodendroglioma is a brain cancer that comes back. This study tests adoptive cellular therapy with tumor RNA dendritic cell vaccines.
-
 ## NCT06254521
 Neoadjuvant Treatment of Locally Advanced MSS Rectal Cancer With Tislelizumab Combined With CAPOX Regimen: a Prospective, Single-arm, Single-center, Exploratory Phase II Clinical Study
 
@@ -8258,15 +8220,6 @@ Intervention: : Gemcitabin, Cisplatin and Durvalumab — CICI (Gemcitabin d1 \& 
 Link: https://clinicaltrials.gov/study/NCT06274879
 
 SUMMARY: Unresectable extrahepatic biliary tract cancer can block the bile ducts. This study tests the safety of intraductal radiofrequency ablation alongside systemic therapy.
-
-## NCT06275087
-Differences in Speed of Recovery From Anesthesia and Recovery of Muscle Strength in General Balanced Inhalation Anesthesia and Total Intravenous Anesthesia for Intraoral Surgery - Clinical Randomised Trial
-
-Intervention: : Propofol — The experimental group will not receive volatile anesthetic, instead, they will receive propofol infusion
-: Sevoflurane — The control group will not receive TIVA, instead, they will receive sevoflurane via inhalation
-Link: https://clinicaltrials.gov/study/NCT06275087
-
-SUMMARY:
 
 ## NCT06275126
 Optimizing Surgical Decisions in Young Adults With Breast Cancer

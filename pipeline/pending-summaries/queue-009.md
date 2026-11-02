@@ -720,15 +720,6 @@ Link: https://clinicaltrials.gov/study/NCT06644196
 SUMMARY:
 
 
-## NCT07771998
-Evaluation of the Dermal and Ophthalmological Acceptability of Blancy Pro in Subjects With Sensitive Skin
-
-Intervention: : Blancy Pro — Blancy Pro is a cosmetic product evaluated for safety and tolerability in female participants with clinically confirmed sensitive skin through dermatological and ophthalmological assessments.
-Link: https://clinicaltrials.gov/study/NCT07771998
-
-SUMMARY:
-
-
 ## NCT06030063
 The Society for Obstetric Anesthesia and Perinatology Research Network General Anesthesia Registry
 

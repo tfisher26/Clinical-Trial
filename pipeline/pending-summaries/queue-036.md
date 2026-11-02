@@ -1311,15 +1311,6 @@ Link: https://clinicaltrials.gov/study/NCT06881004
 SUMMARY:
 
 
-## NCT06161415
-Safety, Tolerability, and Distribution of Topical Laquinimod Eye Drops , an Innovative ImmunomodulatOr Targeting Aryl hydrocarboN Receptor (AhR): The LION Study
-
-Intervention: : Laquinimod eye drops — n Laquinimod eye drops 10 mg/ml Dose: Dosing frequency will depend on the groups assigned
-Link: https://clinicaltrials.gov/study/NCT06161415
-
-SUMMARY:
-
-
 ## NCT06342375
 Enrollment Barriers, Procedural Denials, and Loss of Medicaid Coverage
 
@@ -5727,15 +5718,6 @@ Intervention: : endoscopic ultrasonography — endoscopic ultrasonography - freq
 : magnetic resonance — magnetic resonance - frequency defined by arm
 : laboratory examination — hematology, biochemistry, Na+, K+, Cl-, Ca2+, bilirubin, ALT, AST, GGT, ALP, lactate dehydrogenase, creatinine, urea, fasting glycemia, HbA1c, alpha-amylase, LPS, albumin, total protein, CA19-9, CEA
 Link: https://clinicaltrials.gov/study/NCT06330441
-
-SUMMARY:
-
-
-## NCT06935240
-Investigation of Effects of External Electrical Stimulation in Women With Vaginal Laxity
-
-Intervention: : Treatment — Nöromusculer and Transcutaneus Electrical Neuron stimulations
-Link: https://clinicaltrials.gov/study/NCT06935240
 
 SUMMARY:
 

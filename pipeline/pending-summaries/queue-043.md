@@ -1216,14 +1216,6 @@ Link: https://clinicaltrials.gov/study/NCT07652632
 
 SUMMARY: Perianal fistulas are painful tunnels near the anus that can form in Crohn's disease and often resist treatment. This pilot study tests injecting tissue processed from the patient's own fat into the fistula.
 
-## NCT04526431
-Tacrolimus Pharmacokinetic Subpopulations: Prospective Mechanistic Investigations of the Tacrolimus C/D Ratio
-
-Intervention: : Dosage Forms Oral — Dosage form of tacrolimus (extended release tacrolimus or immediate release tacrolimus)
-Link: https://clinicaltrials.gov/study/NCT04526431
-
-SUMMARY:
-
 ## NCT07737873
 SOMADC-CC (SOMAtic Dysfunction Characterization Following Chronic Cerebrovascular Disease): Biomarker Study
 
@@ -1603,14 +1595,6 @@ Link: https://clinicaltrials.gov/study/NCT04526353
 
 SUMMARY: Posterior urethral valves are a birth defect in boys that blocks urine flow and can harm the bladder. This study tests starting the bladder medicine oxybutynin early, given as a syrup.
 
-## NCT04526431
-Tacrolimus Pharmacokinetic Subpopulations: Prospective Mechanistic Investigations of the Tacrolimus C/D Ratio
-
-Intervention: : Dosage Forms Oral — Dosage form of tacrolimus (extended release tacrolimus or immediate release tacrolimus)
-Link: https://clinicaltrials.gov/study/NCT04526431
-
-SUMMARY:
-
 ## NCT04526587
 The Roswell Park Ciclib Study: A Prospective Study of Biomarkers and Clinical Features of Advanced/Metastatic Breast Cancer Treated With CDK4/6 Inhibitors
 
@@ -1620,14 +1604,6 @@ Intervention: : Cytology Specimen Collection Procedure — Undergo collection of
 Link: https://clinicaltrials.gov/study/NCT04526587
 
 SUMMARY:
-
-## NCT04526600
-Can Fidgeting Lead to Enhanced Attention and Emotional Regulation in ADHD?
-
-Intervention: : Fidget ball — Access to a prototype 'smart' fidget ball with pressure sensors embedded, that produces touch traces and transmits real time data
-Link: https://clinicaltrials.gov/study/NCT04526600
-
-SUMMARY: People with ADHD often fidget, and fidgeting may help them focus. This study tests whether using a smart fidget ball with pressure sensors improves attention and emotional control.
 
 ## NCT04527315
 Assessment of ICU and Non-ICU Survivors: A Creation of a COVID Survivorship Database

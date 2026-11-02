@@ -5189,16 +5189,6 @@ Link: https://clinicaltrials.gov/study/NCT07330505
 SUMMARY:
 
 
-## NCT07412288
-A Phase 1, Randomized, Placebo-Controlled, First-in-Human, Single and Multiple Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Orally Administered KT-579 in Healthy Adult Participants
-
-Intervention: : KT-579 — Oral drug
-: Placebo — Oral drug
-Link: https://clinicaltrials.gov/study/NCT07412288
-
-SUMMARY:
-
-
 ## NCT07085442
 NodeSMART - Audit of Targeted Sentinel Node Biopsy (TSNB) in Patients With Limited Nodal Disease Undergoing Primary Surgery
 

@@ -3179,14 +3179,6 @@ Link: https://clinicaltrials.gov/study/NCT07696273
 
 SUMMARY:
 
-## NCT07696286
-The Relationship of Alexithymia With Pain and Quality of Life Scales in Chronic Pain Patients Who Underwent Spinal Cord Stimulation: A Cross-Sectional Observational Study
-
-Intervention: : Psychometric Questionnaires and Retrospective Data Collection — Participants are evaluated at a single time point using self-report questionnaires including the Toronto Alexithymia Scale (TAS-20), Hospital Anxiety and Depression Scale (HADS), Short Form Health Survey (SF-12), and Childhood Trauma Questionnaire (CTQ-33). Pain intensity (VAS/NRS) and clinical data are extracted retrospectively from medical records.
-Link: https://clinicaltrials.gov/study/NCT07696286
-
-SUMMARY:
-
 ## NCT07696351
 A Randomized Controlled Study of Ultra-Long GnRH-a Pretreatment to Improve Frozen-Thawed Embryo Transfer Outcomes in Patients With Deep Infiltrating Endometriosis
 
@@ -3314,16 +3306,6 @@ Intervention: : REGN7508 — Administered per the protocol
 : REGN9933 — Administered per the protocol
 : Placebo — Administered per the protocol
 Link: https://clinicaltrials.gov/study/NCT07697599
-
-SUMMARY:
-
-## NCT07697625
-A Clinical Study to Evaluate the Plasma Pharmacokinetics of a Single Dose of MK-4082 With and Without Diltiazem Coadministration in Healthy Participants
-
-Intervention: : MK-4082 — Oral administration
-: Diltiazem — Oral administration
-: Rescue medication — All participants will receive ondansetron as a rescue medication. Ondansetron is a medication used to prevent nausea or vomiting.
-Link: https://clinicaltrials.gov/study/NCT07697625
 
 SUMMARY:
 
@@ -8902,15 +8884,6 @@ Link: https://clinicaltrials.gov/study/NCT07756554
 
 SUMMARY:
 
-## NCT07756580
-A Phase 1 Study to Evaluate the Safety and Efficacy of Sequential Administration of AGN-151586 and BOTOX® in Subjects for Treatment of Glabellar Lines (GL)
-
-Intervention: : AGN-151586 — Injection
-: BOTOX — Injection
-Link: https://clinicaltrials.gov/study/NCT07756580
-
-SUMMARY:
-
 ## NCT07756723
 The Many Roads to Trauma Recovery: A Clinical Trial Comparing Empirically Supported Treatments for Veterans With Co-Morbid Posttraumatic Stress and Substance Use Disorder Symptoms
 
@@ -10091,14 +10064,6 @@ Extended Evaluation of Asynchrony Detection of the Prisma VENT and LUISA Therapy
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07768748
-
-SUMMARY:
-
-## NCT07768800
-Clinical Evaluation of Dermal Acceptability and the Comedogenic and Acnegenic Potential of a Cosmetic Product
-
-Intervention: : Blancy Pro — Blancy Pro is a cosmetic product intended for daily use in individuals with oily and acne-prone skin. Participants will use the product for 28 days under normal conditions of use. Dermatological safety and the absence of comedogenic and acnegenic potential will be evaluated through clinical assessments.
-Link: https://clinicaltrials.gov/study/NCT07768800
 
 SUMMARY:
 
@@ -14274,14 +14239,6 @@ Link: https://clinicaltrials.gov/study/NCT07822932
 
 SUMMARY:
 
-## NCT07822945
-Healthcare Professionals' Knowledge of Continuous Glucose Monitoring and Insulin Pump Therapy
-
-Intervention: : Questionnaire assessing knowledge on diabetes technology — A standardized questionnaire developed specifically based on a review of the relevant literature on diabetes management and related technologies
-Link: https://clinicaltrials.gov/study/NCT07822945
-
-SUMMARY:
-
 ## NCT07822971
 Impact of an On-site Simulation-based Training Programme on Adherence to Standard Precautions and Healthcare-associated Infections in Adult Intensive Care : Prospective Quasi-experimental Before-and-after Study
 
@@ -15329,14 +15286,6 @@ Zanubrutinib Plus Lenalidomide for Frail Elderly Patients With Newly Diagnosed P
 Intervention: : Zanubrutinib — Zanubrutinib will be administered orally at 160 mg twice daily. Each treatment cycle will last 28 days. Induction phase: Induction treatment will consist of three cycles. Consolidation phase: Patients who achieve a partial response (PR) or complete response (CR) after induction treatment will proceed to consolidation treatment. Consolidation treatment will consist of three cycles. Maintenance phase: Patients who achieve a CR after consolidation will proceed to maintenance treatment.
 : Lenalidomide — Lenalidomide will be administered orally at 25 mg once daily on days 1-21 of each cycle. Each treatment cycle will last 28 days. Induction phase: Induction treatment will consist of three cycles. Consolidation phase: Patients who achieve a partial response (PR) or complete response (CR) after induction treatment will proceed to consolidation treatment. Consolidation treatment will consist of three cycles. Maintenance phase: Patients who achieve a CR after consolidation will proceed to maintenance treatment.
 Link: https://clinicaltrials.gov/study/NCT07839247
-
-SUMMARY:
-
-## NCT07839546
-Adherence to Clinical Guidelines for the Management of Patients With Type Two Diabetes Mellitus and Obesity
-
-Intervention: : Questionnaire regarding the adherence to American Diabetes Association — A questionnaire titled "Physicians' adherence to the current clinical guidelines for the management of patients with type two diabetes mellitus and obesity" was formed, consisting of two sections and 18 closed-ended questions in total. Τhe first part focused on demographics and included four questions, while the second addressed the frequency of adherence to clinical guidelines and consisted of fourteen questions. A 5-point Likert scale, ranging from 'never', 'rarely' (1 - 2 times a month), 'sometimes' (1 - 2 times a week), 'frequently' (3 - 4 times a week) to 'always' (everyday), was used for the 14 questions, aiming to quantify the frequency of implementation. An introductory statement accompanied the questionnaire to provide study details and guarantee anonymous responses.
-Link: https://clinicaltrials.gov/study/NCT07839546
 
 SUMMARY:
 
@@ -16511,14 +16460,6 @@ Evaluation of a Bundle of Actions to Prevent Skin Infections
 Intervention: : Swab for cleaning, used as first comparator. For this group we want, during these three days and each day, measure skin pH before and after, Coltural exam before and after and time for cleaning — The method will be the same of the swab arm. The goal is to compare the two groups looking at any differences
 : sham group with sponge for skin detersion — Procedure/Surgery: Sponge group: Use of this device for skin detersion, measuring also pH test and coltural examination before and after cleaning Description: we want to compare sponge detersion in bedridden patient, looking at pH test and coltural examination before and after surgery
 Link: https://clinicaltrials.gov/study/NCT07848269
-
-SUMMARY:
-
-## NCT07848347
-Clinical Evaluation of Dermal Acceptability in Participants With Sensitive Skin
-
-Intervention: : moisturizing cream — A cosmetic product applied to the face and body twice daily under normal conditions of use. The product will be evaluated for dermatological acceptability and tolerability in participants with sensitive skin confirmed by a positive Stinging Test. Clinical dermatological assessments will be performed throughout the study period to evaluate signs of irritation and participant-reported discomfort sensations.
-Link: https://clinicaltrials.gov/study/NCT07848347
 
 SUMMARY:
 
@@ -18062,130 +18003,174 @@ Link: https://clinicaltrials.gov/study/NCT07857798
 
 SUMMARY:
 
-## NCT03716128
-Diagnosis of Renal Osteodystrophy in Patients With Reduced Renal Function Can 18F-PET Replace Bone Histomorphometry
+## NCT03399929
+Effects of Rehabilitation Following Traumatic Brain Injury and Stroke: A Long Term Outcome Study.
 
-Intervention: : 18F-PET — Bone biopsy and 18F-PET
-Link: https://clinicaltrials.gov/study/NCT03716128
+Intervention: : Post Acute Rehabiltation
+Link: https://clinicaltrials.gov/study/NCT03399929
 
 SUMMARY:
 
-## NCT03717844
-Registry for Adults With Plasma Cell Disorders (PCD's)
+## NCT01050296
+Molecular Analysis Of Solid Tumors
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03717844
+Link: https://clinicaltrials.gov/study/NCT01050296
 
 SUMMARY:
 
-## NCT03561376
-Zinc Oxide Versus Petrolatum Following Skin Surgery: A Head-to-head, Prospective, Split-scar Study
-
-Intervention: : Topical zinc oxide vs. petrolatum post-surgical scars — Following linear closure on non-scalp skin with scar length \> 4.5 cm, incision site will be "split" and petrolatum applied to one half and zinc oxide ointment to the other half daily for one month following surgery.
-Link: https://clinicaltrials.gov/study/NCT03561376
-
-SUMMARY:
-
-## NCT03198052
-CAR-T Targeting GPC3, Mesothelin, Claudin18.2, GUCY2C, B7-H3, PSCA, PSMA, MUC1, TGFβ, HER2, Lewis-Y, AXL, or EGFR for Immunotherapy of Lung Cancer: Phase I Clinical Trial
-
-Intervention: : CAR-T cells targeting GPC3, Mesothelin, Claudin18.2, GUCY2C, B7-H3, PSCA, PSMA, MUC1, TGFβ, HER2, Lewis-Y, AXL, or EGFR — CAR-T cells injection: (1-10×10e6/kg CAR-T for each treatment; 3 or more cycles.
-Link: https://clinicaltrials.gov/study/NCT03198052
-
-SUMMARY:
-
-## NCT04019249
-HealthyWeightHub.fi: Web-based Management of Obesity in a Real-life Clinical Setting
-
-Intervention: : Healthy Weight Coaching — Healthy Weight Coaching is a 52 week long web-based weight loss program consisting of weekly modules, exercises, peer support, and one-on-one coaching. It encompasses themes such as diet, physical activity, coping with stress, sleep, and general health.
-Link: https://clinicaltrials.gov/study/NCT04019249
-
-SUMMARY:
-
-## NCT03828773
-PTX3 Genetically Stratified Randomized Double-blinded Allocation Event-driven Clinical Trial for Antifungal Prophylaxis in Patients With Acute Myeloid Leukemia
-
-Intervention: : Posaconazole — Posaconazole is a triazole with broad-spectrum activity, to include Candida species, Aspergillus species, and other fungal pathogens, including the Zygomycetes. Posaconazole is available as slow release tablets (300mg/day) and as intravenous (IV) formulation (300mg/day) and is licensed and approved in Switzerland for the prevention of IFI, including mold and yeast infections, in patients \>18 years who are at high risk of developing these types of infection (patients with long-term neutropenia or HCT recipients). Furthermore, international guidelines recommend posaconazole for primary antifungal prophylaxis in high-risk patients, such as AML patients with prolonged neutropenia. Posaconazole is available in Switzerland under the name of Noxafil® in capsules of 100mg, suspension of 40mg/mL and intravenous formulation of 300mg/16.7 mL.
-: Fluconazole — Fluconazole is an antifungal with activity against most Candida species. Fluconazole is licensed and approved in Switzerland for prophylaxis of IC in patients with neutropenia induced by chemotherapy or radiotherapy at a daily dose of 200 to 400 mg once daily. Fluconazole (200 mg or 400 mg once daily) is still currently used as primary antifungal prophylaxis (standard of care) in all 7 centers participating in this trial. Fluconazole is available in Switzerland under the name of Diflucan® in capsules of 50 mg, 150 mg and 200 mg and in powder for preparation of suspension (50 mg/5 ml and 200 mg/5 ml (forte)) or perfusion (2 mg/1 ml). Several generics of Diflucan® are authorized in Switzerland. Prescribing Diflucan® or any of its generics will remain at the discretion of and based on the standard operating procedures (SOP) at each institution.
-Link: https://clinicaltrials.gov/study/NCT03828773
-
-SUMMARY:
-
-## NCT03150511
-Tesamorelin Therapy to Enhance Axonal Regeneration, Minimize Muscle Atrophy, and Improve Functional Outcomes Following Peripheral Nerve Injury
-
-Intervention: : Tesamorelin 2 Milligrams (MG) — Daily self-administered study drug
-Link: https://clinicaltrials.gov/study/NCT03150511
-
-SUMMARY:
-
-## NCT04215731
-Neoadjuvant mFOLFOXIRI Plus Bevacizumab Versus Induction FOLFOX Followed by Concomitant Chemoradiotherapy in Patients With High-Risk Locally Advanced Rectal Cancer: Multicenter Randomized Phase III Trial
-
-Intervention: : Neoadjuvant chemotherapy with mFOLFOXIRI plus bevacizumab — Bevacizumab (5 mg/kg on day 1) plus mFOLFOXIRI (oxaliplatin 85 mg/m2, irinotecan 150 mg/m2, and folinic acid 400 mg/m2 followed by 5-fluorouracil 2400mg/m2 as a 46-hour continuous infusion on day 1) for 4 cycles and mFOLFOXIRI (oxaliplatin 85 mg/m2, irinotecan 150 mg/m2, and folinic acid 400 mg/m2 followed by 5-fluorouracil 2400mg/m2 as a 46-hour continuous infusion on day 1) for 2 cycles
-: Restaging — Restaging by pelvic magnetic resonance imaging (MRI)
-: Concomitant Chemoradiotherapy — Concomitant chemoradiotherapy (preoperative radiotherapy consisted of 50 Gy in 25 fractions, and concurrent with capecitabine at a fixed dose of 825 mg/m2 twice daily on days 1 to 5 for 5 weeks)
-: Surgery — Radical surgery (TME or more extended surgery)
-: Chemoradiotherapy (only when patients with MRF involved or ycT4a/b by restaging) — Chemoradiotherapy (preoperative radiotherapy consisted of 50 Gy in 25 fractions, and concurrent with capecitabine at a fixed dose of 825 mg/m2 twice daily on days 1 to 5 for 5 weeks)
-: Induction chemotherpay with FOLFOX — mFOLFOX6 (oxaliplatin 85 mg/m2, and folinic acid 400 mg/m2 followed by bolus 5-fluorouracil 400 mg/m2 and 5-fluorouracil 2400mg/m2 as a 46-hour continuous infusion on day 1) for 4 cycles
-Link: https://clinicaltrials.gov/study/NCT04215731
-
-SUMMARY:
-
-## NCT03956602
-Effects of Snack Types on Acute Glucose and Insulin Response
-
-Intervention: : Pretzels — To examine postprandial responses of pretzel consumption
-: Brazil nuts — To examine postprandial responses of Brazil nut consumption
-: Potato chips — To examine postprandial responses of potato chip consumption
-: Mixed nuts — To examine postprandial responses of mixed nut consumption
-: White bread — To examine postprandial responses of white bread consumption
-: Dried mango — To examine postprandial responses of dried mango consumption
-: Mango fruit — To examine postprandial responses of fresh mango consumption
-Link: https://clinicaltrials.gov/study/NCT03956602
-
-SUMMARY:
-
-## NCT03905239
-Impact of a Procalcitonin-based Algorithm on Quality of Management in Patients With Uncomplicated Adhesion-related Small Bowel Obstruction Assessed by Textbook Outcome: a Multicenter Cluster-randomized Open-label Controlled Trial. (ALPROC)
-
-Intervention: : algorithm — clinical examination and procalcitonin assessment
-Link: https://clinicaltrials.gov/study/NCT03905239
-
-SUMMARY:
-
-## NCT04324151
-Pembrolizumab Combined With Double Platinum Based Chemotherapy for Potentially Resectable Non-driver Gene Mutation Non-small Cell Lung Cancer
+## NCT01094327
+Evaluation of Recipients With and Without Proteinuria, Pre and Post Kidney Transplantation
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04324151
+Link: https://clinicaltrials.gov/study/NCT01094327
 
 SUMMARY:
 
-## NCT03611816
-Biological Bank for Studies Related to Atrial Fibrillation and Stroke
+## NCT03577041
+Medico-economic Evaluation of Anti-VEGF Treatments in the Treatment of naïve Age-related Macular Degeneration (AMD): a Model Adapted to the French Context
 
-Intervention: : Blood taken — Collection of clinical data
-: Blood taken — Collection of DNA
-: Blood taken — Collection of plasma
-Link: https://clinicaltrials.gov/study/NCT03611816
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03577041
 
 SUMMARY:
 
-## NCT04380051
-Evaluation of a Sensory-tonic Stimulation on Development of Parent-infant Interaction and Social Cognition in Very Premature Children
+## NCT01761981
+Institutional Registry of Haemorrhagic Hereditary Telangiectasia
 
-Intervention: : sensory-tonic stimulation — sensory-tonic stimulation done by the parents to the child, five times a week during 15 minutes at each time
-: skin-to-skin contact — skin-to-skin contact left free for parents
-Link: https://clinicaltrials.gov/study/NCT04380051
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT01761981
 
 SUMMARY:
 
-## NCT04137939
-Smart Health Care and Innovative Technology Service Model Plan : Development of Innovative Health Promotion System for Senior Adults
+## NCT03991507
+Prospective Cohort Study for PCOS Patients in Clinical Reproductive Medicine Management System/Electronic Medical Record Cohort Database (CCRM/EMRCD)
 
-Intervention: : smart exercise system — The smart exercise system contains an upper extremity ergometer (UEE) and a lower extremity ergometer (LEE). The revolutions per minute (RPM) of the ergometer are instructed to maintain in 55-65. The resistance of UEE is set from level 1 at the first session, and adjusted by rating of perceived exertion (RPE) of each user after each end of the session. The resistance of LEE is set from level 2 at the first session, and adjusted by rating of perceived exertion (RPE) of each user after each end of the session. The system also continuously records exercise-related device data, personal physiological parameters, and facial action units in a structured and systematic manner.
-Link: https://clinicaltrials.gov/study/NCT04137939
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03991507
+
+SUMMARY:
+
+## NCT02886611
+Limbal Stem Cell Deficiency of Genetic Origin: Genotype-phenotype Correlation
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT02886611
+
+SUMMARY:
+
+## NCT00899405
+EGFR Pathway Mutations in Lung Cancer Patient Tumors and Blood
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT00899405
+
+SUMMARY:
+
+## NCT03695978
+Practical Utilisation of Octapharma FVIII Concentrates in Previously Untreated & Minimally Treated Haemophilia A Patients Entering Routine Clinical Treatment With Nuwiq, Octanate or Wilate - Efficacy & Safety Observational Study-Protect-NOW
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03695978
+
+SUMMARY:
+
+## NCT04239079
+Autoimmune Features of Neurodegenerative Disorders
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT04239079
+
+SUMMARY:
+
+## NCT02325674
+MEASuRE: Metreleptin Effectiveness And Safety Registry
+
+Intervention: : Metreleptin
+Link: https://clinicaltrials.gov/study/NCT02325674
+
+SUMMARY:
+
+## NCT03011697
+A Prospective, Single-center,Registry Study of Chinese Hospitalized Adult Patients With Valvular Heart Disease
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03011697
+
+SUMMARY:
+
+## NCT04452305
+Spermatogonial Stem Cell (SSC) Transplant and Testicular Tissue Grafting
+
+Intervention: : Spermatogonial Stem Cell Transplant and Testicular Tissue Grafting — Spermatogonial stem cell transplant and testicular tissue grafting is performed to produce sperm.
+Link: https://clinicaltrials.gov/study/NCT04452305
+
+SUMMARY:
+
+## NCT04337515
+A Feasibility Study of Using the CiniMacs® Device for Alpha/Best T-Cell Depletion in Stem Cell Transplant Recipients
+
+Intervention: : CliniMacs® — CliniMACS® CD34 Reagent System is now indicated for processing hematopoietic progenitor cells collected by apheresis (PBSC) from an allogeneic, HLA-identical MSD to obtain a CD34+ cell-enriched population for hematopoietic reconstitution following a myeloablative preparative regimen without the need for additional GVHD prophylaxis in patients with AML in first morphologic complete remission (CR1).
+Link: https://clinicaltrials.gov/study/NCT04337515
+
+SUMMARY:
+
+## NCT03671889
+Assessment of Safety and Efficacy of ExAblate Blood-Brain Barrier Disruption for the Treatment of Patients With Probable Alzheimer's Disease
+
+Intervention: : Blood Brain Barrier (BBB) Disruption — Focal Ultrasound (FUS) involves the application of acoustic energy at low frequencies from over 1000 individual transducers into distinct targets to induce BBB disruption.
+Link: https://clinicaltrials.gov/study/NCT03671889
+
+SUMMARY:
+
+## NCT04226313
+Cervical Cancer Prevention Using Self-sampling and Human Papillomavirus Detection
+
+Intervention: : Self-sampling by Evalyn Brush — Women will perform a cervicovaginal self-sampling at their home using Evalyn Brush.
+: Self sampling by Evalyn Brush home or in GP´s clinic — Women will perform a cervicovaginal self-sampling at their home or the GP´s clinic using Evalyn Brush
+Link: https://clinicaltrials.gov/study/NCT04226313
+
+SUMMARY:
+
+## NCT04312633
+CDx Study 906: The Clinical Utility of WATS3D (Wide Area Transepithelial Sampling With Computer-Assisted 3-Dimensional Analysis): A 5- Year Prospective Registry
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT04312633
+
+SUMMARY:
+
+## NCT04183660
+A Post Market Surveillance Study of the Hemovent Extracorporeal Cardiopulmonary Support System for Cardiac and Respiratory Support: The MOBYBOX Trial
+
+Intervention: : MOBYBOX System — extracorporeal cardiopulmonary support
+Link: https://clinicaltrials.gov/study/NCT04183660
+
+SUMMARY:
+
+## NCT03615690
+The Influence of a Fasting Mimicking Diet on Ulcerative Colitis
+
+Intervention: : Fasting Mimicking Diet — 5 day reduced calorie diet
+: Regular Diet — Regular Diet
+Link: https://clinicaltrials.gov/study/NCT03615690
+
+SUMMARY:
+
+## NCT02310178
+Obesity Cohort : Medical Follow-up of Severe or Morbid Obese Patients Undergoing Bariatric Surgery
+
+Intervention: : Bariatric surgery — all of the current bariatric surgeries are allowed in this prospective cohort study
+Link: https://clinicaltrials.gov/study/NCT02310178
+
+SUMMARY:
+
+## NCT02468024
+JoLT-Ca A Randomized Phase III Study of Sublobar Resection (SR) Versus Stereotactic Ablative Radiotherapy (SAbR) in High Risk Patients With Stage I Non-Small Cell Lung Cancer (NSCLC), The STABLE-MATES Trial
+
+Intervention: : Lung Surgery — Sublobar Lung Resection
+: Radiation therapy — Stereotactic Ablative Radiotherapy, 54 Gy in 3 fractions
+Link: https://clinicaltrials.gov/study/NCT02468024
 
 SUMMARY:
 

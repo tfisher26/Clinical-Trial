@@ -6640,14 +6640,6 @@ Link: https://clinicaltrials.gov/study/NCT06591884
 
 SUMMARY: Oral lichen planus causes painful sores and white patches inside the mouth. This study compares a tacrolimus spray made with tiny nanoparticles with standard tacrolimus ointment to see which works better.
 
-## NCT06591975
-Investigation of the Relationship Between Upper Extremity Function and Balance and Functional Mobility in Parkinson's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06591975
-
-SUMMARY:
-
 ## NCT06592170
 A Single Arm, Open Center, Multicenter Clinical Study of Frontline Treatment of Marginal Zone Lymphoma Patients (MZL) With Linperlisib Combined With Obinutuzumab
 
@@ -7673,22 +7665,6 @@ Intervention: : Digital therapeutic motion-based device — This intervention in
 Link: https://clinicaltrials.gov/study/NCT06609317
 
 SUMMARY: Many women have weak pelvic floor muscles after childbirth, leading to bladder leaks. This study tests the Leva device, a motion sensing tool that guides pelvic floor exercises, to see whether postpartum women can use it effectively.
-
-## NCT06609642
-Digital Art and Artificial Intelligence : Encouraging the Discovery of the Senses Via the Impressionist Painters for the Well-being of Adults - Qualitative Study
-
-Intervention: : Art application — First, participants will complete questionnaires that will provide us with their socio-demographic information, their level of knowledge in visual arts and music, as well as their level of eco-anxiety.
-
-Second, participants will use the application on a touchscreen tablet:
-
-1. A member of the research team will give a brief explanation of the application.
-2. The participant will use the application on the touchscreen tablet.
-3. A member of the research team will be present in the room during the test as an observer.
-
-Third, the participant will answer questions from a member of the research team: impressions of the tool, digital skills and abilities, enablers and barriers to the use of the tool, expectations, needs, and interests in the application.
-Link: https://clinicaltrials.gov/study/NCT06609642
-
-SUMMARY:
 
 ## NCT06609824
 Learn to Dare! Leiden
@@ -9681,14 +9657,6 @@ Intervention: : Screening pap smear test — The patient put in dorsal lithotomy
 
 The samples will be applied to the slides which will be encoded and immediately fixed in 95% ethanol and the samples will be transferred to pathology department to be stained by the standard Papanicolaou stain
 Link: https://clinicaltrials.gov/study/NCT06641531
-
-SUMMARY:
-
-## NCT06641752
-Evaluation of the Accuracy of Capillary Versus Venous CO Measurement in Subjects With Suspected Carbon Monoxide Poisoning: a Prospective, Multicenter, Diagnostic, Controlled Study.
-
-Intervention: : Blood drop sampling — The process: blood drop sampling Technique: capillary sampling Frequency: Once Time: 5 minutes Sample collection volume: 1mL Total collection volume: 1 mL
-Link: https://clinicaltrials.gov/study/NCT06641752
 
 SUMMARY:
 

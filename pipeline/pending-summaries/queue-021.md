@@ -1488,18 +1488,6 @@ Link: https://clinicaltrials.gov/study/NCT05163639
 SUMMARY:
 
 
-## NCT07231913
-Evaluation of the Effectiveness of Emotional Awareness and Communication-Based Intervention Training for Oncology Nurses
-
-Intervention: : Structured Emotional Awareness and Communication Training — Participants in the intervention group will receive a structured training program over four weeks, consisting of weekly 45-minute face-to-face sessions. The program covers:
-
-Recognizing emotions and emotional awareness Burnout symptoms and healthy coping strategies Challenging conversations and effective communication skills Personal strategies to prevent burnout The training includes interactive presentations, group discussions, and short exercises.
-: Educational Materials — Participants in the control group will receive written or digital educational materials after the intervention period. No face-to-face training is provided during the study.
-Link: https://clinicaltrials.gov/study/NCT07231913
-
-SUMMARY:
-
-
 ## NCT07154524
 Immunoadsorption for Treatment of Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
 

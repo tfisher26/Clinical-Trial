@@ -666,15 +666,6 @@ Link: https://clinicaltrials.gov/study/NCT07638670
 SUMMARY:
 
 
-## NCT06389552
-A Long-term Follow-up Study of FOLFIRINOX Regimen as Adjuvant Therapy in Pancreatic Cancer Patients After Curative Surgery: Multi-center, Prospective
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06389552
-
-SUMMARY:
-
-
 ## NCT07286487
 Effects of Glycyrrhetinic Acid on Human Skin in an Acute Irritant Contact Dermatitis Model
 
