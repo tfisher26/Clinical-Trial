@@ -4205,15 +4205,6 @@ Link: https://clinicaltrials.gov/study/NCT07288853
 
 SUMMARY:
 
-## NCT07288892
-Effects of Pulsed Electromagnetic Field Therapy on Sport Performance and Recovery
-
-Intervention: : Active Pulsed Electromagnetic Field Therapy — The experimental group will receive active Pulsed Electromagnetic Field (PEMF) therapy twice weekly for 8 weeks, for a total of 16 sessions. Participants will sit comfortably in a chair with their legs placed inside the solenoid of the PEMF device. The active PEMF settings are 1.2 milliTesla (mT) at 50 Hertz (Hz). Each PEMF session will last 20 minutes, with 10 minutes of active PEMF exposure per leg.
-: Sham Pulsed Electromagnetic Field Therapy — The control group will receive sham Pulsed Electromagnetic Field (PEMF) therapy twice weekly for 8 weeks, for a total of 16 sessions. Participants will sit comfortably in a chair with their legs placed inside the solenoid of the PEMF device. The sham PEMF settings are 0 milliTesla (mT) at 0 Hertz (Hz). Each PEMF session will last 20 minutes, with 10 minutes of sham PEMF exposure per leg.
-Link: https://clinicaltrials.gov/study/NCT07288892
-
-SUMMARY:
-
 ## NCT07288905
 The Feasibility and Effects of Exercise Training Combined With Blood Flow Restriction Training on Exercise Capacity and Exercise Tolerance in Patients With Chronic Kidney Disease
 
@@ -6762,15 +6753,6 @@ Link: https://clinicaltrials.gov/study/NCT07321808
 
 SUMMARY:
 
-## NCT07321873
-A Phase 2b, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Dose-Ranging Study to Evaluate the Efficacy and Safety of JNJ-88545223 For the Treatment of Participants With Active Psoriatic Arthritis
-
-Intervention: : JNJ-88545223 — JNJ-88545223 will be administered.
-: Placebo — Placebo will be administered.
-Link: https://clinicaltrials.gov/study/NCT07321873
-
-SUMMARY:
-
 ## NCT07322003
 A Phase 3, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Pridopidine in Participants With Amyotrophic Lateral Sclerosis
 
@@ -7346,14 +7328,6 @@ Intervention: : GW5282 — Single dose period (only for dose escalation phase): 
 Repeated does period (for dose escalation phase and dose expansion phase): administered at assigned dose levels and schedules twice daily (BID) orally in 21-day cycles continuously.
 : GW5282 — RDFE will be determined by dose escalation phase.
 Link: https://clinicaltrials.gov/study/NCT07328217
-
-SUMMARY:
-
-## NCT07328347
-A Simulation Experiment to Improve Dental Care for Patients With Head and Neck Tumors
-
-Intervention: : Educational material, — Patients with head and neck cancer and practicing dentists in Germany participate in an anonymous, prospective pre-post survey study. Both groups complete a baseline questionnaire assessing demographic characteristics as well as knowledge, attitudes, experiences, and decision-making related to dental care in the context of head and neck cancer treatment. Following the baseline assessment, participants receive group-specific, guideline-based written educational information. After reviewing the educational material, participants complete a post-intervention questionnaire with identical content. The effect of the educational intervention is evaluated by comparing pre- and post-assessment responses within each group.
-Link: https://clinicaltrials.gov/study/NCT07328347
 
 SUMMARY:
 
@@ -9683,15 +9657,6 @@ Link: https://clinicaltrials.gov/study/NCT07366346
 
 SUMMARY:
 
-## NCT07366502
-Comprehensive Hematological and Biochemical Comparison of Low-Dose Liposomal Iron Versus Standard-Dose Conventional Oral Iron in Iron Deficiency Anemia Following Sleeve Gastrectomy: A Prospective, Randomized Clinical Trial
-
-Intervention: : Liposomal Iron — Oral liposomal iron capsules containing 17 iron per capsule, adminstered as 2 capsules daily, taken independently of meals for 3 months.
-: conventional oral iron — oral ferrous iron preparations (ferrous sulfate), each providing 160 mg elemental iron once daily, administered on an empty stomatch with 200 mg vitamin c for 3 months.
-Link: https://clinicaltrials.gov/study/NCT07366502
-
-SUMMARY:
-
 ## NCT07367022
 The Accuracy of Portable Sleep Monitoring for Children With Autism Spectrum Disorder
 
@@ -11081,14 +11046,6 @@ Link: https://clinicaltrials.gov/study/NCT07386600
 
 SUMMARY:
 
-## NCT07386951
-Heart Rate Variability Biofeedback in Distress Regulation and Burnout Prevention Among Security Forces
-
-Intervention: : Heart Rate Variability Biofeedback (HRV-BFB) Training — Participants receive a structured heart rate variability biofeedback (HRV-BFB) training protocol delivered over 4 weeks. The intervention uses a portable chest-worn ECG sensor (eSense Pulse) connected via Bluetooth to a mobile application that provides real-time visual feedback of heart rate variability. Each participant completes 12 individual sessions of 12 minutes each (one session every 2 days). Sessions take place in a quiet room and follow a standardized format: a brief preparation phase, followed by approximately 10 minutes of guided breathing at resonance frequency (around 6 breaths per minute) using a visual breathing guide. The application displays color-coded feedback indicating how closely the participant's physiological response matches the target HRV pattern, and participants are instructed to adjust their breathing and recall positive memories to maximize time in the desired state. The aim is to increase HRV, strengthen parasympathetic activation, and improve stress and
-Link: https://clinicaltrials.gov/study/NCT07386951
-
-SUMMARY:
-
 ## NCT07387068
 First-in-human, Open-label, Phase 1 Trial to Evaluate the Safety and Preliminary Efficacy of GEN1079 in Participants With Select Advanced Malignant Solid Tumors
 
@@ -11641,22 +11598,6 @@ Clinical Study on Tailored Hydration by Remote Dielectric Sensing System to Prev
 
 Intervention: : Tailored hydration guided by ReDS system — If initial lung water index is ≥35%, the hydration rate is 1ml/kg/h; If the initial lung water index is \<35% but ≥20%, the hydration rate is 2ml/kg/h; If the initial lung water index is \<20%, the hydration rate is designed to 5ml/kg/h. We re-check the lung water index after the contrast procedure. If the lung water index is \>35% or if there is a more than 2-fold increase in the lung water index compared to pre-procedure, adjust the fluid infusion rate to 0.5ml/kg/h. If the lung water index after the contrast procedure is ≥20% but \<35%, adjust the fluid infusion rate to 1ml/kg/h. If the lung water index after the contrast procedure is still \<20%, adjust the fluid infusion rate to 5ml/kg/h.
 Link: https://clinicaltrials.gov/study/NCT07394959
-
-SUMMARY:
-
-## NCT07394972
-Iron Absorption From Stabilized Lactoferrin: An Experimental Study in Iron Deficient Women (LOBSTER)
-
-Intervention: : FeSO4 + meal-matrix — Maize porridge with labelled ferrous sulfate (58Fe)
-: FeSO4 + native LF + meal-matrix — Maize porridge with labelled ferrous sulfate (58Fe) and lactoferrin
-: FeSO4 + NaCas-LF + meal-matrix — Maize porridge with labelled ferrous sulfate (57Fe) and in sodium caseinate encapsulated lactoferrin
-: NaCas-LF-Fe + meal-matrix — Maize porridge with sodium caseinate-lactoferrin-Fe (intrinsically labeled with iron isotope 54)
-: FeSO4 + LMP-LF + meal-matrix — Maize porridge with labelled ferrous sulfate (54Fe) and low methoxy pectin lactoferrin
-: LMP-LF-Fe + meal-matrix — Maize porridge with low methoxy pectin-lactoferrin-Fe (intrinsically labelled with iron isotope 57)
-: NaCas-LF-Fe + water — Water with sodium caseinate-lactoferrin-Fe (intrinsically labelled with iron isotope 54Fe)
-: LMP-LF-Fe + water — Water with low methoxy pectin-lactoferrin-Fe (intrinsically labelled with iron isotope 57Fe)
-: FeSO4 + water — Water with ferrous sulfate (labelled with iron isotope 58Fe)
-Link: https://clinicaltrials.gov/study/NCT07394972
 
 SUMMARY:
 

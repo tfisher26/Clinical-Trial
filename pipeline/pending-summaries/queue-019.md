@@ -1427,15 +1427,6 @@ Link: https://clinicaltrials.gov/study/NCT06645236
 SUMMARY:
 
 
-## NCT07121218
-Assessment of Physical Fitness Level and Its Relationship With Pulmonary Functions in Patients With Bronchiectasis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07121218
-
-SUMMARY:
-
-
 ## NCT06686537
 Convergent Mechanisms Underlying Reprometabolic Syndrome in Women and Sheep
 

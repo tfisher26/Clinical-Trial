@@ -4390,15 +4390,6 @@ Link: https://clinicaltrials.gov/study/NCT06205992
 SUMMARY:
 
 
-## NCT07370103
-Carotid Artery Corrected Flow Time and Respiratory Variation of Blood Flow Peak Velocity for Prediction of Hypotension After Induction of General Anaesthesia in Adult Patients With Chronic Liver Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07370103
-
-SUMMARY:
-
-
 ## NCT06140901
 Morphological and Functional Pilot Study of the Bronchial Epithelium of Children With Post-infectious Bronchiolitis Obliterans
 

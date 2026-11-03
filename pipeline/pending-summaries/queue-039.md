@@ -3749,22 +3749,6 @@ Link: https://clinicaltrials.gov/study/NCT06411626
 SUMMARY:
 
 
-## NCT07051330
-The Advancing Dynamic And Personalized Training Study
-
-Intervention: : Healthy Minds Program (HMP) app — All participants will complete baseline surveys, weekly questionnaires (for 4 weeks) through the HMP app intervention, and will be surveyed again at 3-months post-intervention. Participants are randomized to each of the following binary conditions.
-
-1. Introduction video for the app (yes / no)
-2. Introduction video for the training modules (yes / no)
-3. Module order based on ACIP score (highest-first / lowest-first)
-4. Practice-nudging text messages (yes / no)
-5. Microsupport messages during the intervention period (yes / no)
-6. Microsupport messages during the follow-up period (yes / no
-Link: https://clinicaltrials.gov/study/NCT07051330
-
-SUMMARY:
-
-
 ## NCT06820333
 The Clinical Impact and Prognostic Value of [18F] PSMA-1007 Imaging for Primary Staging of Prostate Cancer: Real-world Evidence From a Monocentric, Prospective Observational Study
 

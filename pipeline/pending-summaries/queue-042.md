@@ -6591,14 +6591,6 @@ Link: https://clinicaltrials.gov/study/NCT07428187
 
 SUMMARY:
 
-## NCT07328347
-A Simulation Experiment to Improve Dental Care for Patients With Head and Neck Tumors
-
-Intervention: : Educational material, — Patients with head and neck cancer and practicing dentists in Germany participate in an anonymous, prospective pre-post survey study. Both groups complete a baseline questionnaire assessing demographic characteristics as well as knowledge, attitudes, experiences, and decision-making related to dental care in the context of head and neck cancer treatment. Following the baseline assessment, participants receive group-specific, guideline-based written educational information. After reviewing the educational material, participants complete a post-intervention questionnaire with identical content. The effect of the educational intervention is evaluated by comparing pre- and post-assessment responses within each group.
-Link: https://clinicaltrials.gov/study/NCT07328347
-
-SUMMARY:
-
 ## NCT07643155
 An Open-label, Phase 1 Trial to Evaluate the Pharmacokinetics and Safety of a Single Dose of 80 μg Treprostinil Palmitil Inhalation Powder in Participants With Normal Hepatic Function and Participants With Hepatic Impairment
 

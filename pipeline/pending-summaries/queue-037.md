@@ -334,15 +334,6 @@ Link: https://clinicaltrials.gov/study/NCT07504510
 SUMMARY:
 
 
-## NCT06744660
-Clinical Validation of the Aptitude Medical Systems Metrix COVID-19 Test for Detection of SARS-CoV-2 in Point-of-Care and At-Home (OTC)/Non-Laboratory Settings
-
-Intervention: : Aptitude Medical Systems Metrix COVID Test — The Metrix COVID Test is a real-time reverse transcription loop-mediated isothermal amplification reaction (RT-LAMP) test that has been designed to detect viral RNA from SARS-CoV-2 via electrochemical detection using the Metrix Reader. Detection of SARS-CoV-2 gene targets will produce a positive SARS-CoV-2 result. If no target is detected and the internal control amplifies, the result is negative. If no amplification is detected in any of the channels, an invalid result is displayed.
-Link: https://clinicaltrials.gov/study/NCT06744660
-
-SUMMARY:
-
-
 ## NCT07480057
 Assessment of Changes in Bone Mineral Metabolism After Liver Transplantation by Bone Mineral Densitometry
 
@@ -1217,15 +1208,6 @@ Financial Toxicity in Patients With Resected Soft Tissue and Bone Sarcomas
 
 Intervention: : data collection — data collection from electronic health records
 Link: https://clinicaltrials.gov/study/NCT07215611
-
-SUMMARY:
-
-
-## NCT07520747
-Epidemiology, Treatment Patterns, and Healthcare Resource Utilization in Pediatric Patients Under 18 Years of Age With Inflammatory Bowel Diseases in Korea: A Claims Database Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07520747
 
 SUMMARY:
 
@@ -3614,15 +3596,6 @@ Korean Post-marketing Surveillance for Prevenar 20
 
 Intervention: : Pneumococcal 20-valent conjugate vaccine — For intramuscular use only. One dose (0.5 mL) of Pneumococcal 20-valent conjugate vaccine should be administered intramuscularly, preferably in the deltoid muscle, with care to avoid injection into or near nerves and blood vessels.
 Link: https://clinicaltrials.gov/study/NCT06760208
-
-SUMMARY:
-
-
-## NCT07020390
-The Effect of Anesthesia Techniques on Quality of Recovery (QoR-40) Scores in Benign Prostatic Hyperplasia (Holmium Laser Enucleation of the Prostate - HoLEP) Surgery: A Cross-Sectional, Observational, Prospective Study
-
-Intervention: : Anesthesia method — Patients will be divided into subgroups according to different anesthesia methods (general, spinal, and combined spinal-epidural anesthesia) and compared in terms of recovery quality (QoR-40) and other parameters.
-Link: https://clinicaltrials.gov/study/NCT07020390
 
 SUMMARY:
 

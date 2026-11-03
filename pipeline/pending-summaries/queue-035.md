@@ -3029,15 +3029,6 @@ Link: https://clinicaltrials.gov/study/NCT06637657
 SUMMARY:
 
 
-## NCT06378281
-Testing a New Method to Improve Informed Consent in Prison Research
-
-Intervention: : Modified teach-to-goal informed consent — Enhanced procedure to improve informed consent in vulnerable populations.
-Link: https://clinicaltrials.gov/study/NCT06378281
-
-SUMMARY:
-
-
 ## NCT05982119
 Gait Analysis Parameter, Stair Climbing and Upper Limb Evaluation in Patients With Muscular Pathology and in Control Subjects: The ActiLiège Next Study
 
@@ -4844,15 +4835,6 @@ Safety, Tolerability, and Biodistribution of [89Zr]Zr-DFO-APAC (Phase 0) in Subj
 Intervention: : [89Zr]Zr-DFO-APAC — All participants will receive a single i.v. injection of \[89Zr\]Zr-DFO-APAC 15 MBq (Megabecquerel).
 : PET/CT scan — The IMP administration will be followed by whole-body PET/CT scanning (day 1), and repeated PET/CT scans on days 3 and 7.
 Link: https://clinicaltrials.gov/study/NCT06204237
-
-SUMMARY:
-
-
-## NCT07543939
-Peak Airway Pressure and Respiratory Mechanics During Pressure-Regulated Volume Control Ventilation in Patients Undergoing Laparoscopic Abdominal Surgery: A Prospective Observational Study
-
-Intervention: : PRVC Ventilation — Mechanical ventilation using pressure-regulated volume control mode applied as part of routine intraoperative anesthesia care. No experimental intervention is introduced.
-Link: https://clinicaltrials.gov/study/NCT07543939
 
 SUMMARY:
 

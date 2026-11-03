@@ -103066,3 +103066,68 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT00837122
+Genetics of Type 2 Diabetes in Diverse Populations
+Conditions: cardiovascular/hypertension_pregnancy_induced, renal/diabetes_insipidus
+
+Inclusion criteria:
+"""
+As our primary interest is in T2D, it is important to exclude individuals who may have diabetes of another etiology. Elevated blood glucose in individuals 25 years old or younger is unlikely (in West Africa) to result from T2D and may reflect Type 1 Diabetes. Therefore, only individuals older than 25 years will be included in this study.
+
+We are seeking to enroll persons without T2D or with previously or newly diagnosed T2D. Previously diagnosed cases will be determined by self-report of being treated with oral medication or insulin. Newly diagnosed cases will be determined by fasting blood glucose value \>= 126 mg/dl on more than one occasion. Individuals who have elevated blood glucose during their initial reading will be asked to return to the study site for a second test. If this test also has a fasting blood glucose value \>= 126 mg/dl, then they will be considered a new case. The control group will be individuals with no report of T2D diagnosis and fasting plasma glucose (FPG)\< 126 mg/dl.
+
+Only unrelated individuals will be included in this phase of the study to avoid confounding genetic association studies by relatedness in the study population.
+"""
+
+RELATIONSHIP:
+
+## NCT06103123
+MYocarditis and/or Pericarditis Following mRNA COVID-19 VACCination National Surveillance Study
+Conditions: cardiovascular/myocarditis, cardiovascular/pericarditis_tuberculous
+
+Inclusion criteria:
+"""
+* Inclusion criteria for vaccine associated myocarditis/pericarditis.
+
+  1. COVID-19 vaccination within previous 42 days. AND
+  2. At least one cardiac symptom of suspected myocarditis/pericarditis (Appendix 5).
+
+     OR At least two non-specific symptoms (Appendix 5). OR In infants and young children, at least two non-specific pediatric symptoms (Appendix 5).
+
+     OR No symptoms, but abnormal histopathology or a combination of abnormal cardiac biomarkers with abnormal cardiac imaging (echo or MRI).
+
+     AND
+  3. At least one of the following objective findings (Brighton Criteria case definitions, Appendices 1 to 5):
+
+     1. Histopathologic examination of myocardial tissue (autopsy or endomyocardial biopsy) showed myocardial inflammation.
+     2. Elevated myocardial biomarker (Troponin T, Troponin I, or CK-MB).
+     3. Cardiac MRI abnormality.
+     4. Echocardiographic abnormality.
+     5. New or worsening arrhythmia on electrocardiogram, Holter monitor, or telemetry.
+     6. Elevated inflammation biomarkers: erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), hs-CRP, or D-Dimer.
+     7. Physical examination pericardial friction rub or pulsus paradoxus.
+     8. Pericardial fluid or inflammation by imaging (echo, MRI, or CT).
+     9. Enlarged heart on chest radiograph.
+
+     AND
+  4. No alternative cause of presentation. e.g. infectious or autoimmune myocarditis.
+* Inclusion criteria for COVID-19 associated myocarditis/pericarditis
+
+  1. COVID-19 infection within the previous 42 days.
+
+     AND
+  2. Myocarditis/pericarditis as per Brighton Criteria for vaccine associated myocarditis/pericarditis.
+
+     AND
+  3. No alternative cause of presentation.
+
+Inclusion criteria alternative etiology myocarditis.
+
+1. Myocarditis/pericarditis as per Brighton Criteria for vaccine associated myocarditis/pericarditis.
+
+   AND
+2. No alternative cause of presentation.
+"""
+
+RELATIONSHIP:
+

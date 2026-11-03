@@ -2691,21 +2691,6 @@ Link: https://clinicaltrials.gov/study/NCT05613608
 
 SUMMARY: Alcohol use disorder is hard to treat, and some people use cannabis to drink less. This study tests cannabidiol as a harm reduction strategy for people with alcohol use disorder.
 
-## NCT05613985
-A Randomised, Open-Label, Multicentre Clinical Study To Evaluate The Efficacy And Safety Of Topical Applications Of the System VULNOFAST® Plus / VULNOLIGHT® In Addition To The Usual Care Versus Usual Care Alone For The Treatment Of Infected Foot Ulcers In Diabetic Patients (PHOTOFINISH)
-
-Intervention: : Usual Care alone — Usual Care is defined as the following procedures to apply to the foot ulcer, carried out in the order in which they are listed:
-
-Sharp debridement (the debridement will be performed only if non-vital tissue is present), Mild washing of the whole ulcer with physiological solution, Treatment with topical antiseptic containing Iodopovidone, Covering with iodopovidone impregnated gauze while the ulcer is clinically infected (PEDIS ≥ 2) \[If, during the study, PEDIS is \< 2, the ulcer will be covered with nonadherent paraffin gauze\].
-
-Treatment 2 times a week (4 treatment weeks, 8 treatments).
-: System VULNOFAST® plus / VULNOLIGHT® in addition to Usual Care — System VULNOFAST® plus / VULNOLIGHT®: VULNOFAST® plus sterile solution, in combination with a red light source VULNOLIGHT®. VULNOFAST® plus and VULNOLIGHT® will be used in accordance with their Instructions for Use (IFU) and User Manual.
-
-Treatments 2 times a week (4 treatment weeks, 8 treatments of Usual Care and 8 treatments of system VULNOFAST® plus / VULNOLIGHT®).
-Link: https://clinicaltrials.gov/study/NCT05613985
-
-SUMMARY: Infected foot ulcers in people with diabetes are slow to heal. This study tests adding the VULNOFAST Plus and VULNOLIGHT topical system to usual care, compared with usual care alone.
-
 ## NCT05614050
 The Prognosis of Patients After Coronary Intervention (PCI) : a Multi-center Prospective Study in China
 
@@ -3031,15 +3016,6 @@ Intervention: : Doravirine — Fixed dose combination of doravirine, lamivudine 
 Link: https://clinicaltrials.gov/study/NCT05630638
 
 SUMMARY:
-
-## NCT05631730
-An Investigator-Initiated Prospective Randomized Open-Label Blinded-Endpoint Crossover Trial Comparing the Effect and Safety of Flecainide and Metoprolol Versus Metoprolol Alone to Suppress Ventricular Arrhythmias in Arrhythmic Mitral Valve Prolapse
-
-Intervention: : Flecainide — Flecainide is mainly used for pharmacological conversion in patients with atrial tachyarrhythmias and to suppress ventricular arrhythmias in patients with structurally normal hearts.
-: Metoprolol — Metoprolol is a beta-blocker and class II antiarrhythmic drug considered standard care in most cardiac diseases predisposing to ventricular arrhythmias, including arrhythmic mitral valve prolapse.
-Link: https://clinicaltrials.gov/study/NCT05631730
-
-SUMMARY: Mitral valve prolapse can sometimes cause dangerous heart rhythms. This crossover study compares flecainide plus metoprolol with metoprolol alone to suppress these arrhythmias.
 
 ## NCT05632081
 Study of Asthma Step-up in Real Life (SURFE)

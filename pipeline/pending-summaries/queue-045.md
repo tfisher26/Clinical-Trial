@@ -8273,16 +8273,6 @@ Link: https://clinicaltrials.gov/study/NCT06275568
 
 SUMMARY: Pregnant women at high risk may lack access to healthy food. This study tests a food prescription program with fresh produce for these mothers.
 
-## NCT06275815
-Promoting Caregiver Implementation of an Effective Early Learning Intervention: Sit Together and Read (STAR)
-
-Intervention: : Sit Together and Read (STAR) — Sit Together and Read (STAR) features an explicit, systematic sequence of 15 objectives that target four dimensions of print knowledge: print organization, print meaning, letters, and words. These objectives are explicitly targeted in the context of repeated adult-child shared reading sessions and are systematically cycled over an intervention period so the child has repeated opportunities for acquiring the targeted print objectives. STAR is a manualized 15-week intervention.
-: Monetary Reward — Caregiver receives a monetary reward of $0.50 for each session logged (up to 60 sessions) and audio-recording completed (up to 15 audio recordings).
-: Text Encouragement — Caregiver receives three tailored encouraging text messages specific to each week of the Sit Together and Read intervention.
-Link: https://clinicaltrials.gov/study/NCT06275815
-
-SUMMARY:
-
 ## NCT06276309
 Protein Molecular Characteristics and Prognosis of Cervical Neuroendocrine Tumors
 
@@ -12934,14 +12924,6 @@ Outcome of the Semibranch in Pararenal and Thoracoabdominal Aortic Pathologies. 
 
 Intervention: : Semibranch CMD branched aortic stentgraft — bEVAR with a custom made abdominal aortic multibranch, which incorporates the semibranch design
 Link: https://clinicaltrials.gov/study/NCT06374355
-
-SUMMARY:
-
-## NCT06374485
-A Phase I, Single-arm, Open-label, Dose-escalation, Safety and Pharmacokinetic Study of AU409 Capsule in Advanced Hepatocellular Carcinoma Patients Who Failed Standard Treatment
-
-Intervention: : AU409 — Oral administration
-Link: https://clinicaltrials.gov/study/NCT06374485
 
 SUMMARY:
 

@@ -3374,15 +3374,6 @@ Link: https://clinicaltrials.gov/study/NCT06313398
 SUMMARY:
 
 
-## NCT07466823
-Classification of Upper and Lower Limb Spasticity Patterns and Their Impact on Quality of Life in Patients With Multiple Sclerosis
-
-Intervention: : Observational Assessment — This is an observational study without therapeutic intervention. Participants will undergo clinical assessment of spasticity patterns, functional performance tests, and patient-reported outcome measures during a single study visit.
-Link: https://clinicaltrials.gov/study/NCT07466823
-
-SUMMARY:
-
-
 ## NCT06578234
 Hyperemic mYocardial Perfusion by adEnosine at diffeRent Doses
 
@@ -6142,15 +6133,6 @@ Intervention: : Blood collection — Blood will be taken from participants alrea
 : Saliva collection — Undergo saliva collection
 : Bone marrow collection — Bone marrow will be taken from participants already undergoing bone marrow collection
 Link: https://clinicaltrials.gov/study/NCT06701214
-
-SUMMARY:
-
-
-## NCT07626606
-Temporal and Spatial Immune Profiling of Oral Rotavirus Vaccine Responses in Zambian Adults With Environmental Enteropathy
-
-Intervention: : Rotarix®, — This is an infant vaccine, but this study participants in this study will receive a double oral Rotarix dose at baseline as per study design.
-Link: https://clinicaltrials.gov/study/NCT07626606
 
 SUMMARY:
 

@@ -576,15 +576,6 @@ Link: https://clinicaltrials.gov/study/NCT06759129
 
 SUMMARY:
 
-## NCT06759337
-The Effect of Stress Ball Used During Intra Uterine Insemination on Pain, Anxiety, Comfort and Physiological Parameters: A Randomized Controlled Study
-
-Intervention: : Stress Ball Group — Participants are given a colored silicone stress ball (5-7 cm diameter) 5 minutes before the procedure. During the procedure, they are instructed to squeeze the ball twice after counting to 10 and repeat this until the procedure is complete.
-: Hand-Holding Group — The researcher holds one of the participant's hands during catheter insertion and removal. The researcher's fingers are closed but not interlocked and placed gently on the participant's hand without additional movements or gloves.
-Link: https://clinicaltrials.gov/study/NCT06759337
-
-SUMMARY:
-
 ## NCT06759402
 Family-based Telemedicine vs. Inpatient Anorexia Nervosa Treatment (FIAT)
 
@@ -2311,15 +2302,6 @@ Peri-implant Mucosal Changes Over Time Following Implant Provisional Removal in 
 
 Intervention: : intraoral scan — Device that scans the mouth with by taking numerous pictures of the mouth and stitches them together to form a three-dimensional copy of the patient teeth.
 Link: https://clinicaltrials.gov/study/NCT06783595
-
-SUMMARY:
-
-## NCT06784089
-Relationship Between Fracture Type and Preoperative Nutritional Status with Postoperative Pain and Prognosis in Geriatric Hip Surgery
-
-Intervention: : Geriatric Nutrition Risk Index — GNRI will be calculated from the formula \[1.489 X albumin (g/L)\] + \[41.7 (weight/ideal weight)\]. If the patient's weight is more than their ideal weight, the weight/ideal weight ratio will be accepted as 1. The ideal weight will be calculated for men with the formula \[(Height-100) -(Height-150/4)\], for women with the formula \[(Height-100) -(Height-150/2.5)\]. According to the results, patients will be determined as no risk (GNRI \> 98), low risk (92-98), severe/moderate risk (GNRI \< 92).
-: visual analog scale — During the VAS evaluation, the patient will be asked to indicate the location of the pain on a 100 cm long scale where 0: no pain, 100: maximum pain, and the value shown by the patient will be recorded.
-Link: https://clinicaltrials.gov/study/NCT06784089
 
 SUMMARY:
 
@@ -4291,16 +4273,6 @@ Optimizing Strength Training in Older Adults
 Intervention: : Strength training — This intervention involves strength training with lighter loads and higher repetitions.
 : Strength training — This intervention involves conventional strength training with higher loads and moderate repetitions.
 Link: https://clinicaltrials.gov/study/NCT06812143
-
-SUMMARY:
-
-## NCT06812481
-Anticholinergic Drug Use in Patients With Rheumatoid Arthritis and Its Effects on Fracture Risk
-
-Intervention: : Anticholinergic load was calculated using anticholinergic cognitive load (ACB) — Bone mineral density was measured using a Dual Energy X-ray Absorptiometry (DEXA) device.
-
-Fracture Risk Assessed with Fracture Risk Assessment Tool (FRAX).
-Link: https://clinicaltrials.gov/study/NCT06812481
 
 SUMMARY:
 
@@ -6512,19 +6484,6 @@ Intervention: : Breathing/relaxation intervention — Ladybug TECHNIQUE is a bre
 
 SUNRISE TECHNIQUE is a breathing/relaxation intervention performed in children aged 10 to 15 years and consists of having the child imagine a favorite place. Then they are invited to reflect on the experience either verbally or through writing or drawing.
 Link: https://clinicaltrials.gov/study/NCT06846944
-
-SUMMARY:
-
-## NCT06846970
-The Effect of Adding Balneotherapy to the Physical Therapy Program on Neuropathic Pain, Disability, Daily Living Activities, and Sleep Quality in Patients With Chronic Lumbar Radiculopathy
-
-Intervention: : Experimental — Patients will receive a conventional physical therapy program consisting of 20 sessions of exercise, hot pack, TENS, ultrasound and balneotherapy, five days a week and once a day for four weeks. Exercise, hot pack, TENS, ultrasound therapy, and balneotherapy will be performed under the supervision of a specialist physiotherapist.
-
-In both groups, patients will be evaluated by a physician at the beginning of the treatment, at the end of the 4-week treatment period, and at the 3rd month through clinical examination and assessment using the Visual Analog Scale (VAS), Oswestry Disability Index, Douleur Neuropathique 4 Questionnaire (DN4), Pain Quality Assessment Scale, LANSS (Leeds Assessment of Neuropathic Symptoms and Signs) Neuropathic Pain Scale, Short Form-36 (SF-36), and Pittsburgh Sleep Quality Index (PSQI).
-: Active Comparator — Patients will receive a conventional physical therapy program consisting of 20 sessions of exercise, hot pack, tens and ultrosound therapy five days a week and once a day for four weeks. It was planned to perform exercise, hot pack, tens, ultrasound therapy accompanied by a specialist physiotherapist.
-
-In both groups, patients will be evaluated by a physician at the beginning of the treatment, at the end of the 4-week treatment period, and at the 3rd month through clinical examination and assessment using the Visual Analog Scale (VAS), Oswestry Disability Index, Douleur Neuropathique 4 Questionnaire (DN4), Pain Quality Assessment Scale, LANSS (Leeds Assessment of Neuropathic Symptoms and Signs) Neuropathic Pain Scale, Short Form-36 (SF-36), and Pittsburgh Sleep Quality Index (PSQI).
-Link: https://clinicaltrials.gov/study/NCT06846970
 
 SUMMARY:
 
@@ -10540,15 +10499,6 @@ Link: https://clinicaltrials.gov/study/NCT06907186
 
 SUMMARY:
 
-## NCT06907329
-The Impact of Nicotinamide Mononucleotide Sustained-release Tablets on Immunosenescence and Metablism in Middle-aged and Elderly Individuals With Metabolic Disorders.
-
-Intervention: : NMN — NMN SR tablets(1000mg/tablets) , 1 tablet daily before breakfast
-: Placebo — Matching Placebo (tablets) once daily before breakfast
-Link: https://clinicaltrials.gov/study/NCT06907329
-
-SUMMARY:
-
 ## NCT06907342
 COSENSE-1: A Feasibility Study for Using a Functional Precision Medicine Platform to Select Oxaliplatin-based Versus Irinotecan-based Chemotherapy Regimens for Patients With Metastatic Colorectal Cancer
 
@@ -12432,15 +12382,6 @@ Feasibility/First in Human Study of Visible Spectrum, Low Level, Microbicidal Li
 
 Intervention: : Cern Device — The Cern Device is an Intravaginal device utilizing low level microbicidal visible light at a 450nm low level microbicidal light, in visible spectrum for treatment of vaginitis, including both bacterial vaginosis and fungal vaginitis.
 Link: https://clinicaltrials.gov/study/NCT06933420
-
-SUMMARY:
-
-## NCT06933498
-Comparison of the Effects of Preoperative and Intraoperative Erector Spinae Plane Block on Opioid Consumption, Anesthetic Consumption and Hemodynamics in Lumbar Disc Herniation Surgeries.
-
-Intervention: : PREOPERATIVE ESPB — After 0.03 mg/kg IV midazolam sedation is applied to patients who will undergo preoperative ESPB, bilateral ultrasound-guided ESPB (in-plane approach) will be applied over the vertebral level that is equidistant from the highest and lowest vertebral levels planned for surgery in the prone position. ESPB will be performed by experienced anesthesiologists. After sterilization of the skin with povidone iodine, the probe with a sterile sheath is placed 3 cm lateral to the spinous process and the trapezius, rhomboid major, erector spinae muscles and the transverse process of the vertebrae are visualized. The needle is placed in the fascial plane on the deep surface of the erector spinae muscle on the bone shadow of the transverse process of the vertebra. A total of 40 mL of 0.25% bupivacaine is administered bilaterally after the LA spread is seen. After waiting for the effect of the block for 30 minutes, the patients will be taken to the operating room.
-: INTRAOPERATIVE ESPB — Intraoperative ESPB will be performed by the neurosurgeon after LDH repair, starting from the level of the operated vertebra and covering all surgical segments. This procedure will be repeated for the other side (right/left). A total of 40 mL of 0.25% bupivacaine will be used for both sides.
-Link: https://clinicaltrials.gov/study/NCT06933498
 
 SUMMARY:
 

@@ -1005,14 +1005,6 @@ Link: https://clinicaltrials.gov/study/NCT07491536
 
 SUMMARY:
 
-## NCT07491562
-A Feasibility Trial to Evaluate Structural Suitability of a Robotic Neck Exoskeleton to Restore Head Movements in Patients With Amyotrophic Lateral Sclerosis
-
-Intervention: : powered neck exoskeleton — Subjects will use the powered neck exoskeleton to control their head-neck motion to complete tasks involving head-neck motions. The neck exoskeleton will be worn and controlled by the users to assist them during tasks.
-Link: https://clinicaltrials.gov/study/NCT07491562
-
-SUMMARY:
-
 ## NCT07491653
 Preliminary Examination of an Innovative mHealth-Based Dietary Fiber Intervention to Improve Outcomes in Young Adults With Prediabetes: A Feasibility Study
 
@@ -8857,15 +8849,6 @@ Development and Validation of an Artificial Intelligence-Based System for Assess
 
 Intervention: : Observational Assessment Only — This study does not include any therapeutic or experimental intervention. The procedures are limited to observational assessment and data collection. Participants perform standardized motor tasks and are video recorded under controlled conditions. No treatment, training, or behavioral modification is applied. The collected data are analyzed using artificial intelligence-based methods to evaluate motor development patterns.
 Link: https://clinicaltrials.gov/study/NCT07597356
-
-SUMMARY:
-
-## NCT07597850
-Effects of Traditional Chinese Medicine (TCM) Formula vs. HMB on Muscle Strength and Bone Status in Pre-Frail Elders: A Comparative Study
-
-Intervention: : TCM Formula — A scientific TCM herbal powder formula prepared by the hospital pharmacy. The formula consists of 10 botanical ingredients focused on tonifying Qi, Blood, Liver, and Kidney. Participants will receive a total daily dose of 18 grams, administered as 9 grams twice daily (BID), 30 minutes before breakfast and lunch.
-: HMB (beta-Hydroxy-beta-methylbutyrate) — The active ingredient is beta-hydroxy-beta-methylbutyrate (HMB), provided in 0.75g tablets. Participants will take 2 tablets twice daily (BID) after breakfast and lunch, resulting in a total daily dose of 3 grams. This is a common clinical dose used as a nutritional intervention for muscle strength and physical performance.
-Link: https://clinicaltrials.gov/study/NCT07597850
 
 SUMMARY:
 

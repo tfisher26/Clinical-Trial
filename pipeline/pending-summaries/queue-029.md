@@ -514,15 +514,6 @@ Link: https://clinicaltrials.gov/study/NCT06935305
 SUMMARY:
 
 
-## NCT07254117
-The Role of Biochemical and Microbiological Properties of Granulation Tissue in Periodontal Regeneration
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07254117
-
-SUMMARY:
-
-
 ## NCT06361784
 "Improving the Success Rate for Thoracic Radiotherapy Through Specific Cardiac Substructure Dosimetry: Location Matters - a Prospective Study"
 

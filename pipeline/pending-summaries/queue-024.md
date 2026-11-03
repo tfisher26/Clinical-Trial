@@ -528,23 +528,6 @@ Link: https://clinicaltrials.gov/study/NCT07193771
 SUMMARY:
 
 
-## NCT06696209
-Analysis of Withdrawal Time in Upper Gastrointestinal Endoscopy as Procedure Time: a Randomised, Parallel, Double-blinded, Multicenter, International Clinical Trial
-
-Intervention: : Analysis of the withdrawal time of the Upper Gastrointestinal Endoscopy — Time of last esophageal image - time of first image of the second portion of the duodenum.
-: Analysis of the total time of the Upper Gastrointestinal Endoscopy — Time of last esophageal image - time of first esophageal image
-: Upper gastrointestinal endoscopy: Common Practices — Execution of UGE using high-resolution endoscopes, with the option of virtual chromoendoscopy, according with the physician's preference. Possible optimization of visualization with washing and/or the use of simethicone or similar, as pre-medication or during the examination, according with the physician's preference. Patients will be randomised to one of the following measurements-total time versus withdrawal time-in a parallel 1:1 scheme.
-
-The allocation of the randomisation group will be computer-generated. The endoscopist must record the time at which the following three anatomical structures are reached (either by noting during the procedure or based on the information in the photographic documentation), before any biopsies or therapeutic interventions, in the format xxh:xxmin:xxsec:
-
-1. First esophageal image;
-2. First image of the second portion of the duodenum;
-3. Last esophageal image.
-Link: https://clinicaltrials.gov/study/NCT06696209
-
-SUMMARY:
-
-
 ## NCT05595499
 A Phase II Randomized Double-Blind Placebo-Controlled Study of Fisetin to Improve Physical Function in Breast Cancer Survivors
 

@@ -1843,15 +1843,6 @@ Link: https://clinicaltrials.gov/study/NCT06662929
 SUMMARY:
 
 
-## NCT07324525
-Oral Health and Dental Care in Palliative Medicine: A Survey Study Among Patients and Members of the German Society for Palliative Medicine
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07324525
-
-SUMMARY:
-
-
 ## NCT06816199
 A Prospective Cohort Study Exploring the Safety and the Efficiency of Hyperbaric Oxygen in Treating Traumatic Brain Injury During Nonacute Phrase
 
@@ -3562,15 +3553,6 @@ Cognitive and Neurological Pathologies in Pompe Disease
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT04639336
-
-SUMMARY:
-
-
-## NCT06578845
-HappyMums - Can Data Collected by a Mobile App be Used to Help Learn More About Mental Health Symptoms in Pregnant Women and Birthing People at Risk of Depression in Pregnancy?
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06578845
 
 SUMMARY:
 

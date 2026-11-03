@@ -1585,42 +1585,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04526353
-Prospective Randomized Clinical Trial of Early Oxybutinin Treatment for Boys With Posterior Urethral Valves
-
-Intervention: : Oxybutynin 1 mg/ml Syrup — The Investigational Medicinal Product of this study is Oxybutynin 1 mg/ml Syrup (see Annex 1 for the Monograph of PMS-Oxybutynin provided by ANSM under the ATU.). It will be administered at the dose of 0.1 mg/kg/twice a day to patients randomized to the study treatment group. The dose will be adapted to the child's weight to the nearest kilogram.
-
-The recommended dosage for older children with neurologic bladder is 0.3 to 0.4mg/kg/day, whilst the dosage we will be using is effectively 0.2mg/kg/day. This is because we are taking into account the absence or pharmacological studies of oxybutynin use in children \<1 year of age, as well as their specific liver metabolism. Furthermore, the dose of 0.1mg/kg twice daily is the dose used in children within the same age group in the study by Casey et al, 2012
-Link: https://clinicaltrials.gov/study/NCT04526353
-
-SUMMARY: Posterior urethral valves are a birth defect in boys that blocks urine flow and can harm the bladder. This study tests starting the bladder medicine oxybutynin early, given as a syrup.
-
-## NCT04526587
-The Roswell Park Ciclib Study: A Prospective Study of Biomarkers and Clinical Features of Advanced/Metastatic Breast Cancer Treated With CDK4/6 Inhibitors
-
-Intervention: : Cytology Specimen Collection Procedure — Undergo collection of blood, tissue, ascites or pleural effusions, and fresh body fluids or fresh biopsy samples
-: Diagnostic Laboratory Biomarker Analysis — Correlative studies
-: Medical Chart Review — Patient's electronic health records are reviewed
-Link: https://clinicaltrials.gov/study/NCT04526587
-
-SUMMARY:
-
-## NCT04527315
-Assessment of ICU and Non-ICU Survivors: A Creation of a COVID Survivorship Database
-
-Intervention: : Questionnaires — Various questionnaires will be used to assess short and long-term impacts of depression, anxiety, and other indicators of overall mental health and quality of life
-Link: https://clinicaltrials.gov/study/NCT04527315
-
-SUMMARY:
-
-## NCT04527419
-Systematically Mediastinal Lymph Node Dissection or Not in Stage T1 Ground-glass Dominated Invasive Lung Adenocarcinoma: a Multi-center, Prospective Clinical Trial
-
-Intervention: : No mediastinal lymph node dissection — No mediastinal lymph node dissection will be performed.
-Link: https://clinicaltrials.gov/study/NCT04527419
-
-SUMMARY: Early lung adenocarcinoma that looks mostly like ground glass on CT is often removed with surgery. This study tests whether surgeons can safely skip removing the lymph nodes in the middle of the chest.
-
 ## NCT04529031
 Clinical and Biomolecular Characteristics of Reminder-Focused Positive-Psychiatry in Adolescent With Posttraumatic Stress Disorder
 
@@ -4176,15 +4140,6 @@ Link: https://clinicaltrials.gov/study/NCT04763655
 
 SUMMARY:
 
-## NCT04765514
-A Randomized Controlled Trial of Chemo-Radiotherapy Versus Chemotherapy for Elderly and Frail Patients With Newly Diagnosed Glioblastoma
-
-Intervention: : Temozolomide monotherapy — Temozolomide (TMZ) daily for 21 days, followed by up to 6 cycles of adjuvant TMZ, as tolerated. If tolerated, additional cycles of adjuvant TMZ may be administered.
-: Chemo-Radiotherapy with concurrent temozolomide. — Chemo-radiotherapy consisting of 40 Gy administered in 15 fractions on weekdays (Monday - Friday) concurrently with TMZ 75 mg/m2 daily for 21 days. This will be followed by up to 6 cycles of adjuvant TMZ (150-200 mg/m2 once daily on days 1-5 of a 28 day cycle), as tolerated. If tolerated, additional cycles of adjuvant TMZ may be administered at the treating investigator's discretion.
-Link: https://clinicaltrials.gov/study/NCT04765514
-
-SUMMARY: Glioblastoma is an aggressive brain cancer, and older or frail patients may not handle intensive treatment well. This study compares temozolomide chemotherapy alone with temozolomide plus radiation for newly diagnosed patients.
-
 ## NCT04766801
 Evaluation of the Efficiency and Complications Associated With the Surgical Treatment of Obesity by Laparoscopic Adjustable Gastric Banding in an Adolescent Population.
 
@@ -5244,15 +5199,6 @@ Intervention: : Brain MRI — Anatomical MRI The anatomical data will be acquire
 
 The hippocampal volume, the orbital-frontal cortex and the cingulate cortex will be measured by voxel-based morphometry (VBM; Ashburner \& Friston, 2000\]) using the SPM software (Statistical Parametric Mapping; Friston et al., 2006). The voxel-by-voxel morphometric analysis of T1 MRI images makes it possible to classify and segment the different brain tissues (gray matter versus white matter) and to analyze the focal differences in volume within these tissues between the different groups.
 Link: https://clinicaltrials.gov/study/NCT04852744
-
-SUMMARY:
-
-## NCT04853251
-A Phase IV, Multicenter, Open-label Study to Assess Corneal Endothelial Cells in Patients With Neovascular Age-related Macular Degeneration Treated With the Port Delivery System With Ranibizumab (PDS)
-
-Intervention: : PDS Implant With Ranibizumab 100 mg/ml — Ranibizumab 100 mg/mL will be delivered via PDS
-: LUCENTIS (Ranibizumab Injection) — Ranibizumab (0.5 mg intravitreal \[IVT\] injections of 10 mg/mL formulation) will be used in the study eye as supplemental treatment. If a participant discontinues study treatment, he/she may start receiving IVT ranibizumab injections in the study eye, per investigator's discretion.
-Link: https://clinicaltrials.gov/study/NCT04853251
 
 SUMMARY:
 
@@ -9469,15 +9415,6 @@ Intervention: : Pharmaceutical intervention — Patients with pharmacokinetic an
 Link: https://clinicaltrials.gov/study/NCT05130138
 
 SUMMARY: People with chronic myeloid leukemia take targeted drugs that can interact with other medicines and herbal products. This study tests a pharmacist led medication review to find and manage these interactions.
-
-## NCT05130606
-Testing a Narrative Intervention to Enhance Genetic Counseling and Testing
-
-Intervention: : Culturally Targeted Narrative Video: "Is My Cancer Hereditary? Rosa Visits a Genetic Counselor." — Participants randomized to the video arm will receive a link with a password by email or text message to watch the video, depending on participants' preference. Participants without internet access will receive a DVD. Participants will be instructed to watch the video alone with no interruptions. We will ask them not to share the link with others.
-: FORCE Fact Sheet — Participants will receive a PDF of the fact sheet by email, text message, or a printed fact sheet by mail depending on participants' preferences. The fact sheet includes information about genes, breast cancer, risk factors for HBOC, genetic counseling and testing, and resources.
-Link: https://clinicaltrials.gov/study/NCT05130606
-
-SUMMARY: Genetic counseling and testing can show whether a cancer runs in the family. This study tests a culturally targeted story video, about a woman visiting a genetic counselor, to encourage people to use these services.
 
 ## NCT05131672
 Operative Versus Nonoperative Treatment of Pediatric Medial Epicondyle Fractures (COMET Trial - Cast or Operation for Medial Epicondyle Fracture Treatment in Children)
@@ -14993,14 +14930,6 @@ Intervention: : Patch-free occlusion therapy — Use of filters in glasses to pr
 Link: https://clinicaltrials.gov/study/NCT05440448
 
 SUMMARY: Amblyopia, or lazy eye, is often treated by patching the stronger eye. This study tests filters in glasses as a patch free way to provide occlusion therapy, compared with an adhesive patch.
-
-## NCT05440617
-Biorepository in Participants Who Undergo OTC for Gonadotoxic Therapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05440617
-
-SUMMARY:
 
 ## NCT05440864
 Perioperative Therapy With Durvalumab Plus Tremelimumab for Patients With Resectable Hepatocellular Carcinoma (HCC) - A Phase II Trial (NEOTOMA)

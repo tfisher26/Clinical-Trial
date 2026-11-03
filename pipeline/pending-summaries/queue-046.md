@@ -2392,14 +2392,6 @@ Link: https://clinicaltrials.gov/study/NCT06513208
 
 SUMMARY: Pain after spinal fusion surgery is often severe, but anti inflammatory medicines may affect bone healing. This study tests ketorolac, an intravenous anti inflammatory pain reliever, against a placebo to see whether it relieves pain without harming fusion.
 
-## NCT06513234
-Orelabrutinib Combined With Obinutuzumab as First-line Treatment for Marginal Zone Lymphoma：a Prospective Single Arm Trial
-
-Intervention: : Orelabrutinib and obinutuzumab — Orelabrutinib and obinutuzumab 6cycles ;orelabrutinib 150mg
-Link: https://clinicaltrials.gov/study/NCT06513234
-
-SUMMARY: Marginal zone lymphoma is a slow growing blood cancer that often needs treatment. This study combines orelabrutinib, a pill that blocks a key growth signal in lymphoma cells, with the antibody obinutuzumab as first treatment.
-
 ## NCT06513273
 Observational GIMEMA Study on the Outcome of Acute Myeloid Leukemia (AML) Patients Treated With New Drugs in Real-life
 
@@ -8939,16 +8931,6 @@ Intervention: : 8.6 Fr single-use fURS (XFGC-FU-660RC) — Comparative device
 Link: https://clinicaltrials.gov/study/NCT06628765
 
 SUMMARY: Kidney stones in children can be removed with a thin flexible scope passed through the urinary tract. This study compares two sizes of single use scopes to see which works better and causes fewer problems.
-
-## NCT06628986
-the Effect of MBSR and NLP Applications on Fatigue, Sleep Quality, Lactation and Postpartum Depression in the Postpartum Period After Caesarean Section
-
-Intervention: : MBSR — 20 minutes once a week for 8 weeks
-: NLP — NLP Neurolinguistic programming, 20 minutes once a week for 8 weeks
-: control — control group, no practice,
-Link: https://clinicaltrials.gov/study/NCT06628986
-
-SUMMARY: After a cesarean birth, many mothers have fatigue, poor sleep, breastfeeding difficulties and depression. This study compares mindfulness based stress reduction with neurolinguistic programming to see whether they improve these outcomes.
 
 ## NCT06629064
 Identifying Clinically Relevant Neural Circuit Mechanisms of Cognitive Control Training for PTSD

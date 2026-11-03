@@ -359,15 +359,6 @@ Link: https://clinicaltrials.gov/study/NCT06115252
 SUMMARY:
 
 
-## NCT07489248
-ULTRASONOGRAPHIC EVALUATION OF LOWER EXTREMITY SKIN AND SUBCUTANEOUS TISSUE WITH QUANTITATIVE ECHOGENICITY AND ELASTOGRAPHY IN LYMPHEDEMA, LIPEDEMA, AND HEALTHY CONTROL GROUPS: A CONTROLLED CLINICAL STUDY
-
-Intervention: : Multimodal Ultrasound Assessment — A comprehensive, non-invasive ultrasonographic evaluation of the lower extremities. The protocol includes B-mode ultrasound for measuring dermis and subcutaneous tissue thickness, strain elastography for assessing tissue biomechanical stiffness, and Power Doppler for evaluating local microvascularity. Additionally, quantitative echogenicity of the tissues will be analyzed using ImageJ software.
-Link: https://clinicaltrials.gov/study/NCT07489248
-
-SUMMARY:
-
-
 ## NCT05613049
 Confounding Factors of Chronic Endometritis in Women With Reproductive Failure
 

@@ -65,15 +65,6 @@ Link: https://clinicaltrials.gov/study/NCT05392582
 SUMMARY:
 
 
-## NCT07571317
-Combined Predictive Value of Rapid Shallow Breathing Index (RSBI) and CRP-Albumin-Lymphocyte (CALLY) Indices in Predicting the Success of Weaning From Mechanical Ventilation in Intensive Care Patients: A Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07571317
-
-SUMMARY:
-
-
 ## NCT05864547
 Predisposing Factors for Post-stroke Epilepsy
 

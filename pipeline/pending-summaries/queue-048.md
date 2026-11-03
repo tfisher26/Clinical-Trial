@@ -2753,14 +2753,6 @@ Link: https://clinicaltrials.gov/study/NCT07036848
 
 SUMMARY:
 
-## NCT07036900
-Effects of Flexion and Extension Type Arm Slings on Walking Kinematics and Balance in Stroke Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07036900
-
-SUMMARY:
-
 ## NCT07037459
 A Phase 3 Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Maridebart Cafraglutide on Mortality and Morbidity in Participants Living With Heart Failure With Preserved or Mildly Reduced Ejection Fraction and Obesity (MARITIME-HF)
 
@@ -4367,15 +4359,6 @@ Link: https://clinicaltrials.gov/study/NCT07059689
 
 SUMMARY:
 
-## NCT07059767
-A Phase IIa, Double-blind, Randomized, Placebo-controlled Trial in Participants With Asthma to Evaluate the Impact of Intranasal ETH47 on the Development of Asthma-related Symptoms Following Rhinovirus Challenge
-
-Intervention: : ETH47 — single intranasal dose of ETH47
-: Placebo — single intranasal dose of placebo
-Link: https://clinicaltrials.gov/study/NCT07059767
-
-SUMMARY:
-
 ## NCT07059923
 Predicting Immunotherapy Response and Survival of Lung Cancer Patients Using Artificial Intelligence and Radiomics (Radiology-AI-Lung)
 
@@ -5587,15 +5570,6 @@ Ivosidenib and Azacitidine With or Without Venetoclax in Adult Patients With New
 Intervention: : Venetoclax 400 — day 1-28 per cycle
 : Placebo — day 1-28 per cycle
 Link: https://clinicaltrials.gov/study/NCT07075016
-
-SUMMARY:
-
-## NCT07075055
-Impact of a New Bioceramic Based Intracanal Medication on Postoperative Pain and Periapical Healing
-
-Intervention: : Metapaste Calcium Hydroxide — To compare the effect of calcium hydroxide and Bio-C Temp as intra canal medications on postoperative pain via VAS and periapical healing via CBCT
-: Bio C-Temp — Bio C-Temp
-Link: https://clinicaltrials.gov/study/NCT07075055
 
 SUMMARY:
 
@@ -9207,15 +9181,6 @@ Evaluation of the Innate Immune Response Through Monocyte HLA-DR Monitoring Duri
 
 Intervention: : Immunomonitoring — To analyse monocyte HLA-DR expression (mHLA-DR) and CD4+ T lymphocyte count (CD4) in both group
 Link: https://clinicaltrials.gov/study/NCT07130799
-
-SUMMARY:
-
-## NCT07130812
-Breaking the Cycle of Low Back Pain: Blood Flow Restriction Training (BFR) as a Targeted Intervention for Rowers
-
-Intervention: : blood flow restriction — The SAGA blood flow restriction tourniquet system will be used for each training sessions for the rowers within the light load restriction group. The 4 inch-wide tourniquet will be applied to both upper thighs during the strength and endurance exercises. Tourniquet setting will be determined as the pressure needed to achieve 40-80% arterial occlusion to the extremity (as measured by the SAGA BFR unit). The SAGA units provides a consistent amount of pressure to the extremity throughout the ROM of the exercise. The settings will be determined at baseline and then recalibrated weekly.
-: Heavy load resistance training — For the resistance prescription, rowers will do strengthening exercises at 70-80% 1 RM. Exercises will be performed in series following 6 sets by 5 reps, with 120 seconds of rest between sets for each exercise.
-Link: https://clinicaltrials.gov/study/NCT07130812
 
 SUMMARY:
 

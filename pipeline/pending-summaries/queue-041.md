@@ -2209,15 +2209,6 @@ Link: https://clinicaltrials.gov/study/NCT06572826
 SUMMARY:
 
 
-## NCT06005818
-Molecular Residual Disease (MRD) Guided Adjuvant ThErapy in Renal Cell Carcinoma (RCC)
-
-Intervention: : Pembrolizumab injection — PD-1 antibody
-Link: https://clinicaltrials.gov/study/NCT06005818
-
-SUMMARY:
-
-
 ## NCT06778824
 Esophageal Visceral Hypersensitivity and Hypervigilance in Disorders of Gut-brain Interaction: the Roles of Neuromodulators
 
@@ -2272,17 +2263,6 @@ Dome-Only Aneurysm Coiling in Severe Aneurysmal Subarachnoid Hemorrhage Observat
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07250958
-
-SUMMARY:
-
-
-## NCT04883255
-Cannabis Use, Cognition, and the Endocannabinoid System in HIV
-
-Intervention: : 10 mg Δ9-tetrahydrocannabinol (THC) — 5-day course of orally-administered THC (dronabinol), 10 mg
-: 600 mg cannabidiol (CBD) — 5-day course of orally-administered CBD, 600 mg
-: Placebo — 5-day course of orally-administered placebo
-Link: https://clinicaltrials.gov/study/NCT04883255
 
 SUMMARY:
 

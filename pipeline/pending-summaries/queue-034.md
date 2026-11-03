@@ -5452,15 +5452,6 @@ Link: https://clinicaltrials.gov/study/NCT07543679
 SUMMARY:
 
 
-## NCT07285564
-Performance of 18F-FDG Micro-PET-CT in the Assessment of Surgical Margins in Head and Neck Cancer
-
-Intervention: : micro PET/CT — PET/T of the speciment after surgery
-Link: https://clinicaltrials.gov/study/NCT07285564
-
-SUMMARY:
-
-
 ## NCT07825818
 Imaging Mitochondrial Complex-I With [F-18]BCPP-EF Positron Emission Tomography (PET) in Alcohol Use Disorder (AUD)
 
@@ -5567,15 +5558,6 @@ A Long-term Follow-up Study to Assess Safety in Participants Who Received an Inv
 
 Intervention: : Observational — Long Term Follow-Up for participants treated with TSC-100 or TSC-101 TCR-T products
 Link: https://clinicaltrials.gov/study/NCT06976736
-
-SUMMARY:
-
-
-## NCT07396636
-Machine Learning-Assisted Intraoperative Hypotension Management: Developing Personalized Treatment Recommendations
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07396636
 
 SUMMARY:
 
