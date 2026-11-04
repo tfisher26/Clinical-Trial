@@ -6468,15 +6468,6 @@ Link: https://clinicaltrials.gov/study/NCT06846671
 
 SUMMARY:
 
-## NCT06846710
-A Phase I Clinical Study to Evaluate the Safety, Tolerability, Immunogenicity, Pharmacokinetics, and Pharmacodynamics of Single and Multiple Ascending Doses of HS-20118 in Adult Participants
-
-Intervention: : HS-20118 — Single and multiple ascending doses of HS-20118 orally
-: HS-20118 placebo — Single and multiple ascending doses of HS-20118-matched placebo orally
-Link: https://clinicaltrials.gov/study/NCT06846710
-
-SUMMARY:
-
 ## NCT06846944
 Mixed-method Research Protocol: Evaluation of a Relaxation Technique for Anxiety Management in Pre-surgical Pediatric Patients
 

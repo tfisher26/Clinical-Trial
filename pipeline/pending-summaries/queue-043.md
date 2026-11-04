@@ -967,14 +967,6 @@ Link: https://clinicaltrials.gov/study/NCT07087964
 
 SUMMARY:
 
-## NCT05472818
-SV2A Density Cannabis Use Disorder
-
-Intervention: : [11C]APP311 — For each \[11C\]APP311 (UCB-J) PET scan, up to 20 mCi of \[11C\]APP311 (UCB-J) will be administered by infusion pump. All participants will receive at least two \[11C\]APP311 (UCB-J) PET scans approx. 4 weeks days apart. Approximately 8 CUD participants will be asked to return for a third \[11C\]APP311 (UCB-J) PET scan after an additional 4 weeks following their second scan.
-Link: https://clinicaltrials.gov/study/NCT05472818
-
-SUMMARY:
-
 ## NCT07070232
 A Phase I/II, Open-label, Adaptive Two-part Trial to Evaluate the Safety, Efficacy, Optimal Dose and Pharmacokinetics of BNT326 as Monotherapy and in Combination With Cancer Immunotherapies in Participants With Advanced Solid Tumors
 
@@ -1582,15 +1574,6 @@ Intervention: : Sacituzumab Govitecan (SG)+Toripalimab — Sacituzumab govitecan
 
 Toripalimab: 240mg, administered by intravenous infusion on day 1.
 Link: https://clinicaltrials.gov/study/NCT06991790
-
-SUMMARY:
-
-## NCT04529031
-Clinical and Biomolecular Characteristics of Reminder-Focused Positive-Psychiatry in Adolescent With Posttraumatic Stress Disorder
-
-Intervention: : Reminder Focused Positive Psychiatry — The focus of RFPP is on enhancing contextual discrimination and emotional regulation, and promoting the use of adaptive coping strategies in response to trauma reminders, including recognizing reminders, shifting attention from intrusive memories during exposure to reminders to a focus on positive feelings, thoughts, goals, and choices
-: attentional control condition (group process) — This group process will undergo telehealth relaxation therapy twice a week for 6-week. Subjects will receive progressive muscle relaxation and other relaxation techniques as well as education about PTSD and supportive psychotherapy
-Link: https://clinicaltrials.gov/study/NCT04529031
 
 SUMMARY:
 
@@ -7217,16 +7200,6 @@ Link: https://clinicaltrials.gov/study/NCT04996628
 
 SUMMARY:
 
-## NCT04997109
-Telemedicine in Early Childhood Constraint Therapy in Cerebral Palsy
-
-Intervention: : APPLES-tele — The APPLES-tele intervention is 5 weekly telehealth sessions of therapist-demonstrated tasks, delivered over a 6 week period. Infant participants wear a soft-constraint harness (C-Mitt) on their less affected arm for 6 hours per day, while their parent encourages them to use their more affected arm to complete play-based activities as instructed by the study therapist. As the infant experiences success, heavier objects are provided. During times when the C-Mitt is not worn, parents engage therapist-demonstrated bimanual play of increasing difficulty.
-: Parent-centered Approach (PCA) Support Intervention — The PCA support intervention is 5 weekly telehealth sessions delivered over a 6 week period. The PCA curriculum includes 5 basic principles of positive parenting from Triple P: ensuring a safe engaging environment, creating a positive learning environment, using assertive discipline, having reasonable expectations, and looking after yourself as a parent. All of these elements, when taught to parents in an individualized manner, can help promote responsivity, structure and expectations that are tailored to their child's condition and developmental stage. In addition, a curriculum of CP-specific knowledge will address the challenges unique to parents of children with CP, such as understanding principles of infant learning of new movements, challenges and solutions for self-directed activity in infants with CP.
-: Standard of Care — Participants will receive the usual care from being followed in high-risk infant follow-up (HRIF) programs in the Early Detection and Intervention (EDI) Network.
-Link: https://clinicaltrials.gov/study/NCT04997109
-
-SUMMARY: Constraint therapy helps young children with cerebral palsy use their weaker arm. This study tests APPLES-tele, five weekly telehealth sessions where a therapist demonstrates tasks to practice at home.
-
 ## NCT04997824
 Artificial Intelligence Guided Patient Selection for Atrial Fibrillation Catheter Ablation: Randomized Clinical Trial (AI-PAFA Trial)
 
@@ -7760,14 +7733,6 @@ Intervention: : EsophaCap Sponge — Non-invasive strategy to sample esophageal 
 : Chromoendoscopy — Lugol's iodine chromoendoscopy is a technique that is used to identify mucosal abnormalities of the esophagus
 : EsoCAN assay — Biomarker Test
 Link: https://clinicaltrials.gov/study/NCT05028725
-
-SUMMARY:
-
-## NCT05028777
-Cohort of Patients With Left Ventricular Thrombus: Management and Outcomes in the Direct Oral Anticoagulants Era
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05028777
 
 SUMMARY:
 
@@ -8436,17 +8401,6 @@ Intervention: : Intracranial Stimulation — Electrodes localized to the BLA wil
 Link: https://clinicaltrials.gov/study/NCT05065450
 
 SUMMARY:
-
-## NCT05065957
-Open-Label, Multicenter, Phase II/III Study of Combination Therapy of D07001-Softgel Capsules and Xeloda/TS-1 in Subjects With Advanced Biliary Tract Cancer After Gemcitabine and Cisplatin-Based Treatment Failure
-
-Intervention: : D07001-softgel capsules + Xeloda (or TS-1) — D07001-softgel capsules: 3 times per week (on Days 1, 3, 5, 8, 10, 12, 15, 17, and 19 of a 21-day cycle, 9 doses per cycle).
-
-Xeloda (or TS-1): twice daily for 14 consecutive days followed by 7 days rest (1 treatment cycle)
-: mFOLFOX — intravenous infusion on Day 1 for 14-day cycle
-Link: https://clinicaltrials.gov/study/NCT05065957
-
-SUMMARY: Advanced biliary tract cancer that progresses after gemcitabine and cisplatin has few options. This study tests D07001 softgel capsules combined with the chemotherapy pills Xeloda or TS-1.
 
 ## NCT05066139
 Monocentric Randomized Study Evaluating the Impact of an Early Multidisciplinary Program in Elderly Subjects Starting a Chemotherapy for Digestive Cancer: Multidisciplinary Evaluation of Elderly Patients With Digestive Cancer (EPODIG-G)
@@ -15587,14 +15541,6 @@ Intervention: : Accelerated Partial Breast Irradiation (APBI) — Radiation trea
 Link: https://clinicaltrials.gov/study/NCT05472792
 
 SUMMARY: Older women with low risk breast cancer usually get both hormone therapy and radiation after lumpectomy. This study compares hormone therapy alone with accelerated partial breast irradiation alone.
-
-## NCT05472818
-SV2A Density Cannabis Use Disorder
-
-Intervention: : [11C]APP311 — For each \[11C\]APP311 (UCB-J) PET scan, up to 20 mCi of \[11C\]APP311 (UCB-J) will be administered by infusion pump. All participants will receive at least two \[11C\]APP311 (UCB-J) PET scans approx. 4 weeks days apart. Approximately 8 CUD participants will be asked to return for a third \[11C\]APP311 (UCB-J) PET scan after an additional 4 weeks following their second scan.
-Link: https://clinicaltrials.gov/study/NCT05472818
-
-SUMMARY:
 
 ## NCT05472844
 The Cohort Study of Pediatric Cataract

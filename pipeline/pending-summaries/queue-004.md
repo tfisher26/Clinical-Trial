@@ -2019,22 +2019,6 @@ Link: https://clinicaltrials.gov/study/NCT07911488
 
 SUMMARY:
 
-## NCT04049539
-Open-Label Phase 2 Trial of Vyxeos in Patients With Intermediate and High-Risk Acute Myeloid Leukemia Who Have Failed an Initial Cycle of Standard Cytarabine and Daunorubicin Chemotherapy
-
-Intervention: : Liposome-encapsulated Daunorubicin-Cytarabine — Given IV
-Link: https://clinicaltrials.gov/study/NCT04049539
-
-SUMMARY:
-
-## NCT02897908
-Non-invasive Liver Screening Using FibroScan Device for Liver Disease Patients for the Steatosis/Fibrosis Database
-
-Intervention: : vibration controlled transient elastography (VCTE) — Once on the examination table, the subject will be instructed to place the right arm under their head and to cross their right ankle over the left ankle. The subject will then be asked to slightly bend to the left side to open the intercostal space. Subsequently, a handheld probe is placed in the intercostal space overlaying the right hepatic lobe. The velocity of returning shear waves, measured at a depth of 25-65 mm, is converted into a liver stiffness measurement (LSM). The LSM obtained from a given VCTE exam is the median value of at least 10 successful measurements. This information, along with clinical data associated with the patient will be placed in a database for use in identifying potential subjects for future trials.
-Link: https://clinicaltrials.gov/study/NCT02897908
-
-SUMMARY:
-
 ## NCT05272280
 Ultrasound Guided External Oblique Intercostal (EOI) Block Versus Erector Spinae Plane Block (ESPB) for Postoperative Analgesia in Laparoscopic Cholecystectomy
 

@@ -76,15 +76,6 @@ Link: https://clinicaltrials.gov/study/NCT06338332
 SUMMARY:
 
 
-## NCT06396442
-Patient Worries Previous to Dental Treatment: a Multicenter Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06396442
-
-SUMMARY:
-
-
 ## NCT07312058
 Long-term Evaluation of Fertility Preservation Options in Women in Cancer Remission or Haematological Pathology
 

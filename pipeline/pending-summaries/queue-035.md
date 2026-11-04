@@ -2,15 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT05903066
-TRansmural hEaliNg Definition in CroHn's Disease - The TRENCH1 Study
-
-Intervention: : Magnetic Resonance Enterography (MRE) — MRE performed as part of the standard of care follow up of the patient, the exam will be recorded for the study and analysed by central readers.
-Link: https://clinicaltrials.gov/study/NCT05903066
-
-SUMMARY:
-
-
 ## NCT07176156
 Evaluation of the Quality of Chat Conversations With the Suicide Helpline Zelfmoordlijn 1813
 
@@ -583,15 +574,6 @@ Link: https://clinicaltrials.gov/study/NCT06066723
 SUMMARY:
 
 
-## NCT06088589
-Cortical Mechanisms of Speech in Noise Perception in Autism and Fragile X Syndrome
-
-Intervention: : Mismatch negativity — Event related potentials are compared between frequent and infrequent speech sounds (i.e., "ba" vs "da").
-Link: https://clinicaltrials.gov/study/NCT06088589
-
-SUMMARY:
-
-
 ## NCT06933667
 Kimel Family Centre for Brain Health and Wellness
 
@@ -735,15 +717,6 @@ A Study to Evaluate the Effect of GZR18 Injection on Gastric Emptying and Its Dr
 
 Intervention: : GZR18 injection,digoxin tablets, rosuvastatin calcium tablets and warfarin sodium tablets — GZR18 injection: 3 mg-36 mg，16 weeks; Warfarin Sodium Tablets:2.5mg，twice; Rosuvastatin Calcium Tablets：10mg，twice; Digoxin Tablets:0.25mg，twice
 Link: https://clinicaltrials.gov/study/NCT07128888
-
-SUMMARY:
-
-
-## NCT05358067
-Predictability of the Clinical Global Impression Scale (CGI) in Post Immediate in Psychotraumatic Impact
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05358067
 
 SUMMARY:
 

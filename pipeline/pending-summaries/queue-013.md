@@ -1868,15 +1868,6 @@ Link: https://clinicaltrials.gov/study/NCT06906705
 SUMMARY:
 
 
-## NCT06083363
-Longitudinal Recovery Trajectories After an Acute Respiratory Distress Syndrome, a New Understanding. The TENACITY Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06083363
-
-SUMMARY:
-
-
 ## NCT07386236
 Electrophysiological Representations of Odor in the Human Brain Study 2
 

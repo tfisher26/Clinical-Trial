@@ -3809,15 +3809,6 @@ Link: https://clinicaltrials.gov/study/NCT07053631
 
 SUMMARY:
 
-## NCT07053657
-The Improvement Effect of Vitamin D on the Cardiovascular Health of Overweight/Obesity Adolescents in China
-
-Intervention: : Dietary Supplement: Vitamin D3 — 2000 IU per day for 6 weeks (two capsules of 800 IU plus one capsule of 400 IU), followed by 800 IU (one capsule of 800 IU) per day for 6 weeks.
-: Dietary Supplement: Vitamin D3 placebo — Three capsules for 6 weeks, followed by one capsule for 6 weeks.
-Link: https://clinicaltrials.gov/study/NCT07053657
-
-SUMMARY:
-
 ## NCT07053670
 A Clinical Study to Investigate the Safety, Efficacy, and Cellular Metabolism of CT1190B CAR-T Cell Therapy, in Patients With Relapsed/Refractory B-Cell Non-Hodgkin Lymphoma
 
@@ -6577,15 +6568,6 @@ Digital Cognitive Behavioral Treatment of Insomnia in Youth: An RCT Examining Fe
 
 Intervention: : CBT-I — Cognitive behavioral therapy for insomnia
 Link: https://clinicaltrials.gov/study/NCT07091149
-
-SUMMARY:
-
-## NCT07091422
-A Split-Mouth Clinical Trial Evaluating the Bond Failure Rate of a New Etch-Free Orthodontic Adhesive
-
-Intervention: : Etch-Free Adhesive — A self-adhesive orthodontic bonding material applied directly to enamel without prior phosphoric acid etching or primer application. Brackets are bonded following the manufacturer's instructions.
-: Conventional Etch-and-Bond Adhesive — A standard orthodontic bonding protocol using 35-37% phosphoric acid etching, primer application, and a conventional light-cure adhesive. Brackets are bonded following the manufacturer's recommended procedure.
-Link: https://clinicaltrials.gov/study/NCT07091422
 
 SUMMARY:
 
@@ -10655,14 +10637,6 @@ Link: https://clinicaltrials.gov/study/NCT07150143
 
 SUMMARY:
 
-## NCT07150260
-Evaluation of the Correlation Between Carotid Stump Pressure and Interhemispheric rSO₂ Asymmetry in Awake Carotid Endarterectomy: A Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07150260
-
-SUMMARY:
-
 ## NCT07150299
 Myocardial Perfusion Changes Following Optimal Medical Treatment in Symptomatic Hypertrophic Cardiomyopathy
 
@@ -11384,14 +11358,6 @@ Intervention: : Cigarillo brand 1 — Participants will be assessed on puffing b
 : Cigarillo brand 2 — Participants will be assessed on puffing behavior, subjective effects, and exhaled carbon monoxide when assigned to using one of three cigarillo brands. Additives and ingredients of the cigarillo used will also be assessed
 : Cigarillo brand 3 — Participants will be assessed on puffing behavior, subjective effects, and exhaled carbon monoxide when assigned to using one of three cigarillo brands. Additives and ingredients of the cigarillo used will also be assessed
 Link: https://clinicaltrials.gov/study/NCT07162935
-
-SUMMARY:
-
-## NCT07163234
-First-In-Human Study (Phase I) Evaluating the Safety of the IPERF Femoral Arterial Cannula in Patients Undergoing a Planned Cardiac Surgery Requiring the Use of an Extracorporeal Circulation Via a Femoral Approach for a Maximum of 6 Hours
-
-Intervention: : Cardiac surgery — cardiac surgery
-Link: https://clinicaltrials.gov/study/NCT07163234
 
 SUMMARY:
 

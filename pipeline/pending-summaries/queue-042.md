@@ -2346,19 +2346,6 @@ Link: https://clinicaltrials.gov/study/NCT07501494
 
 SUMMARY:
 
-## NCT07652398
-Acute Effects of Five Passive Recovery Interventions Following High-Intensity Cycling Exercise: A Randomized Five-Period Crossover Trial
-
-Intervention: : High-Intensity Cycling Exercise Protocol — All participants will perform a standardized supervised high-intensity cycling exercise protocol during five separate study sessions. The cycling protocol will be administered before the assigned recovery intervention in each study period. Exercise intensity, duration, and progression will be standardized across participants and sessions.
-: Doctor Life MK400L Sequential Intermittent Compression Device — Compression therapy will be administered using the Doctor Life MK400L 6-chamber sequential intermittent compression device, code MK4L250-BL. The intervention will be applied immediately after the standardized high-intensity cycling exercise session. The application will be delivered according to a standardized protocol, including participant positioning, treated body region, application duration, and device settings.
-: Intelect Neo Therapy System with Chattanooga Intelect Neo Vacuum Module — Vacuum therapy will be administered using the Intelect Neo Therapy System with the Chattanooga Intelect Neo Vacuum Module. The intervention will be applied immediately after the standardized high-intensity cycling exercise session. The application will be delivered according to a standardized protocol, including participant positioning, treated body region, application duration, vacuum cup placement, and vacuum pressure settings.
-: Kinesiology Taping — Kinesiology taping will be applied immediately after the standardized high-intensity cycling exercise session by a trained physiotherapist. Tape placement, application technique, tension, target region, and wear time will be standardized across participants.
-: Passive Rest — Participants will rest quietly after the standardized high-intensity cycling exercise session for a standardized duration. No manual therapy, mechanical therapy, taping, or additional recovery intervention will be administered during the passive rest condition.
-: Classical Massage — Classical massage will be administered immediately after the standardized high-intensity cycling exercise session by a trained physiotherapist. The treated body region, massage techniques, sequence of techniques, pressure, and application duration will be standardized across participants.
-Link: https://clinicaltrials.gov/study/NCT07652398
-
-SUMMARY:
-
 ## NCT05172089
 Diabetic Foot Ulcer (DFU) Biofilm Infection and Recurrence
 

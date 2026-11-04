@@ -3839,14 +3839,6 @@ Link: https://clinicaltrials.gov/study/NCT07525466
 
 SUMMARY:
 
-## NCT07525557
-Kinesiophobia As A Mediator Of The Association Between Pain Intensity And Disability In Chronic Neck Pain
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07525557
-
-SUMMARY:
-
 ## NCT07525583
 Implementation of Decade of Healthy Ageing Action Plan to Screen and Prevent Decline in Intrinsic Capacity in Elders (SPICE) Through Multisectoral Collaboration in Singapore
 
@@ -7746,14 +7738,6 @@ Link: https://clinicaltrials.gov/study/NCT07576660
 
 SUMMARY:
 
-## NCT07576920
-Evaluation of Preoperative and Postoperative Anxiety in Living Liver Donors
-
-Intervention: : Anxiety scores — Anxiety scores will evaluated STAI test. The STAI test consists of two sections of 20 questions each. The first section of the test includes questions about how the person feels at that moment. Answers are given on a scale of 4 points. For example: I am calm right now: not at all=1, a little=2, a lot=3, completely=4. The second section of the test includes questions about how the person feels in general and is also answered on a scale of 4 points.
-Link: https://clinicaltrials.gov/study/NCT07576920
-
-SUMMARY:
-
 ## NCT07576959
 Effect of Bismuth Add-on to Vonoprazan-Amoxicillin Dual Therapy for Helicobacter Pylori Eradication - A Multicenter Randomized Controlled Trial
 
@@ -9141,14 +9125,6 @@ Comparative Analysis of the Impact of Transversus Abdominis Plane Block on Post-
 Intervention: : Postoperative analgesia using TAP block, Ropivacaine 0,2%, volume: 0,4 ml/kg per side — Postoperative (post cesarean section) TAP block using low concentration Ropivacaine ( 0,2%), volume dose weight calculated: 0,4 ml/kg per side. Total ropivacaine dose 1,6 mg/kg.
 : Postoperative pain management using "traditional" analgesia iv regime — "Traditional" analgesia refers to our analgesia technique used in our hospital. Regular Tramadol, Metamizol, +/- Ibuprofen/Dexketorpofen/Parecoxib
 Link: https://clinicaltrials.gov/study/NCT07604376
-
-SUMMARY:
-
-## NCT07604467
-Effects of CD34+ Stem Cells on Left Ventricular Dysfunction Among Patients With Takotsubo Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07604467
 
 SUMMARY:
 
@@ -11749,19 +11725,6 @@ Multicentre, Prospective, Post-Market, Observational Registry Study to Observe t
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07651826
-
-SUMMARY:
-
-## NCT07652398
-Acute Effects of Five Passive Recovery Interventions Following High-Intensity Cycling Exercise: A Randomized Five-Period Crossover Trial
-
-Intervention: : High-Intensity Cycling Exercise Protocol — All participants will perform a standardized supervised high-intensity cycling exercise protocol during five separate study sessions. The cycling protocol will be administered before the assigned recovery intervention in each study period. Exercise intensity, duration, and progression will be standardized across participants and sessions.
-: Doctor Life MK400L Sequential Intermittent Compression Device — Compression therapy will be administered using the Doctor Life MK400L 6-chamber sequential intermittent compression device, code MK4L250-BL. The intervention will be applied immediately after the standardized high-intensity cycling exercise session. The application will be delivered according to a standardized protocol, including participant positioning, treated body region, application duration, and device settings.
-: Intelect Neo Therapy System with Chattanooga Intelect Neo Vacuum Module — Vacuum therapy will be administered using the Intelect Neo Therapy System with the Chattanooga Intelect Neo Vacuum Module. The intervention will be applied immediately after the standardized high-intensity cycling exercise session. The application will be delivered according to a standardized protocol, including participant positioning, treated body region, application duration, vacuum cup placement, and vacuum pressure settings.
-: Kinesiology Taping — Kinesiology taping will be applied immediately after the standardized high-intensity cycling exercise session by a trained physiotherapist. Tape placement, application technique, tension, target region, and wear time will be standardized across participants.
-: Passive Rest — Participants will rest quietly after the standardized high-intensity cycling exercise session for a standardized duration. No manual therapy, mechanical therapy, taping, or additional recovery intervention will be administered during the passive rest condition.
-: Classical Massage — Classical massage will be administered immediately after the standardized high-intensity cycling exercise session by a trained physiotherapist. The treated body region, massage techniques, sequence of techniques, pressure, and application duration will be standardized across participants.
-Link: https://clinicaltrials.gov/study/NCT07652398
 
 SUMMARY:
 

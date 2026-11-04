@@ -879,16 +879,6 @@ Link: https://clinicaltrials.gov/study/NCT07603622
 SUMMARY:
 
 
-## NCT07218965
-Fostering Agricultural Relationships and Meaning - Thriving on Kinship (FARM-TOK)
-
-Intervention: : Cognitive-Behavioral Therapy for Perceived Social Isolation — Consists of six sessions focused on addressing thoughts, emotions, and behaviors that maintain feeling alone as a way to reduce loneliness and substance use.
-: Health Education — Health education provides information on the importance and benefits of and guidelines for living a health lifestyle.
-Link: https://clinicaltrials.gov/study/NCT07218965
-
-SUMMARY:
-
-
 ## NCT07240597
 Acute Effects of Different Potentiation Protocols During Warm-Up in Competitive Young Swimmers: A Randomized Crossover Trial
 
@@ -2449,15 +2439,6 @@ The Combined First Trimester Screening
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07015203
-
-SUMMARY:
-
-
-## NCT06855368
-Brain Connectivity and Complexity Parameters to Monitor Disease Progression in Dementia Patients and Antiinflammatory Nanotherapeutics in a Preclinical Model of Alzheimer's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06855368
 
 SUMMARY:
 

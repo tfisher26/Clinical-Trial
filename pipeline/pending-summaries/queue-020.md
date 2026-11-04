@@ -3235,16 +3235,3 @@ Link: https://clinicaltrials.gov/study/NCT07341087
 
 SUMMARY:
 
-
-## NCT07341373
-A Single Bolus, 12-hour Euglycemic Clamp Study of the Safety, Pharmacokinetics (PK) and Glucodynamics (GD) of Intraperitoneal (IP) Portal Insulin U-500
-
-Intervention: : Portal Insulin U-500 — Intraperitoneal delivery of a single dose at 0.1 U/kg during an euglycemic clamp
-: Portal Insulin U-500 — Intraperitoneal delivery of a single dose at 0.2 U/kg during an euglycemic clamp
-: Portal Insulin U-500 — Intraperitoneal delivery of a single dose at 0.3 U/kg during an euglycemic clamp
-: Humulin R U-500 — Intraperitoneal delivery of a single dose at 0.2 U/kg during an euglycemic clamp
-: Lyumjev U-100 Insulin — Subcutaneous delivery of a single dose at 0.2 U/kg during an euglycemic clamp
-Link: https://clinicaltrials.gov/study/NCT07341373
-
-SUMMARY:
-

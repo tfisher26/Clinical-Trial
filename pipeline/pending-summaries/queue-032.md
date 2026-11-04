@@ -3932,15 +3932,6 @@ Link: https://clinicaltrials.gov/study/NCT06120023
 SUMMARY:
 
 
-## NCT06740773
-A Retrospective Study to Identify Risk Factors for Complications After Cranioplasty
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06740773
-
-SUMMARY:
-
-
 ## NCT07487831
 The Impact of Salt Intake on Sodium in the Skin and Inflammatory Skin Disease
 
@@ -5818,17 +5809,6 @@ Developing Extracellular Vesicle Based MPRINT Translational Resource Platform fo
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06249178
-
-SUMMARY:
-
-
-## NCT07330427
-Impact of Health Education on Knowledge, Attitude and Practice of Post-exposure Prophylaxis Among Health Care Workers at Aswan University Hospital, Egypt
-
-Intervention: : Health Education — 1. Assess the baseline knowledge, attitudes and practices of health care workers at Aswan university hospital towards postexposure prophylaxis against blood-borne viral infection.
-2. Provide an intense post exposure prophylaxis health education sessions.
-3. Evaluate changes in post exposure prophylaxis knowledge, attitudes and practices after the health education intervention.
-Link: https://clinicaltrials.gov/study/NCT07330427
 
 SUMMARY:
 

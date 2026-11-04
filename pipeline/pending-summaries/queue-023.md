@@ -904,16 +904,6 @@ Link: https://clinicaltrials.gov/study/NCT07392801
 SUMMARY:
 
 
-## NCT07580040
-Acute Effects of Cigarette Smoking on Corneal Tomographic and Biometric Parameters: A Prospective Controlled Study
-
-Intervention: : Cigarette Smoking Exposure — Participants in the smoking group smoked cigarettes during a standardized 10-minute outdoor period between baseline and post-exposure assessments.
-: No Smoking Exposure — Participants in the control group remained in the same outdoor environment for 10 minutes without smoking between baseline and post-exposure assessments.
-Link: https://clinicaltrials.gov/study/NCT07580040
-
-SUMMARY:
-
-
 ## NCT06160635
 D-SOLVE Cohorts (Cohort a and B)
 

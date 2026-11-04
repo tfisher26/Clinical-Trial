@@ -4018,15 +4018,6 @@ Link: https://clinicaltrials.gov/study/NCT06724718
 SUMMARY:
 
 
-## NCT04529629
-Precise Diagnosis, Treatment and Prognostic Evaluation of Complicated Adrenal Tumor Diseases
-
-Intervention: : surgery or drug — pheochromocytoma and adrenocortical carcinoma need surgery and primary aldosteronism need drug according to the genetic results
-Link: https://clinicaltrials.gov/study/NCT04529629
-
-SUMMARY:
-
-
 ## NCT07327606
 A Prospective Cohort Study on Prognostic Factors in Patients With Cardiovascular-kidney-metabolic Syndrome
 

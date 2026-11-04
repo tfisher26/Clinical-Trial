@@ -973,14 +973,6 @@ Link: https://clinicaltrials.gov/study/NCT05542069
 
 SUMMARY:
 
-## NCT05542706
-Benefit of Paramedical Care in Accompanying Caregivers of Patients That Had Surgery for an Head and Neck Invasive Cancer
-
-Intervention: : Accompanying caregivers by paramedical team — At each study visit (baseline, one week after hospital discharge, 4-8 weeks after surgery, 8-12 weeks after surgery and 16-20 weeks after surgery), the paramedical team have a dedicated meeting with the caregiver of the patient (at hospital or remote) and teach them the care procedures needed in accompanying the patient and the evaluate the learning progress. The training is adapted to each caregiver, according to his/her motivation and his/her ability. The goal is to have the training regarding the enteral nutrition, prevention of dehydration, pain management.
-Link: https://clinicaltrials.gov/study/NCT05542706
-
-SUMMARY: Caregivers of people who had surgery for head and neck cancer face heavy demands. This study tests support for caregivers from a paramedical team.
-
 ## NCT05543083
 Cognitive-Behavioral Therapy and Exercise Training in Adolescents At-Risk for Type 2 Diabetes
 
@@ -11262,20 +11254,6 @@ Link: https://clinicaltrials.gov/study/NCT05898308
 
 SUMMARY:
 
-## NCT05899231
-OPAL: Online Prehabilitation for Patients Awaiting Liver Transplantation - a Multicenter Randomized Controlled Trial to Reduce Physical Frailty and Improve Health Outcomes
-
-Intervention: : Prehabilitation Programming — 12-weeks of online prehabilitation programming including:
-
-1.12 weeks of nutrition programming focused on achieving a guideline- based protein intake of 1.2-1.5 g/kg/day. Participants will participate in a dietitian assessment and 0-2 dietitian follow-ups stratified by risk and 5 virtual group nutrition classes. Participants will be provided with a whey protein powder supplement - dosing stratified by risk.
-
-2.10 weeks of exercise programming focused on completion of 3 full- body resistance/aerobic exercise sessions weekly (1 or 2 virtual group classes as per patient preference + 1 or 2 pre-recorded home exercise videos).
-
-3.12 weeks of acceptance and commitment therapy based educational videos and online activities focused on reducing stress and anxiety and improving motivation and adherence.
-Link: https://clinicaltrials.gov/study/NCT05899231
-
-SUMMARY: People waiting for a liver transplant are often frail. This study tests an online prehabilitation program to reduce physical frailty.
-
 ## NCT05899257
 Effects of Brief Immersive Training on the Metacognitive Capacities and Self-knowledge of Young People
 
@@ -11539,18 +11517,6 @@ Intervention: : Feeds continued — Enteral feeds are continued up until time of
 Link: https://clinicaltrials.gov/study/NCT05906472
 
 SUMMARY: Children are often kept from eating before tracheostomy surgery. This study tests continuing tube feeds right up to the time of surgery instead of holding them.
-
-## NCT05906511
-Pharmacokinetics and Pharmacodynamics of Oral and Vaporized Delta-9-Tetrahydrocannabinol (THC) in Older Adults
-
-Intervention: : Dronabinol 5 MG — Dronabinol 5 mg
-: Dronabinol 10 MG — Dronabinol 10mg
-: 2mg Purified THC in an ethanolic solution — 2mg Purified THC in an ethanolic solution
-: 4mg Purified THC in an ethanolic solution — 4mg Purified THC in an ethanolic solution
-: Placebo — Oral placebo and/or vaporized saline
-Link: https://clinicaltrials.gov/study/NCT05906511
-
-SUMMARY:
 
 ## NCT05906576
 Post-marketing Registry Study of Infliximab for Injection in Chinese Pediatric Crohn's Disease Patients
@@ -14427,14 +14393,6 @@ The Swiss Neurodevelopmental Outcome Registry for Children With CHD
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05996211
-
-SUMMARY:
-
-## NCT05996367
-Prospective Cohort Assessing the Impact of Single-dose Radiotherapy in the Treatment of Painful Bone Lesions in Patients With Multiple Myeloma
-
-Intervention: : Single-dose involved-site radiotherapy — Single-dose of 8 Gy at involved-site radiotherapy
-Link: https://clinicaltrials.gov/study/NCT05996367
 
 SUMMARY:
 

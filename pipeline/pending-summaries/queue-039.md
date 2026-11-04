@@ -2801,15 +2801,6 @@ Link: https://clinicaltrials.gov/study/NCT06206148
 SUMMARY:
 
 
-## NCT06863324
-Impact of Individual Radiosensitivity on Late Toxicities of Radiosurgery in Essential Trigeminal Neuralgia
-
-Intervention: : Radiation induced Lymphocyte Apoptosis diagnostic test — Diagnostic test for estimation of individual radiosensitivity, based on blood test, whose clinical value has been demonstrated in predicting complications in patients irradiated for breast or prostate cancer. These tests are based on the rate of radiation-induced lymphocyte apoptosis, known as the RILA (Radiation Induced Lymphocyte Apoptosis) score
-Link: https://clinicaltrials.gov/study/NCT06863324
-
-SUMMARY:
-
-
 ## NCT04558593
 Surveillance of Complex Renal Cysts - The SOCRATIC Study
 
@@ -3326,15 +3317,6 @@ Channelling Fertility And Sexual Function In Congenital Adrenal Hyperplasia. CAL
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07099456
-
-SUMMARY:
-
-
-## NCT05636709
-National Post-market Clinical Follow-up Study to Evaluate in Real-world Practice the Efficacy and Safety of Granulocytoapheresis and Its Impact on Quality of Life in Patients With Inflammatory Bowel Disease
-
-Intervention: : Adacolumn — Non interventional study
-Link: https://clinicaltrials.gov/study/NCT05636709
 
 SUMMARY:
 

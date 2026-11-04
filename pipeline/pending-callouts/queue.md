@@ -392422,3 +392422,452 @@ Exclusion criteria:
 CALLOUT_HEADING:
 CALLOUT_TEXT:
 
+## NCT07009899
+BCMA Bispecific Antibody Therapy for Post-BCMA CAR T-Cell Therapy Relapse (RECLAIM)
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Age ≥18 years.
+2. Eastern Cooperative Oncology Group (ECOG) Performance Status criteria of 0-3.
+3. Received any standard of care or investigational BCMA CAR T-cell therapy as their last line of therapy ≥ 6 months prior to enrollment.
+
+   a. Note: Up to 15% of patients who are \< 6 months out from their standard of care of investigational BCMA CAR T-cell therapy will be included in the study as long as i) their bone marrow biopsy sample tests positive for BCMA expression by immunohistochemistry and ii) they have stem cells available for a stem cell boost therapy prior to linvoseltamab administration.
+4. Must have measurable disease for response assessment as per the IMWG response assessment criteria.
+
+   a. Note: if a patient does not have measurable serum M or free light chain, evidence of measurable disease by imaging is acceptable (e.g., extramedullary disease, new lesions).
+5. Adequate hepatic function as defined below:
+
+   1. Total bilirubin ≤ 1.5 x the upper limit of the normal range (ULN).
+   2. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 3 x ULN.
+6. Ability to understand a written informed consent document, and the willingness to sign it.
+"""
+Exclusion criteria:
+"""
+1. Previously on a BCMA-directed therapy other than BCMA CAR T-cell therapy (e.g., BCMA bispecific antibody, BCMA antibody drug conjugate) or T cell engaging therapy (e.g., GPRC5D bispecific antibody, GPRC5D CAR T-cell therapy).
+2. History of neurodegenerative condition, Central Nervous System (CNS) movement disorder, or patients with a history of seizure within 12 months prior to study enrollment.
+3. Any serious medical or psychiatric illness that could, in the investigator's opinion, potentially interfere with the completion of treatment according to this protocol.
+4. Prior organ transplant requiring immunosuppressive therapy.
+5. Known to be human immunodeficiency virus (HIV) positive.
+6. Known to have hepatitis A, B, or C active infection.
+7. Known allergy to any of the study medications, their analogues, or excipients in the various formulations of any agent.
+8. Concurrent hematologic or non-hematologic malignancy requiring treatment (other than multiple myeloma and secondary amyloidosis).
+9. Cardiac syncope, uncompensated New York Heart Association (NYHA) Class 3 or 4 congestive heart failure, myocardial infarction within the previous six months, unstable angina pectoris, clinically significant repetitive ventricular arrhythmias despite antiarrhythmic treatment, cardiac ejection fraction \< 40% by echocardiogram or multi-gated acquisition (MUGA) scan, severe orthostatic hypotension, or clinically important autonomic disease.
+10. Major surgery within 14 days prior to start of study treatment (Note: vertebroplasty and kyphoplasty are not considered major surgery).
+11. Infection requiring systemic antibiotic therapy or other serious infection within 14 days prior to start of study treatment.
+12. Active treatment in other clinical trials, including those where a subject received an investigational drug within 30 days or five half-lives of the investigational drug prior to start of study treatment, whichever is longer.
+13. Any clinically significant, uncontrolled medical conditions that, in the investigator's opinion, would expose the subject to excessive risk or may interfere with compliance or interpretation of the study results.
+14. Pregnant or breastfeeding women.
+15. Women of childbearing potential (WOCBP) or sexually active men who are unwilling to practice highly effective contraception prior to the start of study therapy, during the study, and for at least 6 months after the last dose of the study drug.
+
+    1. WOCBP are defined as women who are fertile following menarche until becoming postmenopausal (defined as no menses for 12 months without an alternative medical cause), unless permanently sterile. Permanent sterilization methods include hysterectomy, bilateral salpingectomy, and bilateral oophorectomy.
+    2. Male study participants with WOCBP partners are required to use condoms unless they are vasectomized or practice sexual abstinence. Male study participants should not donate sperm during the study, and for at least 6 months after the last dose
+16. Highly effective contraceptive measures include stable use of combined (estrogen and progestogen-containing) hormonal contraception (oral, intravaginal, transdermal) or progestogen-only hormonal contraception (oral, injectable, implantable) associated with inhibition of ovulation initiated two or more menstrual cycles prior to screening; intrauterine device; intrauterine hormone-releasing system; bilateral tubal ligation; vasectomized partner (provided that the vasectomized partner is the sole sexual partner of the WOCBP study participant); and or sexual abstinence.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07221032
+Phase I Study of FT836 CAR T-cell Therapy in Combination With Daratumumab in Patients With Relapsed and/or Refractory Multiple Myeloma
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+1. Patients must ≥18 years and \< 80 years old.
+2. Patients must have received \>=3 prior lines of therapies, including proteasome inhibitor, immunomodulator and a CD38 monoclonal antibody:
+
+   • International Myeloma Working Group (IMWG) criteria define refractory disease as disease progression on or within 60 days of receiving therapy.
+3. Patients must have measurable disease, including at least one or more of the following criteria:
+
+   1. Serum M-protein ≥ 0.5 g/dl;
+   2. Urine M-protein ≥ 200 mg/24 hrs;
+   3. Involved serum light chain ≥100 mg/L with abnormal light chain ratio;
+4. Karnofsky performance score ≥70.
+5. Adequate hepatic function, defined as:
+
+   1. Aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase \<3x upper limit of normal (ULN);
+   2. Serum bilirubin \<2.0 mg/dL except for patients with Gilbert's syndrome, who must have serum bilirubin of \<3 mg/dL.
+6. Absolute neutrophil count (ANC) ≥1,000 with no G-CSF within 72 hours or pegylated G-CSF within 10 days.
+7. Platelets ≥50,000 with no transfusion within 72 hours of eligibility testing.
+8. Adequate renal function, defined as creatinine clearance ≥50 mL/min calculated using the Cockroft-Gault formula.
+9. Able to provide written informed consent.
+10. Agree to practice birth control during the study.
+11. Adequate cardiac function as indicated by New York Heart Association (NYHA) classification I or II AND left ventricular ejection fraction of ≥45% -- by cardiac echocardiogram (ECHO) or multigated acquisition scan (MUGA) -- and adequate pulmonary function as indicated by room air oxygen saturation of ≥90%.
+12. Expected survival \>12 weeks.
+13. Negative urine or serum pregnancy test in females of childbearing potential at study entry.
+14. No contraindication to central line access. Female subjects of reproductive potential (women who have reached menarche or women who have not been post-menopausal for at least 24 consecutive months, i.e., who have had menses within the preceding 24 months, or have not undergone a sterilization procedure \[hysterectomy or bilateral oophorectomy\]) must have a negative serum or urine pregnancy test performed as part of the eligibility criteria. Lactating women are eligible for this study but will be asked not to provide breast milk to their child from Day -11 through Day +90 after CAR T-cell therapy. It is possible they may no longer be able to lactate after receiving chemotherapy and treatment.
+
+Due to the high-risk level of this study, while enrolled, all subjects must agree not to participate in a conception process (e.g., active attempt to become pregnant or to impregnate, sperm donation, in vitro fertilization). Additionally, if participating in sexual activity that could lead to pregnancy, the study subject must agree to use reliable and double-barrier methods of contraception during the follow-up period of the protocol.
+
+Acceptable birth control includes a combination of two of the following methods:
+
+* Condoms (male or female) with or without a spermicidal agent.
+* Diaphragm or cervical cap with spermicide.
+* Intrauterine device (IUD).
+* Hormonal-based contraception. Subjects who are not of reproductive potential (women who are premenarche or have been post-menopausal for at least 24 consecutive months or have undergone hysterectomy, tubal ligation, salpingectomy, and/or bilateral oophorectomy or men who have documented azoospermia) are eligible without requiring the use of contraception.
+"""
+Exclusion criteria:
+"""
+1. Positive beta-Human Chorionic Gonadotropin (HCG) in female of child-bearing potential.
+2. Confirmed active human immunodeficiency virus (HIV), Hepatitis B or C infection.
+3. History of significant autoimmune disease OR active, uncontrolled autoimmune phenomenon requiring steroid therapy defined as \>20 mg of prednisone or equivalent daily.
+4. Presence of ≥ Grade 3 non-hematologic toxicities as per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 from any previous treatment unless it is felt to be due to underlying disease.
+5. Concurrent use of investigational therapeutic agents or enrollment in another therapeutic clinical trial at any institution. A minimum of 14 days or five half-lives of the drug (whichever is shorter) washout prior to start of daratumumab.
+6. Refusal to participate in the long-term follow-up protocol.
+7. Patients with active Central Nervous System (CNS) involvement by malignancy on magnetic resonance imaging (MRI) or by lumbar puncture.
+
+   a. Patients with prior CNS disease that has been effectively treated will be eligible providing last treatment was ≥2 weeks before start of daratumumab and a remission documented within four weeks of planned CAR T-cell infusion by MRI brain and Cerebrospinal Fluid (CSF) analysis.
+8. Previous recipients of allogeneic hematopoietic stem cell transplantation (AHCT) are excluded if they are \<6 months post-transplant, have evidence of active graft-versus-host-disease (GVHD) of any grade, or are currently on immunosuppression.
+9. Plasma cell leukemia, Waldenstrom's macroglobulinemia, POEMS syndrome, and AL amyloidosis.
+10. Prior treatment with gene therapy or any gene-modified cellular therapy.
+11. Cytotoxic chemotherapy, oral chemotherapeutic agents, or antibody-directed treatment within 14 days of starting daratumumab or after starting daratumumab.
+
+    1. Corticosteroids are allowable up until seven days prior to starting daratumumab and after starting daratumumab for disease control up until the day prior to cell infusion (Day -1).
+    2. Radiation is allowed to a single symptomatic site.
+12. Patients post solid organ transplant who develop high-grade lymphomas or leukemias.
+13. Concurrent active malignancy other than basal or squamous cell carcinomas of the skin.
+14. Active bacterial, viral, or fungal infection requiring systemic treatment.
+15. Patients who have received major surgery one week prior to starting daratumumab and three weeks prior to lymphodepletion.
+16. Active malignancy that required therapy in the last two years except successfully treated non-metastatic basal or squamous cell carcinoma, or prostate carcinoma that does not require therapy. Other similar conditions may be discussed with and permitted by the medical monitor.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07510841
+A Phase I/II Clinical Study on the Safety, Pharmacokinetic Characteristics and Preliminary Efficacy of JY016 Injection in Patients With Advanced Solid Tumors Expressing EGFR
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* 1\. Age ≥ 18 years and ≤ 75 years;
+* 2\. Tumor diagnosis and previous anti-tumor treatment: Phase I dose escalation stage: Subjects with advanced solid tumors with EGFR expression (immunohistochemistry 1+, 2+ or 3+) who have undergone standard treatment failure, or lack effective treatment options, or are unable to tolerate standard treatment, diagnosed by histological or cytological methods; Phase II expansion stage: Several tumor types with confirmed EGFR expression (initially determined as immunohistochemistry 1+, 2+ or 3+, and can be adjusted based on the exploratory results of EGFR expression in the dose escalation stage) confirmed by the central laboratory.
+* 3\. ECOG physical condition score is 0-1 point;
+* 4\. Expected survival exceeds 12 weeks;
+* 5\. The bone marrow reserve and organ function levels must meet the following requirements 4 weeks before the first administration:(1) Blood routine: Absolute neutrophil count (ANC) ≥ 1.5 × 109/L; platelet count ≥ 100 × 109/L; hemoglobin ≥ 90 g/L; (no blood transfusion or hematopoietic stimulating factor treatment within 14 days before the first administration);(2) Liver and kidney function: serum total bilirubin (TBIL) ≤ 1.5 × ULN; alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2.5 × ULN; if there is liver metastasis, ALT and AST ≤ 5 × ULN; creatinine clearance rate ≥ 50 mL/min (using the Cockcroft-Gault formula) or serum creatinine ≤ 1.5 × ULN;(3) Coagulation function: activated partial thromboplastin time (APTT) ≤ 1.5 × upper limit of normal; international normalized ratio (INR) ≤ 1.5 × ULN;(4) Cardiac function: cardiac ultrasound examination, left ventricular ejection fraction ≥ 50%; QT interval (QTcF) ≤ 450 milliseconds.
+* 6\. At least one measurable lesion defined by RECIST v1.1 must exist at the baseline period;
+* 7\. Reproductive-capable subjects (male and female) must agree to use reliable contraceptive methods (hormonal or barrier methods or abstinence) with their partners during the trial period and for at least 3 months after the last administration; for pregnant women of childbearing age, a negative blood pregnancy test must be obtained within 14 days before the first use of the trial drug.
+* 8.I have fully understood this study and voluntarily signed the informed consent form, willing and able to follow the research procedures.
+"""
+Exclusion criteria:
+"""
+* 1\. The time interval between the last anti-tumor treatment and the first administration: for cytotoxic drugs and small molecule targeted drugs, ≤ 3 weeks; for large molecule monoclonal antibodies, ≤ 4 weeks; for radiotherapy (except for local radiotherapy for relieving pain) ≤ 4 weeks; for traditional Chinese medicine with anti-tumor indications approved by NMPA, ≤ 2 weeks;
+* 2\. Known to be allergic to injectable JY016 or any of its excipient components; or having a history of allergy to drugs containing monoclonal components; other drug-induced liver toxicity or allergy history; or having a specific allergic reaction history (asthma, rubella, eczematous dermatitis); the subjects who have undergone previous anti-tumor treatment with central nervous system metastasis cancer, cancerous meningitis, or other central nervous system diseases or abnormalities;
+* 3\. Have received targeted CD3 drug treatment before;
+* 4\. Known to have central nervous system metastatic cancer, cancerous meningitis, or other central nervous system diseases or abnormalities;
+* 5\. Human immunodeficiency virus (HIV) antibody positive, syphilis antibody positive or having other acquired or congenital immune deficiency diseases; active hepatitis C, antibody positive and HCV RNA test positive; active hepatitis B, for HBsAg positive, HBV DNA needs to be detected, and HBV DNA is higher than the upper limit of the normal value;
+* 6\. Have received any anti-tumor treatment that was effective through T-cell recruitment therapy before, including but not limited to CAR-T and other in vitro cell therapies, CD3+ monoclonal antibodies, CD3+ dual antibodies, etc.;
+* 7\. Have had a subject who experienced cytokine release syndrome (CRS) after any treatment;
+* 8\. Have had anti-tumor treatment-related toxicity that has not been relieved to grade 1 or below (CTCAE v5.0) (excluding alopecia, pigmentation, and other toxicities determined by the investigator not affecting the safety of the study drug);
+* 9\. Have other malignant tumors (excluding skin basal cell carcinoma and carcinoma in situ that underwent radical treatment and no disease recurrence within 5 years before screening);
+* 10\. Have used other clinical trial test drugs within 4 weeks before the first administration of the test drug;
+* 11\. Have used live virus vaccines within 4 weeks before the first administration of the test drug or during the expected study period, and within 4 weeks after the expected cessation of the study treatment;
+* 12\. Have had active or requiring treatment bacterial, viral or fungal infections within 4 weeks before the first administration of the test drug;
+* 13\. History of active tuberculosis;
+* 14\. Have received allogeneic hematopoietic stem cell transplantation or solid organ transplantation;
+* 15\. Have active autoimmune diseases (including but not limited to immune-related myocarditis, immune-related pneumonia, myasthenia gravis, autoimmune hepatitis, systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease, Wegener's granulomatosis, multiple sclerosis, vasculitis or glomerulonephritis, etc.) within 1 year of receiving systemic treatment;
+* 16\. Have undergone major organ surgery (excluding biopsy and minimally invasive surgeries that have recovered well) or had significant trauma within 4 weeks before the first administration of the test drug, or need to undergo elective surgery during the study period;
+* 17\. Have had severe non-healing wounds/ulcers/fractures within 4 weeks before the first administration of the test drug;
+* 18\. Have a history of severe cardiovascular and cerebrovascular diseases, including but not limited to: 1) Severe cardiac rhythm or conduction abnormalities; 2) Congestive heart failure (NYHA classification ≥ III); 3) Acute coronary syndrome, aortic dissection, stroke or other grade 3 or above cardiovascular events within 6 months before the first administration;
+* 19\. Uncontrolled third space effusion (pleural effusion, pericardial effusion or abdominal effusion, etc.);
+* 20\. Known to have a history of drug abuse;
+* 21\. Pregnant or lactating women;
+* 22.The investigator believes that the subject has other systemic diseases or other reasons that make them unsuitable to participate in this clinical study.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07637097
+Reducing Depression in Family Caregivers of Persons Living With Lewy Body Dementia Through Tailored Asynchronous Online Intervention.
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Current family member or informal (unpaid) caregiver of a person with a confirmed diagnosis of Lewy Body Dementia (LBD) or LBD mixed pathology
+* Experiences depressive symptoms as defined by a score of 5 or higher on the Patient Health Questionnaire-9 (PHQ-9)
+* Able to read, write, and speak English
+* Has access to a device (computer, tablet, or smartphone) that can connect to the internet and be used for videoconferencing or phone calls, OR is interested in using a loaner device
+* Has an active email address OR is willing to create and use an email address prior to enrollment
+"""
+Exclusion criteria:
+"""
+* Active suicidal ideation as indicated by endorsement of PHQ-9 Item 9 (thoughts that you would be better off dead, or thoughts of hurting yourself)
+* Paid or professional caregiver (must be unpaid family/informal caregiver)
+* Unable to read, write, or speak English
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07746388
+Adaptive Chemotherapy for Pd-l1 High REsEctablE NSCLC: A Chemo-PHREE Trial
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Age 18 years or older at time of study entry
+2. Eastern cooperative oncology group (ECOG) performance status of 0 or 1
+3. Participants with histologically confirmed stage II-IIIB(N2) NSCLC (per the 9th International Association for the Study of Lung Cancer) with disease that is considered resectable prior to initiation of systemic therapy.
+4. Subject cases must be reviewed in a multidisciplinary thoracic tumor board setting prior to enrollment to allow for adequate discussion regarding the appropriateness for resection.
+5. Participants must have a tumor tissue sample available for biomarker testing, including PD-L1 IHC testing and sequencing to confirm EGFR/ALK status. Assessment of PD-L1 IHC, EGFR/ALK status may be performed locally through a CLIA approved laboratory testing method.
+
+   a. Tissue source may be a formalin fixed paraffin block (FFPE) of a previous tumor biopsy sample. Source of biomarker testing may be obtained from archived tissue if adequate or from a new biopsy, if needed and clinically indicated.
+6. Participants must have established PD-L1 Tumor Proportion Score (TPS) expression \> or equal to 50%, assessed locally through a CLIA approved laboratory testing method.
+7. All suspicious mediastinal/hilar lymph nodes including those that are pathologically enlarged or FDG avid on PET/CT require further sampling for pathological confirmation if accessible by mediastinoscopy, thoracoscopy, or EBUS.
+8. Absence of major associated pathologies that increase the surgery risk to an unacceptable level
+9. Pulmonary function capacity (eg. FVC, FEV1, TLC, and DLCO) capable of tolerating proposed lung resection according to surgeon.
+10. Adequate normal organ and marrow function defined below:
+
+    1. Platelet count \> or equal to 100,000/mm3
+    2. Hemoglobin \> or equal to 8 g/dL
+    3. Absolute neutrophil count (ANC) \> or equal to 1000/mm3
+    4. Creatinine ≤ 1.5 x ULN or creatinine clearance (CrCl) \> or equal to 40 mL/min
+    5. Total bilirubin ≤ 1.5 x ULN (except subjects with Gilbert Syndrome who can have total bilirubin \< 3.0 mg/dL)
+
+AST, ALT, Alkaline phosphatase ≤ 3 x ULN per local testing 11. Subjects are deemed capable of giving informed consent and must have signed and dated an IRB approved written informed consent form. This written consent must be obtained before the performance of any protocol related procedures that are not part of normal standard of care. 12. Women of childbearing potential (WOCBP) must have negative serum or urine pregnancy testing within 30 days of study start
+"""
+Exclusion criteria:
+"""
+1. Presence of locally advanced unresectable (regardless of stage) or metastatic disease (stage IV).
+2. Participants with large-cell neuroendocrine carcinoma tumor or small cell carcinoma histology, including those with presence of mixed histology.
+3. Participants with known sensitizing EGFR mutations (L858R, Exon 19 deletion, Exon 20 insertion, atypical mutations including G719X L861Q, S768I) or ALK translocation via local CLIA approved testing methods.
+
+   a. For patients in whom more comprehensive testing is performed, those with identified targetable alterations in ROS1, NTRK, RET, METex14, HER2 genes will also be excluded. Screening for these specific alterations (ROS1/NTRK/RET/METex14/HER2), however, are not required for enrollment.
+4. Participants with brain metastases are excluded from this study. All patients should have pre-study MRI brain or CT head with contrast to confirm the absence of intracranial disease, per standard of care staging procedures.
+5. Prior therapy with an anti-PD-(L)1, anti-CTLA-4 antibody or any other antibody targeting t-cell co-regulatory pathways.
+6. Active prior malignancy within the previous 3 years, except for locally curable cancers that have been apparently cured, such as basal or squamous cell skin cancer, superficial bladder cancer or carcinoma in situ of the prostate, cervix or breast.
+7. History of allogeneic organ transplantation.
+8. Presence of a condition or abnormality that in the opinion of the Investigator would compromise the safety of the patient or the quality of the data.
+9. New York Heart Association heart failure classifications of Class II, III, or IV; or myocardial infarction, or acute coronary syndrome within 12 months of first dose of study medication; or Transient ischemic attack or stroke within 1 year
+10. Any condition that requires ongoing/continuous corticosteroid therapy (\>10 mg prednisone/day or anti-inflammatory equivalent) within 1 week prior to the first dose of study medication. Participants who require a brief course of steroids (up to 2 days in the week before enrollment) or physiologic replacement are not excluded.
+11. Ongoing or significant autoimmune disease that required treatment with systemic immunosuppressive treatments within the last 5 years. Note: The following are not exclusionary: vitiligo, childhood asthma that has resolved, endocrinopathies (such as hypothyroidism or type 1 diabetes) that require only hormone replacement, or psoriasis that does not require systemic treatment.
+12. Any infection requiring hospitalization or treatment with IV anti-infectives within 2 weeks of first dose of study medication
+13. Uncontrolled infection with HIV, hepatitis B or hepatitis C infection, diagnosis of immunodeficiency, and/or tuberculosis (active or latent).
+
+    1. Participants with known controlled HIV infection (undetectable viral load on HIV RNA PCR) and CD4 count above 350 either spontaneously or on a stable antiviral regimen are eligible. For these participants monitoring will be performed per local standards.
+    2. Participants with HBsAg positive who have controlled infection (serum HBV DNA PCR that is below the limit of detection and receiving anti-viral therapy for hepatitis B) are eligible. Participants with controlled infections must undergo periodic monitoring of HBV DNA. Participants must remain on anti-viral therapy for at least 6 months beyond the last dose of investigational study medication.
+    3. Participants with HBsAg negative but total HBcAb positive are permitted with the following requirements: If serum HBV DNA PCR is above the limit of detection at screening, initiate HBV antiviral therapy before study entry. If serum HBV DNA PCR is below the limit of detection, periodic monitoring of HBsAg must be performed.
+    4. Participants who are HCV Ab+ who have controlled infection (undetectable HCV RNA by PCR either spontaneously or in eligible
+14. Receipt of a live vaccine within 4 weeks of start of study medication
+15. Receipt of COVID-19 vaccination within 1 week of planned start of study medication or for which the planned COVID-19 vaccinations would not be completed 1 week prior to start of study medication.
+16. Known hypersensitivity to the active substances or to any of the excipients.
+17. WOCBP\* and men\*\* who are unwilling to practice highly effective contraception prior to the initial dose/start of the first treatment, during the study, and for at least 4 months after the last dose of cemiplimab. Highly effective contraceptive measures include:
+
+    1. Stable use of combined (estrogen and progestogen containing) hormonal contraception (oral, intravaginal, transdermal) or progestogen-only hormonal contraception (oral, injectable, implantable) associated with inhibition of ovulation initiated 2 or more menstrual cycles prior to screening;
+    2. Intrauterine device; intrauterine hormone-releasing system;
+    3. Bilateral tubal occlusion/ligation;
+    4. Vasectomized partner (provided that the male vasectomized partner is the sole sexual partner of the WOCBP study participant and that the vasectomized partner has obtained medical assessment of surgical success for the procedure); and/or
+    5. Sexual abstinence†,‡. Pregnancy testing and contraception are required for WOCBP. Pregnancy testing and contraception are not required for women who are postmenopausal or permanently sterile.
+
+       * WOCBP are defined as women who are fertile following menarche until becoming postmenopausal, unless permanently sterile. Permanent sterilization methods include hysterectomy, bilateral salpingectomy, and bilateral oophorectomy. A postmenopausal state is defined as no menses for 12 months without an alternative medical cause. A high FSH level in the postmenopausal range may be used to confirm a postmenopausal state in women not using hormonal contraception or hormonal replacement therapy. However, in the absence of 12 months of amenorrhea, a single FSH measurement is insufficient to determine the occurrence of a postmenopausal state. The above definitions are according to the CTFG guidance. Pregnancy testing and contraception are not required for women with documents hysterectomy or tubal ligation. \*\*Male participants: A male participant will be excluded from the study if that participant does not agree to use condoms or practice sexual abstinence†‡, unless vasectomized, prior to the initial dose/start of study medication, during the study, and for at least 4 months after the last dose of cemiplimab. Sperm donation is also prohibited during the same period. Vasectomy success must be confirmed by semen analysis. †Sexual abstinence is considered a highly effective method only if defined as refraining from heterosexual intercourse during the entire period of risk associated with the study drugs. The reliability of sexual abstinence needs to be evaluated in relation to the duration of the clinical trial and the preferred and usual lifestyle of the participant. ‡Periodic abstinence (calendar, symptothermal, post-ovulation methods), withdrawal (coitus interruptus), spermicides only, and lactational amenorrhea method are not acceptable methods of contraception. Female condom and male condom should not be used together.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07779512
+A Pediatric Emergency Department-based Intervention to Increase Infant Adherence to Safe Sleep Practices
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Legal guardian of infants ages 0 to \< 4 months , evaluated in GCHB PED ages 0 to \< 4 months
+* English speaking primary caregiver of infant
+* Infant ED triaged ESI 2-5
+* Able to complete follow-up surveys via phone or email
+* Family not completely adherent to all 4 pre-determined safe sleep guideline recommended behaviors. If they are adherent to 3 out of 4 guidelines, they are eligible for the study.
+"""
+Exclusion criteria:
+"""
+* Infants requiring intensive interventions where PED education is not feasible
+* Non-English-speaking primary caregiver
+* Legal guardian unable to complete baseline survey or provide follow-up contact
+* Legal guardian completely adherent to safe sleep guidelines
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07816341
+A Phase 1 Study to Evaluate the Safety, Tolerability, Preliminary Efficacy, Pharmacokinetics, Pharmacodynamics, and Immunogenicity of F182112 in Patients With Relapsed/Refractory Autoimmune Hemolytic Anemia
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+* Age 18-75 years.
+* Diagnosis of AIHA according to established Chinese or international criteria, including warm AIHA, mixed AIHA, cold agglutinin disease, or Evans syndrome.
+* Refractory to multiple lines of therapy, meeting all of the following: HGB \<100 g/L with evidence of hemolytic anemia; Prior treatment with ≥2 immunosuppressive therapies, including a CD20 monoclonal antibody; Glucocorticoid treatment for ≥3 months, unless contraindicated or intolerable; Adequate prior CD20 monoclonal antibody treatment (≥4 doses of 100 mg or 375 mg/m², or 2 doses of 1,000 mg).
+* ECOG performance status ≤2.
+* Participants and their partners agree to use effective contraception from informed consent through 1 year after study treatment.
+* Written informed consent must be obtained before any study-specific screening procedures.
+"""
+Exclusion criteria:
+"""
+* Diagnosed lymphoproliferative malignancy.
+* Secondary AIHA caused by drugs or infection.
+* Congenital immunodeficiency or other inherited or acquired hemolytic disorders.
+* Prior organ or hematopoietic stem cell transplantation.
+* New thrombotic events or organ infarction within 6 months before enrollment.
+* Prior BCMA-targeted therapy within 6 months before enrollment.
+* Any of the following prior treatments within the specified washout periods: Anti-CD20 monoclonal antibody within 12 weeks; Sutimlimab or other approved biologic therapy within 5 half-lives; Plasma exchange within 4 weeks; Splenectomy within 12 weeks.
+* Any of the following cardiovascular conditions: LVEF ≤45%; Active cardiac disease or NYHA class III/IV heart failure; Clinically significant arrhythmia requiring treatment, except atrial fibrillation or paroxysmal supraventricular tachycardia; QTc ≥450 ms in males or ≥470 ms in females; Myocardial infarction, coronary artery bypass grafting, or coronary stent placement within 6 months; Other clinically significant cardiac disease considered unsuitable by the investigator.
+* Unstable systemic disease, including severe hepatic or renal disease requiring treatment.
+* History of another primary malignancy within 5 years before screening, except adequately treated non-melanoma skin cancer, carcinoma in situ, or other malignancies without recurrence for ≥5 years.
+* Major surgery within 4 weeks before screening if considered unsuitable for enrollment by the investigator.
+* Uncontrolled active fungal, viral, bacterial, tuberculosis, or other infection, or infection requiring intravenous antimicrobial therapy.
+* Active or clinically significant HBV, HCV, HIV, or syphilis infection
+* Live-virus vaccination within 4 weeks before enrollment.
+* Participation in another interventional clinical study within 5 half-lives of the investigational treatment before screening, or planned use of another investigational treatment during this study.
+* Pregnant or breastfeeding women.
+* Psychiatric disorders, impaired consciousness, or central nervous system disorders, including a history of epilepsy or Parkinson's disease.
+* Known hypersensitivity to any component of F182112.
+* Any other condition that, in the investigator's judgment, makes the participant unsuitable for the study.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07857616
+SI-B036-ST-101: A Multicenter, Open-Label, Phase 1/1b, First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of SI-B036 in Adult Patients With Advanced/Metastatic Solid Tumors That Are Refractory to Standard Therapies
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Documented locally advanced or metastatic solid tumor(s) not amenable to curative surgery or radiation and have received at least 1 line of standard therapy, including adjuvant/neoadjuvant treatment, or whose cancer is considered refractory to the standard of care (SOC) or for which no standard treatment is available.
+* Toxicity of previous antitumor therapy has returned to level ≤1 as defined by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) V6.0.
+* Has no serious cardiac dysfunction and left ventricular ejection fraction ≥50%.
+* Has adequate organ function before enrollment
+
+PART C Additional Inclusion Criteria (Dose Expansion Only)
+
+\- For immuno-oncology (IO)-exposed non-small cell lung cancer (NSCLC): histologically or cytologically confirmed unresectable locally advanced or metastatic non-small cell lung cancer (NSCLC) in subjects who are previously exposed to immune checkpoint inhibitor (ICI) therapy (IO-exposed) and whose disease is refractory to standard of care (SOC) therapy or for whom no appropriate standard treatment options are available. In addition, subjects must have received at least one prior line of platinum therapy.
+
+For IO naïve NSCLC: histologically or cytologically confirmed unresectable locally advanced or metastatic NSCLC in subjects who are not previously exposed to ICI therapy. Subjects must also have PD-L1 expression ≥1% (tumor proportion score \[TPS\]) as determined by an FDA-approved assay. In addition, subjects must have received at least one prior line of platinum therapy.
+
+For Melanoma: histologically confirmed unresectable or metastatic melanoma with prior treatment with an immune checkpoint inhibitor regimen and documented disease progression following such therapy.
+
+For Ovarian Cancer: has histologic documentation of epithelial ovarian, primary peritoneal, or fallopian tube cancer that has progressed or relapsed on or after a previous chemotherapy with or without a poly (ADP-ribose) polymerase (PARP) inhibitor. Prior bevacizumab treatment is allowed.
+"""
+Exclusion criteria:
+"""
+* Chemotherapy, biological therapy, immunotherapy, targeted therapy (including small molecule inhibitor of tyrosine kinase), and other antitumor therapy within 4 weeks or 5 half-lives (whichever is shorter) prior to the first administration; radical radiotherapy, major surgery within 4 weeks prior to the first administration; mitomycin and nitrosoureas treatment within 6 weeks prior to the first administration; oral drugs such as Ticio such as capecitabine, or palliative radiotherapy within 2 weeks prior to initial administration.
+* Received systemic immunostimulatory therapy within 4 weeks prior to the first dose or is still within 5 half-lives of the treatment (whichever is longer).
+* Received immunosuppressive drugs within 2 weeks prior to the first dose. The use of topical, inhaled, and locally injected steroids is permitted.
+* Participants with history of severe heart disease within 6 months before enrollment.
+* Participants with prolonged QT interval (QTcF \>470 msec), complete left bundle branch block, Grade 3 atrioventricular block, or a history of additional risk factors for Torsades de Pointes (TdP) or any current concomitant medication known to prolong the QT/QTc interval or cause TdP.
+* Other malignant tumors were diagnosed within 5 years prior to the first administration.
+* For the dose escalation portion of the study only, participants with a primary diagnosis of lung cancer are excluded.
+* Participants with a thromboembolic event (eg, deep vein thrombosis \[DVT\] or pulmonary embolism \[PE\]), stroke, or transient ischemic attack (TIA) within 6 months before screening.
+* Participants with active or recent clinically significant bleeding are excluded, or who are at risk of bleeding due to clinically significant platelet abnormalities or coagulopathy, or who require full-dose anticoagulation or high-intensity antiplatelet therapy on high dose nonsteroidal anti-inflammatory drugs (NSAIDs).
+* Active autoimmune diseases and inflammatory diseases. For autoimmune conditions that are active but stable and low-grade on systemic therapy, discussion with the medical monitor is required prior to screening.
+* Participants with advanced/clinically significant lung diseases, who have a history of noninfectious interstitial lung disease (ILD)/pneumonitis that required treatment with steroids, have current ILD/pneumonitis, or where suspected ILD/pneumonitis cannot be ruled out by imaging at screening, or concurrent pulmonary disease resulting in severe impaired respiratory function.
+* Participants with primary tumors in the central nervous system (CNS), active or untreated CNS metastases or carcinomatous meningitis should be excluded. Participants with previously treated brain metastases may participate provided they are clinically stable for at least 4 weeks and have no evidence of new or enlarging brain metastases and no requirements for corticosteroids 14 days prior to Screening.
+* Participant with active or untreated hemorrhagic CNS lesions.
+* Participants with a history of anaphylaxis or severe hypersensitivity reactions.
+* Previous organ transplantation or allogeneic hematopoietic stem cell transplantation.
+* Subjects with recent surgery, biopsy, or invasive procedures without adequate wound healing prior to study enrollment.
+* Participated in another clinical trial within 4 weeks prior to first dose of study treatment.
+* Participants who are pregnant, breastfeeding, or planning to become pregnant during the study.
+* History of fistula, gastrointestinal perforation, or abdominal abscess within 6 months prior to the first dose.
+* Participant with moderate or major hemoptysis history.
+* Participant has tumors invading large blood vessels
+* Other conditions that the Investigator or sponsor believes are not suitable for participating in this clinical trial.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07914907
+Prospective Evaluation of Generative AI-Augmented Clinical Decision-Making for Rheumatoid Arthritis Bone Erosion Risk (RABER) Assessment and DMARD Selection in Routine Care
+Keyword hit(s): inpatient
+
+Inclusion criteria:
+"""
+* Newly diagnosed RA patients meeting American College of Rheumatology / European League Against Rheumatism 2010 classification criteria
+* Consecutive inpatients admitted during study period
+"""
+Exclusion criteria:
+"""
+* Patients subsequently determined not to have RA
+* Incomplete clinical data preventing risk or treatment assessment
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07915063
+MEDITERRANEAN DIET, HIGHLY PROCESSED FOODS AND THEIR IMPACT ON GASTROINTESTINAL SYMPTOMS, NUTRITIONAL STATUS AND QUALITY OF LIFE IN ADULT COELIAC DISEASE PATIENTS ON A GLUTEN FREE DIET: A MULTICENTRE CROSS-SECTIONAL STUDY
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Adult patients (age \> 18 years)
+* Diagnosis of coeliac disease based on positive IgA tissue transglutaminase / endomysial antibodies and villous atrophy on duodenal biopsy in accordance with major international guidelines
+* Strict adherence to a gluten-free diet (GFD) for at least 12 months
+* Evidence of duodenal mucosal recovery on a follow-up biopsy
+* Regularly attending the participating gastroenterology outpatient clinics for follow-up
+"""
+Exclusion criteria:
+"""
+* Coeliac patients with poor gluten-free diet adherence and/or evidence of persistent villous atrophy on follow-up duodenal biopsy
+* Patients who follow a vegetarian/vegan diet or other restrictive diets
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07915609
+A PHASE 3, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO ASSESS THE EFFICACY AND SAFETY OF ONCE-WEEKLY BEROBENATIDE IN ADULTS WITH KNEE OSTEOARTHRITIS AND OVERWEIGHT OR OBESITY WITH OR WITHOUT TYPE 2 DIABETES (VESPER-OA 2)
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+* Adults 18 years of age or older, or the minimum age of consent according to local regulations.
+* Body mass index of at least 27 kg/m² at Screening.
+* Currently meets American College of Rheumatology (ACR) Criteria for knee OA.
+* Pain due to knee OA.
+* Knee radiograph consistent with knee osteoarthritis and Kellgren-Lawrence Grade 2 or 3.
+* Willingness to complete the required analgesic washout.
+* History of at least 1 self-reported unsuccessful dietary effort to lose body weight.
+
+HbA1c value at Screening of:
+
+1. \<6.5% (48 mmol/mol) for participants without T2D
+2. ≥6.5% (48 mmol/mol) and \<10.0% (86 mmol/mol) for participants with T2D
+
+Exclusion Criteria
+
+* Self-reported body weight increase or decrease greater than 5% within 90 days before Screening.
+* For participants with T2D at Screening only:
+
+  • Diabetic maculopathy, proliferative diabetic retinopathy, or severe non-proliferative diabetic retinopathy requiring immediate intervention
+* Known clinically significant gastric-emptying abnormality, history of acute or chronic pancreatitis, or active symptomatic gallbladder disease.
+* Personal history or first-degree family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2.
+* Significant active or unstable psychiatric disorder.
+* Condition or knee disorder that could confound assessment of target-knee pain
+* Prior target-knee replacement, planned target-knee replacement, or planned elective knee surgery during the study.
+* Recent use of weight-loss medication, any glucose-lowering therapy, or other protocol-prohibited treatment.
+* Prior participation in a berobenatide clinical trial with receipt of active treatment or placebo.
+* Hypersensitivity to a drug with glucagon-like peptide-1 receptor activity, including berobenatide, or any excipient.
+"""
+Exclusion criteria:
+"""
+* Self-reported body weight increase or decrease greater than 5% within 90 days before Screening.
+* For participants with T2D at Screening only:
+
+  • Diabetic maculopathy, proliferative diabetic retinopathy, or severe non-proliferative diabetic retinopathy requiring immediate intervention
+* Known clinically significant gastric-emptying abnormality, history of acute or chronic pancreatitis, or active symptomatic gallbladder disease.
+* Personal history or first-degree family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2.
+* Significant active or unstable psychiatric disorder.
+* Condition or knee disorder that could confound assessment of target-knee pain
+* Prior target-knee replacement, planned target-knee replacement, or planned elective knee surgery during the study.
+* Recent use of weight-loss medication, any glucose-lowering therapy, or other protocol-prohibited treatment.
+* Prior participation in a berobenatide clinical trial with receipt of active treatment or placebo.
+* Hypersensitivity to a drug with glucagon-like peptide-1 receptor activity, including berobenatide, or any excipient.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+

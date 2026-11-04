@@ -1283,18 +1283,6 @@ Link: https://clinicaltrials.gov/study/NCT07249008
 
 SUMMARY:
 
-## NCT07249112
-DEFINIZIONE DEL PANORAMA GENOMICO DELLA MASLD (DEFINING THE GENOMIC LANDSCAPE OF METABOLIC STEATOTIC LIVER DISEASE)
-
-Intervention: : genetic and somatic variants involved in its progression toward advanced fibrosis and hepatocellular carcinoma — The focusing is the attention on the genetic and somatic variants involved in its progression toward advanced fibrosis and hepatocellular carcinoma. Through Whole-Genome Sequencing WGS of 800 patients with advanced MASLD, 80 liver tissue samples, and 2000 controls, the study aims to:
-
-* Identify rare and structural genetic variants associated with the disease
-* Analyze the role of clonal hematopoiesis of indeterminate potential CHIP in MASLD progression.
-* Develop polygenic risk scores to improve risk stratification.
-Link: https://clinicaltrials.gov/study/NCT07249112
-
-SUMMARY:
-
 ## NCT07249398
 Examining Influence of Social Media Ads on Black and White Adolescents' Food Choices: Master ClinicalTrials.Gov Protocol for Aim 1 (NCT05380505), Aim 2 (NCT06969638) and Aim 3 (NCT06969651).
 
@@ -1410,14 +1398,6 @@ Examining the Effect of Action Observation Training Using Patient-Specific 3D Re
 Intervention: : Patient-Specific VR Action Observation Training — Participants will receive immersive VR action observation training using their own 3D motion recordings captured with an Insta360 camera (Arashi Vision Inc., Shenzhen, China). In Parkinson's patients, only the initial movement sequences without bradykinetic slowing will be selected, and these will be extended to the desired duration using loop playback or ping-pong loop playback in the device's proprietary software. The action observation protocol will consist of the following one-minute tasks: (1) total finger abduction and adduction, (2) fist making and opening, (3) wrist flexion and extension, (4) forearm pronation and supination, and (5) rhythmic striking of the dorsal and palmar surfaces of one hand against the palm of the other. A 1-minute rest will be given between each video. Training will be provided in addition to conventional therapy (35 minutes, 3 days per week for 6 weeks) tailored to individual needs.
 : Healthy-Model VR Action Observation Training — Participants will receive immersive VR action observation training using 3D video recordings of the same activities performed by healthy individuals, captured with an Insta360 camera (Arashi Vision Inc., Shenzhen, China). Recordings will not require editing or adjustments. The action observation protocol will consist of the same one-minute tasks: (1) total finger abduction and adduction, (2) fist making and opening, (3) wrist flexion and extension, (4) forearm pronation and supination, and (5) rhythmic striking of the dorsal and palmar surfaces of one hand against the palm of the other. A 1-minute rest will be given between each video. Training will be provided in addition to conventional therapy (35 minutes, 3 days per week for 6 weeks) tailored to individual needs.
 Link: https://clinicaltrials.gov/study/NCT07250672
-
-SUMMARY:
-
-## NCT07250724
-A Prospective, Observational Study to Evaluate C. Difficile Toxin Levels in Stool in Healthy Individuals Following Standard of Care Antibiotic Treatment for CDI.
-
-Intervention: : Participants that are undergoing standard of care antibiotic treatment for their second C. Diff infection will be followed for 8 weeks after completing antibiotic treatment. — Participants that are undergoing standard of care antibiotic treatment for their second C. Diff infection will be followed for 8 weeks after completing antibiotic treatment.
-Link: https://clinicaltrials.gov/study/NCT07250724
 
 SUMMARY:
 
@@ -4884,15 +4864,6 @@ Impact of Semaglutide Withdrawal on Cardiometabolic Profile and Physiology of En
 Intervention: : Gradual dose reduction of semaglutide — Pparticipants will reduce semaglutide dosage by 25% every 4-weeks until complete treatment cessation at week 16
 : Abrupt cessation of semaglutide — Cessation of semaglutide at 16-weeks
 Link: https://clinicaltrials.gov/study/NCT07294950
-
-SUMMARY:
-
-## NCT07295223
-GLP-1 and Antidiabetic SGLT2 Agents for Myocardial Infarction and Ultrasensitive Inflammatory Surveillance: An Open-Label Pilot Study
-
-Intervention: : Dapagliflozin 10 MG Oral Tablet — 10 mg dapagliflozin daily for 24 weeks
-: Semaglutide (Rybelsus®) — Semaglutide 3 mg, gradually increasing to 14 mg every 24 hours over 24 weeks.
-Link: https://clinicaltrials.gov/study/NCT07295223
 
 SUMMARY:
 
@@ -11032,20 +11003,6 @@ Link: https://clinicaltrials.gov/study/NCT07386444
 
 SUMMARY:
 
-## NCT07386600
-Perineural Dexamethasone Versus Perineural Dexmedetomidine as Adjuvants to Ropivacaine in iPACK and Adductor Canal Blocks for Total Knee Arthroplasty: A Randomized, Double-Blind, Controlled Trial
-
-Intervention: : Ropivacaine 0.2% Injectable Solution — Ultrasound-guided iPACK block and adductor canal block are performed using ropivacaine 0.2% in a standardized volume per block (20 mL for iPACK and 20 mL for ACB; adjust according to protocol). No adjuvant is added to the local anesthetic solution.
-: Dexamethasone 4mg — Ultrasound-guided iPACK block and adductor canal block are performed using ropivacaine 0.2% in a standardized volume per block (20 mL + 20 mL).
-
-Preservative-free dexamethasone is added to the local anesthetic solution at a dose of (2 x 2 mg).
-: Dexmedetomidine — Ultrasound-guided iPACK block and adductor canal block are performed using ropivacaine 0.2% in a standardized volume per block (20 mL + 20 mL).
-
-Dexmedetomidine is added to the local anesthetic solution at a dose of 25ug, distributed between both blocks according to the study protocol
-Link: https://clinicaltrials.gov/study/NCT07386600
-
-SUMMARY:
-
 ## NCT07387068
 First-in-human, Open-label, Phase 1 Trial to Evaluate the Safety and Preliminary Efficacy of GEN1079 in Participants With Select Advanced Malignant Solid Tumors
 
@@ -13157,14 +13114,6 @@ Intervention: : PVT401 — Parvus pMHC nanomedicines are being developed for the
 PVT401 will be administered intravenously to healthy volunteers, first as a single dose and then as a multiple dose treatment regimen.
 : Normal Saline (0.9% NaCl) — All cohorts will be administered either PVT401 or placebo in a ratio of 2:1 PVT401:placebo. Participants receiving placebo will be administered an equivalent volume of normal saline as either a single IV dose or as a multiple dose treatment regimen.
 Link: https://clinicaltrials.gov/study/NCT07423000
-
-SUMMARY:
-
-## NCT07423065
-The Impact of Continuous Glucose Monitoring on Behavioral Change, Glucose Variability and Weight Loss in Individuals With Prediabetes and Obesity - a Randomized Crossover Study
-
-Intervention: : Continuous Glucose Monitoring (CGM) — Use of a continuous glucose monitoring system to measure interstitial glucose levels. During the open CGM phase, participants have real-time access to glucose data; during the blinded CGM phase, glucose data are masked from participants.
-Link: https://clinicaltrials.gov/study/NCT07423065
 
 SUMMARY:
 

@@ -3338,14 +3338,6 @@ Link: https://clinicaltrials.gov/study/NCT06531681
 
 SUMMARY:
 
-## NCT06531928
-The Effect of Chest Tube Withdrawal on Patients' Anxiety Levels After Video-Assisted Thoracoscopic Surgery
-
-Intervention: : chest tube withdrawal — The Effect of Chest Tube Withdrawal on Patients' Anxiety Levels in Thoracic Surgery Cases Performed with Video-Assisted Thoracoscopic Surgery
-Link: https://clinicaltrials.gov/study/NCT06531928
-
-SUMMARY:
-
 ## NCT06532084
 Randomized Trial of Sorafenib Prophylaxis After Allogeneic Hematopoietic Stem Cell Transplantation With Post-transplantation Bendamustine and Cyclophosphamide
 
@@ -15834,14 +15826,6 @@ Intervention: : direct IV injection — direct IV injection at dosage of 2 mg/kg
 Link: https://clinicaltrials.gov/study/NCT06733129
 
 SUMMARY: Rapid sequence induction is used to quickly put patients to sleep and secure the airway during emergency surgery. This study compares three ways of giving anesthetic drugs to see which works best.
-
-## NCT06733610
-A Clinical Study Evaluating the Safety and Preliminary Efficacy of Universal Allogeneic CAR T-cell Therapy Targeting CD19 and BCMA in Patients with Autoimmune Hemolytic Anemia Have Failed ≥ 3 Lines of Therapy
-
-Intervention: : universal allogeneic anti-CD19/BCMA CAR T-cells — A single injection of UCAR T-cells, referred to as universal allogeneic anti-CD19/BCMA CAR T-cells.
-Link: https://clinicaltrials.gov/study/NCT06733610
-
-SUMMARY: Autoimmune hemolytic anemia, where the immune system destroys red blood cells, can resist many treatments. This study tests off the shelf CAR T cells targeting CD19 and BCMA to remove the cells that make harmful antibodies.
 
 ## NCT06733636
 SPLENDOR-OA; Scents of Progress: Leveraging a Novel Device for Olfactory Training in Older Adults

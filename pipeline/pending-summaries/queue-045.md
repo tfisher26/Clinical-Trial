@@ -5352,15 +5352,6 @@ Link: https://clinicaltrials.gov/study/NCT06213272
 
 SUMMARY: Aphasia can make reading hard. This study tests combining aerobic exercise with phono motor treatment to improve reading.
 
-## NCT06213324
-Neural Circuit-Specific Mechanisms of Ketamine's Effect on Anhedonia and Anxiety in Depression Using Ultra-High Field 7-Tesla MRI
-
-Intervention: : Ketamine — 0.5 mg/kg ketamine dissolved in 100 mL saline, delivered intravenously
-: Placebo — Normal saline delivered intravenously
-Link: https://clinicaltrials.gov/study/NCT06213324
-
-SUMMARY:
-
 ## NCT06213636
 T-cell Infusion Targeting CD19 and CD22 for Refractory/Relapsed Leukemia/Lymphoma Patients With or Without Central Nervous System Involvement
 
@@ -5617,14 +5608,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT06219083
 
 SUMMARY:
-
-## NCT06219239
-Evaluation of the Safety and Efficacy of KL003 Gene Therapy in Patients With Transfusion-dependent β-thalassemia With No Conditioning Regimen
-
-Intervention: : KL003 cell injection Drug Product — No conditioning regimen for transfusion of auto-HSC transduced with lentiviral vector encoding βA-T87Q-globin gene
-Link: https://clinicaltrials.gov/study/NCT06219239
-
-SUMMARY: Transfusion dependent beta thalassemia requires lifelong transfusions. This study tests KL003 gene therapy given without a conditioning regimen.
 
 ## NCT06219252
 Intraoperative Aberrometry vs Conventional Introcular Lens Calculation ( Barrett Universal II / Barrett True K ), Refractive and Visual Outcomes, a Prospective Study.
@@ -7813,14 +7796,6 @@ Intervention: : Standardized Fortification — Fortification with liquid, bovine
 Link: https://clinicaltrials.gov/study/NCT06266455
 
 SUMMARY: Very preterm infants often grow poorly after birth. This study tests individualized nutrition to improve growth and development compared with standard nutrition.
-
-## NCT06266663
-Social Determinants of Health, Medication Use, and Quality of Life in Inflammatory Bowel Disease
-
-Intervention: : Survey — A cross-sectional survey of 400 IBD patients who will be actively recruited from the gastroenterology (GI) specialty clinics at Einstein-Montefiore Medical Center and Icahn School of Medicine at Mount Sinai Hospital. The survey will consist of validated screening measures on social domains known to affect health outcomes as well as measures of medication adherence and HRQoL.
-Link: https://clinicaltrials.gov/study/NCT06266663
-
-SUMMARY:
 
 ## NCT06266715
 A Double-blind Randomized Controlled Trial of Adenosine Disodium Triphosphate in Improving Moderate to Severe Depressions
@@ -10193,14 +10168,6 @@ Breast Cancer Subtype Characterization Through Patient's Derived Organoids". (BC
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06315868
-
-SUMMARY:
-
-## NCT06316245
-Evaluation of Days Alive and Out of Hospital at 30 Days in Patients With Poor or Good Functional Capacity Undergoing Gastrointestinal Surgery
-
-Intervention: : DASI questionnaire — All patients will answer the DASI questionnaire before surgery. According to their scores, they will be divided into two groups. A score of 34 and below will be considered poor, and above 34 will be considered to have good functional capacity.
-Link: https://clinicaltrials.gov/study/NCT06316245
 
 SUMMARY:
 
@@ -16407,14 +16374,6 @@ Intervention: : washed microbiota transplantation — The prepared microbiota su
 Link: https://clinicaltrials.gov/study/NCT06447220
 
 SUMMARY: Malnutrition can be worsened by an unhealthy balance of gut bacteria. This study tests a transplant of washed gut bacteria from healthy donors to see whether it improves nutrition in malnourished patients.
-
-## NCT06447337
-Examination of a Telemedicine System for Continuous Monitoring of Body Temperature in Adults - a Pilot Study
-
-Intervention: : Continous body temperature monitoring — The investigational product will be placed on the participants' body in axilar joint and connected to the mobile phone. The values of the current temperature will apear on the monitor and it will be recorded in the database with date and time for each record. In parallel, study staff will occasionally measure the temperature using standard hospital thermometer.
-Link: https://clinicaltrials.gov/study/NCT06447337
-
-SUMMARY:
 
 ## NCT06447714
 A Prospective Cohort Study on the Correlation Between Patient Cotinine Levels and Intracranial Unruptured Aneurysm Wall Enhancement Based on High-resolution Magnetic Resonance Imaging

@@ -2697,15 +2697,6 @@ Link: https://clinicaltrials.gov/study/NCT06791941
 SUMMARY:
 
 
-## NCT05097885
-Pilot Investigation on the Health Benefits of Sub Acute (12 Week) Whole-body Vibration Training
-
-Intervention: : Sub Acute Whole Body Vibration Training — Participants will be given a personal vibration plate to take home with them for training which will last for 12 weeks. For the first four weeks, participants will be asked to complete 10 minutes of WBV per day (1 minute on and up to 1 minute of rest), at least 3-4 days per week. At least 24 hours will be recommended in between sessions during weeks 1-4. Beginning at week 5, participants will be asked to increase WBV time to up to 14 minutes and/or reduce the duration of rest. Beginning at week 9, participants will be asked to increase WBV time to up to 20 minutes and/or reduce the duration of rest.
-Link: https://clinicaltrials.gov/study/NCT05097885
-
-SUMMARY:
-
-
 ## NCT06594601
 PEEP Titration and Lung Recruitment Potential Assessment by 3D EIT in ARDS Patients
 
@@ -2926,16 +2917,6 @@ Stimulation Modeling and Adaptive Response Tracking in Pediatric Gastrointestina
 
 Intervention: : SNM/MRI/EMG — Participants are receiving clinical baseline evaluation, preoperative sacral and functional MRI, reconstruction of digital twin, surgical implantation of sacral neuromodulation including intraoperative testing, postoperative sacral and functional MRI, and clinical follow-up
 Link: https://clinicaltrials.gov/study/NCT07519915
-
-SUMMARY:
-
-
-## NCT04528303
-A Randomized, Controlled Trial of the Effectiveness of Whole Genome Sequencing Versus Whole Exome Sequencing for Screening Patients With Congenital Diarrhea and Enteropathy (CODESeq)
-
-Intervention: : Whole genome sequencing — Genomic sequencing and molecular diagnostic results
-: Whole exome sequencing — Genomic sequencing and molecular diagnostic results
-Link: https://clinicaltrials.gov/study/NCT04528303
 
 SUMMARY:
 

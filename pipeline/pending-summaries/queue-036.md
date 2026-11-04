@@ -969,15 +969,6 @@ Link: https://clinicaltrials.gov/study/NCT07366619
 SUMMARY:
 
 
-## NCT06824285
-Investigating Brain Connectivity and Complexity as Biomarkers of Healthy Aging and Brain Rejuvenation by Stem Cell-derived Exosomes
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06824285
-
-SUMMARY:
-
-
 ## NCT06435806
 Advancing Medical Illustration in Patient Education Materials: From Art to Science. Study 1: Medical Illustration Design Characteristic Evaluation
 

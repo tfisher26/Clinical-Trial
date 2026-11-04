@@ -103131,3 +103131,47 @@ Inclusion criteria alternative etiology myocarditis.
 
 RELATIONSHIP:
 
+## NCT02735707
+Randomized, Embedded, Multifactorial Adaptive Platform Trial for Community- Acquired Pneumonia
+Conditions: infectious/covid_19, infectious/influenza_human, respiratory/community_acquired_pneumonia, respiratory/covid_19, respiratory/respiratory_tract_diseases
+
+Inclusion criteria:
+"""
+are met
+* None of the Platform exclusion criteria are met
+* Domain-specific eligibility criteria are met
+* The patient is eligible for at least two interventions within a domain
+
+As such, the key "inclusion criteria" for being eligible for a domain are that the patient is eligible for the Platform.
+
+\--
+
+PLATFORM INCLUSION CRITERIA:
+
+1. Hospitalised patient
+2. Acute respiratory tract infection
+3. Aged 28 days or older
+
+PLATFORM
+"""
+
+RELATIONSHIP:
+
+## NCT05591196
+Hand and Arm Motor Recovery Via Non-invasive Electrical Spinal Cord Stimulation After Stroke
+Conditions: neurological/hemorrhagic_stroke, neurological/ischemic_stroke
+
+Inclusion criteria:
+"""
+* Radiologically documented single ischemic stroke resulted in hemiplegia/hemiparesis
+* At least six months post-stroke
+* Upper Extremity Fugl-Meyer Assessment score "moderate" or "moderate-mild" (29-53 inclusive out of 66) at the screening visit
+* Medically and neurologically stable, as determined by medical history and documented physical examination
+* For women of childbearing potential, a negative over-the-counter pregnancy test at study entry and willingness to practice adequate contraception during the study
+* Ability to attend sessions three times per week
+* Adequate social support to participate in all intervention and baseline, follow-up assessment sessions throughout eight months.
+* Ability to read, comprehend and speak English
+"""
+
+RELATIONSHIP:
+

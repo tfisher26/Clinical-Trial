@@ -117,16 +117,6 @@ Link: https://clinicaltrials.gov/study/NCT06546137
 SUMMARY:
 
 
-## NCT07358936
-THE EFFECTS OF CORRECTIVE EXERCISE AND KİNESİOTAPE APPLICATIONS ON PERFORMANCE AND FUNCTIONAL MOBILITY IN YOUNG BASKETBALL PLAYERS
-
-Intervention: : Kinesiotape — This is a drug-free elastic band application applied to the muscle to reduce pain, increase circulation, provide muscle support, and improve joint stability.
-: Corrective Exercise — These exercises are given to correct disrupted movement patterns and improve posture.
-Link: https://clinicaltrials.gov/study/NCT07358936
-
-SUMMARY:
-
-
 ## NCT04612296
 A Longitudinal Observational Study of Self-reported Cardiomyopathy in the Heart Hive
 
