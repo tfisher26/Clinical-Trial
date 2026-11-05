@@ -11019,14 +11019,6 @@ Link: https://clinicaltrials.gov/study/NCT06915584
 
 SUMMARY:
 
-## NCT06915805
-BABY@NET: A Technology-based National Surveillance Network for the Early Identification of Autism Spectrum Disorder and Other Neurodevelopmental Disorders in At-risk Populations
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06915805
-
-SUMMARY:
-
 ## NCT06915961
 Serum Human Epididymis Protein 4 and Pulmonary Function Before and After Structural Quality Improvement Protocol Among Cystic Fibrosis Patients
 

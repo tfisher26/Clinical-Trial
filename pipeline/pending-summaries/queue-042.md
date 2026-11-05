@@ -3677,14 +3677,6 @@ Link: https://clinicaltrials.gov/study/NCT04833465
 
 SUMMARY:
 
-## NCT05306912
-Molecular Analysis of Endoscopic Cytology Samples Supernatant in Pulmonary Nodules (Cancer Or Benign Endoscopy) (KOBE)
-
-Intervention: : Blood samples — Patients will be taken from an additional blood sample (2 tubes of 7.5 mL of blood = 15 mL) during the preoperative check-up on the day of the ultrasound-bronchoscopy in order to compare the sensitivity of the analysis of free circulating DNA present in the supernatant of pulmonary nodules less than 20 mm samples taken under ultrasound-bronchoscopy to that present in the plasma.
-Link: https://clinicaltrials.gov/study/NCT05306912
-
-SUMMARY:
-
 ## NCT07238608
 UPRISE Unravelling Ultrafine Particulate Matter and Micro Nano Plastic's Mechanisms of Impact on Fetal Health
 
@@ -5734,15 +5726,6 @@ Link: https://clinicaltrials.gov/study/NCT06071078
 
 SUMMARY:
 
-## NCT07626515
-A Phase I, Randomized, Double-Blinded, Placebo-Controlled, Study to Investigate the Safety, Tolerability, and Pharmacokinetics of Enicepatide in Adult Chinese Participants With Body Mass Index ≥23.0 kg/m2
-
-Intervention: : Enicepatide — Participants will receive enicepatide via subcutaneous (SC) injection as per the schedule in the protocol.
-: Placebo — Participants will receive matching placebo via subcutaneous (SC) injection as per the schedule in the protocol.
-Link: https://clinicaltrials.gov/study/NCT07626515
-
-SUMMARY:
-
 ## NCT06121011
 A Global Prospective Observational Registry of Patients With Pompe Disease
 
@@ -6516,14 +6499,6 @@ Study of Molecular Characterisation of Early Operable Primary Breast Cancer in P
 
 Intervention: : Molecular characterisation — All patients treated by surgery were included without any neoadjuvant therapy
 Link: https://clinicaltrials.gov/study/NCT06830590
-
-SUMMARY:
-
-## NCT05220709
-Bio Impedance Monitoring as a Tool to Assess Fluid Status in the Pediatric Surgical Patient: Can we Measure a Fluid Shift
-
-Intervention: : bio impedance spectroscopy by means of the Body Composition Monitor (Name of the device is BCM from Fresenius Medical Care D GmbH) — The Body Composition Monitor provides information about the hydration status by a bioimpedance spectroscopy measurement of the body composition from which the level of overhydration can be derived. Four electrodes are used per measurement. All subjects get electrodes attached, following the wrist-ankle approach, in a tetrapolar arrangement. Two electrodes are placed on the hand: one on the wrist, and the second on the dorsal side of the metacarpalia, close to the phalanges. The other two electrodes are placed on the foot: one on the ankle, and the second on the dorsal side of the metatarsals, close to the phalanges of the toes. Age, gender, height, weight and blood pressure are registered in the device before starting the measurement. If the quality calculated by BCM is \< 60%, the measurement will be repeated again. Measurements are taken under supervision of a trained technician or nurse.
-Link: https://clinicaltrials.gov/study/NCT05220709
 
 SUMMARY:
 

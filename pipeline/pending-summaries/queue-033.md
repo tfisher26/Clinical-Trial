@@ -5023,16 +5023,6 @@ Link: https://clinicaltrials.gov/study/NCT05625191
 SUMMARY:
 
 
-## NCT07762118
-A Study of Transcranial Electrical Stimulation (tES) Paired With Structured Learning Protocols for Accelerated Skill Acquisition: Sub-Protocol A (Adult Language Learning)
-
-Intervention: : Active transcranial electrical stimulation (tES) — Non-invasive transcranial electrical stimulation delivered by a scalp-mounted headset within the LOTES-2023 limited-output envelope, paired with structured language-learning content. Adult declared range 0 to 4 mA average absolute current, maximum current density 2 mA/cm2 at the electrode contact area, and maximum session duration 60 minutes subject to a 6000 mC per-session total charge limit. Electrodes are placed in standard cephalic or extracephalic montages targeting the left perisylvian region and adjacent association cortex.
-: Sham transcranial electrical stimulation (tES) — Sham stimulation delivered by the same scalp-mounted headset, providing the initial cutaneous sensory experience of stimulation onset without sustained current delivery, paired with the same structured language-learning content. The specific validated sham approach is selected per cohort and documented in the corresponding cohort plan.
-Link: https://clinicaltrials.gov/study/NCT07762118
-
-SUMMARY:
-
-
 ## NCT06745466
 Disentangling the Effects of Daily Stress, Sleep, and Sex Hormones on Accelerated Vascular Aging in Midlife Women
 

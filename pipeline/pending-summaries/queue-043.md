@@ -1577,22 +1577,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04529889
-Gestational Diabetes Mellitus and Its Consequences in Mothers and Offsprings
-
-Intervention: : 
-Link: https://clinicaltrials.gov/study/NCT04529889
-
-SUMMARY:
-
-## NCT04529967
-Child-Parent Screening of Familial Hypercholesterolemia in Children
-
-Intervention: : no interventions — it is a observational study, do not have interventions.
-Link: https://clinicaltrials.gov/study/NCT04529967
-
-SUMMARY:
-
 ## NCT04532047
 PEARL (PrEnAtal Enzyme Replacement Therapy for Lysosomal Storage Disorders)
 
@@ -2895,17 +2879,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT04660487
 
 SUMMARY:
-
-## NCT04660760
-Ramucirumab Plus Trifluridine/Tipiracil (TAS-102) for Patients With Previously Treated Advanced Gastric or Gastroesophageal Junction Adenocarcinoma: An Investigator-Initiated, Randomized Non-Inferiority Phase 2 Study
-
-Intervention: : Paclitaxel — Given IV
-: Quality-of-Life Assessment — Complete questionnaires
-: Ramucirumab — Given IV
-: Trifluridine and Tipiracil Hydrochloride — Given PO
-Link: https://clinicaltrials.gov/study/NCT04660760
-
-SUMMARY: Advanced stomach or gastroesophageal junction cancer that has already been treated has limited options. This study tests an IV antibody drug combined with a chemotherapy pill called TAS-102.
 
 ## NCT04661215
 Pyloric Sphincter Abnormalities in Patients With Gastroparesis Symptoms
@@ -10654,14 +10627,6 @@ Link: https://clinicaltrials.gov/study/NCT05219799
 
 SUMMARY:
 
-## NCT05220709
-Bio Impedance Monitoring as a Tool to Assess Fluid Status in the Pediatric Surgical Patient: Can we Measure a Fluid Shift
-
-Intervention: : bio impedance spectroscopy by means of the Body Composition Monitor (Name of the device is BCM from Fresenius Medical Care D GmbH) — The Body Composition Monitor provides information about the hydration status by a bioimpedance spectroscopy measurement of the body composition from which the level of overhydration can be derived. Four electrodes are used per measurement. All subjects get electrodes attached, following the wrist-ankle approach, in a tetrapolar arrangement. Two electrodes are placed on the hand: one on the wrist, and the second on the dorsal side of the metacarpalia, close to the phalanges. The other two electrodes are placed on the foot: one on the ankle, and the second on the dorsal side of the metatarsals, close to the phalanges of the toes. Age, gender, height, weight and blood pressure are registered in the device before starting the measurement. If the quality calculated by BCM is \< 60%, the measurement will be repeated again. Measurements are taken under supervision of a trained technician or nurse.
-Link: https://clinicaltrials.gov/study/NCT05220709
-
-SUMMARY:
-
 ## NCT05221372
 proSpecTive sAmpling in dRiver muTation Pulmonary Oncology Patients on Tyrosine Kinase Inhibitors
 
@@ -12177,14 +12142,6 @@ Pragmatic Evaluation of a Quality Improvement Program for People Living With Mod
 
 Intervention: : CONQUEST Quality Improvement Program — CONQUEST supports primary healthcare professionals to diagnose, assess, and optimize the management of their patients with modifiable high-risk COPD, through the promotion of guideline-based care. CONQUEST will promote management according to four "Quality Standards" for the care of modifiable high-risk COPD patients. The Quality Standards can be summarized as the timely and appropriate: Identification of high-risk patient groups for assessment; Assessment of disease and quantification of future risk; Non-pharmacological and pharmacological intervention; Follow-up. CONQUEST program will promote adherence to these standards through the use of electronic medical record -based algorithms for the identification of high-risk patients and clinical decision support resources. All decisions regarding patient management are made entirely at the discretion of the clinicians and patients who together negotiate the preferred course of action during consultations.
 Link: https://clinicaltrials.gov/study/NCT05306743
-
-SUMMARY:
-
-## NCT05306912
-Molecular Analysis of Endoscopic Cytology Samples Supernatant in Pulmonary Nodules (Cancer Or Benign Endoscopy) (KOBE)
-
-Intervention: : Blood samples — Patients will be taken from an additional blood sample (2 tubes of 7.5 mL of blood = 15 mL) during the preoperative check-up on the day of the ultrasound-bronchoscopy in order to compare the sensitivity of the analysis of free circulating DNA present in the supernatant of pulmonary nodules less than 20 mm samples taken under ultrasound-bronchoscopy to that present in the plasma.
-Link: https://clinicaltrials.gov/study/NCT05306912
 
 SUMMARY:
 

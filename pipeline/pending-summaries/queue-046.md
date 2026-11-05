@@ -8050,15 +8050,6 @@ Link: https://clinicaltrials.gov/study/NCT06616610
 
 SUMMARY: Children with cerebral palsy often have trouble moving independently and using devices. This study tests a single button mobility platform to see whether it improves reaction time and accuracy when pressing keys.
 
-## NCT06616857
-Personalized Mobile Health Platform to Promote Physical Activity in Adolescents and Young Adults With Cystic Fibrosis
-
-Intervention: : NUDGE — Individuals in this condition will receive intervention content to promote physical activity.
-: Education — Individuals will receive educational materials about how to increase physical activity
-Link: https://clinicaltrials.gov/study/NCT06616857
-
-SUMMARY: Teens and young adults with cystic fibrosis often do not get enough exercise. This study tests NUDGE, a personalized mobile health platform, to see whether it increases physical activity.
-
 ## NCT06616896
 Precision Rehabilitation: Mechanisms and Efficacy of Vibration in Exercise Training for Degenerative Knee Osteoarthritis
 
@@ -10252,15 +10243,6 @@ Link: https://clinicaltrials.gov/study/NCT06651255
 
 SUMMARY:
 
-## NCT06651294
-Efficacy and Safety of Neorenal Forte as Adjuvant Treatment for the Complete Elimination of Residual Fragments After Flexible Ureterorenoscopy With Laser Lithotripsy for Renal Calculi.
-
-Intervention: : Neorenal Forte — This specialized formulation of phytotherapeutic extracts consists of proprietary Betula pendula leaves dry extract, Herniaria glabra, Viburnum opulus, Elymus (Agropiren) repens. The product contains supplementary ingredients: microcrystalline cellulose, povidone, magnesium stearate, colorant film (brilliant blue FCF, iron dioxide).
-: Placebo — The placebo product will be identical to the active form and will have the same composition but without the proprietary extract from Betula pendula, Herniaria glabra, Viburnum opulus, Elymus (Agropiren) repens.
-Link: https://clinicaltrials.gov/study/NCT06651294
-
-SUMMARY: Small stone fragments often remain after laser treatment of kidney stones. This study tests Neorenal Forte, a plant based supplement, to see whether it helps clear these leftover fragments.
-
 ## NCT06651333
 Functional Connectivity Mechanisms of Opioid Abstinence
 
@@ -11606,15 +11588,6 @@ Intervention: : Active Driver Training Intervention — simulated driver trainin
 Link: https://clinicaltrials.gov/study/NCT06672107
 
 SUMMARY: Stroke can affect the skills needed for safe driving. This study tests training on a driving simulator focused on specific driving skills to see whether it improves driving performance in veterans after stroke.
-
-## NCT06672237
-MAGNITUDE-2: A Phase 3, Multinational, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of NTLA-2001 in Participants With Hereditary Transthyretin Amyloidosis With Polyneuropathy (ATTRv-PN)
-
-Intervention: : nexiguran ziclumeran — nexiguran ziclumeran 55 mg by single IV infusion
-: Normal Saline as Placebo — Normal saline (0.9% NaCl) by single IV infusion
-Link: https://clinicaltrials.gov/study/NCT06672237
-
-SUMMARY: Hereditary transthyretin amyloidosis with nerve damage causes worsening numbness, weakness and pain. This study tests NTLA-2001, a one time gene editing treatment that switches off production of the faulty protein, against a placebo.
 
 ## NCT06672250
 The Correlation Between Circulatory Tumor Cells and Venous Thrombosis
@@ -16456,20 +16429,6 @@ Intervention: : Apixaban 2.5 MG PO BID — Patients randomized to the treatment 
 Link: https://clinicaltrials.gov/study/NCT06742567
 
 SUMMARY: After a large heart attack at the front of the heart, a blood clot can form inside the heart. This study tests low dose apixaban, a blood thinner, to see whether it prevents these clots.
-
-## NCT06742697
-Flexibility, Resistance, Aerobic, Movement Execution (FRAME) Training Program to Improve Gait Capacity in Adults With Hereditary Spastic Paraplegia: Protocol for a Single-cohort Feasibility Trial
-
-Intervention: : Flexibility, Resistance, Aerobic, Movement Execution training — Flexibility: static and dynamic stretching combined with sensory, high-frequency electrical stimulation to reduce spasticity and improve mobility.
-
-Resistance training: core stability and lower limb strength training in conditions of instability, to improve strength, coordination, and balance.
-
-Movement execution training: gait training according to motor learning principles.
-
-Aerobic exercise: in the form of high-intensity interval training at the end of each session, to improve cardiovascular status and foster motor learning consolidation (probably due to the release of brain derived neurothrophic factors).
-Link: https://clinicaltrials.gov/study/NCT06742697
-
-SUMMARY:
 
 ## NCT06742931
 Discontinuation of Antiplatelet Agent After Drug-Coated Balloon Angioplasty in Stabilized Patients With High Bleeding Risk and Coronary Artery Disease

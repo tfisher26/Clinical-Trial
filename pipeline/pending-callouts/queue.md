@@ -392871,3 +392871,380 @@ Exclusion criteria:
 CALLOUT_HEADING:
 CALLOUT_TEXT:
 
+## NCT06788522
+The Effects of Orexin Antagonism on Fear Extinction in PTSD
+Keyword hit(s): inpatient
+
+Inclusion criteria:
+"""
+* (same for Phase 1 and Phase 2):
+
+  * men and women
+  * a history of US military service
+  * capable of reading and understanding English
+  * able to provide written informed consent
+* Criterion A event meets DSM-5 criteria and occurred during military service, including combat and military sexual trauma
+* Chronic full PTSD diagnosis \>3 months duration as indexed by CAPS-5 at screening, and CAPS-5 score \> 30
+* Insomnia indicated by insomnia severity index (ISI) score \> 14
+* Subjects on non-exclusionary medications, and must be on a stable dose for at least 4 weeks prior to randomization, including Selective Serotonin Reuptake Inhibitors (SSRIs, e.g.,):
+
+  * sertraline
+  * paroxetine
+  * fluoxetine
+  * fluvoxamine
+  * citalopram
+  * escitalopram
+* Serotonin-norepinephrine reuptake inhibitors (SNRIs; e.g.):
+
+  * Desvenlafaxine
+  * Duloxetine
+  * Levomilnacipran
+  * Venlafaxine
+* For subjects who are in psychotherapy, treatment must be stable for 6 weeks
+* Women of child-bearing potential must not be pregnant or have plans for pregnancy or breastfeeding during the study and must use a medically acceptable method of birth control
+"""
+Exclusion criteria:
+"""
+* Moderate or severe DSM-5 alcohol or cannabis use disorder in the last 3 months
+
+  * Mild alcohol use disorder with abstinence of 30 days will be allowed
+  * Mild marijuana use disorder will be allowed with abstinence for one week prior to participation
+  * Any other DSM-5 drug use disorder in the last 3 months will be excluded
+* Lifetime bipolar disorder I or II, schizophrenia, schizoaffective disorder, obsessive-compulsive disorder, or major depressive disorder with psychotic features
+* Exposure to trauma in the last 3 months
+* Use of exclusionary antidepressant (trazodone, mirtazapine, doxepin, tricyclics), mood stabilizers (e.g., lithium), antipsychotic medication
+* Prominent suicidal or homicidal ideation or any suicidal behavior in the past 3 months on the Columbia Suicide Severity Rating Scale (C-SSRS) or increased risk of suicide that necessitates additional therapy or inpatient treatment
+* Pre-existing moderate sleep apnea or positive screen for sleep apnea by type III device (AHI\>15) in the absence of adherence to effective treatment (such as CPAP or oral device)
+* Night shift work or extreme morning or evening tendencies in order to avoid the impact of circadian factors on subjective and objective sleep measures
+* Neurologic disorder or systemic illness affecting CNS function
+* Chronic or unstable medical illness, including:
+
+  * unstable angina
+  * myocardial infarction within the past 6 months
+  * congestive heart failure
+  * preexisting hypotension or orthostatic hypotension
+  * heart block or arrhythmia
+  * chronic renal or hepatic failure
+  * pancreatitis
+  * severe chronic obstructive pulmonary disease
+* History of severe traumatic brain injury as assessed by the Ohio State University Traumatic Brain Injury Identification Method (OSU-TBI ID)
+* Uncorrected hearing impairment
+* Mild cognitive impairment assessed by the Montreal Cognitive Assessment (MOCA)
+* Pregnancy, breastfeeding and/or refusal to use effective birth control (for women)
+* Previous adverse reaction to a hypnotic
+* Current use of benzodiazepines, strong inhibitors of CYP3A, or Digoxin
+
+  * The investigators will require that all participants do not consume heavy amounts of alcohol per week (\>7 drinks for women, \>14 drinks for men) or use illicit drugs for one week prior to participation
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT06816524
+The Effects of Iron Treatment on Malaria, Typhoid and Measles Vaccine Response in Kenyan Infants With Iron Deficiency: A Randomized Controlled Trial
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Subject's caregiver is willing and able to give informed consent
+* Male or Female, 6 months (+/- 2 weeks) of age
+* Mother ≥15 years of age
+* Iron deficient (erythrocyte zinc protoporphyrin (ZnPP) \>61 μmol/mol heme) or anemic (hemoglobin (Hb) \<105 g/L)
+"""
+Exclusion criteria:
+"""
+* Severely anemic (Hb \<70 g/L)
+* Hemoglobinopathies HbCC, HbSC, or HbSS
+* Malaria, Measles or Typhoid vaccination prior to enrollment
+* Medical condition that precludes study involvement
+* Iron supplementation 2 weeks before enrollment
+* Acute or chronic infection (e.g. HIV)
+* Wasted (length for height z score of ≥-2) or underweight (weight for age z score ≥-2).
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07313540
+Feasibility of A Smartphone Application Intervention in Community Settings: A Pretest-Posttest Pilot Study
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+1. Individuals aged 50+ who has a primary source of assistance (no age limitation for the caregiver)
+2. Both care recipient and caregiver can participate in the study for six weeks in total,
+3. Both care recipient and caregiver can read, listen, write, and speak English
+4. Both care recipient and caregiver have a personal smartphone.
+"""
+Exclusion criteria:
+"""
+1. People who are diagnosed with any middle to severe cognitive symptoms (dementia or Alzheimer's Disease) or any psychiatric disease (depression, bipolar, PTSD, Schizophrenia, anxiety disorders, eating disorders)
+2. People who are at hospice care
+3. People who plan to move out of the current area in one year, and (4) people younger than 50 (but no age limitation for caregivers)
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07685912
+Enhancing Caregiver Wellbeing: The Role of Exercise, Nutrition, and Stress Management for Caregivers of Patients With Advanced Cardiac and Pulmonary Disease
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+(CAREGIVERS):
+
+* Informal (unpaid) caregivers aged 18 years or older
+* Identified as the primary caregiver of a patient with advanced cardiac or pulmonary disease receiving outpatient palliative care at Toronto General Hospital
+* Ability to provide informed consent
+
+EXCLUSION CRITERIA (CAREGIVERS):
+
+* Presence of any medical condition where moderate physical activity or exercise training would be contraindicated (e.g., unstable cardiovascular disease, recent injury)
+* Significant cognitive impairment or language barrier that would interfere with completing study procedures
+* Lack of access to a phone or internet connection to enable virtual participation
+
+INCLUSION CRITERIA (Patients):
+
+* Aged 18 years or older
+* Diagnosis of advanced cardiac or pulmonary disease and currently receiving outpatient palliative care at Toronto General Hospital
+* Ability to provide informed consent
+
+EXCLUSION CRITERIA (Patients):
+
+* Significant cognitive impairment or language barrier that would interfere with completing study procedures
+* Medical instability that would preclude participation in an interview or completion of questionnaires, as determined by the clinical team
+* Lack of access to a phone or internet connection to enable virtual participation
+"""
+Exclusion criteria:
+"""
+(CAREGIVERS):
+
+* Presence of any medical condition where moderate physical activity or exercise training would be contraindicated (e.g., unstable cardiovascular disease, recent injury)
+* Significant cognitive impairment or language barrier that would interfere with completing study procedures
+* Lack of access to a phone or internet connection to enable virtual participation
+
+INCLUSION CRITERIA (Patients):
+
+* Aged 18 years or older
+* Diagnosis of advanced cardiac or pulmonary disease and currently receiving outpatient palliative care at Toronto General Hospital
+* Ability to provide informed consent
+
+EXCLUSION CRITERIA (Patients):
+
+* Significant cognitive impairment or language barrier that would interfere with completing study procedures
+* Medical instability that would preclude participation in an interview or completion of questionnaires, as determined by the clinical team
+* Lack of access to a phone or internet connection to enable virtual participation
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07747480
+A Phase 1b, Non-Randomized, Open-Label, Repeat-Dose, Single Center Study to Investigate the Safety and Tolerability of Aletekitug in Advanced Therapy Naïve Participants With Moderate to Severe Ulcerative Colitis
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Diagnosis of UC for greater than or equal (\>=) 3 months before screening. Appropriate documentation of endoscopy and biopsy results consistent with the diagnosis of UC must be available.
+* Active UC with a modified Mayo score (mMS) of 5 to 9 points and endoscopy sub score of 2 to 3 within 14 days before baseline biopsy collection.
+* Active disease beyond the rectum (greater than \[\>\]15 centimeter \[cm\] of active disease from the anal verge at the screening colonoscopy).
+* Documentation of a surveillance colonoscopy (performed according to local standard) within 12 months before screening (may be performed during screening) for participants with pancolitis of \>8 years duration or left-sided colitis of \>12 years duration, or primary sclerosing cholangitis
+* Demonstrated an inadequate response to, loss of response to, or intolerance to conventional therapy (e.g., oral 5- aminosalicyclic acid \[5-ASA\] compounds, corticosteroids, thiopurines).
+* May have been receiving a conventional therapy if the prescribed dose has been stable for the required time period before the screening endoscopy.
+* Must meet contraception requirements if a female participant is a woman of childbearing potential (WOCBP)
+"""
+Exclusion criteria:
+"""
+* Participants with current diagnosis of Crohn's disease (CD) or Inflammatory bowel disease-unclassified (IBD-U) or a history of radiation colitis, microscopic colitis or ischemic colitis. Have currently known complications of UC such as fulminant colitis, or toxic megacolon, stoma, or stricture/stenosis within the small bowel or colon.
+* Have prior history of dysplasia of the gastrointestinal tract or found to have dysplasia, other than completely removed low-grade dysplastic lesions, in any biopsy performed during the screening endoscopy.
+* Have a history of malignant neoplasm within the last 5 years.
+* Have history of lymphoproliferative disorder, including lymphoma, or signs and symptoms suggestive of possible lymphoproliferative disease
+* Have any active, chronic, or recurrent infections based on the investigator's assessment.
+* Have history of opportunistic infections within 1 year of screening
+* Have history or presence of significant medical illness including but not limited to cardiovascular, respiratory, gastrointestinal (excluding UC), hepatic, renal, endocrine, hematologic, neurological, and psychiatric disorders capable of significantly altering the absorption, metabolism, or elimination of drugs; constituting a risk when taking the study intervention or interfering with the interpretation of the data.
+* Have evidence of active or latent Tuberculosis (TB) as documented by medical history, examination, and TB testing at Screening:
+* Have significant allergies to humanized monoclonal antibodies.
+* Have clinically significant multiple or severe drug allergies, intolerance to topical corticosteroids, or severe post-treatment hypersensitivity reactions
+* Have had previous colectomy (total or subtotal), or any other manifestation that might require surgery while enrolled in the trial.
+* Have ostomy or ileoanal pouch.
+* Have received any of the following for treatments of UC:
+
+  * Immunomodulatory medications, including cyclosporine, tacrolimus, mycophenolate mofetil, thalidomide, within 4 weeks before screening endoscopy.
+  * Topical (rectal) treatment of 5-ASA or corticosteroid enemas/suppositories within 2 weeks of screening endoscopy.
+  * Have received approved or investigational advanced therapy (Ats) (i.e., biologics or small molecules including biosimilars).
+  * Interferon therapy within 8 weeks before screening endoscopy.
+  * Agents that deplete B- or T-cells (e.g., rituximab) within 12 months of baseline. Participants remain excluded if there is evidence of persistent targeted lymphocyte depletion at the time of screening endoscopy.
+* Had Clostridium difficile infection within 30 days of screening endoscopy or have a positive test result at screening, or other intestinal pathogen within 30 days before screening endoscopy.
+* Participant must not have signs of an ongoing infection related to an intestinal pathogen.
+* In the investigator's opinion, any clinically significant abnormalities of laboratory results from chemistry, hematology or urinalysis tests obtained at the screening visit that cannot be attributed to the underlying moderate-to-severe UC.
+* Pregnant or breastfeeding women, or women planning to become pregnant or breastfeed during the study.
+* Positive for hepatitis B or C, HIV (Human Immunodeficiency Virus), as assessed by method available at each site;
+* Uncontrolled hypertension (i.e., blood pressure consistently measures \>=140/90 millimeters of mercury (mmHg) while actively taking 1 or more antihypertensive medications).
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07750132
+A First-in-Human, Open-Label, Multicenter, Phase I Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, Immunogenicity, and Preliminary Antitumor Activity of SM2275 in Patients With Advanced Solid Tumors
+Keyword hit(s): washout, biopsy
+
+Inclusion criteria:
+"""
+* Male or female participants aged 18 years or older.
+* Able to understand the study requirements and voluntarily provide written informed consent before any study-specific procedures.
+* Histologically or cytologically confirmed advanced or metastatic EGFR-positive and PD-L1-positive solid tumor that has progressed following standard therapy, is intolerant to standard therapy, or for which no effective standard therapy is available, including but not limited to head and neck squamous cell carcinoma, non-small cell lung cancer, unresectable advanced colorectal cancer, and renal clear cell carcinoma.
+* Able to provide archived tumor tissue or other tumor samples as required by the protocol during the screening period.
+* At least one measurable lesion according to RECIST Version 1.1.
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.
+* Life expectancy of at least 12 weeks.
+* Adequate hematologic, hepatic, renal, cardiac, and other organ function as defined in the protocol.
+* Left ventricular ejection fraction (LVEF) greater than 50% as determined by echocardiography (ECHO) or multigated acquisition (MUGA) scan.
+* Female participants of childbearing potential must have a negative serum pregnancy test within 7 days before the first dose of study treatment.
+* Male participants and female participants of childbearing potential must agree to use highly effective contraception during the study and for at least 6 months after the last dose of study treatment.
+"""
+Exclusion criteria:
+"""
+* Insufficient washout period from prior anticancer therapy before the first dose of study treatment.
+* Prior anticancer immunotherapy permanently discontinued due to immune-related toxicity, history of Grade 3 or higher immune-related adverse events (irAEs), or history of Grade 2 or higher immune-related myocarditis considered by the investigator to make the participant unsuitable for study participation.
+* History of severe infusion-related reactions associated with prior EGFR-targeted therapy.
+* Receipt of antitumor vaccines or cellular immunotherapy within 3 months before the first dose of study treatment.
+* Presence of another active malignancy requiring treatment.
+* Adverse events from prior anticancer therapy that have not recovered to Grade 1 or baseline, except for alopecia, skin pigmentation of any grade, or Grade 2 or lower peripheral sensory neuropathy.
+* Active autoimmune disease requiring systemic immunosuppressive therapy.
+* Major surgery, open biopsy, or significant traumatic injury within 4 weeks before the first dose; planned major surgery during the study; or incomplete recovery from prior surgery.
+* Active central nervous system (CNS) tumors.
+* Symptomatic heart failure (New York Heart Association Class II or higher).
+* Uncontrolled hypertension (systolic blood pressure greater than 150 mmHg or diastolic blood pressure greater than 100 mmHg despite optimal medical therapy).
+* Fridericia-corrected QT interval (QTcF) greater than 470 milliseconds based on the average of triplicate screening electrocardiograms.
+* Acute coronary syndrome, acute myocardial infarction, unstable angina, percutaneous coronary intervention (PCI), or coronary artery bypass graft (CABG) surgery within 6 months before the first dose.
+* Cardiomyopathy of any etiology or clinically significant valvular heart disease.
+* Clinically significant arrhythmias requiring medical treatment (well-controlled atrial fibrillation is permitted).
+* Transient ischemic attack (TIA) or stroke within 6 months before screening.
+* Uncontrolled pleural effusion, pericardial effusion, or ascites requiring drainage at least once per month or ongoing clinical intervention.
+* Active infection requiring systemic antibacterial or antiviral therapy within 14 days before the first dose. Participants receiving stable antiviral therapy for hepatocellular carcinoma or controlled hepatitis B virus (HBV) or hepatitis C virus (HCV) infection are permitted.
+* Active or uncontrolled hepatitis B virus (HBV) or hepatitis C virus (HCV) infection. Participants with controlled HBV or HCV receiving stable antiviral therapy may be eligible.
+* Known human immunodeficiency virus (HIV) infection.
+* Receipt of systemic immunosuppressive medication within 14 days before the first dose, unless permitted by the protocol.
+* History of interstitial lung disease (ILD), pneumonitis, suspected ILD or pneumonitis that cannot be excluded by screening imaging, or severe chronic obstructive pulmonary disease (COPD).
+* History of severe hypersensitivity to monoclonal antibodies or history of anaphylaxis within 6 months before screening.
+* History of allogeneic organ transplantation or graft-versus-host disease (GvHD).
+* Receipt of a live vaccine within 4 weeks before the first dose.
+* Known substance abuse or psychiatric disorder that, in the opinion of the investigator, would interfere with study participation or protocol compliance.
+* Pregnant or breastfeeding women, or participants planning to conceive or father a child during the study and for at least 6 months after the last dose of study treatment.
+* Any medical condition, laboratory abnormality, or other clinical circumstance that, in the opinion of the investigator, would make the participant unsuitable for study participation or could interfere with the interpretation of study results.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07839156
+Beyond the Bottle: Investigating the Differential Biological Effects of Cow's Milk and Oat Milk on Toddler Development
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Children born to mothers 18 years and older while pregnant
+* Parents speak English and/or Spanish
+* At least one caregiver in the home must have at least an 8th-grade education level
+* Children still being breastfed into toddlerhood will be eligible to participate. Breastfeeding frequency and duration will be tracked in this case for statistical model adjustment.
+"""
+Exclusion criteria:
+"""
+* Children regularly taking probiotics and/or antibiotics (e.g., due to chronic ear infections)
+* Children with known allergies to cow's milk or oat products
+* Children introduced to fluid cow's or oat milk prior to 12 months of age however, yogurt and cheese made from cow's or oat milk will be acceptable and will be quantified for model adjustment during statistical analyses
+* Children born with growth, chromosomal, or genetic abnormality, developmental and cognitive impairments, or severe comorbidity that could impact growth and development
+* Children born with congenital abnormalities or developmental delays
+* Children born with birth weights \<2500 g or \>4000 g
+* Biological mothers must have no known substance use during the child's pregnancy (alcohol, tobacco, marijuana, or illegal drugs)
+* Biological mothers who experienced a high-risk pregnancy (e.g., preeclampsia, diabetes-Types 1 and 2 and gestational, HIV, etc.) that affected child growth
+* A family history of dairy or gluten (oats are sometimes contaminated with gluten) allergies will be evaluated to assess the child's risk. If either the child's mother or father is allergic to dairy and/or gluten, physician clearance for child participation will be needed
+* The toddler's biological parents have heritable diseases that could influence the findings (e.g., autism).
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07918222
+Sequential Treatment Approaches for Treatment-Resistant Schizophrenia (STATRS): A Randomized Controlled Trial of Pharmacological Optimization and Neuromodulation in Chinese Patients
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+General inclusion criteria applicable to all participants:
+
+* Aged 18 to 55 years at the time of informed consent.
+* Participants must meet DSM-5 diagnostic criteria for schizophrenia.
+* Meet TRRIP-based criteria for treatment-resistant schizophrenia, defined as inadequate response to at least two different antipsychotic treatment trials, each administered at an adequate dose equivalent to ≥600 mg/day chlorpromazine for a minimum duration of 6 weeks. Have moderate or greater functional impairment, operationalized as a Personal and Social Performance Scale (PSP) score ≤70. Treatment adherence will be evaluated based on available medical records, prescription history and caregiver report.
+
+Eligibility for the pharmacological optimization phase:
+
+• Participants eligible for the pharmacological optimization phase must meet the general TRS criteria above and must be clozapine-naive.
+
+Eligibility for the neuromodulation phase:
+
+* Participants eligible for the neuromodulation phase must meet the TRS criteria described above.
+* Participants may enter the neuromodulation phase through either of the following pathways:
+
+  1. Participants who have previously received clozapine treatment and are hospitalized due to symptom exacerbation or clinical worsening.
+  2. Clozapine-naive TRS participants who complete the pharmacological optimization phase and show inadequate response, defined as less than 25% reduction in PANSS total score at Week 8.
+"""
+Exclusion criteria:
+"""
+* Organic brain disease or neurological disorder that may account for psychotic symptoms, including epilepsy where clinically relevant.
+* Current psychoactive substance dependence or substance-related disorder.
+* Intellectual disability or Mental retardation.
+* Pregnancy, breastfeeding, or planning pregnancy during the study period.
+* Severe physical illness or medical contraindication to study medication, MECT, MST.
+* Extreme agitation, stupor, active suicidal risk, severe non-cooperation, or high-risk conditions.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07919678
+A PHASE 3, RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY TO ASSESS THE EFFICACY AND SAFETY OF ONCE-MONTHLY BEROBENATIDE IN ADULTS WITH KNEE OSTEOARTHRITIS AND OVERWEIGHT OR OBESITY (VESPER-OA 1)
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+* Adults 18 years of age or older, or the minimum age of consent according to local regulations.
+* Body mass index of at least 27 kg/m² at Screening.
+* Currently meets American College of Rheumatology (ACR) Criteria for knee OA.
+* Pain due to knee OA.
+* Knee radiograph consistent with knee osteoarthritis and Kellgren-Lawrence Grade 2 or 3.
+* Willingness to complete the required analgesic washout.
+* History of at least 1 self-reported unsuccessful dietary effort to lose body weight.
+
+Exclusion Criteria
+
+* Self-reported body weight increase or decrease greater than 5% within 90 days before Screening.
+* History of diabetes or Screening laboratory findings indicative of diabetes.
+* Known clinically significant gastric-emptying abnormality, history of acute or chronic pancreatitis, or active symptomatic gallbladder disease.
+* Personal history or first-degree family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2.
+* Significant active or unstable psychiatric disorder.
+* Condition or knee disorder that could confound assessment of target-knee pain.
+* Prior target-knee replacement, planned target-knee replacement, or planned elective knee surgery during the study.
+* Recent use of weight-loss medication, any glucose-lowering therapy, or other protocol-prohibited treatment.
+* Prior participation in a berobenatide clinical trial with receipt of active treatment or placebo.
+* Hypersensitivity to a drug with glucagon-like peptide-1 receptor activity, including berobenatide, or any excipient.
+"""
+Exclusion criteria:
+"""
+* Self-reported body weight increase or decrease greater than 5% within 90 days before Screening.
+* History of diabetes or Screening laboratory findings indicative of diabetes.
+* Known clinically significant gastric-emptying abnormality, history of acute or chronic pancreatitis, or active symptomatic gallbladder disease.
+* Personal history or first-degree family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2.
+* Significant active or unstable psychiatric disorder.
+* Condition or knee disorder that could confound assessment of target-knee pain.
+* Prior target-knee replacement, planned target-knee replacement, or planned elective knee surgery during the study.
+* Recent use of weight-loss medication, any glucose-lowering therapy, or other protocol-prohibited treatment.
+* Prior participation in a berobenatide clinical trial with receipt of active treatment or placebo.
+* Hypersensitivity to a drug with glucagon-like peptide-1 receptor activity, including berobenatide, or any excipient.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+

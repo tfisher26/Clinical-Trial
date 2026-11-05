@@ -3538,18 +3538,6 @@ Link: https://clinicaltrials.gov/study/NCT07041320
 SUMMARY:
 
 
-## NCT07529548
-"The New Beginnings Podcast: A Small-scale Randomized Controlled Trial of a Parenting Podcast to Improve Outcomes for Children From Divorced Families"
-
-Intervention: : New Beginnings Podcast Program — Parents will listen to 5 episodes of the New Beginnings Podcast (NBP-P) over 5 weeks.
-
-They will listen to one episode per week.
-: No Interventions — Parents in the waitlist group will get access to the podcast after completion of the post-test survey or withdrawal from the study.
-Link: https://clinicaltrials.gov/study/NCT07529548
-
-SUMMARY:
-
-
 ## NCT07148193
 Understanding Long-Term Sarcoma Survivorship: Risk Profiles, Outcomes and Unmet Needs - A Joint Project of Research, Sarcoma Centres and Patient Experts (PROSa+)
 

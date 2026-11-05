@@ -2434,17 +2434,6 @@ Link: https://clinicaltrials.gov/study/NCT07669168
 SUMMARY:
 
 
-## NCT07435766
-Comparing Iron Absorption From Multiple Micronutrient Supplements and Iron-folate Supplements: a Stable Isotope Study in Kenyan Pregnant Women
-
-Intervention: : MMS with 30 mg iron — Multiple Micronutrient Supplementation (MMS) with 30 mg of iron given with ferrous fumarate isotope (54Fe, 57Fe, 58Fe)
-: MMS with 60 mg iron — Multiple Micronutrient Supplementation (MMS) with 60 mg of iron given with ferrous fumarate isotope (54Fe, 57Fe, 58Fe)
-: IFA with 60 mg iron — Iron Folic Acid (IFA) with 60 mg of iron given with ferrous sulphate isotope (54Fe, 57Fe, 58Fe)
-Link: https://clinicaltrials.gov/study/NCT07435766
-
-SUMMARY:
-
-
 ## NCT05203250
 CNAO REgistry triAL - REGAL
 
@@ -3336,15 +3325,6 @@ Intervention: : 18F-fluorofuranylnorprogesterone — 18F-FFNP will be given by a
 : Blood Sampling — Venous blood samples will be collected at multiple timepoints (e.g., 5, 10, 20, 30, and 45 min after 18F-FFNP injection to determine parent and metabolite fractions
 : FDA-approved gadolinium-based intravenous contrast agent — FDA-approved gadolinium-based intravenous contrast agent used for the MRI portion of this study
 Link: https://clinicaltrials.gov/study/NCT06086704
-
-SUMMARY:
-
-
-## NCT05348837
-Naturalistic Sleep Assessed by Wearable Devices in Parkinson Disease
-
-Intervention: : Deep brain stimulation — Candidacy for DBS implantation will be determined by the treating team, which includes a neurologist, neurosurgeon, neuropsychologist, neuro-radiologist, and palliative care physician.
-Link: https://clinicaltrials.gov/study/NCT05348837
 
 SUMMARY:
 

@@ -2457,26 +2457,6 @@ Link: https://clinicaltrials.gov/study/NCT05602376
 
 SUMMARY:
 
-## NCT05603104
-A Randomised, Controlled Trial to Investigate the Effect of an Intensified Pharmacological Treatment for Schizophrenia, Major Depressive Disorder and Bipolar Depression in Subjects Who Had a First-time Treatment Failure on Their First-line Treatment.
-
-Intervention: : Clozapine — See arm description
-: Esketamine Nasal Product — See arm description
-: Escitalopram — See arm description
-: Sertraline — See arm description
-: Venlafaxine — See arm description
-: Lithium — See arm description
-: Valproate acid — See arm description
-: Quetiapine — See arm description
-: Second-line Antidepressants — See arm description
-: Second-line Antipsychotics — See arm description
-: Ketamine Hydrochloride — See arm description
-: Esketamine hydrochloride — See arm description
-: Bupropion — See arm description
-Link: https://clinicaltrials.gov/study/NCT05603104
-
-SUMMARY: Schizophrenia, major depression and bipolar depression sometimes do not improve with the first treatment. This study tests an intensified drug treatment, such as clozapine, after a first treatment failure.
-
 ## NCT05603559
 Safety, Dosimetry and Dose-escalation of 177Lu-P17-087/177Lu-P17-088 in Patients With Metastatic Castration-resistant Prostate Cancer
 
@@ -4152,15 +4132,6 @@ Intervention: : community-friendly health recovery program — Participants will
 Link: https://clinicaltrials.gov/study/NCT05669534
 
 SUMMARY: People who inject drugs are at high risk of HIV. This study tests a community friendly health recovery program of four weekly HIV prevention sessions for people on PrEP.
-
-## NCT05669833
-Guselkumab vs Golimumab in PsA TNF Inadequate Responder Patients: a Pragmatic Trial (EVOLUTION)
-
-Intervention: : Guselkumab — Guselkumab (GUS) subcutaneous injection
-: Golimumab — Golimumab (GOL) subcutaneous injection
-Link: https://clinicaltrials.gov/study/NCT05669833
-
-SUMMARY: Psoriatic arthritis that does not respond well to TNF blockers needs other options. This study compares guselkumab with golimumab, both given as injections under the skin.
 
 ## NCT05670132
 Impact of a Neuro-cardiac Rehabilitation Program on the Quality of Life of Children, Adolescents, and Young Adults With Congenital Heart Disease: the Multicentre Randomized Controlled QUALINEUROREHAB Trial
@@ -11316,19 +11287,6 @@ Link: https://clinicaltrials.gov/study/NCT05901545
 
 SUMMARY:
 
-## NCT05902169
-A Randomized, Open-label, Multicentric, Two-arm Pivotal Trial of SonoCloud-9 Combined With Carboplatin (CBDCA) vs Standard of Care Lomustine (CCNU) or Temozolomide (TMZ) in Patients Undergoing Planned Resection for First Recurrence Glioblastoma.
-
-Intervention: : SonoCloud-9 (SC9) — Implantation of SC9 device and repeat activation at constant acoustic pressure
-: Carboplatin — Dose of carboplatin AUC 5 mg/ml.min-1 calculated using Calvert's formula:
-
-Dose (mg) = target AUC (mg/mL x minute) x \[glomerular filtration rate (GFR) mL/minute + 25\].
-: Lomustine — Dosed and administered per labelling.
-: Temozolomide — Dosed and administered per labelling.
-Link: https://clinicaltrials.gov/study/NCT05902169
-
-SUMMARY: Glioblastoma that comes back for the first time is hard to treat. This study compares the SonoCloud-9 ultrasound device with carboplatin against standard lomustine or temozolomide.
-
 ## NCT05902234
 Emotional Bodymaps in Pediatric Pain Patients and Their Parents.
 
@@ -11789,14 +11747,6 @@ Intervention: : BLT — Bright light therapy delivered via glasses
 Link: https://clinicaltrials.gov/study/NCT05917119
 
 SUMMARY: Some people with obstructive sleep apnea still feel tired during the day despite treatment. This study tests bright light therapy delivered through glasses.
-
-## NCT05917652
-THE Actuate-CBC Study: Accelerating the Uptake of Telemedicine for Crisis Burn Care
-
-Intervention: : Tool kit — The study team will develop and design key elements of the implementation intervention (toolkit) among a small group of burn and non-burn clinician stakeholders (4-6 total). The study team will use in-person interviews with stakeholders and a semi-structured interview guide to elicit feedback and assess face and content validity of the toolkit elements prior to deployment across the study hospitals. For those who consent to participation, the study team will conduct virtual teleconference interviews in-person using a secure videoconferencing platform while the person is not working, at a time convenient for them. Interviews will last between 45 and 60 minutes. The study team anticipates conducting 4-6 interviews to finalize toolkit elements prior to implementation.
-Link: https://clinicaltrials.gov/study/NCT05917652
-
-SUMMARY:
 
 ## NCT05918094
 Comparing Modified XELOX Plus Sintilimab With Standard XELOX Plus Sintilimab in First-line Treatment for HER2-negative Gastric/Gastroesophageal Junction Adenocarcinoma
@@ -13202,14 +13152,6 @@ Influence of Autonomy on Motor Learning in People With Parkinson's Disease
 Intervention: : Autonomy supported learning — The ability of learners to participate in determining their own behaviour, which is the feedback schedule regarding their practice performance in this study.
 : Practice with predetermined feedback — Learners practice the motor task, while the feedback is provided according to their counterpartner
 Link: https://clinicaltrials.gov/study/NCT05960331
-
-SUMMARY:
-
-## NCT05960370
-Impact of Endometrial Compaction on Reproductive Outcomes After Cryotransfer of Euploid Embryos in a Natural Cycle: Prospective Cohort Study
-
-Intervention: : Observational non intervention study — An additional control scan will be performed vaginally the day of the embryo transfer. Rest of follow up and treatment will be executed as usually.
-Link: https://clinicaltrials.gov/study/NCT05960370
 
 SUMMARY:
 
@@ -16484,15 +16426,6 @@ Blood will be collected in larger quantity during a blood test planned as part o
 
 Non-invasive or leftover samples or medical waste will be collected on top of the usual diagnosis and during follow-up, depending on the case.
 Link: https://clinicaltrials.gov/study/NCT06054854
-
-SUMMARY:
-
-## NCT06054880
-An Open-Label, Randomized, Multicenter Study to Evaluate the Safety, Efficacy, and Physician Satisfaction of Two Different Doses of Bludigo™ When Used as an Aid in the Determination of Ureteral Patency
-
-Intervention: : Indigotindisulfonate sodium 0.8% — Experimental contrast dye that is commonly used as a visualization aid in pelvic and abdominal surgeries and for various diagnostic procedures in medical practice.
-: Saline injection 0.9% — Placebo
-Link: https://clinicaltrials.gov/study/NCT06054880
 
 SUMMARY:
 

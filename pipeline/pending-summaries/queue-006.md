@@ -101,15 +101,6 @@ Link: https://clinicaltrials.gov/study/NCT07346521
 SUMMARY:
 
 
-## NCT04530760
-Impact of Intraabdominal Hypertension on Microaspiration Incidence in Cirrhotic Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04530760
-
-SUMMARY:
-
-
 ## NCT05825131
 A Combination Retrospective and Prospective Natural History Study of Participants With Sanfilippo Syndrome Mucopolysaccharidosis Type IIIC (MPS IIIC)
 

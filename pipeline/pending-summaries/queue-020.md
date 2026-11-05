@@ -1651,15 +1651,6 @@ Link: https://clinicaltrials.gov/study/NCT07001709
 SUMMARY:
 
 
-## NCT07311356
-Evalutation of the Prognosis and Quality of Life of Patients Hospitalized for Early-onset Anorexia Nervosa
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07311356
-
-SUMMARY:
-
-
 ## NCT07410637
 Impact of Thyroid Hormones on Human Glucose and Energy Metabolism
 

@@ -4376,15 +4376,6 @@ Link: https://clinicaltrials.gov/study/NCT06805474
 SUMMARY:
 
 
-## NCT06178328
-'Things You Do': An Observational Pilot Trial of a Brief Psychological Intervention Among People Seeking Online Mental Health Services
-
-Intervention: : Things You Do Course — Participants receiving the brief psychological intervention ('Things You Do' Course) will have access to a single online lesson that includes course materials and printable materials (i.e., an activity guide and planner) that can be retained for longer-term use. The course materials include an introduction to the purpose and content of the course, education about factors that impact mental health, and information about the 'Big Five' things participants can do to improve their mental health. Participants will also receive automated no-reply emails (5 days/week) through the intervention platform to remind them to practice the skills from the course.
-Link: https://clinicaltrials.gov/study/NCT06178328
-
-SUMMARY:
-
-
 ## NCT06049888
 Causal Effects of Exposure to Social Media on Adolescent Mental Health
 

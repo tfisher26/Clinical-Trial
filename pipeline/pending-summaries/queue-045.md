@@ -7426,14 +7426,6 @@ Link: https://clinicaltrials.gov/study/NCT06259669
 
 SUMMARY:
 
-## NCT06259799
-Efficacy of a Smart Water Bottle Intervention to Increase Fluid Consumption in College Students
-
-Intervention: : Smart Water Bottle — Participants in the intervention group will receive a bottle which measures participant fluid consumption. The bottle will be set to recommend 2.5L for male participants and 2.0L for female participants, consistent with fluid intake recommendations from the European Food Safety Authority for each sex. Participants will be prompted by the bottle (bottle will light up) when they are behind on fluid intake recommendations. Participants will use a validated urine color chart, 9 point Likert scale for thirst, and measure nude body mass on their own each morning. Participants will be informed that higher values for nude body mass and thirst, and lower values for nude body mass each morning may indicate they are less hydrated day-to-day.
-Link: https://clinicaltrials.gov/study/NCT06259799
-
-SUMMARY:
-
 ## NCT06259994
 Obstetrical, Endocrine and Metabolic Consequences of Antenatal Dexamethasone Treatment in Pregnant Women at Risk of Congenital Adrenal Hyperplasia
 

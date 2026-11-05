@@ -3030,24 +3030,6 @@ Link: https://clinicaltrials.gov/study/NCT04683315
 SUMMARY:
 
 
-## NCT07567807
-Sensitivity and Tests for Evaluation of Plantar Fasciopathy
-
-Intervention: : Gastroc Sign — Modified Version of the Royal London Hospital Test (Gastroc Sign) After identifying tenderness at the medial calcaneal tuberosity with the ankle in a neutral or slightly plantarflexed position, participants are asked to actively perform ankle dorsiflexion and plantarflexion with the knee extended. If the tenderness identified in the initial phase decreases or disappears during active dorsiflexion, the test is considered positive.
-: Tenderness at the Medial Calcaneal Tuberosity — Palpation is performed with the ankle in a neutral position or slight plantarflexion, gently pressing the medial aspect of the plantar heel region starting from the palpable medial calcaneal tuberosity. Participants are asked to report whether tenderness is present or absent.
-: Silfverskiöld Test — The Silfverskiöld test \[20\] is performed with the patient in the supine position. The examiner uses both hands: one stabilizes and locks the subtalar joint in a neutral position, while the other stabilizes the midtarsal joint and forefoot in supination, ensuring that movement is isolated to the tibiotalar joint.
-
-Tibiotalar dorsiflexion is measured under two conditions:
-
-* With the knee fully extended
-* With the knee flexed at 90 degrees
-
-Limited dorsiflexion in both positions indicates soleus tightness or a bony block as the cause of stiffness. Reduced dorsiflexion with the knee extended, accompanied by a soft and elastic end-feel, suggests isolated gastrocnemius contracture and is therefore interpreted as a positive Silfverskiöld test.
-Link: https://clinicaltrials.gov/study/NCT07567807
-
-SUMMARY:
-
-
 ## NCT06441552
 Learning the Natural History of Recovery After Stroke - Cognitive, Motor and Sensory Function
 

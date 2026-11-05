@@ -86,16 +86,6 @@ Link: https://clinicaltrials.gov/study/NCT05729932
 SUMMARY:
 
 
-## NCT07473570
-A Phase I Clinical Study of GS3-007a Dry Suspensions in Healthy Chinese Adults: Randomized, Double-Blind, Placebo-Controlled, Single- and Multiple-Dose, Dose-Escalation, and Food Effect Study
-
-Intervention: : GS3-007a for Suspension — GS3-007a dry suspension for oral use. Each sachet contains 50 mg of GS3-007a. The dry suspension is reconstituted with water before administration. Dosing is based on body weight, as specified in the arm descriptions. The product should be stored protected from light, in a sealed container, at or below 25°C.
-: Placebo GS3-007a for Suspension — Placebo dry suspension matching GS3-007a in appearance, odor, and packaging. It contains all excipients except the active ingredient, with added bitter agent. It is reconstituted with water before administration. Dosing is based on body weight, as specified in the arm descriptions. Storage conditions are the same as for the active drug.
-Link: https://clinicaltrials.gov/study/NCT07473570
-
-SUMMARY:
-
-
 ## NCT07753473
 Study on the Regulation of Heart-Brain Coupling in Individuals With Depressive Tendencies Using Transcranial Magnetic Stimulation (TMS) Based on Personalized Functional Connectivity
 

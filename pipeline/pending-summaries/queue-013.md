@@ -348,15 +348,6 @@ Link: https://clinicaltrials.gov/study/NCT07299565
 SUMMARY:
 
 
-## NCT07589114
-REM Enhancement Sleep Technology for Well-being, Emotion, and Life Lift
-
-Intervention: : Mobile smartwatch application. — An integrated system will be utilized, consisting of a mobile and Apple Watch application available in TestFlight (Apple's testing framework), comprising several components: the Sleep Data Collection Module, the Sleep Data Analysis Module, the Specific Sleep Cycle Detection Module, the Integration Module between sleep analysis and the haptic engine of the wearable device used, the Software Module for controlling the haptic engine and generating vibrations, and the Post-Haptic Intervention (vibration-based) Sleep Data Analysis Module.
-Link: https://clinicaltrials.gov/study/NCT07589114
-
-SUMMARY:
-
-
 ## NCT07503704
 PRIMROSE - A Prospective Study of the Genomic Landscape of Central Nervous System Disease Secondary to Breast Cancer Utilising Cell-free DNA Derived From Cerebrospinal Fluid (CSF)
 

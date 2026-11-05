@@ -1004,15 +1004,6 @@ Link: https://clinicaltrials.gov/study/NCT06028659
 SUMMARY:
 
 
-## NCT06372990
-Development of a Rapid T-cell Analysis Test to Guide the Management of Patients With Chronic HBV and HBV/HDV Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06372990
-
-SUMMARY:
-
-
 ## NCT07476170
 Real-World Treatment Pattern and Clinical Outcome With Influential Factors of HR+/HER2-aBC 1L Patients in China: A Retrospective Analysis Based on a Database
 

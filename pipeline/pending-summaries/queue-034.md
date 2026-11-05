@@ -429,15 +429,6 @@ Link: https://clinicaltrials.gov/study/NCT05999383
 SUMMARY:
 
 
-## NCT07036315
-An Investigation of the Intersection of Affect and Meaning in Music-Based Pain Modulation
-
-Intervention: : Music intervention — Participants will be asked to select different music clips based on meaning, enjoyment and preference.
-Link: https://clinicaltrials.gov/study/NCT07036315
-
-SUMMARY:
-
-
 ## NCT06799663
 Comparison the Effect of Smart Phones Addiction Between Children and Adolescents on Posture Deviations , Physical Fitness and Intelligence in Egypt
 
@@ -1876,15 +1867,6 @@ Improving Spatial Perception and Speech Understanding in Multitalker Mixtures
 
 Intervention: : hearing aid condition — The intervention will be a hearing aid or a modification to the sound stimulus that simulates a hearing aid configuration, style, or processing strategy.
 Link: https://clinicaltrials.gov/study/NCT05260307
-
-SUMMARY:
-
-
-## NCT07025681
-Randomized, Double-blinded, Two-treatment, Two-periods, Single-dose, Crossover, PK, PD, Safety, and Immunogenicity Study of Erythropoietin of Incepta Pharmaceuticals Ltd With Eprex of Janssen-Cilag Ltd in Healthy Adult Subjects
-
-Intervention: : Erythropoietin alfa — Erythropoietin 4000 IU Injection, for subcutaneous injection.
-Link: https://clinicaltrials.gov/study/NCT07025681
 
 SUMMARY:
 

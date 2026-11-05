@@ -1546,14 +1546,6 @@ Link: https://clinicaltrials.gov/study/NCT07497919
 
 SUMMARY:
 
-## NCT07498296
-Adapting High-Intensity Exercise and Sleep Monitoring Technology for Home Use in Parkinson's Disease
-
-Intervention: : High Intensity Resistance Exercise — 5 upper and lower extremity resistance exercises for 10 repetitions for 3 sets; with additional body weight exercises in between sets
-Link: https://clinicaltrials.gov/study/NCT07498296
-
-SUMMARY:
-
 ## NCT07498335
 A Single-arm, Multicenter, Phase III Study to Assess Efficacy, Pharmacokinetics, Safety and Tolerability of Atrasentan in Pediatric Patients of 2 to <18 Years of Age With Primary Immunoglobulin A Nephropathy (IgAN)
 
@@ -10233,15 +10225,6 @@ Intervention: : Hyperbaric oxygen therapy plus standard medical treatment — Th
 The rest of the treatment is standard medical treatment and monitoring according to the current clinical guideline "2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association" "Chinese Guidelines for the Diagnosis and Treatment of Acute Ischemic Stroke 2023".
 : Standard medical treatment — According to the current guideline "2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association" "Chinese Guidelines for the Diagnosis and Treatment of Acute Ischemic Stroke 2023", they receive standard medical treatment and monitoring (including antithrombotic drugs, lipid-lowering drugs, blood pressure management, etc.), not entering the hyperbaric oxygen chamber for treatment.
 Link: https://clinicaltrials.gov/study/NCT07626450
-
-SUMMARY:
-
-## NCT07626515
-A Phase I, Randomized, Double-Blinded, Placebo-Controlled, Study to Investigate the Safety, Tolerability, and Pharmacokinetics of Enicepatide in Adult Chinese Participants With Body Mass Index ≥23.0 kg/m2
-
-Intervention: : Enicepatide — Participants will receive enicepatide via subcutaneous (SC) injection as per the schedule in the protocol.
-: Placebo — Participants will receive matching placebo via subcutaneous (SC) injection as per the schedule in the protocol.
-Link: https://clinicaltrials.gov/study/NCT07626515
 
 SUMMARY:
 

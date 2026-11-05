@@ -5201,16 +5201,6 @@ Link: https://clinicaltrials.gov/study/NCT06862375
 SUMMARY:
 
 
-## NCT06826794
-Frequency of Respiratory Acidosis in the Intensive Care Unit After Postoperative Cardiac Surgery. Impact of Using VentilO Application
-
-Intervention: : Clinicians — Clinicians will determine respiratory parameters for mechanical ventilation upon arrival in the intensive care unit.
-: VenitlO — VentilO application (or web platerform) will determine respiratory parameters for mechanical ventilation upon arrival in the intensive care unit.
-Link: https://clinicaltrials.gov/study/NCT06826794
-
-SUMMARY:
-
-
 ## NCT07131566
 Immune Response in Cervical Lymph Nodes of Patients With Head and Neck Cancer
 

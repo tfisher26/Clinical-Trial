@@ -3250,14 +3250,6 @@ Link: https://clinicaltrials.gov/study/NCT07045064
 
 SUMMARY:
 
-## NCT07045103
-A Multicenter Study in Bronchoscopy Combining Stimulated Raman Histology With Artificial Intelligence for Rapid Lung Cancer Detection
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07045103
-
-SUMMARY:
-
 ## NCT07045142
 Metformin Alleviates Abnormal Glucose Metabolism Induced by Statins in Schizophrenia Patients: A Randomized, Double-Blind, Placebo-Controlled Multicenter Clinical Study
 
@@ -5703,15 +5695,6 @@ Intervention: : A.1 - [¹⁸F]F-AraG PET/CT (90-min dynamic + 4-h static) — Pa
 : B.1 - [¹⁸F]F-AraG PET/CT (90-min dynamic + 4-h static) — Participants receive an intravenous injection of 5 mCi (±20%) of \[¹⁸F\]F-AraG followed by a 90-minute total-body PET/CT scan and a second 30-minute scan at 4 hours. Blood samples (up to 42 mL total) are collected during dynamic imaging.
 : B.2 - [¹⁸F]F-AraG PET/CT (60-min dynamic only) — Participants receive 5 mCi (±20%) of \[¹⁸F\]F-AraG intravenously followed by a 60-minute total-body PET/CT scan. Blood samples (up to 42 mL total) are collected during dynamic imaging.
 Link: https://clinicaltrials.gov/study/NCT07076862
-
-SUMMARY:
-
-## NCT07076992
-The Dilemma of Neonatal Circumcision in Egypt: A Comparative Randomized Study
-
-Intervention: : Circumcision by Plastibell — Patients will undergo circumcision by Plastibell (PB).
-: Circumcision by Gomco — Patients will undergo circumcision by the Gomco (GM).
-Link: https://clinicaltrials.gov/study/NCT07076992
 
 SUMMARY:
 
@@ -11478,14 +11461,6 @@ Link: https://clinicaltrials.gov/study/NCT07165223
 
 SUMMARY:
 
-## NCT07165236
-Association of Perioperative Cognitive Dysfunction With Circulating Biomarkers of Neurological Damage in Patients Underging Transurethral Resection of Bladder Tumor
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07165236
-
-SUMMARY:
-
 ## NCT07165353
 Virtual Walking With Habitual Feedback to Reduce Chronic Neuropathic Pain in Individuals With Spinal Cord Injury
 
@@ -13700,27 +13675,6 @@ A Prospective, Randomized Clinical Trial to Compare Post-extraction Use of a Nov
 Intervention: : 0.12% CHX and Essential Oil mouthrinse — 0.12% CHX mouthrinse will be used to rinse for 1 minute with 15 mL twice daily starting day 1 after surgery through day 14. Patients will be instructed to use OTC essential oil mouthrinse 15mL once daily until the conclusion of the study (day 15 to day 84).
 : 2.6% EDTA and 0.2% EDTA mouth rinse — .6% EDTA mouthrinse will be used to rinse for 1 minute with 15 mL twice daily starting day 1 after surgery through day 14. Patients will be instructed to use 0.2% EDTA mouthrinse 15mL once daily until the conclusion of the study (day 15 to day 84).
 Link: https://clinicaltrials.gov/study/NCT07191262
-
-SUMMARY:
-
-## NCT07191275
-The Effect of TMS on Emotional Valence Evaluation of Aversive Pictures
-
-Intervention: : Experimental continuous 30 Hz thetaburst transcranial magnetic stimulation — Bilateral continuous theta burst stimulation (cTBS) 30 Hz to the temporo-occipital cortex
-
-* Frequency: trains of 30 Hz (3 pulses) every 167 ms (frequency of 6 Hz, in the range of theta band)
-* Intensity: 100% of resting motor threshold (rMT)
-* Location: consecutively on left and right temporo-occipital cortex (MNI: -47, -77, 4; 50, -69, -4)
-* Duration: 33.3 seconds for each side
-* Timing: Immediately before showing IAPS pictures (off-line)
-: Control continuous 30 Hz thetaburst transcranial magnetic stimulation — Active control condition using bilateral continuous theta burst stimulation (cTBS) 30 Hz to the superior parietal cortex
-
-* Frequency: trains of 30 Hz (3 pulses) every 167 ms (frequency of 6 Hz, in the range of theta band)
-* Intensity: 100% of resting motor threshold (rMT)
-* Location: consecutively on left and right superior parietal cortex (MNI: -17, -70, 60; 17, -70, 60)
-* Duration: 33.3 seconds
-* Timing: Immediately before showing IAPS pictures (off-line)
-Link: https://clinicaltrials.gov/study/NCT07191275
 
 SUMMARY:
 
