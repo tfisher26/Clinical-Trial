@@ -2499,16 +2499,6 @@ Link: https://clinicaltrials.gov/study/NCT04952272
 SUMMARY:
 
 
-## NCT05009771
-Postoperative Pain Management of Caesarean Section: a Prospective, Observational Cohort Study
-
-Intervention: : Intravenous patient-control analgesia — At the two trial sites, IV-PCA is commonly used with morphine. The device is installed after delivery and removed within 3 days.
-: Dinalbuphine sebacate — Dinalbuphine sebacate is a prodrug of nalbuphine. With oil-based formulation, the active ingredient releases slowly and the effect lasts longer than nalbuphine. After delivery, a single 150 mg dose of dinalbuphine sebacate is administered intramuscularly.
-Link: https://clinicaltrials.gov/study/NCT05009771
-
-SUMMARY:
-
-
 ## NCT06519032
 Development and Evaluation of Rapid Bacterial Species Identification for Acid-Fast Bacilli Smear Using Image Analysis AI
 
@@ -3167,16 +3157,6 @@ Treosulfan Therapeutic Drug Monitoring in Pediatric Hematopoietic Stem Cell Tran
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06861257
-
-SUMMARY:
-
-
-## NCT06431945
-Early Detection of Hepatitis C in Injection Drug Users
-
-Intervention: : Hepatitis C antibody (anti-HCV) test — Testing for hepatitis C antibodies determines whether or not you have been exposed to HCV at some point in your life. This testing will be performed in all 3,000 persons who inject drugs enrolled in the project.
-: Hepatitis C RNA test and genotype test — RNA is a type of genetic material from HCV that can be detected in the blood. This test will be used as a confirmation of the infection. This testing will be performed in all persons with positive antibody test who will come to clinical center.
-Link: https://clinicaltrials.gov/study/NCT06431945
 
 SUMMARY:
 

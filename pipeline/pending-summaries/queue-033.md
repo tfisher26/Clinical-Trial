@@ -732,16 +732,6 @@ Link: https://clinicaltrials.gov/study/NCT05603520
 SUMMARY:
 
 
-## NCT04531696
-UZ/KU Leuven Program for Post-mortem Tissue Donation to Enhance Research
-
-Intervention: : Blood draw — Blood draw at inclusion
-: Post-mortem tissue collection — Sample collection (both liquids, tumour tissue and non-tumour tissue) during post-mortem research autopsy
-Link: https://clinicaltrials.gov/study/NCT04531696
-
-SUMMARY:
-
-
 ## NCT06615960
 The Safety and Effectiveness of PANAF- Premium TM Snake Venom Antiserum-Pan Africa Administered As a Standard Treatment for Cases of Snakebites- a Phase IV Open Label Trial
 
@@ -6404,15 +6394,6 @@ VIRTUGUIDE™ SYSTEM REGISTRY
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07567092
-
-SUMMARY:
-
-
-## NCT07536308
-A Phase 1 Open-Label Safety and Immunogenicity Trial of OCU500, ChAd36 Vector Encoding SARS-CoV-2 Spike, A Next-Generation SARS-CoV-2 Booster Vaccine Via Intranasal and Inhalational Routes, in Previously Vaccinated Adults
-
-Intervention: : OCU500 — OCU500 is a monovalent, replication-defective, chimpanzee adenovirus (ChAd36)-vectored COVID-19 vaccine that encodes a codon-optimized, stabilized prefusion form of the spike (S) protein from the Omicron XBB1.5 strain.
-Link: https://clinicaltrials.gov/study/NCT07536308
 
 SUMMARY:
 

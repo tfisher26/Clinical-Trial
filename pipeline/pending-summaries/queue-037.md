@@ -2357,15 +2357,6 @@ Link: https://clinicaltrials.gov/study/NCT06201026
 SUMMARY:
 
 
-## NCT04532489
-Positron Emission Tomography (PET) Imaging of Cholesterol Trafficking: Clinical Evaluation of [18F]FNP-59 in Normal Human Subjects (Group 1)
-
-Intervention: : FNP-59 — FNP-59, a radiotracer, is administered for PET/CT scans.
-Link: https://clinicaltrials.gov/study/NCT04532489
-
-SUMMARY:
-
-
 ## NCT06880692
 The Use of Ecological Momentary Assessments to Assess Tick-borne Disease Risk
 
@@ -3155,15 +3146,6 @@ Screening of Atrial Fibrillation/Arrhythmia Events in Patients With Abnormal Ech
 
 Intervention: : study arm — Scheduled cardiac rhythm monitoring every 3 months using extended continuous ECG monitoring
 Link: https://clinicaltrials.gov/study/NCT07278089
-
-SUMMARY:
-
-
-## NCT06800937
-Evaluation of the Sphingolipidomic Profile in Women Suffering From Anorexia Nervosa: Relationship With Clinical-endocrine and Psychiatric Parameters
-
-Intervention: : Determination of sphingolipidomic profile — The plasma/serum levels of the following sphingolipids will be measured: ceramides and dihydroceramides from C16 to C24, including 2 unsaturated ones (C18:1 and C24:1), sphingomyelins (those from C16 to C24 and the one C24:1), sphingosine, sphinganine, sphingosine-1-phosphate and sphinganine-1-phosphate.
-Link: https://clinicaltrials.gov/study/NCT06800937
 
 SUMMARY:
 

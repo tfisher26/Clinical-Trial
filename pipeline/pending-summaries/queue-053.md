@@ -192,15 +192,6 @@ Link: https://clinicaltrials.gov/study/NCT07464587
 
 SUMMARY:
 
-## NCT07482748
-Effect of Diaphragm Mobilization Added to the Schroth Best Practice Program in Adolescent Idiopathic Scoliosis: A Randomized Controlled Trial
-
-Intervention: : Diaphragm Mobilization — Manual diaphragm mobilization will be performed with the participant in the supine position. The therapist will place both hands along the inferior costal margin and apply a gentle mobilization in coordination with the participant's breathing cycle. During inspiration and expiration, the inferior costal margin will be mobilized in a cranial and lateral direction. The technique will be performed for 20 breathing cycles and repeated twice during each treatment session with short rest periods between repetitions. The intervention will be applied at the end of each treatment session throughout the 6-week treatment period.
-: Schroth Best Practice Exercise Program — The Schroth Best Practice (SBP) program is a physiotherapeutic scoliosis-specific exercise approach that includes curve-specific corrective exercises and postural education. Participants will perform exercises tailored to their scoliosis curve pattern under the supervision of a physiotherapist. The program will be applied three times per week for six weeks.
-Link: https://clinicaltrials.gov/study/NCT07482748
-
-SUMMARY:
-
 ## NCT07498907
 A Randomized, Prospective, Multicenter, Phase III Study of Disitamab Vedotin Plus Radiotherapy as Adjuvant Treatment for HER2-Expressing Cisplatin-Ineligible Upper Tract Urothelial Carcinoma
 

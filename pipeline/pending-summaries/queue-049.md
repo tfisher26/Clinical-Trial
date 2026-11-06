@@ -4728,17 +4728,6 @@ Link: https://clinicaltrials.gov/study/NCT07293585
 
 SUMMARY:
 
-## NCT07293702
-**Effect of Instrument-Assisted Soft Tissue Mobilization on Pain, Functionality, and Proprioception in Individuals With Subacromial Impingement Syndrome**
-
-Intervention: : Conventional exercise group — All participants will receive a standardized electrotherapy program in a clinical setting, consisting of TENS (100 Hz, 30 minutes), ultrasound (1.5 W/cm², 8 minutes), and a 15-minute cold-pack application, delivered three times per week for four weeks. In addition to electrotherapy, participants in the conventional exercise group will perform a physiotherapist-guided exercise program aimed at improving shoulder flexion, abduction, internal and external rotation through stretching and range-of-motion exercises. The program will include Codman exercises, wand exercises, finger-ladder activities, and condition-appropriate strengthening exercises, progressed according to each participant's pain level and tolerance.
-: IASTM group — Participants in the IASTM group will receive Instrument-Assisted Soft Tissue Mobilization in addition to the conventional treatment program, three days per week for four weeks, for a total of 12 sessions. The IASTM technique will be applied to the subscapularis, anterior deltoid, biceps brachii, upper trapezius, supraspinatus, infraspinatus, teres major, teres minor, and posterior deltoid muscles.
-
-For each muscle group, the treatment will be administered for 20 seconds in a parallel direction and 20 seconds in a perpendicular direction, using sweep and brush techniques at an angle of approximately 45 degrees.
-Link: https://clinicaltrials.gov/study/NCT07293702
-
-SUMMARY:
-
 ## NCT07293767
 The Effect of Silymarin Versus Hesperidin/Diosmin Combination on Patients With Fibromyalgia
 
@@ -14652,14 +14641,6 @@ Link: https://clinicaltrials.gov/study/NCT07446101
 
 SUMMARY:
 
-## NCT07446114
-Functional Outcomes and Control Using Synchron BCI - Canada
-
-Intervention: : Stentrode — The Stentrode is an endovascular electrode array that senses electrical signals from the sensorimotor cortices.
-Link: https://clinicaltrials.gov/study/NCT07446114
-
-SUMMARY:
-
 ## NCT07446283
 Motion and Electromyographic Analysis of the Forehand Topspin Against Topspin, Forehand Topspin Against Backspin, Forehand Stroke, and Forehand Attack in Elite Table Tennis Players
 
@@ -14917,15 +14898,6 @@ The assessment of liver stiffness will be performed before results of blood test
 
 Patients will be followed up until hospital discharge or 28-day days post-admission, whichever comes first.
 Link: https://clinicaltrials.gov/study/NCT07449377
-
-SUMMARY:
-
-## NCT07449403
-Pericapsular Nerve Group Block Mitigates Surgical Stress and Enhances Analgesia in Total Hip Arthroplasty: A Randomized Controlled Trial
-
-Intervention: : sodium Chloride — After spinal anesthesia, the ultrasound-guided PENG block will be performed with 20ml of 0.9% sodium chloride
-: Ropivacaine 0.2% Injectable Solution — After spinal anesthesia, the ultrasound-guided PENG block will be performed with 20 ml of 0.2% ropivacaine
-Link: https://clinicaltrials.gov/study/NCT07449403
 
 SUMMARY:
 
@@ -16512,14 +16484,6 @@ Long-term Evaluation of the Body Composition and the Impact of Resistance and Re
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07472803
-
-SUMMARY:
-
-## NCT07472959
-The Effect of Intraoperative Morphine Use on Postoperative Pain in Coronary Artery Bypass Surgery: A Randomized, Controlled Clinical Trial
-
-Intervention: : In this study, morphine administration, which is routinely and frequently used in our operating room for patients undergoing CABG, was applied as an additional intervention — Unlike previous studies, this study aims to evaluate the postoperative effects of morphine administered intraoperatively rather than postoperative morphine administration
-Link: https://clinicaltrials.gov/study/NCT07472959
 
 SUMMARY:
 

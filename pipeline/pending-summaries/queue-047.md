@@ -9905,15 +9905,6 @@ Link: https://clinicaltrials.gov/study/NCT06896227
 
 SUMMARY:
 
-## NCT06896279
-Study on the Effectiveness and Safety of Temporal Interference Stimulation in Treating Patients With Severe Consciousness Disorders
-
-Intervention: : TI Stimulation — Participants will accept the TI stimulus for one month
-: Sham Stimulation — Participants will accept the sham TI stimulus for one month
-Link: https://clinicaltrials.gov/study/NCT06896279
-
-SUMMARY:
-
 ## NCT06896474
 SDM POSSIBLE: A Cluster RCT of a Breast Cancer Treatment Decision Aid for Women 70+ With Low-Risk Stage I Breast Cancers
 
@@ -13427,16 +13418,6 @@ Link: https://clinicaltrials.gov/study/NCT06948565
 
 SUMMARY:
 
-## NCT06948825
-Effectiveness Study of a Lifestyle Intervention Versus Metformin in Mothers With Recent Gestational Diabetes
-
-Intervention: : Metformin Hcl 850Mg Tab — Participants randomized to Metformin will have a prescription of Metformin 850mg orally twice a day. The participant will get blood drawn for testing, undergo a urine pregnancy test, and meet with the study provider to discuss the medication.
-: Lifestyle Intervention — Participants in the Lifestyle Intervention will meet once a week via zoom with the study health counselor to go over lesson plans. After 4 weeks, participants will meet via zoom every other week.
-: Enhanced Lifestyle Intervention — Participants in the Enhanced Lifestyle Intervention will meet every other week, and will get a free instacart membership to have access to free grocery delivery. Additionally, participants in this intervention will have a 1:1 virtual meeting focused on meal planning with the study health counselor.
-Link: https://clinicaltrials.gov/study/NCT06948825
-
-SUMMARY:
-
 ## NCT06948838
 Comparative Effectiveness of Interventions to Improve Hypertension Control in Safety-Net Settings: The Boston Hypertension Equity Alliance in Treatment
 
@@ -15729,15 +15710,6 @@ Link: https://clinicaltrials.gov/study/NCT06978088
 
 SUMMARY:
 
-## NCT06978166
-Evaluating and Optimizing Just-In-Time Adaptive Interventions (JITAIs) in a Digital Mental Health Intervention (Wysa for Chronic Pain) for Middle-Aged and Older Adults With Chronic Pain
-
-Intervention: : Just-In-Time Adaptive Interventions (JITAIs) — JITAIs are digital interventions that aim to deliver support to a user when the person is most in need and receptive to the intervention. In this study, multiple JITAIs will be tested and refined through completion of an iterative series of randomized trials that are interspersed with qualitative participant interviews. The purpose of each JITAI under investigation is to improve engagement with the Wysa for Chronic Pain app.
-: Wysa for Chronic Pain — Wysa for Chronic Pain is an app-based digital mental health intervention that uses a behavioral activation framework and encourages users to work toward pain acceptance. The intervention also includes cognitive behavioral therapy, mindfulness, and sleep tools.
-Link: https://clinicaltrials.gov/study/NCT06978166
-
-SUMMARY:
-
 ## NCT06978205
 Effect of Urethral Balloon Dilatation on Urinary Retention After Spinal Cord Injury
 
@@ -15860,15 +15832,6 @@ Research for Plasma Biomarkers Associated With Fatigue in Thrombocytopenic Patie
 Intervention: : blood sampling — 3 blood tubes will be taken during a standard check-up
 : self-administrated questionaires — 4 self administrated questionaires and scales at the inclusion
 Link: https://clinicaltrials.gov/study/NCT06979765
-
-SUMMARY:
-
-## NCT06979804
-A Comparison of Outcomes After Anterior Cruciate Ligament (ACL) or Anterior Cruciate Ligament and Meniscus (ACL+Meniscus) Surgery Using Semiconductor Fabric Products: A Randomized, Double-Blinded, Placebo-Controlled Prospective Clinical Study
-
-Intervention: : Semiconducting fabric sleeves — This intervention includes semiconductor embedded sleeves that patients will wear for 4 months post-operatively.
-: Non-semiconducting fabric sleeves — This intervention includes sleeves absent of semiconductors that will be worn for 4 months post-operatively.
-Link: https://clinicaltrials.gov/study/NCT06979804
 
 SUMMARY:
 

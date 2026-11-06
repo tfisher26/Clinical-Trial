@@ -942,16 +942,6 @@ Link: https://clinicaltrials.gov/study/NCT07026890
 SUMMARY:
 
 
-## NCT06328543
-Repetitive Applications of Pruritogens and Effects of a Cutaneous-induced Pain Stimulation on Nonhistaminergic Itch Perception
-
-Intervention: : Histamine — Histaminergic itch will be evoked by a 1% histamine solution. A droplet of histamine solution will be placed on the predetermined area on the forearm, and the SPT lancet will be pierced through the histamine.
-: Cowhage — 25 spicules will be inserted in the center of the predefined skin area on the mandibular area. The spicules will be gently rubbed for 15-20 seconds in circular motion to facilitate epidermal penetration.
-Link: https://clinicaltrials.gov/study/NCT06328543
-
-SUMMARY:
-
-
 ## NCT07258212
 Safety and Normative Data With Neos™, in Healthy Volunteers, Children and Patient Populations With Ophthalmological or Neurological Disease
 

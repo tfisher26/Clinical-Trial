@@ -933,14 +933,6 @@ Link: https://clinicaltrials.gov/study/NCT05729009
 
 SUMMARY:
 
-## NCT07133789
-The Contribution of Optical Mapping to the Characterization of Chromosomal Rearrangements in Patients With Neurodevelopmental Disorders
-
-Intervention: : blood sampling of all patients and their parents — blood sampling of all patients and their parents
-Link: https://clinicaltrials.gov/study/NCT07133789
-
-SUMMARY:
-
 ## NCT06724380
 Detection of Health Risk Situations in the Anesthesia Consultation.
 

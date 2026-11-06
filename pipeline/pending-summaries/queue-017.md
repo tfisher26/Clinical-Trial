@@ -1950,15 +1950,6 @@ Link: https://clinicaltrials.gov/study/NCT06349213
 SUMMARY:
 
 
-## NCT06445660
-The Feasibility of a Radiological Score Based on Quantified Analysis of Computed Tomography Signs for Recognizing Salvageable Bowel in Acute Mesenteric Ischemia: A Retrospective Analysis of Prospective Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06445660
-
-SUMMARY:
-
-
 ## NCT05746260
 Investigating Consolidation of Motor Learning in the Context of Recovery After Stroke
 

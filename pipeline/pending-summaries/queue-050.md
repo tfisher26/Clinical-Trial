@@ -4360,15 +4360,6 @@ Link: https://clinicaltrials.gov/study/NCT07533019
 
 SUMMARY:
 
-## NCT07533175
-Efficacy and Safety of NNC0487-0111 s.c. Once-weekly in Participants With Overweight or Obesity, and Type 2 Diabetes (AMAZE 2)
-
-Intervention: : NNC0487-0111 — NNC0487-0111 will be administered subcutaneously using PDS290 pre-filled pen-injectors to one of the body parts: thigh, abdomen or upper arm.
-: Placebo (matched to NNC0487-0111) — Placebo matched to NNC0487-0111 will be administered subcutaneously using PDS290 pre-filled pen-injectors to one of the body parts: thigh, abdomen or upper arm.
-Link: https://clinicaltrials.gov/study/NCT07533175
-
-SUMMARY:
-
 ## NCT07533331
 Pilot Test the Digital Intervention and Research Protocols in a Small Clinical Trial
 
@@ -4395,14 +4386,6 @@ Intervention: : Dopamine transporter PET scan with [18F]FE-PE2I — Positron emi
 : Polysomnography — Polysomnography to establish presence of REM-sleep behavior disorder
 : Smell test — Sniffin' Sticks test to quantify hyposmia or anosmia.
 Link: https://clinicaltrials.gov/study/NCT07533799
-
-SUMMARY:
-
-## NCT07533903
-Functional Outcomes and Control Using Synchron BCI - Australia (FOCUS-AUS)
-
-Intervention: : Stentrode — The Stentrode is an endovascular electrode array that senses electrical signals from the sensorimotor cortices.
-Link: https://clinicaltrials.gov/study/NCT07533903
 
 SUMMARY:
 

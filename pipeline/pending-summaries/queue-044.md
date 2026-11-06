@@ -653,15 +653,6 @@ Link: https://clinicaltrials.gov/study/NCT05526443
 
 SUMMARY:
 
-## NCT05526963
-Reduction of Polypharmacy in Elderly People With Multiple Diseases - a Stepped Wedge Cluster-randomized Controlled Trial
-
-Intervention: : Medication plan review — Intervention group patients will receive a revised medication plan by external pharmacologist based on the the STOPP/START criteria. The revised medication plan will be provided to the family physician who then will provide it to the patient. The revision comes along with evidence based information for the physician to prevent possible uncertainties by the physicians.
-: Adherence support — Intervention group patients will receive a study nurse administered adherence support measure based on telephone-based motivational interviewing. The measure includes information on possible consequences of inadherence and signs of adverse drug reactions that is comprehensible for lay persons.
-Link: https://clinicaltrials.gov/study/NCT05526963
-
-SUMMARY: Older people with multiple diseases often take many medicines. This study tests a review of their medication plan to reduce polypharmacy.
-
 ## NCT05527067
 A Registered Observational Cohort Study on α-Synucleinopathy
 
@@ -4223,15 +4214,6 @@ Link: https://clinicaltrials.gov/study/NCT05672784
 
 SUMMARY: Pain control after total knee replacement affects recovery. This study compares a genicular nerve block alone with adding an injection behind the knee between the popliteal artery and capsule.
 
-## NCT05672927
-Comparison of the Immune Response After Administration of 2 vs. 3 Doses of the FDA-approved 9-Valent HPV Vaccine Among Women 27-45 Years of Age
-
-Intervention: : 9-valent HPV vaccine, 2 doses alternate timing — Evaluate 2 doses of the 9-valent HPV vaccine across a 12-month period following the 1st dose among 27-45-year-old females.
-: 9-valent HPV vaccine, 3 doses standard timing — This will be the comparison group for the 2-dose group.
-Link: https://clinicaltrials.gov/study/NCT05672927
-
-SUMMARY: The HPV vaccine protects against several cancers. This study compares the immune response after two versus three doses of the 9 valent HPV vaccine in women aged 27 to 45.
-
 ## NCT05673031
 68Ga-HA-DOTATATE PET/CT in Adults With Neuroendocrine Tumors
 
@@ -6875,15 +6857,6 @@ Link: https://clinicaltrials.gov/study/NCT05762640
 
 SUMMARY: Primary hemophagocytic lymphohistiocytosis is a life threatening immune disorder in children. This study tests ruxolitinib as the first treatment.
 
-## NCT05762952
-A Single-center, Randomized, Double-blind, Placebo-controlled Study to Evaluate Microvascular Disease After 12 Weeks of Therapy With Sodium-glucose Co-transporter 2 Inhibitor Compared to Placebo in Symptomatic Women With Non-obstructive Coronary Artery Disease
-
-Intervention: : Dapagliflozin 10mg Tab — Once daily oral dapagliflozin 10mg
-: Placebo — Placebo capsules formulated by pharmacy to be indistinguishable from active drug
-Link: https://clinicaltrials.gov/study/NCT05762952
-
-SUMMARY: Women with chest pain and non obstructive coronary artery disease may have small vessel disease. This study tests 12 weeks of an SGLT2 inhibitor against a placebo.
-
 ## NCT05762991
 Application of Artificial Intelligence on the Diagnosis of Helicobacter Pylori Infection and Premalignant Gastric Lesion: A Randomized Clinical Trial
 
@@ -7756,15 +7729,6 @@ Intervention: : Centerpiece titanium plate — All indexes were collected from t
 Link: https://clinicaltrials.gov/study/NCT05786313
 
 SUMMARY: Cervical spinal stenosis narrows the spinal canal in the neck and can compress the spinal cord. This study tests an individualized, standardized posterior open door surgery.
-
-## NCT05786443
-A Phase II, Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study to Assess the Safety, Tolerability, and Preliminary Efficacy of Empagliflozin Among Patients Initiating Hemodialysis for the Treatment of End-Stage Kidney Disease
-
-Intervention: : Empagliflozin 10 MG — Sodium glucose cotransporter 2 inhibitor (SGLT2i) dosed once-daily over 12 weeks. Administered as oral tablet.
-: Placebo — Empagliflozin-matching placebo dosed once-daily over 12 weeks. Administered as oral tablet.
-Link: https://clinicaltrials.gov/study/NCT05786443
-
-SUMMARY: People starting hemodialysis for kidney failure lose remaining kidney function over time. This study tests empagliflozin against a placebo in patients starting dialysis.
 
 ## NCT05786742
 ULTRA-HYPO Fractionated (UHF) Compared to Moderate-HYPO Fractionated (MHF) Prostate IGRT With HDR Brachytherapy BOOST : A Phase 1-2 Study.
@@ -12220,15 +12184,6 @@ Tremelimumab concentrate for solution for infusion will be supplied in glass via
 Link: https://clinicaltrials.gov/study/NCT05932199
 
 SUMMARY: Pleural mesothelioma that might be removed with surgery needs effective induction therapy. This study compares durvalumab and tremelimumab alone with the same drugs plus chemotherapy.
-
-## NCT05932862
-An Open-Label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of XL309 (ISM3091) as Single-Agent and Combination Therapy in Patients With Advanced Solid Tumors
-
-Intervention: : XL309 — XL309 will be administered orally per assigned schedule.
-: Olaparib — Olaparib will be administered orally per assigned schedule.
-Link: https://clinicaltrials.gov/study/NCT05932862
-
-SUMMARY:
 
 ## NCT05933174
 Promoting Alternatives to Sulfonylureas to Improve Patient Safety in Type 2 Diabetes

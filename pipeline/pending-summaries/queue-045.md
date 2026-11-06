@@ -1614,18 +1614,6 @@ Link: https://clinicaltrials.gov/study/NCT06116396
 
 SUMMARY:
 
-## NCT06116435
-Designing With Dissemination in Mind: Development and Evaluation of a Theory-based Physical Activity Intervention Using the Multiphase Optimization Strategy: Aim 2
-
-Intervention: : Prevent T2 — The PreventT2 curriculum is based on the original 2002 Diabetes Prevention Prevention (DPP) trial and follow-up studies. It promotes modest weight loss (5-7%) and increased physical activity through a lifestyle change program and also reflects new literature on self-efficacy, physical activity, and diet. There are 16 modules that will be delivered over 6 months. Participants will receive a calorie goal and be asked to count calories in order to reduce their caloric intake.
-: Move group-based classes — The Move physical activity support program group-based classes are based on Self-Determination Theory and encourage improvements in autonomous motivation for physical activity. These group-based classes are integrated within the Prevent T2 program curricula.
-: Fitness Membership — Participants will receive 6 months of the Peloton fitness membership. This includes access to livestream and on-demand fitness classes including walking, strength training, yoga, meditation, stretching, etc.
-: Mental Imagery — Participants will receive access to positive mental guided imagery recordings. Recordings describe a pleasant experience while walking and range from 2-8 minutes in duration.
-: Move 1:1 Support — Participants will meet individually with their class instructor to receive personalized recommendations on how to incorporate messages from the Move group-based classes into their daily lives. Sessions are based on Self-Determination Theory and will last approximately 45 minutes.
-Link: https://clinicaltrials.gov/study/NCT06116435
-
-SUMMARY:
-
 ## NCT06117059
 The PRECISION Study: A Phase II Study of 3 Fractions of Prostate SBRT With RayPilot System and HypoCath Image Guidance for Men With NCCN Low or Intermediate Risk Prostate Cancer
 
@@ -2934,14 +2922,6 @@ Towards a Unified System to Classify Treatments for Muscle Tension Dysphonia
 Intervention: : Standard of care voice therapy with novice clinician RTSS-Voice documentation — Voice therapy is individually tailored to each patient and typically includes behavioral ingredients (e.g., applying pressure to the anterior neck, practice voicing in various ways, feedback on performance, provide information on the importance of therapy concepts) to modify the patient's auditory, somatosensory, vocal, musculoskeletal, respiratory, and mental functions. During this time, the treating clinicians will be trained to use the RTSS-Voice in their clinical documentation.
 : Standard of care voice therapy with expert clinician RTSS-Voice documentation — Voice therapy is individually tailored to each patient and typically includes behavioral ingredients (e.g., applying pressure to the anterior neck, practice voicing in various ways, feedback on performance, provide information on the importance of therapy concepts) to modify the patient's auditory, somatosensory, vocal, musculoskeletal, respiratory, and mental functions. During this time, the treating clinicians will have completed their RTSS-Voice training and using the RTSS-Voice in their clinical documentation.
 Link: https://clinicaltrials.gov/study/NCT06152627
-
-SUMMARY:
-
-## NCT06152744
-Evaluation of Membrane Lung Function for Patients Receiving Venovenous Extracorporeal Membrane Oxygenation in High-altitude Regions
-
-Intervention: : Monitoring membrane lung function at different altitudes — The altitude in Beijing is 100m, while the altitude in Xining, Qinghai is 2600m. We will monitor the partial pressure of post-ML arterial oxygen in ECMO patients in these two locations and evaluate whether the normal values of membrane lung function are consistent in different altitudes.
-Link: https://clinicaltrials.gov/study/NCT06152744
 
 SUMMARY:
 
@@ -10279,15 +10259,6 @@ Link: https://clinicaltrials.gov/study/NCT06320132
 
 SUMMARY:
 
-## NCT06320366
-Testing an Accelerated TMS Protocol for Methamphetamine Use Disorder
-
-Intervention: : Sham TMS — The TMS Cool-B65 A/P coil on its placebo side delivers electrical stimulation to the scalp (e.g., mimicking sensations associated with real stimulation) but does not provide magnetic stimulation to the targeted cortical structure.
-: Active TMS — The TMS Cool-B65 A/P coil delivers magnetic stimulation to targeted cortical structure.
-Link: https://clinicaltrials.gov/study/NCT06320366
-
-SUMMARY: Methamphetamine addiction has no approved medicine, and relapse is common. This study tests a fast paced schedule of magnetic brain stimulation against a sham treatment to see whether it reduces cravings and drug use.
-
 ## NCT06320405
 A Phase Ib/II Study of Axatilimab in Combination With Retifanlimab and Paclitaxel for the Treatment of Patients With Advanced Solid Tumors
 
@@ -10351,14 +10322,6 @@ Intervention: : Advanced Trauma Life Support training — Advanced Trauma Life S
 Link: https://clinicaltrials.gov/study/NCT06321419
 
 SUMMARY:
-
-## NCT06321536
-Response to Emerging Antimicrobial Resistance With Containment Microbiota Therapy
-
-Intervention: : Allogeneic Microbiota in Glycerol (9%) (AMG) — Participants will receive an Emory-manufactured MT product, delivered as 250mL via rectal enema or 30mL instillation via an existing functioning feeding tube with the rate adjusted to participant tolerance. Participants will receive three doses over the first seven days of the study.
-Link: https://clinicaltrials.gov/study/NCT06321536
-
-SUMMARY: Germs resistant to antibiotics can live in the gut and cause hard to treat infections. This study tests a transplant of healthy donor gut bacteria to see whether it clears these resistant germs from the gut.
 
 ## NCT06321575
 The Golazo® Peripheral Atherectomy System for a Safe and Effective Atherectomy

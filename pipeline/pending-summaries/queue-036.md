@@ -1087,16 +1087,6 @@ Link: https://clinicaltrials.gov/study/NCT07394088
 SUMMARY:
 
 
-## NCT04534296
-A Randomized Control Trial Comparing the Effects of Early Mobilization and Routine Care on Diaphragmatic Thickness
-
-Intervention: : early mobilization — Early mobilization is a kind of rehabilitation strategy. When the safe standards are met, early mobilization will be performed on subjects randomized in EM group for 30 minutes each time, twice a day, from Monday to Friday. The detailed mobilization activities include bed repositioning，passive or active range of motion and stretching exercises, passive or active respiratory muscle strengthening, sitting in bed, transfer from lying to sitting at edge of bed. Progressive mobilization goals will be individualized for each subject daily, corresponding to their clinical conditions, developmental maturity, strength and endurance.
-: routine care — In this arm, no additional early rehabilitation interventions will be performed except for the routine clinical care, including the ventilation management, spontaneous breathing trials, choice of sedation and analgesia and routine nursing care including repositioning every 2 hours and bed head elevation.
-Link: https://clinicaltrials.gov/study/NCT04534296
-
-SUMMARY:
-
-
 ## NCT06399302
 Prospective Multicenter Research on Donor and Recipient Management Strategies to Improve Lung Transplant Outcomes: PROMISE-Lung Study
 
@@ -1649,15 +1639,6 @@ Intervention: : BNT162b2 — Receiving either the first dose only or both doses 
 : NVX-CoV2373 — Receiving either the first dose only or both doses of NVX-CoV2373 (Novavax COVID-19 vaccine)
 : BBV152 — Receiving either the first dose only or both doses of BBV152 (Covaxin COVID-19 vaccine)
 Link: https://clinicaltrials.gov/study/NCT04834869
-
-SUMMARY:
-
-
-## NCT04533152
-Prognostic Determinants in Patients With Diabetic Foot Ulcer (PDF Cohort) - A French Prospective Multicentre Cohort.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04533152
 
 SUMMARY:
 

@@ -1107,16 +1107,6 @@ Link: https://clinicaltrials.gov/study/NCT07358013
 SUMMARY:
 
 
-## NCT07572513
-Slowly Digestible Carbohydrates for GLP-1 Secretion
-
-Intervention: : Maltodextrin (Placebo) — 75 g of maltodextrin diluted in 200 mL of water, taken once at a study visit
-: Raw Corn Starch — Quantity of raw corn starch will vary between low, medium, and high-dose treatment arms (20, 40, 60 g respectively). Each treatment will total 75 g using maltodextrin to account for mass difference (55, 35, 15 g respectively).
-Link: https://clinicaltrials.gov/study/NCT07572513
-
-SUMMARY:
-
-
 ## NCT07327307
 A Real-World Registry Study to Evaluate Clinical Protection Outcomes Following Post-Exposure Prophylaxis With Zamerovimab and Mazorelvimab Injection in Combination With Rabies Vaccine in Pediatric With Category III Rabies Exposure
 

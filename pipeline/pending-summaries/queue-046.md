@@ -4671,17 +4671,6 @@ Link: https://clinicaltrials.gov/study/NCT06556199
 
 SUMMARY: Primary central nervous system lymphoma that returns or resists treatment has very few options. This study combines selinexor, a pill that traps cancer fighting proteins inside cells, with temozolomide and a PD-1 immunotherapy.
 
-## NCT06556563
-A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Optune® (TTFields, 200 kHz) Concomitant With Maintenance Temozolomide and Pembrolizumab Versus Optune® Concomitant With Maintenance Temozolomide and Placebo for the Treatment of Newly Diagnosed Glioblastoma (EF-41/KEYNOTE D58).
-
-Intervention: : Optune® device — Optune® device delivering TTFields therapy at 200 kHz.
-: Temozolomide — Temozolomide per approved labeling.
-: Pembrolizumab — Pembrolizumab dose throughout this study is 200 mg IV Q3W for a maximum of 35 cycles.
-: Placebo — Placebo (saline solution) dose throughout this study is 200 mg IV Q3W for a maximum of 35 cycles.
-Link: https://clinicaltrials.gov/study/NCT06556563
-
-SUMMARY: Newly diagnosed glioblastoma is an aggressive brain cancer with poor survival. This study adds the immunotherapy pembrolizumab to Optune, a wearable device that uses electric fields to slow tumor growth, and maintenance temozolomide.
-
 ## NCT06556615
 Development and Validation of a Standardized Assessment Instrument for Health-related Quality of Life (HrQoL) in Patients With Classical Homocystinuria
 
@@ -14335,16 +14324,6 @@ Intervention: : Sham Transcranial Random Noise Stimulation — Sham transcranial
 Link: https://clinicaltrials.gov/study/NCT06712849
 
 SUMMARY: Amblyopia, or lazy eye, causes reduced vision in one eye that persists into adulthood. This study tests transcranial random noise stimulation over the visual brain area across several days to see whether it improves vision.
-
-## NCT06712940
-Preventing Youth Firearm Violence in New Orleans: A Hospital-Initiated Community Integrated Approach
-
-Intervention: : Motivational Interviewing and Firearm Safety Training, with Case Management — The basic principles of MI as applied to violence risk reduction in victims of gun violence are as follows: Express Empathy, Develop Discrepancy, Roll with Resistance, and Support Self-Determination/Self- Efficacy. MI practitioners offer themselves as a "consultant" while respecting the participant as the real "expert" in their own life. MI also affirms the patient's ability to make changes and communicates trust in the patient's judgments about readiness and plans for change. Motivational interviewing sessions will occur once a month, for six months with a licensed clinical social worker (LCSW).
-
-The LCSW will additionally provide case management over the course of the six month study, and a one time firearm safety training that covers safe storage methods. At the end of the firearm safety training, the participant will be offered a biometric lock box for free.
-Link: https://clinicaltrials.gov/study/NCT06712940
-
-SUMMARY:
 
 ## NCT06713083
 Physical Activity in Bed Rest Hospitalized High-Risk Pregnant Women. A Pilot Study

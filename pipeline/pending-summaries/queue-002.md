@@ -17925,45 +17925,11 @@ Link: https://clinicaltrials.gov/study/NCT07919236
 
 SUMMARY:
 
-## NCT03542734
-The Associations of Retinal Microvascular Signs and Brain Imaging Markers With Cognitive Impairment in Patients With Small Vessel Disease
-
-Intervention: : multimodal magnetic resonance imaging — multimodal magnetic resonance imaging included T1, FLAIR, MRA, PWI and/or ASL, DTI, DKI, SWI, fMRI
-Link: https://clinicaltrials.gov/study/NCT03542734
-
-SUMMARY:
-
 ## NCT07919418
 Construction of a 3D Multicellular Bioprinted Human Colorectal Cancer Immune-Stromal Microenvironment Model and Its Clinical Translational Research
 
 Intervention: : Surgical resection and adjuvant chemotherapy — Surgical resection will be performed for locoregional lesions. Regimens of adjuvant chemotherapy are directed by clinical guidance and experience.
 Link: https://clinicaltrials.gov/study/NCT07919418
-
-SUMMARY:
-
-## NCT04495244
-Investigation of a Novel Blood Test to Identify Breast Cancer (IDBC)
-
-Intervention: : Syantra DX Breast Cancer — Blood test for detecting the presence of breast cancer.
-Link: https://clinicaltrials.gov/study/NCT04495244
-
-SUMMARY:
-
-## NCT01331668
-Biobank Renal Transplantation University Hospitals Leuven
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01331668
-
-SUMMARY:
-
-## NCT04430452
-Phase II Trial of Durvalumab (MEDI4736) With/Without Tremelimumab for Advanced Hepatocellular Carcinoma After Palliative Hypofractionated Radiotherapy
-
-Intervention: : Durvalumab — Given IV
-: Hypofractionated Radiation Therapy — Undergo hypofractionated RT
-: Tremelimumab — Given IV
-Link: https://clinicaltrials.gov/study/NCT04430452
 
 SUMMARY:
 
@@ -17980,27 +17946,6 @@ Link: https://clinicaltrials.gov/study/NCT07919444
 
 SUMMARY:
 
-## NCT03442465
-Assessment of Healing and Function After Surgical Reconstruction for Neoplasms Involving Bone
-
-Intervention: : Toronto Extremity Salvage Score — Participant-reported outcome score. For lower extremities, this is a 33 item questionnaire containing 32 5 point Likert scale items and 1 open ended response item. For upper extremities, this is a 31 item questionnaire containing 31 5 point Likert scale items and 1 open ended response item. Individual item responses range from 1-5 with higher values indicating a task is easier to complete. A total questionnaire score can also be calculated by taking the sum of the scores minus the number of total items answered, and dividing this by the maximum possible score based on the number of items answered. This results in a range from 0 -100% with higher values indicating greater ability to complete tasks 31. This scoring allows for the fact that some items may not be answered if they do not apply to an individual. It is anticipated that it will take 20 minutes to complete. Scores for the lower extremity and upper extremity may be combined, but we intend to treat them separately for analysis.
-: Musculoskeletal Tumor Society Score — Clinician-reported global score. For lower extremities, this is a 6 item questionnaire containing 6 point Likert scale items which cover pain, function, emotional acceptance, walking ability, gait, and necessary support. Individual item scores range from 0-5 with higher values indicating greater function, less pain, or more positive emotional acceptance. For upper extremities, this is a 6 item questionnaire containing 6 point Likert scale items which cover pain, function, emotional acceptance, hand positioning, manual dexterity, and lifting ability. Individual item scores range from 0-5 with higher values indicating greater function, less pain, or more positive emotional acceptance. A total questionnaire score which is defined as the sum of the individual items divided by the maximum possible score (5 times the number of items) may also be computed. It is represented as a percentage from 0 - 100%.
-: Timed Get Up and Go Test — Validated functional measurement, for lower extremities only. The patient is observed and timed while s/he rises from an arm chair, walks 3 meters, turns, walks back, and sits down again. The test predicts the patient's ability to go outside alone safely and quantifies functional mobility. The test requires no special equipment and will take less than one minute to complete.
-: Orthogonal Radiographs — The distance of bone transport is measured, accounting for calibration of the radiographs. The presence of bone regenerate between the transported segment is determined by the presence of continuous calcified callus from the proximal segment to the distal segment. Each of the orthogonal radiographs is used to visualize two cortices: the AP radiographs visualizes the medial and lateral cortices and the lateral radiograph measures the anterior and posterior cortices. Each continuous calcified cortex is counted with a range from 0 to 4 cortices intact.
-: Weight Bearing for lower extremities only — As part of the current standard of care, patients are asked to stand on a scale with the affected lower extremity on the scale and the unaffected extremity on a block which is level with the scale. The patient is asked to place as much weight as possible on the affected extremity and this weight Is recorded. Each patient's total weight is then measured and the percent of weight bearing is calculated as the amount of weight bearing over the total body weight.
-: Range of Motion — As part of the current standard of care, the joints of the affected extremity are assessed for passive range of motion at each follow up visit by the clinician. If surgery is on the femur, the hip and knee joints are assessed for range of motion. Whereas for the tibia, the knee and ankle joints are assessed. These assessments would be measured using a goniometer placed alongside the extremity and recorded for each direction of movement. Hip range of motion includes flexion, extension, abduction, internal rotation and external rotation. Knee range of motion includes flexion and extension. Ankle range of motion includes dorsiflexion and plantarflexion.
-Link: https://clinicaltrials.gov/study/NCT03442465
-
-SUMMARY:
-
-## NCT04335383
-Isolation of Human Recombinant Therapeutic Monoclonal Anti-Pseudomonas Antibodies From B Lymphocytes of Patients Who Have Been Followed for Infection or Colonization With Pseudomonas Aeruginosa: a Prospective Monocentric Trial
-
-Intervention: : Isolation of anti-Pseudomonas antibodies from type B lymphocytes — Blood sampling. Isolation of mononuclear cells from human peripheral blood by density gradient centrifugation. Identification of functional anti-Pseudomonas antibodies by ELISA and cellular infection assays.
-Link: https://clinicaltrials.gov/study/NCT04335383
-
-SUMMARY:
-
 ## NCT07919457
 Phenotype-based Model for Managing Chronic Post-treatment Pain Among Head and Neck Cancer Survivors: a Pilot Study
 
@@ -18013,36 +17958,6 @@ Link: https://clinicaltrials.gov/study/NCT07919457
 
 SUMMARY:
 
-## NCT04469530
-A Maintenance Protocol of Sirolimus in Combination With Metronomic Chemotherapy in Children With High-Risk Solid Tumors
-
-Intervention: : Sirolimus — Sirolimus is given at a dose of 2 mg/m2 once daily. The amber oral dose syringe should be used to withdraw the prescribed amount of sirolimus oral solution from the bottle. The solution can be drunk or administered at once to assure delivery of all of the medication. It is safe for administration through a nasogastric or G-tube. For tablets, the tablet should not be crushed, split, or otherwise altered. As with the liquid dosing form, the tablets should be given within two hours each day and should be at consistent intervals with regard to meals.
-: Cyclophosphamide — A synthetic antineoplastic drug chemically related to the nitrogen mustards. The drug is administered orally daily, in the formulation appropriate for age.
-
-The solution should be diluted in 20-30 ml of appropriate liquid before administration through nasogastric (NG) tube or gastrostomy (G) tube, with adequate flushing after administration to prevent obstruction of the feeding tube.
-: Etoposide — A semisynthetic derivative of podophyllotoxin which functions as mitotic inhibitor but does not interfere with microtubular assembly. The drug is administered orally daily, in the formulation appropriate for age.
-: Celecoxib — The drug is administered orally daily, in the formulation appropriate for age.The solution is safe for administration through a nasogastric or G-tube.
-Link: https://clinicaltrials.gov/study/NCT04469530
-
-SUMMARY:
-
-## NCT03823144
-Intravital Microscopy (IVM) in Human Solid Tumors
-
-Intervention: : Diagnostic Microscopy — Undergo Intravital microscopy (IVM), which allows real-time, direct visualization of microscopic blood vessels and calculation of blood flow.
-: Fluorescein Sodium Injection — Given IV as part of IVM procedure
-Link: https://clinicaltrials.gov/study/NCT03823144
-
-SUMMARY:
-
-## NCT03667599
-A Randomized Phase 2 Study of Home Care Following Autologous Hematopoietic Stem Cell Transplantation
-
-Intervention: : home care — This is the interventional arm where patients receive the transplant care in their homes.
-Link: https://clinicaltrials.gov/study/NCT03667599
-
-SUMMARY:
-
 ## NCT07919548
 Effects of Pelvic Floor Muscle Training and a Modified Lumbopelvic Belt on Pain, Kinesiophobia, and Functional Status in Pregnant Women With Symphysis Pubis Pain
 
@@ -18052,36 +17967,12 @@ Link: https://clinicaltrials.gov/study/NCT07919548
 
 SUMMARY:
 
-## NCT02029001
-A Two-period, Multicenter, Randomized, Open-label, Phase II Study Evaluating the Clinical Benefit of a Maintenance Treatment Targeting Tumor Molecular Alterations in Patients With Progressive Locally-advanced or Metastatic Solid Tumors
-
-Intervention: : Nilotinib (400 mg BID) — Patient with advanced pigmented villonodular synovitis and tumors with mutations of ABL1, KIT, PDGFRA, PDGFRB, DDR1, DDR2, CSF1R, or amplification/translocation of the genes and/or of the ligands.
-: Everolimus (10 mg QD) — Patients whose tumor harbors mutations or amplification of the PIK3CA, PIK3R1, AKT1, AKT2, mTOR, RICTOR, RAPTOR genes, or with TSC1, TSC2 or PTEN loss (defined as complete loss of both gene copies OR loss of one copy + mutation on the other copy or loss of one copy + loss of expression using immunohistochemistry).
-: Sorafenib (400 mg BID) — Patients whose tumor harbors mutations of VEGFR1-3, PDGFRB, FLT3, BRAF (other than V600 mutations), CRAF, HRAS, KRAS or RET or amplification/translocation of the genes and/or of the ligands.
-: Lapatinib (1500 mg QD) — Patients whose tumor harbors mutations or amplifications of HER2
-: Pazopanib (800 mg QD) — Patients whose tumor harbors mutations of VEGFR1-3, PDGFRA, PDGFRB or KIT\* or amplification /translocation of the genes and/or of the ligands.
-: Olaparib (300 mg BID) — ATM, BAP1 et BRIP1 Mutation only if double hit documented; BRCA2, BRCA1, RAD51C, PALB2, RAD51D Mutation; BRCA1, BRCA2, ATM and BAP1 Loss; BRCA1, BRCA2, ATM and BAP 1 : mutation and heterozygote deletion. except for patients eligible to olaparib's available labels and reimbursements in France.
-
-NOTE : only prostate cancer with RECIST 1.1 evaluable disease are eligible until the French price and reimbursement
-: Durvalumab + Tremelimumab — Any molecular types of tumor (which are known to be immunogenic or with high mutation load), except lung, urothelial and head and neck or CNS tumors, or patients who fulfill conditions to receive any other MTT of the MOST Plus study.
-Link: https://clinicaltrials.gov/study/NCT02029001
-
-SUMMARY:
-
 ## NCT07919574
 Effectiveness of Kinesio Taping as an Adjunct to Conservative Treatment in Women With Stage II Lipedema: A Prospective, Randomized Controlled Trial
 
 Intervention: : Kinesio Taping — Kinesio taping will be applied bilaterally to the lower extremities of participants in the experimental group twice weekly for six weeks, for a total of 12 applications. Kinesio taping will be administered in addition to standard conservative treatment.
 : Standard Conservative Treatment — Standard conservative treatment will consist of patient education regarding lipedema and symptom management, physical activity recommendations, and a standardized lower-extremity home exercise program. This treatment will be provided to participants in both groups during the six-week intervention period.
 Link: https://clinicaltrials.gov/study/NCT07919574
-
-SUMMARY:
-
-## NCT03902912
-Effect of Prednisolone Treatment on Uterine Natural Killer Cells and Endometrial Angiogenesis in Recurrent Miscarriage Around the Time of Embryo Implantation
-
-Intervention: : Prednisolone — prednisolone oral 10 mg/day from day one of the subsequent menstrual cycle to day LH 7 of that cycle. Then, the participants will be given a tailing off dose of 5 mg/day for 3 days followed by 2 mg/day for 3 days and then 1 mg/day for 3 days.
-Link: https://clinicaltrials.gov/study/NCT03902912
 
 SUMMARY:
 
@@ -18131,52 +18022,12 @@ Link: https://clinicaltrials.gov/study/NCT07919977
 
 SUMMARY:
 
-## NCT03988764
-Accurate Diagnosis of Diabetes for Appropriate Management
-
-Intervention: : None AHT — No further intervention planned for either group as part of the current study.
-Link: https://clinicaltrials.gov/study/NCT03988764
-
-SUMMARY:
-
 ## NCT07920068
 Optimal Epinephrine Concentration in Gastric Endoscopic Submucosal Dissection: A Prospective Randomized Trial
 
 Intervention: : Epinephrine 1:100,000 — Epinephrine at a final concentration of 1:100,000, added to Gelofusine solution stained with methylene blue, administered by submucosal injection during gastric endoscopic submucosal dissection.
 : Epinephrine 1:500,000 — Epinephrine at a final concentration of 1:500,000, added to Gelofusine solution stained with methylene blue, administered by submucosal injection during gastric endoscopic submucosal dissection.
 Link: https://clinicaltrials.gov/study/NCT07920068
-
-SUMMARY:
-
-## NCT04336644
-Continuous Versus Intermittent cARdiac Electrical moNitorinG
-
-Intervention: : BodyGuardian Mini Plus — The BodyGuardian Mini Plus attaches to the upper chest of the patient through the use of an adhesive patch. ECG tracings are recorded continuously and sent to the linked smartphone and subsequently to a cloud server.
-Link: https://clinicaltrials.gov/study/NCT04336644
-
-SUMMARY:
-
-## NCT03684109
-Pilot Study for Non-invasive Glioma Characterization Through Molecular Imaging
-
-Intervention: : 3T MRI Scanner — 3T MRI Scanner providing Mega-laser sequence for single-voxel Magnetic Resonance Spectroscopy (MRS) data for 2 hydroxyglutarate (2HG) quantitation.
-Link: https://clinicaltrials.gov/study/NCT03684109
-
-SUMMARY:
-
-## NCT04192344
-A Phase 1, Open-Label Study of ABSK021 to Assess Safety, Tolerability, and Pharmacokinetics in Patients With Advanced Solid Tumor
-
-Intervention: : ABSK021 — ABSK021 oral capsule
-Link: https://clinicaltrials.gov/study/NCT04192344
-
-SUMMARY:
-
-## NCT04273607
-Anticoagulation-free VV ECMO for Acute Respiratory Failure: A Pilot Safety and Feasibility Randomized Clinical Trial
-
-Intervention: : Subcutaneous Heparin — The intervention group will receive prophylactic heparin instead of standard of care therapeutic intravenous heparin
-Link: https://clinicaltrials.gov/study/NCT04273607
 
 SUMMARY:
 
@@ -18200,6 +18051,138 @@ Comparison of the Safety and Aesthetic Outcomes of a Novel Endoscopic-Assisted B
 Intervention: : Endoscopy-assisted breast-conserving surgery (SRRSHzb-EABCS) — A novel gasless endoscopy-assisted breast-conserving surgery using an expansion-traction system (a skin flap dissector and a V-shaped retractor) and a metal wire-based tumor localization system. Through a single 3.0-4.5 cm axillary incision, the retromammary space is created endoscopically. The resection margin is marked 1.5-2.0 cm beyond the tumor edge; U-shaped cutting wires and marking wires are placed percutaneously. The flap is dissected while the V-shaped retractor maintains the working space. Each cutting wire is energized with an electrocautery pencil to cut along the planned margin ("hot-wire" cutting). Margins are assessed by frozen section; positive margins undergo local re-excision, and repeatedly positive margins lead to mastectomy. Axillary management: sentinel lymph node biopsy (SLNB) for clinically node-negative patients, with axillary lymph node dissection (ALND) performed according to biopsy results; clinically node-positive patients undergo ALND directly.
 : Conventional open breast-conserving surgery (CBCS) — Conventional open breast-conserving surgery performed according to the Chinese Anti-Cancer Association guidelines for breast-conserving therapy. Generally, separate incisions are made on the breast and in the axilla. The resection includes the tumor together with a margin of surrounding breast tissue. Specimen margins are marked and assessed (inking and/or intraoperative frozen section). Four to six titanium clips are placed in the tumor bed for radiation boost localization. Oncoplastic volume displacement or volume replacement techniques are applied when needed. If a margin is positive on intraoperative or postoperative pathology, local re-excision of the margin is performed, and if margins remain repeatedly positive, mastectomy is performed. Axillary management: sentinel lymph node biopsy (SLNB) for clinically node-negative patients, with axillary lymph node dissection (ALND) performed according to biopsy results; clinically node-positive patients undergo ALND directly.
 Link: https://clinicaltrials.gov/study/NCT07920094
+
+SUMMARY:
+
+## NCT01243931
+Optical Coherence Tomography Guided Transepithelial Phototherapeutic Keratectomy
+
+Intervention: : OCT-guided laser phototherapeutic keratectomy — Preoperative measurements from the OCT are used to assist the calculation in deciding the laser depth settings for removal of anterior corneal opacities and defects in the phototherapeutic PTK procedure. The surgeon uses the OCT data to plan a range of treatment parameters to remove most of the opacity while preserving at least 250 microns of residual corneal stroma.
+Link: https://clinicaltrials.gov/study/NCT01243931
+
+SUMMARY:
+
+## NCT04324164
+Survival Outcome of EGFR-TKI in Uncommon EGFR Mutant Advanced Non-small Cell Lung Cancer in China
+
+Intervention: : Third-generation EGFR-TKI — Third-generation EGFR-TKI including Osimertinib/Furmonertinib/Almonertinib, etc.
+: EGFR-TKI — All EGFR-TKI
+Link: https://clinicaltrials.gov/study/NCT04324164
+
+SUMMARY:
+
+## NCT04232566
+Investigating the Link Between Type 2 Immunity and NAFLD in Human Obesity- AIM 1
+
+Intervention: : Bariatric surgery — Evaluate liver fibrosis by elastography before gastric bypass surgery.
+Link: https://clinicaltrials.gov/study/NCT04232566
+
+SUMMARY:
+
+## NCT03866525
+Phase I/II Study of OH2 Injection, an Oncolytic Type 2 Herpes Simplex Virus Expressing Granulocyte Macrophage Colony-Stimulating Factor, in Malignant Solid Tumors
+
+Intervention: : OH2 injection, with or without irinotecan or HX008 — OH2: Oncolytic Type 2 Herpes Simplex Virus Irinotecan: cytotoxic agent HX008: anti-PD-1 antibody
+Link: https://clinicaltrials.gov/study/NCT03866525
+
+SUMMARY:
+
+## NCT04247672
+The ATtune Knee Outcome Study: Prospective Evaluation of a Novel Uncemented Rotating Platform Total Knee Arthroplasty
+
+Intervention: : Total Knee Arthroplasty (uncemented rotating platform ATTUNE) — All patients receive an uncemented ATTUNE rotating platform knee system.
+Link: https://clinicaltrials.gov/study/NCT04247672
+
+SUMMARY:
+
+## NCT02302482
+Predictive Factors of the Autonomy Level Change Related to Memory Disorders
+
+Intervention: : The Lawton Instrumental Activities of Daily Living score (IADL), and the disability assessment of dementia score (DAD-6
+Link: https://clinicaltrials.gov/study/NCT02302482
+
+SUMMARY:
+
+## NCT02193542
+Prospective Observation Study of Incidence of Difficult Airway and Difficult Neuraxial Placement in Obstetric Patients
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT02193542
+
+SUMMARY:
+
+## NCT03836196
+Optimizing the Management of High-risk and Unfavorable Intermediate-risk Disease: the Use of Advanced Imaging, Trans-perineal Mapping Biopsies, and Dual-strength Brachytherapy Sources to Minimize Radiation Dose to Normal Tissues
+
+Intervention: : LDR Brachytherapy and External Beam Radiation Therapy — Low Dose Rate Brachytherapy (LDR-PB) and External Beam Radiation Therapy (EBRT)
+Link: https://clinicaltrials.gov/study/NCT03836196
+
+SUMMARY:
+
+## NCT03031210
+Treatment of Non-severe Community Acquired Pneumonia With Twice Daily Compared to Thrice Daily Regimen- A Non-inferiority Pragmatic Randomized-controlled Trial.
+
+Intervention: : Amoxicillin — (90 mg/kg/day) twice daily
+Link: https://clinicaltrials.gov/study/NCT03031210
+
+SUMMARY:
+
+## NCT02457962
+Mayo Clinic Radiotherapy Patient Outcomes Registry and Biobanking Study
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT02457962
+
+SUMMARY:
+
+## NCT03769129
+A Prospective，Single Center, Randomized Control，Phase III Clinical Study for Evaluating the Safety and Efficacy of Pembrolizumab Combined With MWA for Patients With Stage ⅢB-Ⅳ NSCLC Who Failed With First-line Therapy
+
+Intervention: : Pembrolizumab — Pembrolizumab
+: microwave ablation — microwave ablation
+Link: https://clinicaltrials.gov/study/NCT03769129
+
+SUMMARY:
+
+## NCT04472702
+Fluoroscopic Versus Ultrasound Guidance for Cooled Radiofrequency Ablation of Geniculate Nerves in Knee Osteoarthritis: A Randomized Control Trial
+
+Intervention: : cRFA — cRFA intervention will occur under sterile conditions, the patient will be placed in a supine position on a table and a bolster to provide flexion in the treated knee joint. Skin and soft tissues will be anaesthetized with 2 mL 1% lidocaine at each of the three anatomic sites for cRFA, and a introducer needle will then be placed under ultrasound or fluoroscopic guidance to the SLG, SMG, and IMG nerves. Adjustments at these positions will be made when using ultrasound guidance in order to capture the geniculate nerve if the nerve and/or its accompanying vasculature can be directly visualized using greyscale or Doppler modes. When using ultrasound, the physician will note and record whether their positioning of the needle is based on bony landmarks, direct visualization of the nerve, and/or vascularity accompanying the nerve. Once the introducer needle is placed, the cRFA will be placed into the introducer needle.
+Link: https://clinicaltrials.gov/study/NCT04472702
+
+SUMMARY:
+
+## NCT03384537
+Antimicrobial Effect of Tropolone Containing Versus Tropolone Free Mouthwash - Randomized Clinical Trail
+
+Intervention: : Listerine total care zero — reducing intra-oral cariogenic microorganism.
+: Chlorhexidine Mouthwash (0.2%). — Chlorhexidine Mouthwash (0.2%).
+Link: https://clinicaltrials.gov/study/NCT03384537
+
+SUMMARY:
+
+## NCT02550522
+Brain Computer Interface: Neuroprosthetic Control of a Motorized Exoskeleton
+
+Intervention: : Brain-computer interface (BCI) platform including two implanted remotely powered ElectroCorticoGraph (ECoG) recording devices and an exoskeleton
+Link: https://clinicaltrials.gov/study/NCT02550522
+
+SUMMARY:
+
+## NCT02960737
+Dysphagia Evaluation After Stroke - a Randomized Controlled Trial of Oral Neuromuscular Training on Swallowing Dysfunction (DESIRE)
+
+Intervention: : Oral neuromuscular training using an oral device — The oral device is used for 30 seconds, three times a day, before meals and implies new possibilities for training of the orofacial and pharyngeal muscles.
+Link: https://clinicaltrials.gov/study/NCT02960737
+
+SUMMARY:
+
+## NCT03796572
+A Randomized Controlled Trial of Infraclavicular Nerve Blocks for Postoperative Pain Control in Operative Pediatric Lateral Condyle Fractures
+
+Intervention: : Ropivacaine — Regional anesthesia protocol of open reduction percutaneous pinning of lateral condyle humerus fracture Ropivacaine
+: Puncture Wound and Dressing — No regional anesthesia is given for open reduction percutaneous pinning of lateral condyle humerus fracture
+Link: https://clinicaltrials.gov/study/NCT03796572
 
 SUMMARY:
 

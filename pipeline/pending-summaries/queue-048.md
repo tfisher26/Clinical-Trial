@@ -3851,14 +3851,6 @@ Link: https://clinicaltrials.gov/study/NCT07054294
 
 SUMMARY:
 
-## NCT07054333
-Objektiv Mätning av Smärtreglering Hos Personer Som Erhållit Internetförmedlad Exponeringsbaserad Kognitiv Beteendeterapi
-
-Intervention: : Internet-delivered exposure-based cognitive behavior therapy — The primary treatment component is exposure to stimuli (situations and activities) that give rise to pain, distress, and unwanted emotional responses. The treatment proceeds in accordance with functional analysis. Exercises are tailored for the patient so that, for example, individuals whose main coping strategy is to be overly active (i.e., persistence behavior) are encouraged to sit down and observe pain and other aversive bodily sensations as they arise. The protocol also includes regular exercises where the participant is encouraged to observe and name physical sensations without acting on them.
-Link: https://clinicaltrials.gov/study/NCT07054333
-
-SUMMARY:
-
 ## NCT07054398
 Assessment of Serum Catestatin Level in Acne Vulgaris Patients Before and After Treatment With Oral Isotretinoin
 
@@ -7022,17 +7014,6 @@ Link: https://clinicaltrials.gov/study/NCT07098936
 
 SUMMARY:
 
-## NCT07099170
-Comparison of Training Models in Pelvic Floor Muscle Training in Healthy Adult Women
-
-Intervention: : Brochure-Based Pelvic Floor Muscle Training — Brochure-based pelvic floor muscle training will be conducted by providing participants with a brochure containing information about the anatomy, functions, and importance of the pelvic floor, as well as instructions on how to contract the pelvic floor muscles. All educational content will be delivered solely through the brochure, and no additional verbal or written information will be provided to the participants. The brochure will include detailed explanations of pelvic floor muscle contractions and imagery techniques. Participants will be given 30 minutes to review the brochure and apply the training independently.
-: Verbal Instruction-Based Pelvic Floor Muscle Training — Verbal instruction-based pelvic floor muscle training involves providing participants with information about the anatomy, functions, and importance of the pelvic floor, as well as instruction on how to correctly contract the pelvic floor muscles. All explanations will be delivered verbally, and no additional equipment or visual aids will be used. During the training, imagery techniques based on verbal cues will be employed. Commonly used metaphors such as a hammock, a faucet, an elevator, or a ship will be utilized to facilitate imagery. Participants will be asked to focus on their pelvic floor and imagine the contractions, and they will be informed about the potential effects of these contractions during the session.
-: Visual-Aided Pelvic Floor Muscle Training — Visual-aided pelvic floor muscle training includes providing participants with information about the anatomy, functions, and importance of the pelvic floor, as well as training on how to properly contract the pelvic floor muscles. The training will be conducted using anatomical models, visual materials, and videos. Following the explanation of pelvic floor anatomy with models and visual aids, the function and importance of the pelvic floor will be presented through video demonstrations. During the session, the pelvic floor will be visually represented using common metaphors such as a hammock, a faucet, an elevator, or a ship, and these visuals will support the use of imagery techniques. Participants will be asked to focus on their pelvic floor and imagine the contractions, and they will be provided with information about the expected effects of the contractions.
-: External Palpation-Aided Pelvic Floor Muscle Training — External Palpation-Aided Pelvic Floor Muscle Training This training involves educating participants on the pelvic floor's anatomy, function, and importance, along with instructions on proper muscle contraction. After an educational session using anatomical models, visuals, and videos, external palpation is used to guide correct muscle activation. In a hook-lying position and fully clothed, participants receive light, transverse pressure from a physiotherapist on key pelvic floor muscles (ischiocavernosus, bulbospongiosus/bulbocavernosus, or perineum). The therapist observes real-time muscle response, provides feedback, and offers verbal cues. Imagery techniques (e.g., hammock, faucet, elevator, ship) may be used to support motor learning and awareness.
-Link: https://clinicaltrials.gov/study/NCT07099170
-
-SUMMARY:
-
 ## NCT07099599
 Image Detection of Impaired Microcirculatory Reperfusion
 
@@ -9383,14 +9364,6 @@ Link: https://clinicaltrials.gov/study/NCT07133750
 
 SUMMARY:
 
-## NCT07133789
-The Contribution of Optical Mapping to the Characterization of Chromosomal Rearrangements in Patients With Neurodevelopmental Disorders
-
-Intervention: : blood sampling of all patients and their parents — blood sampling of all patients and their parents
-Link: https://clinicaltrials.gov/study/NCT07133789
-
-SUMMARY:
-
 ## NCT07133893
 Effects of Transcranial Photobiomodulation and Attention Bias Modification on Anxiety Symptoms and Brain Hemodynamics
 
@@ -10672,14 +10645,6 @@ Link: https://clinicaltrials.gov/study/NCT07150949
 
 SUMMARY:
 
-## NCT07151001
-Pivotal Trial of Automated AI-based System for Early Diagnosis of Diabetic Retinopathy Using Retinal Color Imaging
-
-Intervention: : No intervention — No intervention. Evaluate the automated DR screening software.
-Link: https://clinicaltrials.gov/study/NCT07151001
-
-SUMMARY:
-
 ## NCT07151105
 Anti-inflammatory Activities of Vitamin C Supplementation on the Gut Barrier Function in Adults With Obesity
 
@@ -10869,15 +10834,6 @@ Chronic Kidney Disease Screening in Patients Followed at a Tertiary Care Center
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07153432
-
-SUMMARY:
-
-## NCT07153523
-Effect of High Intensity Interval Training Versus Conservative Treatment on Strength, Endurance and Flexibility of Undergraduate Physical Therapy Students
-
-Intervention: : High intensity interval training — High intensity interval training provides time efficient benefits for strength and endurance training. It comprises of high burst training with rest periods. For experimental group HIIT training will be applied comprising of burpees, squats, arm walking and lunges. The exercise will be given 3 times/ week for 4 weeks. For standardization experimental group will receive 10 minutes of warm up and cool down period comprising of stretching exercises
-: Routine physical therapy — For control group routine physical therapy will be applied for strength training using weights and running drills for endurance training. The exercise will be given 3 times/ week for 4 weeks. For standardization control group will receive 10 minutes of warm up and cool down period comprising of stretching exercises
-Link: https://clinicaltrials.gov/study/NCT07153523
 
 SUMMARY:
 
@@ -12615,16 +12571,6 @@ Link: https://clinicaltrials.gov/study/NCT07180537
 
 SUMMARY:
 
-## NCT07180940
-Comparison of Perineural Dexamethasone Versus Dexmedetomidine as Adjuvants to Erector Spinae Plane Block in Lumbar Spine Surgery: A Randomized, Double-blind, Controlled Trial
-
-Intervention: : 0.9%NaCl — 2 x 20ml 0.2% ropivacaine with 2ml of 0.9% NaCl
-: Dexamethasone 4mg — 2 x 20ml 0.2% ropivacaine with 2mg of dexamethasone
-: Dexmedetomidine — 2 x 20ml 0.2% ropivacaine with 25ug Dexmedetomidine
-Link: https://clinicaltrials.gov/study/NCT07180940
-
-SUMMARY:
-
 ## NCT07181109
 ZENITH: A Phase 3 Global, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Zilebesiran in Addition to Standard of Care in Reducing Major Adverse Cardiovascular Events in Adult Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease
 
@@ -13254,14 +13200,6 @@ Efficacy of Repetitive Transcranial Magnetic Stimulation Over the Primary Cortex
 Intervention: : Repetitive transcranial magnetic stimulation (rTMS) - active — rTMS session active on the primary motor cortex
 : Repetitive transcranial magnetic stimulation (rTMS) - inactive — rTMS session inactive on the primary motor cortex
 Link: https://clinicaltrials.gov/study/NCT07187219
-
-SUMMARY:
-
-## NCT07187297
-A Prospective Controlled Study to Evaluate the Safety and Effectiveness of Thermage® FLX Radiofrequency Treatment to Improve Lines and Wrinkles and to Lift and Tighten Lax Tissue in the Neck, Abdomen, Upper Arms, and Face
-
-Intervention: : Thermage FLX — The Thermage FLX System ('System') is a monopolar, capacitively coupled radiofrequency System designed for use in non-invasive dermatological procedures
-Link: https://clinicaltrials.gov/study/NCT07187297
 
 SUMMARY:
 
@@ -14654,14 +14592,6 @@ Interest of High-speed Centrifugation for Measuring Anti-Xa Activity on Lipemic 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07200674
-
-SUMMARY:
-
-## NCT07200726
-The Role of Neuroinflammation on Neurocognitive Outcome in Cardiac Surgery: INOCS Study
-
-Intervention: : Observational study design - no intervention — Observational study design - no intervention
-Link: https://clinicaltrials.gov/study/NCT07200726
 
 SUMMARY:
 

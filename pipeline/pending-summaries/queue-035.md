@@ -1200,16 +1200,6 @@ Link: https://clinicaltrials.gov/study/NCT06219486
 SUMMARY:
 
 
-## NCT05275972
-Descemet Endothelial Thickness Comparison Trials (DETECT I & II)
-
-Intervention: : Ripasudil — Topical Ripasudil 0.4%
-: Placebo — Topical Placebo
-Link: https://clinicaltrials.gov/study/NCT05275972
-
-SUMMARY:
-
-
 ## NCT06406049
 FINISHING HIV: An Ending the HIV Epidemic (EHE) Model for Latinx Integrating One-Stop-Shop Pre-Exposure Prophylaxis (PrEP) Services, a Social Network Support Program and a National Pharmacy Chain
 
@@ -2575,15 +2565,6 @@ Enhancing Skin Appearance and Quality of Life in Breast Cancer Survivors on Arom
 
 Intervention: : Non-Interventional Study — Non-interventional study
 Link: https://clinicaltrials.gov/study/NCT06401889
-
-SUMMARY:
-
-
-## NCT06800742
-Body Composition, Resting Energy Expenditure and Physical Activity in Adolescents With Anorexia Nervosa
-
-Intervention: : Collection of anthropometric and biochemical parameters — Collection of anthropometric parameters biochemical parameters basal metabolic rate body composition questionnaires
-Link: https://clinicaltrials.gov/study/NCT06800742
 
 SUMMARY:
 
@@ -4022,15 +4003,6 @@ Link: https://clinicaltrials.gov/study/NCT06435585
 SUMMARY:
 
 
-## NCT07115277
-A Single-arm, Multicenter, Phase III Clinical Trial , Evaluate the Diagnostic Performance and Safety of Flotufolastat F-18 Injection PET Imaging in Prostate Cancer Subjects With Biochemical Recurrence Following Prior Treatment
-
-Intervention: : Flotufolastat F-18 Injection — All patients will receive one injection of Flotufolastat F-18 Injection, a PET radiopharmaceutical selective for PSMA. For the injection, subjects will receive a target dose of 8 mCi (296 MBq) ± 20% IV as a bolus injection. Flotufolastat F-18 Injection will be followed by a 10 ml saline flush.
-Link: https://clinicaltrials.gov/study/NCT07115277
-
-SUMMARY:
-
-
 ## NCT06722846
 Communicating Health Options to Inform Care and Empower Strategic Care Planning (CHOICES): A Multi-layer Randomized Case Vignette Study.
 
@@ -4877,16 +4849,6 @@ Validation and Clinical Usability of a New Screening Tool: MASCoD - Multidimensi
 
 Intervention: : cognitive training — After the multidimensional evaluation at T0, the participants will be randomly allocated into an experimental group and a wait list control group. Specifically, cognitive training will be offered to half of the outpatients included in this research by means of technological devices (Neurotablet). A neuropsychologist will supervise the cognitive training offline (about 30 minutes per 5 days, 8 weeks) and through a face-to-face 1 hour-session each week per each outpatient.
 Link: https://clinicaltrials.gov/study/NCT05815329
-
-SUMMARY:
-
-
-## NCT06936202
-Effects of Spirulina Supplementation on Mental Health in Healthy Adults
-
-Intervention: : Spirulina capsules — active intervention
-: Placebo — no active ingredient
-Link: https://clinicaltrials.gov/study/NCT06936202
 
 SUMMARY:
 

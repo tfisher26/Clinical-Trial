@@ -1830,15 +1830,6 @@ Link: https://clinicaltrials.gov/study/NCT06947876
 SUMMARY:
 
 
-## NCT06166810
-In Silico and in Vitro Targeting of Healthy Gut Bacteria With Fiber Degrading Metabolic Potential
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06166810
-
-SUMMARY:
-
-
 ## NCT06356272
 Oropharynx (OPX) Biomarker Trial
 

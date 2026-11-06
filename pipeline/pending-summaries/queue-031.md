@@ -615,19 +615,6 @@ Link: https://clinicaltrials.gov/study/NCT06529744
 SUMMARY:
 
 
-## NCT04934839
-Instrumental Analysis of Walking in People With Osseointegrated Prostheses for Lower Extremity Amputation: Comparative Evaluation With Traditional Socket Prostheses
-
-Intervention: : Test of standing balance (Equitest System). Test of walking in tied and split conditions on a force-sensorized split-belt treadmill. — Tests of standing balance will be performed using the EquiTest System posturographic platform. Individuals will be requested to perform three tasks within the EquiTest battery: Sensory Organization test, Motor Control test backward/forward, Adaptation Test upward/downward.
-
-Gait analysis will be performed on a force sensorized split-belt treadmill. Participants will walk at increasing velocities from 0.2 m/s to the highest sustainable velocity in tied-belt condition. Velocity will be increased by 0.1 m/s every 20 consecutive strides.
-
-During gait analysis in the split-belt condition, participants will walk for 30 seconds with both belts at 0.4 m/s. Then, the velocity of the belt under the prosthetic limb will be increased to 1.2 m/s. After 6 minutes, the velocity of the faster belt will be restored at 0.4 m/s for 6 more minutes. Different combinations of velocities could be tested based on the patients' characteristics, maintaining a ratio of 3:1 between the velocities of the 2 belts.
-Link: https://clinicaltrials.gov/study/NCT04934839
-
-SUMMARY:
-
-
 ## NCT07509944
 A Functional Near- Infrared Spectroscopy Study on the Brain Activation Characteristics of Stroke Patients During Mirror Movement
 

@@ -1860,15 +1860,6 @@ Link: https://clinicaltrials.gov/study/NCT05752383
 SUMMARY:
 
 
-## NCT04530734
-Blood Concentration in Lorazepam and Treatment in Adult Catatonia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04530734
-
-SUMMARY:
-
-
 ## NCT05837325
 Is the AMH Intrafollicular Level a Predictor of the Ploidy Status of the Blastocyst? A Prospective Study
 

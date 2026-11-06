@@ -1766,16 +1766,6 @@ Link: https://clinicaltrials.gov/study/NCT07438691
 SUMMARY:
 
 
-## NCT07361406
-SweetSpot - The Effect of Non-nutritive Sweeteners on Glucose Regulation, Gut Microbiome, and Gut Hormone Secretion in Healthy Adults: a Fully Controlled Cross-over Intervention Study
-
-Intervention: : Diet with non-nutritive sweeteners — Fully controlled diet with added mixture of non-nutritive sweeteners. The mixture consist of 6 different non-nutritive sweeteners: acesulfame-K, aspartame, cyclamate, saccharin, sucralose, and rebaudioside A (stevia).
-: Diet without non-nutritive sweeteners — Fully controlled diet without any non-nutritive sweeteners added.
-Link: https://clinicaltrials.gov/study/NCT07361406
-
-SUMMARY:
-
-
 ## NCT05968729
 Assessment of Gait Adaptation Due to an Asymmetric Walking Protocol
 
@@ -3618,15 +3608,6 @@ Clinical Impact of Thoracic Scanographic Characteristics of Hematologic Malignan
 
 Intervention: : analysis of thoracic scans — analysis of thoracic scans realised in standard care
 Link: https://clinicaltrials.gov/study/NCT05694806
-
-SUMMARY:
-
-
-## NCT06163794
-New Participatory Research Strategy and Multidimensional Phenotyping Towards Personalized Preventive Nutritional Support for Elderly People
-
-Intervention: : Nutritional postprandial test — Metabolic responses to several test meals
-Link: https://clinicaltrials.gov/study/NCT06163794
 
 SUMMARY:
 

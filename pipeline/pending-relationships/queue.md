@@ -103175,3 +103175,34 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05351242
+Thermotherapy Against Persistent Bacterial LUNG Infections
+Conditions: respiratory/asthma, respiratory/asthma_chronic_obstructive_pulmonary_dis, respiratory/bronchiectasis, respiratory/lung_diseases_obstructive, respiratory/pulmonary_disease_chronic_obstructive
+
+Inclusion criteria:
+"""
+* Age ≥ 18 years
+* Competent and capable
+* FEV1\>1,0 L
+* Have had a positive culture from sputum or BAL min. 2 times in the last 24 months for bacteria of the species: Pseudomonas aeruginosa, Stenotrophomonas maltophilia, Staphylococcus aureus, Haemophilus influenzae, Achromobacter xylosoxidans, Klebsiella oxytoca or Klebsiella pneumoniae. In addition, min. 1 positive culture after treatment with antibiotics
+* Willing to go to a sauna (min. temperature of 85℃ for at least 7 minutes) four times weekly for six months or avoid going to a sauna for six months
+"""
+
+RELATIONSHIP:
+
+## NCT05882448
+Study of the Influence of Intraperitoneal Insufflation of Carbon Dioxide (CO2) by Laparoscopy on the Short-term Evolution of Premature Infants With Ulcerative Necrotizing Enterocolitis
+Conditions: digestive/enterocolitis_necrotizing, renal/premature_birth
+
+Inclusion criteria:
+"""
+* Premature newborn (term of birth: \<37 weeks of amenorrhea)
+* Diagnosis of ECUN by the surgeon (distension abdominal +/- rectal bleeding +/- green gastric residue, increased biological inflammatory syndrome, + pneumatosis on abdominal radiography)
+* Hospitalized and complicated ECUN: presenting either a pneumoperitoneum on abdominal X-ray or a absence of clinical and biological improvement after 48 hours of maximum well-conducted medical treatment (IV antibiotic therapy and digestive rest).
+* Hospitalized in the 2 participating centers
+* Of which the 2 holders of parental authority have been informed and have signed the consent form
+* Having social security coverage (social security or CMU)
+"""
+
+RELATIONSHIP:
+

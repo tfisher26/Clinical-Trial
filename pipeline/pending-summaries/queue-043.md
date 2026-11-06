@@ -1585,16 +1585,6 @@ Link: https://clinicaltrials.gov/study/NCT04532047
 
 SUMMARY: Lysosomal storage disorders are inherited diseases where the body cannot break down certain substances. This study tests giving enzyme replacement therapy, such as laronidase, to babies before birth.
 
-## NCT04533295
-Effect of Acupuncture on IVF Pregnancy Outcomes for Women With Recurrent Implantation Failure: a Multi-center Randomized Controlled Clinical Trial
-
-Intervention: : acupuncture and IVF — Acupuncture was performed three times a week for 30 minutes each time, starting from the 5th day of menstruation before the cycle of the transfer and ending within 24 hours after embryo transfer.
-: sham acupuncture and IVF — Sham acupuncture was performed three times a week for 30 minutes each time, starting from the 5th day of menstruation before the cycle of the transfer and ending within 24 hours after embryo transfer.
-: control group — no acupuncture, only IVF
-Link: https://clinicaltrials.gov/study/NCT04533295
-
-SUMMARY: Some women going through IVF have embryos that repeatedly fail to implant in the womb. This study tests acupuncture given three times a week alongside IVF to see if it improves pregnancy rates.
-
 ## NCT04536103
 Multi-Vendor Multi-Site Novel Accelerated MRI Relaxometry
 
@@ -6289,15 +6279,6 @@ Intervention: : Terry2 Band — Hemostasis protocol following radial or cubital 
 Link: https://clinicaltrials.gov/study/NCT04933136
 
 SUMMARY:
-
-## NCT04933266
-Ultrasound-guided Subpectoral Plexus Block With Multi-level Thoracic Paravertebral Block for Surgical Anaesthesia During Primary Breast Cancer Surgery: A Prospective Randomized Double-blind Trial
-
-Intervention: : Subpectoral plexus block (low dose) — It is one type of peripheral nerve blocks for surgery over the chest. Patients will have an ultrasound scan and nerve block with local anesthetic (LA) agent (0.25% levobupivacaine 10ml) injected 2 target sites through one skin puncture. One at the myofascial plane between the pectoralis major and minor (5ml of LA) and then under direct ultrasound visualization, the needle will be redirected and the remaining 5ml of LA will be injected at the plane between the pectoralis minor and the serratus anterior muscle, close to the origin of thoracoacromial artery from the axillary artery at the level of the third rib.
-: Subpectoral plexus block (High dose) — It is one type of peripheral nerve blocks for surgery over the chest. Patients will have an ultrasound scan and nerve block with local anesthetic (LA) agent (0.25% levobupivacaine 20ml) injected 2 target sites through one skin puncture. One at the myofascial plane between the pectoralis major and minor (10ml of LA) and then under direct ultrasound visualization, the needle will be redirected and the remaining 10ml of LA will be injected at the plane between the pectoralis minor and the serratus anterior muscle, close to the origin of thoracoacromial artery from the axillary artery at the level of the third rib.
-Link: https://clinicaltrials.gov/study/NCT04933266
-
-SUMMARY: Breast cancer surgery is usually done under general anesthesia. This study tests a combination of ultrasound guided nerve blocks of the chest wall and spine area as the main anesthesia for breast cancer surgery.
 
 ## NCT04933435
 Phase II Non-Randomized Trial of Interventional Radiology Liver Directed Therapies and Hypofractionated Image-Guided Radiation Therapy in Veteran and Non-Veteran, Non-surgical Hepatocellular Carcinoma Patients
