@@ -1577,14 +1577,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04532047
-PEARL (PrEnAtal Enzyme Replacement Therapy for Lysosomal Storage Disorders)
-
-Intervention: : Aldurazyme (laronidase) — Enzyme replacement therapy for lysosomal storage diseases
-Link: https://clinicaltrials.gov/study/NCT04532047
-
-SUMMARY: Lysosomal storage disorders are inherited diseases where the body cannot break down certain substances. This study tests giving enzyme replacement therapy, such as laronidase, to babies before birth.
-
 ## NCT04536103
 Multi-Vendor Multi-Site Novel Accelerated MRI Relaxometry
 
