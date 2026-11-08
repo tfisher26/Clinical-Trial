@@ -18054,150 +18054,142 @@ Link: https://clinicaltrials.gov/study/NCT07920094
 
 SUMMARY:
 
-## NCT02650453
-Ongoing Registry of Deep Venous Reconstructions
-
-Intervention: : Deep venous reconstruction — PTA \& stenting with/without endophlebectomy and/or arteriovenous fistula creation
-Link: https://clinicaltrials.gov/study/NCT02650453
-
-SUMMARY:
-
-## NCT03113552
-Prognostic Impact of the Location of Mitral Valve Prolapse on the Long-term Results of Mitral Plasty
+## NCT00515567
+Utilization of Explanted Lungs for Isolation of Tissue Samples and Primary Cell Lines to Study Pulmonary Fibrosis
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03113552
+Link: https://clinicaltrials.gov/study/NCT00515567
 
 SUMMARY:
 
-## NCT03407469
-Measurement of Adherence and Health-related Quality of Life, and Health-Care Resource Utilization During Anticoagulation Therapy in Cancer-Related Venous Thromboembolism (VTE)
+## NCT04045470
+A Pilot of a Microdevice For In Situ Candidate Drug Screening in Cutaneous Lesions of T-Cell Lymphoma
 
-Intervention: : Questionnaires — Questionnaires completed at the time participant joins this study and then about 30 days, 3 months, 6 months, and 12 months after that. Questionnaires will be about quality of life and experiences with treatment for venous thromboembolism (VTE). It should take less than 10 minutes to complete the questionnaires each time.
-Link: https://clinicaltrials.gov/study/NCT03407469
-
-SUMMARY:
-
-## NCT03750266
-The Role of 3D Images and Models to Aid Management of Cases of Congenital Diaphragmatic Hernia Diagnosed in the Antenatal Period. Consecutive Patients Studied From Diagnosis to Post Operative Period.
-
-Intervention: : No intervention data collected through routine scans — No intervention, we wish to use the images a mother would have done as part of her normal medical care and make both 3D animations and 3D models of the baby and it's CDH.
-Link: https://clinicaltrials.gov/study/NCT03750266
+Intervention: : Microdevices — The microdevice was developed as a tool with the ultimate goal to help screen several existing and investigational drugs directly within a patient's tumor to identify what drugs are the most effective for treating a patient's cancer.
+: Standard of care therapy — Participant to receive standard of care therapy as previously determined by participant's treating oncologist and/or dermatologist, which may include a skin-directed or systemic therapy
+: Standard of care systemic therapy — Participant to receive standard of care therapy as previously determined by participant's treating oncologist and/or dermatologist, which must include a systemic therapy.
+Link: https://clinicaltrials.gov/study/NCT04045470
 
 SUMMARY:
 
-## NCT03471260
-Phase Ib/II Investigator Initiated Study of the IDH1-Mutant Inhibitor Ivosidenib (AG120) With the BCL2 Inhibitor Venetoclax +/- Azacitidine in IDH1-Mutated Hematologic Malignancies
+## NCT02369770
+Sensory-Motor Rehabilitation Post Stroke
 
-Intervention: : Azacitidine — Given IV or SC
-: Ivosidenib — Given PO
-: Venetoclax — Given PO
-Link: https://clinicaltrials.gov/study/NCT03471260
+Intervention: : stretching and active movement training — A portable rehabilitation robot will be used to strongly or gently move the impaired ankle joint back and forth. Then subjects will be asked to use muscles to move the ankle with or without the robotic guidance depending on which group the subjects are in.
+Link: https://clinicaltrials.gov/study/NCT02369770
 
 SUMMARY:
 
-## NCT03937453
-A PAncreatic Cancer Screening Study in Individuals With New-Onset or DeteriOrating Diabetes MEllitus (PANDOME Study)
+## NCT04006808
+A Reactogenicity, Safety and Immunogenicity Study of GSK's Paediatric Herpes Zoster Subunit Candidate Vaccine (PED-HZ/su) GSK143713A in Immunocompromised Paediatric Renal Transplant Recipients
 
-Intervention: : MRI/MRCP — An MRI/MRCP with IV gadolinium contrast with high resolution imaging of the pancreas will be performed at baseline. Further imaging upon recommendation by study committee
-Link: https://clinicaltrials.gov/study/NCT03937453
+Intervention: : PED-HZ/su — GSK's candidate vaccine- PED-HZ/su. is administered intramuscularly in the deltoid of the non-dominant arm, on a two-dose schedule in the two investigational groups.
+Link: https://clinicaltrials.gov/study/NCT04006808
 
 SUMMARY:
 
-## NCT04462380
-AiCR : Artificial Intelligence in Cardiac aRrest Application of an Algorithm in the Prognosis of Recovered Cardiorespiratory Arrests
+## NCT03728673
+A Pilot Study Utilizing Escitalopram to Address Cognitive Dysfunction in Glioma Patients
+
+Intervention: : Escitalopram Oral Capsules — Active capsules will contain 10 mg escitalopram oxalate.
+Link: https://clinicaltrials.gov/study/NCT03728673
+
+SUMMARY:
+
+## NCT03705585
+CVD 38000: Immunity, Microbiome, Epigenetics, and a Systems Biology Approach to the Study of Responses to Vaccination With Typhoid and/or Cholera
+
+Intervention: : Vivotif Typhoid Oral Vaccine — The 4 doses (1 capsule each) will be administered on alternate days, e.g., days 0, 2, 4, and 7 (± 1 day) under the supervision of the study coordinator(s).
+: Vaxchora — One dose. Approximately 100 mL of cool or room temperature purified bottled water is placed into a clean disposable cup. The contents of the buffer sachet are added to the water and stirred. Then the contents of the active (lyophilized vaccine) sachet are added to the water and stirred for approximately 30 seconds. The reconstituted mixture should be completely ingested within 15 minutes.
+Link: https://clinicaltrials.gov/study/NCT03705585
+
+SUMMARY:
+
+## NCT04370899
+Early Detection of Familial Hypercholesterolemia in Children in Tarragona Province
+
+Intervention: : lifestyle assessment — A semi-quantitative assessment of the consumption of different food groups will be carried out using a frequency questionnaire validated by the Spanish population27. This questionnaire consists of 137 food items and will be obtained by the dietitian of our Unit (see annex).
+
+The child population and/or their parents will be instructed on how to fill the data in the food diary for a period of 3 days, in order to be able to analyse the nutritional composition of the intake and the effect on the lipid profile. The first food register, will be obtained at the collection visit before starting any type of treatment. Another food diary will be included after one year.
+
+Physical activity will be collected from the Minnesota Test and we will ask about the consumption of tobacco.
+Link: https://clinicaltrials.gov/study/NCT04370899
+
+SUMMARY:
+
+## NCT04117997
+Validation of the Evaluation Scale Fugl-Meyer in Italian Language
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04462380
+Link: https://clinicaltrials.gov/study/NCT04117997
 
 SUMMARY:
 
-## NCT03949855
-Belimumab and Rituximab Compared to Rituximab Alone for the Treatment of Primary Membranous Nephropathy (ITN080AI)
+## NCT04260022
+A Phase Ib Study of the Pharmacokinetics, Safety and Efficacy of Orally Administered HQP1351 in Subjects With Refractory Chronic Myeloid Leukemia (CML) and Ph+ Acute Lymphoblastic Leukemia (Ph+ ALL)
 
-Intervention: : Belimumab — Belimumab is a recombinant, human, IgG1λ monoclonal antibody.
-
-Belimumab will be provided as a 200 mg sterile, liquid product in a prefilled syringe. Each syringe contains 1.0 mL of 200 mg/mL belimumab. Each syringe will be a single use.
-
-Standard Weekly dose:
-
-Part A: 200 mg. administered subcutaneously. Part B: 400 mg (two 200 mg injections) from weeks 0-3, and then 200 mg from weeks 4-51, administered subcutaneously.
-: Placebo for Belimumab — The placebo control will be provided as a sterile liquid product in a prefilled syringe. Each syringe will be of a single use.
-
-Standard weekly dose:
-
-Part A: 200 mg. administered subcutaneously. Part B: 400 mg (two 200 mg injections) from weeks 0-3, and then 200 mg from weeks 4-51, administered subcutaneously.
-: Rituximab — Rituximab is a monoclonal antibody with specificity for CD20, a transmembrane protein expressed on B cells from the pre-B to memory cell development stages.
-
-Rituximab is supplied at a concentration of 10 mg/mL in either 100 mg/10 mL or 500 mg/50 mL single-use vials for infusion. It is a clear, colorless liquid.
-
-Dose: 1000 mg intravenously (IV), Week 4 and -6.
-Link: https://clinicaltrials.gov/study/NCT03949855
+Intervention: : Ascentage Pharma HQP1351 bioavailable inhibitor — HQP1351 taken by mouth every other day
+: Blinatumomab — Administered in all patients as a continuous IV infusion at the dosage of 28μg daily (9μg daily for Cycle 1 Day 1 to Day 7).
+Link: https://clinicaltrials.gov/study/NCT04260022
 
 SUMMARY:
 
-## NCT04014413
-Safety and Efficacy of Fecal Microbiota Transplantation: A Pilot Study
+## NCT00992303
+Tissue Procurement and Outcome Collection for Radiotherapy Treated Patients and Healthy Participants
 
-Intervention: : Fecal Microbiota Transplantation — Fecal microbiota transplantation
-Link: https://clinicaltrials.gov/study/NCT04014413
-
-SUMMARY:
-
-## NCT03949400
-Effects of Exercise Therapy and Soft Brace on Knee Osteoarthritis
-
-Intervention: : Exercise therapy and education. — Exercise therapy and education, physiotherapy rehab at Aalborg Municipality
-Link: https://clinicaltrials.gov/study/NCT03949400
+Intervention: : biologic sample preservation procedure
+: medical chart review
+: questionnaire administration
+Link: https://clinicaltrials.gov/study/NCT00992303
 
 SUMMARY:
 
-## NCT03910569
-Smidt Heart Institute Takotsubo Registry
+## NCT02049658
+The Sensitivity and Specificity of Sniff Dog as a Tool in Diagnosing the Suspected Tumor Patients
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03910569
+Link: https://clinicaltrials.gov/study/NCT02049658
 
 SUMMARY:
 
-## NCT04329728
-An Open Label, Phase 1/2 Study Evaluating Immunomodulatory AVM0703 in Patients With Lymphoid Malignancies (OPAL Study)
-
-Intervention: : AVM0703 — Intravenous infusion over \~1 hours
-Link: https://clinicaltrials.gov/study/NCT04329728
-
-SUMMARY:
-
-## NCT00899626
-Novel Colon Cancer Markers in Gastrointestinal Tissue and Biofluids
+## NCT01416714
+Tissue Procurement for Gastric Cancer, Gastrointestinal Stromal Tumors (GIST), Esophageal Cancer, Pancreas Cancer, Hepatocellular Cancer, Biliary Cancer, Neuroendocrine, Peritoneal Mesothelioma, Anal Cancer and Colorectal Cancer in Patients Undergoing Surgery or Biopsy
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00899626
+Link: https://clinicaltrials.gov/study/NCT01416714
 
 SUMMARY:
 
-## NCT02070146
-Prospective Data Collection Initiative on Colorectal Cancer - a Prospective Observational Cohort Study -
+## NCT04439552
+Neuroplasticity of Pain Pathways and Corneal Afferent Regeneration Following Corneal Crosslinking (CXL) in Keratoconus
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02070146
+Link: https://clinicaltrials.gov/study/NCT04439552
 
 SUMMARY:
 
-## NCT03643926
-Arthroscopic Versus Open Brostrom for Ankle Instability: a Randomized Clinical Trial
+## NCT02808858
+Rete Italiana Dei Registri Regionali Delle Sindromi Mielodisplastiche (MDS)
 
-Intervention: : Arthroscopic Brostrom — Brostrom-Gould lateral ligament ankle reconstruction performed by arthroscopic view
-: Open Brostrom — Brostrom-Gould lateral ligament ankle reconstruction performed by an open approach.
-Link: https://clinicaltrials.gov/study/NCT03643926
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT02808858
 
 SUMMARY:
 
-## NCT02398786
-Myotonic Dystrophy Family Registry
+## NCT02838602
+Transnational Randomized Study Comparing Carbon Ions Therapy Versus Conventional Radiotherapy - Including Protontherapy - for the Treatment of Radioresistant Tumors
 
-Intervention: : Patient-entered data — This registry provides patient-entered data for future clinical trial and study use.
-Link: https://clinicaltrials.gov/study/NCT02398786
+Intervention: : Carbon ions therapy — External radiotherapy by accelerated carbon nucleus in a specialized hadrontherapy center
+: Advanced external radiotherapy by Xrays or protons — Radiotherapy by any appropriate advance procedure of photontherapy (IMRT, Volumetric Modulated Arc Therapy (VMAT), Tomo, etc.) or when possible by protontherapy or even a combination of both types of radiotherapy
+Link: https://clinicaltrials.gov/study/NCT02838602
+
+SUMMARY:
+
+## NCT04160455
+Study of Autophagy and the Effects of GALIG Gene Products in HIV-1 Infected Patients Who Are Under Antiretroviral Therapy Since Primary-infection, Chronic Phase, or Never Treated.
+
+Intervention: : expression of a panel — Quantify, by droplet digital PCR, the expression of a panel of 7 genes (+ GALIG) involved in autophagy2 on sub-populations (CD4+ and CD8+ lymphocytes and monocytes) after their sorting using magnetic bead cell then RNA extraction Evaluate, on a functional test (as previously described1), whether the observed expression dysregulation is associated with a deregulation of the autophagic function, whether constitutive or induced.
+Link: https://clinicaltrials.gov/study/NCT04160455
 
 SUMMARY:
 
