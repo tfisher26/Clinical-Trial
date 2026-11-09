@@ -11078,22 +11078,6 @@ Link: https://clinicaltrials.gov/study/NCT07642856
 
 SUMMARY:
 
-## NCT07642869
-The Impacts of Multivitamin and Mineral Supplementation on Cellular Metabolism and Healthy Aging
-
-Intervention: : MVM Core Blend — Consists of a pill containing a 22-ingredient blend of vitamins and minerals
-
-1 pill will be taken daily, 7 days/week for 12 weeks
-: MVM Gold Blend — Pills, participants will take contain a 17-ingredient blend of vitamins and minerals.
-
-Instructions: 1 pill each day, 7 days/week for 12 weeks
-: Placebo — Pill contains no vitamins or minerals.
-
-1 pill will be taken daily, 7 days/week, for 12 weeks
-Link: https://clinicaltrials.gov/study/NCT07642869
-
-SUMMARY:
-
 ## NCT07643155
 An Open-label, Phase 1 Trial to Evaluate the Pharmacokinetics and Safety of a Single Dose of 80 μg Treprostinil Palmitil Inhalation Powder in Participants With Normal Hepatic Function and Participants With Hepatic Impairment
 

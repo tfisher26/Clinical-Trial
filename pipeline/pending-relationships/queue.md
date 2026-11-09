@@ -103206,3 +103206,33 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT03984955
+A Prospective, Double Blind, Single Centre, RCT, Comparing the Effectiveness of Physiotherapy in Addition to One of 3 Types of Image Guided Injection of the Common Extensor Tendon, on Pain and Function in Patients With Tennis Elbow.
+Conditions: musculoskeletal/tennis_elbow, other/tennis_elbow
+
+Inclusion criteria:
+"""
+Invitations to participate in the study will be extended to male and female patients, 18 years and above, referred to the Orthopaedic Departments who receive a diagnosis of Lateral Epicondyle Tendinosis (with or without degenerative changes) with symptoms present for \> 3 months, whose symptoms and clinical evaluation warrant the prescription of a peri-tendinous injection to relieve symptoms and who are competent to give informed consent.
+"""
+
+RELATIONSHIP:
+
+## NCT05964101
+Neoadjuvant Anti-PD-1 Drug Nivolumab Combined With Chemotherapy in the Treatment of Primary Tracheal Squamous Cell Carcinoma
+Conditions: cancer/carcinoma_squamous_cell, metabolic/adrenal_cortex_neoplasms
+
+Inclusion criteria:
+"""
+1. Bronchoscopic biopsy confirmed as tracheal squamous cell carcinoma by pathological examination
+2. PET-CT confirmed no metastasis;
+3. ECOG physical status score 0-1;
+4. Bronchoscopy, and chest CT is evaluated as early or locally advanced tracheal malignant tumor, and radical surgery is expected to be feasible or after neoadjuvant therapy.
+5. Age ≥ 18 years;
+6. Have one measurable lesion at least;
+7. Good function of other major organs (liver, kidney, blood system, etc.):-absolute neutrophil count ((ANC) ≥ 1.5 × 109), platelet (≥ 100 × 109), hemoglobin (≥ 90g/L). Note: patients shall not receive blood transfusion or growth factor support within 14 days before blood collection during the screening period;-International standardized ratio (INR) or prothrombin time (PT) ≤ 1.5 × normal upper limit (ULN);-activated partial thromboplastin time (APTT) ≤ 1.5 × ULN;- serum total bilirubin ≤ 1.5 × ULN (Gilbert syndrome patients with total bilirubin must be \< 3×ULN). Fertile female patients with aspartate and alanine aminotransferase (AST and ALT) ≤ 2.5 × ULN, or liver metastasis with AST and ALT ≤ 5 × ULN
+8. Fertile female patients must voluntarily take effective contraceptive measures more than 120 days after chemotherapy or the last administration of Nivolumab, whichever is later, and the urine or serum pregnancy test results less than 7 days before entering the group were negative. Unsterilized male patients must voluntarily take effective contraceptive measures ≥ 120 days after chemotherapy or the last administration of Nivolumab, whichever is the latter.
+9. Sign informed consent;
+"""
+
+RELATIONSHIP:
+

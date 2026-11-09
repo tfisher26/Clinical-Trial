@@ -761,17 +761,6 @@ Link: https://clinicaltrials.gov/study/NCT06611254
 SUMMARY:
 
 
-## NCT06645054
-Smart Hallway for Gait Assessment
-
-Intervention: : Standard rehabilitation — The patients will receive standard rehabilitation that comprises assessment performed by a multidisciplinary team (physical-and-rehabilitation-medicine specialist physician, physiotherapist, occupational therapist, psychologist, social worker, prosthetics-and-orthotics engineer).
-: Lower-limb prosthesis — The patients from the LLL group will be fitted with an appropriate lower-limb prosthesis.
-: Lower-limb orthosis — The patients from the LLO group will be fitted with an appropriate lower-limb orthosis.
-Link: https://clinicaltrials.gov/study/NCT06645054
-
-SUMMARY:
-
-
 ## NCT07045571
 Methylation Signature of Circulating Tumour DNA as a Prognostic and Theranostic Tool for Managing Pancreatic Ductal Adenocarcinoma
 
@@ -4727,16 +4716,6 @@ A Randomized Clinical Trial of a Novel Drug Education and Diversion Program (iDE
 
 Intervention: : iDECIDE — iDECIDE is a 4-session drug education and diversion program that addresses topics such as the neurobiology and addiction, adolescent brain development, industry tactics, motives for using substances, risk and protective factors, identifying triggers, healthy alternatives, core values, and long-term goal setting. These topics are taught via facilitated discussions, videos, worksheets, and handouts. The iDECIDE drug curriculum will be delivered weekly for 4 weeks via videoconference or in-person visits. Each session typically takes 60-75 minutes. For this study, facilitators are members of study staff.
 Link: https://clinicaltrials.gov/study/NCT06115746
-
-SUMMARY:
-
-
-## NCT07168525
-Effects of Ultrasound on Healthy Aging
-
-Intervention: : Ultrasound spa — Each participant will sit in a bathtub which has been fitted with an ultrasound device which produces low frequency sound waves within the water.
-: Sham ultrasound spa — The control group will sit in the same tub for 45 minutes, 3 times per week for 8 weeks but without the ultrasound being turned on.
-Link: https://clinicaltrials.gov/study/NCT07168525
 
 SUMMARY:
 

@@ -2671,17 +2671,6 @@ Link: https://clinicaltrials.gov/study/NCT06536179
 SUMMARY:
 
 
-## NCT07258576
-The Effect of Menstrual Cycle Phase and Oral Contraceptive Use on Muscle Protein Metabolism Post-Resistance Training
-
-Intervention: : Protein Beverage — Participants will consume 16 half-hourly (8 hours) isoenergetic, isonitrogenous beverages containing 1.2 g/kg/d protein.
-: Stable Isotope Tracer [D5]phenylalanine — Protein beverages will be enriched with the stable isotope \[D5\]phenylalanine. The use of \[D5\]phenylalanine will allow for determination of muscle protein synthesis.
-: Stable Isotope Tracer [13C]phenylalanine — Protein beverages will be enriched with the stable isotope tracer \[13C\]phenylalanine. The use of \[13C\]phenylalanine will allow for the determination of the fate of amino acids in the body (incorporation into body protein or oxidation) which can be used to determine protein requirements.
-Link: https://clinicaltrials.gov/study/NCT07258576
-
-SUMMARY:
-
-
 ## NCT06998329
 PANDORA: PulmonAry hyperteNsion DiagnOsis: a National cohoRt reseArch
 

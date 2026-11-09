@@ -2013,15 +2013,6 @@ Link: https://clinicaltrials.gov/study/NCT07315945
 SUMMARY:
 
 
-## NCT04534543
-MAESTRO Study: Metabolic Imaging to Improve Patient-Specific Therapy Outcomes
-
-Intervention: : MRI/Spectroscopy — Participants will undergo multiple 7T MR imaging sessions which include advanced 31P MRSI techniques, before start of palliative chemotherapy and during treatment until progression of disease or until week 54.
-Link: https://clinicaltrials.gov/study/NCT04534543
-
-SUMMARY:
-
-
 ## NCT04966793
 Microbial Colonization Distribution and Adaptive Evolution of Lower Respiratory Tract in Bronchiectasia Patients.
 

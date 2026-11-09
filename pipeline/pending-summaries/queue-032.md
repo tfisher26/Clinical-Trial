@@ -3160,15 +3160,6 @@ Link: https://clinicaltrials.gov/study/NCT06007261
 SUMMARY:
 
 
-## NCT06984991
-Factors Influencing Inadequacy in Rapid Onsite Evaluation of Ultrasound Guided Fine Needle Aspiration (FNA) Samples of Thyroid Nodules
-
-Intervention: : fine needle aspiration — Different needle sizes will be used in FNA sampling ; 5ml syringe with 21G needle, 3ml syringe with 23G needle or 22G Quincke tip spinal needle will be used for FNA. Needle insertion will be directed either trans-isthmic or lateral cervical approach. Aspirations will be conducted at different angles and within different nodule regions using a to-and-fro motion till getting blood stain in the needle hub to obtain representative samples. Maximum number of four passes will be performed within the nodule in a single session. Samples will be primarily obtained without suction via the capillary method. However, aspiration with suction will be applied if no aspirates could be obtained in the needle hub after routine capillary method. For mixed cystic solid lesions; FNA will be done from the solid component after aspiration of the cystic component
-Link: https://clinicaltrials.gov/study/NCT06984991
-
-SUMMARY:
-
-
 ## NCT07232355
 PROGRESS: Prevention of Cervical Cancer Using the Genotyping Screening and Same-day Self-sampling
 

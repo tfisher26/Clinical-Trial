@@ -2,15 +2,6 @@
 
 For each trial below, write a plain-language summary of what the trial is testing under SUMMARY:. See jobs/prompts/summary-style.md for the style to follow. Commit and push when done — completed entries are written to the database and removed from this file automatically. Entries you have not filled in are left alone.
 
-## NCT06995534
-Comparison of Static Hand-Wrist Splinting and Exercise Therapy in the Management of De Quervain's Tenosynovitis
-
-Intervention: : splint — static wrist-hand splint + education on activity modification and positioning in daily life
-: Exercise Therapy — Home-based Exercise Therapy + Education on activity modification and positioning in daily life
-Link: https://clinicaltrials.gov/study/NCT06995534
-
-SUMMARY:
-
 ## NCT06995742
 Effect of ANNE One-Wellue Device Array Use on Staff Bedside Vital Sign Measurement Activity: A Randomized Controlled Trial
 
@@ -10512,16 +10503,6 @@ Impact of Personal Mitigation on Mechanisms Linking Transportation Noise Exposur
 Intervention: : Noise canceling earplugs — Modifiable noise cancelling earplugs will be used to attempt to limit individual noise exposure in those with high levels of exposure or high levels of annoyance related to noise
 : Usual care — No behavioral changes to limit noise exposure
 Link: https://clinicaltrials.gov/study/NCT07148817
-
-SUMMARY:
-
-## NCT07148908
-The Effects of Animal- and Microbial-based Protein Sources on Whole-body Protein Metabolism in Healthy Adults
-
-Intervention: : Yeast Protein Supplement — Each protein will be consumed at 0.9g/kg/d in n=8 hourly drinks
-: Whey Protein Isolate Supplement — Each protein will be consumed at 0.9g/kg/d in n=8 hourly drinks
-: Collagen Hydrolysate Supplement — Each protein will be consumed at 0.9g/kg/d in n=8 hourly drinks
-Link: https://clinicaltrials.gov/study/NCT07148908
 
 SUMMARY:
 

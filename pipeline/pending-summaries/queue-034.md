@@ -3710,15 +3710,6 @@ Link: https://clinicaltrials.gov/study/NCT07604103
 SUMMARY:
 
 
-## NCT04535661
-A Retrospective Single Center Study of the Risk Factors for Colonization or Infection With Carbapenem-Resistant Enterobacteriaceae in PICU Hospitalized Children
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04535661
-
-SUMMARY:
-
-
 ## NCT05197621
 The Impact of COVID-19 on Maternal and Neonatal Outcomes
 

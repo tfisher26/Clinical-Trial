@@ -1665,23 +1665,6 @@ Link: https://clinicaltrials.gov/study/NCT07541794
 SUMMARY:
 
 
-## NCT07302269
-A Phase I Clinical Study Evaluating the Safety, Tolerability, Pharmacokinetics of a Single Oral Dose of VV261 Tablets in Chinese Healthy Volunteers
-
-Intervention: : VV261 5mg group — 2 subjects will receive VV261 5mg, orally
-: VV261 20mg Group — 6 subjects receive VV261 20mg,orally; 2 subjects will receive placebo,orally.
-: VV261 50mg group — 6 subjects receive VV261 50mg,orally; 2 subjects will receive placebo,orally.
-: VV261 100mg group — 6 subjects receive VV261 100mg,orally; 2 subjects will receive placebo,orally.
-: VV261 150mg group — 6 subjects receive VV261 150mg,orally; 2 subjects will receive placebo,orally.
-: VV261 300mg group — 6 subjects receive VV261 300mg,orally; 2 subjects will receive placebo,orally.
-: VV261 500mg group — 6 subjects receive VV261 500mg,orally; 2 subjects will receive placebo,orally.
-: VV261 750mg group — 6 subjects receive VV261 750mg,orally; 2 subjects will receive placebo,orally.
-: VV261 1000mg group — 6 subjects receive VV261 1000mg,orally; 2 subjects will receive placebo,orally.
-Link: https://clinicaltrials.gov/study/NCT07302269
-
-SUMMARY:
-
-
 ## NCT04890067
 Multicenter Observational Study on the Treatment of Patients With Localized Osteosarcoma
 

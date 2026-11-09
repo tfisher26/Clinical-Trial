@@ -142,15 +142,6 @@ Link: https://clinicaltrials.gov/study/NCT05576090
 
 SUMMARY:
 
-## NCT06328530
-Repetitive Applications of Pruritogens and Effects of a Cutaneous-induced Pain Stimulation on Nonhistaminergic Itch Perception
-
-Intervention: : Cowhage — 25 spicules will be inserted in the center of the predefined skin area on the mandibular area. The spicules will be gently rubbed for 15-20 seconds in circular motion to facilitate epidermal penetration.
-: Histamine — Histaminergic itch will be evoked by a 1% histamine solution. A droplet of histamine solution will be placed on the predetermined area on the forearm, and the SPT lancet will be pierced through the histamine with 120 g of pressure for 1-2 seconds.
-Link: https://clinicaltrials.gov/study/NCT06328530
-
-SUMMARY:
-
 ## NCT07365930
 Non-Interventional Study on the Benefits of Transjugular Intrahepatic Portosystemic Shunting in Patients With Hepatocellular Carcinoma Receiving Atezolizumab Plus Bevacizumab in First-Line Therapy
 

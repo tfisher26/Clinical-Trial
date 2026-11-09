@@ -1577,25 +1577,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04536103
-Multi-Vendor Multi-Site Novel Accelerated MRI Relaxometry
-
-Intervention: : MRI — Observational Study of novel MR imaging and image processing techniques that will provide reliable and fully quantitative evaluation of inflammation, chronic structural changes and vascularity in healthy patients and patients with ACL injury.
-Link: https://clinicaltrials.gov/study/NCT04536103
-
-SUMMARY:
-
-## NCT04537689
-Outcomes With Treatment and Withdraw of Ixekizumab in Patients With Plaque Psoriasis Compared to Standard Care --- a Pragmatic Observational Study
-
-Intervention: : Ixekizumab — Ixekizumab for 6 months, given 160mg at weeks 0, followed by 80mg at 2, 4, 6, 8, 10 and 12, then 4 weekly till 6 months. Given subcutaneously.
-: Methotrexate — Oral tablet up to 15mg per week
-: Cyclosporin A — Oral capsule up to 200mg per day
-: Acitretin — Oral capsule up to 25mg per day
-Link: https://clinicaltrials.gov/study/NCT04537689
-
-SUMMARY:
-
 ## NCT04538937
 Prospective Registry of Eosinophilia With Respiratory Manifestations With Translational Research Identifying and Characterizing Eosinophils
 
@@ -5924,14 +5905,6 @@ Intervention: : Percutaneous Implantation of the MAGNITUDE® Bioresorbable Arter
 Link: https://clinicaltrials.gov/study/NCT04912323
 
 SUMMARY: Narrowed arteries below the knee can cause poor blood flow to the lower leg and foot. This study tests a drug eluting scaffold that dissolves over time, placed in these arteries to keep them open.
-
-## NCT04912479
-Can Connected Devices Increase the Success Rate of Benzodiazepine Withdrawals in the Elderly?
-
-Intervention: : connected watch — connected watch that provide to patients with information on their sleep quality and their performed activities
-Link: https://clinicaltrials.gov/study/NCT04912479
-
-SUMMARY: Stopping long term benzodiazepine sleeping pills is hard for many older adults. This study tests whether a connected watch that shows information about sleep quality helps them succeed in stopping.
 
 ## NCT04912518
 Cardioprotective Effect of Dexmedetomidine in Patients With ST-segment Elevation Myocardial Infarction: a Double-Blind, Multicenter, Randomized, Placebo-Controlled Clinical Trial
@@ -11941,14 +11914,6 @@ Link: https://clinicaltrials.gov/study/NCT05294302
 
 SUMMARY: Parents of children with cancer often feel high levels of stress. This study tests eSCCIP, an online psychosocial program for English and Spanish speaking parents.
 
-## NCT05294471
-Fully Automated High-Throughput Quantitative MRI of the Liver
-
-Intervention: : Non-contrast MRI with novel MRI software — The investigational software being used in automatic prescription of the imaging is an application of an AI algorithm. This software prescribes where the MRI system will take images by finding the liver within a set of localizer scans. The software gives coordinates to the scanner.
-Link: https://clinicaltrials.gov/study/NCT05294471
-
-SUMMARY:
-
 ## NCT05296304
 A Phase Ib Trial Combining Bexarotene With Ultra-Low Dose Total Skin Electron Beam (Tseb) Radiotherapy For The Treatment Of Diffuse Cutaneous T-Cell Lymphomas
 
@@ -12390,17 +12355,6 @@ Intervention: : gameChange — Staff will explain the rationale behind gameChang
 Link: https://clinicaltrials.gov/study/NCT05319509
 
 SUMMARY: Anxiety can make everyday situations hard for students. This pilot study tests gameChange, a virtual reality therapy that guides users through common anxiety provoking scenarios.
-
-## NCT05320822
-A Pragmatic Rehabilitation Intervention to Supplement Progressive Return to Activity Following Mild Traumatic Brain Injury in Service Members (SMs): The Active Rehab Study
-
-Intervention: : Active Rehab (Group 2) — The Active Rehab protocol builds off of initial chief complaints and duty profile and addresses symptom control followed by a progressive and prescribed integration of activities to full return to duty that should be integrated with the current PRA TBICoE protocols. The specific activity areas in the intervention include low-intensity aerobic exercise that does not exacerbate symptoms, cognition, balance, visual/vestibular, and comfort/ general well-being.
-
-Participants can be progressed daily according to symptom limitations. At least 3-4 sessions each week are recommended based on a trial of sport-related mTBI and other interventions of this type concerning mTBI/concussion. During each phase, low level aerobic exercise that does not significantly exacerbate symptoms, such as nature walks, will be recommended. The additional activity types that may be chosen include cognitive, balance, visual/vestibular, and comfort/general well-being.
-: Progressive Return to Activity (Group 1) — Participant will be asked to use symptoms to guide activity from the time of the injury until participant is asymptomatic. Once asymptomatic, participant will begin the PRA TBICoE clinical recommendation. During this time clinicians will document activities in each stage in addition to initial symptom checklist, stage of PRA CoE progression, activity parameters, percentage of rest during the session, participants rating of perceived exertion, and final symptom checklist, session satisfaction rating, and session feedback.
-Link: https://clinicaltrials.gov/study/NCT05320822
-
-SUMMARY: Service members recovering from a mild traumatic brain injury need a safe return to activity. This study tests Active Rehab, a rehabilitation program added to the standard progressive return to activity.
 
 ## NCT05321017
 Can Increasing Motor Evoked Potential Size Improve Upper Extremity Motor Function in Individuals With Incomplete Spinal Cord Injury?

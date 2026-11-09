@@ -93,14 +93,6 @@ Link: https://clinicaltrials.gov/study/NCT07230977
 
 SUMMARY:
 
-## NCT07231029
-An Open-label Pharmacokinetic Study of TS-172 in Patients With Hepatic Impairment
-
-Intervention: : TS-172 — Single oral administration of TS-172 20mg
-Link: https://clinicaltrials.gov/study/NCT07231029
-
-SUMMARY:
-
 ## NCT07231146
 Interaction Between Milk and Yogurt and Gastrointestinal Hormone Response on Cognitive Performance in School-Aged Children
 
@@ -2471,14 +2463,6 @@ Link: https://clinicaltrials.gov/study/NCT07263438
 
 SUMMARY:
 
-## NCT07263685
-Retrospective Chart Review Study Evaluating Clinical Effectiveness and Impact on Quality of Life Among Patients Who Initiated Long-term Prophylaxis With Takhzyro® in a Real-World Setting in the Kingdom of Saudi Arabia - the REFLEQT-KSA Study (Retrospective Evaluation Focusing on Lanadelumab's Effectiveness and Impact on Quality of Life in The Kingdom of Saudi Arabia)
-
-Intervention: : No intervention — This is a non-interventional study.
-Link: https://clinicaltrials.gov/study/NCT07263685
-
-SUMMARY:
-
 ## NCT07263945
 Influence of Prosthetic Foot Stiffness on Transtibial Osseointegrated Bone-Anchored Limb Outcomes
 
@@ -4453,19 +4437,6 @@ Metformin Hydrochloride in Combination With Standard of Care Systemic Therapy in
 
 Intervention: : Metformin Hydrochloride ER — Participants will initially take 1000mg ER of metformin by mouth daily for 14 days, in combination with physician directed SOC systemic therapy for advanced unresectable or metastatic STS.
 Link: https://clinicaltrials.gov/study/NCT07291297
-
-SUMMARY:
-
-## NCT07291414
-Patient Engagement in Using the Technology for Self-Tracking Medication Safety Events
-
-Intervention: : Educational Intervention — Receive educational materials and resources
-: Electronic Health Record Review — Ancillary studies
-: Follow-Up — Receive follow-up contact
-: Internet-Based Intervention — Use self-monitoring platform
-: Interview — Ancillary studies
-: Survey Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT07291414
 
 SUMMARY:
 

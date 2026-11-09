@@ -802,15 +802,6 @@ Link: https://clinicaltrials.gov/study/NCT06479070
 
 SUMMARY:
 
-## NCT06479083
-Interdisciplinary and Intersectoral Telemedicine Evaluation, Coordination and Treatment in the Rhine Main+ Parkinson's Network
-
-Intervention: : New Intervention form including — The central element of the new form of care is the implementation of a tele medical evaluation and coordination function, which controls individualized treatment processes within the network. The individualized evaluation and coordination of treatment paths is carried out within the already existing Parkinson's network RheinMain+ by a non-physician medical specialist (APN) specially trained for the indication Parkinson's disease.
-: Standard treatment — The standard treatment which all compulsory insured patients get.
-Link: https://clinicaltrials.gov/study/NCT06479083
-
-SUMMARY: People with Parkinson's disease often need care from many specialists that is hard to coordinate. This study tests a telemedicine based care network that links doctors, therapists and nurses to see whether it improves care and quality of life.
-
 ## NCT06479122
 Efficacy of Intravenous Acetaminophen Alone Versus Combination of Acetaminophen/Ibuprofen (Maxigesic®IV) in Multimodal Analgesia After Cesarean Section: a Randomized Controlled Trial
 
@@ -9076,15 +9067,6 @@ Intervention: : paclitaxel cationic liposomes — Paclitaxel cationic liposomes 
 Link: https://clinicaltrials.gov/study/NCT06632574
 
 SUMMARY: Advanced solid tumors are hard to treat with chemotherapy given into a vein. This study tests paclitaxel in a cationic liposome form delivered through a catheter into the tumor's artery to find a safe dose.
-
-## NCT06632587
-Comparing Outcomes Between Early and Standard-of-care Delayed Cranioplasty After Decompressive Hemicraniectomy
-
-Intervention: : Early cranioplasty — Cranioplasty is the surgical procedure to restore the skull after a decompressive hemicraniectomy. The latter procedure is employed as a life-saving measure to relieve intracranial pressure in patients with acute cranial injuries. Early cranioplasty is defined as being performed within 8 weeks following the decompressive hemicraniectomy.
-: Standard-of-care cranioplasty — Cranioplasty is the surgical procedure to restore the skull after a decompressive hemicraniectomy. The latter procedure is employed as a life-saving measure to relieve intracranial pressure in patients with acute cranial injuries. Standard-of-care cranioplasty is defined as being performed after 3 months following the decompressive hemicraniectomy.
-Link: https://clinicaltrials.gov/study/NCT06632587
-
-SUMMARY: After part of the skull is removed to relieve brain swelling, it is usually replaced months later. This study compares early skull repair with standard delayed repair to see which leads to better recovery.
 
 ## NCT06632717
 Efficacy and Safety of Hepatic Arterial Infusion Chemotherapy With Cisplatin and Fluorouracil in Combination With Lipiodol Embolization in Advanced Hepatocellular Carcinoma - a Prospective, Single-arm, Phase 2 Pilot Study

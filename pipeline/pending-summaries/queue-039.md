@@ -3517,15 +3517,6 @@ Link: https://clinicaltrials.gov/study/NCT06629766
 SUMMARY:
 
 
-## NCT05800132
-Évaluation de la Performance Diagnostique du dépistage du Cancer du Sein, Pour Une Seconde Lecture Des clichés de Mammographie assistée du Dispositif médical à Base d'Intelligence Artificielle MammoScreen
-
-Intervention: : MammoScreen — Diagnostic reading aid for breast cancer screening
-Link: https://clinicaltrials.gov/study/NCT05800132
-
-SUMMARY:
-
-
 ## NCT07417605
 Diagnostic Performance Of 4D Dynamic LAFOV FDG-PET Acquisition for Differentiation of Residual Disease and Post-radiation Inflammation in Head Neck SCC Treated by Radiotherapy.
 

@@ -1259,15 +1259,6 @@ Link: https://clinicaltrials.gov/study/NCT05531240
 
 SUMMARY:
 
-## NCT05652283
-An Exploratory Clinical Study of Neoadjuvant Therapy With Pamiparib Combined With Surufatinib for Advanced Ovarian Cancer: A Single-arm, Prospective, Single-center Clinical Study
-
-Intervention: : Pamiparib — Pamiparib capsule 40 mg/time, twice a day, oral, 3 weeks as a cycle, 3 cycles
-: Surufatinib — Surufatinib 250 mg/time, once a day, oral, 3 weeks as a cycle, 2 cycles
-Link: https://clinicaltrials.gov/study/NCT05652283
-
-SUMMARY:
-
 ## NCT06121232
 Exploring the Benefit of Neuromodulation in Treating Chemo-induced Peripheral Neuropathy Using Peripheral Neuropathy Markers (Meissner's Corpuscles and Epidermal Nerve Fiber Density) and Sensory Testing (Quantitative Sensory and Gait Testing): A Single Center Feasibility Study
 

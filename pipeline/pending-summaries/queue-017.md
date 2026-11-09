@@ -1108,15 +1108,6 @@ Link: https://clinicaltrials.gov/study/NCT07496424
 SUMMARY:
 
 
-## NCT04538859
-A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04538859
-
-SUMMARY:
-
-
 ## NCT05537610
 Extensions of Resurgence as Choice: Basic and Clinical Studies
 

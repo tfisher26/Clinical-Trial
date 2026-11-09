@@ -15498,14 +15498,6 @@ Link: https://clinicaltrials.gov/study/NCT07842991
 
 SUMMARY:
 
-## NCT07843004
-Capitalizing on AI to CapTure Undiagnosed Structural Heart Disease
-
-Intervention: : EHR Alert — EKG Algorithm to identify structural heart disease
-Link: https://clinicaltrials.gov/study/NCT07843004
-
-SUMMARY:
-
 ## NCT07843095
 Protein Supplementation During Luteal Phase
 
@@ -18054,142 +18046,148 @@ Link: https://clinicaltrials.gov/study/NCT07920094
 
 SUMMARY:
 
-## NCT00515567
-Utilization of Explanted Lungs for Isolation of Tissue Samples and Primary Cell Lines to Study Pulmonary Fibrosis
+## NCT02762162
+Online Assistance for Stent Thrombosis
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00515567
+Link: https://clinicaltrials.gov/study/NCT02762162
 
 SUMMARY:
 
-## NCT04045470
-A Pilot of a Microdevice For In Situ Candidate Drug Screening in Cutaneous Lesions of T-Cell Lymphoma
+## NCT04415983
+Study of Novel Triple Nitazoxanide (NTZ) Based New Therapeutic Regimens for Helicobacter Pylori in Children
 
-Intervention: : Microdevices — The microdevice was developed as a tool with the ultimate goal to help screen several existing and investigational drugs directly within a patient's tumor to identify what drugs are the most effective for treating a patient's cancer.
-: Standard of care therapy — Participant to receive standard of care therapy as previously determined by participant's treating oncologist and/or dermatologist, which may include a skin-directed or systemic therapy
-: Standard of care systemic therapy — Participant to receive standard of care therapy as previously determined by participant's treating oncologist and/or dermatologist, which must include a systemic therapy.
-Link: https://clinicaltrials.gov/study/NCT04045470
-
-SUMMARY:
-
-## NCT02369770
-Sensory-Motor Rehabilitation Post Stroke
-
-Intervention: : stretching and active movement training — A portable rehabilitation robot will be used to strongly or gently move the impaired ankle joint back and forth. Then subjects will be asked to use muscles to move the ankle with or without the robotic guidance depending on which group the subjects are in.
-Link: https://clinicaltrials.gov/study/NCT02369770
+Intervention: : Nitazoxanide — Nitazoxanide twice daily
+: Clarithromycin — Klacid twice daily
+: Metronidazole — Metronidazole twice daily
+: Proton pump inhibitor — Omeprazoe twice daily
+Link: https://clinicaltrials.gov/study/NCT04415983
 
 SUMMARY:
 
-## NCT04006808
-A Reactogenicity, Safety and Immunogenicity Study of GSK's Paediatric Herpes Zoster Subunit Candidate Vaccine (PED-HZ/su) GSK143713A in Immunocompromised Paediatric Renal Transplant Recipients
+## NCT04195984
+Evaluation of the Efficacy and Safety of the Mi-thos® Transcatheter Mitral Valve Replacement System in Patients with Severe Mitral Valve Disease At High Surgical Risk.
 
-Intervention: : PED-HZ/su — GSK's candidate vaccine- PED-HZ/su. is administered intramuscularly in the deltoid of the non-dominant arm, on a two-dose schedule in the two investigational groups.
-Link: https://clinicaltrials.gov/study/NCT04006808
-
-SUMMARY:
-
-## NCT03728673
-A Pilot Study Utilizing Escitalopram to Address Cognitive Dysfunction in Glioma Patients
-
-Intervention: : Escitalopram Oral Capsules — Active capsules will contain 10 mg escitalopram oxalate.
-Link: https://clinicaltrials.gov/study/NCT03728673
+Intervention: : Mi-thos® valve and transapical delivery system — Transcatheter mitral valve replacement system
+Link: https://clinicaltrials.gov/study/NCT04195984
 
 SUMMARY:
 
-## NCT03705585
-CVD 38000: Immunity, Microbiome, Epigenetics, and a Systems Biology Approach to the Study of Responses to Vaccination With Typhoid and/or Cholera
+## NCT04096586
+Effects of Watermelon Consumption on Satiety and Digestive Health
 
-Intervention: : Vivotif Typhoid Oral Vaccine — The 4 doses (1 capsule each) will be administered on alternate days, e.g., days 0, 2, 4, and 7 (± 1 day) under the supervision of the study coordinator(s).
-: Vaxchora — One dose. Approximately 100 mL of cool or room temperature purified bottled water is placed into a clean disposable cup. The contents of the buffer sachet are added to the water and stirred. Then the contents of the active (lyophilized vaccine) sachet are added to the water and stirred for approximately 30 seconds. The reconstituted mixture should be completely ingested within 15 minutes.
-Link: https://clinicaltrials.gov/study/NCT03705585
-
-SUMMARY:
-
-## NCT04370899
-Early Detection of Familial Hypercholesterolemia in Children in Tarragona Province
-
-Intervention: : lifestyle assessment — A semi-quantitative assessment of the consumption of different food groups will be carried out using a frequency questionnaire validated by the Spanish population27. This questionnaire consists of 137 food items and will be obtained by the dietitian of our Unit (see annex).
-
-The child population and/or their parents will be instructed on how to fill the data in the food diary for a period of 3 days, in order to be able to analyse the nutritional composition of the intake and the effect on the lipid profile. The first food register, will be obtained at the collection visit before starting any type of treatment. Another food diary will be included after one year.
-
-Physical activity will be collected from the Minnesota Test and we will ask about the consumption of tobacco.
-Link: https://clinicaltrials.gov/study/NCT04370899
+Intervention: : Red juice — To determine the effects of red juice on satiety and gut health
+: Watermelon juice — To determine the effects of watermelon juice on satiety and gut health
+Link: https://clinicaltrials.gov/study/NCT04096586
 
 SUMMARY:
 
-## NCT04117997
-Validation of the Evaluation Scale Fugl-Meyer in Italian Language
+## NCT02098252
+Treatment of Brain AVMs (TOBAS) Study: A Randomized Controlled Trial and Registry
+
+Intervention: : Neurosurgery — Surgical resection to be used when the lesion is considered by a multidisciplinary team to be safely 'operable'.
+: Radiation therapy — when the AVM is smaller than 3 cm, and considered to not be safely 'operable'.
+: Embolization — Curative embolization, when the lesion is considered curable by embolization.
+Link: https://clinicaltrials.gov/study/NCT02098252
+
+SUMMARY:
+
+## NCT04054414
+A Prospective, Multicentric, Randomized, Double Blind, Saline Controlled Phase II Clinical Study to Compare the Safety and Efficacy of PMZ-1620 Therapy Along With Standard Supportive Care in Patients of Acute Spinal Cord Injury
+
+Intervention: : Normal Saline along with standard treatment — The arm is for active comparison for PMZ-1620 (sovateltide), an endothelin-B receptor agonist. PMZ-1620 has the potential to be a first-in-class neuronal progenitor cell therapeutics that is likely to promote quicker recovery and improve neurological outcome in cerebral ischemic stroke patients. Normal saline (vehicle) with standard treatment will be provided.
+: PMZ-1620 along with standard treatment — PMZ-1620 (sovateltide) is an endothelin-B receptor agonist. PMZ-1620 has the potential to be a first-in-class neuronal progenitor cell therapeutics that is likely to promote quicker recovery and improve neurological outcome in cerebral ischemic stroke patients.
+Link: https://clinicaltrials.gov/study/NCT04054414
+
+SUMMARY:
+
+## NCT03676868
+Biology of Cerebral Arteriovenous Malformations : Study of the Link Between Blood Biomarkers and the Haemorrhagic Prognosis of Cerebral Arteriovenous Malformations
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04117997
+Link: https://clinicaltrials.gov/study/NCT03676868
 
 SUMMARY:
 
-## NCT04260022
-A Phase Ib Study of the Pharmacokinetics, Safety and Efficacy of Orally Administered HQP1351 in Subjects With Refractory Chronic Myeloid Leukemia (CML) and Ph+ Acute Lymphoblastic Leukemia (Ph+ ALL)
+## NCT02455479
+Phase I Randomized, Double-blind, Placebo Control Study for an Anti-cocaine Vaccine
 
-Intervention: : Ascentage Pharma HQP1351 bioavailable inhibitor — HQP1351 taken by mouth every other day
-: Blinatumomab — Administered in all patients as a continuous IV infusion at the dosage of 28μg daily (9μg daily for Cycle 1 Day 1 to Day 7).
-Link: https://clinicaltrials.gov/study/NCT04260022
-
-SUMMARY:
-
-## NCT00992303
-Tissue Procurement and Outcome Collection for Radiotherapy Treated Patients and Healthy Participants
-
-Intervention: : biologic sample preservation procedure
-: medical chart review
-: questionnaire administration
-Link: https://clinicaltrials.gov/study/NCT00992303
+Intervention: : dAd5GNE Vaccine — dAd5GNE Vaccine or Placebo dAd5GNE Vaccine
+: Placebo — dAd5GNE Vaccine or Placebo dAd5GNE Vaccine
+Link: https://clinicaltrials.gov/study/NCT02455479
 
 SUMMARY:
 
-## NCT02049658
-The Sensitivity and Specificity of Sniff Dog as a Tool in Diagnosing the Suspected Tumor Patients
+## NCT03231891
+Inherited CAncer REgistry (ICARE) Initiative
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02049658
+Link: https://clinicaltrials.gov/study/NCT03231891
 
 SUMMARY:
 
-## NCT01416714
-Tissue Procurement for Gastric Cancer, Gastrointestinal Stromal Tumors (GIST), Esophageal Cancer, Pancreas Cancer, Hepatocellular Cancer, Biliary Cancer, Neuroendocrine, Peritoneal Mesothelioma, Anal Cancer and Colorectal Cancer in Patients Undergoing Surgery or Biopsy
+## NCT01479608
+A Randomized Controlled Clinical Trial to Evaluate the Benefit and Efficacy of Liver Transplantation as Treatment for Selected Patients With Liver Metastases From ColoRectal Carcinoma
+
+Intervention: : Liver transplantation and liver resection
+Link: https://clinicaltrials.gov/study/NCT01479608
+
+SUMMARY:
+
+## NCT04442711
+Pulmonary Fibrosis Biomarkers During Exacerbation
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01416714
+Link: https://clinicaltrials.gov/study/NCT04442711
 
 SUMMARY:
 
-## NCT04439552
-Neuroplasticity of Pain Pathways and Corneal Afferent Regeneration Following Corneal Crosslinking (CXL) in Keratoconus
+## NCT04011527
+A Prospective Follow-up Assessment in Bad Segeberg With Patients Undergoing a Rotational Atherectomy in Coronary Lesion/s
+
+Intervention: : Rotational Atherectomy in Coronary Lesion/s
+Link: https://clinicaltrials.gov/study/NCT04011527
+
+SUMMARY:
+
+## NCT04452461
+MFOLFIRINOX or Gemcitabine / Nab-paclitaxel Followed by Pancreatectomy for Patients with Borderline Resectable Pancreatic Adenocarcinoma. a Pilot Feasibility Study.
+
+Intervention: : mFOLFIRINOX — mFOLFIRINOX, including: Oxaliplatin 85 mg/m2 IV over 2 hours, Leucovorin 400mg/m2 IV over 2 hours, Irinotecan at 150 mg/m2 IV over 90 min, 5-Fluoruracil continuous infusion of 2400 mg/m2 IV over 46h.
+: Gemcitabine / Nab-paclitaxel — Both drugs are administered once weekly for three weeks (days 1, 8, 15) followed by a week of rest (28-day cycle) for 3 cycles prior to imaging. Gemcitabine: 1000 mg/m2 intravenous infusion over 30 to 40 minutes. Nab-paclitaxel: 125 mg/m2 intravenous infusion over 30 to 40 minutes.
+Link: https://clinicaltrials.gov/study/NCT04452461
+
+SUMMARY:
+
+## NCT01670383
+Repository for Samples Collected From Sepsis and Postresuscitation Patients in Emergency Intensive Care Unit
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04439552
+Link: https://clinicaltrials.gov/study/NCT01670383
 
 SUMMARY:
 
-## NCT02808858
-Rete Italiana Dei Registri Regionali Delle Sindromi Mielodisplastiche (MDS)
+## NCT03658512
+Tübinger Diabetes Mellitus Database (TUEDID)
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02808858
+Link: https://clinicaltrials.gov/study/NCT03658512
 
 SUMMARY:
 
-## NCT02838602
-Transnational Randomized Study Comparing Carbon Ions Therapy Versus Conventional Radiotherapy - Including Protontherapy - for the Treatment of Radioresistant Tumors
+## NCT03987633
+EMPOWER-1: A Multi-site Clinical Cohort Study to Reduce Health Inequality: Identifying Ethnic Disparities in Treatment Failures for Medicines Prescribed to Treat Diseases That Cause Significant Mortality and Morbidity in the UK Population
 
-Intervention: : Carbon ions therapy — External radiotherapy by accelerated carbon nucleus in a specialized hadrontherapy center
-: Advanced external radiotherapy by Xrays or protons — Radiotherapy by any appropriate advance procedure of photontherapy (IMRT, Volumetric Modulated Arc Therapy (VMAT), Tomo, etc.) or when possible by protontherapy or even a combination of both types of radiotherapy
-Link: https://clinicaltrials.gov/study/NCT02838602
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03987633
 
 SUMMARY:
 
-## NCT04160455
-Study of Autophagy and the Effects of GALIG Gene Products in HIV-1 Infected Patients Who Are Under Antiretroviral Therapy Since Primary-infection, Chronic Phase, or Never Treated.
+## NCT04291651
+Population-Based Analysis of Neoplastic Changes in Cystic Lesions of the Pancreas.
 
-Intervention: : expression of a panel — Quantify, by droplet digital PCR, the expression of a panel of 7 genes (+ GALIG) involved in autophagy2 on sub-populations (CD4+ and CD8+ lymphocytes and monocytes) after their sorting using magnetic bead cell then RNA extraction Evaluate, on a functional test (as previously described1), whether the observed expression dysregulation is associated with a deregulation of the autophagic function, whether constitutive or induced.
-Link: https://clinicaltrials.gov/study/NCT04160455
+Intervention: : Survey — There are no study-specific interventions, as this is a prospective registry. However, patients will be asked to complete approximately 1-2 hours worth of surveys on things such as demographics, medical and surgical history, and pancreatic cyst-specific questionnaires.
+Link: https://clinicaltrials.gov/study/NCT04291651
 
 SUMMARY:
 

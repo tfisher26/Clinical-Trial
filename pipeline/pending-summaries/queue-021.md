@@ -343,15 +343,6 @@ Link: https://clinicaltrials.gov/study/NCT06720870
 SUMMARY:
 
 
-## NCT07129174
-Association Between Changes in Pulmonary Microbiota and Clinical Outcomes in Neurosurgical ICU Patients With Artificial Airways: A Prospective Observational Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07129174
-
-SUMMARY:
-
-
 ## NCT07258030
 Development of a Decision Algorithm for Vital Sign Assessment in the Outpatient Physical Therapy Setting: An e-Delphi Study
 

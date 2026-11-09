@@ -1442,14 +1442,6 @@ Link: https://clinicaltrials.gov/study/NCT05560113
 
 SUMMARY:
 
-## NCT05560802
-Can the Use of a Next Generation Partograph Based on WHO's Latest Intrapartum Care Recommendations Improve Neonatal Outcomes? a Stepped-wedge Cluster Randomized Trial (PICRINO)
-
-Intervention: : WHOs Labour care guide — Guidelines for monitoring labor progress, the WHOs LCG
-Link: https://clinicaltrials.gov/study/NCT05560802
-
-SUMMARY:
-
 ## NCT05561387
 A Phase III Randomized Trial for Newly Diagnosed Multiple Myeloma (NDMM) Patients Considered Frail or in a Subset of "Intermediate Fit" Comparing Upfront Three-Drug Induction Regimens Followed by Double or Single-Agent Maintenance
 

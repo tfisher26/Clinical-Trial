@@ -6593,15 +6593,6 @@ Link: https://clinicaltrials.gov/study/NCT06258668
 SUMMARY:
 
 
-## NCT05151718
-Ependymomics: Multiomic Approach to Radioresistance of Ependymomas in Children and Adolescents
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05151718
-
-SUMMARY:
-
-
 ## NCT07388264
 Examining the Impact of Weizmannia (Bacillus) Coagulans JBI-YZ6.3 on Gut Health and Fecal Microbiome Changes
 

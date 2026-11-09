@@ -536,15 +536,6 @@ Link: https://clinicaltrials.gov/study/NCT06081881
 
 SUMMARY:
 
-## NCT06081946
-Investigation of the Effects of Sleep Provocations on Itch and Pain Sensitivity
-
-Intervention: : Histamine — Histaminergic itch will be evoked by a 1% histamine solution. A droplet of histamine solution will be placed on the predetermined area on the forearm, and the SPT lancet will be pierced through the histamine with 120 g of pressure for 1-2 seconds
-: Cowhage — 25 spicules will be inserted in the centre of the predefined skin area on the mandibular area. The spicules will be gently rubbed for 15-20 seconds in circular motion to facilitate epidermal penetration
-Link: https://clinicaltrials.gov/study/NCT06081946
-
-SUMMARY:
-
 ## NCT06082284
 A Cross-sectional Study on the Positive Rate of Monoclonal Immunoglobulin (M Protein) in the Serum of Patients Seeking Medical Treatment in Tertiary Hospitals Based on a Highly Sensitive Serum M Protein Detection Method.
 
@@ -3371,14 +3362,6 @@ They have to be diluted 1:2 in a saline solution for a total of 36mL.
 Link: https://clinicaltrials.gov/study/NCT06163833
 
 SUMMARY: Traumatic brain injury causes damage and inflammation in the brain. This study tests infusions of mesenchymal stromal cells at different doses as a treatment.
-
-## NCT06164028
-A Qualitative Cognitive Interview Study to Evaluate Comprehensibility and Content Validity of a Caregiver Observer-reported Assessment and a Clinician-reported Assessment of Acute Pain in Infants and Young Children Who Are 0 to <2 Years of Age.
-
-Intervention: : cognitive interview — Participants will take part in a semi-structured qualitative interview (\~1 hour).
-Link: https://clinicaltrials.gov/study/NCT06164028
-
-SUMMARY:
 
 ## NCT06164314
 Effect of Perioperative Dexmedetomidine on Postoperative Delirium in Patients With Brain Tumors: a Randomized Placebo-controlled Trial
@@ -9312,15 +9295,6 @@ Link: https://clinicaltrials.gov/study/NCT06297096
 
 SUMMARY: Systemic sclerosis can scar the lungs, and current treatments only slow the damage. This study compares adding the anti-inflammatory drug tocilizumab to the antifibrotic drug nintedanib against standard treatment to see whether the combination better protects the lungs.
 
-## NCT06297200
-Investigations of Low-Intensity Focused Ultrasound Towards Treatment for the Complex Patient
-
-Intervention: : Low-Intensity Focused Ultrasound — A noninvasive brain stimulation device using low-intensity focused ultrasound (LIFU) - ultrasound will be used to test whether noninvasive brain stimulation can effect pain, craving, and anxiety.
-: Low-Intensity Focused Ultrasound - sham — A sham condition that will mimic the application of LIFU without actually administering any ultrasound to the brain.
-Link: https://clinicaltrials.gov/study/NCT06297200
-
-SUMMARY:
-
 ## NCT06297226
 A Phase 2, Open-Label, Multicenter Study of Arlocabtagene Autoleucel (BMS-986393), a GPRC5D-directed CAR T Cell Therapy in Adult Participants With Relapsed or Refractory Multiple Myeloma (QUINTESSENTIAL)
 
@@ -10641,15 +10615,6 @@ Link: https://clinicaltrials.gov/study/NCT06328062
 
 SUMMARY: Pain after knee replacement surgery can slow recovery and affect sleep. This study compares two nerve pain medicines, mirogabalin and pregabalin, taken for two weeks after surgery to see which better relieves pain.
 
-## NCT06328530
-Repetitive Applications of Pruritogens and Effects of a Cutaneous-induced Pain Stimulation on Nonhistaminergic Itch Perception
-
-Intervention: : Cowhage — 25 spicules will be inserted in the center of the predefined skin area on the mandibular area. The spicules will be gently rubbed for 15-20 seconds in circular motion to facilitate epidermal penetration.
-: Histamine — Histaminergic itch will be evoked by a 1% histamine solution. A droplet of histamine solution will be placed on the predetermined area on the forearm, and the SPT lancet will be pierced through the histamine with 120 g of pressure for 1-2 seconds.
-Link: https://clinicaltrials.gov/study/NCT06328530
-
-SUMMARY:
-
 ## NCT06328777
 A Phase 1/2, Open-Label Study to Evaluate the Safety and Efficacy of Autologous CD19-specific Chimeric Antigen Receptor T Cells (CABA-201) in Subjects With Systemic Sclerosis
 
@@ -10763,14 +10728,6 @@ Intervention: : HS-20093 — administered as an IV infusion
 : Cetuximab — administered as an IV infusion
 : Enzalutamide — 160mg once daily (QD) orally
 Link: https://clinicaltrials.gov/study/NCT06332170
-
-SUMMARY:
-
-## NCT06332495
-Research Project on the Risk of Discomfort, Pain and Alteration of Skin Condition in Bedpan Use by Patients and Caregivers
-
-Intervention: : Questioning the patient during hygiene care — The study examines how patients and caregivers feel when using the bedpan. Over the course of a day, collecting all this information would take just under 7 minutes. Over the duration of patient participation (2 days), we estimate that it would take a total of 15 minutes per patient to collect this information. The objectives are focused on pain and discomfort, and on the alteration of the (patient's) skin condition through objective observation of redness or stage I pressure sores by the caregiver.
-Link: https://clinicaltrials.gov/study/NCT06332495
 
 SUMMARY:
 
@@ -15544,14 +15501,6 @@ Intervention: : Focus Group — In 60-minute focus groups, participants will be 
 Link: https://clinicaltrials.gov/study/NCT06432985
 
 SUMMARY:
-
-## NCT06433050
-Sodium Glucose Co-transporter (SGLT) Inhibitors in Nonobstructive Hypertrophic Cardiomyopathy
-
-Intervention: : Sotagliflozin — Sotagliflozin or placebo will be administered to each participant in a cross over study design. Each participant will receive active drug and placebo with randomization of the order in which they receive them.
-Link: https://clinicaltrials.gov/study/NCT06433050
-
-SUMMARY: Hypertrophic cardiomyopathy thickens the heart muscle and can cause breathlessness and fatigue. This study tests sotagliflozin, a diabetes pill that also helps the heart, against a placebo in people without blockage of blood flow out of the heart.
 
 ## NCT06433271
 Comparative Effectiveness of Transdiagnostic Behavior Therapy Vs TAU for Adjustment Disorder Following Traumatic Event Exposure

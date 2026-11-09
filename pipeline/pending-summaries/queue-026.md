@@ -411,37 +411,6 @@ Link: https://clinicaltrials.gov/study/NCT06866769
 SUMMARY:
 
 
-## NCT07232277
-Intraoperative Venous Congestion and Cardiac Surgery-associated Acute Kidney Injury (CSA-AKI): a Prospective Cohort Study
-
-Intervention: : collection of demographic characteristics and comorbidities — 1. gender, age, BMI, ASA classification, NYHA (New York Heart Association) classification.
-2. smoking history, medical history (hypertension, diabetes mellitus, Hyperlipidemia, stroke, anaemia, chronic obstructive pulmonary disease, pulmonary hypertension, preoperative atrial fibrillation, peripheral artery disease), preoperative ACEI, ARB, beta-blockers, loop diuretics, contrast agent, aspirin, and spironolactone use.
-: surgery-related parameters and kidney function assessments — 1. surgery type, surgery duration, CPB duration, aortic cross-clamp duration, blood loss, intraoperative fluid infusion, intraoperative urine output, intraoperative blood transfusion, intraoperative anesthetics and vasoactive medications.
-2. baseline and postoperative eGFR, duration of mechanical ventilation, duration of vasopressor support, postoperative CRRT initiation, major bleeding, deep sternal wound infection/mediastinitis, surgical re-intervention, ICU LOS, hospital LOS, postoperative stroke, postoperative delirium, complications up to 30 days after surgery, 30-day inpatient mortality, survival status at discharge, and one year follow-up.
-3. a composite endpoint of major complications after surgery defined as at least one of the following: death, prolonged ventilation (\>24 h), stroke, severe AKI, deep sternal wound infection, and reoperation for any reason.
-4. CSA-AKI diagnosed using the KDIGO criteria.
-5. acute kidney disease assessment.
-6. major adverse kidney events.
-: collection of biological (laboratory) parameters — 1. WBC, CRP, IL-6, IL-1β, TNF-α, serum Amyloid A, procalcitonin, catecholamines, cortisol, SOD.
-2. creatinine, uric acid, BUN, CysC, β2-MG, eGFR.
-3. CK-MB, high-sensitivity troponin, NT pro-BNP, BNP.
-4. hemoglobin, hematocrit, sodium, arterial lactate, liver enzymes.
-: collection of hemodynamic parameters — 1. blood pressure, heart rate, CVP;
-2. CO, CI, SV, SVI,SVV;
-3. intra-abdominal pressure;
-4. vasoactive drug doses in the first hour in the ICU.
-: collection of echocardiographic parameters and venous ultrasound assessments — 1. Left ventricle systolic function, including LVOT, LVEF, MPI; left ventricular diastolic function, including mitral flow-derived Doppler indices, pulmonary vein Doppler indices.
-2. Right ventricular systolic function, including TAPSE. Right ventricular diastolic function, inferred from an hepatic vein flow in the absence of a dysrhythmia or pacing.
-3. Inferior vena cava (IVC) measurements.
-4. Hepatic vein Doppler parameters.
-5. Portal vein Doppler parameters.
-6. Renal vein Doppler parameters.
-7. Renal artery blood flow Doppler parameters.
-Link: https://clinicaltrials.gov/study/NCT07232277
-
-SUMMARY:
-
-
 ## NCT05401227
 Glutamatergic Mechanisms of Psychosis and Target Engagement: Aim2
 
