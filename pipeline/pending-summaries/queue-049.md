@@ -8454,15 +8454,6 @@ Link: https://clinicaltrials.gov/study/NCT07348510
 
 SUMMARY:
 
-## NCT07348523
-Comparison of the Effectiveness of Classical and Modified Erector Spinae Plane Blocks in Postoperative Analgesia Management Following Lumbar Spinal Surgery: A Prospective Study
-
-Intervention: : The Classical Erector Spinae Plane Block — The erector spinae plane block will be performed under ultrasound guidance before the induction of general anesthesia.
-: Modified Erector Spinae Plane Blocks — Modified erector spinae plane blocks will be performed under ultrasound guidance before the induction of general anesthesia.
-Link: https://clinicaltrials.gov/study/NCT07348523
-
-SUMMARY:
-
 ## NCT07348692
 A Phase 3, Randomized, Modified Double-blind, Active-controlled, Parallel-group, Lot-to-lot Consistency, 4-arm Study to Investigate the Safety and Immunogenicity of a 4-dose Regimen of a 21-valent Pneumococcal Conjugate Vaccine in Healthy Infants and Toddlers
 

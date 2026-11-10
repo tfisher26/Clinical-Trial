@@ -4156,15 +4156,6 @@ Link: https://clinicaltrials.gov/study/NCT05742776
 SUMMARY:
 
 
-## NCT07149831
-An Open-label, Single-center, Single-arm Phase I Clinical Trial Evaluating the Safety and Tolerability, Biodistribution and Radiation Dosimetry, and Pharmacokinetics of Flotufolastat F-18 Injection in Healthy Chinese Adults
-
-Intervention: : Flotufolastat F-18 Injection — Single dose intravenous injection of Flotufolastat F-18 Injection . Serial whole-body PET scan will be obtain after injection, blood and urine collection after injection for the assessment of pharmacokinetics.
-Link: https://clinicaltrials.gov/study/NCT07149831
-
-SUMMARY:
-
-
 ## NCT07144683
 Risk Factors for Anastomotic Leakage After Colorectal Surgery.
 

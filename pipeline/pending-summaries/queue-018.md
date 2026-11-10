@@ -283,15 +283,6 @@ Link: https://clinicaltrials.gov/study/NCT04661059
 SUMMARY:
 
 
-## NCT05798351
-Prevalence of Rectal Carriage of Carbapenemase Producing-Enterobacteriaceae on Admission to a French University Teaching Hospital
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05798351
-
-SUMMARY:
-
-
 ## NCT06283316
 Systemic Treatments for Alopecia Areata Registry
 

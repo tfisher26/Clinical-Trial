@@ -2780,17 +2780,6 @@ Link: https://clinicaltrials.gov/study/NCT06951516
 SUMMARY:
 
 
-## NCT07447999
-A Multisensor Deep Neural Framework Combining Digital Auscultation, Oxygen Saturation, and Motion Data to Estimate the Apnea-Hypopnea Index in Obstructive Sleep Apnea
-
-Intervention: : electronic stethoscope — digital device amplifying and recording cardiopulmonary sounds
-: fingertip pulse oximeter — a small device placed on the finger to measure blood oxygen saturation (SpO₂) and pulse rate noninvasively.
-: pressure-sensing mattresses — using ballistocardiography (BCG) for monitoring respiration and heart rate
-Link: https://clinicaltrials.gov/study/NCT07447999
-
-SUMMARY:
-
-
 ## NCT06447350
 Alcohol Consumption: Norms, Identities, & Motivations (ADUC-Volet 3 " Prevention ")
 

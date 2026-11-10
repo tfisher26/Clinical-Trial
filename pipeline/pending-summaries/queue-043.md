@@ -1577,50 +1577,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04538937
-Prospective Registry of Eosinophilia With Respiratory Manifestations With Translational Research Identifying and Characterizing Eosinophils
-
-Intervention: : no intervention — no intervention
-Link: https://clinicaltrials.gov/study/NCT04538937
-
-SUMMARY:
-
-## NCT04539951
-A Pragmatic Trial of Pharmacotherapy Options Following Unsatisfactory Initial Treatment in OCD
-
-Intervention: : Sertraline 200 milligram(mg) — All included participants will receive sertraline, initially at 50mg/d, with a weekly 50mg/d further increase, to the maximum recommended dosage (200mg/d) or to the maximum tolerated dosage (less than 200mg/d). Patients will be on their maximum dose by week 4, so allowing an assessment of response at 12 weeks
-: Sertraline 300 milligram(mg) — In experimental phase II, the patients in this group will remain on sertraline (higher dosage): where sertraline 200mg has been tolerated, dosage will be increased by 50mg fortnightly to a maximal dose of 300mg/d or to the maximum tolerable dose (less than 300mg/d).
-: Fluvoxamine — Fluvoxamine will be initiated at a dose of 50mg/d, increasing quickly to a maximal dose of 300mg/d or the maximum tolerated dose by week 4.
-: Venlafaxine — venlafaxine will be initiated at 75mg/d, increasingly weekly by 75mg/day, to a maximal dose of 300 mg/d or the maximum tolerated dose.
-: Augment with Memantine — Sertraline will be augmented with memantine initially at 5mg/d, and increasing by 5mg/d weekly to a maximal dose of 20mg/d (10mg twice daily) or the maximum tolerated dose
-: Augment with Aripiprazole — Sertraline will be augmented with aripiprazole, initially at 5mg/d, and increasing by 5mg/d weekly to a maximal dose of 20mg/d or the maximum tolerated dose
-Link: https://clinicaltrials.gov/study/NCT04539951
-
-SUMMARY:
-
-## NCT04540068
-Prediction of Transforaminal Epidural Injection Success in Sciatica
-
-Intervention: : Transforaminal Epidural Injection — Injections above L3 will contain 1,5 ml lidocaine 1% and 10 mg dexamethasone and injections at L3 or below will contain 1,5 ml lidocaine 2% and 40mg methylprednisolone acetate in accordance with current Dutch anesthesiologic guidelines for usual care.
-Link: https://clinicaltrials.gov/study/NCT04540068
-
-SUMMARY:
-
-## NCT04541654
-Li-Fraumeni & TP53: Understanding and Progress (LiFT UP)
-
-Intervention: : Data and Specimen Collection — * Provide research team and access to relevant medical records
-* Answer short questionnaires periodically
-* Consider consenting to other optional parts of the research such as:
-* Providing up to 3 tubes (15ml) of blood at or near the time of consent, as approved by treating physician (optional).
-* Provide a saliva sample (optional).
-* Provide eyebrow hairs for analysis of DNA from the bulb (15-20 eyebrow plucks) (optional).
-* Provide permission for obtainment of stored tissue specimens from cancer or pre-cancer surgeries or biopsies from the pathology departments where they have been stored (optional).
-* Consider inviting relatives to join the study (optional).
-Link: https://clinicaltrials.gov/study/NCT04541654
-
-SUMMARY:
-
 ## NCT04542720
 Decompression Versus Decompression and Fusion for Lumbar Adjacent Segment Disease
 
@@ -4870,15 +4826,6 @@ Myocardial Ischemia Without Obstructive Coronary Stenoses: A Prospective Observa
 
 Intervention: : Invasive coronary endothelium-dependent and non-endothelium-dependent physiological assessment — Coronary hemodynamics and vessel anatomical measures obtained during adenosine and acetylcholine evaluation with a dedicated physiology wire
 Link: https://clinicaltrials.gov/study/NCT04827498
-
-SUMMARY:
-
-## NCT04829071
-Cognition as a Moderator of Motor Learning Post-stroke
-
-Intervention: : Explicit motor learning — Participants will be provided with visual feedback of their right and left step lengths on a screen in front of a treadmill.
-: Implicit motor learning — Participants will walk on a treadmill that drives their right and left legs to move at two different speeds.
-Link: https://clinicaltrials.gov/study/NCT04829071
 
 SUMMARY:
 
@@ -9262,14 +9209,6 @@ Intervention: : Video Monitoring — continuous video monitoring
 : Biosample Collection — blood and urine samples collected once on Day 1 and once on Day 2
 : Delirium Motor Subtyping Scale 4 (DMSS-4) — done daily on delirious patients to subtype delirium
 Link: https://clinicaltrials.gov/study/NCT05127265
-
-SUMMARY:
-
-## NCT05129345
-Addressing Barriers to Achieving Cardiometabolic Disorders Prevention and Treatment Goals for Persons Living With HIV in the Southeastern United States
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05129345
 
 SUMMARY:
 

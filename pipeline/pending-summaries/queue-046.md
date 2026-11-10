@@ -12403,14 +12403,6 @@ Link: https://clinicaltrials.gov/study/NCT06682754
 
 SUMMARY:
 
-## NCT06682936
-Can Talc Pleurodesis for Malignant Pleural Effusion be Performed on an Ambulatory Basis
-
-Intervention: : ambulatory chest drain and talc pleurodesis — a chest drain will be inserted, fluid drained and medical talc instilled on an ambulatory basis
-Link: https://clinicaltrials.gov/study/NCT06682936
-
-SUMMARY: Fluid buildup around the lungs from cancer is often treated with talc in the hospital. This study tests whether talc treatment through a chest drain can be done safely as an outpatient.
-
 ## NCT06683014
 The Effects of MDMA (3,4-methylenedioxymethamphetamine) in Social Cognition in Borderline Personality Disorder
 
@@ -14504,14 +14496,6 @@ Link: https://clinicaltrials.gov/study/NCT06716411
 
 SUMMARY: Gulf War illness causes long lasting fatigue, pain and other symptoms in veterans. This study tests acupuncture to see whether it relieves these symptoms.
 
-## NCT06716463
-PREdicting Failure of Non-inVasIve Ventilatory Support Using Non-invaSIve mONitoring in Non-intubated Patients With Acute Hypoxemic Respiratory Failure or Post-extubation Failure: the PREVISION Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06716463
-
-SUMMARY:
-
 ## NCT06716541
 Biodegradable Stents Versus Plastic Stents for Treatment of Biliary Anastomotic Strictures in Liver Transplant RecipIents
 
@@ -16360,19 +16344,6 @@ Intervention: : Drug-coated balloon (DCB) — Drug-coated balloon treatment of t
 Link: https://clinicaltrials.gov/study/NCT06742125
 
 SUMMARY: During a major heart attack, the blocked artery is usually opened with a stent. This study compares using a drug coated balloon without leaving a stent against a drug eluting stent to see whether it works as well.
-
-## NCT06742385
-Evaluation of a Remote Monitoring Application in the Follow-up of Patients With Active Inflammatory Bowel Diseases: The SECURITY Trial
-
-Intervention: : MedicWise — * Both arms are equipped with the application, data are collected via the application and telemonitoring with alerts to the care team are activated in the active telemonitoring arm.
-* Data are collected in both arms at baseline, M3, M6, M9 and M12
-* Each center defines who handles alerts internally (physicians, IBD nurses, others, etc.) according to its internal organization. The application does not impose an internal operation.
-* the alert thresholds are identical and fixed for all centers during the study. Within the framework of the study, alerts are defined according to the study's modalities but cannot be modified by the centers.
-* Participating sites will have no obligation to respond to alerts.
-* Randomization will be stratified by centers and by diseases (Crohn and UC) with unbalanced blocks of randomization
-Link: https://clinicaltrials.gov/study/NCT06742385
-
-SUMMARY:
 
 ## NCT06742502
 A Phase II, Multicenter Clinical Study of Sintilimab Combined With Rituximab Followed by R-CHOP Regimen in Patients With Previously Untreated Primary Mediastinal Diffuse Large B-Cell Lymphoma

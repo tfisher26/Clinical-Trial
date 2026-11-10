@@ -1628,17 +1628,6 @@ Link: https://clinicaltrials.gov/study/NCT06184646
 SUMMARY:
 
 
-## NCT07498530
-Application of a Virtual Assistant to Enhance Exercise Adherence in Older Adults
-
-Intervention: : Exercise program — BOT Group: Home-based exercise program delivered through a virtual assistant for 12 weeks (60 minutes, three times per week), including guided instructions and adherence monitoring.
-
-Enguera Exercise Group: Face-to-face, instructor-led exercise sessions from the Enguera se saludable program, with the same frequency and duration (60 minutes, three times per week for 12 weeks).
-Link: https://clinicaltrials.gov/study/NCT07498530
-
-SUMMARY:
-
-
 ## NCT07252986
 A Multi-omics Breast Cancer Distant Metastasis Prediction Model Empowered by Artificial Intelligence and Its Clinical Translation Research
 

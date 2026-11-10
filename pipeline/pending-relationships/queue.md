@@ -103236,3 +103236,30 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05712577
+Psychological Help in Patients With Marfan Syndrome: the Role of Quality of Life, Coping Mechanisms, Psychosocial Aspects and Self-esteem Levels
+Conditions: musculoskeletal/marfan_syndrome, other/rare_diseases
+
+Inclusion criteria:
+"""
+* Subjects affected by Marfan syndrome;
+* Subjects currently in follow-up at Cardiovascular Genetic Centre, IRCCS Policlinico San Donato;
+* Signed informed consent.
+"""
+
+RELATIONSHIP:
+
+## NCT05911529
+Tracking the Linguistic Signatures of Motivational Interviewing in Acute Psychosis (Former: Motivational Interviewing for Patients With Acute Psychosis)
+Conditions: mental_health/psychotic_disorders, mental_health/schizophrenia
+
+Inclusion criteria:
+"""
+* Informed consent as documented by signature
+* Male and female patients from inpatient units of the Psychiatric University Hospital of Zurich
+* ICD-10 diagnosis of a mental disorder with psychotic symptoms, including schizophrenia, schizotypal and delusional disorders (F20-F29), affective disorders with psychotic features (F30.2, F31.2, F31.5, F32.3, F33.3) and substance-induced psychotic disorders (F1x.5)
+* Fluent in German and able to understand the instructions
+"""
+
+RELATIONSHIP:
+

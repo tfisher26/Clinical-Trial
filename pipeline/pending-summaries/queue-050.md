@@ -8673,15 +8673,6 @@ Link: https://clinicaltrials.gov/study/NCT07594964
 
 SUMMARY:
 
-## NCT07595263
-A Clinical Trial to Study the Effect of a Single Dose of Ulonivirine on the Pharmacokinetics of Methadone
-
-Intervention: : Ulonivirine — Oral Tablet
-: Methadone — Oral (per local guidelines)
-Link: https://clinicaltrials.gov/study/NCT07595263
-
-SUMMARY:
-
 ## NCT07595354
 Effects of Exercise Prescription on Cardiovascular Health and Quality of Life in Children With Hypertrophic Cardiomyopathy
 

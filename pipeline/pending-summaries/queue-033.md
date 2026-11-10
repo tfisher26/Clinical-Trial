@@ -958,15 +958,6 @@ Link: https://clinicaltrials.gov/study/NCT07191782
 SUMMARY:
 
 
-## NCT06891950
-Phase 3B, Double-blind, Randomized Study to Evaluate the Safety and Non-inferiority of the Humoral Immune Response of the Butantan Dengue Vaccine in Participants Aged 60 to 79 Years Compared to Participants Aged 40 to 59 Years
-
-Intervention: : Dengue 1,2,3,4 (attenuated) vaccine — Each 0.5 mL dose of the lyophilized formulation of Dengue 1,2,3,4 (attenuated) presents an approximate concentration of 103.0 PFU of each vaccine virus rDEN1Δ30-1545, rDEN2/4Δ30(ME)-1495,7163, rDEN3Δ30/31-7164, rDEN4Δ30-7132,7163,8308.
-Link: https://clinicaltrials.gov/study/NCT06891950
-
-SUMMARY:
-
-
 ## NCT06197152
 Identification and Clinical Validation of Biomarkers Associated With Clinical Severity in Adults Infected With Respiratory Syncytial Virus
 

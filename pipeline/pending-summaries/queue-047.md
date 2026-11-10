@@ -1054,15 +1054,6 @@ Link: https://clinicaltrials.gov/study/NCT06767631
 
 SUMMARY:
 
-## NCT06767670
-Evaluation of Oral Hygiene Status in Correlation With Microbial Load in the Oral Cavity Following Restorations of Primary Molars Using Stainless Steel and Bioflex Crowns (Clinical Randomized Trial)
-
-Intervention: : stainless steel crown — familiar method of managing multi-surface carious lesions in primary teeth
-: bioflex crown — aesthetic preformed pediatric crowns that offer the properties of both stainless steel and zirconia crowns
-Link: https://clinicaltrials.gov/study/NCT06767670
-
-SUMMARY:
-
 ## NCT06767800
 Phase II Clinical Trial Evaluating the Efficacy and Safety of TQB2102 for Injection in Chemotherapy With Behmosubstituted Monoclonalb/Pembrolizumab ± Chemotherapy in Patients With Unresectable, Locally Advanced, Recurrent, or Metastatic HER2-Positive Gastroesophageal Adenocarcinoma
 
@@ -1218,15 +1209,6 @@ Brightline - a Digital Phenotyping Study Toward Advancing Mental Health on Campu
 
 Intervention: : Observational — Participants will not receive any study intervention. During the six month study period, participants will complete four active assessments at Months 0, 1, 3 and 6, and data from the study-provided wearable (Fitbit Charge 6) and sensors from the participant's smartphone (through the Brightline app) will be collected passively throughout.
 Link: https://clinicaltrials.gov/study/NCT06770075
-
-SUMMARY:
-
-## NCT06770101
-Suicide Assessment and Feasible Evidence-based Treatments for Youth Living With HIV in Lilongwe: SAFETY Planning Pilot Trial
-
-Intervention: : Behavioral: Enhanced Friendship Bench + Safety Planning — The protocol will include six sessions, starting with the development of the SP during the first session. Each of the following sessions will include SIBs and suicide risk assessments, SP check-ins and revisions, as well as FB problem-solving to address SIBs and suicide risk. SP+FB will be delivered by selection of young counselors (mixed genders, aged 20-35) who are motivated to work with young people. Counseling sessions will take place in a discrete location within the HIV clinic and be available on weekends. Each structured session lasts 30-45 minutes and conducted in the participant's local language (Chichewa). After 4 sessions of individual therapy, the counselor can refer participants not improving or with suicidal ideation to a supervisor trained in mental health to reassess and manage the case. Case management may include additional counseling or pharmacotherapy, at the discretion of the managing clinician. Participants may also receive text message support and peer-support.
-: Augmented usual care — Care for suicidality in public facilities in Malawi includes options for basic supportive counseling by the primary provider or nurse, medication management by the primary provider, referral to the clinic's psychiatric nurse, or, for acute cases or crises, referral to the psychiatric units at tertiary care hospitals (Bwaila Hospital in Lilongwe District). Nurses and clinicians at the study sites have been specifically trained to use the Tool for Assessment of Suicide Risk for Adolescents (TASR-A) to assess ALWH considered at elevated risk for suicide. For this study, usual care will be augmented by a trained study nurse who will provide mental health evaluation, brief supportive counseling, information, education and support on SIBs, and (if indicated) facilitation of referral to the clinic's psychiatric nurse or to Bwaila Hospital.
-Link: https://clinicaltrials.gov/study/NCT06770101
 
 SUMMARY:
 
@@ -8610,14 +8592,6 @@ Multicenter Randomised Prospective Study for External Support Mesh VEST of Venou
 
 Intervention: : CABG — Aortocoronary bypass procedures with venous grafts on right coronary territory
 Link: https://clinicaltrials.gov/study/NCT06877195
-
-SUMMARY:
-
-## NCT06877221
-A Prospective, Multicenter, Randomized, Controlled Clinical Trial to Evaluate the Effectiveness and Safety of an Ultrasound Renal Denervation Catheter in Combination With an Ultrasound Renal Denervation Device for the Treatment of Refractory Hypertension or Drug - Intolerant Hypertension
-
-Intervention: : ultrasound renal denervation — Treat with an ultrasound nerve ablation catheter and an ultrasound nerve ablation device
-Link: https://clinicaltrials.gov/study/NCT06877221
 
 SUMMARY:
 

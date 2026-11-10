@@ -229,16 +229,6 @@ Link: https://clinicaltrials.gov/study/NCT07631624
 SUMMARY:
 
 
-## NCT06425731
-Characterizing Dance-related Physical Activity Behaviors Among Adults Living With Parkinson's Disease for Automated Analyses of Energy Expenditure
-
-Intervention: : Fasting — Participants (Dance for PD, in-person only) will engage in one of their routine weekly dance sessions while a portable indirect calorimeter is used for energy expenditure analysis. Before this session, participants will be asked to fast for at least 4-hours. In this way, participants in this study arm will engage in a self-controlled study design wherein they complete a 4-hour fast before engaging in an oxygen uptake assessment during their routine dance classes. During the 4-hour fasting period, participants will be asked to refrain from eating any food and drinking any beverages except for water.
-: No Intervention — No Intervention
-Link: https://clinicaltrials.gov/study/NCT06425731
-
-SUMMARY:
-
-
 ## NCT06340178
 CT-guided Lung Biopsy Risk Optimization Method - Effect of Fluid Application in the Pleural Cavity and the Gravitational Effect of Pleural Pressure
 
@@ -4828,15 +4818,6 @@ Effect of HPV Integration on Prognosis of Young Women With CIN2 in China: A Mult
 
 Intervention: : Follow up — Participants will be followed up at baseline, 3th, 6th, 9th and 12th months with HPV viral integration tests, HPV genotyping tests, thinprep cytologic tests (TCT) for cervix and vaginal secretion tests. Colposcopies and biopsies will be performed on the participants at 6 - and 12-month follow-up.
 Link: https://clinicaltrials.gov/study/NCT05282095
-
-SUMMARY:
-
-
-## NCT05765929
-Use of Weightbearing Radiographs to Determine Treatment of bi- and Trimalleolar Ankle Fractures
-
-Intervention: : Non-operative treatment — Patients will be treated with a walker-orthosis for 6 weeks. Weightbearing as tolerated
-Link: https://clinicaltrials.gov/study/NCT05765929
 
 SUMMARY:
 

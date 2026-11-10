@@ -712,15 +712,6 @@ Link: https://clinicaltrials.gov/study/NCT06612281
 SUMMARY:
 
 
-## NCT07128888
-A Study to Evaluate the Effect of GZR18 Injection on Gastric Emptying and Its Drug-Drug Interactions With Digoxin, Rosuvastatin Calcium and Warfarin Sodium in Obese or Overweight Subjects
-
-Intervention: : GZR18 injection,digoxin tablets, rosuvastatin calcium tablets and warfarin sodium tablets — GZR18 injection: 3 mg-36 mg，16 weeks; Warfarin Sodium Tablets:2.5mg，twice; Rosuvastatin Calcium Tablets：10mg，twice; Digoxin Tablets:0.25mg，twice
-Link: https://clinicaltrials.gov/study/NCT07128888
-
-SUMMARY:
-
-
 ## NCT07179471
 "Fake Carbs" Practice in the Glycemic Outcomes in Children and Adolescents Using AID System: A Cross-over Observational Study
 

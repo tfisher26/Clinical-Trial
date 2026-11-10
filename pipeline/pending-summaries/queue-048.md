@@ -300,14 +300,6 @@ Link: https://clinicaltrials.gov/study/NCT06999837
 
 SUMMARY:
 
-## NCT06999928
-Pilot Implementation-Effectiveness Study of an Enhanced Mentor Mother Strategy
-
-Intervention: : Enhanced Mentor Mother Strategy — The enhanced Mentor Mother strategy introduces a structured approach to differentiated PMTCT support, led by trained peer counselors/Mentor Mothers (MM). Mentor Mothers will be trained on how to perform risk stratification, and they will use a standardized form to identify and document psychosocial and clinical risk factors. Based on these, MMs then deliver tailored interventions, including additional counseling, community outreach, and referrals. Fidelity assessments and a process of audit and feedback will be used to further refine the strategy, which builds on national differentiated service delivery guidelines and integrates into routine care without requiring added clinic staff.
-Link: https://clinicaltrials.gov/study/NCT06999928
-
-SUMMARY:
-
 ## NCT07000084
 GAIN-BCG: Gemcitabine Alternating With INtravesical BCG Randomized Against BCG Alone for Patients With Recurrent High Grade Non-Muscle Invasive Bladder Cancer
 
@@ -9271,19 +9263,6 @@ Link: https://clinicaltrials.gov/study/NCT07132879
 
 SUMMARY:
 
-## NCT07133009
-The Effect of the Intentional Relationship Model on Therapeutic Use of Self and Career Choice in Occupational Therapy Students
-
-Intervention: : Intentional Relationship Model (IRM) Training — 1 Theory: Brief introduction to the Intentional Relationship Model, therapeutic self-awareness, and explanation of therapeutic styles.
-
-1. Practice: Students share their existing knowledge and thoughts about therapeutic styles, and discuss the practical implications of therapeutic styles that may be relevant to them.
-2. Theory: Information about defining interpersonal characteristics and getting to know our clients
-
-2 Practice: Sources of differences in client profiles in the client-therapist relationship, structuring questions appropriately, and practices for getting to know our clients better 3 Theory: Information about potential difficulties that may arise in the therapeutic process 3 Practice: Scenarios are played out about what can be done to address difficulties that may arise in the client-therapist relationship 4 Theory: Information about interpersonal reasoning skills and coping with difficulties 4 Practice: Strategies that can be used to create an appropriat
-Link: https://clinicaltrials.gov/study/NCT07133009
-
-SUMMARY:
-
 ## NCT07133113
 Medium-term Effects of Treatments in Autoimmune Encephalitis (META): a Real-life, Observational Prospective Study
 
@@ -16422,19 +16401,6 @@ A Tailored Medication Adherence-Promotion Intervention for Adolescents and Young
 Intervention: : Tailored Program — Participants will participate in 4 sessions with a coach, 1 every other week. During these sessions, the participant will work with their coach to identify a barrier to adherence they would like to target. Then, they will work with their coach to create an action plan using evidence-based behavior change techniques to address this barrier. In between sessions (on alternating weeks), the coach will check-in with a text reminder about the plan.
 : Feedback Program (Uniform Standard of Care) — Participants will receive weekly text messages with feedback about their adherence and guidance for requesting additional support if desired
 Link: https://clinicaltrials.gov/study/NCT07223463
-
-SUMMARY:
-
-## NCT07223736
-Postpartum Education Via Artificial Intelligence for Recovery and Loneliness (PEARL): A Randomized Controlled Trial
-
-Intervention: : Generative artificial intelligence (genAI) postpartum chatbot — Participants randomly assigned to the chatbot intervention will be provided a URL to a secure, HIPAA-compliant web application hosted by UC San Diego (https://knolohealth.org/). This application features a generative AI-powered chatbot designed to deliver postpartum pelvic floor education and support. The chatbot is available for a 4-week period following enrollment and can be accessed at any time during that window.
-
-The chatbot's educational content is grounded in reputable, evidence-based resources, including national and international urogynecology patient education materials, as well as postpartum recovery guidelines. Participants can interact with the chatbot to ask questions and will receive tailored educational responses related to pelvic floor health.
-
-No additional in-person study visits are required for the intervention. Chatbot usage data (e.g., frequency, timing and content of chatbot interactions) will be collected to assess engagement and user needs.
-: Standard of Care (SOC) — Access to the same postpartum care that participants would receive if they did not participate in the study.
-Link: https://clinicaltrials.gov/study/NCT07223736
 
 SUMMARY:
 

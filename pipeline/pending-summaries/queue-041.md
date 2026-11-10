@@ -256,16 +256,6 @@ Link: https://clinicaltrials.gov/study/NCT07307664
 SUMMARY:
 
 
-## NCT04540432
-Descriptive Study on the Evolution of Intestinal Microbiota Profiles in Patients With Juvenile Spondylarthropathy According to the Typology of Treatment and Response to it: A Descriptive, Prospective Pilot Study
-
-Intervention: : Stool collection at the patient's home. — Stool samples will be taken from each patient to look for changes in intestinal microbiota. These collections will be made on Day 0 +24h, 24 hours before the 1st follow-up visit after 1 month of treatment with non-steroidal anti-inflammatory drugs, 24 hours after the second follow-up visit (between months 3 and 4) and finally, at the end of treatment.
-: Blood test — 7 ml of blood will be taken from each patient before treatment i.e. at the inclusion visit and at the end of treatment.
-Link: https://clinicaltrials.gov/study/NCT04540432
-
-SUMMARY:
-
-
 ## NCT06691087
 ÉTude de la pERception soNorE de Personnes maLentendantes équipées d'Aides Auditives
 

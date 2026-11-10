@@ -200,14 +200,6 @@ Link: https://clinicaltrials.gov/study/NCT07781917
 
 SUMMARY:
 
-## NCT07781943
-The Effect of Diaphragmatic Breathing Exercises Performed Prior to Diagnostic Gastroscopy on Anxiety, Fear, and Vital Signs in Adult Patients: A Randomized Controlled Trial
-
-Intervention: : Diaphragmatic Breathing Exercises — Participants will perform a standardized breathing intervention consisting of pursed-lip breathing followed by diaphragmatic breathing. First, participants will complete 1 minute of pursed-lip breathing by inhaling deeply through the nose and exhaling slowly through slightly pursed lips to improve expiratory control and prepare for diaphragmatic breathing. They will then perform four sets of 10 diaphragmatic breaths. Each breathing cycle will include inhalation through the nose for 3-5 seconds, a 2-second pause, and controlled exhalation through the mouth for 6-7 seconds, with 30-60-second rest periods between sets. The total intervention will last approximately 10 minutes. Participants will be monitored throughout the session, instructed to focus on their breathing, and the intervention will be stopped if discomfort occurs.
-Link: https://clinicaltrials.gov/study/NCT07781943
-
-SUMMARY:
-
 ## NCT07786532
 Effect of a Sports-Based Structured Cognitive Therapy Program on Attention, Memory, and Behavior in School-Going Children: A Randomized Controlled Trial
 

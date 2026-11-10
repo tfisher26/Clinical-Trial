@@ -2787,15 +2787,6 @@ Link: https://clinicaltrials.gov/study/NCT07488936
 SUMMARY:
 
 
-## NCT07490171
-Traumatic Cardiac Arrest Registry
-
-Intervention: : Medical/Phenotype Data Collection Procedures & Data to be Collected — The MDMC Trauma Registry will be queried for demographic information, diagnosis codes, admission dates, traumatic injury characteristics, surgical procedures, comorbidities, inpatient outcomes, complications, consultations, discharge location, and mortality. Additional laboratory values will be abstracted from Epic through retrospective chart review.
-Link: https://clinicaltrials.gov/study/NCT07490171
-
-SUMMARY:
-
-
 ## NCT06097065
 Research on Potential Biomarkers of Prediabetes and Diabetes Based on MALDI-TOF MS Platform.
 

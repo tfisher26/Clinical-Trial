@@ -93,18 +93,6 @@ Link: https://clinicaltrials.gov/study/NCT06745297
 SUMMARY:
 
 
-## NCT05947422
-CT Quantitative Assessment of Interstitial Lung Disease Using Visual Score and Lung Densitometry Methods and Its Correlation With Pulmonary Function Tests
-
-Intervention: : High resolution CT Chest — CT chest in our institution will be done with standard high resolution protocol . No I.V contrast will be given. Scans will be obtained during full inspiration in supine position from the thoracic inlet to the level of the diaphragm.
-
-Patients with CT chest performed outside our institution will be reviewed in DICOM format and assessed for its compatibility to be integrated into the computer-based analysis software.
-: Spirometry — Spirometry will be performed using standard techniques according to ATS-ERS criteria 2019 . Spirometry device (Zan 300, NSPIRE HEALTH GMBH Co.) will be used. Percentage predicted values (%pred) will be calculated based on reference values for healthy adults. All patients will be required to undergo spirometry in a reproducible way, and the best values will be reported. Spirometry should meet international acceptability and repeatability standards
-Link: https://clinicaltrials.gov/study/NCT05947422
-
-SUMMARY:
-
-
 ## NCT07001761
 Ultrasonographic Evaluation of Osteoarthritis. A Comparative Study to Conventional Radiography in Patients With Painful Knee.
 

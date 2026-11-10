@@ -5876,16 +5876,6 @@ Link: https://clinicaltrials.gov/study/NCT05725668
 
 SUMMARY: Older adults with mild cognitive impairment are at higher risk of falls. This study tests dual task tai ji quan training to reduce falls.
 
-## NCT05726136
-Comparison of Albumin and Ringer's Solution for Optimization of the Plasma Volume and Hemodynamics During Laparoscopic Surgery.
-
-Intervention: : acetated Ringers — After insufflation of carbon dioxide during an abdominal laparoscopic procedure, the first fluid bolus is infused. Circulatory and volume effects are studied. If cardiac output increase a second bolus is infused and studied.
-: albumin 5% — After insufflation of carbon dioxide during an abdominal laparoscopic procedure, the first bolus of fluid is infused. Circulatory and volume effects are studied. If cardiac output increases a second bolus is infused and studied.
-: albumin 20% — After insufflation of carbon dioxide during an abdominal laparoscopic procedure, the first bolus of fluid is infused. Circulatory and volume effects are studied. If cardiac output increases a second bolus is infused and studied.
-Link: https://clinicaltrials.gov/study/NCT05726136
-
-SUMMARY:
-
 ## NCT05726305
 Transplantation of Uterus for Uterine infertiLIty From Living Donor or Deceased Donor
 
@@ -9514,14 +9504,6 @@ Intervention: : Hyperbaric oxygen therapy — Each session will include exposure
 Link: https://clinicaltrials.gov/study/NCT05842239
 
 SUMMARY: Low sperm count, called oligospermia, can cause infertility in men. This pilot study tests a course of hyperbaric oxygen therapy sessions to see if it improves fertility.
-
-## NCT05842551
-The Effect of Prismatic Lenses in Association With tDCS in Patients With Neglect: a Pilot Study
-
-Intervention: : Prismatic adaptation and electric stimulation — Combinatory effect of tEs and prismatic lenses in the experimental group and of sham stimulation and prismatic lenses in control group
-Link: https://clinicaltrials.gov/study/NCT05842551
-
-SUMMARY: Spatial neglect after a stroke makes people ignore one side of space. This pilot study tests prismatic lenses combined with tDCS.
 
 ## NCT05842902
 Pilot Trial Testing Mobile Health Psychosocial Intervention for Adolescents and Young Adults With Cancer

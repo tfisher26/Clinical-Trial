@@ -1733,17 +1733,6 @@ Link: https://clinicaltrials.gov/study/NCT06896370
 SUMMARY:
 
 
-## NCT06320106
-Evaluation of Spatial Navigation Skills in Typically Developing Children and in Children With Cerebral Palsy Using a Head Mounted Display
-
-Intervention: : Virtual Reality baseline assessment — They undergo a baseline assessment (including cognitive level and pen and paper tests for visuo-spatial abilities). Then they perform a spatial navigation assessment with an immersive virtual reality application delivered by the Oculus Quest viewer. The spatial navigation application consists of a 5-way star-maze adapted from (Biffi et al 2020 Front. Psychol.) where the participants have to find a treasure hidden at the end of one way. The application measures both the learning of spatial information and the strategy used (egocentric or allocentric).
-
-After the session, the participants fill questionnaires related to cyber-sickness and usability of the application.
-Link: https://clinicaltrials.gov/study/NCT06320106
-
-SUMMARY:
-
-
 ## NCT07038434
 Refining mUltiple Artificial intelliGence strateGies for Automatic Pain Assessment Investigations: RUGGI Study
 
@@ -2313,18 +2302,6 @@ Link: https://clinicaltrials.gov/study/NCT06645405
 SUMMARY:
 
 
-## NCT07406282
-Double-DARE: Analysis of Doublet and Triplet Therapy With Darolutamide and Other Androgen Receptor Pathway Inhibitors in de Novo mHSPC Patients Seen in Urology Clinics in the USA
-
-Intervention: : Darolutamide — Androgen receptor pathway inhibitor for treatment of metastatic hormone-sensitive prostate cancer
-: Abiraterone acetate — Androgen receptor pathway inhibitor for treatment of metastatic hormone-sensitive prostate cancer
-: Enzalutamide — Androgen receptor pathway inhibitor for treatment of metastatic hormone-sensitive prostate cancer
-: Apalutamide — Androgen receptor pathway inhibitor for treatment of metastatic hormone-sensitive prostate cancer
-Link: https://clinicaltrials.gov/study/NCT07406282
-
-SUMMARY:
-
-
 ## NCT06556446
 Safety and Efficacy of Intravenous Thrombolysis in Patients With Ischemic Stroke and Recent Ingestion of Direct Oral Anticoagulants: the DOAC - International Thrombolysis (DO-IT) Cohort Study
 
@@ -2501,16 +2478,6 @@ Drug-Eluting Registry: Real-World Treatment of Lesions in the Peripheral Vascula
 
 Intervention: : Any eligible commercially available Boston Scientific Corporation (BSC) drug-eluting device. — Ranger™ Paclitaxel-Coated Percutaneous Transluminal Angioplasty (PTA) Balloon Catheter; ELUVIA™ Drug-Eluting Vascular Stent System
 Link: https://clinicaltrials.gov/study/NCT04674969
-
-SUMMARY:
-
-
-## NCT07355738
-A Randomized, Open-label, Single-dose, Parallel Comparison Study to Evaluate the Bioequivalence of GZR18 Injection Before and After CMC Change in Healthy Adult Male Subjects
-
-Intervention: : GZR18 injection A — Administered SC
-: GZR18 injection B — Single dose, s.c.
-Link: https://clinicaltrials.gov/study/NCT07355738
 
 SUMMARY:
 

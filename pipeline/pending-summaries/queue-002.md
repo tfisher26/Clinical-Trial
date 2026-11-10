@@ -4523,14 +4523,6 @@ Link: https://clinicaltrials.gov/study/NCT07711418
 
 SUMMARY:
 
-## NCT07711431
-Evaluation of the Association Between Periodontal Diseases and Chronic Non-Specific Neck Pain and Functional Disability: A Cross-Sectional Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07711431
-
-SUMMARY:
-
 ## NCT07711457
 Application of Extended Reality (XR)-Assisted CT-Guided Localization in Extracranial-intracranial (EC-IC) Bypass Surgery
 
@@ -7896,14 +7888,6 @@ Link: https://clinicaltrials.gov/study/NCT07745530
 
 SUMMARY:
 
-## NCT07745907
-A Phase 1, Open-Label, Single-Dose Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of AMG 691 Administered in Healthy Chinese and Japanese Participants
-
-Intervention: : AMG 691 — AMG 691 will be administered subcutaneously
-Link: https://clinicaltrials.gov/study/NCT07745907
-
-SUMMARY:
-
 ## NCT07746167
 The Relationship Between Neurostimulation Intensity and Pupillary Dilation Reflex (PRD) in Healthy Volunteers
 
@@ -9230,17 +9214,6 @@ The Effects of Vestibulo-Ocular Reflex Exercises Added to Postural Stabilization
 Intervention: : Postural Stabilization Training — Participants in this group will receive ankle joint mobilization followed by a structured postural stabilization training program. The program will include single-leg stance progression, hop stabilization tasks and number-sequence hop tasks. Exercises will be progressed according to the participant's ability to complete each task without errors. Ankle joint mobilization will include talocrural anteroposterior mobilization and distal fibular mobilization with movement, applied before the exercise session for approximately 5 minutes. The total session will last approximately 45 minutes and will be performed 3 times per week for 6 weeks.
 : Vestibulo-Ocular Reflex Exercise in addition to Postural Stabilization Training — Participants in this group will receive the same ankle joint mobilization and postural stabilization training program as the Postural Stabilization Training Group. In addition, vestibulo-ocular reflex (VOR) exercises involving fixation on a visual target during head movements will be implemented. VOR exercises will be structured to progressively increase postural demands and will include sitting, standing, walking, and single-leg stance positions. The total session will last approximately 45 minutes and will be performed 3 times per week for 6 weeks.
 Link: https://clinicaltrials.gov/study/NCT07760233
-
-SUMMARY:
-
-## NCT07760246
-A Double-blind, Randomized, Placebo-controlled, Multiple-dose, Parallel Group Design Trial With Moxifloxacin as Positive Control in a Nested Crossover to Evaluate the Effects of Multiple Doses of Verducatib (BI 1291583) on Cardiac Safety Parameters in Healthy Male and Female Trial Participants
-
-Intervention: : Verducatib — Verducatib
-: Moxifloxacin — Moxifloxacin
-: Placebo resembling Verducatib — Placebo resembling Verducatib
-: Placebo resembling Moxifloxacin — Placebo resembling Moxifloxacin
-Link: https://clinicaltrials.gov/study/NCT07760246
 
 SUMMARY:
 
@@ -18046,148 +18019,173 @@ Link: https://clinicaltrials.gov/study/NCT07920094
 
 SUMMARY:
 
-## NCT02762162
-Online Assistance for Stent Thrombosis
+## NCT07929584
+Development of a Molecular Assay to Diagnose Malignant Pleural Effusions
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02762162
+Link: https://clinicaltrials.gov/study/NCT07929584
 
 SUMMARY:
 
-## NCT04415983
-Study of Novel Triple Nitazoxanide (NTZ) Based New Therapeutic Regimens for Helicobacter Pylori in Children
+## NCT07917013
+Hangeoreum Program: A Pilot Study of a Self-Paced, Web-Based Program to Address Loneliness and Connectedness Among Korean Immigrants Aged 50 and Older
 
-Intervention: : Nitazoxanide — Nitazoxanide twice daily
-: Clarithromycin — Klacid twice daily
-: Metronidazole — Metronidazole twice daily
-: Proton pump inhibitor — Omeprazoe twice daily
-Link: https://clinicaltrials.gov/study/NCT04415983
+Intervention: : Hangeoreum — Six culturally tailored, self-paced weekly ACT modules delivered in Korean, approximately 15-20 minutes each, focusing on psychological flexibility and meaningful connectedness.
+Link: https://clinicaltrials.gov/study/NCT07917013
 
 SUMMARY:
 
-## NCT04195984
-Evaluation of the Efficacy and Safety of the Mi-thos® Transcatheter Mitral Valve Replacement System in Patients with Severe Mitral Valve Disease At High Surgical Risk.
-
-Intervention: : Mi-thos® valve and transapical delivery system — Transcatheter mitral valve replacement system
-Link: https://clinicaltrials.gov/study/NCT04195984
-
-SUMMARY:
-
-## NCT04096586
-Effects of Watermelon Consumption on Satiety and Digestive Health
-
-Intervention: : Red juice — To determine the effects of red juice on satiety and gut health
-: Watermelon juice — To determine the effects of watermelon juice on satiety and gut health
-Link: https://clinicaltrials.gov/study/NCT04096586
-
-SUMMARY:
-
-## NCT02098252
-Treatment of Brain AVMs (TOBAS) Study: A Randomized Controlled Trial and Registry
-
-Intervention: : Neurosurgery — Surgical resection to be used when the lesion is considered by a multidisciplinary team to be safely 'operable'.
-: Radiation therapy — when the AVM is smaller than 3 cm, and considered to not be safely 'operable'.
-: Embolization — Curative embolization, when the lesion is considered curable by embolization.
-Link: https://clinicaltrials.gov/study/NCT02098252
-
-SUMMARY:
-
-## NCT04054414
-A Prospective, Multicentric, Randomized, Double Blind, Saline Controlled Phase II Clinical Study to Compare the Safety and Efficacy of PMZ-1620 Therapy Along With Standard Supportive Care in Patients of Acute Spinal Cord Injury
-
-Intervention: : Normal Saline along with standard treatment — The arm is for active comparison for PMZ-1620 (sovateltide), an endothelin-B receptor agonist. PMZ-1620 has the potential to be a first-in-class neuronal progenitor cell therapeutics that is likely to promote quicker recovery and improve neurological outcome in cerebral ischemic stroke patients. Normal saline (vehicle) with standard treatment will be provided.
-: PMZ-1620 along with standard treatment — PMZ-1620 (sovateltide) is an endothelin-B receptor agonist. PMZ-1620 has the potential to be a first-in-class neuronal progenitor cell therapeutics that is likely to promote quicker recovery and improve neurological outcome in cerebral ischemic stroke patients.
-Link: https://clinicaltrials.gov/study/NCT04054414
-
-SUMMARY:
-
-## NCT03676868
-Biology of Cerebral Arteriovenous Malformations : Study of the Link Between Blood Biomarkers and the Haemorrhagic Prognosis of Cerebral Arteriovenous Malformations
+## NCT00081523
+Studies of the Natural History of Sickle Cell Disease
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03676868
+Link: https://clinicaltrials.gov/study/NCT00081523
 
 SUMMARY:
 
-## NCT02455479
-Phase I Randomized, Double-blind, Placebo Control Study for an Anti-cocaine Vaccine
-
-Intervention: : dAd5GNE Vaccine — dAd5GNE Vaccine or Placebo dAd5GNE Vaccine
-: Placebo — dAd5GNE Vaccine or Placebo dAd5GNE Vaccine
-Link: https://clinicaltrials.gov/study/NCT02455479
-
-SUMMARY:
-
-## NCT03231891
-Inherited CAncer REgistry (ICARE) Initiative
+## NCT00026650
+Evaluation of Late Effects and Natural History of Disease in Patients Treated With Radiotherapy
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03231891
+Link: https://clinicaltrials.gov/study/NCT00026650
 
 SUMMARY:
 
-## NCT01479608
-A Randomized Controlled Clinical Trial to Evaluate the Benefit and Efficacy of Liver Transplantation as Treatment for Selected Patients With Liver Metastases From ColoRectal Carcinoma
-
-Intervention: : Liver transplantation and liver resection
-Link: https://clinicaltrials.gov/study/NCT01479608
-
-SUMMARY:
-
-## NCT04442711
-Pulmonary Fibrosis Biomarkers During Exacerbation
+## NCT01496625
+NEI Intramural Biorepository for Retinal Diseases
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04442711
+Link: https://clinicaltrials.gov/study/NCT01496625
 
 SUMMARY:
 
-## NCT04011527
-A Prospective Follow-up Assessment in Bad Segeberg With Patients Undergoing a Rotational Atherectomy in Coronary Lesion/s
+## NCT07929636
+Tracking Outcomes by Secondary Diagnoses in Patients Prescribed Intravenous Lidocaine for Chronic Pain
 
-Intervention: : Rotational Atherectomy in Coronary Lesion/s
-Link: https://clinicaltrials.gov/study/NCT04011527
-
-SUMMARY:
-
-## NCT04452461
-MFOLFIRINOX or Gemcitabine / Nab-paclitaxel Followed by Pancreatectomy for Patients with Borderline Resectable Pancreatic Adenocarcinoma. a Pilot Feasibility Study.
-
-Intervention: : mFOLFIRINOX — mFOLFIRINOX, including: Oxaliplatin 85 mg/m2 IV over 2 hours, Leucovorin 400mg/m2 IV over 2 hours, Irinotecan at 150 mg/m2 IV over 90 min, 5-Fluoruracil continuous infusion of 2400 mg/m2 IV over 46h.
-: Gemcitabine / Nab-paclitaxel — Both drugs are administered once weekly for three weeks (days 1, 8, 15) followed by a week of rest (28-day cycle) for 3 cycles prior to imaging. Gemcitabine: 1000 mg/m2 intravenous infusion over 30 to 40 minutes. Nab-paclitaxel: 125 mg/m2 intravenous infusion over 30 to 40 minutes.
-Link: https://clinicaltrials.gov/study/NCT04452461
+Intervention: : Lidocaine IV — Intravenous (IV) infusion of lidocaine. Administered to adult patients with chronic pain.
+Link: https://clinicaltrials.gov/study/NCT07929636
 
 SUMMARY:
 
-## NCT01670383
-Repository for Samples Collected From Sepsis and Postresuscitation Patients in Emergency Intensive Care Unit
+## NCT00001352
+Cryptococcosis in Previously Healthy Adults
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01670383
+Link: https://clinicaltrials.gov/study/NCT00001352
 
 SUMMARY:
 
-## NCT03658512
-Tübinger Diabetes Mellitus Database (TUEDID)
+## NCT03269578
+Longitudinal Sample Collection and Tracking for the Developmental Therapeutics Clinic, National Cancer Institute
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03658512
+Link: https://clinicaltrials.gov/study/NCT03269578
 
 SUMMARY:
 
-## NCT03987633
-EMPOWER-1: A Multi-site Clinical Cohort Study to Reduce Health Inequality: Identifying Ethnic Disparities in Treatment Failures for Medicines Prescribed to Treat Diseases That Cause Significant Mortality and Morbidity in the UK Population
+## NCT07616206
+Hybrid CATT1: Hybrid Closed Loop Insulin Pumps With Cadisegliatin as Adjunctive Treatment in Patients With Type 1 Diabetes A Phase 2a Double Blind Randomized Cross-Over Study
+
+Intervention: : Cadisegliatin 800 mg QD — Cadisegliatin is an orally bioavailable small-molecule glucokinase activator, adjunctive therapy to insulin
+: Placebo — Placebo (insulin alone)
+Link: https://clinicaltrials.gov/study/NCT07616206
+
+SUMMARY:
+
+## NCT03173937
+Unrelated Umbilical Cord Blood Transplantation for Severe Aplastic Anemia and Hypo-plastic MDS Using CordIn, Umbilical Cord Blood-Derived Ex Vivo Expanded Stem and Progenitor Cells, to Expedite Engraftment and Improve Transplant Outcome
+
+Intervention: : Omidubicel (former CordIn) — Stem/progenitor cell-based product of purified CD133+ cells composed of ex vivo expanded allogeneic umbilical/unrelated cord blood (UCB) cells. CordIn(TM) comprises: 1) cord blood-derived ex vivo expanded CD133+ cells (CordIn (TM) cultured fraction (CF)); and 2) the non-cultured cell fraction (CD133-) of the same CBU (CordIn(TM) Non-cultured Fraction (NF)). Both fractions, i.e. CordIn(TM) CF and CordIn(TM) NF are kept frozen until they are infused on the day of transplantation.
+: Miltenyi CliniMACS(R) CD34 Reagent System — The CliniMACS CD34 Reagent System is a medical device system that is designed for the in vitro enrichment of CD34+ target cells from heterogeneous hematologic cell populations. The process of CD34+ cell selection results in simultaneous passive depletion of donor lymphocytes, potentially obviating the need for immunosuppressive drugs to prevent GVHD.
+Link: https://clinicaltrials.gov/study/NCT03173937
+
+SUMMARY:
+
+## NCT04445649
+Investigation of Prognostic Factors to Regain Consciousness in Neurological Early Rehabilitation
+
+Intervention: : Coma-Recovery-Scale-Revised (CRS-R) — CRS-R assessments (15 minutes) are repeated weekly after study entry
+Link: https://clinicaltrials.gov/study/NCT04445649
+
+SUMMARY:
+
+## NCT00050752
+Hereditary Leiomyomatosis Renal Cell Cancer (HLRCC): Identification of the Disease Gene, and Characterization of the Predisposition to Renal Cancer
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03987633
+Link: https://clinicaltrials.gov/study/NCT00050752
 
 SUMMARY:
 
-## NCT04291651
-Population-Based Analysis of Neoplastic Changes in Cystic Lesions of the Pancreas.
+## NCT03409159
+Austrian Left Atrial Appendage Closure Registry
 
-Intervention: : Survey — There are no study-specific interventions, as this is a prospective registry. However, patients will be asked to complete approximately 1-2 hours worth of surveys on things such as demographics, medical and surgical history, and pancreatic cyst-specific questionnaires.
-Link: https://clinicaltrials.gov/study/NCT04291651
+Intervention: : LAAC — Left atrial appendage closure
+Link: https://clinicaltrials.gov/study/NCT03409159
+
+SUMMARY:
+
+## NCT04303117
+Phase I/II Study of PDS01ADC Monotherapy and in Combination With M7824 in Advanced Kaposi Sarcoma
+
+Intervention: : PDS01ADC — An initial dose of 16.8 mcg/kg administered subcutaneously every 4 weeks and at an MTD dose with M7824 on day 1 of a 28-day cycle.
+: M7824 — 1200 mg administered IV every two weeks while on PDS01ADC.
+Link: https://clinicaltrials.gov/study/NCT04303117
+
+SUMMARY:
+
+## NCT03805919
+Natural History Study of Men at High Genetic Risk for Prostate Cancer
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT03805919
+
+SUMMARY:
+
+## NCT04302272
+The Spiration® Valve System (SVS) Post-Market Registry Study for Severe Emphysema
+
+Intervention: : Spiration Valve System (SVS) — Spiration Valves are one-way endobronchial valves indicated for adult patients with shortness of breath and hyperinflation associated with severe emphysema in regions of the lung that have evidence of low collateral ventilation. The Spiration Valve is loaded in the deployment catheter, then passed through the channel of a flexible bronchoscope and deployed at the intended target location. The SVS device is designed to relieve the symptoms of shortness of breath and hyperinflation associated with severe emphysema without surgery.
+Link: https://clinicaltrials.gov/study/NCT04302272
+
+SUMMARY:
+
+## NCT03893929
+The Investigation of New Biological Markers for Prostate Cancer Diagnosis and Management in Chinese Population
+
+Intervention: : New Biological markers for prostate cancer diagnosis and management — To identify potential new blood and urine markers for the diagnosis, risk stratification and prognosis prediction for prostate cancer in Chinese population.
+Link: https://clinicaltrials.gov/study/NCT03893929
+
+SUMMARY:
+
+## NCT02523014
+Phase II Trial of SMO/ AKT/ NF2/CDK Inhibitors in Progressive Meningiomas With SMO/ AKT/ NF2/CDK Pathway Mutations
+
+Intervention: : Vismodegib — Given PO
+: FAK Inhibitor GSK2256098 — Given PO
+: Capivasertib — Given PO
+: Abemaciclib — Given PO
+Link: https://clinicaltrials.gov/study/NCT02523014
+
+SUMMARY:
+
+## NCT03446456
+The Influence of Vasopressin on Observational Learning of Placebo Analgesia
+
+Intervention: : Arginine vasopressin — Intranasal vasopressin will be administered shortly before the fMRI experiment.
+: Saline — Intranasal saline will serve as a placebo for participants in the Saline Arm
+: Observational learning — During the observational learning intervention, participants will learn the experience of analgesia in another person via a video. Participants will learn the analgesia nature of the placebo cream and the neutral nature of the control cream.
+: fMRI data aquisition — All participants from the intranasal vasopressin and intranasal saline groups will go through a fMRI data acquisition to obtain the brain structural, brain resting-states and functional MRI scans.
+Link: https://clinicaltrials.gov/study/NCT03446456
+
+SUMMARY:
+
+## NCT04305834
+A Phase IIA Trial Assessing the Tolerability of Abemaciclib in Combination With Endocrine Therapy in Patients Age 70 and Older With Hormone Receptor Positive Metastatic Breast Cancer Who Have Progressed on or After Prior CDK 4/6 Inhibition
+
+Intervention: : Abemaciclib — Given PO
+: Questionnaire Administration — Ancillary studies
+Link: https://clinicaltrials.gov/study/NCT04305834
 
 SUMMARY:
 

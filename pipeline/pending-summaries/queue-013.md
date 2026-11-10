@@ -1547,16 +1547,6 @@ Link: https://clinicaltrials.gov/study/NCT05074732
 SUMMARY:
 
 
-## NCT07830056
-Modafinil to Optimize the Performance of Cold-Stressed Sleep-Deprived Personnel
-
-Intervention: : Modafinil (M) — Evaluating the effect of Modafinil under both sleep deprivation and acute cold exposure on thermoregulation, cognitive flexibility/performance, and dexterity.
-: 200 mg Microcrystalline Cellulose — Placebo intervention to compare to modafinil intervention.
-Link: https://clinicaltrials.gov/study/NCT07830056
-
-SUMMARY:
-
-
 ## NCT06643702
 Screening for Benign Paroxysmal Positional Vertigo in Primary Care Among Elderly Presenting With Dizziness, Imbalance, and Increased Tendency to Fall
 

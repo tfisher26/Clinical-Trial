@@ -1230,15 +1230,6 @@ Link: https://clinicaltrials.gov/study/NCT04892849
 SUMMARY:
 
 
-## NCT07141030
-To Assess the Pharmacokinetic (PK) Differences of GZR18 Injection Between Subjects With Renal Impairment and Those With Normal Renal Function, Providing a Basis for Establishing a Clinical Dosing Regimen for Patients With Renal Impairment
-
-Intervention: : GZR18 injection — GZR18 injection:3mg
-Link: https://clinicaltrials.gov/study/NCT07141030
-
-SUMMARY:
-
-
 ## NCT06974591
 Postural Perturbations Tracing to the Stomatognathic System
 
