@@ -18035,51 +18035,11 @@ Link: https://clinicaltrials.gov/study/NCT07917013
 
 SUMMARY:
 
-## NCT00081523
-Studies of the Natural History of Sickle Cell Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00081523
-
-SUMMARY:
-
-## NCT00026650
-Evaluation of Late Effects and Natural History of Disease in Patients Treated With Radiotherapy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00026650
-
-SUMMARY:
-
-## NCT01496625
-NEI Intramural Biorepository for Retinal Diseases
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01496625
-
-SUMMARY:
-
 ## NCT07929636
 Tracking Outcomes by Secondary Diagnoses in Patients Prescribed Intravenous Lidocaine for Chronic Pain
 
 Intervention: : Lidocaine IV — Intravenous (IV) infusion of lidocaine. Administered to adult patients with chronic pain.
 Link: https://clinicaltrials.gov/study/NCT07929636
-
-SUMMARY:
-
-## NCT00001352
-Cryptococcosis in Previously Healthy Adults
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001352
-
-SUMMARY:
-
-## NCT03269578
-Longitudinal Sample Collection and Tracking for the Developmental Therapeutics Clinic, National Cancer Institute
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03269578
 
 SUMMARY:
 
@@ -18092,100 +18052,150 @@ Link: https://clinicaltrials.gov/study/NCT07616206
 
 SUMMARY:
 
-## NCT03173937
-Unrelated Umbilical Cord Blood Transplantation for Severe Aplastic Anemia and Hypo-plastic MDS Using CordIn, Umbilical Cord Blood-Derived Ex Vivo Expanded Stem and Progenitor Cells, to Expedite Engraftment and Improve Transplant Outcome
+## NCT04249830
+Allogeneic Hematopoietic Stem Cell Transplantation From an HLA-partially Matched Related or Unrelated Donor After TCR αβ+T Cells/CD19+ B Cell Depletion in Children and Young Adults Affected by Malignant or Non-Malignant Hematological Disorders
 
-Intervention: : Omidubicel (former CordIn) — Stem/progenitor cell-based product of purified CD133+ cells composed of ex vivo expanded allogeneic umbilical/unrelated cord blood (UCB) cells. CordIn(TM) comprises: 1) cord blood-derived ex vivo expanded CD133+ cells (CordIn (TM) cultured fraction (CF)); and 2) the non-cultured cell fraction (CD133-) of the same CBU (CordIn(TM) Non-cultured Fraction (NF)). Both fractions, i.e. CordIn(TM) CF and CordIn(TM) NF are kept frozen until they are infused on the day of transplantation.
-: Miltenyi CliniMACS(R) CD34 Reagent System — The CliniMACS CD34 Reagent System is a medical device system that is designed for the in vitro enrichment of CD34+ target cells from heterogeneous hematologic cell populations. The process of CD34+ cell selection results in simultaneous passive depletion of donor lymphocytes, potentially obviating the need for immunosuppressive drugs to prevent GVHD.
-Link: https://clinicaltrials.gov/study/NCT03173937
-
-SUMMARY:
-
-## NCT04445649
-Investigation of Prognostic Factors to Regain Consciousness in Neurological Early Rehabilitation
-
-Intervention: : Coma-Recovery-Scale-Revised (CRS-R) — CRS-R assessments (15 minutes) are repeated weekly after study entry
-Link: https://clinicaltrials.gov/study/NCT04445649
+Intervention: : Allogeneic Stem Cell Transplant — The allogeneic stem cell transplant involves transferring the stem cells from a healthy person (donor) to the participant via infusion.
+: CliniMACS TCR α/β Reagent Kit and CliniMACS CD19 — The CliniMACS™system can be used to selectively enrich or reduce specific cell populations based on the magnetic cell selection (MACS) technology developed by Miltenyi Biotec. Cell mixtures can be separated in a magnetic field using one or more immunomagnetic- labeled antibodies specific for the cell types of interest (e.g.TCR αβ+ T cells and CD19+ B cells from HPC(A) products).
+Link: https://clinicaltrials.gov/study/NCT04249830
 
 SUMMARY:
 
-## NCT00050752
-Hereditary Leiomyomatosis Renal Cell Cancer (HLRCC): Identification of the Disease Gene, and Characterization of the Predisposition to Renal Cancer
+## NCT04247685
+Evaluation of MRI-conditional 12-lead ECG
+
+Intervention: : 12-lead ECG monitoring device (MiRTLE Medical) — 12-lead ECG monitoring device produced by a Massachusetts-based medical device company MiRTLE Medical is the experimental device;
+: 3-lead ECG gating system — 3-lead ECG gating system is the placebo/standard of care
+Link: https://clinicaltrials.gov/study/NCT04247685
+
+SUMMARY:
+
+## NCT03400137
+Effects of Elevated Intraocular Pressure on the Lamina Cribrosa
+
+Intervention: : Increasing of intraocular pressure (IC) — intraocular pressure will be increased using an ophthalmodynanometer
+Link: https://clinicaltrials.gov/study/NCT03400137
+
+SUMMARY:
+
+## NCT04107077
+A Phase IIa Study of Laparoscopic Hyperthermic Intraperitoneal Chemotherapy (HIPEC) and PD-L1 Expression in Gastric Cancer With Peritoneal Metastases
+
+Intervention: : Cisplatin — Laparoscopic HIPEC will be performed at a maximum of two (2) times spaced approximately 6 weeks apart. The dosing of the drugs will be the same during each administration but adjusted if needed based on lab work. The typical dosages are 200mg of Cisplatin
+: Mitomycin — Laparoscopic HIPEC will be performed at a maximum of two (2) times spaced approximately 6 weeks apart. The dosing of the drugs will be the same during each administration but adjusted if needed based on lab work. The typical dosages are 30mg of Mitomycin C.
+Link: https://clinicaltrials.gov/study/NCT04107077
+
+SUMMARY:
+
+## NCT02382601
+Longitudinal Study of Intra-Uterine Growth Restriction (IUGR)
+
+Intervention: : Ultrasound — With 3-D and 4-D high-resolution color Doppler methods it is possible to map out the placental circulation, fetal circulation, fetal brain, and fetal cardiac function. Investigators will collect these data points prenatally.
+: MRI — Similar to the Ultrasound data, investigators will collect MRI images of the fetal brain and the placenta. MRI will allow investigators to collect more detailed images of both the fetal brain and placenta, and investigators will be utilizing this technique both prenatally and postnatally.
+: Blood collection — The maternal and cord blood will be collected for the processing of plasma and serum. There may be early biomarkers of IUGR in the maternal circulation that investigators can use to better determine the appropriate strategy for clinical management of care. Collection and subsequent analysis of molecular markers in the umbilical cord blood will be used to further confirm physiological dysfunction as detected by ultrasound and MRI techniques.
+: Neurological Function Assessment — Neurological development tests including a Bayley exam, Mullen exam, Developmental Profile-3, Child Behavior Checklist, and Pediatric Stroke Outcome Measure (PSOM) will be performed.
+: Placental Analysis — Placentas will undergo pathological evaluation for placental function.
+: Measurement of body fat — The baby's body fat will be measured in a special incubator called a PEAPOD or BODPOD when an infant.
+: Pediatric heart ultrasound — Children will have ultrasounds of their hearts during follow-up visits.
+Link: https://clinicaltrials.gov/study/NCT02382601
+
+SUMMARY:
+
+## NCT03832712
+The Swedish Essential Tremor (SWEET) Trial - A Multicentre Randomized Controlled Trial of Deep Brain Stimulation for Essential Tremor
+
+Intervention: : Deep Brain Stimulation — Surgical implantation of intracranial leads for deep brain stimulation, extension cables and implantable pulse generator
+: Best Medical Treatment — Unselective β-blockers such as Propanolol
+Link: https://clinicaltrials.gov/study/NCT03832712
+
+SUMMARY:
+
+## NCT03323112
+Immune Responses to Influenza Vaccinations and Viruses Among Health Care Personnel
+
+Intervention: : influenza vaccine — Vaccine for prevention of influenza. Vaccines change by influenza season.
+Link: https://clinicaltrials.gov/study/NCT03323112
+
+SUMMARY:
+
+## NCT04239703
+Trifecta-Kidney cfDNA-MMDx Study: Comparing the DD-cfDNA Test to MMDx Microarray Test, Central HLA Antibody Test, and Histology.
+
+Intervention: : MMDx — Portion of kidney transplant indication biopsy
+: Prospera — Transplant patient blood sample
+: HLA antibody — Transplant patient blood sample
+Link: https://clinicaltrials.gov/study/NCT04239703
+
+SUMMARY:
+
+## NCT04115566
+Hidradenitis Suppurativa Prospective Observational Registry and Biospecimen Repository
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00050752
+Link: https://clinicaltrials.gov/study/NCT04115566
 
 SUMMARY:
 
-## NCT03409159
-Austrian Left Atrial Appendage Closure Registry
+## NCT04317534
+A Randomized Phase II Trial of Adjuvant Pembrolizumab Versus Observation Following Curative Resection for Stage I Non-small Cell Lung Cancer (NSCLC) With Primary Tumors Between 1-4 cm: Big Ten Cancer Research Consortium BTCRC-LUN18-153
 
-Intervention: : LAAC — Left atrial appendage closure
-Link: https://clinicaltrials.gov/study/NCT03409159
-
-SUMMARY:
-
-## NCT04303117
-Phase I/II Study of PDS01ADC Monotherapy and in Combination With M7824 in Advanced Kaposi Sarcoma
-
-Intervention: : PDS01ADC — An initial dose of 16.8 mcg/kg administered subcutaneously every 4 weeks and at an MTD dose with M7824 on day 1 of a 28-day cycle.
-: M7824 — 1200 mg administered IV every two weeks while on PDS01ADC.
-Link: https://clinicaltrials.gov/study/NCT04303117
+Intervention: : Pembrolizumab — Pembrolizumab 400mg IV
+Link: https://clinicaltrials.gov/study/NCT04317534
 
 SUMMARY:
 
-## NCT03805919
-Natural History Study of Men at High Genetic Risk for Prostate Cancer
+## NCT02095808
+Metabolic Biomarkers in Thoracic Cancers
+
+Intervention: : Imaging Biomarkers — Want to see if using 13C-glucose helps in detecting cancer and deciding on a treatment plan.
+Link: https://clinicaltrials.gov/study/NCT02095808
+
+SUMMARY:
+
+## NCT01605266
+INSIGHT (Insight Into Nephrotic Syndrome: Investigating Genes, Health and Therapeutics)
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03805919
+Link: https://clinicaltrials.gov/study/NCT01605266
 
 SUMMARY:
 
-## NCT04302272
-The Spiration® Valve System (SVS) Post-Market Registry Study for Severe Emphysema
+## NCT04486638
+Dengvaxia US Pregnancy Registry: A Surveillance Study to Assess the Safety of Dengvaxia Among Exposed Pregnant Women and Their Offsprings (DNG00044)
 
-Intervention: : Spiration Valve System (SVS) — Spiration Valves are one-way endobronchial valves indicated for adult patients with shortness of breath and hyperinflation associated with severe emphysema in regions of the lung that have evidence of low collateral ventilation. The Spiration Valve is loaded in the deployment catheter, then passed through the channel of a flexible bronchoscope and deployed at the intended target location. The SVS device is designed to relieve the symptoms of shortness of breath and hyperinflation associated with severe emphysema without surgery.
-Link: https://clinicaltrials.gov/study/NCT04302272
-
-SUMMARY:
-
-## NCT03893929
-The Investigation of New Biological Markers for Prostate Cancer Diagnosis and Management in Chinese Population
-
-Intervention: : New Biological markers for prostate cancer diagnosis and management — To identify potential new blood and urine markers for the diagnosis, risk stratification and prognosis prediction for prostate cancer in Chinese population.
-Link: https://clinicaltrials.gov/study/NCT03893929
+Intervention: : Dengue Tetravalent Vaccine, Live — Pharmaceutical form: Powder and solvent for suspension for injection Route of administration: Subcutaneous
+Link: https://clinicaltrials.gov/study/NCT04486638
 
 SUMMARY:
 
-## NCT02523014
-Phase II Trial of SMO/ AKT/ NF2/CDK Inhibitors in Progressive Meningiomas With SMO/ AKT/ NF2/CDK Pathway Mutations
+## NCT03827460
+Sex Differences in the Response to Abstinence From Alcohol.
 
-Intervention: : Vismodegib — Given PO
-: FAK Inhibitor GSK2256098 — Given PO
-: Capivasertib — Given PO
-: Abemaciclib — Given PO
-Link: https://clinicaltrials.gov/study/NCT02523014
-
-SUMMARY:
-
-## NCT03446456
-The Influence of Vasopressin on Observational Learning of Placebo Analgesia
-
-Intervention: : Arginine vasopressin — Intranasal vasopressin will be administered shortly before the fMRI experiment.
-: Saline — Intranasal saline will serve as a placebo for participants in the Saline Arm
-: Observational learning — During the observational learning intervention, participants will learn the experience of analgesia in another person via a video. Participants will learn the analgesia nature of the placebo cream and the neutral nature of the control cream.
-: fMRI data aquisition — All participants from the intranasal vasopressin and intranasal saline groups will go through a fMRI data acquisition to obtain the brain structural, brain resting-states and functional MRI scans.
-Link: https://clinicaltrials.gov/study/NCT03446456
+Intervention: : Abstinence from alcohol — Participants will undergo a laboratory alcohol infusion session that terminates 2 weeks of monitored abstinence from alcohol
+: Usual drinking — Participants will undergo a laboratory alcohol infusion session during a period of usual drinking behavior
+: Intravenous Alcohol — During the laboratory alcohol infusion sessions, alcohol is infused through an indwelling catheter.
+Link: https://clinicaltrials.gov/study/NCT03827460
 
 SUMMARY:
 
-## NCT04305834
-A Phase IIA Trial Assessing the Tolerability of Abemaciclib in Combination With Endocrine Therapy in Patients Age 70 and Older With Hormone Receptor Positive Metastatic Breast Cancer Who Have Progressed on or After Prior CDK 4/6 Inhibition
+## NCT04436965
+Effect of Standard Nutrition Therapy on Nutritional Status and Prognosis in Locoregionally Advanced Nasopharyngeal Carcinoma Patients With Malnutrition: A Prospective, Multicenter, Phase III Randomized Control Clinical Trial
 
-Intervention: : Abemaciclib — Given PO
-: Questionnaire Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT04305834
+Intervention: : Standardized nutrition therapy — Standardized nutrition therapy with ONS, nasal feeding tube, PEG or parenteral nutrition
+: Cisplatin — Patients in both arms received concurrent cisplatin chemotherapy:100 mg/m² cisplatin given intravenously every 3 weeks on days 1, 22 concurrently with radiotherapy.
+: Intensity Modulated Radiation Therapy — Patients in both arms received Intensity Modulated Radiation Therapy:All target volumes were outlined slice by slice on the axial contrast-enhanced CT with MR fusion images in the treatment planning system. The target volumes were defined in accordance with the International Commission on Radiation Units and Measurements Reports 83. The prescribed dose was 70-72 Gy to PTVnx (Planning target volume of the primary tumor), 64-70 Gy to PTVnd (Planning target volume of the cervical lymph node),60- 64Gy to PTV1 (Planning target volume 1), and 54-58 Gy to PTV2 (Planning target volume 2) in 30-32 fractions. The details of dose limits for organs at risk were based on the study 0225 from The Radiation Therapy Oncology Group (RTOG 0225).
+Link: https://clinicaltrials.gov/study/NCT04436965
+
+SUMMARY:
+
+## NCT00969111
+Postoperative or Salvage Radiotherapy for Node Negative Prostate Cancer Following Radical Prostatectomy
+
+Intervention: : IMRT to 45 Gy; prostate bed proton boost of 21.6 CGE — Postop High Risk
+: Proton (prostate bed) to 70.2 CGE — Salvage Non-High Risk
+: IMRT to 45 Gy; proton boost to prostate bed to 25.2 CGE — Salvage High Risk
+: Proton to 66.6 CGE — Post-Op Non High Risk
+Link: https://clinicaltrials.gov/study/NCT00969111
 
 SUMMARY:
 
