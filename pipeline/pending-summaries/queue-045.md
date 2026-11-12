@@ -882,14 +882,6 @@ Link: https://clinicaltrials.gov/study/NCT06092957
 
 SUMMARY: High risk nasopharyngeal cancer that fully responds to induction treatment may need less radiation. This study compares reduced dose radiotherapy with standard chemoradiation.
 
-## NCT06093100
-Wearable Technology to Evaluate Hyperglycemia and Heart Rate Variability in Duchenne Muscular Dystrophy
-
-Intervention: : wearable technology — Three wearable devices
-Link: https://clinicaltrials.gov/study/NCT06093100
-
-SUMMARY:
-
 ## NCT06093672
 Randomized, Open-label, Multicenter Phase 3 Study to Assess the Efficacy and Safety of GIVinostat Versus Hydroxyurea IN JAK2V617F-positive High-risk Polycythemia Vera Patients: the GIV-IN PV TRIAL
 
@@ -3067,14 +3059,6 @@ Intervention: : Shuxuening Injection — Receiving 20 ml Shuxuening injection pl
 Link: https://clinicaltrials.gov/study/NCT06157502
 
 SUMMARY: Ischemic stroke is often treated with IV clot busting drugs. This study tests adding Shuxuening injection, a traditional Chinese medicine, compared with a placebo, to IV thrombolysis.
-
-## NCT06157749
-Validity and Reliability of a Smartphone Application for Gait Assessment
-
-Intervention: : Gait analysis — It will be carried out on a 10-meter flat surface, with the participant walking at normal walking speed.
-Link: https://clinicaltrials.gov/study/NCT06157749
-
-SUMMARY:
 
 ## NCT06158152
 A Randomized, Double-blind, Placebo-controlled Pilot Study to Evaluate the Systemic Effect on Immunoinflammatory and Metabolic Status of an Oral Supplementation With AM3 in Patients With Metabolic Syndrome.
@@ -6712,15 +6696,6 @@ Intervention: : Experiment 1: visual and auditory attention task — We will use
 Link: https://clinicaltrials.gov/study/NCT06244472
 
 SUMMARY:
-
-## NCT06244511
-When to Start Bipedal Exercises in Chronic Ankle Instability?
-
-Intervention: : Early Bipedal Exercise — Proprioceptive, resistive, nuromuscular exercises and stretching; Exercise interventions involving the active use of both extremities will be implemented for the first four weeks.
-: Late Bipedal Exercise — Proprioceptive, resistive, nuromuscular exercises and stretching; Exercise interventions involving the active use of both extremities will be implemented for the last four weeks.
-Link: https://clinicaltrials.gov/study/NCT06244511
-
-SUMMARY: Chronic ankle instability can lead to repeated sprains. This study compares starting bipedal exercises early with starting them later.
 
 ## NCT06244732
 Post-Operative Pain Control After Aortic EndoaneurYsmEctomy

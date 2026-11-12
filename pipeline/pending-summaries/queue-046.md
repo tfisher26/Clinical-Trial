@@ -6141,14 +6141,6 @@ Link: https://clinicaltrials.gov/study/NCT06584279
 
 SUMMARY:
 
-## NCT06584318
-Exploratory Study of the Impact of Intermittent Hypoxia Intervention on Patients With Colorectal Cancer
-
-Intervention: : Intermittent hypoxia intervention — The intermittent hypoxia protocol refers to 6 cycles of 10 minutes hypoxia inhaling interval by 5 minutes normoxia, which is performed twice a day (at least 6 hours apart) in 7 days.
-Link: https://clinicaltrials.gov/study/NCT06584318
-
-SUMMARY: Colorectal cancer patients may benefit from treatments that help the body cope with stress. This exploratory study tests short repeated periods of breathing low oxygen air to see how it affects people with colorectal cancer.
-
 ## NCT06584864
 Bedside Ultrasound on the Effectiveness of Lumbar Puncture in Children - Open-label Randomized Trial
 
@@ -11486,16 +11478,6 @@ Link: https://clinicaltrials.gov/study/NCT06671353
 
 SUMMARY: Frail older adults often have not planned for their future medical care. This study tests a video decision aid for advance care planning to see whether it helps patients make and record their care wishes.
 
-## NCT06671483
-A Multi-Center, Randomized, Double-Blind, Placebo- and Active-Controlled Phase 3 Study to Evaluate the Efficacy and Safety of Zasocitinib (TAK-279) in Subjects With Active Psoriatic Arthritis Who Are Naïve to Biologic Disease-Modifying Antirheumatic Drugs (LATITUDE-PsA-3001)
-
-Intervention: : Zasocitinib — Zasocitinib over-encapsulated tablets.
-: Active Comparator — Active comparator capsule.
-: Placebo — Zasocitinib or active comparator matching placebo.
-Link: https://clinicaltrials.gov/study/NCT06671483
-
-SUMMARY: Psoriatic arthritis causes joint pain and swelling along with skin psoriasis. This study tests zasocitinib, a daily pill that blocks the TYK2 enzyme, against a placebo and an active drug in people who have not used biologic medicines.
-
 ## NCT06671587
 A 20-week, Multicenter, Prospective, Parallel-group Treatment, Open-label, 2-Arm, Phase 4, Randomized Study to Evaluate the Efficacy of iGlarLixi Versus Gla-100 on Glycemic Time in Range (TIR) From Continuous Glucose Monitoring (CGM) in Chinese Insulin Naïve Patients With Type 2 Diabetes (T2D) Inadequately Controlled With Oral Antidiabetics
 
@@ -11933,14 +11915,6 @@ Intervention: : Nafamostat — Nafamostat combined with unfractionated heparin f
 Link: https://clinicaltrials.gov/study/NCT06676085
 
 SUMMARY: People on ECMO need blood thinners to prevent clots in the circuit, but these raise bleeding risk. This study tests nafamostat given only in the oxygenator with lower dose heparin in the body to see whether it reduces bleeding.
-
-## NCT06676254
-Role of HbA1c in Predicting Adverse Pregnancy Outcomes Among Gestational Diabetes Mellitus Women: a Retrospective Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06676254
-
-SUMMARY:
 
 ## NCT06676345
 Mechanical Complications of Acute Myocardial Infarction: a Multicenter Prospective Observational Study

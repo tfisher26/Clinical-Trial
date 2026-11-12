@@ -2650,16 +2650,6 @@ Link: https://clinicaltrials.gov/study/NCT07512154
 
 SUMMARY:
 
-## NCT07512271
-Accuracy and Effect of Prescribed Generative AI Patient Education Module Within Breast Oncology Care
-
-Intervention: : Survey (Participant) — Participants will complete surveys to evaluate their experience using OpenEvidence CareConnect RAG LLM tool.
-: OpenEvidence CareConnect — Retrieval-Augmented Generation (RAG) Large Language Model (LLM) tool
-: Survey (Provider) — The provider will complete a survey to assess OpenEvidence CareConnect RAG LLM tool's usefulness and the quality of its patient education communication.
-Link: https://clinicaltrials.gov/study/NCT07512271
-
-SUMMARY:
-
 ## NCT07512284
 Mindfulness Engaged Neurostimulation for Depression
 

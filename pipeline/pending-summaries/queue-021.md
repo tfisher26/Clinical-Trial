@@ -314,16 +314,6 @@ Link: https://clinicaltrials.gov/study/NCT05091645
 SUMMARY:
 
 
-## NCT07267845
-A Randomised, Double-Blind, Placebo-Controlled Study on the Effects of Alpha-Glycerophosphocholine (α-GPC) on Cognitive Function and Sports Performance in Adults
-
-Intervention: : Alpha-Glycerophosphocholine（α-GPC） — Participants will oral one capsule containing 350 mg of GeniusPure® (containing 315 mg of pure α-GPC) daily before breakfast for 6 weeks.
-: Microcrystalline Cellulose (placebo) — Participants will oral one capsule containing 350 mg of microcrystalline cellulose (MCC) daily before breakfast for 6 weeks.
-Link: https://clinicaltrials.gov/study/NCT07267845
-
-SUMMARY:
-
-
 ## NCT06710886
 The Effect of Listening to Calming Music
 
@@ -819,15 +809,6 @@ Evaluation of Molecular Mechanisms of Non-response to Treatments, Relapses and R
 
 Intervention: : Samples — The intervention is to collect blood; urine; saliva and stool samples but also mucosal biopsies at each protocol visits (baseline and follow up visits).
 Link: https://clinicaltrials.gov/study/NCT05733845
-
-SUMMARY:
-
-
-## NCT05401318
-Pilot Study for Ex Vivo Tailoring of Treatment in Colorectal Cancer
-
-Intervention: : Tumor tissue sampling for organoid development — Fresh tissue from colorectal tumors will be sampled and cultivated in 3D cultures for drug testing.
-Link: https://clinicaltrials.gov/study/NCT05401318
 
 SUMMARY:
 

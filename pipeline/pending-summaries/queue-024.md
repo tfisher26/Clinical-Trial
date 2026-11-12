@@ -3191,16 +3191,6 @@ Link: https://clinicaltrials.gov/study/NCT06137625
 SUMMARY:
 
 
-## NCT07195240
-The Effect of Lemongrass on Aerobic Performance and Sexual Wellbeing Following High-Intensity Interval Training Training in Males
-
-Intervention: : Active: Lemongrass — 200mg of lemongrass extract
-: Control: Placebo — microcrystalline cellulose
-Link: https://clinicaltrials.gov/study/NCT07195240
-
-SUMMARY:
-
-
 ## NCT07393009
 Observation of Clinical Routine Care for Patients Implanted With BIOTRONIK Devices Used for Conduction System Pacing (CSP)
 

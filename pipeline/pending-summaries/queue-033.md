@@ -2044,16 +2044,6 @@ Link: https://clinicaltrials.gov/study/NCT06520969
 SUMMARY:
 
 
-## NCT07323043
-The Affiliated Lianyungang Hospital of Xuzhou Medical University
-
-Intervention: : Tegilerdine — Inject Tegilerdine in the induction of general anesthesia
-: Sufentanil — Inject Sufentanil in the induction of general anesthesia
-Link: https://clinicaltrials.gov/study/NCT07323043
-
-SUMMARY:
-
-
 ## NCT06925308
 Course of Face-to-face Interactions in Adults With Autism: An Exploratory Mixed Methods Experimental Design
 

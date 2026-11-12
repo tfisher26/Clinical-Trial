@@ -10178,14 +10178,6 @@ Link: https://clinicaltrials.gov/study/NCT05866796
 
 SUMMARY:
 
-## NCT05866952
-Quantitative Computed Tomography to Assess Ventilatory and Perfusion Abnormalities in Individuals With Post-Acute Sequelae of SARS-CoV-2 Infection
-
-Intervention: : Computed Tomography of the Chest — Quantitative Computed Tomography of the chest in the inspiratory and expiratory phases will be performed to assess regional lung ventilation as well as pulmonary vascular volume and distribution
-Link: https://clinicaltrials.gov/study/NCT05866952
-
-SUMMARY:
-
 ## NCT05866991
 Cohort of Patients Suffering From Major Depressive Episode With Evaluation of Sleep, Circadian Rhythms and Psychiatric Disorders
 
@@ -14197,15 +14189,6 @@ Link: https://clinicaltrials.gov/study/NCT05994053
 
 SUMMARY:
 
-## NCT05994131
-A Multicenter, Open-label, Phase Ib/II Clinical Trial to Evaluate the Safety, Tolerance, Pharmacokinetics and Anti-tumor Efficacy of IN10018 Combined With Third-generation EGFR-TKI in Patients With Advanced EGFR Mutation-positive NSCLC
-
-Intervention: : IN10018 — orally taken once daily
-: Furmonertinib — orally taken once daily
-Link: https://clinicaltrials.gov/study/NCT05994131
-
-SUMMARY:
-
 ## NCT05994170
 Reducing High Risk Primary Tumor Clinical Target Volumes (CTVp1) in Non-metastatic Nasopharyngeal Carcinoma Treated With Intensity-modulated Radiotherapy(IMRT): A Phase 3, Multicentre, Randomised Controlled Trial(CTVp1-NPC)
 
@@ -14308,25 +14291,6 @@ Intervention: : Pimavanserin Tartrate 34 Mg ORAL CAPSULE [NUPLAZID] — Particip
 Link: https://clinicaltrials.gov/study/NCT05999240
 
 SUMMARY:
-
-## NCT05999721
-The Effect of Superficial Parasternal Intercostal Plane Block on Pulmonary Function Tests After Cardiac Surgery (PIPACS Trial): a Prospective, Double-blind, Randomised Controlled Trial.
-
-Intervention: : superficial parasternal intercostal plane block — Injection of 60 mL of bupivacaine 0.25% and epinephrine 2.5 µg mL-1
-: Standard care — Operating Room:
-
-Anaesthesia will be induced using midazolam (0.1-0.15 mg kg-1), fentanyl (5-10 μg kg-1), and rocuronium (0.6-1.2 mg kg-1); then, after tracheal intubation, anaesthesia will be maintained using isoflurane at one MAC, along with continuous fentanyl (3-5 μg kg-1 h-1) and midazolam (20-50 μg kg-1 h-1). Additional boluses of fentanyl will be administered according to the anesthesiologist's discretion.
-
-Cardiothoracic Intensive Care Unit:
-
-Continuous fentanyl will be maintained until tracheal extubation. All patients will receive intravenous multimodal analgesic drugs around the clock, including paracetamol 3 g day-1 and dipyrone 3 g day-1. If pain persists, rescue doses of either intravenous tramadol or morphine will be administered.
-
-Cardiothoracic ward:
-
-The analgesic protocol includes around-the-clock intravenous paracetamol 3 g day-1 and dipyrone 3 g day-1. If pain continues, rescue doses of oral oxycodone will be administered.
-Link: https://clinicaltrials.gov/study/NCT05999721
-
-SUMMARY: Cardiac surgery can reduce lung function because of pain. This study tests a superficial parasternal intercostal plane nerve block to see if it improves breathing tests after surgery.
 
 ## NCT05999929
 Implementation of the Memory Support System: A Feasibility Study

@@ -982,15 +982,6 @@ Link: https://clinicaltrials.gov/study/NCT06474260
 SUMMARY:
 
 
-## NCT06697925
-Prospective Multicenter Observational Study Evaluating the Durability of Closure for Venous Leg Ulcers Following a Randomized, Controlled, Clinical Trial
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06697925
-
-SUMMARY:
-
-
 ## NCT06735014
 Multicenter Longitudinal Imaging in ALS for Disease Biomarker Development
 
@@ -2368,23 +2359,6 @@ Link: https://clinicaltrials.gov/study/NCT06073470
 SUMMARY:
 
 
-## NCT06441305
-Assessing the Impact, Implementation and Cost of Empowering Community Health Promoters to Improve Wasting Treatment Coverage in Turkana County Through Family-led MUAC Scale-up, Weight-for-age Screening, and Defaulters' Follow-up
-
-Intervention: : SWITCH intervention package — * Addition of digital monitoring \& supervision by CHA
-* Digitized registration of households by CHPs every 6 months
-* Digital reminders to CHP to conduct home visit if a child has never been visited in 3 mo.
-* Digital reminder for timely training to family MUAC of all family members through home visit by CHP when child turns 6 months of age.
-* Platform for 2-ways messaging: biweekly SMS reminders to caregivers through the CHP's app; feedback by caregiver
-* Community level screening based on weight and weight-for-age (WAZ) led by CHP every other month (aligned with Community Action Days),
-* Digital calculation of WAZ.
-* CHP and Growth Monitoring and Promotion refer to health facility if WAZ\<-3 to check on WHZ eligibility
-* At the end of every wasting treatment consultation, compilation of the list of defaulters and non-respondents, for immediate transmission by CHA to relevant CHP through digital task of an instruction for immediate follow-up.
-Link: https://clinicaltrials.gov/study/NCT06441305
-
-SUMMARY:
-
-
 ## NCT07419048
 Artificial Intelligence or Human Hand? A Pilot Study Evaluating Inferior Vena Cava Imaging for Hydration Status - The THAP2 Study
 
@@ -2457,15 +2431,6 @@ Investigating Myocardial Remodelling in the Failing Human Heart
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05303896
-
-SUMMARY:
-
-
-## NCT06650631
-The Effectiveness of Heat Treatment on Knee Pain in Patients With Osteoarthritis - an International, Multicenter Clinical Investigation. Prospective, Open-label, One-arm, Post-market, Effectiveness Clinical Investigation
-
-Intervention: : Knee Heatwraps — To treat the painful knee joint in patients with osteoarthritis without acute flares or inflammation. The investigational device will be used in accordance with the Instructions for Use.
-Link: https://clinicaltrials.gov/study/NCT06650631
 
 SUMMARY:
 

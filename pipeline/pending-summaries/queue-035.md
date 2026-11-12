@@ -1977,15 +1977,6 @@ Link: https://clinicaltrials.gov/study/NCT06361719
 SUMMARY:
 
 
-## NCT04541862
-Adult Intensive Care Units Database of National Taiwan University Hospital
-
-Intervention: : Intensive care — intensive care for critically ill patients in the intensive care units
-Link: https://clinicaltrials.gov/study/NCT04541862
-
-SUMMARY:
-
-
 ## NCT06587165
 A Pilot Study for Quantifying New Heart Muscle Cells
 

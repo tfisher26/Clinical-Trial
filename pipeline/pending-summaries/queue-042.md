@@ -804,14 +804,6 @@ Link: https://clinicaltrials.gov/study/NCT07519733
 
 SUMMARY:
 
-## NCT06827795
-An Open, Parallel-group, Randomized, Medical Device Study to Assess the Usability and Performance of Surgify HaloTM in Spine Surgery Versus State-of-art (Rosen Burr)
-
-Intervention: : A burr used in spine surgery — A burr used in spine surgery
-Link: https://clinicaltrials.gov/study/NCT06827795
-
-SUMMARY:
-
 ## NCT05264818
 Assessment of Endothelial Glycocalyx in Patients With Primary Open-angle Glaucoma: a Prospective Single-center Cross-sectional Case-control Study
 
@@ -5174,14 +5166,6 @@ Study of Congenital Orofacial Clefts by Implementing Optical Genome Mapping
 
 Intervention: : blood withdrawal — blood withdrawal for genetic testing
 Link: https://clinicaltrials.gov/study/NCT06880094
-
-SUMMARY:
-
-## NCT06842953
-Is an Adjustment in the Recommended Indoor Temperature Upper Limit of 26°C Required During Higher Levels of Humidity?
-
-Intervention: : Simulated indoor overheating — Older adults are exposed to a 10-hour simulated exposure
-Link: https://clinicaltrials.gov/study/NCT06842953
 
 SUMMARY:
 

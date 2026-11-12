@@ -180,15 +180,6 @@ Link: https://clinicaltrials.gov/study/NCT06630013
 SUMMARY:
 
 
-## NCT04543461
-The American Lung Association (ALA) Lung Health Cohort
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04543461
-
-SUMMARY:
-
-
 ## NCT06274749
 The Effects of Urolithin A Supplementation on Glucose Metabolism in Healthy Adults >= 55 Years Old. A Randomized Triple-Masked Controlled Clinical Trial
 

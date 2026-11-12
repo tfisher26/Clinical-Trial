@@ -222,15 +222,6 @@ Link: https://clinicaltrials.gov/study/NCT06625151
 SUMMARY:
 
 
-## NCT07486102
-A Phase I, Open-label, Single-dose Study to Evaluate the Effect of Hepatic Impairment on the Pharmacokinetics, Safety, and Tolerability of BI 3000202 in Adults
-
-Intervention: : BI 3000202 — BI 3000202
-Link: https://clinicaltrials.gov/study/NCT07486102
-
-SUMMARY:
-
-
 ## NCT07462247
 Establishment of Image Database for Early Upper Gastrointestinal Cancer, Precancerous Lesions, and Precancerous Conditions
 

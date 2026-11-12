@@ -209,20 +209,6 @@ Link: https://clinicaltrials.gov/study/NCT06809036
 SUMMARY:
 
 
-## NCT06493084
-A Randomized, Double-Blind, Placebo-Controlled, Single and Multiple Dose Escalation Phase I Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of LAE102 Injection in Healthy and Overweight/Obese Subjects
-
-Intervention: : LAE102 intravenous administration — A single dose of LAE102 administered intravenously
-: placebo intravenous administration — A single dose of placebo administered intravenously
-: LAE102 subcutaneous administration — Single dose of LAE102 administered subcutaneously
-: placebo subcutaneous administration — single dose of placebo administered subcutaneously
-: LAE102 multiple subcutaneous administration — Multiple dose of LAE102 administered subcutaneously
-: Placebo multiple subcutaneous administration — Multiple dose of placebo administered subcutaneously
-Link: https://clinicaltrials.gov/study/NCT06493084
-
-SUMMARY:
-
-
 ## NCT07345975
 Characterization of Opposition to Organ Donation at Strasbourg University Hospital in 2024-2025
 

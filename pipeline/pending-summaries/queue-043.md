@@ -1577,15 +1577,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04542720
-Decompression Versus Decompression and Fusion for Lumbar Adjacent Segment Disease
-
-Intervention: : Observational: Decompression — Patients will undergo decompression alone of the supradjacent level. The surgical technique will be surgeon dependent. All surgeons will be encouraged to avoid damaging facet joints above the fusion mass, retaining 50% of the pars of the decompressed level and performing as minimal of a medial facetectomy as necessary.
-: Observational: Extension Fusion — Patients will undergo decompression and extension of posterior instrumentation and fusion. This may or may not include exchange of pre-existing instrumentation. The use of interbody cages will be left to the discretion of the treating surgeon. The purpose of introducing this heterogeneity is to increase the generalizability of the trial results. The fusion cohort will not utilize bone morphogenetic protein products.
-Link: https://clinicaltrials.gov/study/NCT04542720
-
-SUMMARY:
-
 ## NCT04544527
 The Risk Factors of Cardiovascular Disease in Elderly Diabetic Patients: A Prospective Cohort Study
 
@@ -12287,14 +12278,6 @@ Link: https://clinicaltrials.gov/study/NCT05319106
 
 SUMMARY: Skin ulcers that do not heal with standard care can last for months. This study tests stem cells from umbilical cord tissue combined with a silver ion dressing for these ulcers.
 
-## NCT05319509
-Pilot Study of Virtual Reality Therapy for Students With Anxiety
-
-Intervention: : gameChange — Staff will explain the rationale behind gameChange, and briefly explain the different scenarios: a doctor's office, a waiting room, a pub, a café, a grocery store, a public street and a bus. Each scenario contains five levels, each increasing with anxiety stimuli and certain tasks the participant must complete. The participant will put on the Oculus headset, and go through a preliminary orientation game. The headset will be casted to an external monitor. Once they start gameChange, it will take the participants to the virtual therapist's room. They will be asked to choose which scenario they would like to participate in first and will complete all five levels for one scenario. Research staff will be taking event sampling-style observations of the participant. After completion of the levels, the participant will return to the virtual therapist's room for debriefing, and then will be asked to exit the game.
-Link: https://clinicaltrials.gov/study/NCT05319509
-
-SUMMARY: Anxiety can make everyday situations hard for students. This pilot study tests gameChange, a virtual reality therapy that guides users through common anxiety provoking scenarios.
-
 ## NCT05321017
 Can Increasing Motor Evoked Potential Size Improve Upper Extremity Motor Function in Individuals With Incomplete Spinal Cord Injury?
 
@@ -13277,14 +13260,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05365282
 
 SUMMARY:
-
-## NCT05365347
-Piloting of an Intervention to Reduce Problematic Alcohol Use in Early Phase Psychosis
-
-Intervention: : Cognitive Enhancement Therapy (CET) — Cognitive enhancement therapy is an evidence based intervention for schizophrenia focused on improving the cognitive domains of memory, attention span and learning ability. It has shown efficacy in reducing substance use as an indirect outcome but this will be the focus of this intervention.
-Link: https://clinicaltrials.gov/study/NCT05365347
-
-SUMMARY: Problem drinking can make recovery harder for people in the early phase of psychosis. This pilot study tests cognitive enhancement therapy to reduce problematic alcohol use.
 
 ## NCT05365425
 Effect of Choline Fenofibrate on Carotid Atherosclerosis Estimated by 3D Ultrasound in Patients With Type 2 Diabetes and Combined Dyslipidemia
@@ -14347,14 +14322,6 @@ Intervention: : Inhaled Isopropyl Alcohol — Isopropyl alcohol pad (Covidien We
 Link: https://clinicaltrials.gov/study/NCT05418244
 
 SUMMARY: Nausea is a common reason children visit the emergency department. This study tests inhaling isopropyl alcohol from a pad to relieve nausea in children.
-
-## NCT05418894
-Mapping and Modulating the Spatiotemporal Dynamics of Socio-Affective Processing
-
-Intervention: : Device: Directional Deep Brain Stimulation — Boston Scientific Vercise DBS leads and 16-channel implanted pulse generators (IPGs) will be implanted to control the shape and size of stimulation
-Link: https://clinicaltrials.gov/study/NCT05418894
-
-SUMMARY:
 
 ## NCT05419037
 Natural History of Pregnancy and Pregnancy Outcomes in Metreleptin-Treated vs Untreated Subjects With Lipodystrophy

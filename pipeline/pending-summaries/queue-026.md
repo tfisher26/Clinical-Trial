@@ -443,16 +443,6 @@ Link: https://clinicaltrials.gov/study/NCT06671977
 SUMMARY:
 
 
-## NCT06863142
-VRC 328: A Phase I Open-Label Clinical Trial to Evaluate the Dose, Safety, Tolerability, and Immunogenicity of Mosaic Hexavalent Influenza Vaccine VRC-FLUMOS0116-00-VP (FluMos-v2) With and Without ALFQ Adjuvant in Healthy Adults
-
-Intervention: : VRC-FLUMOS0116-00-VP — The VRC-FLUMOS0116-00-VP (FluMos-v2) vaccine is composed of de novo engineered pentamer assembled with de novo engineered trimeric domains to an icosahedral core, projecting 20 HA ectodomain trimers from influenza strains: Influenza A (H1-H3) and Influenza B (Victoria lineage and Yamagata lineage)
-: ALFQ — The ALFQ adjuvant is a sterile suspension that contains monophosphoryl 3-deacyl Lipid A \[3D-PHAD(R)\] and QS-21
-Link: https://clinicaltrials.gov/study/NCT06863142
-
-SUMMARY:
-
-
 ## NCT04629586
 The T1D Exchange Registry
 

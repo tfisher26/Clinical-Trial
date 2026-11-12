@@ -103263,3 +103263,62 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04206852
+Safety and Efficacy of Balloon Pulmonary Angioplasty in China
+Conditions: cardiovascular/stenosis_pulmonary_artery, cardiovascular/takayasu_arteritis, respiratory/mediastinitis
+
+Inclusion criteria:
+"""
+1. diagnosed with CTEPH according to ESC Guidelines (1) Mean PAP ≥ 25mmHg at rest; or if mean PAP \< 25mmHg at rest, have exercise limitations from chronic thromboembolic disease (2)Abnormal ventilation perfusion lung scanning (VQ) scan, pulmonary angiogram, computer tomographic pulmonary angiogram, or magnetic resonance pulmonary angiogram confirming chronic thromboembolic disease as recommended by standard guidelines
+2. Treatment with anticoagulation for ≥ 3 months before diagnosis of CTEPH
+3. Not amenable to pulmonary endarterectomy
+4. Willing to provide informed consent
+"""
+
+RELATIONSHIP:
+
+## NCT05796505
+Addressing Vaccine Acceptance in Carceral Settings Through Community Engagement
+Conditions: infectious/respiratory_tract_infections, respiratory/covid_19
+
+Inclusion criteria:
+"""
+* All incarcerated people in the Pennsylvania DOC are included in the study population for these low risk interventions. In this each individual intervention, inclusion criteria will be based on where incarcerated people are housed and therefore what intervention they will be exposed to.
+"""
+
+RELATIONSHIP:
+
+## NCT06042413
+Real-world and Innovative Multimodal Prediction and Prevention of Postoperative Mortality and Multi-morbidities
+Conditions: infectious/aids_dementia_complex, other/postoperative_cognitive_complications
+
+Inclusion criteria:
+"""
+* 65 years of age and older
+* Scheduled for major cardiac surgeries including coronary artery bypass and valvular repair and/or vascular surgeries including carotid endarterectomy, aortic aneurysm repair, and major vascular surgeries
+* Informed consent
+* English speaking patients
+
+Part II Inclusion Criteria:
+
+* Enrolled in Aim 1 / Part I Preoperative Intervention Trial
+* Scheduled for high-risk, cardiac or vascular surgery requiring intraoperative neurophysiological monitoring (IONM)
+
+Part I
+"""
+
+RELATIONSHIP:
+
+## NCT06068127
+Retrospective Study of Per-oral Endoscopic Pyloromyotomy (G-POEM) in Patients With Refractory Gastroparesis After Esophagectomy With Gastric Pull-through
+Conditions: cancer/esophageal_neoplasms, other/gastroparesis
+
+Inclusion criteria:
+"""
+* Patients who underwent G-POEM after esophagectomy with a gastric pull-through for confirmed (scintigraphy or breath test) or presumed gastroparesis. (Some centres perform G-POEM in patients whose gastroparesis was not confirmed by a scintigraphy or a breath test, therefore it is only presumed. This particular subset of patients will be analysed separately.)
+* Total GCSI score before G-POEM at least 1.0.
+* At least 6 months follow-up after G-POEM.
+"""
+
+RELATIONSHIP:
+

@@ -103,15 +103,6 @@ Link: https://clinicaltrials.gov/study/NCT07001761
 SUMMARY:
 
 
-## NCT05719259
-POS-VAP: Perpetual Observational Study - Ventilator Associated Pneumonia
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05719259
-
-SUMMARY:
-
-
 ## NCT06551116
 QuantifyHER: Quantitative Immunofluorescence and/or RT-qPCR for Measuring HER2 in HER2-low Metastatic Breast Cancer
 

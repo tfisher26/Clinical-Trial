@@ -2978,16 +2978,6 @@ Link: https://clinicaltrials.gov/study/NCT05101304
 SUMMARY:
 
 
-## NCT05853627
-Mismatch vs. Standard Intervention During Memory Reconsolidation Blockade With Propranolol: Effect on Psychophysiological Reactivity During Traumatic Imagery
-
-Intervention: : Memory reactivation procedures — In the Mismatch condition, a different, unexpected mismatch will be incorporated into the reactivation. In the Standard condition, the participant will read the narrative the same way each time.
-: Propranolol — Propranolol will be administered 60-min prior to each of six weekly 10-20 min. traumatic memory reactivation sessions.
-Link: https://clinicaltrials.gov/study/NCT05853627
-
-SUMMARY:
-
-
 ## NCT07799142
 Root-Level Diagnostic Sensitivity of the Femoral Stretch Test in Patients With L2, L3, or L4 Nerve Root Compression: A Prospective Observational Study
 

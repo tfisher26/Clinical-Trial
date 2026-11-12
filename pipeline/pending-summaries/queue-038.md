@@ -1105,15 +1105,6 @@ Link: https://clinicaltrials.gov/study/NCT06875479
 SUMMARY:
 
 
-## NCT07099313
-Association of Prophylactic Treatment With Treatment Burden, Self-efficacy, Adherence, Sleep Quality, and Locus of Control in Patients With Hemophilia; an Ambispective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07099313
-
-SUMMARY:
-
-
 ## NCT07450872
 A Multicenter Study on the Heterogeneity of Symptom Clusters and the Underlying Mechanisms of Gut Microbiota and Metabolites Among Childhood Cancer Survivors
 
@@ -3798,16 +3789,6 @@ VIdeo Clips for Diagnostic Evaluation of Obstructive Sleep Apnea in Children (VI
 
 Intervention: : Parent-recorded smartphone video clips — Parents will record smartphone video clips of their child asleep, which will be scored by pediatric sleep physicians for presence of moderate-severe OSA. Children will then undergo clinically indicated polysomnography (PSG). Video clips will be evaluated for diagnostic accuracy, with PSG as the gold standard.
 Link: https://clinicaltrials.gov/study/NCT06801366
-
-SUMMARY:
-
-
-## NCT06934876
-Waveform Capnography and Colorimetric Carbon Dioxide Detection During Tracheal Intubation of Critically Ill Adults
-
-Intervention: : Colorimetric carbon dioxide (CO2) detection — All patients will undergo colorimetric carbon dioxide (CO2) detection. The reading will be assessed by a clinician at the bedside who will answer yes or no to the following question, asked after 7 breaths have been delivered following intubation: "Is the color change consistent with a tube located in the trachea?"
-: Waveform capnography — All patients will undergo waveform capnography. The reading will be assessed by a clinician at the bedside who will answer yes or no to the following question, asked after 7 breaths have been delivered following intubation: " Is the waveform consistent with a tube located in the trachea?"
-Link: https://clinicaltrials.gov/study/NCT06934876
 
 SUMMARY:
 

@@ -72,15 +72,6 @@ Link: https://clinicaltrials.gov/study/NCT06697093
 SUMMARY:
 
 
-## NCT07178353
-Changes in Muscle Mass, Strength, and Muscle Protein Synthesis in Response to 5 Days of Bedrest in Young, Healthy Adults
-
-Intervention: : Bedrest — 5 days of strict bedrest. Participants are allowed to sit up in bed, but will perform any bathing or bathroom activities in a wheelchair.
-Link: https://clinicaltrials.gov/study/NCT07178353
-
-SUMMARY:
-
-
 ## NCT05820074
 Investigating Neural Biomarkers for Gait in Parkinson's Patients
 
@@ -2075,15 +2066,6 @@ Link: https://clinicaltrials.gov/study/NCT07609797
 SUMMARY:
 
 
-## NCT07261202
-A Preliminary Study Assessing the Effectiveness of a 26 °C Indoor Temperature Limit on Physiological Responses in Children
-
-Intervention: : Simulated exposure to indoor overheating — Children exposed to a 6-hour simulated heat exposure
-Link: https://clinicaltrials.gov/study/NCT07261202
-
-SUMMARY:
-
-
 ## NCT07610109
 THE EFFECTS OF COMPREHENSIVE COMMUNITY SUPPORT PROGRAMS FOR THE ELDERLY ON COGNITIVE FUNCTIONS AND QUALITY OF LIFE: THE VEFAHANE MODEL
 
@@ -2680,18 +2662,6 @@ Classification and Prediction of Difficult Awake Tracheal Intubation With Flexib
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06953414
-
-SUMMARY:
-
-
-## NCT05027919
-Assessing a Clinically-meaningful Opioid Withdrawal Phenotype
-
-Intervention: : Hydromorphone — Up to 120mg oral per day in q4 dosing to manage withdrawal
-: Naloxone + lofexidine pretreatment — 0.2-0.4mg naloxone injection during the Naloxone challenge + pretreatment with oral lofexidine (25% of max daily dose scheduled during lofexidine taper)
-: Naloxone + placebo pretreatment — 0.2-0.4mg naloxone injection during the Naloxone challenge
-: Lofexidine — Oral Lofexidine dosed per FDA label (4 times daily) on days 6 through 10.
-Link: https://clinicaltrials.gov/study/NCT05027919
 
 SUMMARY:
 

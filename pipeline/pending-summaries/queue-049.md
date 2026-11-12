@@ -5599,14 +5599,6 @@ Link: https://clinicaltrials.gov/study/NCT07305090
 
 SUMMARY:
 
-## NCT07305168
-A Multicenter Retrospective Analysis of Postoperative Respiratory Complications in Children With Obstructive Sleepapnea
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07305168
-
-SUMMARY:
-
 ## NCT07305428
 Downstaging Unresectable Hepatocellular Carcinoma to Resectable Disease With Combined Immunotherapy and Stereotactic Beamed Radiotherapy: a Pilot Study
 
@@ -14603,14 +14595,6 @@ Link: https://clinicaltrials.gov/study/NCT07446101
 
 SUMMARY:
 
-## NCT07446283
-Motion and Electromyographic Analysis of the Forehand Topspin Against Topspin, Forehand Topspin Against Backspin, Forehand Stroke, and Forehand Attack in Elite Table Tennis Players
-
-Intervention: : motion capture system, surface electromyography — forehand topspin against topspin, forehand topspin against backspin, forehand stroke, and forehand attack
-Link: https://clinicaltrials.gov/study/NCT07446283
-
-SUMMARY:
-
 ## NCT07446322
 An Open-Label, Randomized, Multicentre, Phase 2 Study of FOLFIRI + Bevacizumab + Pelareorep vs. FOLFIRI + Bevacizumab for the Second-Line Treatment of Metastatic, RAS-mutated, Microsatellite-Stable (MSS) Colorectal Cancer
 
@@ -14698,14 +14682,6 @@ Language Development in Children With Cochlear Implants and Speech-language Ther
 
 Intervention: : Speech-language therapy (observed standard care) — This observational study describes current speech-language therapy practices provided to cochlear-implanted children in routine care in France. Speech-language therapy modalities (type of approach, session frequency, and parental involvement) are observed retrospectively or prospectively to analyze their association with language development outcomes.
 Link: https://clinicaltrials.gov/study/NCT07447427
-
-SUMMARY:
-
-## NCT07447700
-A Pilot Study to Evaluate the Effectiveness of Focused Massage on Pain, Mobility, and Quality of Life During Radiation Treatment for Patients With Breast Cancer
-
-Intervention: : upper body massage — brief massage of the upper back, neck, shoulders, arms, and hands; participant is fully clothed during the massage
-Link: https://clinicaltrials.gov/study/NCT07447700
 
 SUMMARY:
 
@@ -16688,14 +16664,6 @@ Gait and Functional Training
 
 Conentional Physical Therapy
 Link: https://clinicaltrials.gov/study/NCT07475741
-
-SUMMARY:
-
-## NCT07475767
-Ultrasound Indicators of Nutritional Status and Treatment Outcomes in Surgical Patients in the Intensive Care Unit
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07475767
 
 SUMMARY:
 

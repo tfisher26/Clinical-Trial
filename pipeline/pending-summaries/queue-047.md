@@ -2720,14 +2720,6 @@ Link: https://clinicaltrials.gov/study/NCT06789705
 
 SUMMARY:
 
-## NCT06789770
-The Impact of Nasal Versus Oral Breathing on Measures of Drug-Induced Sleep Endoscopy
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06789770
-
-SUMMARY:
-
 ## NCT06789783
 Cornelia De Lange Syndrome: Assessing Positive Effects of Lithium Treatment
 
@@ -5164,14 +5156,6 @@ Link: https://clinicaltrials.gov/study/NCT06827730
 
 SUMMARY:
 
-## NCT06827795
-An Open, Parallel-group, Randomized, Medical Device Study to Assess the Usability and Performance of Surgify HaloTM in Spine Surgery Versus State-of-art (Rosen Burr)
-
-Intervention: : A burr used in spine surgery — A burr used in spine surgery
-Link: https://clinicaltrials.gov/study/NCT06827795
-
-SUMMARY:
-
 ## NCT06827899
 A Multicenter, Prospective, Single-arm Clinical Study of Veneclax, Chidaniline Combined With Azacitidine (VCA) Followed by Decitabine + MAG Regimen (D-MAG) in the Treatment of Elderly Untreated Acute Myeloid Leukemia (AML)
 
@@ -6130,14 +6114,6 @@ A Mixed Methods Randomized Controlled Trial Testing a Two-way SMS Platform to Re
 Intervention: : Maternal Administered Malnutrition Monitoring System - Infant and Young Child Feeding (MAMMS IYCF) intervention — All caregivers randomized to the MAMMS-IYCF arm will be given two MUAC tapes after being trained by skilled study staff and their contact information will be entered into the online MAMMS-IYCF platform. The frequency of messages will be weekly. This will be a two-way SMS system, including health messages on age appropriate IYCF. These messages will also prompt caregivers to measure their child's MUAC, return the color outcome of the measurement to the clinic via the SMS system, and they will also be able to ask any health questions that they may have through the SMS. During follow-up, any caregiver who returns a MUAC measurement via SMS that suggests their child is wasted, will receive an SMS response asking them to come to the clinic with their child as soon as possible. At this visit, the wasting status of the child will be confirmed by a study staff, and if treatment is indicated they will be enrolled into nutritional care provided by MOH nutritionists.
 : Standard of Care (SOC) — To promote high fidelity to current guidelines, all families randomized to the SOC arm will be enrolled into a one-way SMS service that will send them automated reminders before necessary routine EID or HIV care visits and research clinic appointments on day 90 and 180. During these routine clinic visits, study staff will ensure that the MUAC of SOC children are measured, and that treating clinicians (MOH nutritionists) are made aware if wasting is identified. Staff will ensure that SOC children are enrolled into nutritional care if they are wasted. This additional support means it is likely that SOC children in this study will receive care that is more adherent to current recommendations than is typical for many children. This enhanced SOC is necessary to ensure we are comparing the MAMMS-IYCF to current guidelines. The SMS messaging service will be free of cost to the caregivers as they will not incur any charges to send or receive messages while enrolled in the trial.
 Link: https://clinicaltrials.gov/study/NCT06842732
-
-SUMMARY:
-
-## NCT06842953
-Is an Adjustment in the Recommended Indoor Temperature Upper Limit of 26°C Required During Higher Levels of Humidity?
-
-Intervention: : Simulated indoor overheating — Older adults are exposed to a 10-hour simulated exposure
-Link: https://clinicaltrials.gov/study/NCT06842953
 
 SUMMARY:
 
@@ -11495,14 +11471,6 @@ Link: https://clinicaltrials.gov/study/NCT06921837
 
 SUMMARY:
 
-## NCT06922175
-Retrospective Evaluation of Cenobamate's Health Care Resources Utilization (HCRU) in the Management of Uncontrolled Focal Onset Seizures- A Retrospective, Chart Review Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06922175
-
-SUMMARY:
-
 ## NCT06922188
 Development of Measures to Screen for Financial Hardship in Alzheimer's Disease and Dementia
 
@@ -14611,14 +14579,6 @@ The Effect of Cold Salt Water Foot Bath on the Development Of Chemotherapy-Induc
 Intervention: : Cold salt water foot bath — The application of 175 grams of salt to cold water at a constant 22 degrees
 : Cold water foot bath — Constant 22 degree cold water application
 Link: https://clinicaltrials.gov/study/NCT06964802
-
-SUMMARY:
-
-## NCT06964828
-Proof of Concept, Randomized, Controlled, and Crossover Study, to Assess the Effectiveness of Two Types of Compression Garments (Flat vs Circular Knitted) in the Maintenance Treatment of Patients With Lipedema
-
-Intervention: : Flat-knitted compression garment — Flat knitted compression garments
-Link: https://clinicaltrials.gov/study/NCT06964828
 
 SUMMARY:
 

@@ -1689,16 +1689,6 @@ Link: https://clinicaltrials.gov/study/NCT07538648
 SUMMARY:
 
 
-## NCT07540949
-Evaluation of Metabolic Functionality of Fruit and Vegetable Fermented Products in Adults
-
-Intervention: : Rutazyme® Lemon Fermented Product Capsule — One capsule containing 500 mg Rutazyme® lemon fermented product taken orally once daily at bedtime with water for 12 weeks.
-: Placebo Capsule (Maltodextrin; GLUCIDEX®12) — One placebo capsule containing maltodextrin (GLUCIDEX®12) taken orally once daily at bedtime with water for 12 weeks.
-Link: https://clinicaltrials.gov/study/NCT07540949
-
-SUMMARY:
-
-
 ## NCT07347015
 Impact Evaluation of a Prescription Search Support (PSS) for Antimicrobials Using a Stepped-Wedge Cluster Randomized Design in Belgian Primary Care
 

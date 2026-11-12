@@ -3144,15 +3144,6 @@ Link: https://clinicaltrials.gov/study/NCT07044128
 
 SUMMARY:
 
-## NCT07044362
-Histotripsy Plus Chemotherapy for Advanced Colorectal Liver Metastasis: A Prospective, Single-Armed Trial
-
-Intervention: : HistoSonics Edison® System — Histotripsy is a novel, totally non-invasive, non-ionizing, and non-thermal ablation technique that mechanically disrupts tumors through precisely controlled acoustic cavitation. Histotripsy is administered via HistoSonics Edison® System.
-: Chemotherapy — Chemotherapy (standard of care with first line therapy of base of 5-FU with either oxaliplatin or irinotecan).
-Link: https://clinicaltrials.gov/study/NCT07044362
-
-SUMMARY:
-
 ## NCT07044427
 Investigation of Fall Risk Factors and Implementation of an Exercise Intervention for Prevention of Falls in Patients With Multiple Myeloma
 
@@ -3305,14 +3296,6 @@ A Double Blind Randomised Controlled Trial Comparing Continuous Infusion vs. Pro
 Intervention: : continuous infusion of levobupivacaine — Participants in this arm will receive a continuous infusion of levobupivacaine via a regional anaesthesia catheter placed in the PENG fascial space. The total dose over 24 hours will be equivalent in both arms of the study.
 : Programmed Intermittent Bolus of Levobupivacaine — Participants in this arm will receive a timed pre-set bolus dose of levobupivacaine via a regional anaesthesia catheter placed in the PENG fascial space. The total dose over 24 hours will be equivalent in both groups.
 Link: https://clinicaltrials.gov/study/NCT07046052
-
-SUMMARY:
-
-## NCT07046260
-Prospective Cohort Study With Case Enrichment to Assess a Diagnostic Aid for Cancer in Symptomatic Subjects (PROCARES)
-
-Intervention: : Blood sample collection — The study will collect up to 40 mL of whole peripheral blood in Streck Cell-Free DNA BCT® tubes from each participant.
-Link: https://clinicaltrials.gov/study/NCT07046260
 
 SUMMARY:
 
@@ -10932,14 +10915,6 @@ Link: https://clinicaltrials.gov/study/NCT07155850
 
 SUMMARY:
 
-## NCT07156084
-Persistence of Immune Response Six Years After One Dose of 9vHPV Vaccine Among Male and Female Students
-
-Intervention: : HPV nonavalent vaccine (Gardasil-9) — One dose HPV nonavalent vaccine
-Link: https://clinicaltrials.gov/study/NCT07156084
-
-SUMMARY:
-
 ## NCT07156110
 The Effect of Prosthetic Modality on Bone Level Changes During One-Year Follow-Up
 
@@ -13385,14 +13360,6 @@ A Phase 1, First-in-human (FIH), Multicenter, Open-label Trial of DS9051b in Par
 
 Intervention: : DS9051b — Administered orally
 Link: https://clinicaltrials.gov/study/NCT07189403
-
-SUMMARY:
-
-## NCT07189507
-Evaluation of the 26 °C Indoor Temperature Upper Limit Considering Clothing Insulation and Daily Activity in Older Adults
-
-Intervention: : Simulated indoor temperature upper limit — Older adults exposed to an 8-hour simulated exposure.
-Link: https://clinicaltrials.gov/study/NCT07189507
 
 SUMMARY:
 
@@ -16964,15 +16931,6 @@ Children's Viewing Behavior in Myopia Control Spectacles
 Intervention: : Novel spectacle lens design — Use of lenses may reduce the rate of progression of juvenile myopia
 : Spectacle lenses — Use of lenses may reduce the rate of progression of juvenile myopia
 Link: https://clinicaltrials.gov/study/NCT07229365
-
-SUMMARY:
-
-## NCT07229430
-A Prospective, Multi-center, Randomized Controlled, Non-inferiority Study to Evaluate the Safety and Effectiveness of ULTRAFORMER MPT PLUS Treatment to Lift Lax Submental (Beneath the Chin) and Neck Tissue
-
-Intervention: : ULTRAFORMER MPT PLUS — ULTRAFORMER MPT PLUS (Classys Inc., Seoul, Korea) is a high-intensity focused ultrasound (HIFU) system that delivers focused energy at multiple depths to induce neocollagenesis and tissue contraction for non-surgical lifting and tightening of submental and neck tissue. The device includes both Default and MP modes and is under investigation under FDA IDE G250041.
-: Ulthera System — The Ulthera System (Merz Aesthetics, USA) is an FDA-cleared high-intensity focused ultrasound (HIFU) device indicated for non-invasive lifting and tightening of lax tissue in the submental and neck areas. It serves as the active comparator for this non-inferiority clinical study.
-Link: https://clinicaltrials.gov/study/NCT07229430
 
 SUMMARY:
 

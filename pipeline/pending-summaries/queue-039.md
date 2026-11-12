@@ -676,18 +676,6 @@ Link: https://clinicaltrials.gov/study/NCT06754059
 SUMMARY:
 
 
-## NCT07144098
-Study of Pharmacokinetics and Safety of GZR18 Injection in Subjects With Liver Insufficiency and Normal Liver Function
-
-Intervention: : GZR18 injection — 3 mg-Control group
-: GZR18 injection — 3 mg-mild liver insufficiency
-: GZR18 injection — 3 mg-moderate liver insufficiency
-: GZR18 injection — 3 mg-severe liver insufficiency
-Link: https://clinicaltrials.gov/study/NCT07144098
-
-SUMMARY:
-
-
 ## NCT07282808
 Focal or Radical Therapy: a Lesion-based Molecular Evaluation in Prostate Cancer
 
@@ -2006,15 +1994,6 @@ Investigation of Safety, Tolerability, Pharmacokinetic and Pharmacodynamics of S
 Intervention: : NNC9733-0001 — Administered a single dose of NNC9733-0001.
 : Placebo — Administered a single dose of matching NNC9733-0001 placebo.
 Link: https://clinicaltrials.gov/study/NCT07270731
-
-SUMMARY:
-
-
-## NCT06716801
-Observational Cohort Study on Adult Patients With Not-adequately Controlled FOcal-onset Seizures Treated With Cenobamate as Early adjUnctive Therapy in a Real-world Setting - FOCUS
-
-Intervention: : Cenobamate — Adult patients affected by epilepsy with focal-onset seizures with or without secondary generalization who have not been adequately controlled despite a history of treatment with 2 or 3 anti-seizure medications.
-Link: https://clinicaltrials.gov/study/NCT06716801
 
 SUMMARY:
 

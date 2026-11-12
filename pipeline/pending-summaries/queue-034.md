@@ -4896,18 +4896,6 @@ Link: https://clinicaltrials.gov/study/NCT07611240
 SUMMARY:
 
 
-## NCT06251479
-Study of the Dynamics of Verbal and Non-verbal Interaction in Healthy Subjects, Through the Recording of Body Movements and Non-invasive Neurophysiological Techniques
-
-Intervention: : behavioral 1 — verbal and non verbal tasks
-: behavioral 2 — verbal and non verbal tasks with other partecipants
-: neuromodulation 1 — registration with neurophysiological tecniques during verbal and non verbal tasks
-: neuromodulation 2 — registration with neurophysiological tecniques during verbal and non verbal tasks with other partecipants
-Link: https://clinicaltrials.gov/study/NCT06251479
-
-SUMMARY:
-
-
 ## NCT06719154
 Prospective, Multicentric, Controlled, Double Arm Clinical Investigation to Evaluate the Safety and Efficacy of Profhilo® Structura for Face Adipose Tissue Restoration
 
@@ -5183,17 +5171,6 @@ Processes and Circuitry Underlying Threat Sensitivity as a Treatment Target for 
 Intervention: : Lorazepam — 1mg of Lorazepam will be prepared by pharmacy (Barnes, Tulsa) in capsule form
 : Placebo — placebo will be prepared by pharmacy (Barnes, Tulsa) in capsule form
 Link: https://clinicaltrials.gov/study/NCT06004115
-
-SUMMARY:
-
-
-## NCT06706206
-The CACHE Study: Coronary Artery Care in HaEmophilia
-
-Intervention: : Observational trial — Observational clinical trial. Participants will undergo cardiovascular risk assessment (clinical and blood tests) and coronary CT angiogram.
-
-These results will be compared to a control population without haemophilia (recruited as part of a different clinical trial).
-Link: https://clinicaltrials.gov/study/NCT06706206
 
 SUMMARY:
 
@@ -5616,15 +5593,6 @@ Link: https://clinicaltrials.gov/study/NCT06164717
 SUMMARY:
 
 
-## NCT06023030
-A Post-marketing Non-interventional Study for Upadacitinib in Patients With Moderately to Severely Active Crohn's Disease (CD) in Japan
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06023030
-
-SUMMARY:
-
-
 ## NCT05675735
 Leveraging Regulatory Flexibility for Methadone Take-Home Dosing to Improve Retention in Treatment for Opioid Use Disorder: A Stepped-Wedge Randomized Trial to Facilitate Clinic Level Changes
 
@@ -5818,17 +5786,6 @@ Pavlik Harness Treatment Versus Monitoring for Treatment of Graf Type 2b and 2c 
 
 Intervention: : Watchful waiting with supportive care — Usual care is Pavlik Harness Treatment. Watchful waiting with ongoing ultrasound scans is the intervention in this study to determine whether the hip matures without the use of the Pavlik Harness
 Link: https://clinicaltrials.gov/study/NCT07111858
-
-SUMMARY:
-
-
-## NCT06576271
-A Phase 1, First-time-in-human, Four-part Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Immunogenicity of GSK4527363 in Healthy Participants (Part A), Participants With Active Systemic Lupus Erythematosus (Part B), Healthy Participants of Chinese and Japanese Descent (Part C) and Participants With Interstitial Lung Disease Associated With Connective Tissue Disease (Part D)
-
-Intervention: : GSK4527363 — GSK4527363 will be administered to participants.
-: Placebo matching GSK4527363 — Placebo matching GSK4527363 will be administered to participants.
-: Belimumab — Belimumab will be administered to participants.
-Link: https://clinicaltrials.gov/study/NCT06576271
 
 SUMMARY:
 

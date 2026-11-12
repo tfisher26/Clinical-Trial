@@ -140,16 +140,6 @@ Link: https://clinicaltrials.gov/study/NCT07020806
 SUMMARY:
 
 
-## NCT07219368
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Immunogenicity of Single and Multiple Doses of MT-201 in Healthy Participants
-
-Intervention: : MT-201 — MT-201
-: Placebo — Placebo
-Link: https://clinicaltrials.gov/study/NCT07219368
-
-SUMMARY:
-
-
 ## NCT07085325
 CSIMEMPHIS: Long-term Follow-up of Medulloblastoma Survivors That Received Craniospinal Irradiation
 

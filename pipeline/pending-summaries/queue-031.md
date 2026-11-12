@@ -1060,16 +1060,6 @@ Link: https://clinicaltrials.gov/study/NCT06371404
 SUMMARY:
 
 
-## NCT07540338
-A Randomized, Balanced, Phase 1/2A, Multiple-dose, Open-label, Two-treatment, Two-period, Two-sequence, Crossover, Relative Bioavailability Study to Investigate Lithium Brain/Plasma Pharmacokinetics and Safety of an AL001 Oral Capsule Compared to a Marketed Immediate-release Lithium Carbonate Capsule in Subjects With Bipolar I Disorder
-
-Intervention: : AL001 — Crystallized lithium
-: Lithium carbonate — Lithium carbonate
-Link: https://clinicaltrials.gov/study/NCT07540338
-
-SUMMARY:
-
-
 ## NCT07330830
 Study of PNPLA3 Genetic Polymorphisms in Patients With Non-Alcoholic Fatty Liver Disease in an Ultramarine Population
 
