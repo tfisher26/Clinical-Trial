@@ -397508,3 +397508,290 @@ Exclusion criteria:
 CALLOUT_HEADING:
 CALLOUT_TEXT:
 
+## NCT07342582
+Identifying the Burden of Hospitalization Due to Rhinovirus (RV) in Children and Mechanisms of Pathogenesis Using Airway Molecular Profiling
+Keyword hit(s): inpatient
+
+Inclusion criteria:
+"""
+(Aim 1 and Aim 2b Community Groups):
+
+* Parent/legal guardian is willing and able to provide informed consent in English.
+* Willing to comply with all study procedures and be available for the duration of the study.
+* Younger Community Group: Generally healthy children 12 to 36 months of age at the time of enrollment
+* Older Community Group: Generally healthy children 5 to 17.5 years of age at the time of enrollment.
+* Current patient within primary care system at UW Health
+
+Inclusion Criteria (Aim 2a: Hospitalized Group):
+
+* Parent/legal guardian is willing and able to provide informed consent in English.
+* Admitted to American Family Children's Hospital (AFCH) within the past 24 hours or have been assigned an admission-related status (including "Admit Probable" or "IP Bed Requested") that reflects an expected inpatient admission.
+* Children under 17.5 years of age at the time of enrollment
+* Has a diagnosis of bronchiolitis, asthma exacerbation, acute hypoxemic respiratory failure or community acquired pneumonia (CAP) OR is an infant less than 6 months of age with fever greater than 38 degrees Celsius within 24 hours of hospital admission
+
+Exclusion Criteria (all participants):
+
+* Congenital or currently acquired immunosuppressive condition or medications (e.g., congenital immunodeficiency, Leukemia, Lupus)
+* Congenital anomalies that might alter frequency of infection (e.g., unrepaired cleft palate, bronchial cyst, pulmonary sequestration)
+* Presence of tracheostomy or gastrostomy tube
+* Previously enrolled a different group in the study
+* Other child in the same household already enrolled in the study
+* Not suitable for study participation due to other reasons at the discretion of the investigators.
+
+Exclusion Criteria (Aim 1: Community Group Only):
+
+* History of chronic pulmonary diseases (e.g., asthma, cystic fibrosis, bronchopulmonary dysplasia (BPD)) (Note: asthma IS exclusionary), reactive airway disease within the Older Community Group is not exclusionary unless they have a maintenance inhaler.
+* Acute upper respiratory symptoms within the past week (7 days) at the time of enrollment
+
+Exclusion Criteria (Aim 2: Hospitalized Group Only):
+
+* History of chronic pulmonary diseases, excluding asthma (e.g., cystic fibrosis, bronchopulmonary dysplasia (BPD)) (Note: asthma is NOT exclusionary)
+* A positive test for any other respiratory virus other than RV within the 48 hours prior to and including admission documented at the time of consent. (Note: Negative for rhinovirus is not exclusionary).
+* Non-respiratory infection at the time of admission (e.g. Bacteremia) (Note: UTI, Osteomyelitis, Otitis media, and MRSA colonization is not exclusionary.)
+* Uncontrolled and/or profound neurologic disease, as determined by the investigator or designee at time of admission, considering factors such as uncontrolled seizures, inability to ambulate, inability to communicate verbally, or dependence on a gastrostomy tube (G-tube) or ventilatory assistance (e.g., positive pressure ventilation) (e.g., cerebral palsy, genetic neurologic diseases).
+
+Exclusion Criteria (less than 5 years old only (All participants in Aim 1 and some participants in Aim 2a):
+
+* Born prematurely, less than 32 weeks 0 days gestational age
+"""
+Exclusion criteria:
+"""
+(all participants):
+
+* Congenital or currently acquired immunosuppressive condition or medications (e.g., congenital immunodeficiency, Leukemia, Lupus)
+* Congenital anomalies that might alter frequency of infection (e.g., unrepaired cleft palate, bronchial cyst, pulmonary sequestration)
+* Presence of tracheostomy or gastrostomy tube
+* Previously enrolled a different group in the study
+* Other child in the same household already enrolled in the study
+* Not suitable for study participation due to other reasons at the discretion of the investigators.
+
+Exclusion Criteria (Aim 1: Community Group Only):
+
+* History of chronic pulmonary diseases (e.g., asthma, cystic fibrosis, bronchopulmonary dysplasia (BPD)) (Note: asthma IS exclusionary), reactive airway disease within the Older Community Group is not exclusionary unless they have a maintenance inhaler.
+* Acute upper respiratory symptoms within the past week (7 days) at the time of enrollment
+
+Exclusion Criteria (Aim 2: Hospitalized Group Only):
+
+* History of chronic pulmonary diseases, excluding asthma (e.g., cystic fibrosis, bronchopulmonary dysplasia (BPD)) (Note: asthma is NOT exclusionary)
+* A positive test for any other respiratory virus other than RV within the 48 hours prior to and including admission documented at the time of consent. (Note: Negative for rhinovirus is not exclusionary).
+* Non-respiratory infection at the time of admission (e.g. Bacteremia) (Note: UTI, Osteomyelitis, Otitis media, and MRSA colonization is not exclusionary.)
+* Uncontrolled and/or profound neurologic disease, as determined by the investigator or designee at time of admission, considering factors such as uncontrolled seizures, inability to ambulate, inability to communicate verbally, or dependence on a gastrostomy tube (G-tube) or ventilatory assistance (e.g., positive pressure ventilation) (e.g., cerebral palsy, genetic neurologic diseases).
+
+Exclusion Criteria (less than 5 years old only (All participants in Aim 1 and some participants in Aim 2a):
+
+* Born prematurely, less than 32 weeks 0 days gestational age
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07594990
+Cohorte Des Maladies Auto-Immunes du Foie
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+:
+
+1. age≥10 years old
+2. weight≥25kg
+3. AIH (with or without the presence of an overlap) whose diagnosis is validated by at least 2 of the following criteria :
+
+   * ALT\>2N or IgG\>1.1N
+   * Presence of autoantibodies : ANA (antinuclear), ML (anti-smooth muscle), SLA (anti-soluble liver antigen), LKM1 (anti-endoplasmic reticulum), LC1 (anti-liver cytosol)
+   * Presence of interface hepatitis on biopsy
+4. signing of a written consent form for participation in the study and for the storage of biological samples research
+
+Control patients :
+
+1. age≥18 years old
+2. weight≥37kg
+3. Patient with one of the following 3 conditions :
+
+   * Primary Biliary Cholangitis
+   * Metabolic steatohepatitis
+   * Drug induced hepatitis
+
+Exclusion Criteria :
+
+Positive HIV serology HBV infection Positive HCV serology and PCR Patients under guardianship or curatorship
+"""
+Exclusion criteria:
+"""
+:
+
+Positive HIV serology HBV infection Positive HCV serology and PCR Patients under guardianship or curatorship
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07596381
+A Phase I/Ib Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Antitumor Efficacy of Focal Adhesion Kinase Inhibitor IN10028 as Monotherapy and Combination Therapy in Patients With Advanced Solid Tumors
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+* Able to understand and voluntarily sign the written Informed Consent Form (ICF), which must be signed prior to conducting the study-specific procedures required by the trial.
+* At the time of signing the ICF, subjects are aged 18 to 75 years, inclusive, male and female.
+* Subjects must have a histologically or cytologically confirmed diagnosis of advanced or metastatic malignant solid tumor.Monotherapy dose-escalation and dose expansion: Patients with solid tumors who failed prior standard systemic therapy, have no standard treatment options, or are intolerant to standard regimens.
+* Prior systemic antitumor therapy must be completed at least 3 weeks before the first study drug treatment; prior small molecule TKIs or oral fluoropyrimidines require a minimum 2-week washout period.
+* Subjects must have at least one measurable tumor lesion per RECIST v1.1. Previously irradiated lesions should not be selected as target lesions, unless such irradiated lesion is the only measurable lesion and has documented radiological disease progression, and may then be selected as a target lesion.
+* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 or 1.
+* Subjects have an estimated expected survival time of at least 3 months.
+* Has adequate organ function.
+* Urine protein negative or trace (±); or urine protein 1+, but urine protein to creatinine ratio (UPCR) of random morning urine \< 0.5, or 24-hour urine protein quantitation \< 0.5 g/24 h.
+* Female subjects of childbearing potential must have a negative serum pregnancy test and agree to use effective contraception during the study drug treatment period and for 120 days after the last dose of study drug administration. Male subjects with female partners of childbearing potential must agree to use effective contraception during the study drug treatment period and for 120 days after the last dose of study drug administration. In this protocol, a woman of childbearing potential is defined as a sexually mature female.
+"""
+Exclusion criteria:
+"""
+* Subjects unable to receive oral administration or with conditions that severely affect drug digestion and absorption (e.g., subtotal gastrectomy or duodenectomy, severe sinus tract affecting digestion and absorption, and other related diseases.
+* Subjects with known central nervous system (CNS) metastases, excluding those with asymptomatic CNS metastases or asymptomatic brain metastases following prior treatment, provided that the lesions have been confirmed to be stable for more than 3 months by computed tomography (CT) or magnetic resonance imaging (MRI), and no steroid therapy has been required for at least 4 weeks.
+* Subjects with known hypersensitivity to any components of the study drug or its analogues.
+* Subjects with prior treatment of focal adhesion kinase inhibitors (FAKi).
+* Subjects with a history of any other malignancy within 5 years prior to screening, excluding cured cervical carcinoma in situ and completely resected basal cell carcinoma of the skin.
+* Subjects with uncontrolled cardiac clinical symptoms or diseases, including:(1) Heart failure classified as New York Heart Association (NYHA) Class Ⅱ or above; (2) unstableangina; (3) Myocardial infarction within the past 1 year;(4) Clinically significant supraventricular or ventricular arrhythmia requiring treatment or intervention; (5) Corrected QT interval (QTc) \> 450 ms in males and QTc \> 470 ms in females. The QTc interval is calculated using Fridericia's correction formula: QTcF = QT/(RR\^0.33); (6) Left ventricular ejection fraction (LVEF) \< 50%.
+* Subjects with known hereditary or acquired bleeding and thrombotic predispositions (e.g., hemophilia, coagulation disorders, thrombocytopenia, etc.)
+* Subjects with an active infection within 4 weeks prior to enrollment, or those with other chronic medical conditions deemed unsuitable for study participation by the Investigator.
+* Subjects with congenital or acquired immunodeficiency disorders (e.g., human immunodeficiency virus \[HIV\] infection), or those with a history of organ transplantation.
+* Hepatitis B surface antigen (HBsAg) positive with hepatitis B virus DNA (HBV DNA) ≥ 2500 copies/mL (or 500 IU/mL); or positive for hepatitis C virus RNA (HCV RNA).
+* Have received a live vaccine within 30 days prior to the first dose of administration.
+* Women of childbearing potential who are pregnant-planning or lactating.
+* Subjects who are inability to comply with protocol requirements or who is otherwise considered unsuitable for study participation by the investigator's judgment.
+* Subjects receiving concomitant intravenous or oral medications that affect CYP isoenzymes (strong inducers or strong inhibitors of CYP3A4), or who have used such medications within at least 1 week prior to the first dose of administration.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07690657
+Evaluating Intervention Allocation Policies for Reducing Hospital Readmissions at Michigan Medicine
+Keyword hit(s): inpatient
+
+Inclusion criteria:
+"""
+* Patient meets the primary care established rule at Michigan Medicine (MM), AND
+* Patient's primary care physician (PCP) Department is one of our General Medicine or Family Medicine or Medical-Pediatrics departments, AND
+* Inpatient class is Inpatient or Observation or Obs Greater than 48 hours or Outpatient in a Bed or Extended Recovery or Hospital Care at Home Inpatient or Hospital Care at Home Observation, AND
+* Discharged from General Medicine or Family Medicine or Medicine Observation services, AND
+* Disposition of home or home with home care
+"""
+Exclusion criteria:
+"""
+* Physician Organization of Michigan Accountable Care Organization (POM ACO)
+* Sepsis patients (had a diagnosis of sepsis during admission, active or resolved on the hospital problem list)
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07692633
+A Randomized, Triple-blind, Placebo Controlled Parallel Clinical Trial to Assess the Absorption, Safety, and Efficacy of an Oral Nicotinamide Adenine Dinucleotide (NAD+) Supplement in Healthy Adults
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+1. Males and females between 40 and 65 years of age, inclusive, at screening
+2. Body Mass Index (BMI) between 18.5 and 29.9 kg/m2
+3. Females not of child-bearing potential, defined as those who have undergone a sterilization procedure (e.g. hysterectomy, bilateral oophorectomy, bilateral tubal ligation, complete endometrial ablation) or have been post-menopausal for at least 1 year prior to screening Or, Individuals of child-bearing potential must have a negative baseline urine pregnancy test and agree to use a medically approved method of birth control for the duration of the study. All hormonal birth control must have been in use for a minimum of three months. Acceptable methods of birth control include:
+
+   * Hormonal contraceptives including oral contraceptives, hormone birth control patch (Ortho Evra), vaginal contraceptive ring (NuvaRing), injectable contraceptives (Depo-Provera, Lunelle), or hormone implant (Norplant System)
+   * Double-barrier method
+   * Intrauterine devices
+   * Non-heterosexual lifestyle and agrees to use contraception if planning on changing to heterosexual partner(s)
+   * Vasectomy of partner at least 6 months prior to screening
+   * Abstinence and agrees to use contraception if planning on becoming sexually active during the study
+4. Willingness to complete questionnaires and diaries associated with the study and to complete all visits
+5. Agrees to maintain current lifestyle habits (physical activity, medications, supplements, and sleep) as much as possible throughout the study
+6. Agrees to follow the specified low NAD-precursor diet during the run-in period and throughout the study
+7. Agrees to avoid caffeine (e.g., tea, coffee, energy drinks) for 12 hours (h) prior to post-screening in-clinic study visits
+8. Agrees to avoid alcohol consumption and vigorous physical activity for 24 h prior to post-screening in-clinic study visits
+9. Provided voluntary, written, informed consent to participate in the study
+10. Healthy as determined by medical history and laboratory results as assessed by the Qualified Investigator (QI)
+"""
+Exclusion criteria:
+"""
+1. Individuals who are pregnant, breast feeding, or planning to become pregnant during the study
+2. Allergy, sensitivity, intolerance, or dietary restriction preventing consumption of investigational product (test material's active or inactive ingredient) or placebo ingredients
+3. Unstable metabolic disease or chronic diseases as assessed by the QI
+4. Current or history of any significant diseases of the gastrointestinal tract as assessed by the QI
+5. Unstable hypertension. Treatment on a stable dose of medication for at least 3 months will be considered by the QI (See Section 1)
+6. Significant cardiovascular event in the past 6 months. Participants with no significant cardiovascular event on stable medication may be included after assessment by the QI on a case-by-case basis
+7. History of or current diagnosis with kidney and/or liver diseases as assessed by the QI on a case-by-case basis, with the exception of history of kidney stones in participants who are symptom free for 6 months
+8. Self-reported confirmation of current or pre-existing thyroid condition. Treatment on a stable dose of medication for at least 3 months will be considered by the QI
+9. Major surgery in the past 3 months or individuals who have planned surgery during the course of the study. Participants with minor surgery will be considered on a case-by-case basis by the QI
+10. Cancer, except skin basal cell carcinoma completely excised with no chemotherapy or radiation with a follow up that is negative. Volunteers with cancer in full remission for more than five years after diagnosis are acceptable
+11. Individuals with an autoimmune disease or are immune compromised as assessed by the QI
+12. Self-reported confirmation of a human immunodeficiency virus (HIV)-, Hepatitis B- and/or C-positive diagnosis as assessed by the QI
+13. Self-reported confirmation of blood/bleeding disorders as assessed by the QI
+14. Use of medical cannabinoid products
+15. Chronic use of cannabinoid products (\>2 times/week). Occasional users will be required to washout and abstain for the duration of the study period
+16. Regular use of tobacco or nicotine products in the past six months, as assessed by the QI. Occasional users will be required to washout and abstain for the duration of the study period
+17. Alcohol intake average of \>2 standard drinks per day as assessed by the QI
+18. Alcohol or drug abuse within the last 12 months
+19. Current use of prescribed and/or over-the-counter (OTC) medications, supplements, and/or consumption of food/drinks that may impact the efficacy and/or safety of the investigational product (Sections 7.3.1 and 7.3.2)
+20. Clinically significant abnormal laboratory results at screening as assessed by the QI
+21. Blood donation 30 days prior to baseline, during the study, or a planned donation within 30 days of the last study visit
+22. Participation in other clinical research studies 30 days prior to baseline, as assessed by the QI
+23. Individuals who are cognitively impaired and/or who are unable to give informed consent
+24. Any other condition or lifestyle factor, that, in the opinion of the QI, may adversely affect the participant's ability to complete the study or its measures or pose significant risk to the participant
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07771400
+Molecular Ovarian Cancer Assessment in LatiNoAmerican PAtients
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Participants ≥18 years-old.
+2. Patients diagnosed with ovarian, fallopian tube or peritoneal cancer:
+
+   1. advanced stages stage III or IV by FIGO disease stage
+   2. new diagnosis and persistent or recurrent disease
+3. Diagnosed from 2018 to 2024.
+4. Histologically confirmed diagnosis of serous (low or high grade), endometrioid, mucinous or clear cell ovarian carcinoma.
+5. Accept to participate in the project and sign the informed consent (if applicable).
+6. An archived representative formalin-fixed paraffin-embedded (FFPE) tumor specimen in tumor tissue blocks (preferred) or freshly sectioned unstained slides (at least 20) from biopsy/surgery is mandatory.
+"""
+Exclusion criteria:
+"""
+1. Histological ambiguous diagnosis upon review.
+2. Diagnosis based on cytology and without any biopsy or surgical specimen.
+3. Patients diagnosed and staged but not receiving any treatment.
+4. Patients without medical records available (lost, empty or irretrievable clinical information).
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07934485
+Feasibility Of Sleep Treatment Education in Stroke Rehabilitation Settings
+Keyword hit(s): inpatient
+
+Inclusion criteria:
+"""
+Stroke survivors:
+
+* Neurorehabilitation unit inpatient
+* Clinical diagnosis of stroke
+* Aged 18 years or over
+* Willing and able to provide informed consent OR a positive opinion from a consultee is provided by a family member or carer (relative or friend) willing to provide personal consultee (PC) advice.
+
+Staff:
+
+* Current stroke rehabilitation unit staff member, providing care to stroke survivors
+* Aged 18 years or over
+* Able and willing to provide informed consent
+"""
+Exclusion criteria:
+"""
+* Staff may not participate if they are anticipated to be leaving the neurorehabilitation unit within 2 months of the delivery of the sleep education package
+* Stroke survivors may not participate if they are anticipated to be discharged within 1 week of recruitment
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+

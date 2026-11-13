@@ -595,15 +595,6 @@ Link: https://clinicaltrials.gov/study/NCT06570642
 SUMMARY:
 
 
-## NCT05374824
-Comparative Effectiveness of Palliative Surgery Versus Additional Anti-Seizure Medications for Lennox-Gastaut Syndrome - PCORI
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05374824
-
-SUMMARY:
-
-
 ## NCT07302880
 The Acute Interference of Biotin in Blood Analysis
 

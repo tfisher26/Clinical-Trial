@@ -10163,14 +10163,6 @@ Link: https://clinicaltrials.gov/study/NCT06650332
 
 SUMMARY: Stomach and esophageal junction cancers with the HER2 protein that cannot be removed need effective first treatment. This study tests cadonilimab, an immunotherapy that blocks both PD-1 and CTLA-4, combined with other drugs.
 
-## NCT06650514
-A Phase 2 Pilot Study to Evaluate the Safety and the Anti-Tumour Activity of the Myc Inhibitor OMO-103 Administered Intravenously in Patients With Advanced High-Grade Osteosarcoma
-
-Intervention: : OMO-103 — OMO-103 administered at the recommended phase 2 dose (6.5 mg/kg as a weekly intravenous infusion in 28-day cycles).
-Link: https://clinicaltrials.gov/study/NCT06650514
-
-SUMMARY: Advanced high grade osteosarcoma, a bone cancer, has few effective treatments. This study tests OMO-103, an infused medicine that blocks the MYC protein that drives cancer growth, to see whether it is safe and works.
-
 ## NCT06650683
 Impact of Providing Nursing Support on Parental Stress Related to Preoperative Care of a Newborn with Hirschsprung's Disease
 
@@ -12193,15 +12185,6 @@ The Evaluation of Cytokines and Hormones as Biomarkers for Epithelioid Haemangio
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06680401
-
-SUMMARY:
-
-## NCT06680739
-Single Cell Characterization of Persistent Cells Upon Treatment With Durvalumab (MEDI4736) With or Without Tremelimumab in MSS and MSI Colorectal and Endometrial Tumors: the SERPENTINE Clinical Trial
-
-Intervention: : Durvalumab — Durvalumab 1500 mg IV every 4 weeks
-: Tremelimumab — Tremelimumab 300 mg IV as a single dose
-Link: https://clinicaltrials.gov/study/NCT06680739
 
 SUMMARY:
 
@@ -14461,14 +14444,6 @@ Intervention: : Test product — Twice daily applications, in association of a r
 Link: https://clinicaltrials.gov/study/NCT06716398
 
 SUMMARY:
-
-## NCT06716411
-Confirming the Effects of Acupuncture Treatments to Relieve Symptoms of Gulf War Illness
-
-Intervention: : Acupuncture — Sterile insertive needles are applied by licensed, experienced practitioners.
-Link: https://clinicaltrials.gov/study/NCT06716411
-
-SUMMARY: Gulf War illness causes long lasting fatigue, pain and other symptoms in veterans. This study tests acupuncture to see whether it relieves these symptoms.
 
 ## NCT06716541
 Biodegradable Stents Versus Plastic Stents for Treatment of Biliary Anastomotic Strictures in Liver Transplant RecipIents

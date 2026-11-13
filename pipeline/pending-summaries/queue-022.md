@@ -1416,15 +1416,6 @@ Link: https://clinicaltrials.gov/study/NCT07374263
 SUMMARY:
 
 
-## NCT06244433
-Risk Stratification of Sudden Unexpected Death in Infant Based on Biomarkers - Identification of Genetic Variants Associated With Unexpected Infant Death Syndrome
-
-Intervention: : whole genome sequencing — Study of all coding and non-coding sequences in the genome to identify pathogenic allelic variants
-Link: https://clinicaltrials.gov/study/NCT06244433
-
-SUMMARY:
-
-
 ## NCT05337891
 Sensitivity of Repetitive Nerve Stimulation Performed in the Evening vs in the Morning and With Single vs Repeated Effort in Myasthenia Gravis
 

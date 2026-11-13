@@ -342,15 +342,6 @@ Link: https://clinicaltrials.gov/study/NCT05192980
 SUMMARY:
 
 
-## NCT07178704
-PILOT STUDY: The Metabolic and Genetic Drivers of Body Composition Changes Following Weight Loss Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07178704
-
-SUMMARY:
-
-
 ## NCT04658628
 Brain Imaging Biomarkers for Response to Spinal Cord Stimulation in Patients With Chronic Low Back Pain
 

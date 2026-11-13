@@ -1395,15 +1395,6 @@ Link: https://clinicaltrials.gov/study/NCT06929949
 SUMMARY:
 
 
-## NCT06412367
-FUNCTIONAL ASSESSMENT FOR SURGERY BY A TIMED WALK
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06412367
-
-SUMMARY:
-
-
 ## NCT06573073
 Evaluation of Clinical Performance and IVD Test of LifeOS Digital PCR Liquid Biopsy Kits for EGFR T790M Mutation
 

@@ -2127,21 +2127,6 @@ Link: https://clinicaltrials.gov/study/NCT07684157
 
 SUMMARY:
 
-## NCT07684196
-A Phase 1 Randomized, Double-Blind, Single-Center, Placebo-Controlled Single Ascending Dose and Multiple Ascending Dose (SAD/MAD) Study by Topical Dermal Administration to Evaluate the Safety, Tolerability, and Pharmacokinetics of ENC0653 Ointment in Healthy Adult Subjects
-
-Intervention: : Low Dose, 10%BSA — Topical dermal administration
-: Low Dose, 20%BSA — Topical dermal administration
-: Middle Dose, 20%BSA — Topical dermal administration
-: High Dose, 20%BSA — Topical dermal administration
-: Low Dose, 20%BSA — Topical dermal administration
-: Middle Dose, 20%BSA — Topical dermal administration
-: High Dose, 20%BSA — Topical dermal administration
-: Placebo — Topical dermal administration
-Link: https://clinicaltrials.gov/study/NCT07684196
-
-SUMMARY:
-
 ## NCT07684339
 Assessing the Correlation Between Phospholipase C Zeta (PLCZeta) Measurements and Semen Parameters
 
@@ -17990,226 +17975,207 @@ Link: https://clinicaltrials.gov/study/NCT07616206
 
 SUMMARY:
 
-## NCT04090567
-Overcoming PARP Inhibitor Resistance in BRCA Germline Mutation Positive Advanced Breast Cancer
+## NCT03938987
+A Phase 1b/2 Multi-center, De-centralized, Dose Selection Study of Autologous CD19-directed Chimeric Antigen Receptor (CAR) T-cells in Patients With Relapsed/Refractory Aggressive Lymphoma or Acute Lymphoblastic Leukemia (ALL)
 
-Intervention: : Cediranib — Given PO
-: Ceralasertib — Given PO
-: Olaparib — Given PO
-Link: https://clinicaltrials.gov/study/NCT04090567
+Intervention: : autologous CD19-directed chimeric antigen receptor (CAR) T-cells — Anti-CD19/4-1BB/CD3ζ CAR T-cell: autologous, unselected CD3+ lymphocytes collected from whole blood or apheresis, transfected with a lentiviral vector containing a 2nd generation chimeric antigen receptor (CAR) consisting of a scFv recognizing CD19 and dual co-stimulatory intracellular signaling domains (4-1BB and CD3ζ). All patients will receive lymphodepleting, conditioning chemotherapy in the form of cyclophosphamide (500 mg/m2/day) and fludarabine (30 mg/m2/day) on Days -5, -4, and -3 prior to a CAR T-cell intravenous, single dose administration on Day 0.
+Link: https://clinicaltrials.gov/study/NCT03938987
 
 SUMMARY:
 
-## NCT03272724
-French National Observatory on Infective Endocarditis
+## NCT03305835
+Characterization of Monogenic Kidney Stone Diseases
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03272724
+Link: https://clinicaltrials.gov/study/NCT03305835
 
 SUMMARY:
 
-## NCT04362826
-A Randomized, Double-blind, Placebo Controlled, Parallel Study to Investigate Efficacy of a Novel Probiotic on the Bacteriome and Mycobiome of Breast Cancer Patients
+## NCT04325425
+Folfirinox Versus Platinum - Etoposide as First Line Chemotherapy for Metastatic Grade 3 Poorly Differentiated Neuroendocrine Carcinoma of Gastro Entero Pancreatic and Unknown Primary Associated With Molecular Profiling for Therapeutic Targets & Predictive Biomarkers Identification
 
-Intervention: : Novel probiotic — Investigational novel probiotic
-: Placebo — Placebo for probiotic
-Link: https://clinicaltrials.gov/study/NCT04362826
+Intervention: : FOLFOXIRI Protocol — Platinum-Etoposide regimen will be administered once every 21 days. Treatment will be continued for 6 to 8 cycles or 24 weeks maximum. One cycle consists of 21 days (3 weeks) with injection on D1 of each cycle (D1=D22). Patients are eligible for repeated treatment cycles in the absence of disease progression and undue adverse events.
+: Cisplatin injection — Cisplatin 100 mg/m2, IV infusion over 3 hours or Carboplatin AUC 5, IV infusion over 30 minutes on day 1 \[the dose of carboplatin will be determined for each cycle using the Calvert's formula (carboplatin dose (mg) = target AUC 5 x estimated glomerular filtration rate (eGFR, mL/min) + 25)\];
 
-SUMMARY:
-
-## NCT04253379
-Impact of Executive Functions and Language on Social Cognition in Pediatric Epilepsy
-
-Intervention: : Neuropsychological evaluation , Evaluation of theory of mind, Evaluation of executive functions, Evaluation of verbal skills — Several tests will be used: Raven's Advanced Progressive Matrices, auditory attention subtest of the NEPSY II, Peabody Picture Vocabulary test, specific comprehension test The cognitive TOM will be evaluated with questions about 4 stories of false beliefs. The affective TOM will be evaluated with a specific emotion inference task 4 adapted subtests from several validated scales will be used to investigate inhibition, cognitive flexibility and working memory The semantic and pragmatic competences will be evaluated with 4 comprehension tasks.
-Link: https://clinicaltrials.gov/study/NCT04253379
+• Etoposide 100 mg/m² IV infusion over 1 hour on day 1,2 and 3
+Link: https://clinicaltrials.gov/study/NCT04325425
 
 SUMMARY:
 
-## NCT03072537
-CrescNet - Computer-guided, Population-based Surveillance System for Growth Disorders
+## NCT02781922
+Efficacy and Safety Study of Autologous Cardiac Stem Cells (JRM-001) Treated After Reconstructive Surgery in Pediatric Patients With Congenital Heart Disease: A Multicenter Randomized Single-blind Parallel-group Study
+
+Intervention: : Autologous cardiac stem cells (JRM-001) — 3x 10\^5 cells/kg, single treatment
+Link: https://clinicaltrials.gov/study/NCT02781922
+
+SUMMARY:
+
+## NCT03623958
+Image Guided VATS Resection vs. VATS Resection of Lung Lesions
+
+Intervention: : Image guided Video-Assisted Thoracic Surgery (VATS) resection — Image guided placement of a fiducial consisting of a needle directed placement of a T-Bar next to the target lesion in order to lead the surgeon to the lung region to be removed
+: Video-Assisted Thoracic Surgery — Standard of Care Video-Assisted Thoracic Surgery (VATS) resection
+Link: https://clinicaltrials.gov/study/NCT03623958
+
+SUMMARY:
+
+## NCT02426255
+Prospective Cohort of Severe Trauma Patients Hospitalized in West French Intensive Care Units
+
+Intervention: : Collection of medical data from ICU patients — A code will be applied to each patient included. Medical data such as demography, Simplified Acute Physiological Score II (SAPS II), Sequential Organ Failure Assessment (SOFA), procedures and complications during ICU stay will be collected.
+Link: https://clinicaltrials.gov/study/NCT02426255
+
+SUMMARY:
+
+## NCT02818517
+Evaluation and Management of Cardio Toxicity in Oncologic Patients
+
+Intervention: : ACE inhibitors — Evaluating the cardio toxicity effect of chemotherapy and radiation and estimating the effect of ACE inhibitors and beta blockers in the prevention of heart failure.
+: beta blockers — Evaluating the cardio toxicity effect of chemotherapy and radiation and estimating the effect of ACE inhibitors and beta blockers in the prevention of heart failure.
+Link: https://clinicaltrials.gov/study/NCT02818517
+
+SUMMARY:
+
+## NCT04029363
+Expanded Study of the HighLife 28mm Trans-septal Trans-catheter Mitral Valve in Patients With Moderate-severe or Severe Mitral Regurgitation and at High Surgical Risk
+
+Intervention: : HighLife Transcatheter Mitral Valve Replacement — Transcatheter Mitral Valve Replacement
+Link: https://clinicaltrials.gov/study/NCT04029363
+
+SUMMARY:
+
+## NCT03457831
+Status Epilepticus in the Critically Ill Patients
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03072537
+Link: https://clinicaltrials.gov/study/NCT03457831
 
 SUMMARY:
 
-## NCT03300492
-A Phase I/II Single Center Study to Assess the Safety, Tolerability and Feasibility of Pre-emptive Immunotherapy With in Vitro Expanded Natural Killer Cells in Patients Treated With Haplo-HSCT for AML/MDS
+## NCT00455104
+Canadian Fabry Disease Initiative National Registry: Outcomes of Rare Disease Therapeutics and Cardiovascular Risk Factor Modification
 
-Intervention: : NK-DLI — Application of three infusions of ex vivo expanded NK cells on days
-
-+10, +15 and +20 with increasing NK cell doses (1x107/kg, 1x108/kg and the remaining cells up to 1x109/kg) following haplo-HSCT. Maximal cumulative T-cell dose is fixed at \<1x105/kg.
-Link: https://clinicaltrials.gov/study/NCT03300492
+Intervention: : No intervention — This is an observational, voluntary registry.
+Link: https://clinicaltrials.gov/study/NCT00455104
 
 SUMMARY:
 
-## NCT03001362
-Radical External Beam Chemoradiation in Patients With Rectal Cancer: a "Wait-and-see" Approach
+## NCT02947945
+Open-Label, to Evaluate the Efficacy and Safety of Reslizumab in the Treatment of Eosinophilic Granulomatosis With Polyangiitis (EGPA) Study: RITE Study
 
-Intervention: : Radical external beam radiotherapy — pelvic radiotherapy to a dose of 45 Gy in 25 fractions with a tumor boost to a dose of 9 Gy in 5 fractions (thus total of 54 Gy/30 fractions to the primary tumor), combined with radio sensitizing chemotherapy.
-Link: https://clinicaltrials.gov/study/NCT03001362
-
-SUMMARY:
-
-## NCT03414502
-Treatment of Rheumatoid Arthritis With Disease-modifying Antirheumatic Drugs (DMARDs): Predictors of Response
-
-Intervention: : Methotrexate — Starting dose of Methotrexate of 15 mg once a week plus folic acid 1mg daily.
-: Abatacept — Starting dose may be adjusted as needed at investigator's discretion.
-: Adalimumab — Starting dose may be adjusted as needed at investigator's discretion.
-: Azathioprine — Starting dose may be adjusted as needed at investigator's discretion.
-: Baricitinib — Starting dose may be adjusted as needed at investigator's discretion.
-: Certolizumab — Starting dose may be adjusted as needed at investigator's discretion.
-: Etanercept — Starting dose may be adjusted as needed at investigator's discretion.
-: Golimumab — Starting dose may be adjusted as needed at investigator's discretion.
-: Hydroxychloroquine — Starting dose may be adjusted as needed at investigator's discretion.
-: Infliximab — Starting dose may be adjusted as needed at investigator's discretion.
-: Leflunomide — Starting dose may be adjusted as needed at investigator's discretion.
-: Minocycline — Starting dose may be adjusted as needed at investigator's discretion.
-: Rituximab — Starting dose may be adjusted as needed at investigator's discretion.
-: Sarilumab — Starting dose may be adjusted as needed at investigator's discretion.
-: Sulfasalazine — Starting dose may be adjusted as needed at investigator's discretion.
-: Tofacitinib — Starting dose may be adjusted as needed at investigator's discretion.
-Link: https://clinicaltrials.gov/study/NCT03414502
+Intervention: : Reslizumab — All subjects will receive Reslizumab
+Link: https://clinicaltrials.gov/study/NCT02947945
 
 SUMMARY:
 
-## NCT03547232
-Rectal Indomethacin as Early Treatment for Acute Pancreatitis (INDOMAP Trial): Study Protocol for a Multi-center, Double-blinded, Placebo-controlled, Randomized Clinical Trial
+## NCT04006535
+Identification of Susceptibility Loci and Genes for Systemic Vasculitis Risk, by Analyzing Whole Exome Sequencing of Familial and Pediatric Forms of Vasculitis (FAMILYVASC Study)
 
-Intervention: : Indomethacin SR — Indomethacin SR 50mg given q12h from admission day 1 to day 7
-: Placebos — Similar shape and size suppositories (Placebos) without indomethacin given q12h from admission day 1 to day 7
-Link: https://clinicaltrials.gov/study/NCT03547232
-
-SUMMARY:
-
-## NCT04300998
-Observational Study of Commercial Chimeric Antigen Receptor T-cell (CAR T) Therapy in Older Patients With Hematologic Malignancies and With an Embedded Pilot Study of Longitudinal Geriatric and Neurocognitive Evaluation
-
-Intervention: : Activities of Daily Living/ADLs — 7 activities: bathing, dressing, grooming, feeding, walking inside the home, walking outside the home, and bladder and bowel control. Participants get 2 points for each activity that is not limited at all, 1 point for limited a little, and 0 points for limited a lot. Total ADL score ranges from 0 to 14
-: Instrumental Activity of Daily Living — 8 activities: telephone use, doing laundry, shopping, preparing meals, doing housework, handling own medications, handling money and finances, and transportation to visit one's doctor. Participants get 2 points for each activity that can be done without help, 1 point for needing some help, and 0 point for being unable to do. Total iADL score ranges from 0 to16.
-: Timed Up and Go — Participants are asked to get up from the chair, walk 10 feet, turn, and walk back to the char (\<10 seconds, 10-20 seconds, \>20 seconds)
-: Cognition — Mini-Cognition test: CDT and 3-word recall
-: Geriatric Depression Scale — Four yes/no questions regarding patient's psychological status. Score ranges from 0 to 4, and a score of \>/=1 is usually indicative of depression.
-: Social Support — Four 5-point Likert scale questions addressing 4 domains of social support: emotional/ informational, tangible, affectionate, and positive social interaction. Score for each item ranges from 1 to 5, and total score ranges from 4 to 20. A higher score means better social support.
-: Brief Test of Attention — assess selective auditory attention.
-: Trail Making Test — Assesses visual scanning, graphomotor speed, and set shifting.
-: Controlled Oral Word Association Test — A timed test of verbal fluency
-: Hopkins Verbal Learning Test-Revised — The HVLT-R is a test of verbal learning and recall. Scores obtained are the total number of words: 1) recalled over three trials; 2)recalled after a delay; 3) correctly recognized.
-: Blood draw — collection of blood tests
-Link: https://clinicaltrials.gov/study/NCT04300998
+Intervention: : genetic analysis — Saliva sample collection for genetic analysis
+Link: https://clinicaltrials.gov/study/NCT04006535
 
 SUMMARY:
 
-## NCT04055428
-The Effects of Natriuretic Peptide Augmentation on Cardiometabolic Health in Black Individuals (NAUTICAL)
+## NCT03535545
+Preliminary Evaluation of [68Ga]CBP8 in Healthy Individuals, Lung Cancer Patients Undergoing Radiation Therapy Prior to the Resection of Locally Advanced Tumors, and Idiopathic Pulmonary Fibrosis Patients
 
-Intervention: : Sacubitril, Valsartan 97-103 mg Oral Tablet — The subject will be randomized, in a double-blind manner to sacubitril/valsartan 97/103 mg twice daily for a period of 12 weeks.
-: Valsartan 160 mg — The subject will be randomized, in a double-blind manner to valsartan 160 mg twice daily for a period of 12 weeks.
-: Intravenous Glucose Tolerance Test — An assessment of the insulin sensitivity will be done using the IVGTT, at baseline and after 12 weeks of pharmacological interventions.
-: Standardized Meals — Participants will consume the standardized study mixed meal for the assessment of postprandial GLP-1 response to the meal.
-: Exercise capacity VO2 maximum determination — Each participant's maximal oxygen capacity will be determined using modified Bruce treadmill protocol.
-Link: https://clinicaltrials.gov/study/NCT04055428
+Intervention: : [68Ga]CBP8 — Up to 15 mCi of \[68Ga\]CBP8 will be administered to each subject.
+: PET Imaging — All subjects will undergo PET imaging after administration of \[68Ga\]CBP8.
+Link: https://clinicaltrials.gov/study/NCT03535545
 
 SUMMARY:
 
-## NCT02897700
-A Phase I Multi-Center Study to Evaluate the Safety, Tolerability, and Efficacy of Chemotherapeutic Regiments in Surgical Patients With Infiltrating Ductal Carcinoma of Breast
+## NCT02795052
+Neurologic Bone Marrow Derived Stem Cell Treatment Study
 
-Intervention: : Single agent of cyclophosphamide, doxorubicin, epirubicin, fluorouracil and methotrexate — Procedure: Routine chemotherapeutic regimens using one out of cyclophosphamide, doxorubicin, epirubicin, fluorouracil and methotrexate (CDEFM) as single agent was performed 30\~60 days before surgery：cyclophosphamide 100mg/M2, doxorubicin 60mg/M2, epirubicin 100mg/M2, fluorouracil 500mg/M2, or methotrexate 50mg/M2.The agent was given on a regular route of IV administration on the 1st and 8th day of each cycle, 28 days per cycle, totally 6 cycles. Subsequently, there was a 30-day interval between the last cycle and radical surgery.
-: cyclophosphamide, doxorubicin, epirubicin, fluorouracil and methotrexate (CDEFM) — Procedure: Routine chemotherapeutic regimens using two agents from cyclophosphamide, doxorubicin, epirubicin, fluorouracil and methotrexate (CDEFM) as combinatorial treatment was performed 30\~60 days before surgery：cyclophosphamide 100mg/M2, doxorubicin 60mg/M2, epirubicin 100mg/M2, fluorouracil 500mg/M2, or methotrexate 50mg/M2.The agents were given on a regular route of IV administration on the 1st and 8th day of each cycle, 28 days per cycle, totally 6 cycles. Subsequently, there was a 30-day interval between the last cycle and radical surgery.
-: Placebo — Procedure: Routine placebo standardized in clinical oncology was provided to patients to replace any chemotherapeutic agent.
-Link: https://clinicaltrials.gov/study/NCT02897700
+Intervention: : Intravenous and Intranasal BMSC — Autologous Bone Marrow Derived Stem Cells provided intravenous and intranasal (lower 1/3 of nose)
+Link: https://clinicaltrials.gov/study/NCT02795052
 
 SUMMARY:
 
-## NCT02037867
-The Stratification of Liver Disease in the Community Using Fibrosis Biomarkers
+## NCT04334707
+Kidney Precision Medicine Project
 
-Intervention: : Fibrosis Biomarkers — Liver disease stratification with liver stiffness scan (Transient Elastography) Analysis of diagnostic performance of serum fibrosis markers (as listed above) Whole blood samples obtained for DNA analysis
-Link: https://clinicaltrials.gov/study/NCT02037867
+Intervention: : Kidney Biopsy — A kidney biopsy is a procedure that involves taking a small piece of kidney tissue for examination with a microscope. A licensed health care provider will perform a kidney biopsy.
+: MRI — Images will be acquired using 3.0T whole body scanner. The participant will undergo a series of sequences (e.g., BOLD, diffusion-weighted, ASL MRI, native T1, and fat fraction sequences). The participant will receive 20 mg of IV furosemide as a bolus. BOLD MRI sequences will be repeated 15 minutes after furosemide administration. ASL sequences are acquired using investigational protocols that are not FDA-approved. Siemens machines will use Body ASL PCASL Perfusion WIP 1023, Phillips will use Body ASL 2D PCASL Perfusion software, and GE machines will use Body ASL PCASL Perfusion software.
+: Retina Scan — Fundus photography, fluorescein angiography, optical coherence tomography, optical coherence tomography angiography, and ophthalmologic exam and history will take place during one retina study visit. The retina visit will take place up to 6 weeks prior to the KPMP kidney biopsy OR up to 8 weeks post-biopsy.
+Link: https://clinicaltrials.gov/study/NCT04334707
 
 SUMMARY:
 
-## NCT04524637
-The Utility of Thromboelastography for Predicting the Risk of Coagulation-Related Damages Secondary to Traumatic Brain Injury
+## NCT02514655
+Role of a Simple Mechanical Device of Pressure Control in the Balloon of the Endotracheal Tube to Prevent Ventilator-acquired Pneumonia
+
+Intervention: : Nosten® pressure control (it's not an antibiotic, but simple device) — One experimental group with the control of the cuff pressure by Nosten® device
+: Manual pressure control — One control group with the manual monitoring of the cuff pressure and inflation of the balloon
+Link: https://clinicaltrials.gov/study/NCT02514655
+
+SUMMARY:
+
+## NCT04503785
+Esophageal Impedance and Manometry Measurements and Dysphagia Symptom Scoring
+
+Intervention: : Manometry — Transnasal Esophageal manometry and Endoflip Balloon distensibility
+Link: https://clinicaltrials.gov/study/NCT04503785
+
+SUMMARY:
+
+## NCT04074538
+The National Colorectal Cancer Cohort Study-Precision Medical Research in Colorectal Cancer
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04524637
+Link: https://clinicaltrials.gov/study/NCT04074538
 
 SUMMARY:
 
-## NCT03850418
-Azacitidine and Chimerism in MDS or AML Patients After Allogeneic Stem Cell Transplant
+## NCT03287193
+Identification of the Molecular and/or Pathophysiological Bases of Rare Diseases of Genetic Origin (or Rare Forms of Frequent Diseases Suspected of Being of Genetic Origin).
 
-Intervention: : azacitidine — azacitidine 32mg/m2 x 5 days every 28 days for minimum of 4 cycles if tolerated
-Link: https://clinicaltrials.gov/study/NCT03850418
+Intervention: : Blood and/or tissue sampling — for patient and related person
+: high-throughput sequencing — exome or whole genome sequencing
+Link: https://clinicaltrials.gov/study/NCT03287193
 
 SUMMARY:
 
-## NCT03517072
-Determinants of the Long-Term Success of Bariatric Surgery "- Multicenter Regional Observational Study: Regional Multicentre Prospective Study
+## NCT03080974
+Immunotherapy and Irreversible Electroporation in the Treatment of Advanced Pancreatic Adenocarcinoma
+
+Intervention: : Nivolumab — Given post-operatively every two weeks for a total of 4 doses. Dose based on weight.
+: Irreversible Electroporation — Non-thermal ablation of tumor
+Link: https://clinicaltrials.gov/study/NCT03080974
+
+SUMMARY:
+
+## NCT04299581
+A Phase II Study of Cryoablation Combined with Anti-PD-1 Antibody （SHR-1210） in Patients with Advanced Intrahepatic Cholangiocarcinoma
+
+Intervention: : Camrelizumab — a PD-1 immune check inhibitor
+: US/CT-guided Percutaneous Cryoablation — Cryoablation will be performed with a two-cycle freeze-thaw phase protocol; US or non-contrast CT images will be obtained to visualize the evolving ablation zone
+Link: https://clinicaltrials.gov/study/NCT04299581
+
+SUMMARY:
+
+## NCT03594318
+Versailles Hospital Cardiac Arrest Registry
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03517072
+Link: https://clinicaltrials.gov/study/NCT03594318
 
 SUMMARY:
 
-## NCT03492060
-Neurogenetic Disorders: A Longitudinal Study on Natural History and Intervention Strategies
+## NCT04330651
+Outcomes' Predictors in Post-Surgery Extracorporeal Life Support
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03492060
-
-SUMMARY:
-
-## NCT04367220
-Cardiovascular Imaging Registry of Canada
-
-Intervention: : Diagnostic testing performed as per routine care
-Link: https://clinicaltrials.gov/study/NCT04367220
+Intervention: : ECLS — Emergency application of Extracorporeal Life Support in post-surgical patients
+Link: https://clinicaltrials.gov/study/NCT04330651
 
 SUMMARY:
 
-## NCT03011684
-Fertility Preservation Using Tamoxifen and Letrozole in Estrogen Sensitive Tumors Trial
+## NCT03303547
+Concordance of Imaging and Pathology Diagnosis of Extranodal Tumour Deposits
 
-Intervention: : Tamoxifen — Given orally
-: Letrozole — Given orally
-Link: https://clinicaltrials.gov/study/NCT03011684
-
-SUMMARY:
-
-## NCT03857373
-Renal Cancer Detection Using Convolutional Neural Networks
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03857373
-
-SUMMARY:
-
-## NCT03915106
-Evaluation of Health-related Quality of Life (HRQoL) of Adolescent Idiopathic Scoliosis (AIS) Patients Who Require Bracing or Surgery Using SRS-22 Questionnaire
-
-Intervention: : Brace — Wear a rigid brace
-: Surgical correction using implants — Surgical correction of spine using implants (metallic rods and metallic screws)
-Link: https://clinicaltrials.gov/study/NCT03915106
-
-SUMMARY:
-
-## NCT03450603
-It is Crucial to Identify Predicting Risk Factors for Exacerbation of Chronic Obstructive Pulmonary Disease in Order to Provide Adequate Intensive Therapy and Closer Follow-up
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03450603
-
-SUMMARY:
-
-## NCT03518099
-Searching Biomarkers of Acute Intestinal Ischemic Injuries
-
-Intervention: : blood sampling — Two tubes of 5ml of blood will be collected for Serum collection, 3 tubes of 5 ml of blood taken for plasma collection and 2 tubes of 7 ml of blood taken for DNA collection
-Link: https://clinicaltrials.gov/study/NCT03518099
+Intervention: : MRI mapping to guide pathological sampling of extranodal tumour deposits — Radiologist to mark areas where extranodal disease is identified on MRI. The pathologist will use this to take additional samples for analysis. This will allow better pathological staging and will affect treatment decisions for patients.
+Link: https://clinicaltrials.gov/study/NCT03303547
 
 SUMMARY:
 

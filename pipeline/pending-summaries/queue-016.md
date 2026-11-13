@@ -113,15 +113,6 @@ Link: https://clinicaltrials.gov/study/NCT06992752
 SUMMARY:
 
 
-## NCT07510984
-Prevalence and Characterization of Dysphagia and Dyspepsia Symptoms and Assessment of Quality of Life in Heterotopic Gastric Mucosa (HGM)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07510984
-
-SUMMARY:
-
-
 ## NCT06120231
 Pulse-width Modulation During Pedicle Screw Stimulation
 

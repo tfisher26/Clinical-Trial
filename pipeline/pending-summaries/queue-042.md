@@ -6038,15 +6038,6 @@ Link: https://clinicaltrials.gov/study/NCT06679777
 
 SUMMARY:
 
-## NCT06680739
-Single Cell Characterization of Persistent Cells Upon Treatment With Durvalumab (MEDI4736) With or Without Tremelimumab in MSS and MSI Colorectal and Endometrial Tumors: the SERPENTINE Clinical Trial
-
-Intervention: : Durvalumab — Durvalumab 1500 mg IV every 4 weeks
-: Tremelimumab — Tremelimumab 300 mg IV as a single dose
-Link: https://clinicaltrials.gov/study/NCT06680739
-
-SUMMARY:
-
 ## NCT05545306
 The Effects of Increasing Caloric Intake on Diet-Induced Thermogenesis and 24h Energy Expenditure
 

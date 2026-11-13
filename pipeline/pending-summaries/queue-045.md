@@ -7117,14 +7117,6 @@ Link: https://clinicaltrials.gov/study/NCT06254846
 
 SUMMARY:
 
-## NCT06254872
-Qoyangnuptu: Peer Mentor Pilot 1
-
-Intervention: : Peer Mentors — Peer mentors provide daily guidance and encouragement to mentees via smartphone app based on training.
-Link: https://clinicaltrials.gov/study/NCT06254872
-
-SUMMARY: Peer support can help people make health changes. This pilot study tests Qoyangnuptu, peer mentors who give daily guidance through a smartphone app.
-
 ## NCT06255678
 Angio-based Final Functional Effect of PCI (AFFE PCI): a Prospective Multi-center Study of Post-PCI vFFR Impact on Clinical Outcomes and Residual Angina
 
@@ -9051,15 +9043,6 @@ Gene Therapy (AAV2.NN-CNGA1)
 Link: https://clinicaltrials.gov/study/NCT06291935
 
 SUMMARY: Retinitis pigmentosa is an inherited eye disease that slowly causes vision loss. This study tests the safety of a gene therapy injected into the eye that delivers a working CNGA1 gene to people whose disease is caused by changes in that gene.
-
-## NCT06292169
-A Randomized Control Trial to Evaluate Release Versus Non-release of Pectoralis Minor With Reverse Shoulder Arthroplasty
-
-Intervention: : Pectoralis Minor Release — The pectoralis minor is a muscle on the anterior chest wall attaching to the coracoid process. In the group undergoing pectoralis minor release, through the same deltopectoral incision that will not be extended or different as compared to the RSA only group, the pec minor will be exposed on the medial aspect of the coracoid at the upper part of the incision. It will be cut from its insertion on the coracoid while being careful to protect any neurovascular structures.
-: RSA — RSA is the current Standard of Care (SOC)
-Link: https://clinicaltrials.gov/study/NCT06292169
-
-SUMMARY: Reverse shoulder replacement may involve releasing the pectoralis minor muscle. This study compares release with no release.
 
 ## NCT06292208
 Phase I/II Study to Evaluate the Safety, Tolerability, Pharmacokinetic (PK) and Preliminary Efficacy of IBD0333 in Patients With Locally Advanced/Metastatic Solid Tumor or Non-Hodgkin Lymphoma

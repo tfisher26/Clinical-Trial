@@ -65,15 +65,6 @@ Link: https://clinicaltrials.gov/study/NCT06915597
 SUMMARY:
 
 
-## NCT07555080
-Comparison of Gastric Volume Changes Via Ultrasound After Ventilation With Endotracheal Tube, First-Generation Supraglottic Airway, and Second-Generation Supraglottic Airway in Pediatric Patients: A Prospective Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07555080
-
-SUMMARY:
-
-
 ## NCT06836947
 The Effect of Two Different Bathing Methods on Vital Signs and Comfort in Pediatric Intensive Care Unit:Bath Trial
 

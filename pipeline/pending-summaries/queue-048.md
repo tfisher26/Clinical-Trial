@@ -4884,18 +4884,6 @@ Link: https://clinicaltrials.gov/study/NCT07066033
 
 SUMMARY:
 
-## NCT07066046
-Artificial Intelligence-assisted Colonoscopy in the Detection and Characterization of Colorectal Lesions: Randomized Controlled Clinical Trial
-
-Intervention: : Colonoscopy — This single-center, randomized, open-label clinical trial will assess the effectiveness of artificial intelligence (AI)-assisted colonoscopy versus standard high-definition colonoscopy in detecting and characterizing colorectal lesions. Conducted over 12 months in São Paulo, Brazil, the study will include 100 adult patients undergoing elective colonoscopy.
-
-Participants will be stratified by age and randomized (1:1) after sedation. All lesions will be resected, recorded, and analyzed histologically. The intervention group will also include AI output data (CAD EYE).
-
-The primary goals are to evaluate adenoma detection rate (ADR) and AI diagnostic accuracy. Given the global burden of colorectal cancer (CRC), particularly in developing countries, this study aims to provide real-world data on the impact of AI in CRC screening.
-Link: https://clinicaltrials.gov/study/NCT07066046
-
-SUMMARY:
-
 ## NCT07066202
 Impact Assessment of SALSA (Sensing and Automation for Freedom, Security, Autonomy) Technological Solutions
 
@@ -13004,14 +12992,6 @@ Link: https://clinicaltrials.gov/study/NCT07185919
 
 SUMMARY:
 
-## NCT07185971
-PAVE (Parallactic Visual-Field Enhancement) System for Treatment of Chronic Visual Field Loss
-
-Intervention: : PAVE (Parallactic Visual-Field Enhancement) treatment using a virtual reality head mounted display — PAVE (Parallactic Visual-Field Enhancement) treatment is visual stimulation using a virtual reality head mounted display. The treatment is three times per week and entails two 7 minute sessions separated by a minimum 1 minute intermission. The actual therapy is preceded by a visual field assessment and is followed by a second visual field assessment.
-Link: https://clinicaltrials.gov/study/NCT07185971
-
-SUMMARY:
-
 ## NCT07185997
 A Global, Phase 3, Randomized, Multicenter, Open-Label Study to Evaluate the Efficacy and Safety of Firmonertinib Compared With Investigator's Choice of Osimertinib or Afatinib as First-Line Treatment in Participants Who Have Locally Advanced or Metastatic Non-Small-Cell Lung Cancer With Epidermal Growth Factor Receptor P-Loop and Alpha C-Helix Compressing (PACC) Uncommon Mutations (ALPACCA)
 
@@ -15371,14 +15351,6 @@ Comparison of the Effects of Different Exercise Modalities in Frail Elderly Peop
 
 Intervention: : Exercise Training — Adapted High Intensity Interval Training (HIIT), Moderate-Intensity Continuous training (MICT), therapeutic education workshops to help people become independent regarding their program
 Link: https://clinicaltrials.gov/study/NCT07211334
-
-SUMMARY:
-
-## NCT07211386
-Efficacy of the Erector Spinae Plane Block for Abdominal Pain From Gastrointestinal Malignancies
-
-Intervention: : Erector Spinae Plane Block — The abdominal viscera, from the stomach to midway through the sigmoid colon, derives its sensory innervation from afferent fibers that travel with, but are distinct from, the sympathetic nerve fibers from the 5th thoracic (T5) to the 2nd lumbar (L2) spinal levels (Moore et al). These fibers converge at the celiac plexus, located near the celiac artery and the aorta. From there, they bifurcate into the paravertebral sympathetic chain and subsequently ascend to the spinal cord and integrate into the central nervous system (Lohse et al). The celiac plexus block is an invasive procedure performed by an interventional anesthesiologist or palliative care specialist to lyse the celiac plexus and has been shown to reduce pain and opiate use in patients suffering from GI malignancy (Ashlock et al). While there are multiple methods to perform a celiac plexus block, it involves a steep needle trajectory either posteriorly through the retroperitoneum or anteriorly through the abdominal wall close
-Link: https://clinicaltrials.gov/study/NCT07211386
 
 SUMMARY:
 

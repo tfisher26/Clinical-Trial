@@ -12361,14 +12361,6 @@ Link: https://clinicaltrials.gov/study/NCT06934291
 
 SUMMARY:
 
-## NCT06934382
-A Phase 1 Study of Allogeneic Anti-CD7 CAR-T Cells (BEAM-201) in Relapsed/Refractory T-cell Acute Lymphoblastic Leukemia (T-ALL) or T-cell Lymphoblastic Lymphoma (T-LLy)
-
-Intervention: : Allogeneic anti-CD7 CAR-T cells (BEAM-201) — The investigational agent in this protocol is allogeneic anti-CD7 CART cells (BEAM-201). BEAM-201 is comprised of allogeneic anti-CD7 CAR-T cells edited by 4 gRNAs and a single mRNA encoding a CBE, then transduced with a lentiviral vector (LVV) encoding the anti-CD7 chimeric antigen receptor (CAR) molecule.
-Link: https://clinicaltrials.gov/study/NCT06934382
-
-SUMMARY:
-
 ## NCT06934564
 De-Implementation of Low-value Testing in Patients Undergoing Low-Risk Surgery
 
@@ -15100,14 +15092,6 @@ Endovenous Vacuum-assisted Laser Ablation (VALA) in the Treatment of Large Saphe
 Intervention: : Procedure: EVLA — Great or small saphenous vein occlusion with endovenous laser ablation using ELVeS Radial 2ring fiber
 : Procedure: VALA — Great or small saphenous vein occlusion with endovenous laser ablation using ELVeS Radial 2ring Pro fiber
 Link: https://clinicaltrials.gov/study/NCT06971068
-
-SUMMARY:
-
-## NCT06971094
-A Multicenter, Randomized, Open-Label, Standard-of-Care-Controlled, Phase III Clinical Trial to Evaluate the Safety and Efficacy of Intrathecal (IT) Injection of GC101 Adeno-Associated Virus Injection in the Treatment of Patients With Type 2 Spinal Muscular Atrophy (SMA)
-
-Intervention: : GC101 adeno-associated virus injection — Self-complementary recombinant adeno-associated viral vector (scAAV) containing a single-stranded transgene encoding a codon-optimized human SMN1 gene
-Link: https://clinicaltrials.gov/study/NCT06971094
 
 SUMMARY:
 

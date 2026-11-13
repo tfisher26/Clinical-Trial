@@ -1469,15 +1469,6 @@ Link: https://clinicaltrials.gov/study/NCT07117136
 SUMMARY:
 
 
-## NCT06542718
-Studying the Heterogeneity of Gestational Diabetes Mellitus: Cardio-Metabolic Alteration and Treatment Response in a Multi-Ethnic Population in Singapore (GDM-CARE)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06542718
-
-SUMMARY:
-
-
 ## NCT05945576
 National Cohort on Imprinting Disorders and Their Metabolic Consequences
 
@@ -6627,15 +6618,6 @@ Link Between the Metabolism of Cortisol and Bile Acids in Obese Patients Before 
 
 Intervention: : Blood and urine collection — Blood sampling urine collections before RYGP and 1 month and 1 year after.
 Link: https://clinicaltrials.gov/study/NCT04844684
-
-SUMMARY:
-
-
-## NCT07795333
-Young Athlete Body Project (YABP): A Cluster-Randomized Controlled Intervention Promoting Healthy Body Image and Preventing Eating Disorders Among Adolescent Athletes in Sports-Specialized Lower and Upper Secondary Schools
-
-Intervention: : Young Athlete Body Project — The Young Athlete Body Project is a five-week school-based intervention consisting of two 60-minute digital educational sessions followed by three 60-minute instructor-led group workshops. The educational sessions cover (1) nutrition in relation to health, puberty, and athletic performance, and (2) social media, body ideals, and mental health in sport. The workshop component is delivered in small, gender-specific groups and is based on kognitive dissonance theory. Workshop activities focus on reducing internalization of appearance ideals, promoting positive self-talk, critically evaluating media influences, and developing strategies for managing body-related pressures in sport. The intervention is adapted for adolescent athletes and tailored to the sporting context. All workshops are delivered according to a standardized manual by trained instructors.
-Link: https://clinicaltrials.gov/study/NCT07795333
 
 SUMMARY:
 

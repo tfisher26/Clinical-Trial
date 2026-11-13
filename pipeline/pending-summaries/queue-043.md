@@ -5105,14 +5105,6 @@ Link: https://clinicaltrials.gov/study/NCT04855786
 
 SUMMARY: Septic shock is a life threatening reaction to infection driven by inflammation. This pilot study tests draining lymph fluid from the thoracic duct outside the body to lower inflammatory chemicals in the blood.
 
-## NCT04856059
-Fabry Cardiomyopathy: Identification of Early Myocardial Structural and Tissue Abnormalities Using Multiparametric MRI
-
-Intervention: : Cardiac MRI, ECG/Holter and Blood Biomarkers — Cardiac MRI including T1/T2 mapping, ECG and blood biomarker evaluation will be performed at baseline and follow-up
-Link: https://clinicaltrials.gov/study/NCT04856059
-
-SUMMARY:
-
 ## NCT04857775
 Attachment and Child Health (ATTACH™)
 
@@ -6106,15 +6098,6 @@ Intervention: : Brigatinib — Brigatinib is a second generation novel, orally a
 Link: https://clinicaltrials.gov/study/NCT04925609
 
 SUMMARY: ALK positive anaplastic large cell lymphoma and inflammatory myofibroblastic tumors are rare cancers in children and young adults. This study tests brigatinib, a targeted pill, in patients whose tumors have ALK changes.
-
-## NCT04927338
-Phase II, Placebo-controlled Study of BacoMind® Bacopa Monnieri Standardized Extract in Gulf War Illness
-
-Intervention: : BacoMind® (Bacopa monnieri standardized extract) — BacoMind® (Bacopa monnieri standardized extract) 300 mg daily capsule.
-: Placebo — Daily placebo capsule identical in size, color, and shape to that of the Bacopa capsules.
-Link: https://clinicaltrials.gov/study/NCT04927338
-
-SUMMARY: Gulf War illness is a long lasting condition in veterans with symptoms such as fatigue, pain and memory problems. This study tests a standardized extract of the herb Bacopa monnieri against a placebo.
 
 ## NCT04927819
 Prospective Observational Study on Evolution of Extra-short Implants (<6.5 mm) Compared to Non-extra-short Implants (≥ 6.5 mm) Splinted on the Same Prosthesis

@@ -652,26 +652,6 @@ Link: https://clinicaltrials.gov/study/NCT07638670
 SUMMARY:
 
 
-## NCT07286487
-Effects of Glycyrrhetinic Acid on Human Skin in an Acute Irritant Contact Dermatitis Model
-
-Intervention: : SLS induced irritation — Skin irritation will be induced on 4 defined test sites on one forearm (randomly selected forearm) using 60 uL of 1% w/v sodium lauryl sulfate (SLS) aqueous solution under occlusion for a defined period to create a controlled model of acute irritant dermatitis.
-
-The contralateral forearm will remain untreated and serve as intact skin for comparison.
-
-Following the induction phase, all test products (placebo and active formulations) will be applied to both irritated and intact sites according to the treatment allocation.
-: No Treatment — Designated test area with no topical application after irritation (on the irritated forearm) and on corresponding intact skin (on the non-irritated forearm). Serves as a baseline reference for spontaneous recovery and physiological skin variability.
-: Placebo — Topical formulation identical in composition to the active preparations but without glycyrrhetinic acid.
-
-Used to evaluate the effect of the formulation vehicle on skin parameters. Applied daily to designated test sites on both irritated and intact forearm areas for the duration of the study.
-: Low Dose Glycyrrhetinic Acid Formulation — Topical formulation containing a low concentration of 18β-glycyrrhetinic acid. Designed to assess the effects of the active compound at a low dose on skin barrier recovery and skin parameters following SLS-induced irritation. The formulation is applied daily to designated test sites on both irritated and intact forearm areas for the duration of the study.
-: High Dose Glycyrrhetinic Acid Formulation — Topical formulation containing a high concentration of 18β-glycyrrhetinic acid. Designed to assess the effects of the active compound at a high dose on skin barrier recovery and skin parameters following SLS-induced irritation. The formulation is applied daily to designated test sites on both irritated and intact forearm areas for the duration of the study.
-: Intermediate Dose Glycyrrhetinic Acid Formulation — Topical formulation containing an intermediate concentration of 18β-glycyrrhetinic acid. Designed to assess the effects of the active compound at an intermediate dose on skin barrier recovery and skin parameters following SLS-induced irritation. The formulation is applied daily to designated test sites on both irritated and intact forearm areas for the duration of the study.
-Link: https://clinicaltrials.gov/study/NCT07286487
-
-SUMMARY:
-
-
 ## NCT06727370
 Cognitive Screening in Lung Cancer Patients
 
@@ -839,15 +819,6 @@ The Freiburg Registry on SpontanEous IntercrAnial Hypotension (SIH) & Post-duraL
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06711731
-
-SUMMARY:
-
-
-## NCT04565483
-Predictive Signature of Benralizumab Response
-
-Intervention: : Benralizumab Prefilled Syringe — Patients receive BENRALIZUMAB if they meet the criteria for inclusion and non-inclusion at the inclusion visit. Injections take place at the inclusion visit, at 1 month, 2 months, 4 months, 6 months, 8 months, 10 months and 12 months.
-Link: https://clinicaltrials.gov/study/NCT04565483
 
 SUMMARY:
 

@@ -1515,16 +1515,6 @@ Link: https://clinicaltrials.gov/study/NCT05634733
 SUMMARY:
 
 
-## NCT07473024
-Long-Term Behavioral Outcomes After pEEG-Guided Anesthesia in Children: A Follow-Up Study Using the Post-Hospitalization Behavior Questionnaire
-
-Intervention: : Processed EEG Monitoring — Processed electroencephalography monitoring was used intraoperatively to guide anesthetic depth using Patient State Index (PSI)
-: Standard Anesthesia Management — Standard intraoperative anesthesia management without the use of processed EEG monitoring.
-Link: https://clinicaltrials.gov/study/NCT07473024
-
-SUMMARY:
-
-
 ## NCT06842940
 Evaluating Slew Rate As a Predictor for Optimal Lead Fixation in Transvenous Cardiac Implantable Devices: a Prospective Multicenter Study
 

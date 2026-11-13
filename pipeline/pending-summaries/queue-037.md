@@ -2424,16 +2424,6 @@ Link: https://clinicaltrials.gov/study/NCT07439679
 SUMMARY:
 
 
-## NCT06938685
-Evaluation of the Efficacy of NeoThelium FT in the Healing of Chronic Diabetic Foot Ulcers: A Randomized Controlled Multicenter Crossover Trial
-
-Intervention: : Standard of Care — Wound cleansing, Sharps debridement, Dressing for moisture balance, Offloading
-: NeoThelium FT — NeoThelium FT is a dehydrated wound covering derived from donated human placental tissue. NeoThelium FT is a dual-layer membrane with amnion and chorion combination layers.
-Link: https://clinicaltrials.gov/study/NCT06938685
-
-SUMMARY:
-
-
 ## NCT06375551
 Refining and Pilot Testing a Decision Support Intervention to Facilitate Adoption of Evidence-Based Programs to Improve Parent and Child Mental Health
 
