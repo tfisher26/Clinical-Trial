@@ -3833,14 +3833,6 @@ Link: https://clinicaltrials.gov/study/NCT05660369
 
 SUMMARY: Glioblastoma is an aggressive brain tumor that is very hard to treat. This study tests CARv3-TEAM-E T cells, the patient's own engineered immune cells, injected into the brain's fluid spaces.
 
-## NCT05660460
-A Study of the Incidence and Treatment of Impaired Lung Function Among Socially Vulnerable Individuals at a Street Level
-
-Intervention: : Spirometry — The method of examination, Spirometry, is noninvasive (i.e. not an intervention that involves penetration into the body by means of incisions or injections.). It is a routine examination and there are no risks, adverse reactions, or discomforts associated with the examination.
-Link: https://clinicaltrials.gov/study/NCT05660460
-
-SUMMARY:
-
 ## NCT05660473
 Pediatric-inspired Regimen Combined With Venetoclax for Adolescent and Adult Patients With de Novo Philadelphia Chromosome-Negative Acute Lymphoblastic Leukemia
 
@@ -5791,14 +5783,6 @@ Intervention: : Partial Left Atrial Isolation — Partial electrical isolation o
 Link: https://clinicaltrials.gov/study/NCT05723536
 
 SUMMARY: Persistent atrial fibrillation can be hard to treat with standard ablation. This study compares hybrid endo epicardial partial left atrial isolation with endocardial ablation.
-
-## NCT05723913
-Postprandial Glucose Levels, Gut Microbiota and Supplementation With Functional Foods in Adults
-
-Intervention: : Dietary Supplement: A package containing a mix of functional foods — Participants will be provided with a nutritional strategy based on functional foods to use over the 2 week trial. These will be nopal, chía seeds, inulin, soy protein, agave extract and genistein.
-Link: https://clinicaltrials.gov/study/NCT05723913
-
-SUMMARY:
 
 ## NCT05723926
 Carotid Implants for PreveNtion of STrokE ReCurrEnce From Large Vessel Occlusion in Atrial Fibrillation Patients Treated With Oral Anticoagulation
@@ -13520,20 +13504,6 @@ Link: https://clinicaltrials.gov/study/NCT05975749
 
 SUMMARY: Stage II to III HER2 positive stomach cancer can come back after surgery. This study compares adding serplulimab and trastuzumab to chemotherapy with chemotherapy alone.
 
-## NCT05976139
-Treatment of Macular Oedema in Patients With Hereditary Retinal Dystrophies by Applying the Micropulsed Subthreshold Laser
-
-Intervention: : subthreshold treatment with micropulsed laser — The laser instrument used is the Q 577® Laser System, Iridex, wavelength 577 yellow. The standard pattern used is:
-
-* Power: 5% Duty Cycle
-* Power 250 mw
-* Pulse duration 200 ms
-* Spot size 100 micron
-* Pattern spacing 0.0 confluente, griglie 7x7
-Link: https://clinicaltrials.gov/study/NCT05976139
-
-SUMMARY: Macular edema can occur in hereditary retinal dystrophies and blur vision. This study tests micropulsed subthreshold laser treatment.
-
 ## NCT05976152
 Effect of Butyphthalide on Cognitive Level Change After Cerebral Vascular Event-a Randomized Control Trial (Be-CLEVER)
 
@@ -14409,16 +14379,6 @@ Multi-Dimensional MRI Spatial Heterogeneity Analysis for Predicting Key Genes an
 
 Intervention: : MR scanning; Clinical data collection — Multi-dimensional spatial heterogeneity analysis of MRI
 Link: https://clinicaltrials.gov/study/NCT06002711
-
-SUMMARY:
-
-## NCT06002763
-Evaluation of Patient-Reported Outcomes Measurement Information System (PROMIS)-29 v2.1 for Postpartum Women
-
-Intervention: : PROMIS-29 v2.1 (Patient-Reported Outcomes Measurement Information System) — PROMIS-29 is a survey designed to screen for pain, impairments in mood, physical function, and activities of daily living.
-: WHOQoLBREF (World Health Organization Quality of Life Brief Version) — The WHOQOL-BREF is a 26-item version of the 100-item WHOQOL-100 quality of life measure that addresses four quality of life domains: physical health, psychological health, social relationships and environment.
-: EQ-5D-3L1 (not an acronym) — The EQ-5D-3L1 is a generic measure of health status consisting of two parts. The first part assesses health in five dimensions: MOBILITY, SELFCARE, USUAL ACTIVITIES, PAIN / DISCOMFORT, ANXIETY/DEPRESSION. The second part of the questionnaire consists of a VAS on which the patient rates their perceived health from 0 (the worst imaginable health) to 100 (the best imaginable health).
-Link: https://clinicaltrials.gov/study/NCT06002763
 
 SUMMARY:
 

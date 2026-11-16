@@ -5932,15 +5932,6 @@ Link: https://clinicaltrials.gov/study/NCT07309900
 
 SUMMARY:
 
-## NCT07310264
-A Phase I, Randomized, Single Ascending Dose, Multiple Ascending Dose, Double-Blind Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of AX-5006 (Aka VT-5006) in Healthy Participants and Participants With Parkinson's Disease.
-
-Intervention: : VT-5006 — Oral Capsules, Active
-: Placebo — Oral Capsules, Matched Placebo
-Link: https://clinicaltrials.gov/study/NCT07310264
-
-SUMMARY:
-
 ## NCT07310316
 A Retrospective Cohort Study : Efficacy and Safety of Variceal Embolization Combined With Partial Splenic Artery Embolization in the Treatment of Variceal Bleeding in Cavernous Transformation of Portal Vein.
 
@@ -6244,15 +6235,6 @@ The Randomized Controlled Trial of Finerenone Therapy for Pediatric Hennoch Scho
 Intervention: : ACEI / ARB+finerenone — In the finerenone group, finerenone was administered orally on the basis of combined oral ACEI/ARB, with the dose calculated based on body surface area, once a day for 3 months.
 : ACEI/ARB — The control group was only given oral ACEI/ARB for 3 months.
 Link: https://clinicaltrials.gov/study/NCT07315191
-
-SUMMARY:
-
-## NCT07315308
-Preoperative Ultrasound-Guided Deep Parasternal Intercostal Plane Block Reduces Intraoperative Opioid Consumption in Adults Undergoing Cardiac Surgery Via Median Sternotomy
-
-Intervention: : Deep Parasternal Intercostal Plane Block — Bilateral ultrasound-guided deep parasternal intercostal plane block performed after induction of general anesthesia, with injection of local anesthetic into the fascial plane between the internal intercostal and transversus thoracis muscles for postoperative analgesia.
-: Standard Multimodal Analgesia — Standard postoperative multimodal analgesia administered according to institutional cardiac anesthesia protocols, without any regional anesthesia technique.
-Link: https://clinicaltrials.gov/study/NCT07315308
 
 SUMMARY:
 

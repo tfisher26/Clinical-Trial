@@ -531,15 +531,6 @@ Link: https://clinicaltrials.gov/study/NCT06526247
 SUMMARY:
 
 
-## NCT05775211
-Effects of Intrauterine Administration of Autologous Peripheral Blood Mononuclear Cells (PBMC) Modulated With Interferon Tau (IFNt) on Endometrial Cell Populations
-
-Intervention: : Intrauterine administration of PBMC immunomodulated with IFNt — Standard density gradient centrifugation will be performed to obtain autologous PBMC from patients' peripheral blood (9 ml). Isolated cells will be suspended in RPMI 1640 supplemented with 10% HSA (human serum albumin) and incubated in the presence of 500 IU/ml IFNt for 24 h at 37˚C. The cultured cell suspension will be introduced into the uterine cavity via a catheter.
-Link: https://clinicaltrials.gov/study/NCT05775211
-
-SUMMARY:
-
-
 ## NCT06403189
 Profound Cerebral Folate Deficiency as a Clinical Model for Identification of MRI and Biochemical Signatures of Choroid Plexus Dysfunction
 

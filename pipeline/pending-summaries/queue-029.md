@@ -353,15 +353,6 @@ Link: https://clinicaltrials.gov/study/NCT06987812
 SUMMARY:
 
 
-## NCT06177106
-An Assessment of Acute Solar UV-induced PD-L1/PD1 Expression in Sun Damaged & Sun Protected Human Skin of Participants With and Without History of SCC
-
-Intervention: : Solar Simulated Light — Acute SSL will be delivered to sun damaged skin at a rate of two-times the minimal erythema dose of each individual subject. Minimal erythema dose is defined as the smallest dose of energy necessary to produce confluent erythema with four distinct borders at 22-26 hours post-exposure.
-Link: https://clinicaltrials.gov/study/NCT06177106
-
-SUMMARY:
-
-
 ## NCT04850456
 Treatment Strategy of Human Gamma Globulin in Children With Severe Infection Complicated With Inflammatory Storm : A Cohort Study
 

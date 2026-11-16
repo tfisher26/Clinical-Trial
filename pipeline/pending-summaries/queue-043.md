@@ -4351,15 +4351,6 @@ Link: https://clinicaltrials.gov/study/NCT04794777
 
 SUMMARY:
 
-## NCT04795843
-MovetheHip-trial: The Effectiveness of Exercise and Patient Education Compared With Usual Care on Self-reported Pain in Patients With Hip Dysplasia
-
-Intervention: : Exercise and patient education — Over a period of 6-months, patients will be offered eight one-to-one supervised training sessions. In these sessions, patients will be instructed in a home-based exercise programme and given patient education. The programme includes four exercises covering strength and stability training. The exercises will be performed in sets of three with a minimum of 5 repetitions, and patients will be instructed to perform a minimum of three training sessions each week. Each of the exercises can be progressed through three levels of difficulty, allowing for individualised treatment with regard to exercise quality and perceived exertion according to the Borg CR10 scale. Exercises will be performed on a perceived exertion level from somewhat hard (level 5) to very hard (level 7). Patient education includes pain management, a focus on exercise adherence and progression, and advice on physical activity.
-: Usual Care — Patients will follow usual care, including an individual consultation on self-management of hip symptoms and general advice on exercise and physical activity.
-Link: https://clinicaltrials.gov/study/NCT04795843
-
-SUMMARY: Hip dysplasia is a condition where the hip socket does not fully cover the ball of the thigh bone, which can cause pain. This study compares six months of exercise and patient education with usual care.
-
 ## NCT04797143
 Impact of a Multidisciplinary Consultation Program on Drug Adherence in First Oral Anticancer Treatment
 
@@ -6886,14 +6877,6 @@ Link: https://clinicaltrials.gov/study/NCT04988672
 
 SUMMARY:
 
-## NCT04988724
-Impact of Physical Exercise at a Hospital Tested in a Pilot Trial
-
-Intervention: : Exercise training — Exercise training with aerobic and strength training, 30 min per session
-Link: https://clinicaltrials.gov/study/NCT04988724
-
-SUMMARY:
-
 ## NCT04989439
 Comparison of Computertomography Scan, Electrical Impedance Tomography, and Ultrasound of the Lung in Infants - A Prospective Explorative Observational Study
 
@@ -7346,17 +7329,6 @@ Link: https://clinicaltrials.gov/study/NCT05015296
 
 SUMMARY:
 
-## NCT05016219
-Phase 2 - The Use of Rhythmic Light Therapy to Entrain Gamma Oscillations and the Circadian System in Patients With Alzheimer's Disease
-
-Intervention: : Circadian-Effective Light — Narrowband blue light
-: Rhythmic Light — 40 hertz (Hz) flicker
-: Placebo Light — Narrowband red light
-: Placebo Rhythmic Light — Random flicker for placebo rhythmic effect
-Link: https://clinicaltrials.gov/study/NCT05016219
-
-SUMMARY: Alzheimer's disease often disrupts sleep and daily rhythms. This study tests rhythmic light therapy, including narrowband blue light, to align the body clock and brain rhythms.
-
 ## NCT05017311
 Optimized Predictive Treatment In Medications for Unipolar Major Depression (OPTIMUM-D)
 
@@ -7547,14 +7519,6 @@ A Phase 1b, Multicenter, Open Label Study to Evaluate the Safety, Pharmacokineti
 
 Intervention: : AT-1501 — Investigative Arm
 Link: https://clinicaltrials.gov/study/NCT05027906
-
-SUMMARY:
-
-## NCT05028309
-Effects of Obesity in the Aged
-
-Intervention: : Mechanical unloading of the Thorax using an external cuirass — External cuirass (i.e., a plastic shell over the thorax) will be used to mechanically unload the chest wall. The cuirass has different operating modes. It can generate a constant negative pressure over the chest wall (e.g., -20cmH2O) or it can be triggered off mouth flow so it can generate a negative pressure on the chest wall during inspiration (e.g., -21cmH2O) and a positive pressure during expiration (e.g., +7cmH2O).
-Link: https://clinicaltrials.gov/study/NCT05028309
 
 SUMMARY:
 
@@ -11066,15 +11030,6 @@ Link: https://clinicaltrials.gov/study/NCT05255705
 
 SUMMARY:
 
-## NCT05257213
-Intrauterine Adhesions Prevention: the Use of Heparin Solution Compared to Application of Anti-adhesion Barrier Gel After Operative Hysteroscopy
-
-Intervention: : Heparin solution — 3 ml saline solution containing 5000 IU heparin.
-: Anti-adhesion barrier gel — 2 ml biodegradable barrier gel containing sodium hyaluronate (10 mg/ml), sodium chloride (8.5 mg/ml), disodium hydrogen phosphate (0.34mg/ml), sodium dihydrogen phosphate (0.14 mg/ml) and water for injection (QS to weight).
-Link: https://clinicaltrials.gov/study/NCT05257213
-
-SUMMARY: Scar tissue can form inside the uterus after hysteroscopic surgery and affect fertility. This study compares rinsing with a heparin solution with applying an anti adhesion barrier gel to prevent these adhesions.
-
 ## NCT05257434
 Postoperative Outcomes in Patients With Hepato-biliary-pancreatic Cancer According to inBody Test
 
@@ -11631,16 +11586,6 @@ Observational Study of the Safety of Intravenous Artesunate Treatment of Pregnan
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05285735
-
-SUMMARY:
-
-## NCT05286034
-Artificial Intelligence-assisted Decision-making to Improve Women's Participation to Cervical Cancer Screening in Occitanie Region-France
-
-Intervention: : Decision aid tailored to women with lower educational attainment,accessible via artificial intelligence-based Chatbot platforms — Non-compliant women those that have not been screened for more than 4 years and living in the disadvantaged areas will be sent screening reminder letters to perform HPV self-sampling (HPVss) test, with access to decision aid tailored to women with lower education attainment and available via Chatbot platforms.
-
-ChatBot will deliver information in a responsive, conversational way via text and spoken language in multiple languages through multiple mobile channels.
-Link: https://clinicaltrials.gov/study/NCT05286034
 
 SUMMARY:
 

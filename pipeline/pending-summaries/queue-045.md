@@ -636,14 +636,6 @@ Link: https://clinicaltrials.gov/study/NCT06084936
 
 SUMMARY: Mantle cell lymphoma that comes back or stops responding is hard to treat. This study compares glofitamab alone with the doctor's choice of treatment.
 
-## NCT06085118
-Prospective National Observatory for Cow's Milk Protein Allergy.
-
-Intervention: : Pepticate® Syneo® — Introduction of the nutritional treatment Pepticate® Syneo® (high protein hydrolysate), as a foodstuff for special medical purposes (product already available on the market).
-Link: https://clinicaltrials.gov/study/NCT06085118
-
-SUMMARY:
-
 ## NCT06085144
 Prospective Evaluation of Emgality (Galcanezumab) in Breastmilk in Adult Women With Migraine
 
@@ -2568,16 +2560,6 @@ Link: https://clinicaltrials.gov/study/NCT06142435
 
 SUMMARY:
 
-## NCT06142448
-Unravelling the Neural Mechanisms Underlying Compensation Strategies for Gait Impairments in Parkinson's Disease: a Transnational, Multimodal Approach
-
-Intervention: : Cueing app — All participants that are included come to the movement lab for the baseline measurement. The baseline measurement consists out of extensive clinimetrics (for example MDS-UPDRS) to identify patient characteristics. With the use of an objective gait assessment, the effectiveness of both internal and external cueing is determined. This will divide the participants in three groups; responders, non-responders and in between. Participants who clearly respond to either internal or external cueing (determined as the responders) are asked to apply the working form of cueing in daily life during the six-month follow-up. During this period the participants will use a mobile application that can provide them with a rhythmic auditory stimulus and records the use of this application.
-
-After 6 months, both the responders and non-responders are asked to return to the lab for the follow up measurement in which the baseline measurement is repeated to evaluate the effect of long-term cueing.
-Link: https://clinicaltrials.gov/study/NCT06142448
-
-SUMMARY:
-
 ## NCT06142747
 SUper-Resolution Ultrasound Imaging of Erythrocytes (SURE) in Normal and Tendinopathic Tendons
 
@@ -4295,14 +4277,6 @@ Link: https://clinicaltrials.gov/study/NCT06185192
 
 SUMMARY:
 
-## NCT06185530
-Stress Echocardiography With Carotid Ultrasound vs Routine CT Coronary Angiography in Suspected Chronic Coronary Syndrome for the Detection of Obstructive Coronary Disease and Prevention of Adverse Outcomes.
-
-Intervention: : Detection of obstructive coronary disease — Detection of obstructive coronary disease
-Link: https://clinicaltrials.gov/study/NCT06185530
-
-SUMMARY:
-
 ## NCT06185608
 The Effects of Various Concentrations of Ropivacaine on the Onset and Duration of Ultrasound-guided Ankle Blocks in Patients Undergoing Hallux Valgus Repair Surgery - a Randomized, Double-blinded, Parallel-group Interventional Study
 
@@ -4800,14 +4774,6 @@ Intervention: : Adapted Stress Management Program — Participants will receive 
 Link: https://clinicaltrials.gov/study/NCT06199570
 
 SUMMARY: Waiting for test results is very stressful for people with cancer. This pilot study tests an adapted stress management program for patients awaiting news.
-
-## NCT06199713
-Correlation Between Early Interval 18F-Fluorodeoxyglucose Positron Emission Tomography/Computed Tomography (PET/CT) and Circulating Tumor DNA (ctDNA) in Advanced Melanoma Patients Treated With Immune Checkpoint Inhibitors
-
-Intervention: : 18F-Fluorodeoxyglucose Positron Emission Tomography/Computed Tomography — research scan 3-4 weeks after start of immunotherapy
-Link: https://clinicaltrials.gov/study/NCT06199713
-
-SUMMARY:
 
 ## NCT06200168
 A Study on Electroacupuncture Combined With Olanzapine-contained Four-drug Antiemetic Therapy for the Prevention of Highly Emetogenic Chemotherapy-induced Nausea and Vomiting in Patients With Breast Cancer (ECO Study)

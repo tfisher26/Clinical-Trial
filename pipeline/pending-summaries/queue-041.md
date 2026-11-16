@@ -1459,16 +1459,6 @@ Link: https://clinicaltrials.gov/study/NCT05943249
 SUMMARY:
 
 
-## NCT07084168
-Multimedia Aid for Genetic Testing in Gynecologic Oncology
-
-Intervention: : Educational videos — Educational videos about genetic testing will be provided. Subjects will be asked to view one of three videos (an endometrial cancer/Lynch Syndrome video or a longer or shorter version of an ovarian cancer video) relevant to their cancer diagnosis and genetic testing.
-: Survey — Subjects will be asked to complete a brief satisfaction survey.
-Link: https://clinicaltrials.gov/study/NCT07084168
-
-SUMMARY:
-
-
 ## NCT06531798
 Post-marketing Phase IV, Multicenter, Prospective Study to Observe the Safety and Tolerability of Breztri aerosphereTM Containing a Fixed Dose Combination of Budesonide 160 mcg/ Glycopyrronium 7.2 mcg/ Formoterol Fumarate Dehydrate 5 mcg in Patients With Moderate to Severe Chronic Obstructive Pulmonary Disease
 

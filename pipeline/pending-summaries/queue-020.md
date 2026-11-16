@@ -1442,15 +1442,6 @@ Link: https://clinicaltrials.gov/study/NCT06650423
 SUMMARY:
 
 
-## NCT07173322
-The Impact of CAR-T Cell Therapy on Fertility; A Patient Survey
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07173322
-
-SUMMARY:
-
-
 ## NCT07398781
 The PACE Study (Present-Moment Awareness, Attention, Compassion, Emotion Regulation): Effects of School-Based Mindfulness and Compassion Interventions
 

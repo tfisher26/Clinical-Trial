@@ -85,15 +85,6 @@ Link: https://clinicaltrials.gov/study/NCT07103876
 SUMMARY:
 
 
-## NCT06838689
-Participatory Approach to Qualitative Research (PAQ): Comparing Two Methods of Engaging Stakeholders in Qualitative Research
-
-Intervention: : Comparison of two standard of care regimens — Participatory Approaches to Qualitative Research (PAQ): Comparing Two Approaches to Patient, Public and Clinician Involvement (PPCI) in Qualitative Research: PAQ and CAB (Community Advisory Boards)
-Link: https://clinicaltrials.gov/study/NCT06838689
-
-SUMMARY:
-
-
 ## NCT07344727
 Impact of Haskap Berries on Recovery From High Intensity Resistance Training
 

@@ -2520,15 +2520,6 @@ Link: https://clinicaltrials.gov/study/NCT06995183
 SUMMARY:
 
 
-## NCT07552441
-Investigation of the Effect of Lip, Cheek, and Tongue Muscle Pressure on Maxillary Transverse Development
-
-Intervention: : Orolingual Manometry using IOPI Pro Deluxe Kit — A standardized measurement of perioral muscle pressures (tongue, lip, and cheek) will be conducted using the Iowa Oral Performance Instrument (IOPI). The procedure involves placing a disposable, air-filled bulb at specific intraoral locations (e.g., retro-incisal for tongue pressure, buccal vestibule for cheek pressure). Participants are instructed to exert their maximum isometric force against the bulb for a specific duration. Each measurement is performed three times with 30-second rest intervals, and the peak pressure is recorded in kilopascals (kPa). This procedure is purely diagnostic and non-invasive, performed once for each participant before the initiation of any orthodontic intervention.
-Link: https://clinicaltrials.gov/study/NCT07552441
-
-SUMMARY:
-
-
 ## NCT07054177
 Salivary Metabolomics of Pregnancy and Periodontal Disease Related Metabolic Pathways
 
@@ -5364,16 +5355,6 @@ Intervention: : Biospecimen Collection — Undergo blood sample collection
 : Questionnaire Administration — Ancillary studies
 : Respiratory Therapy — Participate in breathing sessions
 Link: https://clinicaltrials.gov/study/NCT06788886
-
-SUMMARY:
-
-
-## NCT07058883
-Prospective, Randomized, Placebo-Controlled, Multicenter Clinical Trial Evaluating the Efficacy and Safety of Juläine (Polylactic Acid) in the Treatment of Facial Acne Scars
-
-Intervention: : Juläine — Juläine is a sterile injectable implant containing poly-L-lactic acid microspheres, intended for intradermal use to improve skin depressions from acne scars.
-: Sterile Saline (Placebo) — Sterile saline solution used as a placebo control, administered in the same volume and schedule as Juläine.
-Link: https://clinicaltrials.gov/study/NCT07058883
 
 SUMMARY:
 

@@ -5919,14 +5919,6 @@ Link: https://clinicaltrials.gov/study/NCT07081555
 
 SUMMARY:
 
-## NCT07081620
-How Long Does it Take for Percutaneous Intercostal Cryoneuromodulation to Produce Cryoanalgesia? A Prospective Observational Study.
-
-Intervention: : Physical examination of chest skin — soft touch and thermal (cold and warm) examination
-Link: https://clinicaltrials.gov/study/NCT07081620
-
-SUMMARY:
-
 ## NCT07081646
 A Phase 1b/2 Study of AZD0120 (Also Known as GC012F), a Chimeric Antigen Receptor T Cell Therapy Targeting CD19 and B Cell Maturation Antigen in Participants With Relapsed or Refractory AL Amyloidosis.
 

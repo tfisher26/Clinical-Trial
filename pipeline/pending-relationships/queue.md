@@ -103322,3 +103322,30 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT03052192
+Biological Aging, Medication, Malnutrition and Inflammation Among Acutely Ill and Healthy Elderly.
+Conditions: metabolic/malnutrition, other/neurogenic_inflammation
+
+Inclusion criteria:
+"""
+* ≥65 years
+* Acute medical patient
+* Understands and speaks Danish
+"""
+
+RELATIONSHIP:
+
+## NCT06144593
+The Metabolic Impact of Intermittent Carbohydrate Restriction in Individuals With Type 2 Diabetes
+Conditions: metabolic/diabetes_mellitus_type_2, metabolic/metabolic_syndrome
+
+Inclusion criteria:
+"""
+* Men or women
+* 35-75 years old
+* BMI \>27 kg/m2
+* Known type 2 diabetes in stable glucose lowering therapy (for three months) or with HbA1c \>48 mmol/mol if no glucose lowering therapy
+"""
+
+RELATIONSHIP:
+

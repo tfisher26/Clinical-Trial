@@ -1441,15 +1441,6 @@ Link: https://clinicaltrials.gov/study/NCT06440148
 SUMMARY:
 
 
-## NCT04754854
-Reduction of Blood Recirculation in Veno-Venous ECMO Through Ultrasound Dilution Measurements (ECMO Circulation Study)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04754854
-
-SUMMARY:
-
-
 ## NCT06903923
 Bone Metabolism in Adolescents Undergoing GLP-1 Receptor Agonist Therapy
 
@@ -6490,16 +6481,6 @@ Intervention: : nPOC Testing Intervention Package — The intervention package w
 3. Promotional package to encourage patient attendance and utilisation of tests at HCFs by practitioners in the intervention areas;
 4. TB household contact investigation using the new test according to an algorithm with community health volunteers (cadres) involvement in the intervention areas.
 Link: https://clinicaltrials.gov/study/NCT07293455
-
-SUMMARY:
-
-
-## NCT07470645
-The Efficacy of Probiotic Supplementation in Reducing Stress and Anxiety: A Randomized, Placebo-Controlled Study in Healthy Students During the Examination Period
-
-Intervention: : Probiotics — Lactobacillus plantarum LP140 and Bifidobacterium breve BB010
-: Placebo — Maltodextrin
-Link: https://clinicaltrials.gov/study/NCT07470645
 
 SUMMARY:
 

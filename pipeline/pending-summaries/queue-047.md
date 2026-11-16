@@ -2854,14 +2854,6 @@ Link: https://clinicaltrials.gov/study/NCT06791551
 
 SUMMARY:
 
-## NCT06791603
-The Impact of Social Media-delivered Chemotherapy-related Side Effects Education for Breast Cancer Patients Receiving First Time Chemotherapy
-
-Intervention: : Standardized chemotherapy education + video — Videos will be provided with patients and they will watch videos during the visit. The information regarding the prevention and management of side effects and further instructions when to visit hospital. Patients will have access to videos and watch videos after leaving the hospital for the entire treatment course
-Link: https://clinicaltrials.gov/study/NCT06791603
-
-SUMMARY:
-
 ## NCT06791915
 The Effect of Mechanical Ventilation on Radiofrequency Ablation in The Treatment of Atrial Fibrillation.
 
@@ -8024,14 +8016,6 @@ Link: https://clinicaltrials.gov/study/NCT06870045
 
 SUMMARY:
 
-## NCT06870591
-Pivotal Method-Comparison Study for the Cardiac Performance System (CPS) to Measure Hemodynamic Parameters
-
-Intervention: : Cardiac Performance System (CPS) — CPS is a non-invasive platform for hemodynamic assessment that uses acoustic sensors and electrocardiogram electrodes.
-Link: https://clinicaltrials.gov/study/NCT06870591
-
-SUMMARY:
-
 ## NCT06870799
 Randomized Controlled Trial Comparing Closed Face Masks vs Surface Guided Radiation Therapy for Head and Neck Radiotherapy
 
@@ -13171,15 +13155,6 @@ Bu/Cy/Flu/ATG Versus Bu/Cy/ATG Conditioning Regimen in Elderly AML Patients Rece
 Intervention: : Bu/Flu/Cy/ATG — The Bu/Flu/Cy/ATG conditioning regimen consists of the following components: Ara-C (2 g/m²/day, injected i.v.) on days-10 and-9; Bu (0.8 mg/kg, q6h, injected i.v.) on days -8 to -6; Flu (30 mg/m²/day, injected i.v.) from day-6 to day-2; Cy (1.0 g/m²/day, injected i.v.) on days-5 and-4; and ATG (2.5 mg/kg/day) on days-5 to -2.
 : Bu/Cy/ATG — The Bu/Cy/ATG conditioning regimen consists of the following components: Ara-C (4 g/m²/day, injected i.v.) on day-9; Bu (0.8 mg/kg, q6h, injected i.v.) on days -8 to -6; Cy (1.8 g/m²/day, injected i.v.) on days-5 and-4; and ATG (2.5 mg/kg/day) on days-5 to -2.
 Link: https://clinicaltrials.gov/study/NCT06946602
-
-SUMMARY:
-
-## NCT06946615
-Exploratory Clinical Study of Combined Claudin18.2-Targeted CAR-DC and CAR-T Therapy in Patients With Advanced Colorectal Cancer
-
-Intervention: : Claudin18.2-targeted CAR-T Cells — Autologous T cells genetically modified to express a chimeric antigen receptor (CAR) targeting Claudin18.2.
-: Claudin18.2-targeted CAR-DCs — Autologous dendritic cells (DCs) genetically modified to express a chimeric antigen receptor (CAR) targeting Claudin18.2.
-Link: https://clinicaltrials.gov/study/NCT06946615
 
 SUMMARY:
 
