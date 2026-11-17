@@ -1950,17 +1950,6 @@ Link: https://clinicaltrials.gov/study/NCT05632419
 SUMMARY:
 
 
-## NCT04981119
-An Observational Study Obtaining Solid Tumor Tissue From Participants and Apheresis for CAR T-Cell Therapy Manufacturing
-
-Intervention: : Apheresis — Apheresis procedure performed for collection of PBMCs.
-: Next Generation Sequencing (NGS) — NGS on tumor tissue and a matched normal sample for loss of heterozygosity in tumor tissue and tumor tissue markers.
-: Long Range NGS HLA typing — Long range NGS on whole blood to determine germline HLA type.
-Link: https://clinicaltrials.gov/study/NCT04981119
-
-SUMMARY:
-
-
 ## NCT06694155
 Whey Protein Ingestion and Glucose Control in Pre- and Post Diabetic Individuals
 

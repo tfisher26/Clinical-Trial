@@ -3846,15 +3846,6 @@ Link: https://clinicaltrials.gov/study/NCT06177600
 
 SUMMARY:
 
-## NCT06177613
-Advantages of Early Intrauterine Transfer of "Blank" Culture Medium Prior to 1st or 2nd Transfer of Thawed Embryo(s). Randomized, Single-blind, Multicenter Controlled Trial.
-
-Intervention: : Blank culture transfer — A maximum of 0.1 ml of gassed embryo culture medium preheated to 37°C is injected into the uterine cavity transcervically using an embryo transfer catheter placed just beyond the internal os, two to 3 days before transfer of the thawed embryo
-: Sham transfer — An intermediate transfer step is added two or three days before the planned transfer of the frozen embryo but with an empty catheter.
-Link: https://clinicaltrials.gov/study/NCT06177613
-
-SUMMARY: Implantation can fail after thawed embryo transfer. This study tests transferring blank culture medium into the uterus before the first or second transfer of thawed embryos.
-
 ## NCT06177743
 Evaluation of Effectiveness and Safety of Coroflex ISAR NEO Stent in Routine Clinical Practice; A Multicenter, Prospective Observational Study
 
@@ -6214,14 +6205,6 @@ Intervention: : TEACH — TEACH is a cognitive behavioral coping skills program.
 Link: https://clinicaltrials.gov/study/NCT06232304
 
 SUMMARY: Childhood onset lupus can affect quality of life and mental health. This study tests TEACH, a cognitive behavioral program, to improve quality of life.
-
-## NCT06233513
-Behavioral and Neural Measures of Speech Motor Control
-
-Intervention: : Exp 3 Speaking Task — Participant will sit in front of a computer screen in a quiet room and to produce speech based on what is on the screen. Participant may see real words or nonsense words to read. Investigators may play sounds through headphones and ask the participant to repeat them. Participant speech will be recorded by a microphone. This task takes about one hour to complete.
-Link: https://clinicaltrials.gov/study/NCT06233513
-
-SUMMARY:
 
 ## NCT06234176
 Influence of Psychomotor Therapy on Quality of Life in Patients With a Major Depressive Disorder: a Randomized Controlled Trial

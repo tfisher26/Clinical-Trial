@@ -1817,16 +1817,6 @@ Link: https://clinicaltrials.gov/study/NCT07042009
 SUMMARY:
 
 
-## NCT05568966
-Collection of Venous and Capillary Blood Samples for the Research, Optimisation and Calibration of New Diagnostic Devices 2
-
-Intervention: : Venous blood draw — Venepuncture to draw up to 24mL of venous blood.
-: Fingerstick — Capillary blood draw
-Link: https://clinicaltrials.gov/study/NCT05568966
-
-SUMMARY:
-
-
 ## NCT06033404
 Registry of Patients Undergoing Anesthesia or Intensive Care Maneuvers
 

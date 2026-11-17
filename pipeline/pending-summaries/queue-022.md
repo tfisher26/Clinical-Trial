@@ -760,15 +760,6 @@ Link: https://clinicaltrials.gov/study/NCT07597018
 SUMMARY:
 
 
-## NCT05927350
-Research Participation With Transgender and Gender-Diverse Youth
-
-Intervention: : Survey — Survey asking about sociodemographics, pediatric research participation, experience with research, gender minority stress and resilience, vaccine hesitancy, medical mistrust, and connectedness to the LGBT community
-Link: https://clinicaltrials.gov/study/NCT05927350
-
-SUMMARY:
-
-
 ## NCT07597876
 SMAtteo COvid19 REgistry (SMACORE)
 

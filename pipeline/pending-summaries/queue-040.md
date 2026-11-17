@@ -789,15 +789,6 @@ Link: https://clinicaltrials.gov/study/NCT07451821
 SUMMARY:
 
 
-## NCT05724121
-Observational Study of Cardiac Arrhythmias During Treatment With BTK Inhibitors or Venetoclax
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05724121
-
-SUMMARY:
-
-
 ## NCT06917716
 Translation and Validation of a Chinese Version of the Comprehensive Pain Assessment Tool Short Form (COMPAT-SF) in Patients With Chronic Pancreatitis
 
@@ -2932,16 +2923,6 @@ A Clinical Observation Study of a Chinese Patent Medicine Combined With Tamsulos
 Intervention: : Tamsulosin Hydrochloride Sustained-Release Capsules — Tamsulosin is an alpha-1 adrenergic receptor antagonist used as standard therapy to relieve lower urinary tract symptoms by relaxing the smooth muscle of the bladder neck and prostate. This study uses 0.2 mg sustained-release capsules administered orally once daily at bedtime for 8 weeks. The medication (National Drug Approval Number: H20000681) is manufactured by Jiangsu Hengrui Medicine Co., Ltd. It is administered to participants in both the control arm (monotherapy) and the experimental arm (combination therapy).
 : Lingze Tablets — Lingze tablets are a traditional Chinese patent medicine composed of herbal extracts including Rhizoma Alismatis, Poria, Radix Rehmanniae Preparata, Rhizoma Curculiginis, and Herba Epimedii. According to traditional Chinese medicine theory, it tonifies kidney qi, clears dampness and heat, and promotes blood circulation to alleviate urinary symptoms. In this study, it is administered orally at 4 tablets three times daily for 8 weeks, in combination with tamsulosin, to participants in the experimental arm only. The product (National Drug Approval Number: Z20110050) is manufactured by Zhejiang Conba Pharmaceutical Co., Ltd.
 Link: https://clinicaltrials.gov/study/NCT07357324
-
-SUMMARY:
-
-
-## NCT07586189
-Comparison of Hemodynamic Responses During Anesthesia Induction Using Eleveld and Schnider Target-Controlled Infusion Models. A Randomized Trial
-
-Intervention: : TCI Propofol Injection Models- Eleveld — Patients in this group will receive propofol for anesthetic induction using target-controlled infusion based on the Eleveld pharmacokinetic/pharmacodynamic model. Standard monitoring will include electrocardiography, peripheral oxygen saturation, invasive arterial blood pressure, heart rate, and bispectral index monitoring. Fentanyl 2 mcg/kg and rocuronium 0.6 mg/kg will be administered according to the study protocol. Hemodynamic variables and BIS values will be recorded before induction and at 1, 3, 5, and 10 minutes after induction.
-: TCI Propofol Injection Schnider — Patients randomized to the Schnider group will receive propofol for anesthetic induction using target-controlled infusion based on the Schnider pharmacokinetic/pharmacodynamic model. Propofol will be administered via a TCI system according to the study protocol. Standard monitoring will include electrocardiography, peripheral oxygen saturation, invasive arterial blood pressure, heart rate, and bispectral index monitoring. Fentanyl 2 mcg/kg and rocuronium 0.6 mg/kg will be administered as part of the standardized induction protocol. Hemodynamic variables and BIS values will be recorded before induction and at 1, 3, 5, and 10 minutes after induction.
-Link: https://clinicaltrials.gov/study/NCT07586189
 
 SUMMARY:
 

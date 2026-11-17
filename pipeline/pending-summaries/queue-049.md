@@ -3610,19 +3610,6 @@ Link: https://clinicaltrials.gov/study/NCT07282301
 
 SUMMARY:
 
-## NCT07282522
-Investigation of Somatosensory Perception, Pain, Kinesiophobia, and Upper Extremity Functional Skills in Cervical Disc Herniation: A Case-Control Study
-
-Intervention: : Somatosensory Perception Tests — Tactile Localization Test The tactile localization test assesses touch perception. Finger Recognition Test The participant is asked to point to their finger, which has been touched with a pen, while their eyes are closed.
-
-Double-Touch Stimulus Perception Test This test is based on the identification of two separate stimuli presented simultaneously.
-: The Visual Analog Scale — The Visual Analog Scale evaluates the intensity of pain felt by patients in different activities and time periods (rest, activity and night) in centimeters (cm).
-: Pain Threshold and Tolerance Assessment — Participants' pain threshold and tolerance to pressure are assessed using a digital algometer (JTech Medical Industries, ZEVEX Company).
-: Upper extremity functionality — Upper extremity functionality will be assessed using the DASH and Purdue Pegboard Manual Dexterity Test.
-Link: https://clinicaltrials.gov/study/NCT07282522
-
-SUMMARY:
-
 ## NCT07282574
 A Multi-center, Double-blind, Placebo-controlled, Phase II Study Evaluating the Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of RO7268489, a Monoacylglycerol Lipase Inhibitor, as Add-on Therapy to Ocrelizumab, in Participants With Progressive Forms of Multiple Sclerosis
 
@@ -6437,14 +6424,6 @@ The Influence of Task-Oriented Learning on College Students' Creative Self-Effic
 Intervention: : robot training — robot backend design and control training
 : control group — Traditional class (not-robot )
 Link: https://clinicaltrials.gov/study/NCT07318246
-
-SUMMARY:
-
-## NCT07318402
-Operator Radiation Exposure During Image-Guided Robotic-Assisted Bronchoscopy: A Multicenter Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07318402
 
 SUMMARY:
 
@@ -14680,14 +14659,6 @@ The Pain Reduction Using Immersive Virtual Reality During Wound Care Evaluation 
 
 Intervention: : Rendever Immersive Virtual Reality Platform — IVR headsets will provide calming, low-intensity scenes-like watching puppies in a meadow-to provide distraction and help reduce pain during wound care.
 Link: https://clinicaltrials.gov/study/NCT07447830
-
-SUMMARY:
-
-## NCT07447882
-Unilateral M1 Anodal tDCS to Enhance Learning in a Gross Movement Videogame Task
-
-Intervention: : tDCS — Soterix 1X1 tDCS stimulation device
-Link: https://clinicaltrials.gov/study/NCT07447882
 
 SUMMARY:
 

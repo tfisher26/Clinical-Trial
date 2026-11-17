@@ -103349,3 +103349,55 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT02073708
+A Population-based Investigation of Asthma in the Telemark Region of Norway
+Conditions: other/neurogenic_inflammation, respiratory/lung_diseases_obstructive
+
+Inclusion criteria:
+"""
+* Physician diagnosed asthma
+* Controls without physician-diagnosed asthma
+"""
+
+RELATIONSHIP:
+
+## NCT02759900
+Using a Cold Atmospheric Plasma Device to Treat Skin Disorders
+Conditions: cancer/bowen_s_disease, cancer/keratosis_actinic, infectious/molluscum_contagiosum, infectious/tinea, infectious/warts, skin/rosacea
+
+Inclusion criteria:
+"""
+* diagnoses of target conditions
+* ability to complete study protocol
+"""
+
+RELATIONSHIP:
+
+## NCT02791152
+SingHEART: Effects of Physical Activity, Ambulatory Blood Pressure and Calcium Score on Cardiovascular Health in Normal People
+Conditions: cardiovascular/cardiovascular_diseases, metabolic/metabolic_diseases
+
+Inclusion criteria:
+"""
+* Men and women age 21-69 years
+"""
+
+RELATIONSHIP:
+
+## NCT04665206
+Phase I/II, Multi-Center, Open-Label Study of VT3989, Alone or in Combination, in Patients With Locally Advanced or Metastatic Solid Tumors
+Conditions: cancer/carcinoma_non_small_cell_lung, cancer/mesothelioma, cancer/neoplasms_by_histologic_type, cancer/neoplasms_glandular_and_epithelial, cancer/neoplasms_mesothelial, metabolic/acth_secreting_pituitary_adenoma, metabolic/adrenal_cortex_neoplasms
+
+Inclusion criteria:
+"""
+* Part 3 Combination Cohort A: Patients with pathologically diagnosed, metastatic or unresectable malignant mesothelioma (including both pleural and non-pleural) who have not received systemic therapy.
+* Part 3 Combination Cohort B: Patients with pathologically diagnosed incurable locally advanced (inoperable or recurrent), or metastatic NSCLC with exon 19 deletions or exon 21 L858R mutations, with or without prior treatment with Osimertinib.
+* Part 3 Combination Cohort C: Patients with pathologically diagnosed metastatic or unresectable malignant pleural mesothelioma who have not received systemic chemotherapy.
+* Part 1: Evaluable or measurable disease per RECIST v1.1 or mRECIST
+* Part 2 and 3: Measurable disease per RECIST v1.1 for non-pleural mesothelioma or other solid tumors or modified RECIST v1.1 for malignant pleural mesothelioma. mRECIST may be used for pleural extension of non-pleural mesothelioma or for mixed pleural and peritoneal (or other) mesothelioma.
+* ECOG: 0-1.
+* Adequate organ functions, including the liver, kidneys, and hematopoietic system.
+"""
+
+RELATIONSHIP:
+

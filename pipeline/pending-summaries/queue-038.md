@@ -196,15 +196,6 @@ Link: https://clinicaltrials.gov/study/NCT05830500
 SUMMARY:
 
 
-## NCT07032480
-Association Between Sleep Disorders, Neck Pain, and Depression in Young Adults: A Cross-Sectional Study
-
-Intervention: : Survey-Based Assessment — Participants completed standardized questionnaires including the Beck Depression Inventory (BDI), Pittsburgh Sleep Quality Index (PSQI), and Neck Disability Index (NDI) to evaluate psychological and functional outcomes associated with sleep quality. No experimental intervention was administered.
-Link: https://clinicaltrials.gov/study/NCT07032480
-
-SUMMARY:
-
-
 ## NCT06569771
 Evolution of the Patient's Perception of the Use of the Upper Limb After a Stroke During Intensive Rehabilitation
 
@@ -988,15 +979,6 @@ A Prospective, Single Arm, Open-label, Interventional Study to Evaluate the Accu
 Intervention: : CareSens Air 3 primary insertion — Primary CareSens Air 3 device
 : CareSens Air 3 secondary insertion — Secondary CareSens Air 3 device
 Link: https://clinicaltrials.gov/study/NCT07296276
-
-SUMMARY:
-
-
-## NCT07362485
-Indocyanine Green Guided Identification of Sentinel Lymph Nodes Via Mastectomy Incision in Breast Cancer Patients (INIGMA Study)
-
-Intervention: : Indocyanine green (ICG)-fluorescence guided sentinel lymph node biopsy — ICG-fluorescence is used as the primary tracer to identify SLNs during SLNB in breast cancer surgery. The standard 99mTc-nanocolloid method is used as a control to verify the sentinel lymph nodes identified by ICG. Surgeons are blinded to preoperative lymphoscintigraphy results. After general anesthesia, 5 mg (2 mL of 2.5 mg/mL solutio) of ICG is injected sub-/intracutaneous periareolarly. ICG-fluorescence is detected using near-infrared imaging. SLNB via mastectomy incision is performed. The most fluorescent lymph node is excised first, followed by (maximal 2) additional fluorescent nodes. The excised nodes are tested for 99mTc-activity using a gamma probe. The axilla is then checked with the gamma probe and and palpation for any remaining nodes, which are excised if their radiation count exceeds 10% of the hottest node. All excised lymph nodes are sent for pathological examination to determine the presence of cancer cells. After surgery, the lymphoscintigraphy results are announced.
-Link: https://clinicaltrials.gov/study/NCT07362485
 
 SUMMARY:
 

@@ -119,15 +119,6 @@ Link: https://clinicaltrials.gov/study/NCT06516406
 SUMMARY:
 
 
-## NCT06267365
-Predictive Biomarker for Endoscopic Therapy in Chronic Pancreatitis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06267365
-
-SUMMARY:
-
-
 ## NCT07567300
 From Mechanisms to Clinical Evidence: A Cross-Sectional Study of Common Pain Mechanisms in Migraine, Migraine-Related Neck Pain, and Lower Back Pain
 

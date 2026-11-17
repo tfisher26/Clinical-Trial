@@ -486,14 +486,6 @@ Link: https://clinicaltrials.gov/study/NCT05517928
 
 SUMMARY:
 
-## NCT05517967
-An Examination of Brown Adipose Tissue and Energy Expenditure in Infants
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05517967
-
-SUMMARY:
-
 ## NCT05518578
 RENAISSANCE Study: A Phase 2, Multicenter, Open Label Safety and Tolerability Study of SPN-817 in Adult Patients With Treatment Resistant Epilepsy
 

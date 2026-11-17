@@ -1402,18 +1402,6 @@ Link: https://clinicaltrials.gov/study/NCT07472803
 
 SUMMARY:
 
-## NCT07043920
-The Association Between Daily Physical Activity Level and Nicotine Dependence in University Students: A Cross-Sectional Study
-
-Intervention: : Behavioral Assessment (No therapeutic intervention will be administered) — Participants will complete two validated questionnaires:
-
-The Fagerström Test for Nicotine Dependence (FTND) - to assess levels of nicotine dependence.
-
-The International Physical Activity Questionnaire - Short Form (IPAQ-SF) - to quantify weekly physical activity levels (walking, moderate, vigorous).
-Link: https://clinicaltrials.gov/study/NCT07043920
-
-SUMMARY:
-
 ## NCT06890559
 Enhancing Vaccination Uptake Through Points Redemption Based Financial Incentives and Digital Platforms: an Open-label Cluster Randomized Controlled Trial Utilizing Community Mobilization and Empowerment Strategies
 
@@ -1506,15 +1494,6 @@ Transcatheter Aortic Valve Implantation (TAVR): The Impact of Prothesis Position
 
 Intervention: : transthoracic echocardiography — Each study patient will undergo transthoracic echocardiography, transesophageal echocardiography, and cardiac magnetic resonance imaging following transcatheter aortic valve replacement.
 Link: https://clinicaltrials.gov/study/NCT06896227
-
-SUMMARY:
-
-## NCT07032454
-Investigation of Hand Reaction Speed and Manual Dexterity in Young Adults With Caffeine Dependence
-
-Intervention: : High Caffeine Consumption — Individuals consuming 300 mg or more of caffeine daily, meeting DSM-5/ICD-10 criteria for caffeine dependence.
-: Low Caffeine Consumption — Individuals consuming caffeine within recommended levels (20-200 mg/day).
-Link: https://clinicaltrials.gov/study/NCT07032454
 
 SUMMARY:
 

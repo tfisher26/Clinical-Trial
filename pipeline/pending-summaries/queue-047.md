@@ -1370,15 +1370,6 @@ Link: https://clinicaltrials.gov/study/NCT06772389
 
 SUMMARY:
 
-## NCT06772415
-A Phase I Study of Safety, Tolerability, Pharmacokinetics and Preliminary Anti-Tumor Activity of the Oral KIF18A Inhibitor GenSci122 in Participants With Advanced Solid Tumors
-
-Intervention: : GenSci122 tablet 50mg — Orally Once Daily
-: GenSci122 tablet 250mg — Orally Once Daily
-Link: https://clinicaltrials.gov/study/NCT06772415
-
-SUMMARY:
-
 ## NCT06772493
 ViewFlex X ICE First-in-Human Study
 
@@ -4162,15 +4153,6 @@ Link: https://clinicaltrials.gov/study/NCT06810180
 
 SUMMARY:
 
-## NCT06810375
-Erector Spinae Versus Intercostal Nerve Blocks With Liposomal Bupivacaine for Analgesia in Thoracic Surgery
-
-Intervention: : Erector Spinae (ESP) Block with Bupivacaine (Marcaine®) — preoperative erector spinae block with bupivacaine (Marcaine®)
-: Intercostal nerve block — intraoperative intercostal nerve block with liposomal bupivacaine (Exparel®)
-Link: https://clinicaltrials.gov/study/NCT06810375
-
-SUMMARY:
-
 ## NCT06810557
 Feasibility and Preliminary Efficacy of a Brief Behavioral Sleep Intervention for Excessive Weight Gain Prevention in Primary Care
 
@@ -5804,16 +5786,6 @@ Link: https://clinicaltrials.gov/study/NCT06838208
 
 SUMMARY:
 
-## NCT06838273
-A Phase III Randomized Study of BL-B01D1 in Combination With Osimertinib Versus Osimertinib as First-Line Treatment in Patients With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer
-
-Intervention: : BL-B01D1 — Administration by intravenous infusion for a cycle of 3 weeks.
-: Osimertinib — Oral administration, 80mg daily for a cycle of 3 weeks.
-: Osimertinib — Oral administration, 80mg daily for a cycle of 3 weeks.
-Link: https://clinicaltrials.gov/study/NCT06838273
-
-SUMMARY:
-
 ## NCT06838832
 Novel Allogenic CD19-targeting Chimeric Antigen Receptor γδT Cells Therapy (QH103E) in Patients With Relapsed or Refractory B-cell Non-Hodgkin's Lymphoma
 
@@ -6703,15 +6675,6 @@ The Effect of Backward Walking Observation Training on Improving Brain Activity 
 Intervention: : Backward walking observation training — Backward treadmill training after watching a video of backward walking.
 : Non-motor observational backward walking training — Backward treadmill training after watching a video of landscape without any movements.
 Link: https://clinicaltrials.gov/study/NCT06850662
-
-SUMMARY:
-
-## NCT06851130
-Assessing the Immediate Increase in Serum Ferritin After Oral Iron Doses: an Experimental Study in Iron-deficient Women
-
-Intervention: : ferrous sulfate 80 mg — 1 tablet per day
-: ferrous sulfate 160 mg — 2 tablets per day
-Link: https://clinicaltrials.gov/study/NCT06851130
 
 SUMMARY:
 
@@ -9782,14 +9745,6 @@ Link: https://clinicaltrials.gov/study/NCT06895031
 
 SUMMARY:
 
-## NCT06895200
-CVS-Notifier - Smart Intraoperative Reminder to Implement Safety Principles in Laparoscopic Cholecystectomy
-
-Intervention: : CVS-Notifier SaMD — The CVS-Notifier SaMD reminds surgeons to time-out to check the CVS before the division of the cystic duct.
-Link: https://clinicaltrials.gov/study/NCT06895200
-
-SUMMARY:
-
 ## NCT06895538
 An Exploratory, Non-Randomized, Controlled Study of the Effect of Rabbit Anti-Human T-Lymphocyte Immunoglobulin (ATLG) Versus Anti-Thymocyte Immunoglobulin (ATG) on Immune Reconstitution After Allogeneic Hematopoietic Stem Cell Transplantation for Malignant Hematologic Diseases
 
@@ -10795,42 +10750,6 @@ A Pragmatic Non-randomized Controlled Study Evaluating the Efficacy of a Dimensi
 Intervention: : GPM-Extended — GPM-extended is a dimensional adaptation of Good Psychiatric Management (GPM) that retains its core principles-validation, real-life focus, alliance building-while enhancing flexibility and personalization. It emphasizes diagnostic clarity, treatment prioritization, and individualized psychoeducation based on three key personality dilemmas: fear of abandonment, self-esteem dysregulation, and control dependency. These dilemmas guide the focus of therapy and case management. Treatment goals are collaboratively set and regularly reassessed to align with the patient's evolving needs. The intervention includes weekly individual therapy and tailored group programs, with clinical strategies adapted to each dominant dilemma.
 : Classic GPM — The classic GPM group follows the validated and manualized version of Good Psychiatric Management (GPM) for BPD. It emphasizes symptom stabilization through weekly individual therapy and pragmatic case management every 3 weeks. Unlike GPM-extended, it uses a uniform therapeutic framework rather than tailoring treatment to individual personality dilemmas,.The intervention includes weekly individual therapy and standardized group programs, with clinical strategies applied uniformly across patients, centered on interpersonal hypersensitivity and building stable life roles.
 Link: https://clinicaltrials.gov/study/NCT06913738
-
-SUMMARY:
-
-## NCT06913894
-Supervised Therapy Versus a Standardized Home-Based Program Versus No Formal Therapy for Uncomplicated, Nonoperatively Treated Distal Radius Fracture in Adults Under 50: A Three-Arm, Parallel-Group Randomized Controlled Trial
-
-Intervention: : Supervised Therapy for DRF Rehabilitation — Participants assigned to the Supervised Therapy Group (STG) will receive in-person, supervised rehabilitation sessions in an outpatient clinic. Each session lasts 30-45 minutes and is conducted by a licensed physical therapist. The therapy focuses on progressive range of motion exercises, light strengthening, proprioception training, and functional task practice. In addition, participants are prescribed a daily home exercise program (lasting 10-15 minutes) to reinforce gains made during the clinic sessions. The intervention is provided over a 6-week period following cast removal, with adherence monitored via attendance records and home exercise logs.
-: Home-Based Rehabilitation Program for DRF — Participants assigned to the Home-Based Program Group (HBG) will follow a standardized, detailed home exercise program specifically designed for distal radius fracture rehabilitation. The program includes instructions for range of motion, strengthening, and functional tasks similar to the supervised protocol. Participants receive a comprehensive written and online exercise manual, and they are instructed to perform the exercises daily. In addition, they will have weekly telephone or video check-ins (approximately 10 minutes per call) with a research assistant to review progress, address questions, and ensure proper exercise technique. The home program is implemented over a 6-week period following cast removal, with adherence documented via exercise logs submitted by participants.
-: Minimal Educational Intervention for DRF — Participants assigned to the No Therapy Group (NTG) will receive a minimal intervention consisting solely of general educational material. At the time of cast removal, they will be provided with a simple, standardized educational brochure that contains basic instructions for wrist and hand movement (e.g., "move your wrist as tolerated"). No additional therapy sessions, home exercise logs, or follow-up telephone calls will be provided beyond routine care. This intervention is intended to reflect the absence of a formal rehabilitation program and serves as the control for evaluating the added benefit of supervised and home-based therapy.
-Link: https://clinicaltrials.gov/study/NCT06913894
-
-SUMMARY:
-
-## NCT06913920
-A Two-Arm, Single-Blinded Randomized Controlled Trial Evaluating the Effectiveness of Mechanical Modalities Combined With Standard Therapy Versus Standard Therapy Alone for Edema and Pain Management After Distal Radius Fracture Fixation
-
-Intervention: : Continuous Passive Motion (CPM) — Materials: A CPM device configured for wrist flexion-extension with an adjustable range of motion set between 0° and 30°.
-
-Procedure:
-
-The participant's wrist is gently secured in the device. The CPM device is programmed to deliver 20 minutes of continuous, passive motion through the set range.
-
-Device settings (e.g., speed) may be modified if the participant reports pain \>4/10 on the NPRS.
-: Intermittent Pneumatic Compression (IPC) — Materials: An IPC sleeve designed for the forearm-to-hand region with a baseline compression setting of approximately 30 mmHg.
-
-Procedure:
-
-After CPM treatment, the IPC device is applied to the affected limb. The sleeve provides 15 minutes of intermittent compression with programmed intervals of inflation and deflation.
-
-Compression levels may be adjusted based on participant comfort and pain ratings.
-: Standard Therapy Program — Procedures:
-
-Active/active-assisted wrist/forearm range of motion exercises led by a certified hand/physical therapist.
-
-Progressive grip-strengthening exercises using resistance bands or putty. Manual edema management techniques, including gentle massage and manual lymphatic drainage, as well as scar mobilization if needed.
-Link: https://clinicaltrials.gov/study/NCT06913920
 
 SUMMARY:
 
@@ -12196,15 +12115,6 @@ Link: https://clinicaltrials.gov/study/NCT06931509
 
 SUMMARY:
 
-## NCT06931626
-Study of NMS-03305293, a Non-Trapping PARP1-Specific PARP Inhibitor in Relapsed Small Cell Lung Cancer
-
-Intervention: : NMS-03305293 — Route of administration: Oral
-: Temozolomide — Route of administration: Oral Commercially available Temozolomide
-Link: https://clinicaltrials.gov/study/NCT06931626
-
-SUMMARY:
-
 ## NCT06931730
 Reprogramming Energy Homeostasis in Overweight Children and Adults Trough Exercise, Cognitive Training and Social Interaction
 
@@ -12473,14 +12383,6 @@ A Study on Reproductive and Psychological Health in Aplastic Anemia Patients
 
 Intervention: : Sex hormone monitoring — Sex hormone monitoring includes the concentrations of follicle-stimulating hormone (FSH), luteinizing hormone (LH), estradiol (E2), progesterone (P), prolactin (PRL), and testosterone (T).
 Link: https://clinicaltrials.gov/study/NCT06936930
-
-SUMMARY:
-
-## NCT06937034
-Observational Retrospective CoHort Study on Practical ExperienceS of Treatment With Foslevodopa/foScaRbidopa in Advanced Parkinson's Disease
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06937034
 
 SUMMARY:
 
@@ -15252,15 +15154,6 @@ Trop2-targeting the Second Near-Infrared Fluorescence(NIR-II ) Molecular Probe f
 
 Intervention: : TTP-ICG incubation solution — Clinical specimens will be incubated with TTP-ICG solution.
 Link: https://clinicaltrials.gov/study/NCT06972771
-
-SUMMARY:
-
-## NCT06972953
-NEUROvascular NAVigation With Remotely Controlled Deflectable Guidewire, Study I (NeuroNAV Study I)
-
-Intervention: : SmartGUIDE (deflectable guidewire) — SmartGUIDE is a deflectable guidewire for use in interventional procedures in the neurovasculature and the peripheral vasculature. It can be used to selectively introduce and position catheters and other interventional devices within the peripheral and neurovasculature. The device is a steerable guidewire with a deflectable tip. This allows adjusting the shape of the tip, dynamically, while the physician navigates the device in the patient's arterial and venous circulatory system.
-: Any standard of care guidewire — The control device is any standard of care guidewire as per hospital routine indicated for neuro-interventional procedures.
-Link: https://clinicaltrials.gov/study/NCT06972953
 
 SUMMARY:
 

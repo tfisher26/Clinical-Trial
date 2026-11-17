@@ -6631,16 +6631,6 @@ Link: https://clinicaltrials.gov/study/NCT06498388
 SUMMARY:
 
 
-## NCT04545957
-Judging MR Simulation Procedures: A Phase I-II Study of the Use of Magnetic Resonance Imaging Simulation in the Planning of Radiation Treatments
-
-Intervention: : MRI Simulator — Radiation mapping to define the target for radiation.acquiring MR data at the specified timepoint in a patient's care plan and ability to identify the radiation target and develop a radiation therapy plan on the MR data.
-: Radiation Therapy — In Phase I, radiation will be institutional standard per disease site. In Phase II, either radiation according to MR-based dose painting or adjusted RT. These adjusted doses and/or RT will vary per disease site and will be pre-specified in the subprotocols.
-Link: https://clinicaltrials.gov/study/NCT04545957
-
-SUMMARY:
-
-
 ## NCT07451730
 MultiCPR: The Influence of Resuscitation on History Recall
 

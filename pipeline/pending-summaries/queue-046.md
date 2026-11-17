@@ -813,14 +813,6 @@ Link: https://clinicaltrials.gov/study/NCT06479122
 
 SUMMARY: Pain after a cesarean section can make it hard to move and care for a newborn. This study compares intravenous acetaminophen alone with a combination of acetaminophen and ibuprofen to see which gives better pain relief.
 
-## NCT06479174
-Cognitive Strategies for Optimizing Brain Health And Managing Transgenerational Vascular Risk Factors Post-Stroke (CHAMPS for Transgenerational Risk)
-
-Intervention: : CHAMPS-TR — Persons with stroke ( n=20) and at least 1 targeted family member (TFM) (n=20) will engage with the CHAMPS-TR protocol which involves 10 virtual intervention sessions (bi-weekly for 5 weeks) with key elements including metacognitive problem-solving training (i.e., goal setting, guided discovery, strategy development) and vascular risk reduction coaching building on existing American Heart Association (AHA) LE8 content. Probands that are eligible for RS-tDCS (n=10) will receive 5x weekly (weeks 2-5) RS-tDCS applied to the left dorsolateral prefrontal cortex (DLPFC).
-Link: https://clinicaltrials.gov/study/NCT06479174
-
-SUMMARY: Stroke survivors and their family members often share risk factors for heart disease and stroke. This study tests CHAMPS, a program that teaches thinking strategies for managing these risks, to people with stroke and a relative.
-
 ## NCT06479291
 The Efficacy and Safety of Hydroxychloroquine Plus TPO-RA in Antinuclear Antibody-positive Patients With Primary Immune Thrombocytopenia-- The Multicenter, Randomized, Open-labled Clinical Trial
 
@@ -7362,15 +7354,6 @@ Intervention: : EEG-neurofeedback — Traditional neurofeedback uses one or two 
 Link: https://clinicaltrials.gov/study/NCT06603792
 
 SUMMARY: Nerve pain from diabetes is common and often does not respond to medicines. This study tests EEG neurofeedback, which trains people to change their own brain activity, to see whether it reduces pain.
-
-## NCT06603844
-A Phase 1/2 Study to Investigate the Safety, Pharmacokinetics and Efficacy of CRB-601, a Monoclonal Antibody Against Integrin avb8, in Patients With Advanced Solid Tumors
-
-Intervention: : CRB-601 monoclonal antibody — CRB-601
-: Anti-PD-1 monoclonal antibody — Anti-PD(L)-1 used as per label
-Link: https://clinicaltrials.gov/study/NCT06603844
-
-SUMMARY: Advanced solid tumors often resist immunotherapy. This study tests CRB-601, an antibody that blocks integrin avb8, a protein that helps tumors hide from the immune system, alone and with PD-1 immunotherapy.
 
 ## NCT06604156
 The Effect of the Nociception Index (qNOX) in Painless Gastrointestinal Endoscopy :a Clinical Study

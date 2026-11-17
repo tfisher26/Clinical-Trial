@@ -1333,14 +1333,6 @@ Link: https://clinicaltrials.gov/study/NCT07017270
 
 SUMMARY:
 
-## NCT07017322
-Investigating Non-invasive Cranial Electrotherapy Stimulation for Acute Anxiety in Inpatients With Eating Disorders
-
-Intervention: : Alpha-Stim AID — Subjects will receive non-invasive cranial electrotherapy stimulation (CES) treatment in 20-minute group sessions taking place immediately prior to breakfast, lunch, and dinner. This study uses the Alpha-Stim AID® CES device which will be set to the highest amplitude that is tolerated by the participant (with a minimum of 200 microampere (µA) and a maximum of 500 µA stimulation) at 0.5 hertz for a duration of 20 minutes per session, 3 sessions per day, for 3 separate days of stimulation (180 minutes of stimulation total).
-Link: https://clinicaltrials.gov/study/NCT07017322
-
-SUMMARY:
-
 ## NCT07017400
 Effectiveness of the Sacral Erector Spinae Plane (ESP) Block in Total Knee Arthroplasty: A Prospective Observational Study
 
@@ -2393,15 +2385,6 @@ Link: https://clinicaltrials.gov/study/NCT07032389
 
 SUMMARY:
 
-## NCT07032454
-Investigation of Hand Reaction Speed and Manual Dexterity in Young Adults With Caffeine Dependence
-
-Intervention: : High Caffeine Consumption — Individuals consuming 300 mg or more of caffeine daily, meeting DSM-5/ICD-10 criteria for caffeine dependence.
-: Low Caffeine Consumption — Individuals consuming caffeine within recommended levels (20-200 mg/day).
-Link: https://clinicaltrials.gov/study/NCT07032454
-
-SUMMARY:
-
 ## NCT07032662
 A Phase 2b, Multi-center, Randomized, Double-blind, Placebo-controlled Study of IMVT-1402 Treatment in Adult Participants With Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
 
@@ -2836,26 +2819,6 @@ Link: https://clinicaltrials.gov/study/NCT07038733
 
 SUMMARY:
 
-## NCT07038980
-Investigation of the Effect of Smartphone Addiction on Neck Pain and the Structural and Mechanical Properties of Neck Muscles in Young Adults
-
-Intervention: : Observational Assessment — Participants in both groups undergo a one-time diagnostic evaluation consisting of:
-
-Smartphone Addiction Scale - Short Form (SAS-SF)
-
-Neck Disability Index (NDI)
-
-MyotonPRO measurement of cervical muscle tone, stiffness, and elasticity
-
-Pressure pain threshold measurement using a handheld algometer
-
-Social Media Addiction Scale (SMAS)
-
-No therapeutic or behavioral intervention is applied. All procedures are non-invasive and conducted for observational purposes only.
-Link: https://clinicaltrials.gov/study/NCT07038980
-
-SUMMARY:
-
 ## NCT07039136
 Feasibility and Usability of Immersive VR Mirror Therapy for Upper Limb Rehabilitation
 
@@ -3112,18 +3075,6 @@ Epidemiological Survey and Follow-up of Cardiovascular-Kidney-Metabolic Diseases
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07043166
-
-SUMMARY:
-
-## NCT07043920
-The Association Between Daily Physical Activity Level and Nicotine Dependence in University Students: A Cross-Sectional Study
-
-Intervention: : Behavioral Assessment (No therapeutic intervention will be administered) — Participants will complete two validated questionnaires:
-
-The Fagerström Test for Nicotine Dependence (FTND) - to assess levels of nicotine dependence.
-
-The International Physical Activity Questionnaire - Short Form (IPAQ-SF) - to quantify weekly physical activity levels (walking, moderate, vigorous).
-Link: https://clinicaltrials.gov/study/NCT07043920
 
 SUMMARY:
 
@@ -4431,15 +4382,6 @@ Intervention: : Lidocaine (drug) — The study intervention involves the use of 
 This treatment is an intra-arterial bilateral lidocaine infusion into the middle meningeal artery (i.e. this is a lidocaine infusion into the brain blood vessels to turn off the pain receptors responsible for causing chronic headaches). Lidocaine is an FDA approved anesthetic (i.e. pain killer) used in common medical practice. Lidocaine, however, has not yet been approved by the FDA for this particular use. For this reason, the use of lidocaine in this study is considered investigational.
 : Lidocaine Procedure — All patient who meet eligibility criteria at their baseline visit will be scheduled for the Liocaine procedure.
 Link: https://clinicaltrials.gov/study/NCT07061847
-
-SUMMARY:
-
-## NCT07061938
-Phase 1b/2a Prospective, Open Label, Multicenter, Single Arm Study to Assess Safety, Efficacy and Persistence of ACE1831, in Subjects With Immunoglobulin G4-Related Disease
-
-Intervention: : ACE1831 — ACE1831 is allogeneic gamma delta T (gdT) cell therapy. Subjects will receive ACE1831 dose based on the assigned dose escalation cohort.
-: Lymphodepleting chemotherapy — Subjects assigned to receive lymphodepleting preconditioning (LDC) will receive chemotherapy cyclophosphamide ahead of ACE1831 administration.
-Link: https://clinicaltrials.gov/study/NCT07061938
 
 SUMMARY:
 
@@ -5839,15 +5781,6 @@ Algorithm Guided Treatment Versus Treatment as Usual (TAU) for Patients With Tre
 Intervention: : Algorithm guided treatment (AGT) — AGTs consist of strategies (which treatments to use), tactics (how to implement each treatment) and treatment steps (in what order to implement the different treatments). Furthermore, AGTs also define critical decision points during the treatment at which the effects of a certain treatment are assessed and based on this assessment recommend specific treatment revisions according to preset "if-then rules." This is most often done by implementing measurement-based care.
 : Treatment as usual (TAU) — TAU includes the standard clinical care for patients with TRD as determined by a senior consultant.
 Link: https://clinicaltrials.gov/study/NCT07080723
-
-SUMMARY:
-
-## NCT07080931
-A Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Study on the Efficacy and Safety of 5% Minoxidil Foam in the Treatment of Female Androgenetic Alopecia
-
-Intervention: : 5% minoxidil foam — Trial participants applied 5% minoxidil foam topically once daily (QD) in the morning or evening, with a maximum daily dose not exceeding 1 g, for up to 24 weeks.
-: Placebo for 5% Minoxidil Foam — Trial participants applied placebo once daily (QD) in the morning or evening, with a maximum daily dose not exceeding 1 g, for up to 24 weeks.
-Link: https://clinicaltrials.gov/study/NCT07080931
 
 SUMMARY:
 
@@ -16604,15 +16537,6 @@ Artificial Intelligence and Machine Learning-Enhanced Biomarker-dRiven CDK4/6 In
 Intervention: : A CDK4/6 inhibitor different from the first that the participant had received, plus fulvestrant. — A CDK4/6 inhibitor different from the first that the participant had received, plus fulvestrant.
 : Treatment of physician's choice — Treatment of physician's choice, excluding CDK4/6 inhibitors.
 Link: https://clinicaltrials.gov/study/NCT07227233
-
-SUMMARY:
-
-## NCT07227272
-Enhancing the Accuracy of Self-Reported Dietary Intake in Young Children: Development of Two Proxy Reporting Protocols for Self-Reported Dietary Assessment
-
-Intervention: : Ecological Momentary Assessment — The EMA platform will allow for the primary caregiver (or any other adult with whom the child eats foods with) to upload pre- and post-photographs of all eating occasions. The photographs will be time-stamped and will be used by trained research assistants during the 24HR to aid in collection of accurate information about what the child consumed. The research assistant will be trained on how to prompt the caregiver for inaccuracies in reporting as needed.
-: Traditional 24-hour dietary recall — Participants will complete a traditional 24-hour dietary recall via telephone, following the USDA five-step multiple pass method. Participants will receive a standardized food amounts booklet (FAB) to help with quantifying portion sizes consumed.
-Link: https://clinicaltrials.gov/study/NCT07227272
 
 SUMMARY:
 

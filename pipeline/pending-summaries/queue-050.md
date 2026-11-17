@@ -3071,15 +3071,6 @@ Link: https://clinicaltrials.gov/study/NCT07517185
 
 SUMMARY:
 
-## NCT07517237
-Combining At-Home Transcutaneous Auricular Vagus Nerve Stimulation and Computerized Cognitive Training for Neurocognitive Rehabilitation
-
-Intervention: : taVNS — A Soterix Medical Handheld home-based taVNS device combined with web-based adaptive computerized cognitive training (CCT) will be self-administered for 10, 1 hour treatment sessions at home. CCT will be accessed via the web from a tablet or computer. The premise of a combined approach is that taVNS "primes" brain networks that are then engaged by CCT, synergistically enhancing cognitive benefits.
-: Computerized Cognitive Training — CCT will be delivered through the online BrainHQ platform. Participants will engage in adaptive visual speed of processing training for approx. 30 minutes per session (10 sessions, total CCT time = 300 min).
-Link: https://clinicaltrials.gov/study/NCT07517237
-
-SUMMARY:
-
 ## NCT07517250
 Non-interventional Study on the Use of ILARIS® (Canakinumab) Among Familial Mediterranean Fever and Still's Disease Patients Across Europe and Israel
 

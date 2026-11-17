@@ -4829,15 +4829,6 @@ Link: https://clinicaltrials.gov/study/NCT07156903
 SUMMARY:
 
 
-## NCT06765226
-Abiomed Impella Pump Return Registry - Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06765226
-
-SUMMARY:
-
-
 ## NCT05186623
 Establishment of Prediction Model of Biologics and Small Molecular Agent for Patients With Ulcerative Colitis Using Longitudinal Data
 

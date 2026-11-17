@@ -1577,14 +1577,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04544527
-The Risk Factors of Cardiovascular Disease in Elderly Diabetic Patients: A Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04544527
-
-SUMMARY:
-
 ## NCT04546945
 Resident Doctor at Clinical Pathology Department
 

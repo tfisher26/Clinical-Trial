@@ -4925,16 +4925,6 @@ Link: https://clinicaltrials.gov/study/NCT04939571
 SUMMARY:
 
 
-## NCT07497503
-A Randomised, Double-Blind, Two-Sequence, Single-Dose, Crossover Study to Compare the Pharmacokinetics, Pharmacodynamics, Safety, and Immunogenicity Profile of B-3E07 and Forsteo in Healthy Adult Female Participants
-
-Intervention: : Forsteo® — Forsteo® will be administered as SC injection.
-: B-3E07 — B-3E07 will be administered as SC injection.
-Link: https://clinicaltrials.gov/study/NCT07497503
-
-SUMMARY:
-
-
 ## NCT07019844
 Addition of F18-Piflufolastat PET/CT to Cross-Sectional Imaging for the Staging and Management of Hepatocellular Carcinoma
 
@@ -5022,15 +5012,6 @@ Venetoclax Resistance Landscape in Chronic Lymphocytic Leukemia
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05246345
-
-SUMMARY:
-
-
-## NCT07032467
-Examining the Relationship Between Social Media Addiction and Compulsive Exercise Behaviors in University Students
-
-Intervention: : Psychosocial and Behavioral Assessment — Participants completed validated self-report questionnaires to assess levels of social media addiction and compulsive exercise behaviors. No therapeutic or experimental intervention was administered. Data were collected through surveys for observational analysis.
-Link: https://clinicaltrials.gov/study/NCT07032467
 
 SUMMARY:
 

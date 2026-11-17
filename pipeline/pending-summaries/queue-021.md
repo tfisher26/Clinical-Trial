@@ -2079,18 +2079,6 @@ Link: https://clinicaltrials.gov/study/NCT07523659
 SUMMARY:
 
 
-## NCT05643859
-Changes in Colonic Microbiome With Fiber Supplementation
-
-Intervention: : Dietary Fiber — Given PO
-: Proctoscopy or anoscopy with Biopsy — Undergo proctoscopy or anoscopy
-: Colonoscopy — Undergo Colonoscopy
-: Questionnaire Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT05643859
-
-SUMMARY:
-
-
 ## NCT06047574
 Multidisciplinary Combined Precise Diagnosis and Treatment of Polycystic Ovary Syndrome
 
