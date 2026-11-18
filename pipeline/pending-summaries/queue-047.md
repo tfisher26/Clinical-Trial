@@ -407,22 +407,6 @@ Link: https://clinicaltrials.gov/study/NCT06756100
 
 SUMMARY:
 
-## NCT06756230
-Effects of Downhill Walking in Pulmonary Rehabilitation for Patients With Idiopathic Pulmonary Fibrosis
-
-Intervention: : Pulmonary Rehabilitation — 8 weeks, 2 sessions per week,
-
-Aerobic training will be provided as treadmill walking. It will be performed either downhill or on a flat treadmill, depending on the group.
-
-Warm-up and stretching exercises
-
-Resistance exercises will be performed with a load equivalent to 50% of 1 maximum repetition. 10 repetitions will be performed in sets, one set in each session. Based on the differences in the general condition of the patients, different workloads and modifications will be used when creating an exercise program for each patient. Resistance exercises will focus on both upper and lower extremity muscles.
-: Downhill Walking — Treadmill exercise will be applied for 30 minutes in the target heart rate range of 60-80% intensity. The target heart rate method will be used to determine the exercise intensity. Blood pressure, heart rate and Borg Perceived Exertion Scale scores will be monitored during the exercises. Downhill walking training will continue with a constant -10% incline.
-: Treadmill Walking without incline — Treadmill exercise will be applied for 30 minutes in the target heart rate range of 60-80% intensity. The target heart rate method will be used to determine the exercise intensity. Blood pressure, heart rate and Borg Perceived Exertion Scale scores will be monitored during the exercises. Traditional walking training will initially involve walking with a neutral incline.
-Link: https://clinicaltrials.gov/study/NCT06756230
-
-SUMMARY:
-
 ## NCT06756607
 The ECOG-ACRIN SUPPORT Trial: Multilevel Intervention to Improve Diverse Enrollment in Cancer Clinical Trials
 
@@ -7607,18 +7591,6 @@ Link: https://clinicaltrials.gov/study/NCT06863311
 
 SUMMARY:
 
-## NCT06863337
-Glucose Pattern in Infertile Women Receiving Assisted Reproduction: a Prospective Study Using Continuous Glucose Monitoring
-
-Intervention: : CGM — Each patient will participate in the group only once and wear two FreeStyle Libre Pro Flash CGM (Abbott Diabetes Care, Alameda, CA, USA), which record glucose readings for up to 14 days.
-
-Following the initial consultation and before initiating the ovulation induction protocol, the first CGM sensor will be placed to collect baseline data. Upon entering the ovulation induction cycle, patients will return to the hospital on the 2nd or 3rd day of menstruation, at which point the first CGM sensor will be removed, and the second sensor will be applied. This second sensor will be removed after 14 days.
-
-In summary, this protocol ensures continuous tracking of blood glucose levels at key time points throughout the ovarian stimulation.
-Link: https://clinicaltrials.gov/study/NCT06863337
-
-SUMMARY:
-
 ## NCT06863480
 THRIVE: Tocilizumab-aazg for Hemorrhage: Reduction of Ischemic Vascular Events
 
@@ -8140,15 +8112,6 @@ Intervention: : Active BFRT — The BFR device is applied unilaterally on partic
 : Strengthening Exercises with BFRT — Participants perform 4 strengthening exercises while using the BFR device: seated scapular plane elevation, prone horizontal abduction, side-lying external rotation, and prone scapular plane elevation. Each exercise is performed unilaterally. Participants perform 1 set of 30 repetitions followed by 3 sets of 15 repetitions (4 total sets, 75 total repetitions). Participants are given 30 seconds rest between sets and 2 minutes of rest between strengthening exercises. Selected resistance for each strengthening exercise is equal to 20% of the participant's maximal force production as measured by handheld dynamometry. Resistance is adjusted weekly.
 : Skilled Physical Therapy Care — Participants perform non-strengthening interventions as part of skilled physical therapy care. Non-strengthening interventions include an upper arm ergometer for warm-up, active assisted range of motion of the shoulder, shoulder stretching, shoulder joint mobilizations, and cryotherapy. Non-strengthening interventions are prescribed at the discretion of the treating physical therapist. Participants are enrolled in physical therapy for a minimum of 4 weeks. After 4 weeks, the treating physical therapist can discharge a participant based on their progress in meeting their rehabilitation goals. Participants discharged from skilled physical therapy care will continue to complete strengthening exercises with BFRT until the end of the trial period (8 weeks).
 Link: https://clinicaltrials.gov/study/NCT06873113
-
-SUMMARY:
-
-## NCT06873165
-Development of Microbial Therapeutics for Metabolic-associated Fatty Liver Disease: From Mechanistic Investigations to Clinical Trials
-
-Intervention: : Probiotics — 1 capsule(with three different dosage) per day for 12 weeks
-: Placebo — 1 capsule per day for 12weeks
-Link: https://clinicaltrials.gov/study/NCT06873165
 
 SUMMARY:
 
@@ -15670,15 +15633,6 @@ A Phase 1 Open-label, Multicenter, Dose Escalation Study to Assess the Safety, T
 
 Intervention: : EXS73565 — EXS73565 oral administration
 Link: https://clinicaltrials.gov/study/NCT06980116
-
-SUMMARY:
-
-## NCT06980272
-A Randomized Controlled, Multi-center Phase III Clinical Trial of SSGJ-707 Versus Pembrolizumab as First-line Treatment for PD-L1-Positive Locally-Advanced or Metastatic Non-Small Cell Lung Cancer
-
-Intervention: : SSGJ-707 — Subjects receive SSGJ-707 intravenously.
-: Pembrolizumab — Subjects receive Pembrolizumab intravenously.
-Link: https://clinicaltrials.gov/study/NCT06980272
 
 SUMMARY:
 

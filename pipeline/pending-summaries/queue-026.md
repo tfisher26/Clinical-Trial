@@ -923,19 +923,6 @@ Link: https://clinicaltrials.gov/study/NCT06029400
 SUMMARY:
 
 
-## NCT07236658
-AI-Powered Deep Learning Models for Prospective Prediction of Musculoskeletal Complications After Breast Cancer Surgery: Focus on Lymphedema, Axillary Web Syndrome, Neuropathy, and Pain
-
-Intervention: : physical examination — Demographic data and upper-extremity circumferential measurements, shoulder range of motion, upper-extremity dermatome examination, pathological diagnosis and stage, treatments received, comorbidities, and routine laboratory tests including ESR, CRP, complete blood count, ALT, AST, protein, albumin, BUN, creatinine, and GFR will be recorded. The VAS (Visual Analog Scale), Central Sensitization Inventory, Hospital Anxiety and Depression Scale, and Quick-DASH disability questionnaire will be completed.
-
-During monthly follow-ups, if the patient receives radiotherapy (RT) or chemotherapy (CT), these data will be documented in terms of number and dose. In addition to the physical examination performed at each follow-up visit (baseline, month 1, month 3, and month 6), the Hospital Anxiety and Depression Scale and the Quick-DASH disability questionnaire.
-
-At the final 6-month follow-up, all assessments will be repeated, and data will be analyzed after the last patient has completed follow-up.
-Link: https://clinicaltrials.gov/study/NCT07236658
-
-SUMMARY:
-
-
 ## NCT06910553
 CorEvitas Inflammatory Bowel Disease Pregnancy Registry (IBD-PR)
 

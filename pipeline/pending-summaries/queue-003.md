@@ -1098,15 +1098,6 @@ Link: https://clinicaltrials.gov/study/NCT07254312
 SUMMARY:
 
 
-## NCT06875167
-Semi-closed Loop Automated Insulin Therapy in the Pediatric Population Aged 2-6 Years With Type 1 Diabetes: Impact on Quality of Life and Glycemic Control
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06875167
-
-SUMMARY:
-
-
 ## NCT07112599
 Clinical Study on Predicting Lymph Node Metastasis of High-risk Prostate Cancer Based on Artificial Intelligence Multi-omics Analysis：A Multicenter, Prospective and Observational Clinical Study
 
@@ -17556,980 +17547,1002 @@ Link: https://clinicaltrials.gov/study/NCT06465472
 
 SUMMARY:
 
-## NCT04055818
-Proof-of-concept Study of Nicotinamide and Oral Tetrahydrouridine (THU) and Decitabine to Treat High Risk Sickle Cell Disease
-
-Intervention: : Nicotinamide — Oral nicotinamide (Vitamin B3) alone compared to THU Decitabine combination
-Link: https://clinicaltrials.gov/study/NCT04055818
-
-SUMMARY:
-
-## NCT01212003
-Natural History of Tuberculosis
+## NCT02208869
+Prospective Russian Study Evaluating the Extent of Underdiagnosed and Undertreated of Familial Hypercholesterolaemia in the Population
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01212003
+Link: https://clinicaltrials.gov/study/NCT02208869
 
 SUMMARY:
 
-## NCT00001975
-Cutaneous Tumorigenesis in Patients With Tuberous Sclerosis
+## NCT04248283
+A Clinical Investigation of the Adjustable Continence Therapy (ACT) for Female Stress Urinary Incontinence Due to Intrinsic Sphincter Deficiency
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001975
-
-SUMMARY:
-
-## NCT01568697
-Oral Microbial and Immunological Characterization of Patients With Immune Dysfunction
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01568697
+Intervention: : Adjustable Continence Therapy for Women (ACT) — Two ACT devices are implanted in each patient. The devices are intended for implantation in the paraurethral space, with the balloons located on each side of the urethra near the bladder neck. The ports are placed subcutaneously in the labia majora. The balloons are filled after implantation with an isotonic solution via needle injection into the port. The ACT implant can be placed using local, spinal or general anesthesia with the surgical instruments (provided separately).
+Link: https://clinicaltrials.gov/study/NCT04248283
 
 SUMMARY:
 
-## NCT03761108
-Phase 1/2 FIH Study of REGN5458 (Anti-BCMA x Anti-CD3 Bispecific Antibody) in Patients With Relapsed or Refractory Multiple Myeloma
-
-Intervention: : Linvoseltamab — Administered per the protocol
-Link: https://clinicaltrials.gov/study/NCT03761108
-
-SUMMARY:
-
-## NCT00001316
-A Study of Viral Burden in Peripheral Blood Versus Lymphoid and Bone Marrow Tissue in People Living With HIV
+## NCT04442789
+Long-term Sequelae of Severe Sars-CoV-2 Infections
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001316
+Link: https://clinicaltrials.gov/study/NCT04442789
 
 SUMMARY:
 
-## NCT04116502
-A Phase III, Randomised, Open-label, Multicenter International Trial Comparing Ruxolitinib With Either HydRoxycarbamIDe or Interferon Alpha as First Line ThErapy for High Risk Polycythemia Vera
+## NCT04204642
+SEarchiNg biomarkErs Cerebral Amyloid Angiopathy (SENECA): Italian Network for the Study of CAA
 
-Intervention: : Ruxolitinib — 10mg of ruxolitinib twice daily (bd)
-: Hydroxycarbamide — Via standard hospital mechanisms
-: Interferon-Alpha — Any formulation, via standard hospital mechanisms
-Link: https://clinicaltrials.gov/study/NCT04116502
+Intervention: : CAA patients data collection — Demographic and clinical data of each patient, including index event that led to the diagnosis (cerebrovascular disease, dementia, gait disturbance, TFNE, seizures, headache), vascular risk factors, history of brain injury or neurosurgery, familial history, and pharmacological treatment will be collected by neurologists in charge.
+Link: https://clinicaltrials.gov/study/NCT04204642
 
 SUMMARY:
 
-## NCT04112927
-Acoustic OSA Prediction During Wakefulness and Monitoring During Sleep
+## NCT07867327
+A Phase 1, Open-Label, 2-Part Study of the Absorption, Metabolism, Excretion, and Bioavailability of [¹⁴C]-LY4515100 in Healthy Male Participants
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04112927
-
-SUMMARY:
-
-## NCT03382158
-International Pleuropulmonary Blastoma/DICER1 Registry (for PPB, DICER1 and Associated Conditions)
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03382158
+Intervention: : [¹⁴C]-LY4515100 Oral Solution — \[¹⁴C\]-LY4515100 administered orally
+: LY4515100 Tablet — LY4515100 administered orally
+: [¹⁴C]-LY4515100 IV — \[¹⁴C\]-LY4515100 administered IV
+Link: https://clinicaltrials.gov/study/NCT07867327
 
 SUMMARY:
 
-## NCT00001238
-Von Hippel-Lindau (VHL): Clinical Manifestations, Diagnosis, Management and Molecular Bases of Inherited Renal and Other Urologic Malignant Disorders
+## NCT04390009
+Exploratory Study of Entire-body PET Scans for Multiple Sclerosis
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001238
-
-SUMMARY:
-
-## NCT02828592
-A Study of T-Cell Replete, HLA-Mismatched Haploidentical Bone Marrow Transplantation With Post-Transplant Cyclophosphamide for Patients With Severe Aplastic Anemia Lacking HLA-Matched Related Donor
-
-Intervention: : Fludarabine — 30 mg/m2 IV QD x 5 days (Days -6 to -2)
-: Cyclophosphamide — 14.5 mg/kg/day IV x 2 doses (Days -6 \& -5)
-: Total Body Irradiation — 300 cGy x1 dose (Day -1)
-: Rabbit ATG — 1.5 mg/kg/day x 3 days (Days -3 to -1)
-: Cyclophosphamide — Post-transplant: 50 mg/kg IV QD (Day +3 to +4)
-Link: https://clinicaltrials.gov/study/NCT02828592
+Intervention: : Entire-body PET-CT scans — Entire-body PET-CT scans will be performed with state-of-the-art scanners with different manufacturers' models including Siemens Biograph Vision, United Imaging uEXPLORER and possibly other recently FDA-approved PET-CT scanners.
+: Amyvid radiopharmaceutical — Amyvid (F18-florbetapir) will be evaluated for binding to white matter of the peripheral and central nervous system of participants
+Link: https://clinicaltrials.gov/study/NCT04390009
 
 SUMMARY:
 
-## NCT04160910
-5HTP Regulation Of Asthma In Children
+## NCT07905183
+A Phase 3, Multicenter, Open-Label, Randomized Study of ELVN-001 Versus Investigator-Selected Tyrosine Kinase Inhibitor (TKI) of Dasatinib, Nilotinib, or Bosutinib, in Adult Participants With Chronic Myeloid Leukemia in Chronic Phase (CP-CML), Previously Treated With One or More TKIs
 
-Intervention: : 5-Hydroxytryptophan — Double blinded placebo controlled. 28 day dosing period followed by 3 week washout period. Then crossover to other arm of study
-: Placebo — Double blinded placebo controlled. 28 day dosing period followed by 3 week washout period. Then crossover to other arm of study
-Link: https://clinicaltrials.gov/study/NCT04160910
+Intervention: : ELVN-001 — ELVN-001 orally daily
+: TKI — TKI orally daily
+Link: https://clinicaltrials.gov/study/NCT07905183
 
 SUMMARY:
 
-## NCT01441089
-Collection of Blood From Therapeutic Trial Participants for Analysis of Genetic Differences in Drug Disposition and Pharmacokinetics of Probe Medications
+## NCT01132859
+VRC 900: Evaluation of Tissue-Specific Immune Responses in Adults 18 Years of Age and Older
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01441089
+Link: https://clinicaltrials.gov/study/NCT01132859
 
 SUMMARY:
 
-## NCT03765567
-Placement of Antibiotic Powder in Wounds During the Emergency Room (POWDER) Study
-
-Intervention: : Vancomycin — 2 vials of Vancomycin 1g powder will be applied topically to the open fracture wound site.
-Link: https://clinicaltrials.gov/study/NCT03765567
-
-SUMMARY:
-
-## NCT01805869
-Oral Specimen and Data Acquisition Study of Subjects Requiring Third Molar Removal
+## NCT04017286
+A Prospective Cohort Study of the Association Between Pregnancy Health and Offspring Developmental & Behavioral Outcomes(Multi-Centered)
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01805869
+Link: https://clinicaltrials.gov/study/NCT04017286
 
 SUMMARY:
 
-## NCT04049604
-Incidental Detection of Maternal Neoplasia Through Non-invasive Cell-Free DNA Analysis (IDENTIFY), a Natural History Study
+## NCT07946952
+A SCAR-Based Pedagogical Framework for Sleep Science Education: Enhancing Sleep Knowledge, Behavioral Change, and Sleep Quality Among University Students
 
-Intervention: : NIPT — noninvasive prenatal testing
-Link: https://clinicaltrials.gov/study/NCT04049604
-
-SUMMARY:
-
-## NCT04185272
-Role of Butyrophilins in Colon Cancers Aggressiveness Evaluation
-
-Intervention: : analysis of BTN and BTNL status — analysis of BTN and BTNL expression in colon cancer and hepatic metastasis
-Link: https://clinicaltrials.gov/study/NCT04185272
+Intervention: : SCAR-based sleep science education course — A 16-week cross-disciplinary general education course built on the SCAR pedagogical framework: (1) Self-awareness: baseline 7-day wrist actigraphy, electronic sleep diaries and validated questionnaires, with guided interpretation of personal sleep reports; (2) Collaborative learning: flipped-classroom micro-lectures on sleep physiology, circadian rhythms and sleep hygiene, interdisciplinary team case discussions and guest lectures by sleep specialists and a psychiatrist; (3) Applied practice: personalized behavioral action plans using a 5W1H framework, self-monitoring across the semester, and interdisciplinary sleep-promotion projects presented at a public showcase; (4) Reflective feedback: structured reflective writing at multiple time points and repeated end-of-semester sleep assessment with instructor, expert and peer feedback.
+Link: https://clinicaltrials.gov/study/NCT07946952
 
 SUMMARY:
 
-## NCT00271622
-Neurodevelopmental and Behavioral Phenotyping Screening Protocol
+## NCT03857945
+Effect of Preoperative Mobility Device Training on Postoperative Fall Incidence
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00271622
-
-SUMMARY:
-
-## NCT01293214
-Vascularized Composite Allotransplantation for Multiple Extremity Amputations
-
-Intervention: : Limb transplantation
-Link: https://clinicaltrials.gov/study/NCT01293214
+Intervention: : Preoperative mobility device(s) training — Patients in Group 1 (the intervention, that is the mobility device training group group) will receive training on the mobility device(s) with the physical therapy visit during their standard pre-operative care.
+Link: https://clinicaltrials.gov/study/NCT03857945
 
 SUMMARY:
 
-## NCT03867448
-The Evaluation and Management of Endocrine-Related Conditions and Physiology
+## NCT01209000
+Nephrotic Syndrome Study Network Under the Rare Diseases Clinical Research Network
 
-Intervention: : Creation of side holes in catheters for adrenal vein sampling — one or two side-holes will be created by the interventional radiologist to facilitate adrenal vein sampling
-Link: https://clinicaltrials.gov/study/NCT03867448
-
-SUMMARY:
-
-## NCT04421820
-A Phase 1b/2a Dose Escalation Study of BOLD-100 in Combination With FOLFOX Chemotherapy With or Without Bevacizumab in Patients With Advanced Solid Tumours
-
-Intervention: : BOLD-100 ± FOLFOX ± Bevacizumab Chemotherapy (Arm VII) — Arm VIIA: 500 mg/m2 BOLD-100 combined with FOLFOX ± Bevacizumab; Arm VIIB: 625 mg/m2 BOLD-100 combined with FOLFOX ± Bevacizumab; Arm VIIC: FOLFOX ± Bevacizumab alone
-: BOLD-100 in combination with FOLFOX Chemotherapy (Arms I-VI) — BOLD-100 at 625 mg/m2 combined with FOLFOX Chemotherapy
-Link: https://clinicaltrials.gov/study/NCT04421820
+Intervention: : Kidney Biopsy — Patients scheduled to undergo a clinically indicated kidney biopsy will be requested to consent to an additional renal core, to be set aside until all clinical care is complete.
+Link: https://clinicaltrials.gov/study/NCT01209000
 
 SUMMARY:
 
-## NCT03631628
-A Randomized Controlled Clinical Trial of Upper Limb Training With Mirror Therapy (MT) and Bilateral Transcutaneous Electrical Nerve Stimulation (Bi-TENS) to Improve Upper Limb Motor Functions in Patients With Stroke
+## NCT04250857
+HeartStart FRx Defibrillator Event Registry
 
-Intervention: : Bilateral Transcutaneous electrical nerve stimulation (Bi-TENS) — The stimulator is a 120z Dual-Channel TENS Unit (ITO Physiotherapy \& Rehabilittaion, Co, Ltd, Tokyo, Japan). The TENS stimulation will be at 100 Hz, with 0.2 ms square pulses at an intensity of twice the sensory threshold (defined as the minimum intensity at which subject reported feeling a tingling sensation and below the motor threshold as indicated by the absence of muscle twitching, to provide sensory stimulation to both paretic and intact arms. Two pairs of disposable surface electrodes will be applied over the median nerve from the carpal tunnel to the flexor digitorum superficialis and the superficial radial nerve from the extensor pollicis longus to the extensor digitorum communis, with the cathode on the proximal site, and the anode on the distal site.
-: Mirror Therapy (MT) — A customised angle-adjustable frame with a mirror board will be used. All subjects are instructed to perform
-
-1. Elbow flexion and extension exercise
-2. Forearm pronation and supination exercise
-3. Wrist flexion and extension exercise
-4. Wrist radial and ulnar deviation exercise
-5. Fingers opposition exercise
-6. Gripping exercise
-
-The subject will complete bilaterally upper limb exercises during the 30 minutes period.
-
-Intact arm will be placed in front of mirror, and paretic arm will be placed behind the mirror.
-
-Joints involved will be flexed and extended in full available range in sitting positon, in order to improve the active control of elbow joint, wrist joint and all fingers joint respectively.
-
-Participants will be encouraged to focus on the image of intact arm when performing upper limb exercises bilaterally.
-: sham-Mirror Therapy (sham-MT) — A customised angle-adjustable frame with a mirror board will be used while the reflecting surface of the mirror was covered with paper. All subjects are instructed to perform
-
-1. Elbow flexion and extension exercise
-2. Forearm pronation and supination exercise
-3. Wrist flexion and extension exercise
-4. Wrist radial and ulnar deviation exercise
-5. Fingers opposition exercise
-6. Gripping exercise
-
-The subject will complete bilaterally upper limb exercises during the 30 minutes period.
-
-Intact arm will be placed in front of covered mirror, and paretic arm will be placed behind the covered mirror.
-
-Joints involved will be flexed and extended in full available range in sitting positon, in order to improve the active control of elbow joint, wrist joint and all fingers joint respectively.
-: Conventional Rehabilitation Program — Standardized upper limb training
-Link: https://clinicaltrials.gov/study/NCT03631628
+Intervention: : HeartStart FRX — Automated External Defibrillator
+Link: https://clinicaltrials.gov/study/NCT04250857
 
 SUMMARY:
 
-## NCT03072927
-MILD® Percutaneous Image-Guided Lumbar Decompression: A Medicare Claims Study
+## NCT01763125
+Establishment of a Blood Sample Bank in the Field of Gynaecological Oncology.
 
-Intervention: : MILD — MILD is performed under fluoroscopic image guidance through an ipsilateral interlaminar dorsal approach to the spine. Partial decompression is performed through the removal of tissue and bone at the symptomatic level confirmed with correlated MRI and clinical findings.
-: Interspinous Process Decompression — Interspinous Process Decompression
-Link: https://clinicaltrials.gov/study/NCT03072927
+Intervention: : Blood collection — Blood sample is collected during routine blood collection by a medical doctor. No more than 60ml (max.) at one timepoint.
+Link: https://clinicaltrials.gov/study/NCT01763125
 
 SUMMARY:
 
-## NCT01375530
-VRC 500: Screening Volunteers for Clinical Trials of Investigational Products and Licensed Products Evaluated for Research Purposes
+## NCT04043598
+Crystalloid Fluid Choice and Neurological Outcome in Patients After Subarachnoid Haemorrhage - a Multi-center Randomized Double-blind Clinical Trial
+
+Intervention: : 0.9% Sodium-chloride — We will compare two already established treatment protocols: the use of normal saline versus lactated Ringer's for fluid therapy in patients with subarachnoid hemorrhage.
+: Ringer's Lactate — We will compare two already established treatment protocols: the use of normal saline versus lactated Ringer's for fluid therapy in patients with subarachnoid hemorrhage.
+Link: https://clinicaltrials.gov/study/NCT04043598
+
+SUMMARY:
+
+## NCT04230785
+Clinical Significance of Circulating Non-coding RNA in Acute Ischemic Stroke With Endovascular Treatment (EVTRNA)
+
+Intervention: : Sequencing of circRNA/lncRNA/miRNA — Next generation sequencing and quantitative real-time polymerase chain reaction of circular RNA (circRNA), long non-coding RNA (lncRNA) and micro-RNA (miRNA)
+Link: https://clinicaltrials.gov/study/NCT04230785
+
+SUMMARY:
+
+## NCT04187729
+Intermountain Healthcare's - PRECISion MEdicine Biobank
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01375530
+Link: https://clinicaltrials.gov/study/NCT04187729
 
 SUMMARY:
 
-## NCT03720613
-Risk of Major Adverse Cardiovascular Events Among Users of Naldemedine Compared With Other Medications Used for Opioid Induced Constipation in Adult Patients With Chronic Non-Cancer Pain in a Healthcare Claims Database
-
-Intervention: : Naldemedine — 0.2 mg tablet once a day at any time with or without food
-: Lubiprostone — 0.024 mg twice a day \[adjust dose based on liver function\]
-: Naloxegol — 25 mg tablet once a day in morning, 1 hour before or 2 hours after food
-Link: https://clinicaltrials.gov/study/NCT03720613
-
-SUMMARY:
-
-## NCT03026140
-Neoadjuvant Immune Checkpoint Inhibition and Novel IO Combinations in Early-stage Colon Cancer (Amended Protocol of: Nivolumab, Ipilimumab and COX2-inhibition in Early Stage Colon Cancer: an Unbiased Approach for Signals of Sensitivity: The NICHE TRIAL)
-
-Intervention: : Nivolumab — Nivolumab 3mg/kg (day 1 and day 15), administered neoadjuvant before surgery
-: Ipilimumab — Ipilimumab 1 mg/kg (day 1) ,administered neoadjuvant before surgery
-: Celecoxib 200mg — celecoxib will be administered starting day 1 until 1 day before surgery daily (if patient is randomized to group 2 (only applicable for patients with a MSS tumor)
-: BMS-986253 — BMS-986253 2400mg IV will be administered on day 1 and 15 (only applicable for patients with MSS tumors)
-: Relatlimab (BMS-986016) — Relatlimab will be administered IV, in cohort 5 240mg on day 1 and day 15, in cohort 6 480mg on day 1 and day 29, in cohort 7 160mg on day 1, day 29 and day 57
-Link: https://clinicaltrials.gov/study/NCT03026140
-
-SUMMARY:
-
-## NCT00106925
-Long-Term Evaluation and Follow Up Care of Patients Treated With Allogeneic Stem Cell Transplants
+## NCT02357238
+Genetics of Uveitis
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00106925
+Link: https://clinicaltrials.gov/study/NCT02357238
 
 SUMMARY:
 
-## NCT04196218
-Driving After Arthroscopic Rotator Cuff Repair or Shoulder Arthroplasty
+## NCT04301076
+A Phase 1 Study of Lenalidomide in Combination With EPOCH Chemotherapy for HTLV-Associated Adult T-Cell Leukemia-Lymphoma (ATLL)
 
-Intervention: : Driving simulator — Computer simulated driving assessment
-Link: https://clinicaltrials.gov/study/NCT04196218
-
-SUMMARY:
-
-## NCT04209504
-Evaluating Hemidiaphragmatic Paralysis With Prolonged Neural Blockade From an Interscalene Brachial Plexus Block
-
-Intervention: : Ultrasound — Ultrasound guided evaluation of diaphragm ipsilateral to the block side.
-: Ropivacaine — Local anesthetic (numbing drug)
-: Bupivacaine — Local anesthetic (numbing drug)
-: MediPines AGM100 Advanced Respiratory Monitoring System — Non-invasive respiratory monitor to measure oxygenation and ventilation parameters
-Link: https://clinicaltrials.gov/study/NCT04209504
-
-SUMMARY:
-
-## NCT02315521
-Validation of the Standardized Prenatal Clinical Management of Fetuses With Lower Urinary Tract Obstruction (LUTO)
-
-Intervention: : Fetal Intervention for LUTO — Fetal vesico-amniotic shunting placement consists in placing a shunt (stent) percutaneously from fetal bladder to the amniotic cavity under ultrasound guidance.
-
-Fetal cystoscopy will be performed using a thin scope that will be introduced to the fetal bladder for evaluation of the cause of the obstruction and ablation of the posterior urethral valves.
-Link: https://clinicaltrials.gov/study/NCT02315521
+Intervention: : Biospecimen Collection — Undergo tissue and blood sample collection
+: Bone Marrow Biopsy — Undergo bone marrow biopsy
+: Computed Tomography — Undergo PET/CT or CT
+: Cyclophosphamide — Given IV
+: Doxorubicin Hydrochloride — Given IV
+: Echocardiography Test — Undergo ECHO
+: Etoposide — Given IV
+: Lenalidomide — Given PO
+: Multigated Acquisition Scan — Undergo MUGA
+: Positron Emission Tomography — Undergo PET/CT
+: Prednisone — Given PO
+: Vincristine Sulfate — Given IV
+Link: https://clinicaltrials.gov/study/NCT04301076
 
 SUMMARY:
 
-## NCT03206060
-Lu-177-DOTATATE (Lutathera) in Therapy of Inoperable Pheochromocytoma/ Paraganglioma
+## NCT01344525
+Pilot Project on Interdisciplinary Therapy of Obesity and Its Consequences on Body Weight, Quality of Life and Gastrointestinal Parameters
 
-Intervention: : Lu-177-DOTATATE — Lu-177-DOTATATE IV at weeks 1, 8, 16 and 24.
-: Ga-68-DOTATATE — Ga-68-DOTATATE PET/CT at weeks 15 and 31, every 24 weeks during 3 years follow up period.
-Link: https://clinicaltrials.gov/study/NCT03206060
-
-SUMMARY:
-
-## NCT04041583
-Clinical and Radiological Outcomes of Posterior Cervical Fusion Supplemented With Interfacet Spacers
-
-Intervention: : Cervical Interfacet Spacers — The use of Cervical Interfacet Spacers is a relatively novel technique shown to be useful for posterior fusion to address symptomatic pseudoarthrosis (fusion failure) after anterior cervical arthrodesis \[2\]. CIS have a relatively large osteoconductive surface area and are placed under tension in the interfacet space, which together favorably influence bony fusion \[2\].
-Link: https://clinicaltrials.gov/study/NCT04041583
+Intervention: : Laparoscopic gastric sleeve — Laparoscopic gastric sleeve
+: Gastric Banding — Gastric Banding
+: Multidisciplinary lifstyle intervention — Multidisciplinary lifstyle intervention (OPTIFAST®52-program)
+: Roux-en-Y Bypass — Roux-en-Y Bypass
+Link: https://clinicaltrials.gov/study/NCT01344525
 
 SUMMARY:
 
-## NCT04414475
-A Phase 2b, Open-label, Multi-arm Clinical Trial of Selinexor Plus Low-dose Dexamethasone (Sd) in Patients With Penta-refractory Multiple Myeloma or Selinexor and Bortezomib Plus Low-dose Dexamethasone (SVd) in Patients With Triple-class Refractory Multiple Myeloma
+## NCT04016389
+FIGO 2018 Stage IB2 (> 2 to ≤4cm) Cervical Cancer Treated With Neoadjuvant Chemotherapy Followed by Fertility Sparing Surgery (CoNteSSa) / Neo-Adjuvant Chemotherapy and Conservative Surgery in Cervical Cancer to Preserve Fertility
 
-Intervention: : Selinexor — Participants will receive Selinexor oral tablets.
-: Dexamethasone — Participants will receive Dexamethasone oral tablets.
-: Bortezomib — Participants will receive Bortezomib SC injection.
-Link: https://clinicaltrials.gov/study/NCT04414475
-
-SUMMARY:
-
-## NCT04322383
-Phase 2 Trial for Binimetinib for Patients With Relapsed/Refractory BRAF Wild Type Hairy Cell Leukemia and Variant
-
-Intervention: : binimetinib — Binimetinib will be given orally at a dose of 45mg BID continuously for 28-day cycles with no resting period between cycles.
-Link: https://clinicaltrials.gov/study/NCT04322383
+Intervention: : Cisplatin — Cisplatin is an antineoplastic agent that is commonly used for the treatment of cervical cancer.
+: Carboplatin — Carboplatin is an antineoplastic agent that is commonly used for the treatment of cervical cancer.
+: Paclitaxel — Paclitaxel is an antineoplastic agent that is commonly used in combination with cisplatin or carboplatin for the treatment of cervical cancer.
+: Trachelectomy — Surgery to remove the cervix but keep the uterus intact.
+Link: https://clinicaltrials.gov/study/NCT04016389
 
 SUMMARY:
 
-## NCT04061421
-The ABNL-MARRO 001 Study: A Phase 1/2 Study of Active Myeloid Target Compound Combinations in MDS/MPN Overlap Syndromes.
+## NCT04045691
+Encorafenib Plus Binimetinib in Patients With Locally Advanced, Unresectable or Metastatic BRAFV600-mutated Melanoma: a Multi-centric, Multinational, Prospective, Longitudinal, Non-interventional Study in Germany, Austria and Switzerland - BERING MELANOMA
 
-Intervention: : ASTX727 — Taken by mouth daily during days 1-5 of every 28-day cycle.
-: Itacitinib — Taken by mouth daily during each 28-day cycle
-: Ruxolitinib — Dosage will be 5,15, or 20mg Taken by mouth BID for 28-day cycle
-Link: https://clinicaltrials.gov/study/NCT04061421
-
-SUMMARY:
-
-## NCT04344262
-Respiratory Benefits of Small Doses Muscle Relaxant in General Anesthesia
-
-Intervention: : Atracurium Besylate regular dose — Intubating dose of muscle relaxant will be atracurium 0.5 mg/kg
-
-Maintenance doses of muscle relaxant will be given throughout the intraoperative period
-
-to maintain the Train-of-four values continuously less than 2
-: Atracurium Besylate minial dose — atracurium boluses of muscle relaxant given only upon complain of the surgeon and after a bolus dose of propofol 0.5 mg/kg. When required, 20% of the initial dose of muscle relaxant will be provided as a bolus to achieve this goal
-Link: https://clinicaltrials.gov/study/NCT04344262
+Intervention: : Encorafenib — Observation of real-life treatment with encorafenib and binimetinib
+: Binimetinib — Observation of real-life treatment with encorafenib and binimetinib
+Link: https://clinicaltrials.gov/study/NCT04045691
 
 SUMMARY:
 
-## NCT02426398
-Developing a New EEG Method for the Early Diagnosis of Dementia. Using Novel EEG Analyses to Create a Diagnostic Test and Biomarker for Use With People With Dementia
+## NCT04296071
+Neutrophil Phenotypic Profiling and Acute Lung Injury in Patients After Cardiopulmonary Bypass (CPB)
+
+Intervention: : Research study — Blood and tracheal aspirates will be collected
+Link: https://clinicaltrials.gov/study/NCT04296071
+
+SUMMARY:
+
+## NCT03737786
+Title : SEACOAST 1 SEdAtion With COllAteral Support in Endovascular Therapy for Acute Ischemic Stroke 1: a Randomized Controlled Phase 2B Clinical Trial
+
+Intervention: : Tight control of end-tidal CO2 levels — The desired end-tidal PCO2 levels will be achieved by endotracheal intubation and controlled ventilation
+Link: https://clinicaltrials.gov/study/NCT03737786
+
+SUMMARY:
+
+## NCT03135886
+A Cluster RCT to Increase HIV Testing in Substance Use Treatment Programs
+
+Intervention: : Information Control — The OTPs assigned to this group will be provided access to the NIDA/SAMHSA Blending Initiative product for HIV rapid testing. Resources generated from the HIV rapid testing Blending Initiative product include a fact sheet, resource guide, marketing materials, and an Excel-based budgeting tool. In addition to the HIV-specific materials, the website provides opportunities for training, self-study progress, workshop, and distance learning. OTPs also will receive a link to the Anti-Retroviral Treatment and Access to Services (ARTAS) intervention training website which provides information and training courses. Sites also will receive a hard (or electronic) copy of the ARTAS implementation manual and information about the provision of HIV testing, linkage to care and PrEP.
+: HIV and HCV Testing Practice Coaching Intervention — The practice coaches (PCs) will work with the program team a) to establish capabilities, reimbursement systems and/or partnerships necessary to support HIV and HCV testing and evidence--based linkage to care and b) to reduce barriers (e.g., staffing, training) to the implementation and sustained provision of HIV and HCV testing. Also, due to the expense of HCV treatment, and potentially more complicated mechanisms for linking HCV-positive patients to further evaluation and care which may take more time than anticipated, PCs will provide OTPs with basic education and motivation about the importance of HCV testing for reasons other than immediate curative treatment. Information on PrEP also will be provided. The intervention will occur over approximately 29 weeks (or 6 months).
+: HIV Testing Practice Coaching Intervention — The practice coaches (PCs) will work with the programs a) to establish capabilities, reimbursement systems and/or partnerships necessary to support HIV testing and evidence-based linkage to care and b) to reduce barriers (e.g., staffing, training) to the implementation and sustained provision of HIV testing. Information on Pre-Exposure Prophylaxis (PrEP) also will be provided. The intervention will occur over approximately 29 weeks (or 6 months) consisting of four distinct evidence-based phases designed to establish competency in the implementation of organizational change towards establishing HIV testing outcomes among OTP clientele.
+Link: https://clinicaltrials.gov/study/NCT03135886
+
+SUMMARY:
+
+## NCT00837122
+Genetics of Type 2 Diabetes in Diverse Populations
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02426398
+Link: https://clinicaltrials.gov/study/NCT00837122
 
 SUMMARY:
 
-## NCT03739827
-Natural History and Biospecimen Acquisition Study for Children and Adults With Rare Solid Tumors
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03739827
-
-SUMMARY:
-
-## NCT01778543
-Pathogenesis and Genetics of Microphthalmia, Anophthalmia and Uveal Coloboma ( MAC)
+## NCT04495790
+Advanced Integrative Oncology Treatment for Adult and Pediatric Patients With Cancer: A Prospective Outcomes Study
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01778543
+Link: https://clinicaltrials.gov/study/NCT04495790
 
 SUMMARY:
 
-## NCT02567136
-A Longitudinal Study of Imaging Biomarkers in Amyotrophic Lateral Sclerosis (ALS)
+## NCT07885462
+Coronary MicrovAscular Diseases Intervention With Compound Danshen Dropping Pills(MAID)
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02567136
-
-SUMMARY:
-
-## NCT04449666
-Investigation of the Relationship Between Hippocampal Volume and Memory Functions in in Patients With Aneurysmal Subarachnoid Hemorrhage (aSAH)
-
-Intervention: : Neuropsychological assessment and structural MRI — Complex neuropsychological assessment testing attentional and memory functions. Additionally, a structural MRI is measured.
-Link: https://clinicaltrials.gov/study/NCT04449666
+Intervention: : Compound Danshen Dripping Pills — 20 pills (540 mg) orally three times daily for 12 months. Each pill weighs 27 mg, containing Radix Salviae miltiorrhizae, Radix Notoginseng, and Borneolum Syntheticum. Manufactured and supplied by Tasly Pharmaceutical Group Co., Ltd.
+: Placebo — Placebo pills identical to Compound Danshen Dripping Pills in appearance, taste, and packaging, 20 pills orally three times daily for 12 months.
+Link: https://clinicaltrials.gov/study/NCT07885462
 
 SUMMARY:
 
-## NCT01386437
-The Natural History and Pathogenesis of Human Fungal Infections
+## NCT07738341
+A Open-label, Multicenter Phase Ib/Ⅱ Study to Evaluate the Safety, Tolerability, and Antitumor Activity of GB268 for Injection as Monotherapy or in Combination Regimens in Patients With Locally Advanced Unresectable or Metastatic Breast Cancer
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01386437
-
-SUMMARY:
-
-## NCT03019757
-Distinguishing Between Alzheimer's Disease, Lewy Body Dementia, and Parkinson's Disease
-
-Intervention: : DaTscan — A functional imaging of the dopamine transporter using the radioligand \[123I\]FP-CIT
-: F18-AV-45 — A brain scan to to measure the extent of amyloid deposition
-: FDG-PET — a brain scan measuring total and regional cerebral glucose metabolism wtih positron emission tomographs with 2-(18F)
-: APOE genotype — 10 ml of whole blood will be drawn and shipped to Athena Diagnostics for genetic testing.
-: Polysomnogram — Overnight sleep study
-: Clinical Assessment — Clinical assessments include cognitive, behavioral, and motor evaluations
-Link: https://clinicaltrials.gov/study/NCT03019757
+Intervention: : GB268 — GB268 is a tri-specific antibody targeting PD-1, CTLA-4, and VEGF. It is designed to block immune checkpoints (PD-1/CTLA-4) to enhance T-cell-mediated anti-tumor immune responses and simultaneously inhibit VEGF-mediated tumor angiogenesis
+: Nab-Paclitaxel — Nab-Paclitaxel is a microtubule-stabilizing agent formulated as albumin-bound nanoparticles for IV administration.
+: Datopotamab Deruxtecan (Dato-DXd) — Datopotamab Deruxtecan is an ADC targeting Trop-2, consisting of a monoclonal antibody linked to a topoisomerase I inhibitor payload.
+: Sacituzumab Tirumotecan — A Trop-2-directed Antibody-Drug Conjugate \[ADC\] consisting of a humanized anti-Trop-2 monoclonal antibody covalently linked to a topoisomerase I inhibitor payload.
+Link: https://clinicaltrials.gov/study/NCT07738341
 
 SUMMARY:
 
-## NCT04141878
-Dementia and Diabetes Prevention Program (DDPP)
+## NCT00505245
+Measuring the Symptom Distress of Cancer Patients: Development of a New Assessment System
 
-Intervention: : Aerobic Exercise — Participants will follow a structured program that includes exercise 3 times per week for about 30 minutes each time. The type of aerobic exercise may vary, but will primarily focus on walking tutorials.
-: Diet Skills — Participants will attend weekly classes focused on incorporating heart healthy foods into their existing diets. Calories will be restricted, and portion control will be taught with the goal of losing body weight. Hands-on skills will be taught for preparing healthy home-cooked meals by professional chefs.
-Link: https://clinicaltrials.gov/study/NCT04141878
+Intervention: : Interview — Complete interview
+: Quality-of-Life Assessment — Complete quality of life assessment
+: Questionnaire Administration — Complete questionnaires
+Link: https://clinicaltrials.gov/study/NCT00505245
 
 SUMMARY:
 
-## NCT00026650
-Evaluation of Late Effects and Natural History of Disease in Patients Treated With Radiotherapy
+## NCT00246857
+Screening Protocol for Genetic Diseases of Lymphocyte Homeostasis and Programmed Cell Death
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00026650
+Link: https://clinicaltrials.gov/study/NCT00246857
 
 SUMMARY:
 
-## NCT01496625
-NEI Intramural Biorepository for Retinal Diseases
+## NCT04517656
+Biomarkers Impact Evaluation on the Post-transplant Immune Response After Allografting of Hematopoietic Stem Cells: MENTALO Study
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01496625
+Intervention: : Blood samples — A peripheral blood sample will be taken and will include 2 EDTA tubes of 5 mL, for a total volume of 10 mL:
 
-SUMMARY:
-
-## NCT03269578
-Longitudinal Sample Collection and Tracking for the Developmental Therapeutics Clinic, National Cancer Institute
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03269578
+* Samples before the allograft,
+* Samples at different times post-allograft: 15 days, 30 days, 60 days, 90 days, 180 days, 360 days,
+* Samples in the event of the occurrence of concomitant events during the 12-month follow-up period: occurrence of acute Graft Versus Host Disease, chronic Graft Versus Host Disease, or relapse of the disease before the initiation of a new treatment.
+Link: https://clinicaltrials.gov/study/NCT04517656
 
 SUMMARY:
 
-## NCT03173937
-Unrelated Umbilical Cord Blood Transplantation for Severe Aplastic Anemia and Hypo-plastic MDS Using CordIn, Umbilical Cord Blood-Derived Ex Vivo Expanded Stem and Progenitor Cells, to Expedite Engraftment and Improve Transplant Outcome
+## NCT03847649
+A Phase II Study of Durvalumab Treatment Substudy A: In Patients Who Discontinued Prior Checkpoint Therapy Due to Immune Related Toxicity Substudy B: For Continued Treatment (+/- Tremelimumab) of Patients Previously Enrolled to Completed CCTG Studies
 
-Intervention: : Omidubicel (former CordIn) — Stem/progenitor cell-based product of purified CD133+ cells composed of ex vivo expanded allogeneic umbilical/unrelated cord blood (UCB) cells. CordIn(TM) comprises: 1) cord blood-derived ex vivo expanded CD133+ cells (CordIn (TM) cultured fraction (CF)); and 2) the non-cultured cell fraction (CD133-) of the same CBU (CordIn(TM) Non-cultured Fraction (NF)). Both fractions, i.e. CordIn(TM) CF and CordIn(TM) NF are kept frozen until they are infused on the day of transplantation.
-: Miltenyi CliniMACS(R) CD34 Reagent System — The CliniMACS CD34 Reagent System is a medical device system that is designed for the in vitro enrichment of CD34+ target cells from heterogeneous hematologic cell populations. The process of CD34+ cell selection results in simultaneous passive depletion of donor lymphocytes, potentially obviating the need for immunosuppressive drugs to prevent GVHD.
-Link: https://clinicaltrials.gov/study/NCT03173937
-
-SUMMARY:
-
-## NCT04445649
-Investigation of Prognostic Factors to Regain Consciousness in Neurological Early Rehabilitation
-
-Intervention: : Coma-Recovery-Scale-Revised (CRS-R) — CRS-R assessments (15 minutes) are repeated weekly after study entry
-Link: https://clinicaltrials.gov/study/NCT04445649
+Intervention: : Durvalumab — 1500 mg IV, 60 min, Day 1 every 4 weeks
+: Prednisone — 0.5mg/kg; PO, Daily cycles 1 \& 2
+: Prednisone — 10mg, PO, Daily cycles 1 \& 2
+: Tremelimumab — Patients previously enrolled on a completed CCTG trial to continue treatment with durvalumab (+/- tremelimumab)
+Link: https://clinicaltrials.gov/study/NCT03847649
 
 SUMMARY:
 
-## NCT03409159
-Austrian Left Atrial Appendage Closure Registry
-
-Intervention: : LAAC — Left atrial appendage closure
-Link: https://clinicaltrials.gov/study/NCT03409159
-
-SUMMARY:
-
-## NCT03893929
-The Investigation of New Biological Markers for Prostate Cancer Diagnosis and Management in Chinese Population
-
-Intervention: : New Biological markers for prostate cancer diagnosis and management — To identify potential new blood and urine markers for the diagnosis, risk stratification and prognosis prediction for prostate cancer in Chinese population.
-Link: https://clinicaltrials.gov/study/NCT03893929
-
-SUMMARY:
-
-## NCT03190928
-Prospective Study of Clonal Evolution in Follicular Lymphoma
+## NCT04521673
+Pathogen Detection in Infectious Uveitis in China
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03190928
+Link: https://clinicaltrials.gov/study/NCT04521673
 
 SUMMARY:
 
-## NCT01193075
-Natural History Evaluation of Charcot Marie Tooth Disease (CMT) Type (CMT1B), 2A (CMT2A), 4A (CMT4A), 4C (CMT4C), and Others
+## NCT03650673
+A Prospective Cohort Study of Patients Suffering From Hand Osteoarthritis
+
+Intervention: : Identification of subgroups of patients with early AD with risk of progression — Clinical examination with questionnaires, Biological collection, Imaging (radiography, densitometry, ultrasound, and MRI)
+Link: https://clinicaltrials.gov/study/NCT03650673
+
+SUMMARY:
+
+## NCT03541928
+Phase II Study Evaluating HSV-tk + Valacyclovir Gene Therapy in Combination With Androgen Deprivation Therapy, Brachytherapy, External Beam Radiotherapy, and Prostatectomy for High-Risk Prostate Cancer
+
+Intervention: : HSV-Tk — Injection of the HSV-tk gene therapy product in four quadrants of prostate to enhance the immune system via "bystander effect" in which cytotoxicity is conferred to non-transduced neighboring cells. In vivo bystander effects are likely due to a combination of host immunological responses and to gap junction-mediated transport of phosphorylated prodrug metabolites to surrounding cells.
+: Valacyclovir — The recommended dose for this trial is 2 g orally t.i.d. for 14 days (day 1 to day 15 and days 31 to 45). This dose has been calculated to give a similar AUC as 10 mg/kg of intravenous acyclovir administered every 8 hours. This is the same dose regimen used in a previous phase I clinical trial of ADV/HSV-tk plus acyclovir and topotecan in patients with recurrent ovarian cancer.
+: Bicalutamide — The recommended dose for Bicalutamide therapy in combination with an LHRH analogue is one 50 mg tablet once daily (morning or evening), with or without food. It is recommended that Bicalutamide be taken at the same time each day.
+
+The use of an oral antiandrogen with medical castration for the treatment of prostate cancer is referred to as combined androgen blockade (CAB). Compared with LHRH-agonist monotherapy, CAB with bicalutamide did not reduce overall QoL but provided an early improvement in QoL related to lower urinary tract symptoms and pain.
+: Leuprolide Acetate — Leuprolide acetate 7.5 mg depot injection will be injected monthly for a total of 2 months.
+: Brachytherapy, External beam radiotherapy — On day 60, patient will undergo high dose rate (HDR) Brachytherapy. The patient will have 8-14 needle catheters inserted under ultrasound guidance. CT simulation and radiation treatment planning will be performed. The needle catheters will be connected to an HDR afterloader containing an Iridium 192 source. A single dose of 1250cGy will be delivered.
+: Radical prostatectomy — approximately 2-3 weeks after radiotherapy completion, patient will undergo radical retropubic prostatectomy. Use of laparoscopy or robotic assistance will be at the urologist's discretion. Lymph node dissection will be performed.
+Link: https://clinicaltrials.gov/study/NCT03541928
+
+SUMMARY:
+
+## NCT03121001
+A Phase II Study of HLA-Haploidentical Stem Cell Transplantation to Treat Clinically Aggressive Sickle Cell Disease
+
+Intervention: : ATG — 0.5 mg/kg IV on day -9, and 2 mg/kg on days -8 and day -7
+: fludarabine — 30 mg/m2 IVPB daily for day -6 (6 days before stem cell infusion) through day -2
+: cyclophosphamide — 14.5 mg/kg IV on days -6 and -5 and 50 mg/kg/d on days +3 and +4
+: Total body irradiation — 3 Gy on day -1
+: Stem cell infusion — Stem cell product infused according to BMT unit policy on day 0.
+: Sirolimus — loading dose of 15 mg followed by 5 mg per day on day +5
+: mycophenolate mofetil — 1 g every 8 h (until day 35) will be started on day 5
+Link: https://clinicaltrials.gov/study/NCT03121001
+
+SUMMARY:
+
+## NCT03314974
+Myeloablative Allogeneic Hematopoietic Cell Transplantation Using a Related or Unrelated Donor for the Treatment of Hematological Diseases
+
+Intervention: : HSCT with TBI Regimen — Day -5 to -2: Total Body Irradiation Day 0: Hematopoietic Stem Cell Transplantation Day +3 to +4: Cyclophosphamide Day +5: Tacrolimus from day +5 until taper day +100 (day +60 for peds if no acute or chronic GVHD present) Day +5: Mycophenolate mofetil through day +35 or 7 days after engraftment, whichever day is later, if no acute GVHD
+: HSCT with Non-TBI Regimen — Day -5 to Day -2: Busulfan and Fludaribine Day 0: Hematopoietic Stem Cell Transplantation Day +3 to +4: Cyclophosphamide Day +5: Tacrolimus from day +5 until taper day +100 (day +60 for peds if no acute or chronic GVHD present) Day +5: Mycophenolate mofetil through day +35 or 7 days after engraftment, whichever day is later, if no acute GVHD
+Link: https://clinicaltrials.gov/study/NCT03314974
+
+SUMMARY:
+
+## NCT04371913
+Personalized Second Chance Breast Conservation (PSCBC): A Two Center Prospective Phase II Clinical Study
+
+Intervention: : 600cGY x 5 fractions APBI — Patients will be treated with the fractionation of 30 Gy in 5 fractions over 1-2 weeks, which is the accelerated fractionation scheme of choice for RT naïve patients at New York Presbyterian using EBRT
+: 270cGy x 15 fractions WBRT — Patients will be treated with the fractionation of 4050 cGy in 15 fractions over 3 weeks, which is the standard whole breast RT (WBRT) fractionation scheme of choice for RT naïve patients at New York Presbyterian using External Beam Radiation Therapy (EBRT)
+Link: https://clinicaltrials.gov/study/NCT04371913
+
+SUMMARY:
+
+## NCT01777828
+Registry of Aortic Valve Bioprostheses Established by Catheter
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01193075
+Link: https://clinicaltrials.gov/study/NCT01777828
 
 SUMMARY:
 
-## NCT02523014
-Phase II Trial of SMO/ AKT/ NF2/CDK Inhibitors in Progressive Meningiomas With SMO/ AKT/ NF2/CDK Pathway Mutations
+## NCT03935295
+Dysport ® (abobotulinumtoxinA) as an Adjunctive Treatment to Bracing in the Management of Adolescent Idiopathic Scoliosis
 
-Intervention: : Vismodegib — Given PO
-: FAK Inhibitor GSK2256098 — Given PO
-: Capivasertib — Given PO
-: Abemaciclib — Given PO
-Link: https://clinicaltrials.gov/study/NCT02523014
-
-SUMMARY:
-
-## NCT03446456
-The Influence of Vasopressin on Observational Learning of Placebo Analgesia
-
-Intervention: : Arginine vasopressin — Intranasal vasopressin will be administered shortly before the fMRI experiment.
-: Saline — Intranasal saline will serve as a placebo for participants in the Saline Arm
-: Observational learning — During the observational learning intervention, participants will learn the experience of analgesia in another person via a video. Participants will learn the analgesia nature of the placebo cream and the neutral nature of the control cream.
-: fMRI data aquisition — All participants from the intranasal vasopressin and intranasal saline groups will go through a fMRI data acquisition to obtain the brain structural, brain resting-states and functional MRI scans.
-Link: https://clinicaltrials.gov/study/NCT03446456
+Intervention: : AbobotulinumtoxinA — Paraspinal abobotulinumtoxinA injections (compared to placebo)
+: Placebos — Placebo prepared by Ipsen for use as control
+: Custom Thoracolumbosacral Orthosis — Non-operative external bracing for scoliosis curves
+Link: https://clinicaltrials.gov/study/NCT03935295
 
 SUMMARY:
 
-## NCT04305834
-A Phase IIA Trial Assessing the Tolerability of Abemaciclib in Combination With Endocrine Therapy in Patients Age 70 and Older With Hormone Receptor Positive Metastatic Breast Cancer Who Have Progressed on or After Prior CDK 4/6 Inhibition
-
-Intervention: : Abemaciclib — Given PO
-: Questionnaire Administration — Ancillary studies
-Link: https://clinicaltrials.gov/study/NCT04305834
-
-SUMMARY:
-
-## NCT03401879
-Retinal Neuro-vascular Coupling in Patients With Multiple Sclerosis
-
-Intervention: : Dynamic Vessel Analyzer (DVA) — Retinal vessel diameters and oxygen saturation will be measured with the DVA device.
-: Fourier Domain Doppler Optical Coherence Tomography (FDOCT) — Retinal blood flow will be assessed using FDOCT.
-: Optical coherence tomography (OCT) — Nerve fiber layer thickness and central retinal thickness will be measured using OCT.
-: Optical coherence tomography angiography (OCTA) — Retinal microvasculature will be assessed using OCTA.
-Link: https://clinicaltrials.gov/study/NCT03401879
-
-SUMMARY:
-
-## NCT04034264
-Characterization of Febrile Disease Landscape in Cambodia Via Metagenomic Pathogen Sequencing
+## NCT03855657
+Investigating the Intestinal Microbiota, Epigenetic Markers and Body Fluid Metabolites to Identify Biomarkers for Inflammatory Bowel Diseases
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04034264
+Link: https://clinicaltrials.gov/study/NCT03855657
 
 SUMMARY:
 
-## NCT04323371
-Cardiogenic Shock Integrated PHenotyping for Event Reduction
+## NCT04436042
+MyHand 2: An Active Hand Orthosis for Stroke Patients
 
-Intervention: : ELISA — Blood and derived fluids will be collected from 26 ADHF CS patients admitted to intensive care at Niguarda Hospital and locally stored.Stocked samples will be shipped to the Central Laboratories at Milano Uni and MilaIFC-CNR for the metabolomic and biomarkers analysis,respectively.To evaluate interleukin-6 (marker of systemic inflammation),angiopoietin-2 (marker of endothelial permeability), syndecan-1 and heparan sulfate (markers of endothelial glycocalyx),2 aliquotes of serum samples will be used by IFC CNR.The biomarkers will be assessed through ELISA analytical techniques, based on the interactions inside a microplate between a primary pre-coated antibody and the specific protein contained in serum samples.A secondary antibody, link to a horseradish peroxidase (HRP) detection system, is able to recognize and bind the antigen, and to produce a colorimetric reaction after the addition of enzyme substrate which is proportional to the amount of the target protein bound
-Link: https://clinicaltrials.gov/study/NCT04323371
+Intervention: : MyHand Device — These subjects may be asked to attend 1-40 sessions (approximately 90 mins) to trial a variety of device controls and/or components.
+Link: https://clinicaltrials.gov/study/NCT04436042
 
 SUMMARY:
 
-## NCT01076660
-Left Ventricular Structural Predictors of Sudden Cardiac Death [Substudy of: Functional Energetics and Imaging for Phenotypic Characterization of Patients at Risk for Sudden Cardiac Death, See Also NCT000181233]
+## NCT00254605
+High Resolution Retinal Imaging in Patients With Inherited Retinal Degenerations
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01076660
+Link: https://clinicaltrials.gov/study/NCT00254605
 
 SUMMARY:
 
-## NCT04048993
-Registry-based Biobank Development and Integrative Physiological Analysis
+## NCT03856034
+In Utero Endoscopic Correction of Myelomeningocele: Laparotomy Versus Percutaneous - A Pilot Study
 
-Intervention: : Biobank development and integrative physiological analysis — Collection of biological samples (blood, urine, interstitial fluid, adipose tissue and muscle) from subjects enrolled in the Section registry, using multivariate and data-mining approaches that includes also clinical and demographic parameters.
-Link: https://clinicaltrials.gov/study/NCT04048993
-
-SUMMARY:
-
-## NCT03701581
-4-aminopyridine Treatment for Nerve Injury Resulting From Radical Retro-Pubic Prostatectomy
-
-Intervention: : 4-Aminopyridine — FDA-approved tablets.
-: Placebo — Placebo will be tooled to look similar to the study drug.
-Link: https://clinicaltrials.gov/study/NCT03701581
+Intervention: : Fetoscopy — Patients will receive fetoscopic repair of myelomeningocele. Patients with an anterior placenta will undergo the laparotomy with uterine exteriorization approach. Patients with a posterior placenta will undergo the percutaneous approach (or, if patient prefers, the laparotomy with uterine exteriorization approach).
+Link: https://clinicaltrials.gov/study/NCT03856034
 
 SUMMARY:
 
-## NCT03681652
-Post-Operative Crohn's Disease Outcome in Children (The POPCORN Trial): a Prospective Comparative Non-interventional Open Study
+## NCT03806283
+Angiotensin 2 Receptor (AT2R) Expression/Activation in Endothelial Cells in Preeclampsia
 
-Intervention: : Azathioprine — Children with Crohn's disease who are treated with azathioprine for post-operative prophylaxis following ileo-cecal resection
-: Anti-TNF Drug — Children with Crohn's disease who are treated with anti-TNF monotherapy for post-operative prophylaxis following ileo-cecal resection
-Link: https://clinicaltrials.gov/study/NCT03681652
+Intervention: : Omental Biopsy — The surgeon and clinical care team will conduct the c-section to deliver the baby and the placenta as clinically indicated. After delivery, during the closing procedures, the surgeon will indicate a time for a participating Ob/Gyn physician on the study team to collect the omental bio-specimen. Omentum is frequently excised or removed for clinical reasons during surgical procedures. Omentum has small blood vessels within it that have been used for evaluation of vascular functional changes in research. The investigators wish to isolate one to three vessels of 5 to 7 cm length. The surgeon will then close and the clinical care team will resume their standard of care activities.
+Link: https://clinicaltrials.gov/study/NCT03806283
 
 SUMMARY:
 
-## NCT03047369
-The Myelin Disorders Biorepository Project and Global Leukodystrophy Initiative Clinical Trials Network
+## NCT02989025
+Progesterone to Enhance the Efficacy and Success of Expectantly Managed Preterm Severe/Superimposed Preeclampsia-The PROGRESS Pilot Study
+
+Intervention: : 17 OHPC — The study participant will be given 17 OHPC, 250mg IM at admission and every 7 days thereafter.
+Link: https://clinicaltrials.gov/study/NCT02989025
+
+SUMMARY:
+
+## NCT04013802
+Administration of Most Closely HLA-matched Multivirus-specific Cytotoxic T-Lymphocytes for the Treatment of EBV, CMV, Adenovirus, and BK Virus Infections Post Allogeneic Stem Cell Transplant
+
+Intervention: : HLA-matched VSTs — An alternative approach that bypasses the need to grow VSTs for individual patients is to bank closely HLA-matched allogeneic VSTs that could be available as an "off the shelf" product.
+
+The HLA-matched VST product is to produce immune activity to CMV, Adv, BK virus and EBV in all recipients.
+
+Most recently our group extended this "off the shelf" approach to five viruses using the T cell product manufactured in 10 days. The VSTs were administered to 38 patients with 45 infections in a phase II clinical trial. A single infusion produced a cumulative complete or partial response rate of 92% overall and the following rates by virus: 100% for BKV (n = 16), 94% for CMV (n = 17), 71% for AdV (n = 7), 100% for EBV (n = 2), and 67% for HHV-6 (human herpesvirus) (n = 3).
+Link: https://clinicaltrials.gov/study/NCT04013802
+
+SUMMARY:
+
+## NCT02770066
+A Prospective Danish National Registry of Percutaneous Transluminal Renal Angioplasty in Patients With Renovascular Hypertension
+
+Intervention: : Percutaneous transluminal renal angioplasty — Angioplasty plus stenting (angioplasty in patients with fibromuscular dysplasia)
+
+Adjuvant therapy in atherosclerotic renal artery stenosis - at the discretion of the treating physician
+
+* Antiplatelet therapy (usually standard)
+* Cholesterol-lowering drugs (usually standard)
+* Antihypertensive treatment with angiotensin-converting-enzyme inhibitor or angiotensin-receptor blocker (normally not contraindicated)
+* Smoking cessation, diet and physical activity (usually standard)
+Link: https://clinicaltrials.gov/study/NCT02770066
+
+SUMMARY:
+
+## NCT03231150
+Randomized Clinical Study to Evaluate Ultrasound Guided Injection Therapy Versus Topographic Injection Therapy for Plantar Fasciitis
+
+Intervention: : Local Steroid Injection into the plantar heel — Injections consisting of 0.5 ml 0.25% bupivacaine plain, 0.5 ml dexamethasone phosphate, and 0.5 ml triamcinolone acetonide 40 mg/ml.
+: Ultrasound Guided Injection — Execution of the USGI will employ an actual diagnostic US machine (Voluson E8 Expert, General Electric Company, Boston, MA) and a plantarmedial approach
+: Anatomical Guided injection — Execution of the ATGI will employ a sham diagnostic US machine and a plantarmedial approach.
+Link: https://clinicaltrials.gov/study/NCT03231150
+
+SUMMARY:
+
+## NCT04458545
+Phase 1A/1B Clinical Trials of Multivalent Opioid Vaccine Components
+
+Intervention: : Oxy(Gly)4-sKLH vaccine - Low Dose — Oxy(Gly)4-sKLH vaccine - Low Dose
+: Oxy(Gly)4-sKLH vaccine - High Dose — Oxy(Gly)4-sKLH vaccine - high dose
+: Placebo Oxy(Gly)4-sKLH vaccine — Oxy(Gly)4-sKLH vaccine - Placebo
+Link: https://clinicaltrials.gov/study/NCT04458545
+
+SUMMARY:
+
+## NCT04012671
+A Registered Cohort Study on Duchenne Muscular Dystrophy
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03047369
+Link: https://clinicaltrials.gov/study/NCT04012671
 
 SUMMARY:
 
-## NCT03951467
-Impact of a Strategy Dedicated to Low Health Literacy Level Patients to Improve Their Understanding and Ownership of the Discharge Prescription in Cardio-vascular Diseases
+## NCT00900471
+Advanced Tumor Bank Project
 
-Intervention: : Interventional educational toolkit specific to low Health Literacy patients, designed with patients and health professionals. — Three interviews between the patient and a health advisor trained for the study: two times before discharge from hospital and a telephone reminder within 3 weeks after discharge.
-
-First and second interview: the nurse will evolve using tools developed in the first phase of the study. The nurse will provide detailed personalized information on the patient's discharge order and illness and the action to be taken depending on the potential situations the patient may encounter.
-
-Telephone interview: within 3 weeks after discharge, the nurse will repeat the elements of the first interview with the patient to verify that the information has been properly understood and retained and that the patient is able to adopt appropriate behaviors in high-risk situations.
-
-Two interviews by phone with a clinical reseach assistant at 30 days et 90 days after discharge which consist of questionnaire.
-Link: https://clinicaltrials.gov/study/NCT03951467
+Intervention: : biologic sample preservation procedure
+: medical chart review
+Link: https://clinicaltrials.gov/study/NCT00900471
 
 SUMMARY:
 
-## NCT02890485
-The Effects of Dry Needling on Patients With Knee Pain
-
-Intervention: : Dry Needling — Dry needling consists of small, monofilament needles that are administered directly into the tissue and manipulated to make the muscle relax for pain relief. This technique is used to treat dysfunctions in skeletal muscle and connective tissue to help diminish pain, reduce impairments of body structure and restore function. Dry needling will be performed in the gluteal or the quadriceps muscle groups depending upon group randomization.
-: Sham Dry Needling — The same overall procedures will be used as in the "true" dry needling groups and applied to the same muscle groups (gluteal or quadriceps) depending upon ground randomization. Sham dry needling will be performed using a commercially available sham needling system commonly.This set-up utilizes a blunt tipped needle. When the sham needle is pressed downward, the barrel of the needle retracts into the handle, giving the appearance of insertion of the needle through the skin. This also creates pressure on the subject's skin, increasing the sensation of dry needling. Patients will not be allowed to observe the areas being needled or sham needled.
-: Physical Therapy — Physical Therapy and exercise as determined by the examining clinician based on the patients specific impairments and functional limitations. All subjects enrolled in this study will receive an initial physical therapy (PT) evaluation and then 2 additional PT sessions a week a part. Interventions and prescribed home exercises will be specific to the patients' primary individual impairments as determined during the initial PT evaluation. These interventions reflect current evidence, but will not be restrictive to specific exercises; prescribed exercises will be deemed appropriate based on the treating PTs' examination, evaluation, and identification of each patients' primary deficits, impairments, functional limitations, and current literature.
-Link: https://clinicaltrials.gov/study/NCT02890485
-
-SUMMARY:
-
-## NCT00250159
-Natural History Study of Patients With Excess Androgen
+## NCT03598361
+Evaluation of Mineral Status in Pregnant Women and Its Association With Fetal Development
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00250159
+Link: https://clinicaltrials.gov/study/NCT03598361
 
 SUMMARY:
 
-## NCT03144167
-Study of Prognostic Biomarkers of Survival at 6 Months for Patients Treated With Bevacizumab Glioblastomas in First Relapse After Failure of Radiochemotherapy
+## NCT03588975
+A Prospective, Open-label, Randomized, Concurrent Active-controlled, Longitudinal, Multicenter, Phase 3 Clinical Study of the Safety and Efficacy of MACI in Patients Aged 10 to 17 Years With Symptomatic Chondral or Osteochondral Defects of the Knee
 
-Intervention: : Analysis of spectroscopic biomarkers of proliferation for six-month survival — Analysis of spectroscopic biomarkers of proliferation, glial reaction, infiltration and glutaminergic metabolism or glycolytic metabolism for six-month survival
-Link: https://clinicaltrials.gov/study/NCT03144167
+Intervention: : MACI — autologous cultured chondrocytes on porcine collagen membrane
+: microfracture — Arthroscopic microfracture treatment
+Link: https://clinicaltrials.gov/study/NCT03588975
 
 SUMMARY:
 
-## NCT03316261
-Freder1k-Study - Identification of Infants With Increased Type 1 Diabetes Risk for Enrollment Into Primary Prevention Trials
+## NCT03980275
+Selective Laryngeal Reinnervation for Bilateral Vocal Fold Paralysis
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03316261
+Link: https://clinicaltrials.gov/study/NCT03980275
 
 SUMMARY:
 
-## NCT04318119
-Cerebral Small Vessel Disease Registry Study
+## NCT03100656
+Solving EPHX2 and Polyunsaturated Fatty Acid Interactions in Anorexia Nervosa
+
+Intervention: : A breakfast sandwich — A meat-based breakfast sandwich
+Link: https://clinicaltrials.gov/study/NCT03100656
+
+SUMMARY:
+
+## NCT03820492
+Multimodality Assessment of Intermediate Left Main Stenosis: Comparison of Optical Coherence Tomography-derived Minimal Lumen Area, Invasive Fractional Flow Reserve and FFRCT
+
+Intervention: : OCT, FFR, CTA and FFRCT — Multimodality assessment of intermediate left main stenosis: Comparison of optical coherence tomography-derived minimal lumen area, invasive fractional flow reserve and FFRCT
+Link: https://clinicaltrials.gov/study/NCT03820492
+
+SUMMARY:
+
+## NCT01313442
+Acquisition of Data, Blood, and Tumor Tissue Samples From Patients With Gastrointestinal Cancer
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04318119
+Link: https://clinicaltrials.gov/study/NCT01313442
 
 SUMMARY:
 
-## NCT02890342
-The Natural History, Physiology, Microbiome and Biochemistry Studies of Propionic Acidemia
+## NCT02042326
+Prospective Evaluation of the Efficacy of Sirolimus (Rapamune®) in the Treatment of Severe Arteriovenous Malformations
+
+Intervention: : Sirolimus — For patients with swallowing problems, and for children under 6 years and / or who have an inability to swallow tablets, the 1mg/ml solution form should be used.
+Link: https://clinicaltrials.gov/study/NCT02042326
+
+SUMMARY:
+
+## NCT04197414
+Development of Urologic Registry for Personalized Medicine in Patients With Urological Malignancy by Analyzing Circulating Tumor DNA
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02890342
+Link: https://clinicaltrials.gov/study/NCT04197414
 
 SUMMARY:
 
-## NCT04364334
-Collecting Diagnostic, Treatment and Follow-up Data on Knee Treatments.
+## NCT04265599
+Hypercalcemia After Cosmetic Paraffin Oil Injections: Unravelling Etiology, Pathogenesis and Potential Treatments
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04364334
+Link: https://clinicaltrials.gov/study/NCT04265599
 
 SUMMARY:
 
-## NCT04506593
-Gastrointestinal Motility Diagnosis Registry
+## NCT04477967
+Children's Hospital of Chongqing Medical University
 
-Intervention: : no intervention
-Link: https://clinicaltrials.gov/study/NCT04506593
+Intervention: : No intervention — There are no interventions because it is a protocol study
+Link: https://clinicaltrials.gov/study/NCT04477967
 
 SUMMARY:
 
-## NCT03789383
-Risk Factors and Outcome of Biliary Complications Following Adult Living Donor Liver Transplantation in Al-Rajhy Liver Hospital in Upper Egypt.
+## NCT04390230
+Inflatable Penile Prostheses : Predicting Factors of Pump Misuse and Unsatisfaction
+
+Intervention: : Penile prostheses implantation — Penial implantation with either Coloplast or Boston Scientific - AMS IPPs between 2014 and 2019, by 2 surgeons of the University Hospital of Nice, France
+Link: https://clinicaltrials.gov/study/NCT04390230
+
+SUMMARY:
+
+## NCT07947186
+Early Feasibility Study of a Novel Male Contraceptive Device: Safety, Usability, and Acceptability Outcomes
+
+Intervention: : Galactic Cap — Use galactic cap four times per week for two weeks
+Link: https://clinicaltrials.gov/study/NCT07947186
+
+SUMMARY:
+
+## NCT07515651
+Molecular Imaging Informed Radiation Dose Escalation to Sites of Recurrent Disease and De-escalation to Uninvolved Areas in Salvage Radiotherapy Using SBRT for Prostate Cancer to Reduce Treatment Toxicity
+
+Intervention: : Image-guided Radiotherapy — * Molecular imaging informed radiation dose escalation to sites of recurrent disease and de-escalation to uninvolved areas with SBRT, 25Gy in 5 fractions to prostate bed +/- pelvic lymph nodes delivered every other day with a boost to PSMA avid disease of 35 Gy in 5 fraction
+* Treatment of pelvic lymph nodes and androgen deprivation therapy for 0-24 months at clinician discretion
+Link: https://clinicaltrials.gov/study/NCT07515651
+
+SUMMARY:
+
+## NCT04076150
+A First-in-Human Study to Access Feasibility and Safety of the Optimum Aortic Valve Implant
+
+Intervention: : Transcatheter Aortic Valve (TAV) Implantation With The Optimum TAV System — Treating patients with severe symptomatic aortic stenosis via transcatheter aortic valve implantation by implanting the Optimum TAV inside the native diseased valve via a the Precision Catheter. The Optimum TAV and Precision Catheter together are the Optimum TAV System.
+Link: https://clinicaltrials.gov/study/NCT04076150
+
+SUMMARY:
+
+## NCT04469439
+The Impact of Sinus Surgery in the Era of Highly Effective Modulatory Therapy
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03789383
+Link: https://clinicaltrials.gov/study/NCT04469439
 
 SUMMARY:
 
-## NCT02745158
-FOP Registry: A Global Registry for the Fibrodysplasia Ossificans Progressiva Community
+## NCT07946991
+Protein and Fibre Impact on Human Surrogate Markers of Health
+
+Intervention: : Isolated pea protein + high pea dietary fibre — Participants will receive a protein-rich snack with high dietary fibre content for 4 weeks as follows:
+
+* Protein in g/day from the snack: up to 40 g.
+* Dietary fibre g/day from the snack: up to 22 g. Participants will consume the intervention snack products for up to 3 times a day while maintaining an isocaloric diet and keeping the diet from the run-in period.
+: Isolated pea protein + low pea dietary fibre — Participants will receive a protein-rich snack with low dietary fibre content for 4 weeks as follows:
+
+* Protein in g/day from the snack: up to 40 g.
+* Dietary fibre g/day from the snack: up to 6 g. Participants will consume the intervention snack products for up to 3 times a day while maintaining an isocaloric diet and keeping the diet from the run-in period.
+Link: https://clinicaltrials.gov/study/NCT07946991
+
+SUMMARY:
+
+## NCT00579566
+Novel Biochemical and Molecular Determinants for Soft Tissue Sarcoma
+
+Intervention: : Specimen protocol — The research specimen will be obtained from the residual specimen that would otherwise be discarded per usual hospital procedure.
+Link: https://clinicaltrials.gov/study/NCT00579566
+
+SUMMARY:
+
+## NCT02732860
+Prospective Evaluation of Freshly Implanted Cancers in Mice to Test Drug Response in Matching Host
+
+Intervention: : Molecular Profiling & In Vivo drug testing in pPDX and organoid cultures — Molecular profiling of host tumour sample and pPDX will be performed and analyzed by an expert panel. In vitro organoid culture generation may also be performed if sufficient fresh tissue is available. Matched treatment recommendation based on profiling and in vivo pPDX drug testing results will be made, if available. This recommendation will be communicated to the primary oncologist.
+Link: https://clinicaltrials.gov/study/NCT02732860
+
+SUMMARY:
+
+## NCT03823820
+Bioimpedance In Pregnancy and Labour: A Fluid Balance Concept Study.
+
+Intervention: : Bioimpedance Analyser — Bio-electrical impedance analysis (BIA) measures whole body (or regional) impedance by means of an electric current transmitted at different frequencies.
+Link: https://clinicaltrials.gov/study/NCT03823820
+
+SUMMARY:
+
+## NCT07526974
+A Phase 3, Randomized, Double-blinded, Placebo-Controlled Study to Evaluate the Efficacy, Safety, and Tolerability of CBL-514 Injection for Reducing Abdominal Subcutaneous Fat.
+
+Intervention: : CBL-514 Injection — Provided as a ready for use injectable CBL-514 solution
+: 0.9% Sodium Chloride — Injectable 0.9% Sodium Chloride solution as placebo
+Link: https://clinicaltrials.gov/study/NCT07526974
+
+SUMMARY:
+
+## NCT02363595
+Genomic Predictors of Papillary Microcarcinoma Disease Progression
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02745158
+Link: https://clinicaltrials.gov/study/NCT02363595
 
 SUMMARY:
 
-## NCT04491929
-Selective Internal Radiation Therapy With 90Y Resin Micropheres for Refractory Colorectal Cancer Liver Metastases - SIRT - A Translational Feasibility Study
+## NCT03696199
+A Prospective, Randomized Trial Evaluating Regional Anesthesia, Long-Acting Local Anesthesia, and Traditional Care for Pain Control of Operatively Treated Ankle Fractures
+
+Intervention: : Long-Acting Local Anesthesia — The cocktail consists of:
+
+* 0.5% Ropivicaine, 24.6 mL
+* Clonidine 100 mcg/mL, 0.4mL
+* Epinephrine 1mg/mL, 0.5mL
+* Saline to total volume of 50 mL (24.5mL of saline)
+
+The total amount of solution prepared is 50mL, but typically 30mL is used based on the size of the incision. The total volume administered will be recorded.
+: Regional Anesthesia — 0.5% ropivicaine - 30mL each sciatic and femoral/saphenous nerve, ultrasound guided
+Link: https://clinicaltrials.gov/study/NCT03696199
+
+SUMMARY:
+
+## NCT00258570
+Genetic Polymorphisms in Idiopathic Pulmonary Fibrosis
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04491929
+Link: https://clinicaltrials.gov/study/NCT00258570
 
 SUMMARY:
 
-## NCT03887273
-A Phase 1/2a Open-Label Study to Investigate the Safety of the Transplantation (by Injection) of Human Glial Restricted Progenitor Cells (hGRPs; Q-Cells®) Into Subjects With Transverse Myelitis (TM)
+## NCT03303833
+The GEOLynch Cohort Study: Genetic, Environmental and Other Factors That Influence Tumour Risk Among Persons With Lynch Syndrome
 
-Intervention: : Q-Cells — Cellular therapeutic comprised of human cells of the glial lineage
-Link: https://clinicaltrials.gov/study/NCT03887273
+Intervention: : No intervention, observational study.
+Link: https://clinicaltrials.gov/study/NCT03303833
 
 SUMMARY:
 
-## NCT04361994
-The GErman Italian Spanish Takotsubo (GEIST) Registry
+## NCT07797426
+A Phase I/II Clinical Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of RT023 in Patients With Advanced Solid Tumors
+
+Intervention: : RT023 — Intravenous (IV) Infusion
+Link: https://clinicaltrials.gov/study/NCT07797426
+
+SUMMARY:
+
+## NCT02997254
+COMparison of Physiological Algorithms for Real-time Evaluation of Atrial Fibrillation
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04361994
+Link: https://clinicaltrials.gov/study/NCT02997254
 
 SUMMARY:
 
-## NCT00389142
-Genetic Studies in Interstitial Cystitis/Bladder Pain Syndrome (IC/BPS)
+## NCT02660645
+Blue Light Cystoscopy With Cysview® Registry
+
+Intervention: : Hexaminolevulinate hydrochloride (HCL) — Instillation in bladder
+: Karl Storz D-Light C Photodynamic Diagnostic (PDD) system — Cystoscopy procedure
+Link: https://clinicaltrials.gov/study/NCT02660645
+
+SUMMARY:
+
+## NCT04268849
+A Randomized, Placebo-controlled Comparator Trial of IV vs Oral Iron Treatment of Iron Deficiency Anemia in the Post-Operative Bariatric Surgical Patient
+
+Intervention: : Ferumoxytol — Ferumoxytol (30 mg/mL) intravenous injection in single use vials.
+: Saline — Placebo for Ferumoxytol
+: Ferrous sulfate tablets — ferrous sulfate tablets containing 60 mg elemental iron
+: Vitamin C — Placebo: Vitamin C, 250 mg, given in the same bottle as the oral iron
+Link: https://clinicaltrials.gov/study/NCT04268849
+
+SUMMARY:
+
+## NCT02535221
+Randomized Trial of Neoadjuvant Endocrine Therapy Versus Chemotherapy in Premenopausal Patients With Estrogen Receptor-Positive HER2 Negative Breast Cancer
+
+Intervention: : Goserelin+TAM+AI — Goserelin 3.6mg subcutaneous injection per 4 weeks, for 16-20weeks. TAM 10mg oral twice a day for the first four weeks(to wait the Goserelin start to work in body) than change to AI 1mg oral once a day with Goserelin for the next 12-16 weeks.
+: Epirubicin+CTX+5-Fu — Epirubicin(80-100 mg/m2 Q21 days) + CTX(600 mg/m2 Q 21days) + 5-Fu (600 mg/m2 Q21 days or 200 mg/m2 •day from Day1 to day 21) for four to six cycles.
+Link: https://clinicaltrials.gov/study/NCT02535221
+
+SUMMARY:
+
+## NCT03193541
+A Novel Multiplex ELISA Assay for Evaluating Patients With Microscopic Hematuria for Bladder Cancer
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00389142
+Link: https://clinicaltrials.gov/study/NCT03193541
 
 SUMMARY:
 
-## NCT04288635
-Impact of Metabolite Supplementation to Restore Mitochondrial Dysfunction During Septic Shock: a Preclinical Study: MEFDASE Study
+## NCT04375904
+'SOURCE - LUNG' Stereotactic Ablative Radiation Therapy Of UltRaCEntral LUNG Tumours
 
-Intervention: : Whole blood samples — Whole blood samples at admission, from day one to three after admission
-Link: https://clinicaltrials.gov/study/NCT04288635
-
-SUMMARY:
-
-## NCT04305743
-Post-procedural Pain Associated With 5 Versus 20 Intravesical Injections of Onabotulinumtoxin A for Treatment of Overactive Bladder: a Multi-center Randomized Controlled Trial
-
-Intervention: : OnabotulinumtoxinA 100 UNT — Intradetrusor onabotulinumtoxin A is administered cystoscopically with 100 unit dose given as either 5 or 20 injections in a single procedure based on the arm the participant is randomized into.
-Link: https://clinicaltrials.gov/study/NCT04305743
+Intervention: : Image-Guided Stereotactic Ablative Radiotherapy (IG-SABR) — Image-Guided Stereotactic Ablative Radiotherapy (IG-SABR) delivered in 8 fractions of 7.5 Gy. OAR constraints must be respected but a minimum dose coverage to 95% of the PTV will be allowed down to 75% and a minimum dose to 99% of the GTV allowed at 75%. Respiratory monitoring/active respiratory management will be used. Plans will be created and delivered using photon beams with energies between 6-10 MV.
+Link: https://clinicaltrials.gov/study/NCT04375904
 
 SUMMARY:
 
-## NCT04355195
-Quality Contract Prevention of Postoperative Delirium in the Care of Older Patients (QV-POD-2)
+## NCT03894254
+Predictive Factors Associated With Impairment in Functional Autonomy in a Regional Real-life Cohort of Patients With Alzheimer's Disease or Related Disorders (ADRD)
+
+Intervention: : no intervention — This is study carried out in current practice. Patients are undergoing a medical examination in a memory center, with extensive and systematic evaluations for the study involving the following tests: IADL, DAD6, New AGGIR, NPI, and mini-Zarit) assessing the functions (autonomy, behavior and caregiver burden).
+Link: https://clinicaltrials.gov/study/NCT03894254
+
+SUMMARY:
+
+## NCT07944950
+Association of Fear of Childbirth Level, Measured by the Wijma Delivery Expectancy/Experience Questionnaire Version A (W-DEQ-A), With Mode of Delivery, Labor Pain, and Epidural Analgesia Request in Nulliparous Term Pregnant Women: A Prospective Observational Study
+
+Intervention: : Wijma Delivery Expectancy/Experience Questionnaire, Version A (W-DEQ-A) — Self-administered Turkish version of the W-DEQ-A: 33 items rated on a 6-point Likert scale (total score 0-165; higher scores indicate greater fear of childbirth), completed once at enrollment before active labor and before any analgesia. It is used only to measure fear of childbirth and does not change clinical care.
+Link: https://clinicaltrials.gov/study/NCT07944950
+
+SUMMARY:
+
+## NCT00527839
+Prospective Evaluation of the Clinical and Economic Outcomes of Total Joint Replacement: HSS Shoulder Arthroplasty Cohort
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04355195
+Link: https://clinicaltrials.gov/study/NCT00527839
 
 SUMMARY:
 
-## NCT03663790
-Comparison of the Effects of Gait Modification Strategies on Knee Adduction Moment in Patients With Medial Knee Osteoarthritis: Randomized Controlled Trial
+## NCT07885683
+A Phase 1b/2 Study Investigating MagSense® Human Epidermal Growth Factor Receptor 2 (HER2) Imaging Agent (MSH2IA) Using Magnetic Resonance Imaging in Participants With HER2+ Breast Cancer for the Assessment of Tumor Involvement in the Lymph Nodes (MSH2IA Phase 1b/2 Study)
 
-Intervention: : Foot Progression — The intervention will be a gait retraining biofeedback focused on foot angle during gait trials
-: Trunk Lean — The intervention will be a gait retraining biofeedback focused on trunk lean angle during gait trials
-Link: https://clinicaltrials.gov/study/NCT03663790
-
-SUMMARY:
-
-## NCT04095195
-Italian Registry of Families At Risk of Pancreatic Cancer
-
-Intervention: : MRCP — Subjects fulfilling the "radiological follow-up criteria" will be submitted to MRCP or EUS according to the pancreatologist's prescription
-: Endoultrasonography — Subjects fulfilling the "radiological follow-up criteria" will be submitted to MRCP or EUS according to the pancreatologist's prescription
-Link: https://clinicaltrials.gov/study/NCT04095195
+Intervention: : The MagSense® HER2 Imaging Agent (MSH2IA) — Imaging Agent intended as an adjunct to MRI for the assessment of axillary nodal disease in participants diagnosed with HER2+ primary breast cancer.
+Link: https://clinicaltrials.gov/study/NCT07885683
 
 SUMMARY:
 
-## NCT04451265
-Diagnostic Accuracy of Optimized Diffusion-Weighted Imaging for Detecting Anterior Ischemic Optic Neuropathy
-
-Intervention: : MRI — Diffusion sequence (8 minutes long) added to the initial MRI
-Link: https://clinicaltrials.gov/study/NCT04451265
-
-SUMMARY:
-
-## NCT03972956
-Samples Procurement for Patients With Colorectal Cancer, Gastric Cancer, and Non-malignant Disease Undergoing Surgery
-
-Intervention: : No intervention will be given to patients. — Samples are collected at the time of a scheduled surgery that is part of normal treatment. This study will not have any impact on the care or treatment the patient receives.
-Link: https://clinicaltrials.gov/study/NCT03972956
-
-SUMMARY:
-
-## NCT03837574
-French National Registry of Patients With Tetralogy of Fallot and Implantable Cardioverter Defibrillator
+## NCT04439916
+Breakthrough CMV DNAemia in CMV Seronegative Recipients of CMV Seropositive Lung Transplantation During Antiviral Prophylaxis With Valganciclovir. A Pilot Study.
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03837574
+Link: https://clinicaltrials.gov/study/NCT04439916
 
 SUMMARY:
 
-## NCT04177134
-French Register of Patients With Spinal Muscular Atrophy
+## NCT07863024
+A Phase 1/2 Study of REGN13089-M404-M2980, a MET-targeting Antibody-Drug Conjugate in Adult Participants With Previously Treated Advanced Solid Tumors
+
+Intervention: : REGN13089-M404-M2980 — Administered per the protocol
+Link: https://clinicaltrials.gov/study/NCT07863024
+
+SUMMARY:
+
+## NCT02414347
+F 18 T807 Tau PET Imaging of Alzheimer's Disease [IND# 123119] Protocol A
+
+Intervention: : F 18 T807 — Participants will receive a single intravenous bolus injection of approximately 6.5-10mCi (240-370MBq) of F 18 T807. For those who cannot tolerate the full exam, participants will receive single intravenous bolus injection of approximately 6.5-10mCi (240-370MBq) of F 18 T807.
+Link: https://clinicaltrials.gov/study/NCT02414347
+
+SUMMARY:
+
+## NCT03257969
+Impact of the DROP (Drug Related Problems in Oncology Practice) Program of Pharmaceutical Interventions of the French Society of Oncological Pharmacology Versus Usual Care on the DRP (Drug Related Problems) Related to Oral Anticancer Drugs in Ambulatory Patients with Risk Factors
+
+Intervention: : The DROP program of pharmaceutical interventions — Multidisciplinary program that includes informative sessions with a hospital pharmacist about the oral anticancer drug: information is given to the patient on adverse events occurrence and there management; and optimizing drug dosage plan, including drug-drug interactions.
+: Standard of care — In the group with standard of care, patients will have interviews with a clinical research associate only dedicated to the record of data for outcomes assessment.
+Link: https://clinicaltrials.gov/study/NCT03257969
+
+SUMMARY:
+
+## NCT02057783
+Comparison of Standard Treatment by Continuous Positive Airway Pressure (CPAP) and CPAP Combined to a Physical Activity Program for Reducing Blood Pressure in Sleep Apnea Patients With Resistant Hypertension: RAP Randomized Controlled Trial
+
+Intervention: : Physical activity — Physical activity will carry out 3 times per week during 12 weeks for intervention arm
+Link: https://clinicaltrials.gov/study/NCT02057783
+
+SUMMARY:
+
+## NCT03353584
+Pain Management of Vaso-Occlusive Crisis in Children and Young Adults With Sickle Cell Disease-Effect of Virtual Reality Technology
+
+Intervention: : Virtual Reality Therapy — The VR intervention consists of an interactive audio and visual underwater experience designed to serve as a calming distraction activity. The VR software (Kind VR® Aqua) was developed by KindVR specifically for the purpose of pain distraction in a hospital setting.
+Link: https://clinicaltrials.gov/study/NCT03353584
+
+SUMMARY:
+
+## NCT00870064
+The Treatment of Type I Open Fractures in Pediatrics: Evaluating the Necessity of Formal Irrigation and Debridement
+
+Intervention: : Formal Operative Treatment — Children randomized to the OR arm will be taken to the OR within 24 hours for irrigation and debridement and appropriate bone management.
+: Emergency Department Treatment — Children in the ED arm will have a washout in the emergency room under conscious sedation, a closed reduction and home antibiotics.
+Link: https://clinicaltrials.gov/study/NCT00870064
+
+SUMMARY:
+
+## NCT03647072
+Comparative Clinical and Biochemical Study Evaluating the Effect of Proton Pump I Nhibitors Versus Histamine 2 Receptor Antagonists as an Adjuvant With Chemotherapy in Patients With Non-hodgkin Lymphoma.
+
+Intervention: : CHOP — CHOP only
+: CHOP Plus Lanzoprazole — CHOP plus Lanzoprazole 60 mg
+: CHOP Plus Famotidine — CHOP Plus Famotidine 40 mg
+Link: https://clinicaltrials.gov/study/NCT03647072
+
+SUMMARY:
+
+## NCT00898131
+Specialized Program of Research Excellence (SPORE) in Breast Cancer: Tissue and Specimen Collection
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04177134
+Link: https://clinicaltrials.gov/study/NCT00898131
 
 SUMMARY:
 
-## NCT01248767
-A Prospective Clinical Study of a Cohort of Pathological Patients Seeking Treatment for a Behavioral Addiction in the University Hospital of Nantes
+## NCT04059276
+Functional, Structural, and Metabolic Central Nervous System Changes Following Damage of the Central Nervous System
+
+Intervention: : MRI — We will examine chronic (\>3 months post stroke) patients using functional, structural, and metabolic MRI in both the brain and the spinal cord.
+: MRI — We will examine healthy control participants using functional, structural, and metabolic MRI in both the brain and the spinal cord.
+Link: https://clinicaltrials.gov/study/NCT04059276
+
+SUMMARY:
+
+## NCT06911840
+Assessment of Male Factor Infertility Across India: An Observational Cross-Sectional Study Using the Aphrodite Criteria, a Hospital-based Study
+
+Intervention: : No Intervention: Observational Cohort — No intervention
+Link: https://clinicaltrials.gov/study/NCT06911840
+
+SUMMARY:
+
+## NCT07854015
+Effect of Acupuncture at the LI4 Point on Pain During Intrauterine Device Insertion: A Sham-Controlled Randomized Clinical Trial
+
+Intervention: : LI4 Acupuncture — Bilateral acupuncture will be performed at the LI4 (Hegu) point 15 minutes before IUD insertion using sterile 0.25 × 25 mm acupuncture needles. Needles will be inserted to a depth of approximately 1.5-2 cm, and manual stimulation will be applied to elicit de qi. The needles will remain in place for 15 minutes and will then be removed before the IUD insertion procedure.
+: Sham Acupuncture — Bilateral sham acupuncture will be performed at the LI4 (Hegu) point 15 minutes before IUD insertion using Park-type non-penetrating sham needles. The sham needles will not penetrate the skin, and no de qi or manual stimulation will be elicited. The sham procedure will last 15 minutes and will be completed before IUD insertion. Treatment duration and participant-practitioner interaction will be standardized to match the LI4 acupuncture intervention.
+Link: https://clinicaltrials.gov/study/NCT07854015
+
+SUMMARY:
+
+## NCT03633162
+Maternal Grandmothers in the Born in Guangzhou Cohort Study
+
+Intervention: : 
+Link: https://clinicaltrials.gov/study/NCT03633162
+
+SUMMARY:
+
+## NCT07857538
+Evaluation of the Effect of Preoperative Prewarming Duration on Postoperative Perfusion Index in Patients Undergoing Colon Resection Surgery: A Randomized Controlled Trial
+
+Intervention: : Preoperative Forced-Air Warming — Active warming using a forced-air warming system in the preoperative preparation area before general anesthesia. The upper and lower body are warmed for 10 or 30 minutes according to randomized group assignment. Device temperature settings follow manufacturer recommendations and institutional clinical standards.
+Link: https://clinicaltrials.gov/study/NCT07857538
+
+SUMMARY:
+
+## NCT02869620
+Institut Paoli Calmettes Thyroid Cancer Database
+
+Intervention: : Data collection
+Link: https://clinicaltrials.gov/study/NCT02869620
+
+SUMMARY:
+
+## NCT04149782
+Analysis of Existing Medical Record Data to Evaluate Coverage, Uptake, Benefits, and Costs of Differentiated Models of Service Delivery for HIV Treatment in Africa (South Africa)
+
+Intervention: : Routine medical record data collection — The study will collect routine medical record data from the electronic medical record system, other electronic databases, and paper charts.
+Link: https://clinicaltrials.gov/study/NCT04149782
+
+SUMMARY:
+
+## NCT00106015
+Diamond Blackfan Anemia Registry (DBAR)
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01248767
+Link: https://clinicaltrials.gov/study/NCT00106015
 
 SUMMARY:
 
-## NCT04108936
-Longitudinal Study of the Effect of Cytoreductive Surgery and HIPEC in Patients With Peritoneal Carcinomatoses
+## NCT04340986
+Cohort Study of Patients With Primary Hepatocellular Carcinoma or Cholangiocarcinoma
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04108936
+Link: https://clinicaltrials.gov/study/NCT04340986
 
 SUMMARY:
 
-## NCT03662178
-Investigating the Structured Use of Ultrasound Scanning for Fetal Growth (Oxford Growth Restriction Identification Programme (OxGRIP)) on Risk Factors for and the Incidences of Adverse Maternal, Fetal and Neonatal Outcome
+## NCT02306603
+Outcomes of Endoscopic Resection of Mucosal and Submucosal Lesions in the Duodenum and Ampulla
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03662178
-
-SUMMARY:
-
-## NCT01286519
-Pharmacokinetics of Off Label Pediatric Medications
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01286519
+Intervention: : Endoscopic Mucosal Resection
+Link: https://clinicaltrials.gov/study/NCT02306603
 
 SUMMARY:
 
-## NCT02355457
-Biomarkers in Acute Cardiac Care
+## NCT03770923
+Clinical Study Evaluating the Effect of Histamine 1 Receptor Antagonist and Leukotreine Receptor Antagonist on Patients With Rheumatoid Arithritis
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02355457
-
-SUMMARY:
-
-## NCT02686229
-Registry Study on Epidemiological and Biological Disease Profile as Well as Clinical Outcome in Patients With Low Grade Gliomas: The LOG-Glio-Project
-
-Intervention: : no interventions
-Link: https://clinicaltrials.gov/study/NCT02686229
+Intervention: : Rupatadine — Rupatadine 10 mg daily
+: Montelukast — Montelukast 10 mg daily
+Link: https://clinicaltrials.gov/study/NCT03770923
 
 SUMMARY:
 
-## NCT04255615
-The Use of Artificial Intelligence for Clinical Assessment of Assisted Reproductive Techniques and IVF Outcomes
+## NCT04436991
+Antibiotic Dosing in Geriatric Patients At the Emergency Department
 
-Intervention: : AI to analyze 3 D ultrasound — AI to assess 3 D ultrasound to assess antral follicle count
-Link: https://clinicaltrials.gov/study/NCT04255615
+Intervention: : Blood sampling — At predefined time points through a venous catheter already in place. Max. volume to be withdrawn: Maximum 4ml/sample. Maximum 10 samples/patient.
 
-SUMMARY:
+A last blood sample will be taken, if necessary, after the end of antibiotic therapy, between day 7 and day 14. Though blood results preferably will be used from available data from tests already done during standard treatment.
 
-## NCT01730092
-A Natural History Study of Novel Biomarkers in Pulmonary Arterial Hypertension
+Samples are collected in lithium-heparin tubes (without gel) and centrifuged immediately (within a maximum of 30 minutes after sampling) at room temperature: 8 minutes at 1885g.
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01730092
-
-SUMMARY:
-
-## NCT04530760
-Impact of Intraabdominal Hypertension on Microaspiration Incidence in Cirrhotic Patients
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04530760
+Plasma is then collected and divided in two separated labelled Eppendorf tubes 1.5 ml and immediately frozen at - 80 °C. If this is not immediately possible, tubes are frozen at - 20 °C and at regular time points transferred to a freezer at - 80 °C (minimum twice a day).
+: Sputum sample — Bacteriological specimen, such as blood cultures, urine samples, sputum ea., which are usually collected in every patient according to standard care will be retained. If there is bacterial growth, MIC's will be calculated on these strains for study purpose.
+: Hemoculture — Bacteriological specimen, such as blood cultures, urine samples, sputum ea., which are usually collected in every patient according to standard care will be retained. If there is bacterial growth, MIC's will be calculated on these strains for study purpose.
+: Urine sample — Bacteriological specimen, such as blood cultures, urine samples, sputum ea., which are usually collected in every patient according to standard care will be retained. If there is bacterial growth, MIC's will be calculated on these strains for study purpose.
+Link: https://clinicaltrials.gov/study/NCT04436991
 
 SUMMARY:
 
-## NCT03539822
-A Phase I/II Trial of Cabozantinib in Combination With Durvalumab (MEDI4736) With or Without Tremelimumab in Patients With Advanced Gastroesophageal Cancer and Other Gastrointestinal (GI) Malignancies (CAMILLA)
+## NCT04475705
+The Effects of Propofol Based Intravenous vs Sevoflurane Inhalation Anaesthesia on Inflammation and Circulating Tumor Cells in Paediatric Tumor Surgery - a Pilot Study
 
-Intervention: : Cabozantinib — by mouth
-: Durvalumab — infusion
-: Tremelimumab — infusion
-Link: https://clinicaltrials.gov/study/NCT03539822
-
-SUMMARY:
-
-## NCT04314375
-A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Safety, Efficacy, and Pharmacokinetics of Budesonide Extended-release Tablets n Pediatric Subjects Aged 5 to 17 Years With Active, Mild to Moderate Ulcerative Colitis
-
-Intervention: : Low Dose Budesonide — 3 milligrams once daily for ages 5 to 11 years 11 months. 6 milligrams once daily for ages 12 to 17 years.
-: High Dose Budesonide — 6 milligrams once daily for ages 5 to 11 years 11 months. 9 milligrams once daily for ages 12 to 17 years.
-: Placebo — Matching placebo once daily.
-Link: https://clinicaltrials.gov/study/NCT04314375
+Intervention: : propofol — intravenous propofol using Target Controlled Infusion 'Paedfusor' model 2-5 as the main anaesthetic to achieve Bispectral Index 40-60
+: sevoflurane — sevoflurane at Minimal Alveolar Concentration 0.7-1.3 as the main anaesthetic to achieve Bispectral Index 40-60.
+Link: https://clinicaltrials.gov/study/NCT04475705
 
 SUMMARY:
 
-## NCT01629108
-Normative Values in Audiovestibular Testing
+## NCT01825499
+Vermont Oxford Network Very Low Birth Weight Database of Infants <=1500 Grams or <=29 Weeks Gestational Age at Birth
 
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01629108
-
-SUMMARY:
-
-## NCT01635569
-Clinical Outcomes Following Group-based Family Cognitive-Behaviour Therapy in Pediatric Obsessive-Compulsive Disorder (OCD)
-
-Intervention: : Group-based family cognitive-behavioural therapy — Baseline and post-12 sessions
-: Waitlist — Baseline and post-12 sessions
-Link: https://clinicaltrials.gov/study/NCT01635569
-
-SUMMARY:
-
-## NCT04403867
-The Role of Micrometastasis and Isolated Tumor Cells (ITCs) in Uterine Cancers (Endometrial/Cervical) Submitted to Sentinel Lymph Nodes (SLN) Procedure: an Observational Study
-
-Intervention: : Sentinel lymph node (SLN) biosy +/- lymphadenectomy — Evaluation of type and volume of lymph nodal disease
-Link: https://clinicaltrials.gov/study/NCT04403867
-
-SUMMARY:
-
-## NCT03859297
-Developing Rumination-focused Treatment to Reduce Risk for Depression Recurrence (RDR) in Adolescence
-
-Intervention: : Rumination-Focused CBT — RF-CBT targets rumination and other maladaptive forms of emotion regulation such as suppression and avoidance and provides skills training in effectively coping with rumination. RF-CBT specifically targets rumination through psychoeducation, adopting a functional analytic approach to the learned habitual behavior of rumination, and a focus on shifting process style. The adolescent is taught to notice triggers to ruminate as well as the consequences of rumination and to shift into practicing a more adaptive strategy such as an attention training exercise, behavioral activation, thinking in a concrete way, or active problem-solving. RF-CBT directly teaches adolescents to recognize rumination or "when the participant gets stuck in their head" and to notice the influence this has on their mood.
-: Relaxation-based Therapy — Sessions will include progressive muscle relaxation, simple breathing techniques, and guided imagery that focus on bodily and somatic relaxation. Adolescents randomized to Relaxation Therapy (RelaxT) will also receive exercises to do as homework in between sessions, parallel to the RF-CBT group.
-Link: https://clinicaltrials.gov/study/NCT03859297
-
-SUMMARY:
-
-## NCT04374175
-SERum-bank for PANcreatic Cancer
-
-Intervention: : Blood sample — Blood sample will be performed
-Link: https://clinicaltrials.gov/study/NCT04374175
-
-SUMMARY:
-
-## NCT02448992
-Neuropsychological and Oncological Outcomes After Hippocampal-Sparing Prophylactic Cranial Irradiation in Postoperative Patients With Pathologically Nodal Positive Non-Small-Cell Lung Cancer - A Prospective Follow-up Study
-
-Intervention: : hippocampal-sparing WBRT
-Link: https://clinicaltrials.gov/study/NCT02448992
-
-SUMMARY:
-
-## NCT02026388
-Rare Kidney Stone Consortium Biobank, Rare Diseases Clinical Research Network
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02026388
-
-SUMMARY:
-
-## NCT04146077
-Active Surveillance Methodology for Low Risk Prostate Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04146077
-
-SUMMARY:
-
-## NCT03603977
-A Simplified Therapy Regimen Study of Lopinavir and Ritonavir Combined With Lamivudine for HIV-1 Infected Patients in the Real World of China
-
-Intervention: : Lpv/r+3TC — It is a simplified therapy regimen study of lopinavir and ritonavir combined with lamivudine for HIV-1 infected patients in the real world of China.
-Link: https://clinicaltrials.gov/study/NCT03603977
-
-SUMMARY:
-
-## NCT03883412
-Effect of Exercise and/or Liraglutide on Vascular Dysfunction and Insulin Sensitivity in Type 2 Diabetes ( ZQL007)
-
-Intervention: : Exercise — 16 weeks of treatment
-: Liraglutide — 16 weeks of Liraglutide
-Link: https://clinicaltrials.gov/study/NCT03883412
-
-SUMMARY:
-
-## NCT03032835
-Partners Calciphylaxis Biobank and Patient Registry
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03032835
+Intervention: : Registry
+Link: https://clinicaltrials.gov/study/NCT01825499
 
 SUMMARY:
 

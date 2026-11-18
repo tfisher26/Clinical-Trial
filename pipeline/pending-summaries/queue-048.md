@@ -1316,15 +1316,6 @@ Link: https://clinicaltrials.gov/study/NCT07017127
 
 SUMMARY:
 
-## NCT07017192
-OPPOSED (anteriOr hiP arthroPlasty regiOnal aneSthEsia stuDy) Study. Regional Anesthesia Techniques for Anterior Approach Hip Arthroplasty Analgesia: SIFI Block Versus Lumbar ESP Block
-
-Intervention: : SIFI Block — Infiltration of local anesthetics in the suprainguinal iliac fascia (Ropivacaine 0.375 40 mls)
-: ESP block — Infiltration of local anesthetics in the fascial plane underneath the erector spoinae mulscle at lumbar level (Ropivacaine 0.375 40 mls)
-Link: https://clinicaltrials.gov/study/NCT07017192
-
-SUMMARY:
-
 ## NCT07017270
 Glucagon-like-peptide-1 Receptor Agonists in Patients Receiving Maintenance Dialysis
 
@@ -8477,14 +8468,6 @@ Intervention: : Imaging and ocular examinations — 2D and 3D Facial photography
 
 Clinical information is recorded. Quality of life is assessed. Ocular examinations, such as visual acuity, levator function, exophthalmos measurement, strabismus test, visual field examination, axial length measurement, OCT, OCTA are made.
 Link: https://clinicaltrials.gov/study/NCT07124572
-
-SUMMARY:
-
-## NCT07124676
-Prospective Observational Study Comparing Two Classifications of Second-degree Perineal Tears in Spontaneous Vaginal Births, to Evaluate Their Correlation With Postpartum Clinical Outcomes.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07124676
 
 SUMMARY:
 

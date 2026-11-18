@@ -1378,15 +1378,6 @@ Link: https://clinicaltrials.gov/study/NCT06453733
 SUMMARY:
 
 
-## NCT06777160
-Predicting the Development of Bone Cement Implantation Syndrome in Arthroplasty Operations Using Artificial Intelligence Methods
-
-Intervention: : Collecting data from patients who underwent arthroplasty and cement was used — Collecting data that may change in cement reaction before, during and after surgery from patients who underwent arthroplasty and cement use and taught it to artificial intelligence.
-Link: https://clinicaltrials.gov/study/NCT06777160
-
-SUMMARY:
-
-
 ## NCT07571096
 Construction of a Multi-dimensional Risk Assessment System: a Clinical Study of Polycystic Ovary Syndrome Complicated With Thrombophilia
 
@@ -3207,15 +3198,6 @@ A Comprehensive Analysis of Follow-up Outcomes, Continuity and Updated Survivors
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06927102
-
-SUMMARY:
-
-
-## NCT07061509
-Musculoskeletal and Cardiovascular Effects of Exercise Addiction in Recreational Bodybuilders
-
-Intervention: : Battery of Physical and Psychological Assessments — Participants in this observational study will not receive any therapeutic intervention. Instead, all individuals will undergo a series of standardized non-invasive assessments for data collection purposes. These include the Exercise Dependence Scale-21 (EDS-21) to classify exercise addiction status, the Drive for Muscularity Scale (DMS) to evaluate body image and muscle-related attitudes, and the Extended Nordic Musculoskeletal Questionnaire to determine the presence and severity of musculoskeletal symptoms. Cardiovascular risk will be assessed using the SCORE Risk Assessment System, which incorporates blood pressure, cholesterol, blood glucose, smoking status, and demographic data. Additional measurements will include oxygen saturation and heart rate using pulse oximetry, and blood pressure using a sphygmomanometer. These evaluations are intended solely for comparative analysis between exercise-dependent and non-dependent groups.
-Link: https://clinicaltrials.gov/study/NCT07061509
 
 SUMMARY:
 

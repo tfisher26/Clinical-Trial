@@ -103401,3 +103401,48 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04028011
+Evaluación clínica de Una tecnología Ambulatoria Para diagnóstico Del sueño
+Conditions: neurological/nocturnal_myoclonus_syndrome, respiratory/sleep_apnea_obstructive
+
+Inclusion criteria:
+"""
+* Patients who have been referred to a sleep clinic due to suspicion of sleep apnoea.
+* patients between the age of 18 yo and 80 yo
+"""
+
+RELATIONSHIP:
+
+## NCT04711915
+Fixed Order, Open-Label, Dose-Escalation Study of DMT in Humans
+Conditions: mental_health/depression_postpartum, mental_health/major_depressive_disorder
+
+Inclusion criteria:
+"""
+* Medically healthy
+* Psychiatrically healthy
+
+Healthy controls
+"""
+
+RELATIONSHIP:
+
+## NCT05321316
+Nectin-4 Specific LMW PET Probe Imaging in Multiple Solid Tumors
+Conditions: blood/breast_cancer_lymphedema, cancer/gastrointestinal_neoplasms, cancer/lung_neoplasms, cancer/pancreatic_neoplasms, skin/hereditary_breast_and_ovarian_cancer_syn
+
+Inclusion criteria:
+"""
+1. 18-75 years old, male or female;
+2. Routine blood tests, coagulation function, and liver/kidney function must meet the acceptable levels specified in the protocol; indicators including WBC, neutrophils, PLT, Hb, PT/APTT, T-Bil, ALT/AST, ALP, BUN, and SCr must meet the protocol requirements. For participants with liver or bone metastases, related indicators such as ALP may be appropriately relaxed according to the protocol;
+3. Normal heart function;
+4. Estimated survival ≥12 weeks;
+5. Good follow-up compliance;
+6. presence of at least one measurable target lesion according to RECIST1.1 criteria;
+7. Women of childbearing age (15-49 years) must be assessed by the investigator as having no possibility of pregnancy before the examination begins; Fertile male and female participants must agree to use effective contraception to prevent pregnancy during the study and for 3 months after the examination;
+8. Patients recommended by clinicians to undergo PET/CT examination for tumor diagnostic staging;
+9. The subject patients could fully understand and voluntarily participate in the experiment, and signed the informed consent.
+"""
+
+RELATIONSHIP:
+

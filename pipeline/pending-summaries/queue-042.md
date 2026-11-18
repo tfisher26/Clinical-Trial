@@ -2015,17 +2015,6 @@ Link: https://clinicaltrials.gov/study/NCT07279402
 
 SUMMARY:
 
-## NCT07693699
-Optimizing Sustainable Cuff Access and Training Pathways for Self-Measured Blood Pressure Monitoring in Primary Care: A Pragmatic Randomized Controlled Trial
-
-Intervention: : In-Clinic Cuff Delivery - Enhanced Return Conversation — Complete vendor form; provide blood pressure log/instructions; discuss with patient how and when to return bp log; provide blood pressure cuff in clinic; submit vendor form as required; complete envelope checklist.
-: In-Clinic Cuff Delivery - Written Instructions — Complete vendor form; provide blood pressure log/instructions; provide blood pressure cuff in clinic; submit vendor form as required; complete envelope checklist.
-: Mail Order Cuff Delivery - Enhanced Return Conversation — Complete vendor form; provide blood pressure log/instructions; discuss with patient how and when to return bp log; submit vendor form for mail delivery; complete envelope checklist.
-: Mail Order Cuff Delivery - Written Instructions — Complete vendor form; provide blood pressure log/instructions; submit vendor form for mail delivery; complete envelope checklist.
-Link: https://clinicaltrials.gov/study/NCT07693699
-
-SUMMARY:
-
 ## NCT05825937
 Non-invasive Hemodynamic Monitoring With ClearSight in Patients Undergoing Elective Cardiac or Neurointerventional Surgery: A Prospective Observational Cohort Study
 

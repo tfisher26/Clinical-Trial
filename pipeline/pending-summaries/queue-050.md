@@ -996,15 +996,6 @@ Link: https://clinicaltrials.gov/study/NCT07491445
 
 SUMMARY:
 
-## NCT07491536
-Combined Gas Ozone Therapy and Biomimetic Oral Care in the Management of Radio- and Chemotherapy-Induced Oral Mucositis: A Randomized Controlled Clinical Trial
-
-Intervention: : Gas Ozone Therapy — Medical gas ozone will be administered in an outpatient clinical setting using a certified ozone delivery system. Prior to application, the affected oral mucosal areas will be gently dried. Ozone will be applied locally using a dedicated silicone applicator, with an exposure time of 60 seconds per cm² and a maximum of four sites treated per session at predefined device settings. Treatment sessions will be performed three times weekly during the first two weeks (days 1, 3, and 5), followed by twice-weekly sessions until day 30. All participants will receive standardized oral hygiene instructions and will use the same biomimetic toothpaste throughout the study period.
-: Biomimetic Oral Care Regimen — Participants allocated to the experimental arm will use a biomimetic mouthwash in addition to the standardized gas ozone therapy protocol. The mouthwash will be applied twice daily, in the morning and evening, after routine oral hygiene procedures for 30 consecutive days. Adherence to the domiciliary regimen will be monitored using a structured patient diary.
-Link: https://clinicaltrials.gov/study/NCT07491536
-
-SUMMARY:
-
 ## NCT07491653
 Preliminary Examination of an Innovative mHealth-Based Dietary Fiber Intervention to Improve Outcomes in Young Adults With Prediabetes: A Feasibility Study
 
@@ -12522,17 +12513,6 @@ A Prospective, Randomized, Subject- and Examiner-Masked, Multicenter Study Compa
 Intervention: : Clareon TruPlus — Bilateral implantation with Clareon TruPlus
 : Clareon monofocal — Bilateral implantation with Clareon monofocal
 Link: https://clinicaltrials.gov/study/NCT07693205
-
-SUMMARY:
-
-## NCT07693699
-Optimizing Sustainable Cuff Access and Training Pathways for Self-Measured Blood Pressure Monitoring in Primary Care: A Pragmatic Randomized Controlled Trial
-
-Intervention: : In-Clinic Cuff Delivery - Enhanced Return Conversation — Complete vendor form; provide blood pressure log/instructions; discuss with patient how and when to return bp log; provide blood pressure cuff in clinic; submit vendor form as required; complete envelope checklist.
-: In-Clinic Cuff Delivery - Written Instructions — Complete vendor form; provide blood pressure log/instructions; provide blood pressure cuff in clinic; submit vendor form as required; complete envelope checklist.
-: Mail Order Cuff Delivery - Enhanced Return Conversation — Complete vendor form; provide blood pressure log/instructions; discuss with patient how and when to return bp log; submit vendor form for mail delivery; complete envelope checklist.
-: Mail Order Cuff Delivery - Written Instructions — Complete vendor form; provide blood pressure log/instructions; submit vendor form for mail delivery; complete envelope checklist.
-Link: https://clinicaltrials.gov/study/NCT07693699
 
 SUMMARY:
 

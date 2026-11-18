@@ -4853,14 +4853,6 @@ Link: https://clinicaltrials.gov/study/NCT05692778
 
 SUMMARY:
 
-## NCT05692830
-Towards a Wearable Alcohol Biosensor: Examining the Accuracy of BAC Estimates From New-Generation Transdermal Technology Using Large-Scale Human Testing and Machine Learning Algorithms
-
-Intervention: : Alcohol — Alcohol administered orally at multiple doses and consumption speeds to test transdermal device accuracy
-Link: https://clinicaltrials.gov/study/NCT05692830
-
-SUMMARY:
-
 ## NCT05693701
 Implementing a Multicomponent Intervention to Treat Blood Donors With Familial Hypercholesterolemia
 
@@ -10599,15 +10591,6 @@ Link: https://clinicaltrials.gov/study/NCT05880004
 
 SUMMARY:
 
-## NCT05880212
-Implementation of the Specific Treatment Of Problems of the Spine (STOPS) Approach in Bangladesh: A Prospective Sequential Comparison
-
-Intervention: : Usual physiotherapy care — In Phase 1, physiotherapists will provide treatment for participants with chronic low back pain in accordance with their current standard physiotherapy practice. Physiotherapists will be free to choose the treatment approach they wish to.
-: Individualized (STOPS) physiotherapy — In Phase 3, participants will receive individualized physiotherapy in accordance with the Specific Treatment of Problems of the Spine (STOPS) approach modified for chronic low back pain. Treatment will be individualized on the basis of biopsychosocial assessment findings including dominant pain type (nociceptive, neuropathic or nociplastic), pathoanatomical subgroups (if any), and other barriers to recovery (eg. inflammation, depression, anxiety, stress, catastrophising, pain self-efficacy, and unhelpful motor control strategies). Available treatment strategies will include individualized education/advice, exercise, manual therapy, activity modification/facilitation, goal setting, motor control optimisation, cognitive-behavioural strategies, inflammation management, pain management strategies, sleep management, work management, and relaxation approaches.
-Link: https://clinicaltrials.gov/study/NCT05880212
-
-SUMMARY: Low back pain with nerve involvement is common in Bangladesh. This study tests the STOPS approach, a specific physiotherapy treatment, compared with usual physiotherapy.
-
 ## NCT05880680
 SEAL™ME: Saccular Endovascular Aneurysm Lattice System Multicenter Enrollment Global Registry
 
@@ -12335,15 +12318,6 @@ Intervention: : mesenchymal stem cell — Mesenchymal stem cell dose is 0.75-1.0
 Link: https://clinicaltrials.gov/study/NCT05939167
 
 SUMMARY: Late stage AIDS severely weakens the immune system and leaves people open to serious infections. This study tests mesenchymal stem cell treatment against a placebo for safety and benefit.
-
-## NCT05939180
-Study of the Efficacy and Safety of Venetoclax Plus Azacytidine Versus Daunorubicin Plus Cytarabine in Adult Acute Myeloid Leukemia (AML) Patients With Adverse Risk Features
-
-Intervention: : Venetoclax Oral Tablet — VA regimen: azacytidine, 75mg/m2, subcutaneously, on days 1-7; venetoclax, orally, once a day, 100mg, d1; 200mg, d2; 400mg, days 3-28.
-: Daunorubicin — DA regimen: daunorubicin (60mg/m2) on days 1-3, intraveneously injection, and cytarabine (100mg/m2) on days 1-7, intraveneously injection, for 1 cycle.
-Link: https://clinicaltrials.gov/study/NCT05939180
-
-SUMMARY: Acute myeloid leukemia with adverse risk features has poor outcomes. This study compares venetoclax plus azacitidine with daunorubicin plus cytarabine.
 
 ## NCT05939830
 Omission of Axillary Lymph Node Dissection in Breast Cancer Patients With Axillary Pathological Complete Response After Neoadjuvant Systemic Therapy

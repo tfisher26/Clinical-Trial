@@ -3633,16 +3633,6 @@ Link: https://clinicaltrials.gov/study/NCT06258369
 SUMMARY:
 
 
-## NCT07572773
-CHAMP: Community Health Assessment and Monitoring in the Pharmacy. Assessing the Impact of a Community Pharmacist Lung Cancer Screening (LCS) Program
-
-Intervention: : DELFI Diagnostics FirstLook Lung Cancer Screening Blood Test — A participant can choose to receive this test. This is done by receiving a blood draw. The blood sample is sent to the DELFI Diagnositics lab without any personal health information attached. Results will be relayed to the participant as either "elevated" or "not elevated". IF the result is "elevated" the participant will be recommended to receive a low-dose CT scan.
-: Low-Does CT Scan — If a participant chooses this arm, the participant will request their primary care physician to order them a low-dose CT scan as part of the USPSTF standards for lung cancer screening. Participants will be asked to fax the results of those scans to the study.
-Link: https://clinicaltrials.gov/study/NCT07572773
-
-SUMMARY:
-
-
 ## NCT06859242
 Development and Validation of a Risk Prediction Model for Iodinated Contrast Medium Extravasation in Patients Undergoing Contrast-enhanced Computed Tomography
 

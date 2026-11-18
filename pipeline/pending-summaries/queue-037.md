@@ -210,16 +210,6 @@ Link: https://clinicaltrials.gov/study/NCT06736847
 SUMMARY:
 
 
-## NCT06005038
-Personalized Engine for Speed of Information Processing
-
-Intervention: : pSOPT — computerized cognitive training practicing speed of processing, the difficulty will be adjusted based on real-time monitored RMSSD (parasympathetic nervous system signals)
-: MLA — computerized mental leisure activities on cross-word puzzle, Sudoku, and solitaire; ECG will also be applied.
-Link: https://clinicaltrials.gov/study/NCT06005038
-
-SUMMARY:
-
-
 ## NCT07631624
 Methylated Biomarkers of Smoking as a Selection Tool in Participants for Lung Cancer Screening
 

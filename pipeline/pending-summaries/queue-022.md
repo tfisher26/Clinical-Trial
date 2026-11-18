@@ -214,15 +214,6 @@ Link: https://clinicaltrials.gov/study/NCT06838247
 SUMMARY:
 
 
-## NCT05562323
-Characterization of Vaccine-induced Responses Against Monkeypox (MoVIHvax) An Observational Prospective Cohort Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05562323
-
-SUMMARY:
-
-
 ## NCT05885724
 Novel Targetable BIOmarkers in ANorexia NervosA - BIOANNA
 
@@ -1018,15 +1009,6 @@ Immersive AOT: Multisensory Stimulation and Neurophysiological Correlates - A Pi
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07369193
-
-SUMMARY:
-
-
-## NCT07614997
-Evaluation of the Effectiveness and Safety of the Ulthera® System for Treating Skin Laxity in the Lower Face, Submentum and Neck
-
-Intervention: : Ulthera System — Participants will receive treatment with the Ulthera system which consists of three primary components: the control unit, handpiece and interchangeable transducers.
-Link: https://clinicaltrials.gov/study/NCT07614997
 
 SUMMARY:
 

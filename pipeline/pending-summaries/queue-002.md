@@ -2485,15 +2485,6 @@ Link: https://clinicaltrials.gov/study/NCT07689201
 
 SUMMARY:
 
-## NCT07689305
-The Effect of Live Video Parent-Child Interaction and Cartoon Watching on Emergence Agitation in Children Aged 2-6 Years: A Randomized Controlled Trial
-
-Intervention: : Live Parent-Child Video Interaction — During transfer to the operating room, the child will have live video communication with a parent using a tablet. The tablet will be positioned so that only the child's face is visible and the operating room environment is not included in the camera view. Audio will be transmitted from the parent to the child, with no audio transmitted from the operating room. The session will not be recorded and will end immediately before the start of anesthesia induction.
-: Cartoon Watching — During transfer to the operating room, the child will watch a short, age-appropriate cartoon on a tablet. The cartoon will be a 3- to 5-minute animation without violent or frightening content. The content will be preloaded on the tablet and will not require an internet connection. No audio or video recording will be made. Cartoon viewing will end immediately before the start of anesthesia induction.
-Link: https://clinicaltrials.gov/study/NCT07689305
-
-SUMMARY:
-
 ## NCT07689591
 Noninvasive Artificial Venous Stasis and Coronary Reperfusion in ST-Segment Elevation Myocardial Infarction:The RE-START STEMI Randomized Trial
 
@@ -3618,14 +3609,6 @@ Link: https://clinicaltrials.gov/study/NCT07701161
 
 SUMMARY:
 
-## NCT07701304
-Developing and Testing Warning Labels for Retail Cannabis Products
-
-Intervention: : Discrete choice experiment (DCE) survey-experiment — A discrete choice experiment (DCE) consisting of 16 distinct choice sets. Each choice set presents combinations of the following attributes: 1) Cannabis package style: 1) "Standardized" plain package, 2) plain package with brand logo and fonts, 3) brand color background with brand logo and fonts, and 4) fully branded with brand imagery, brand logo, and brand descriptors and fonts. Branding type: 1) Adventure brand vs. 2) Earthy brand. Health warning size: 1) Small (20% of packaging surface) - health warnings use currently mandated warning language from multiple jurisdictions vs. 2) Large (40% of packaging surface) - health warnings use currently mandated warning language from multiple jurisdictions. Product THC content: 1) Low THC vs. 2) High THC. Product type: 1) Joints, 2) Vape, 3) Edibles, and 4) Drinks. Participants will rate all combinations of product attributes.
-Link: https://clinicaltrials.gov/study/NCT07701304
-
-SUMMARY:
-
 ## NCT07701369
 Relevance of Artificial Intelligence-Assisted Echocardiography for Left Ventricular Ejection Fraction Assessment in Geriatric Patients
 
@@ -4460,15 +4443,6 @@ Link: https://clinicaltrials.gov/study/NCT07711184
 
 SUMMARY:
 
-## NCT07711223
-A Multicenter, Randomized, Double-Blind, Double-Dummy, Dolutegravir Sodium Tablets Controlled, Phase III Study to Evaluate the Efficacy and Safety of ACC017 Tablets in Treatment-Naïve Adults With Human Immunodeficiency Virus Type 1 (HIV-1)
-
-Intervention: : ACC017+FTC/TAF — ACC017+Emtricitabine/Tenofovir Alafenamide
-: DTG+FTC/TAF — Dolutegravir+Emtricitabine/Tenofovir Alafenamide
-Link: https://clinicaltrials.gov/study/NCT07711223
-
-SUMMARY:
-
 ## NCT07711262
 A Randomized, Double-blind, Positive-control and Placebo-controlled Phase Ⅲ Clinical Study to Evaluate the Efficacy and Safety in Rupatifen Fumarate Capsules for the Seasonal Allergic Rhinitis Patients
 
@@ -5223,15 +5197,6 @@ Intervention: : Bexmarilimab 1mg/kg and nivolumab 1mg/kg — Dose Level 1
 : Bexmarilimab 3mg/kg and nivolumab 1mg/kg — Dose Level 2
 : Recommended Phase II Dose — Recommended Phase II Dose of bexmarilimab in combination with nivolumab established from Dose Escalation
 Link: https://clinicaltrials.gov/study/NCT07718243
-
-SUMMARY:
-
-## NCT07718295
-Effects of High-Flow Nasal Oxygen Versus Conventional Face Mask Oxygen on Cerebral Oxygenation During Out-of-Operating-Room Procedural Sedation: A Prospective Randomized Controlled Trial
-
-Intervention: : High-Flow Nasal Oxygen (HFNO) — Participants receive heated humidified high-flow nasal oxygen during procedural sedation.
-: Conventional Face Mask Oxygen — Oxygen administered through a conventional face mask at 6 L/min with an approximate FiO₂ of 40%.
-Link: https://clinicaltrials.gov/study/NCT07718295
 
 SUMMARY:
 
@@ -12152,16 +12117,6 @@ Link: https://clinicaltrials.gov/study/NCT07798609
 
 SUMMARY:
 
-## NCT07798648
-A PHASE 3 CLINICAL STUDY EVALUATING THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF BNT162B2 RNA-BASED, VARIANT-ADAPTED VACCINE CANDIDATE(S) AGAINST SARS-COV-2 IN CHILDREN AND ADULTS
-
-Intervention: : BNT162b2 — BNT162b2 vaccine 1 (2026/2027 recommended strain)
-: BNT162b2 — BNT162b2 vaccine 2
-: BNT162b2 — BNT162b2 vaccine 3
-Link: https://clinicaltrials.gov/study/NCT07798648
-
-SUMMARY:
-
 ## NCT07798674
 TreatHSP/SPAX Master Protocol: Adaptive Platform for Longitudinal Progression, Biomarkers and Pathophysiology in Ataxias, Hereditary Spastic Paraplegias and Spastic Ataxias (TreatHSP/SPAX)
 
@@ -17948,229 +17903,402 @@ Link: https://clinicaltrials.gov/study/NCT07616206
 
 SUMMARY:
 
-## NCT03573089
-An Investigator-initiated, International, Multi-centre, Prospective, Randomized, Open-label, Parallel-group, Superiority, and Pragmatic Large Simple Trial (LST) to Determine Whether the Currently Recommended Strategy of Intensive Reduction of Serum Phosphate Concentration Towards the Normal Level Results in Significant Patient-centred Benefits in End-stage Kidney Disease (ESKD) Patients Receiving Dialysis.
+## NCT01042379
+I-SPY Trial (Investigation of Serial Studies to Predict Your Therapeutic Response With Imaging And moLecular Analysis 2)
 
-Intervention: : Liberal phosphate target — All phosphate-lowering medications in use at baseline will be discontinued. Phosphate-lowering medications will be prescribed only if serum phosphate concentration exceeds 2.50 mmol/L. The choice and dosages of phosphate-lowering medications will be at the discretion of treating physicians and/or participants.
-: Intensive phosphate target — This will be achieved by prescribing phosphate-lowering medications aimed to intensively lower serum phosphate concentration towards normal level (≤1.50 mmol/L). The choice and dosages of phosphate-lowering medications will be at the discretion of treating physicians and/or participants.
-Link: https://clinicaltrials.gov/study/NCT03573089
+Intervention: : Standard Therapy — Paclitaxel: 80 mg/m2 IV during the 12 weekly treatment cycles post randomization; Doxorubicin: 60 mg/m2 IV after completion of the 12 weekly treatment cycles and prior to surgery for weeks 13-16; Cyclophosphamide: 600 mg/m2 IV after completion of the 12 weekly treatment cycles and prior to surgery for weeks 13-16
+: AMG 386 with or without Trastuzumab — Arm is closed.
+: AMG 479 (Ganitumab) plus Metformin — Arm is closed.
+: MK-2206 with or without Trastuzumab — Arm is closed.
+: AMG 386 and Trastuzumab — Arm is closed.
+: T-DM1 and Pertuzumab — Arm is closed.
+: Pertuzumab and Trastuzumab — Arm is closed for Accrual.
+
+Pertuzumab: 840 mg IV (loading dose) week 1 and 420 mg every 3 weeks (weeks 4, 7, 10) post-randomization; Trastuzumab: 4 mg/kg (loading dose) week 1 and 2 mg/kg weekly (weeks 2-12) post-randomization
+: Ganetespib — Arm is closed.
+: ABT-888 — Arm is closed.
+: Neratinib — Arm is closed.
+: PLX3397 — Arm is closed.
+: Pembrolizumab - 4 cycle — Arm is closed.
+: Talazoparib plus Irinotecan — Arm is closed.
+: Patritumab and Trastuzumab — Arm is closed.
+: Pembrolizumab - 8 cycle — Arm is closed.
+: SGN-LIV1A — Arm is closed. SGN-LIV1A: 2.5 mg/kg IV cycles 1,4,7,10 Doxorubicin + Cyclophosphamide: Cycles 13-16
+: Durvalumab plus Olaparib — Arm is closed.
+: SD-101 + Pembrolizumab — Arm is closed. SD-101: IT injection 2 mg/ml (1 ml for T2 tumors, 2 ml for \>T3 tumors) weekly x 4, then every 3 weeks x 2 cycles 1,2,3,4,7,10 Pembrolizumab: 200mg IV cycles 1,4,7,10 Paclitaxel: 80 mg/m2 IV cycles 1-12 Doxorubicin + Cyclophosphamide: Cycles 13-16; Doxorubicin: 60 mg/m2 IV Every 2 or 3 weeks for 4 cycles; Cyclophosphamide: 600 mg/m2 IV Every 2 or 3 weeks for 4 cycles
+: Tucatinib plus trastuzumab and pertuzumab — Arm is closed. Tucatinib: 300 mg PO BID 12 weeks CLOSED Tucatinib: 250 mg PO BID 12 weeks CLOSED Tucatinib adaptive: 150mg BID days 1-28, 250mg BID days 29-84 Trastuzumab: 4 mg/kg IV (loading dose) cycle 1; 2 mg/kg (thereafter) cycles 2-12 Pertuzumab: 840 mg IV (loading dose) cycle 1; 420 mg (thereafter) cycles 4, 7 and 10 Paclitaxel: 80 mg/m2 IV cycles 1-12 Doxorubicin + Cyclophosphamide: Cycles 13-16; Doxorubicin: 60 mg/m2 IV Every 2 or 3 weeks for 4 cycles; Cyclophosphamide: 600 mg/m2 IV Every 2 or 3 weeks for 4 cycles
+: Cemiplimab — Cemiplimab: 350 mg q3w X 12 weeks IV cycles 1,4,7,10 Paclitaxel: 80 mg/m2 IV cycles 1-12 Doxorubicin + Cyclophosphamide: Cycles 13-16; Doxorubicin: 60 mg/m2 IV Every 2 or 3 weeks for 4 cycles; Cyclophosphamide: 600 mg/m2 IV Every 2 or 3 weeks for 4 cycles
+: Cemiplimab plus REGN3767 — Arm is closed.
+
+Cemiplimab: 350 mg q3w X 12 weeks IV cycles 1,4,7,10 REGN 3767: 1600 mg q3W X 12 weeks IV cycles 1,4,7,10 Paclitaxel: 80 mg/m2 IV cycles 1-12 Doxorubicin + Cyclophosphamide: Cycles 13-16; Doxorubicin: 60 mg/m2 IV Every 2 or 3 weeks for 4 cycles; Cyclophosphamide: 600 mg/m2 IV Every 2 or 3 weeks for 4 cycles
+: Trilaciclib with or without trastuzumab + pertuzumab — Arm closed for accrual.
+
+Trilaciclib: 240 mg/m2 IV weekly cycle 1-16 Paclitaxel: 80 mg/m2 IV cycles 1-12 Doxorubicin + Cyclophosphamide: Cycles 13-16; Doxorubicin: 60 mg/m2 IV Every 2 or 3 weeks for 4 cycles; Cyclophosphamide: 600 mg/m2 IV Every 2 or 3 weeks for 4 cycles
+
+For HER2+:
+
+Pertuzumab: 840 mg IV (loading dose) week 1 and 420 mg every 3 weeks (weeks 4, 7, 10) post-randomization Trastuzumab: 4 mg/kg (loading dose) week 1 and 2 mg/kg weekly (weeks 2-12) post-randomization
+: SYD985 ([vic-]trastuzumab duocarmazine) — Arm is closed.
+
+SYD985: 1.2 mg/kg IV (q3w x 12 weeks) cycles 1,4,7,10 Doxorubicin + Cyclophosphamide: Cycles 13-16; Doxorubicin: 60 mg/m2 IV Every 2 or 3 weeks for 4 cycles; Cyclophosphamide: 600 mg/m2 IV Every 2 or 3 weeks for 4 cycles
+: Oral Paclitaxel + Encequidar + Dostarlimab (TSR-042) + Carboplatin with or without trastuzumab — Arm is closed.
+
+For HER2+ Dostarlimab (TSR-042), 500 mg, IV, q3wks for wk 1, 4, 7, 10 Trastuzumab, 4 mg/kg cycle 1, then 2 mg/kg cycles 2-12 q1wk, IV, for wk1-12 Oral paclitaxel, 205 mg/m2, oral, daily for Three (3) days in a row each week for weeks 1-12 Oral encequidar, 15 mg, oral, daily for Three (3) days in a row each week for weeks 1-12 Carboplatin, AUC 1.5, IV, q1wk from wk1-12 Followed by Doxorubicin: 60 mg/m2, IV, every 2 or 3 weeks for 4 cycles Cyclophosphamide: 600 mg/m2, IV, every 2 or 3 weeks for 4 cycle
+
+For HER2- Dostarlimab (TSR-042), 500 mg, IV, q3wks for wk 1, 4, 7, 10 Oral paclitaxel, 205 mg/m2, oral, daily for Three (3) days in a row each week for weeks 1-12 Oral encequidar, 15 mg, oral, daily for Three (3) days in a row each week for weeks 1-12 Carboplatin, AUC 1.5, IV, q1wk from wk1-12 Followed by Doxorubicin: 60 mg/m2, IV, every 2 or 3 weeks for 4 cycles Cyclophosphamide: 600 mg/m2, IV, every 2 or 3 weeks for 4 cycle
+: Oral Paclitaxel + Encequidar + Dostarlimab (TSR-042) with or without trastuzumab — Arm is closed.
+
+For HER2+ Dostarlimab (TSR-042), 500 mg, IV, q3wks for wk 1, 4, 7, 10 Trastuzumab, 4 mg/kg cycle 1, then 2 mg/kg cycles 2-12 q1wk, IV, for wk1-12 Oral paclitaxel, 205 mg/m2, oral, daily for Three (3) days in a row each week for weeks 1-12 Oral encequidar, 15 mg, oral, daily for Three (3) days in a row each week for weeks 1-12 Followed by Doxorubicin: 60 mg/m2, IV, every 2 or 3 weeks for 4 cycles Cyclophosphamide: 600 mg/m2, IV, every 2 or 3 weeks for 4 cycle
+
+For HER2- Dostarlimab (TSR-042), 500 mg, IV, q3wks for wk 1, 4, 7, 10 Oral paclitaxel, 205 mg/m2, oral, daily for Three (3) days in a row each week for weeks 1-12 Oral encequidar, 15 mg, oral, daily for Three (3) days in a row each week for weeks 1-12 Followed by Doxorubicin: 60 mg/m2, IV, every 2 or 3 weeks for 4 cycles Cyclophosphamide: 600 mg/m2, IV, every 2 or 3 weeks for 4 cycle
+: Amcenestrant — Arm is closed.
+
+Amcenestrant (SAR439859), 200mg QD, p.o., for 24 weeks.
+: Amcenestrant + Abemaciclib — Arm is closed.
+
+Amcenestrant (SAR439859), 200mg QD, p.o., for 24 weeks Abemaciclib (Verzenio), 150mg BID, p.o., for 24 weeks
+: Amcenestrant + Letrozole — Arm is closed.
+
+Amcenestrant (SAR439859), 200mg QD, p.o., for 24 weeks Letrozole (Femara), 2.5mg QD, p.o., for 24 weeks
+: ARX788 — Arm is closed.
+
+ARX788, 1.5 mg/kg Q3W, IV for 12 weeks
+: ARX788 + Cemiplimab — Arm is closed.
+
+ARX788, 1.5 mg/kg Q3W, IV for 12 weeks Cemiplimab, 350 mg Q3W, IV for 12 weeks
+: VV1 + Cemiplimab — Arm is closed.
+
+VV1, 3x10\^9 TCID50 once (day-8), Intra-tumoral injection Cemiplimab, 350 mg Q3W, IV for 12 weeks
+: Datopotamab deruxtecan — Arm is closed.
+
+Dato-DXd, 6 mg/kg Q3W, IV for 12 weeks
+: Datopotamab deruxtecan + Durvalumab — Arm is closed.
+
+Dato-DXd, 6 mg/kg Q3W, IV for 12 weeks Durvalumab, 1120 mg Q3W, IV for 12 weeks
+: Zanidatamab — Zanidatamab: IV Infusion at a 2-tiered flat dose. 1,800mg (\<70 kg) and 2400mg (≥70 kg).
+
+Neoadjuvant doing of zanidatamab: The initial dose will be administered on Cycle 1 Day 1, with Cycle 2 Day 1 occurring 14 days thereafter, followed by subsequent dosing every 3 weeks (Q3W) for a total of up to 5 doses in block A, up to 4 doses Block B, up to 5 doses Block C.
+
+Adjuvant dosing of zanidatamab: Administered every 3 weeks (Q3W) for a total of 1 year of HER2 based therapy. The total number of adjuvant weeks will be dependent on the number of weeks of exposure of zanidatamab in Blocks A, B, and C.
+: Lasofoxifene — Arm is closed.
+
+Lasofoxifene: 5.0 mg QD, p.o., for 24 weeks
+: Z-endoxifen — Arm is closed.
+
+Z-endoxifen: 10 mg QD, p.o., for 24 weeks
+: ARV-471 — Arm is closed.
+
+ARV-471: 200 mg QD, p.o, for 24 weeks.
+: ARV-471 + Letrozole — Arm is closed.
+
+ARV-471: 200 mg QD, p.o, for 24 weeks Letrozole: 2.5 mg QD, p.o, for 24 weeks
+: ARV-471 + Abemaciclib — Arm is closed.
+
+ARV-471: 200 mg QD, p.o, for 24 weeks Abemaciclib: 150 mg BID, p.o, for 24 weeks
+: Endoxifen + Abemaciclib — Z-endoxifen: 80 mg QD, p.o., for 24 weeks Abemaciclib: 150 mg BID, p.o, for 20 weeks
+: Rilvegostomig + TDXd — Arm closed to accrual
+
+Rilvegostomig: 750mg IV Q3W for 12 weeks TDXd: 5.4 mg/kg IV Q3W for 12 weeks
+: Dan222 + Niraparib — Arm is closed.
+
+DAN222: 8mg/m2 IV QW for 12 weeks Niraparib: 200mg QD p.p., 12 weeks
+: Sarilumab + Cemiplimab + Paclitaxel — Arm is closed to accrual.
+
+Sarilumab: 200mg Subcutaneous injection Q2W for 12 weeks Cemiplimab: 350mg IV Q3W for 12 weeks Paclitaxel: 80 mg/m2 IV QW for 12 weeks
+: GSK 5733584 — Arm is open for accrual.
+
+Route: Intravenous infusion Dosage Form: 4.8 mg/kg intravenous Q3W for injection. Will receive a max of 12 weeks.
+: GSK 5733584 + Dostarlimab — Arm is open for accrual.
+
+GSK 5733584 Route: Intravenous Infusion Dosage Form: 4.8 mg/kg intravenous Q3W for injection x 12 weeks max.
+
+Dostarlimab Route: Intravenous Infusion Dosage Form: 500 mg fixed dose intravenous Q3W for infusion x 12 weeks max.
+: Ivonescimab (20mg/kg Q3W) — Strengths to be used in trial:
+
+1. 20 mg/kg IV Q3W monotherapy
+2. 20 mg/kg IV Q3W with paclitaxel
+3. 20 mg/kg IV Q3W with carboplatin and paclitaxel.
+
+Standard Regimen:
+
+20 mg/kg IV Q3W. Patients in Block A will receive a minimum of 6 weeks a maximum of 12 weeks of Ivonescimab monotherapy in Block A. Patients that have completed Block A, may receive ivonescimab plus paclitaxel or ivonescimab plus paclitaxel plus carboplatin in Block B (depending on subtype).
+Link: https://clinicaltrials.gov/study/NCT01042379
 
 SUMMARY:
 
-## NCT04295252
-Cardiogenic Shock: a Prospective National Registry to Get Insights in Patients' Profile, Management and Outcome
+## NCT03457402
+Feasibility of Shaping Tolerance for Delayed Rewards in Impulsive 3-6 Year Olds
+
+Intervention: : Shaping Delay Tolerance — Participants will be introduced to an adaptive tablet-based application that asks the child to choose between two options: 1) a shorter duration of game play that begins immediately, or 2) a longer duration of game play that begins after a delay. Depending on the child's choices, the application alters the pre-reward delay with the intent of training the child to tolerate longer delays for larger rewards (i.e., more game play). Children may participate in up to 25 approximately 30-minute training sessions over 3-6 weeks.
+Link: https://clinicaltrials.gov/study/NCT03457402
+
+SUMMARY:
+
+## NCT03651206
+An International Multicentric Randomized Phase II Evaluating Dostarlimab in Combination With Niraparib Versus Niraparib Alone Compared to Chemotherapy in the Treatment of Metastatic or Recurrent Endometrial or Ovarian Carcinosarcoma After at Least One Line of Chemotherapy
+
+Intervention: : Niraparib — PARP Inhibitor
+: Niraparib + TSR-042 (Dostarlimab) — Combination of 2 drugs, a PARP Inhibitor and an Anti-PD-1
+: Chemotherapy Drugs — Chemotherapies given in standard of care
+Link: https://clinicaltrials.gov/study/NCT03651206
+
+SUMMARY:
+
+## NCT03685045
+Enhancing Treatment of Hepatitis C in Opioid Substitution Settings II (ETHOS II): A Partnership Project to Enhance Hepatitis C Care in Drug and Alcohol Clinics
+
+Intervention: : Campaign days — Participants who consent will complete study procedures (Hep C test, fibroscan, questionnaire, clinical assessment) and followed up through medical record review.
+Link: https://clinicaltrials.gov/study/NCT03685045
+
+SUMMARY:
+
+## NCT04047953
+The Study of Paclitaxel (Albumin-bound) Combined With Oxaliplatin and S-1 Conversion Therapy for Initial Unresectable Local Advanced or Potentially Resectable Metastatic Gastric Adenocarcinoma
+
+Intervention: : Paclitaxel (albumin-bound) combined with Oxaliplatin and S-1 — Paclitaxel (albumin-bound) : 150 mg/m2, iv,d1. S-1 : 40\~60mg，bid, d1-14( BSA\<1.25m2，40mg；1.25m2≤BSA≤1.5m2，50mg；BSA\>1.5m2，60mg) Oxaliplatin: 85mg/m2, iv, d1. Twenty-one days per cycle, a total of four cycles, after two cycles of treatment, the tumor was evaluated. The clinical efficacy was evaluated as CR\\PR\\SD and decided by the investigator to continue the treatment for two cycles or directly.
+Link: https://clinicaltrials.gov/study/NCT04047953
+
+SUMMARY:
+
+## NCT04282044
+A Phase 1 Study of the Safety and Efficacy of CRX100 as Monotherapy and in Combination With Pembrolizumab in Advanced Solid Malignancies
+
+Intervention: : CRX100 suspension for infusion — A fixed dose of CIK cells combined with the specified dose of CDSR.
+: Fludarabine — 25mg/m IV (five doses given from Day -7 until Day -3)
+: Cyclophosphamide — 60mg/kg intravenous (IV) (two doses given on Day -7 and -6)
+Link: https://clinicaltrials.gov/study/NCT04282044
+
+SUMMARY:
+
+## NCT03042988
+Overnight Trials to Compare the Effects of Controlled Heat Stress Versus Sham Control on Nocturnal Supine Hypertension in Autonomic Failure Patients
+
+Intervention: : Heating pad — Heat stress applied on the trunk for up to 8 hours
+: Sham control — heating pad turned off applied on the trunk for up to 8 hours
+Link: https://clinicaltrials.gov/study/NCT03042988
+
+SUMMARY:
+
+## NCT04106713
+Understanding the Person, Exploring Change Across Psychotherapies
+
+Intervention: : Individual Psychotherapy — The individual therapy program will differ in orientation according to therapist and session notes will be coded according to the Comparative Psychotherapy Process Scale. Therapy sessions take place approximately once every fortnight, with 8 sessions in total, according to the agreed-upon schedule.
+: Internet-delivered Cognitive Behavioural Therapy (iCBT) — The iCBT program (clinician follow-up with the therapist and 4 online modules) will be administered for 8 weeks. The four modules: "1) psychoeducation about emotions, including a functional nature of emotions; 2) alteration of antecedent cognitive misappraisals; 3) prevention of emotional avoidance; and 4) modification of emotion-driven \[behaviours\] (EDBs)", are adapted from The Unified Protocol (UP) for transdiagnostic treatment of emotional disorders. UP is a CBT consisting of four overarching themes- "increasing emotional awareness, facilitating flexibility in appraisals, identifying and preventing \[behavioural\] and emotional awareness, and situational and interoceptive exposure to emotion cues".
+: Group Cognitive Behavioural Therapy (group CBT) — The group CBT program (for e.g. PsychUp) will be conducted over 8 weeks, with weekly 2-hour sessions. Each group consists of 4-8 patients and are facilitated by two practicing clinical psychologists and one clinical psychologist in training. Sessions are structured such that each session, except the first, begins with a brief review of previous session material and a collaborative review of homework. This is followed by introduction of new material and completion of any in-session exercises, with sessions concluding with homework assignment. Specific treatment content is similarly adapted from UP. Session 1 begins by covering psychoeducation on the CBT model of pathological depression and anxiety and the role of avoidance in maintenance of symptoms. Sessions 2 to 7 covers goal-setting, cognitive reappraisal and development of adaptive emotional coping strategies through situational emotion-focused exposures. Session 8 ends with a discussion on relapse prevention.
+Link: https://clinicaltrials.gov/study/NCT04106713
+
+SUMMARY:
+
+## NCT02863757
+Disease Progression and Clinical Outcomes in Chronic Hepatitis B (CHB) Patients With Comorbid Nonalcoholic Fatty Liver Disease (NAFLD)
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04295252
+Link: https://clinicaltrials.gov/study/NCT02863757
 
 SUMMARY:
 
-## NCT03753555
-The Effect of InTensive Statin in Ischemic Stroke With inTracranial Atherosclerotic Plaques: a Prospective, Random, Single-center Study Based on High Resolution Magnetic Resonance Imaging
+## NCT03595267
+Optimal Approaches to Chronic Kidney Disease Case Finding in Indigenous Communities
 
-Intervention: : Atorvastatin Calcium — 20mg Qd for 12 months
-: Atorvastatin Calcium — 40-80mg Qd for 6 months
-: Probucol — 0.5g Bid for 6 months
-: PCSK9 inhibitor — Evolocumab 140mg subcutaneously injected, twice each month
-Link: https://clinicaltrials.gov/study/NCT03753555
+Intervention: : Point-of-care screening — After consent is obtained, a registered nurse will administer a demographic questionnaire, collecting the participant's personal health number, age, gender, date of birth, and name of community. Physical data including height, weight, and blood pressure will also be collected. A blood sample and a urine sample will be taken, with point-of-care testing being performed during the screening appointment to allow for results of the testing to be received and discussed with each patient at the time of the appointment. After screening, to ensure a "closed loop" system of care, patients at the highest risk of kidney failure will be referred to a nephrologist, while those at lower risk will be referred to their primary care provider with specific treatment and re-testing recommendations.
+Link: https://clinicaltrials.gov/study/NCT03595267
 
 SUMMARY:
 
-## NCT02670447
-Early Identification of Patients Presenting a First Psychotic Episode, Non Answering to First Line Support Strategies: A Multicentric Study
+## NCT02986984
+Transformative Research In DiabEtic NephropaThy
 
-Intervention: : MRI — Magnetic Resonance Imagery will be performed on patients attempted by schizophrenia. The aim of this intervention is an early detection of the non-answering patients to the primary cares.
-Link: https://clinicaltrials.gov/study/NCT02670447
+Intervention: : There is no intervention — There are no interventions
+Link: https://clinicaltrials.gov/study/NCT02986984
 
 SUMMARY:
 
-## NCT02531893
-Psychological Treatments for Youth With Severe Irritability
+## NCT02563600
+Effect of Brief-tele Support on Attendance at Physiotherapy Sessions for Pelvic Floor Dysfunctions
+
+Intervention: : Pre-letter telephone call. — A brief 2-10 min telephone call made to the patient prior to receipt of appointment invitation letter.
+: Post-letter telephone call — A brief 2-10 min telephone call made to the patient after receipt of appointment invitation letter.
+Link: https://clinicaltrials.gov/study/NCT02563600
+
+SUMMARY:
+
+## NCT02193841
+Simple Bone Cysts in Kids (SBoCK)
+
+Intervention: : Curettage with puncture (C & P) — A curette will be inserted to scrape the contents of the cyst (curettage) and a hole in the cyst wall will be made (puncture) near the bone marrow cavity
+: Curette — A small surgical instrument with a rounded edge designed for scraping
+: Vitoss morsels — A bone substitute intended for use as a filler for voids or gaps in bones
+Link: https://clinicaltrials.gov/study/NCT02193841
+
+SUMMARY:
+
+## NCT04443088
+A Phase 1a/1b, Multi-Center, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Preliminary Evidence of Antitumor Activity of INV-1120 as a Single Agent and in Combination With Pembrolizumab in Adult Patients With Advanced Solid Tumors
+
+Intervention: : INV-1120 — INV-1120 is an investigational selective and potent small molecule indicated for the treatment of solid malignancies including, but not limited to colorectal, breast, pancreatic, lung and liver cancers.
+: Pembrolizumab — Pembrolizumab will be administered as a dose of 200 mg on Day 1 of each 3-week treatment cycle.
+Link: https://clinicaltrials.gov/study/NCT04443088
+
+SUMMARY:
+
+## NCT04163172
+Elbow Hemiarthroplasty Versus Open Reduction and Internal Fixation for AO/OTA Type C2 and C3 Fractures of Distal Humerus in Patients Aged 50 Years or Above; a Randomized Controlled Trial
+
+Intervention: : Surgical treatment of distal humeral fracture with elbow hemiarthroplasty — Latitude anatomical elbow hemiarthroplasty (WRIGHT -Memphis, Tennessee)
+: Surgical treatment of distal humeral fracture with double plating. — Double plating (Synthes - Switzerland and West Chester, Pennsylvania, United States)
+Link: https://clinicaltrials.gov/study/NCT04163172
+
+SUMMARY:
+
+## NCT04400266
+Buspirone and Melatonin for Depression Following Traumatic Brain Injury
+
+Intervention: : Buspirone — Buspirone 15mg once daily
+: Mealatonin — Melatonin 3mg once nightly
+Link: https://clinicaltrials.gov/study/NCT04400266
+
+SUMMARY:
+
+## NCT03059420
+Genetic Studies of Strabismus, Congenital Cranial Dysinnervation Disorders (CCDDs), and Their Associated Anomalies
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02531893
+Link: https://clinicaltrials.gov/study/NCT03059420
 
 SUMMARY:
 
-## NCT04424992
-Observational Cohort Study on the Natural History of Hospitalized SARS-COV-2 Patients: the STORM Trial
+## NCT03513770
+Autonomic Control of the Circulation and the Venous Distension Reflex
 
-Intervention: : Observational cohort study on the natural history of hospitalized SARS-COV-2 patients. — Describe the natural history and clinical evolution of hospitalized patients over time affected by SARS-COV-2 infection, understand the pathogenesis of the disease and improve the aids and therapeutic procedures.
-Link: https://clinicaltrials.gov/study/NCT04424992
+Intervention: : Wrist-to-elbow (W-E) occlusion — An IV will be inserted in the antecubital fossa of one arm. The arm will be fitted with occlusion cuffs arranged in a continuous fashion from the wrist to the elbow. A final cuff will be placed on the upper arm. The cuffs from the wrist to the elbow will be inflated to the same pressure of up to 300 mmHg using a pressurized air tank.
 
-SUMMARY:
-
-## NCT04388943
-Biomedical Research Informatics Centre for Cardiovascular Sciences (The BRICCS Study)
-
-Intervention: : Observation — Physiological Measurements Patient reported questionnaire Blood sampling
-Link: https://clinicaltrials.gov/study/NCT04388943
+First, the subject?s arm will be elevated and the subject will make a fist to squeeze blood from the hand. Then the wrist cuff will be inflated. Once that cuff is fully inflated, the next cuff in the sequence will be inflated. Cuffs are inflated in sequence until the elbow cuff is inflated. After a 10-15 second period to allow blood to drain, the upper arm cuff will inflate (up to 250 mmHg) to keep any additional blood from entering the forearm. Next, the cuffs on the forearm will be removed but the upper arm cuff will remain inflated.
+: ketorolac tromethamine — In the COX blockade trial, just after the Wrist-to-elbow occlusion, 6 mg ketorolac tromethamine in 10 ml saline will be infused into the forearm over 1 minute. After 10 minutes, a second infusion of ketorolac tromethamine (up to 3 mg) in 5% of the forearm volume of saline,( \~40-60 ml) will be infused into the occluded forearm at a rate of \~ 30 ml/min. Five minutes of data will then be collected before releasing the upper arm cuff. Infusion 1 is to block the COX pathway, while infusion 2 is to induce venous distension.
+: saline control — In the saline control trial performed on a separate day, saline (without ketorolac) in identical volumes as those in the COX blockade trial, will be infused.
+Link: https://clinicaltrials.gov/study/NCT03513770
 
 SUMMARY:
 
-## NCT03209674
-Registry for the Improvement of Postoperative OutcomeS in Cardiac and Thoracic surgEry
-
-Intervention: : Cardiothoracic surgery — Cardiac or thoracic procedure
-Link: https://clinicaltrials.gov/study/NCT03209674
-
-SUMMARY:
-
-## NCT03172715
-Prosthesis Versus Osteosynthesis in Treatment of Intra-articular Fractures of Proximal Tibia: A Randomized, Controlled, Trial
-
-Intervention: : Locking plate — Osteosynthesis
-: TKR — Total knee arthroplasty
-Link: https://clinicaltrials.gov/study/NCT03172715
-
-SUMMARY:
-
-## NCT00341744
-Providing Access to the Visual Environment
+## NCT03225586
+Prospective Urban Rural Epidemiology Study
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00341744
+Link: https://clinicaltrials.gov/study/NCT03225586
 
 SUMMARY:
 
-## NCT03320304
-A Global PRospective, Multi-cEnter, ObServational Post-markeT Study tO Assess shoRt, Mid and Long-term Effectiveness and Efficiency of VNS Therapy® as Adjunctive Therapy in reaL-world patIents With diFficult to Treat dEpression.
+## NCT03080129
+Microbiome and Sarcopenia in Patients With Liver Cirrhosis: A Prospective Controlled Cohort Study
 
-Intervention: : Vagal Nerve Simulation (VNS) Therapy — A VNS Therapy System used for vagus nerve stimulation and consisting of an implantable VNS Therapy generator, lead, and external programming system.
-Link: https://clinicaltrials.gov/study/NCT03320304
-
-SUMMARY:
-
-## NCT04388124
-VASCULAR AND RENAL IMPACT OF ENDOTHELIN-1 RECEPTOR BLOCKADE IN PATIENTS WITH RESISTANT ARTERIAL HYPERTENSION
-
-Intervention: : Bosentan — vascular assesment Clinical exam urinary analysis blood results natriuresis and measured glomerular filtration rate
-: Placebo — Placebo
-Link: https://clinicaltrials.gov/study/NCT04388124
+Intervention: : Fresubin energy — dietary protein energy supplement
+Link: https://clinicaltrials.gov/study/NCT03080129
 
 SUMMARY:
 
-## NCT02993796
-The Institute for Myelin and Glia Exploration's Clinical Database of Patients With Krabbe Disease, A World-Wide Registry
+## NCT02356653
+Expanded Access Protocol Using CD3+/CD19+ Depleted Unrelated Donor or Related Donor Peripheral Stem Cells
+
+Intervention: : Transplant of stem cells with CD3+/CD19+ depletion (CliniMACs) — Processing of stem cells using the CliniMACs device to selectively deplete specific T cells to decrease risk of graft versus host disease when using donor stem cells which are not fully matched.
+Link: https://clinicaltrials.gov/study/NCT02356653
+
+SUMMARY:
+
+## NCT03976245
+Advanced Therapeutics in Rheumatoid Arthritis (RA)
+
+Intervention: : Etanercept — injection
+: tofacitinib — tablet
+Link: https://clinicaltrials.gov/study/NCT03976245
+
+SUMMARY:
+
+## NCT03977753
+Study to Evaluate the Efficacy of 2LVERU® JUNIOR and 2LVERU® on the Treatment of Warts.
+
+Intervention: : 2LVERU® or 2LVERU® JUNIOR — The treatment schema consists in taking the content of one capsule a day, 15-30 minutes before breakfast, on an empty stomach, sequentially, according to capsules' numerical order: 1 through 10. When capsule number 10 is taken, capsule 1 of the next blister should be taken on the next day to continue the treatment.
+
+The duration of treatment will be 6 months of continuous intake of the content of 1 capsule/day.
+: Placebo — The treatment schema consists in taking the content of one capsule a day, 15-30 minutes before breakfast, on an empty stomach, sequentially, according to capsules' numerical order: 1 through 10. When capsule number 10 is taken, capsule 1 of the next blister should be taken on the next day to continue the treatment.
+
+The duration of treatment will be 6 months of continuous intake of the content of 1 capsule/day.
+Link: https://clinicaltrials.gov/study/NCT03977753
+
+SUMMARY:
+
+## NCT02836262
+A Multi-Center Prospective Study of the Hip Innovation Technology (HIT) Hip Replacement System in Primary Total Hip Arthroplasty
+
+Intervention: : HIT Hip Replacement System — HIT Hip Replacement System
+Link: https://clinicaltrials.gov/study/NCT02836262
+
+SUMMARY:
+
+## NCT04213547
+Sleep Duration and Glycemic Control in Adolescents With Type 2 Diabetes Mellitus
+
+Intervention: : Loss frame sleep extension intervention — Aim 2 will be an interventional study design utilizing Fitbit and text messaging to perform a loss-framed incentive intervention designed to motivate participants to increase their sleep duration. Glycemic control will be measured via laboratory testing of hemoglobin A1c and Libre continuous glucose monitoring (CGM) for 2 weeks pre- and post-intervention. A focus group will be conducted prior to this intervention with patients ineligible for the intervention in order to determine appropriate text messaging.
+Link: https://clinicaltrials.gov/study/NCT04213547
+
+SUMMARY:
+
+## NCT03434548
+Longitudinal Adaptive Study of Molecular Pathology and Neuronal Networks in Huntington's Disease Gene-Expansion Carriers (HDGEC) and Healthy Controls Using Positron Emission Tomography (PET) and Multi-modal Magnetic Resonance Imaging (MRI)
+
+Intervention: : PET imaging — PET imaging Radiation: Radioligand \[¹¹C\]MePPEP Intravenous injection of radioligand in the arm with PET imaging of the brain. Radiation: Radioligand \[¹¹C\]IMA107 Intravenous injection of radioligand in the arm with PET imaging of the brain. Radiation: Radioligand \[¹¹C\]MDL100907 Intravenous injection of radioligand in the arm with PET imaging of the brain. Radiation: Radioligand \[¹¹C\]MDL100907 Intravenous injection of radioligand in the arm with PET imaging of the brain.
+
+PET imaging Radiation: Radioligand \[¹¹C\]MePPEP Intravenous injection of radioligand in the arm with PET imaging of the brain. Radiation: Radioligand \[¹¹C\]IMA107 Intravenous injection of radioligand in the arm with PET imaging of the brain. Radiation: Radioligand \[¹¹C\]MDL100907 Intravenous injection of radioligand in the arm with PET imaging of the brain. Radiation: Radioligand \[¹¹C\]MDL100907 Intravenous injection of radioligand in the arm with PET imaging of the brain.
+: Multi-modal MRI imaging — Multi-modal MRI imaging
+Link: https://clinicaltrials.gov/study/NCT03434548
+
+SUMMARY:
+
+## NCT04151342
+CAnadian CAncers With Rare Molecular Alterations (CARMA) - Basket Real-world Observational Study (BROS)
+
+Intervention: : Cancer treatment with tyrosine kinase inhibitors (TKIs) or other molecularly targeted therapeutic agents. — Observing cancer patients who have received or are currently receiving tyrosine kinase inhibitors (TKIs) or other molecularly targeted therapies for their cancer treatment.
+: Patient-reported outcomes (PROs) — Prospectively enrolled participants will be provided with survey packets comprised of different PRO instruments at the initial/baseline visit, at 3 month follow up intervals and at the time when treatment/therapy is changed.
+Link: https://clinicaltrials.gov/study/NCT04151342
+
+SUMMARY:
+
+## NCT03827187
+EEG Based Awareness Detection and Communication in Prolonged Disorders of Consciousness and Physical Disability
+
+Intervention: : Motor imagery based EEG-BCI — Information gathered in this study may be useful when considering diagnosis of prolonged disorder of consciousness and successful adoption of device could lead to assistive communication intervention with therapeutic benefits. Participants undergo quick assessment to test ability to engage in task, if successful this implies they are minimally conscious, have some awareness of self and memory intact to remember commands. During training participant undergoes multiple sessions whereby they are conducting two different imagined movements to move a sound across the azimuthal plane in a direction dictated by an auditory cue. Participant will receive auditory feedback on the position of the sound which acts as a reflection of how well the participant is engaged in the task in terms of performance and consistency across trials. The participant will move on to use the imagined movements to answer a series of biographical, situational, basic logic and numbers/letters questions.
+Link: https://clinicaltrials.gov/study/NCT03827187
+
+SUMMARY:
+
+## NCT01890486
+The Prospective Collection, Storage and Reporting of Data on Patients
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02993796
+Link: https://clinicaltrials.gov/study/NCT01890486
 
 SUMMARY:
 
-## NCT00231400
-Pompe Disease Registry
+## NCT03966027
+Immediate Vs. Delayed Weight Bearing Postoperative Protocol in Diabetic Ankle Fractures
+
+Intervention: : Postoperative protocol (Immediate weight bearing) — After ORIF of the ankle fracture, the patient will be randomized to follow an immediate weight bearing rehabilitation protocol using an offloading hindfoot brace
+: Postoperative Protocol (Delayed Weight Bearing) — After ORIF of the ankle fracture, the patient will be randomized to follow a standard delayed weight-bearing rehabilitation protocol
+Link: https://clinicaltrials.gov/study/NCT03966027
+
+SUMMARY:
+
+## NCT03261089
+Addressing an Inherent Bias in Neuroprognostication: A Collaboration to Reduce the Impact of Self-fulfilling Prophecy in Cardiac ARrEst
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00231400
+Link: https://clinicaltrials.gov/study/NCT03261089
 
 SUMMARY:
 
-## NCT01766297
-Phase II Protocol of Proton Therapy for Partial Breast Irradiation in Early Stage Breast Cancer
-
-Intervention: : Proton Radiotherapy
-Link: https://clinicaltrials.gov/study/NCT01766297
-
-SUMMARY:
-
-## NCT00736749
-Umbrella Long-Term Follow-Up Protocol
-
-Intervention: : Assessment of Therapy Complications — Complete patient response form and Health Status Update Form
-: Questionnaire Administration — Complete patient response form, Health Status Update Form (called the "Keep in Touch" form), and Quality of Life Questionnaire (PROMIS)
-Link: https://clinicaltrials.gov/study/NCT00736749
-
-SUMMARY:
-
-## NCT01068990
-Detection and Characterization of Lower Respiratory Infections in Critically Ill Patients
+## NCT03893188
+A Multicenter, Observational Cohort to Study the Characteristics of Individuals Asking for Pre-exposure Prophylaxis (PrEP) and the Incidence of HIV and Other Sexually Transmitted Infections: 'The SwissPrEPared Study'
 
 Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01068990
-
-SUMMARY:
-
-## NCT04002947
-A Phase 2 Study of Acalabrutinib With DA-EPOCH-R or R-CHOP for Patients With Untreated Diffuse Large B-cell Lymphoma
-
-Intervention: : DA-EPOCH — Vincristine 1.4 mg/m2 (2 mg cap) IV on Day 1, Doxorubicin 10 mg/m2/day CIVI on Days 1-4, Etoposide 50 mg/m2/day CIVI on Days 1-4, Cyclophosphamide 750 mg/m2 IV on Day 5. Prednisone 60 mg/m2 PO BID is administered daily on Days 1-5 of each cycle. Each cycle is 21 days and drugs will be given for 6 cycles.
-: Rituximab — Rituximab 375 mg/m2 IV on Day 1 of each 21-day cycle for 6 cycles.
-: CHOP — Cyclophosphamide 750 mg/m2 IV, Doxorubicin 50 mg/m2 IV, Vincristine 1.4 mg/m2 (2 mg cap) IV are administered on Day 1 of each 21-day cycle for 6 cycles. Prednisone 40 mg/m2 PO is administered daily on Days 1-5 of each cycle.
-: Acalabrutinib — Acalabrutinib is administered orally at 100 mg twice a day for 14 days during the window period. During combination therapy, acalabrutinib is administered 100 mg twice daily for the first 10 days for 6 cycles.
-Link: https://clinicaltrials.gov/study/NCT04002947
-
-SUMMARY:
-
-## NCT03354416
-Profiling of Radiological Factors in Treatment and Outcomes in Prostate Cancer
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03354416
-
-SUMMARY:
-
-## NCT00001184
-A Natural History Study of the Immune Regulation of Idiopathic Inflammatory Bowel Diseases: Crohn's Disease, Ulcerative Colitis, and Other Inflammatory Conditions of the Gut
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00001184
-
-SUMMARY:
-
-## NCT03913962
-Evaluation of Chronic Pathologies Impact and Their Treatments on Children and Teen Physical Fitness.
-
-Intervention: : indirect calorimetry — Patients will be separated in different subgroups. Subgroups will be constituted according the disease status (i.e. active vs inactive) to assess the impact of the pathology on physical fitness and according to treatments to assess the effect of treatment on physical fitness.
-Link: https://clinicaltrials.gov/study/NCT03913962
-
-SUMMARY:
-
-## NCT03712722
-Fecal Microbiota Transplantation (FMT) for Recurrent Clostridium Difficile Infection - an Observational Cohort Study
-
-Intervention: : Faecal microbiota transplantation (FMT) — FMT delivered by colonoscopy, nasojejunal tube, glycerol-based capsules, or freeze-dried encapsulated donor faeces
-Link: https://clinicaltrials.gov/study/NCT03712722
-
-SUMMARY:
-
-## NCT00182858
-Tissue Procurement for Biomedical Research
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT00182858
-
-SUMMARY:
-
-## NCT02327897
-Natural History of Asthma With Longitudinal Environmental Sampling
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02327897
-
-SUMMARY:
-
-## NCT01676805
-Lymphoid Malignancies and Precursors: Tissue Acquisition Protocol
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT01676805
-
-SUMMARY:
-
-## NCT03451383
-Older Breast Cancer Patients: Risk for Cognitive Decline. The Thinking and Living With Cancer (TLC) Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT03451383
-
-SUMMARY:
-
-## NCT03728166
-Randomized Controlled Trial of Computerized Decision Support for Prevention of Venous Thromboembolism in Hospitalized Medical Patients Across the Continuum of Care (DC-eALERT)
-
-Intervention: : Electronic alert — On-screen electronic alert that notifies the provider about the increased risk for VTE after discharge and indication for thromboprophylaxis will be issued 48 hours after admission. This first on-screen electronic alert will provide the clinician with the opportunity to consider extended-duration, post-discharge thromboprophylaxis and start any required processes for prior authorization or medication coverage. The provider then will be given on-screen options to either order thromboprophylaxis (betrixaban or low-molecular weight heparin for 35 days) from a "Extended-Duration VTE Prevention" order template, follow a link to evidence-based practice guidelines, or defer prescribing extended-duration, post-discharge thromboprophylaxis.
-Link: https://clinicaltrials.gov/study/NCT03728166
+Link: https://clinicaltrials.gov/study/NCT03893188
 
 SUMMARY:
 

@@ -5751,14 +5751,6 @@ Link: https://clinicaltrials.gov/study/NCT06576635
 
 SUMMARY:
 
-## NCT06576700
-Effect of Procyanidins in the Leaky Gut Repairing Associated with Inflammatory Bowel Disease
-
-Intervention: : Grape Seed Extracts — 2 capsules/day for 8 weeks
-Link: https://clinicaltrials.gov/study/NCT06576700
-
-SUMMARY: Inflammatory bowel disease damages the gut lining and makes it leaky. This study tests grape seed extract capsules, which contain procyanidins, for eight weeks to see whether they help repair the gut lining.
-
 ## NCT06576726
 Sensorimotor and Psychosocial Trajectories in Adolescents With Tic Disorder
 
@@ -6570,14 +6562,6 @@ Intervention: : gemcitabine hydrochloride — 800 mg/m\^2, intravenous (IV) over
 Link: https://clinicaltrials.gov/study/NCT06591650
 
 SUMMARY: Gallbladder cancer that is advanced or has spread has a poor outlook. This study combines gemcitabine, cisplatin and albumin bound paclitaxel chemotherapy with the immunotherapy durvalumab to see whether it works better.
-
-## NCT06591793
-A Phase 1/2 Multicenter, Open-label, Dose Escalation, Safety and Efficacy Study of Subretinal Administration of Dual AAV8.MYO7A, AAVB-081 in Subjects With Usher Syndrome Type IB (USH1B) Retinitis Pigmentosa
-
-Intervention: : AAVB-081 — Single subretinal administration
-Link: https://clinicaltrials.gov/study/NCT06591793
-
-SUMMARY: Usher syndrome type 1B causes deafness from birth and gradual blindness from retinitis pigmentosa. This study tests AAVB-081, a gene therapy injected under the retina that delivers a working copy of the MYO7A gene.
 
 ## NCT06591884
 Evaluation of the Efficacy of 0.08% Tacrolimus Nanoencapsulated Aqueous Solution Spray Vs. 0.1% Free Tacrolimus Commercial Ointment in the Treatment of Oral Lichen Planus - a Randomized Clinical Trial
@@ -12834,17 +12818,6 @@ Link: https://clinicaltrials.gov/study/NCT06690697
 
 SUMMARY: Clear cell kidney cancer that returns or spreads after first treatment needs better options. This study combines the immunotherapy toripalimab with JS004, an antibody that blocks another immune brake called BTLA, as second line treatment.
 
-## NCT06690775
-Catalina-2: A Phase 2 Study Evaluating the Efficacy and Safety of TORL-1-23 in Women With Advanced Platinum-Resistant Epithelial Ovarian Cancer (Including Primary Peritoneal and Fallopian Tube Cancers) Expressing Claudin 6
-
-Intervention: : TORL-1-23 — 2.4mg/kg intravenous infusion on Day 1 of every 3-week cycle.
-: TORL-1-23 — 3.0 mg/kg intravenous infusion on Day 1 of every 3-week cycle.
-: TORL-1-23 — 3.4 mg/kg intravenous infusion on Day 1 of every 3-week cycle.
-: Pegfilgrastim (drug) — 6.0 mg subcutaneous injection on Day 4 of each cycle.
-Link: https://clinicaltrials.gov/study/NCT06690775
-
-SUMMARY: Ovarian cancer that resists platinum chemotherapy and carries the Claudin 6 marker has few options. This study tests TORL-1-23, an antibody that delivers a cancer killing drug to Claudin 6 positive cells, to see whether it works.
-
 ## NCT06690788
 PreventT2 Together: Examining the Efficacy of Couple-based Lifestyle Intervention to Prevent Type 2 Diabetes
 
@@ -13597,21 +13570,6 @@ Intervention: : Continuous Phototherapy with a irradiance of 40 µW/cm2/nm from 
 Link: https://clinicaltrials.gov/study/NCT06702241
 
 SUMMARY: Newborn jaundice is treated with light therapy, but the best way to give it is unclear. This study compares different phototherapy strategies, including different light intensities, to see which works best.
-
-## NCT06702449
-A Seamless Phase 1/2, Observer-blind, Randomized, Placebo-controlled, Multicenter Study to Assess the Safety and Immunogenicity of a UTI Vaccine When Administered to Adults 18 Through 64 Years of Age and Clinical Efficacy When Administered to Females 18 Through 64 Years of Age
-
-Intervention: : Candidate UTI vaccine low dose formulation 1 — Candidate UTI vaccine low dose formulation 1 administered intramuscularly according to a 0, 2 months administration schedule.
-: Candidate UTI vaccine low dose formulation 2 — Candidate UTI vaccine low dose formulation 2 administered intramuscularly according to a 0, 2 months administration schedule.
-: Candidate UTI vaccine medium dose formulation 1 — Candidate UTI vaccine medium dose formulation 1 administered intramuscularly according to a 0, 2 months administration schedule.
-: Candidate UTI vaccine medium dose formulation 2 — Candidate UTI vaccine medium dose formulation 2 administered intramuscularly according to a 0, 2 months administration schedule.
-: Candidate UTI vaccine high dose formulation 1 — Candidate UTI vaccine high dose formulation 1 administered intramuscularly according to a 0, 2 months administration schedule.
-: Candidate UTI vaccine high dose formulation 2 — Candidate UTI vaccine high dose formulation 2 administered intramuscularly according to a 0, 2 months administration schedule.
-: Candidate UTI vaccine HTD formulation 2 — Candidate UTI vaccine HTD formulation 2 administered intramuscularly according to a 0, 2 months administration schedule.
-: Placebo — Placebo administered intramuscularly according to a 0, 2 months administration schedule.
-Link: https://clinicaltrials.gov/study/NCT06702449
-
-SUMMARY: Urinary tract infections are common and often come back, especially in women. This study tests a UTI vaccine for safety and immune response in adults, and whether it prevents infections in women.
 
 ## NCT06702553
 Effect of Inhaled Nitric Oxide on Major Adverse Events Requiring Intensive Life Support in Adults Undergoing Cardiac Surgery With Cardiopulmonary Bypass: A Phase III, Double-Blind, Multicenter, Randomized Controlled Trial (Nitric Oxide for Reduced Intensive Support in Cardiac Surgery With Cardiopulmonary Bypass, the NORISC Trial)
@@ -14410,14 +14368,6 @@ Intervention: : JAK Inhibitor — JAK inhibitors for 28 days
 Link: https://clinicaltrials.gov/study/NCT06715982
 
 SUMMARY: Immunotherapy for cancer can cause skin inflammation that may not respond to steroids. This study tests JAK inhibitor pills for 28 days to see whether they treat this rash.
-
-## NCT06716034
-Mood And Kids diEt (MAKE-It): A Pilot Randomized Controlled Trial for a Personalized Dietary Intervention for Adolescents With Depression
-
-Intervention: : Personalized Nutrition Plan and Support — The intervention is a virtually-delivered, personalized nutrition plan and support to improve dietary intake of healthy food (fruit, vegetables and whole grains), based on the principles of a Mediterranean-style diet. Components of the intervention include nutrition counselling, menu planning and the provision of groceries, delivered biweekly, face-to-face, by a registered dietitian over 8 weeks, using a virtual platform. The nutrition counselling structure is grounded in evidence-based behaviour change theory for dietary interventions. Youth and parents will co-develop a personalized menu plan. In addition to biweekly nutrition counselling, participants will receive a food pantry basket, and weekly grocery deliveries to support the menu plan.
-Link: https://clinicaltrials.gov/study/NCT06716034
-
-SUMMARY: Teens with depression may benefit from improving their diet. This study tests a personalized nutrition plan with virtual support to see whether it is workable and improves mood.
 
 ## NCT06716398
 A Randomized Investigator-blinded Comparative Study to Assess the Efficacy of the Cosmetic Care Product RV4133C - Formula JT2559 in Subjects With Facial Acne, During a 3-month-associated-treatment Phase Followed by a 3-month-maintenance Phase

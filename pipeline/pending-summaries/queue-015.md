@@ -435,15 +435,6 @@ Link: https://clinicaltrials.gov/study/NCT06044935
 SUMMARY:
 
 
-## NCT07597603
-H22 - Unconscious Mind Training and Memory Encoding
-
-Intervention: : Intervention H22 — Unconscious Mind Training.
-Link: https://clinicaltrials.gov/study/NCT07597603
-
-SUMMARY:
-
-
 ## NCT07025070
 The Link Between Strength and Endurance Training and Brain Health in Healthy Adults: A Comparative Study of Former Professional Athletes and Sedentary Individuals
 

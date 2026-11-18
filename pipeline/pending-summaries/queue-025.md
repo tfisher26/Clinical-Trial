@@ -721,15 +721,6 @@ Link: https://clinicaltrials.gov/study/NCT05539781
 SUMMARY:
 
 
-## NCT07182916
-Factors Associated With Early Readmission in Critical Care
-
-Intervention: : No intervention — Only observation
-Link: https://clinicaltrials.gov/study/NCT07182916
-
-SUMMARY:
-
-
 ## NCT05578105
 Prevalence and Genetic Alternation of Autoimmune Polyglandular Syndrome Type II in Taiwan
 

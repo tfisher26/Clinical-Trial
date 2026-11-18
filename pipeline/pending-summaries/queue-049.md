@@ -2548,14 +2548,6 @@ Link: https://clinicaltrials.gov/study/NCT07264647
 
 SUMMARY:
 
-## NCT07264699
-Efficacy of Visually Guided Transversus Abdominis Plane (TAP) Block in Recovery After Laparoscopic Inguinal Hernia Repair (TAPP - Transabdominal Preperitoneal)
-
-Intervention: : Laparoscopic Transversus Abdominis Plane (TAP) Block with Bupivacaine — A bilateral Transversus Abdominis Plane (TAP) block is performed under direct laparoscopic vision after pneumoperitoneum is established. Using a needle and syringe, 20 ml of 0.25% bupivacaine is injected on each side, approximately 2 cm below the costal margin in the anterior axillary line. The correct spread of the local anesthetic is confirmed visually by observing the characteristic "Doyle's bulge sign." The procedure is performed before mesh placement during TAPP hernia repair. This technique allows direct visualization of the injection plane, increasing precision and safety compared with ultrasound-guided TAP blocks.
-Link: https://clinicaltrials.gov/study/NCT07264699
-
-SUMMARY:
-
 ## NCT07264816
 A Phase II Clinical Study to Evaluate the Efficacy and Safety of BL-M07D1 in Combination With Pembrolizumab in Patients With Unresectable Locally Advanced or Metastatic HER2-Overexpressing Non-Squamous Non-Small Cell Lung Cancer
 
@@ -9238,15 +9230,6 @@ Identification of Genetic, Phenotypic, Clinical, Biological and Histological Fac
 
 Intervention: : molecular analysis — molecular analysis on histological blocks
 Link: https://clinicaltrials.gov/study/NCT07361471
-
-SUMMARY:
-
-## NCT07361679
-Combined Administration of Low Molecular Weight Heparin and Aspirin Versus Aspirin Alone in Gravidas at High Risk for Preeclampsia: A Randomized Controlled Trial
-
-Intervention: : Aspirin — Aspirin 160 mg orally once daily before bedtime. Duration: From enrollment (\<16 weeks gestation) until 36 weeks gestation.
-: Tinzaparin — Weight-adjusted tinzaparin administered subcutaneously once daily in the morning: 4,500 Anti-Xa IU/day for weight ≤60 kg, 6,000 Anti-Xa IU/day for weight 60-90 kg, and 8,000 Anti-Xa IU/day for weight \>90 kg. Duration: From enrollment (\<16 weeks gestation) until 36 weeks gestation.
-Link: https://clinicaltrials.gov/study/NCT07361679
 
 SUMMARY:
 

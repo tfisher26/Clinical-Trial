@@ -14074,14 +14074,6 @@ Link: https://clinicaltrials.gov/study/NCT06401772
 
 SUMMARY: Chronic subdural hematoma is a collection of old blood on the brain surface that often comes back after surgery. This study tests a specific body posture after surgery that adjusts pressure inside the skull to see whether it prevents recurrence.
 
-## NCT06402201
-Phase 1, First-in-Human Study to Assess the Safety, Tolerability and Anti-tumor Activity of CDR404 in HLA-A*02:01 Participants With MAGE-A4 Expressing Solid Tumors
-
-Intervention: : CDR404 — IV infusions
-Link: https://clinicaltrials.gov/study/NCT06402201
-
-SUMMARY: Some solid tumors carry a marker called MAGE-A4 and have few treatment options. This study tests CDR404, an infused medicine that directs the immune system to attack these tumor cells in people with a matching tissue type.
-
 ## NCT06402318
 A Prospective, Non-interventional, Observational Clinical Validation Study to Analytically Validate the A&M Breathalyzer PROTECT Kiosk Breath Capture System.
 
