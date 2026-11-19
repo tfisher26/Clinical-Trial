@@ -2146,15 +2146,6 @@ Link: https://clinicaltrials.gov/study/NCT06256354
 SUMMARY:
 
 
-## NCT07392437
-Prevalence of Diabetes-related Distress Among Patients Living With Type 2 Diabetes in a University Hospital Center and Identification of Its Associated Factors.
-
-Intervention: : Questionnaire and Physical Exam — Patients will be asked to complete questionnaires.
-Link: https://clinicaltrials.gov/study/NCT07392437
-
-SUMMARY:
-
-
 ## NCT07431554
 Effect of Acute Hypoxia on RIght VEntRicular Function. A Single-Center, Double-Blind, Randomized Controlled Cross-Over Trial.
 
@@ -4684,15 +4675,6 @@ WAter Preparation for Magnetic Resonance Enterography in Crohn's Disease
 Intervention: : water preparation — ingestion of 1.5L of water 30min prior MRE acquisition
 : polyethylene glycol preparation — ingestion of 1.5L of water diluted PEG 45 min prior MRE acquisition (standard protocol)
 Link: https://clinicaltrials.gov/study/NCT06690632
-
-SUMMARY:
-
-
-## NCT05877157
-Pain and Opioids After Surgery (PANDOS) Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05877157
 
 SUMMARY:
 

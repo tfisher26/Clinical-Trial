@@ -1725,15 +1725,6 @@ Link: https://clinicaltrials.gov/study/NCT05574868
 
 SUMMARY: Erectile dysfunction that does not respond to other treatments can be treated with a penile implant. This study evaluates the Rigicon Infla10 three piece inflatable penile prosthesis.
 
-## NCT05575024
-Real-time Monitoring of Hemodynamic Stability in Septic Shock Patients Undergoing Continuous Renal Replacement Therapy: Propensity Score-matched Comparison Between oXiris and Polysulfone Membranes
-
-Intervention: : oXiris membrane — Perform continuous renal replacement therapy with oXiris membrane
-: Polysulfone membrane — Perform continuous renal replacement therapy with polysulfone membrane
-Link: https://clinicaltrials.gov/study/NCT05575024
-
-SUMMARY:
-
 ## NCT05575323
 Stereotactic Body Radiotherapy and pedicLE Screw fixatioN During One Hospital Visit for Patients With Painful Unstable Spinal Metastases: A Randomized Trial (BLEND)
 
@@ -5087,18 +5078,6 @@ Prospective Cohort Study of a Patient Navigator PRE-ACT Educational Intervention
 
 Intervention: : Educational Intervention — The intervention will occur at a separate dedicated in-person visit with the patient navigator estimated to last 30-45 minutes. The Pre-Intervention Survey will be scored to generate a list of barriers identified for each patient. This list of barriers will be reviewed by the patient navigator prior to the intervention date. The patient will be asked to view educational videos on an iPad that correspond with each identified barrier. Afterwards, the patient navigator will lead a discussion based on the topics discussed.
 Link: https://clinicaltrials.gov/study/NCT05701085
-
-SUMMARY:
-
-## NCT05701111
-Building Resilience at Schools: Emotional and Biological Assessment and Treatment of Traumatic Stress
-
-Intervention: : Start with the Heart Students — The Start with the Heart curriculum includes psychoeducation, lessons, and activities, on mindfulness, neurobiology, meditation, positive thinking, movement, and nutrition to promote well-being. The curriculum will be taught in the classroom to students for 15-20 min per day for 6-8 weeks.
-: Start with the Heart Teachers — Pure Edge Inc will train teachers to deliver the Start with the Heart curriculum. The training emphasizes the neuroscience of stress and educator self-care. The teachers will implement the training in their respective classrooms for 6-8 weeks.
-: Cue Centered Therapy Counselors — The Early Life Stress and Resilience Program team members will train school counselors on Cue-Centered Therapy through self-paced online modules, virtual and in-person live training, and office hours as needed. Counselors will implement the intervention with eligible students for 15-18 weeks.
-: Cue Centered Therapy Students — Students who report a threshold of PTSD symptoms will be offered participation in Cue-Centered Therapy with their school counselors. They will have one-on-one therapy that targets trauma experiences through cognitive behavioral tools, narrative therapy, exposure therapy, psychoeducation, and more. Their caregivers will be involved as needed. They will enroll in treatment for 15-18 weeks.
-: iSWAB-DNA — Eligible students will give DNA buccal swabs at 2-3 time points for later analysis of genetic markers.
-Link: https://clinicaltrials.gov/study/NCT05701111
 
 SUMMARY:
 
@@ -10044,14 +10023,6 @@ Intervention: : Microbiota-directed balanced energy protein (MD-BEP) — Prototy
 Link: https://clinicaltrials.gov/study/NCT05862363
 
 SUMMARY:
-
-## NCT05864274
-Using a Novel Mobile Cognitive Training Application to Improve Cancer-related Cognitive Impairment in Gynecologic Oncology Patients
-
-Intervention: : Cognitive training application — Patients will participate with a cognitive training application and undergo neurocognitive testing during and after chemotherapy.
-Link: https://clinicaltrials.gov/study/NCT05864274
-
-SUMMARY: Cancer and its treatment can cause problems with memory and thinking. This study tests a mobile cognitive training app for gynecologic cancer patients with these problems.
 
 ## NCT05864976
 Advancing Neurosurgical Neuronavigation Using Resting State MRI and Machine Learning - a Prospective Study

@@ -1036,14 +1036,6 @@ Link: https://clinicaltrials.gov/study/NCT06676046
 
 SUMMARY:
 
-## NCT06735898
-Evaluation of the Efficacy of Permanent Course Combined Therapy With CYTOFLAVIN® Intravenous Solution and CYTOFLAVIN® Tablets, at 2-3 Stages of Rehabilitation of Patients With Post Intensive Care Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06735898
-
-SUMMARY:
-
 ## NCT07143552
 A Prospective Case-Control Study of Vitamin D Status, Bone Metabolic Markers, and Overweight in Pediatric Low-Energy Fractures
 
@@ -3066,40 +3058,6 @@ Intervention: : Caloric test — Lying, patientwill be placed so that he can int
 Link: https://clinicaltrials.gov/study/NCT04678167
 
 SUMMARY:
-
-## NCT04678401
-A Pilot/Phase 1 Study of Immunosuppression-free Regulatory T-cell Graft-engineered Haploidentical Hematopoietic Cell Transplantation in Relapsed/Refractory and Ultra-High-risk AML/MDS
-
-Intervention: : Radiation — For MAC regimen:
-
-Total Myeloid and Lymphoid Irradiation (TMLI) delivered through Radiation Oncology institutional standards and comprised of 13.5 Gy TMI (9 fractions, 1.5 Gy per fraction, 2 fractions per day) and 11.7 Gy TLI (9 fractions, 1.3 Gy per fraction, 2 fractions per day).
-
-OR Total Body Irradiation (TBI) comprised of 12 Gy (6 fractions, 2 Gy per fraction, 2 fractions per day)
-
-For RIC regimen:
-
-TBI comprised of 2 Gy in 1 fraction.
-: Fludarabine — For MAC regimen: 30 mg/m\^2/d in 100 ml normal saline (NS) will be administered as a bolus infusion administered by IV infusion over approximately 30 minutes for 5 days (on day -10, -9, -8, -7, -6)
-
-For RIC regimen: 40 mg/m\^2/d in 100 ml NS will be administered as a bolus by IV infusion over approximately 30 minutes for 4 days (on day -10, -9, -8, -7)
-: Thiotepa — For MAC regimen: 3.75 mg/kg diluted in NS to a final concentration of 1mg/mL will be administered by IV infusion over approximately 4 hours daily for 2 days (on day -10, -9)
-
-For RIC regimen: 5 mg/kg diluted in NS to a final concentration of 1mg/mL will be administered by IV infusion over approximately 4 hours twice daily for 1 day (on day -11)
-: Cyclophosphamide — For MAC regimen only: 15 mg/kg diluted in NS per institutional standard and will be administered by IV over 1 hour or as directed per institutional standard practice, daily on D-8, -7.
-: Mesna — For MAC regimen only: 3.75mg/kg (25% of cyclophosphamide dose) diluted in 50 mL NS and administered IV over 30 min, will be infused starting 30 min prior to cyclophosphamide and for 3 doses thereafter, at 3, 6 and 9h after cyclophosphamide
-: Treg-enriched donor cell — Target 'Treg-enriched' cell dose is 1-2 x 10\^6 cells/kg. Cells will be given intravenously on Day -4. The day -1 calculated unmodified PBMC T ('Teff') cell dose will be adjusted to maintain a targeted cell ratio of 2 'Treg-enriched' cells:1 'Teff' cell.
-: Unmodified donor T Cell — Unmodified donor PBMCs will be infused at a calculated 'Teff' dose of 1x10\^6 CD3+ T cells/kg, adjusted per the caveats below:
-
-A) If the 'Treg-enriched' product infused was at target dose of 2x106 cells/kg but had ≥30% CD4+CD25+CD127hi cells, the unmodified 'Teff' (calculated) cell dose infused on day -1 will be halved to 0.5x10\^6 CD3+ T cells/kg.
-
-B) If the 'Treg-enriched' product was in the range of 1-2x106 cells/kg, the unmodified 'Teff' (calculated) cell dose on day -1 will be adjusted to between 0.5-1x10\^6 CD3+ T cells/kg, dosed to maintain a 2 'Treg-enriched':1 'Teff' (calculated) ratio of infused cells.
-
-C) If the 'Treg-enriched' product infused met both caveats A and B above, the unmodified 'Teff' (calculated) cell dose infused on day -1 will be halved to 0.5x10\^6 CD3+ T cells/kg.
-: CD34+ Haplo Peripheral Blood Stem Cell — The megadose donor CD34+ PBSC infusion target is \>10x10\^6 CD34+ cells/kg (ABW or IBW, whichever is greater). If the CD34+ graft has \<6x10\^6 CD34+ cells/kg (ABW or IBW, whichever is greater) (below megadose minimum) it WILL be infused in order to rescue recipient hematopoiesis, and the patient will remain on study.
-: Melphalan — For RIC regimen only: 100 mg/m2 will be administered as a bolus by IV infusion over approximately 30 minutes for 1 day (on day -6)
-Link: https://clinicaltrials.gov/study/NCT04678401
-
-SUMMARY: Acute myeloid leukemia and myelodysplastic syndrome that have come back or are very high risk often need a stem cell transplant from a half matched donor. This study tests a graft engineered with regulatory T cells so patients do not need immune suppressing drugs.
 
 ## NCT04680260
 OPTIMIzation of Treatment SElection and Follow up in Oligometastatic Colorectal Cancer - a ctDNA Guided Phase II Randomized Approach
@@ -9007,17 +8965,6 @@ Link: https://clinicaltrials.gov/study/NCT05120518
 
 SUMMARY:
 
-## NCT05121324
-Pediatric Dose Optimization for Seizures in EMS (PediDOSE)
-
-Intervention: : Standardized seizure protocol — The intervention is a standardized seizure protocol for paramedics that prioritizes administration of only intramuscular (IM) or intranasal (IN) midazolam, up to 2 doses given 5 minutes apart, with age-based dosing as follows: 6-16 months (1.25 mg); 17 months-5 years (2.5 mg); 6-11 years (5 mg); 12-13 years (10 mg).
-: Conventional seizure protocol — The control is the EMS agency's current seizure protocol, based on conventional calculation-based dosing. These vary from one EMS agency to the other with respect to recommended midazolam doses ranging from 0.05-0.3 mg/kg and with multiple route choices listed, including intravenous, intraosseous, intramuscular, intranasal, and rectal.
-
-for paramedics that prioritizes administration of only intramuscular (IM) or intranasal (IN) midazolam, up to 2 doses given 5 minutes apart, with age-based dosing as follows: 6-16 months (1.25 mg); 17 months-5 years (2.5 mg); 6-11 years (5 mg); 12-13 years (10 mg).
-Link: https://clinicaltrials.gov/study/NCT05121324
-
-SUMMARY: Seizures in children need fast treatment from paramedics. This study tests a standardized paramedic protocol that gives midazolam only into the muscle or nose, with up to two doses based on age.
-
 ## NCT05122078
 Effects of Analgesia Nociception Index (ANI)-Guided Analgesia on Postoperative Bowel Function Recovery in Laparoscopic Colorectal Surgery: A Prospective Randomized-controlled Study
 
@@ -13131,14 +13078,6 @@ Intervention: : Abemaciclib + Aromatase Inhibitor — Abemaciclib 150 mg orally 
 Link: https://clinicaltrials.gov/study/NCT05362760
 
 SUMMARY: Hormone receptor positive, HER2 negative advanced breast cancer is often treated with abemaciclib plus hormone therapy. This study tests that combination with a focus on managing side effects through digital tools.
-
-## NCT05363878
-Development of a Culturally Grounded, Trauma-Informed Alcohol Intervention With a Reserve-Dwelling First Nation Group
-
-Intervention: : Native HEALTH — This application proposes the development and initial test of a culturally grounded, trauma informed intervention for alcohol use.
-Link: https://clinicaltrials.gov/study/NCT05363878
-
-SUMMARY:
 
 ## NCT05364294
 Molecular Diagnosis of Systemic Autoinflammatory Diseases

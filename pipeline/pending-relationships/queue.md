@@ -103446,3 +103446,16 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT05776706
+Exploratory Clinical Trial for the Evaluation of the Accuracy of Augmented Reality-Based Neuronavigation System
+Conditions: neurological/brain_neoplasms, neurological/intracranial_aneurysm, neurological/intracranial_arteriovenous_malformations
+
+Inclusion criteria:
+"""
+* Adults aged 18 years or older with a brain tumor or cerebrovascular disease who have undergone preoperative CT
+* Scheduled for surgical treatment of the brain tumor or cerebrovascular disease
+* Surgical position allowing exposure and measurement of bilateral Kocher's points and the glabella without significant head rotation
+"""
+
+RELATIONSHIP:
+

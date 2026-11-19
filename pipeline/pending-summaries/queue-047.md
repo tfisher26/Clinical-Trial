@@ -4949,14 +4949,6 @@ Link: https://clinicaltrials.gov/study/NCT06825130
 
 SUMMARY:
 
-## NCT06825377
-Comparing the Effects of High-protein Nutritional Support with Standard Protein Nutritional Support Through the Administration of Whey Protein Supplements on Clinical Outcomes of Critically Ill Patients At Risk for Refeeding Syndrome: a Randomized Comparative Clinical Trial
-
-Intervention: : Whey protein — Whey protein powder will be provided with nutritional support in both groups if needed to meet the target protein intake.
-Link: https://clinicaltrials.gov/study/NCT06825377
-
-SUMMARY:
-
 ## NCT06825520
 Investigating Changes in Premonitory Urges During Habit Reversal Training
 
@@ -10655,19 +10647,6 @@ Sport Mouthguards: Devices for Preventing Dental and Alveolar Injuries in Sports
 
 Intervention: : Sport custom mouthguard — This mouthguard will be made using two 3mm vinyl acetate ethylene sheets in a vacuum machine, following the recommendations for an appropriate mouthguard regarding trauma prevention and patient comfort. The patients will be monitored after 1, 3, and 6 months of using the mouthguard.
 Link: https://clinicaltrials.gov/study/NCT06912451
-
-SUMMARY:
-
-## NCT06912477
-Systematic Evaluation of Endothelial Dysfunction as a Prognostic Marker for Outcomes in Women With Preeclampsia
-
-Intervention: : Hyperspectral imaging — Hyperspectral imaging will be performed at study inclusion and will be repeated longitudinally every 1-2 days until delivery and on the first and second day after delivery. After a baseline measurement, a blood pressure cuff is inflated on the upper arm to 50 mmHg above the systolic blood pressure for 5 minutes, and then the hyperspectral imaging measurement is repeated.
-
-Blood samples are collected at study inclusion and on the first and second day after delivery and are processed within the Department of Gynecology and Obstetrics of the Heidelberg University Hospital.
-: Further markers of endothelial dysfunction — At study inclusion: 1. blood samples will be collected for the measurement of EASIX and cardiac/endothelial markers; 2. sublingual in vivo microscopy will be performed (requires about 20 minutes and can be compared to a sublingual temperature measurement); 3. Doppler ultrasound will be performed to evaluate uterine and ophthalmic arteries.
-
-Blood samples will also be collected at the first and second day after delivery.
-Link: https://clinicaltrials.gov/study/NCT06912477
 
 SUMMARY:
 

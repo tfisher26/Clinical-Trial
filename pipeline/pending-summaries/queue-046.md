@@ -4409,14 +4409,6 @@ Link: https://clinicaltrials.gov/study/NCT06550245
 
 SUMMARY:
 
-## NCT06550284
-Small Nerve Fiber Activity in Patients with Carpal Tunnel Syndrome Assessed Via Quantitative Sensory Testing
-
-Intervention: : Physical Therapy — The intervention will be physical therapy standard care.
-Link: https://clinicaltrials.gov/study/NCT06550284
-
-SUMMARY:
-
 ## NCT06550882
 Post-Marketing Surveillance (Use-result Surveillance) of OBIZUR Injection [Susoctocog Alpha (Porcine Antihemophilic Factor VIII, Recombinant)] for the Approved Indications in South Korea
 
@@ -13552,14 +13544,6 @@ Link: https://clinicaltrials.gov/study/NCT06702046
 
 SUMMARY: Knee osteoarthritis causes pain and stiffness. This study tests pulsed radiofrequency applied to acupuncture points through the skin to see whether it relieves knee pain.
 
-## NCT06702059
-Cardiopulmonary Exercise Testing in the Prediction of Post-operative Complications in Patients Undergoing Coronary Artery Bypass Graft Surgery
-
-Intervention: : Cardiopulmonary exercise testing — Subjects will undergo pre-operative cardiopulmonary exercise testing.
-Link: https://clinicaltrials.gov/study/NCT06702059
-
-SUMMARY:
-
 ## NCT06702241
 Neonatal Hyperbilirubinemia - Phototherapeutic Treatment Strategies
 
@@ -15801,14 +15785,6 @@ Intervention: : BEAM-301: Single dose of BEAM-301 administered by IV — BEAM-30
 Link: https://clinicaltrials.gov/study/NCT06735755
 
 SUMMARY: Glycogen storage disease type Ia causes dangerously low blood sugar and liver problems. This study tests BEAM-301, a one time base editing therapy that corrects a specific gene change, to find a safe dose.
-
-## NCT06735898
-Evaluation of the Efficacy of Permanent Course Combined Therapy With CYTOFLAVIN® Intravenous Solution and CYTOFLAVIN® Tablets, at 2-3 Stages of Rehabilitation of Patients With Post Intensive Care Syndrome
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06735898
-
-SUMMARY:
 
 ## NCT06736028
 Ketogenic Diets for Weight Loss Maintenance: Impact on Energy Expenditure and Appetite in Individuals With Obesity

@@ -2406,14 +2406,6 @@ Link: https://clinicaltrials.gov/study/NCT07262801
 
 SUMMARY:
 
-## NCT07263061
-Time to Post-operative Recovery of Serum Albumin as a Predictor of Outcome in Major Hepato Pancreato Biliary Surgeries
-
-Intervention: : NO TREATMENT — NO TREATMENT
-Link: https://clinicaltrials.gov/study/NCT07263061
-
-SUMMARY:
-
 ## NCT07263191
 A Multicenter, Prospective Observational Study to Evaluate Treatment Patterns and Safety in Patients With Bipolar Disorder Taking Olanzapine
 
@@ -6719,14 +6711,6 @@ Intervention: : supplementary tubes — * One 2.5 ml EDTA blood tube for PPi mea
 * 7.5 ml whole blood for ectoenzyme measurement
 : SCANNER — non-injected coronary and lower limb scanner
 Link: https://clinicaltrials.gov/study/NCT07323082
-
-SUMMARY:
-
-## NCT07323251
-Clinical Study on the Effectiveness of Diverse Segments Defocus Optimization in Spectacle Lenses for Slowing Myopia Progression
-
-Intervention: : Diverse Segments Defocus Optimization (D.S.D.O.) spectacle lenses — This clinical trial employs a randomized, parallel-group, superiority design to evaluate two novel optical designs of Diverse Segments Defocus Optimization (D.S.D.O.) myopia management spectacle lenses. A total of 60 myopic Chinese children, aged 6 to 14 years, will be recruited and randomly assigned in a 1:1 ratio to one of two intervention groups. Both groups will receive myopia control spectacles: the Control Group will use D.S.D.O. Lens Design 1, and the Intervention Group will use D.S.D.O. Lens Design 2. Participants are required to wear the assigned spectacles daily for the entire 12-month study duration, except during sleep or other unavoidable circumstances. The spectacles are intended to provide full refractive correction for distance vision while simultaneously incorporating defocus modifications designed to slow myopia progression by manipulating peripheral retinal defocus patterns. The study includes a baseline visit, a dispensing visit, and follow-up assessments at 3, 6, 9
-Link: https://clinicaltrials.gov/study/NCT07323251
 
 SUMMARY:
 

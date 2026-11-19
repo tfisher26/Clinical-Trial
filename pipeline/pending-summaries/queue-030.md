@@ -122,15 +122,6 @@ Link: https://clinicaltrials.gov/study/NCT06325280
 SUMMARY:
 
 
-## NCT06776263
-Dysfunctional Breathing in Patients With Post COVID-19 Condition
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06776263
-
-SUMMARY:
-
-
 ## NCT07422207
 A Phase 1, First-in-Human, Single-Center, Randomized, Double-Blind, Placebo-Controlled, Single and Multiple Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of ME3241 Administered Intravenously in Healthy Adult Participants
 

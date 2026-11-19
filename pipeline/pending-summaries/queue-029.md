@@ -816,15 +816,6 @@ Link: https://clinicaltrials.gov/study/NCT06880107
 SUMMARY:
 
 
-## NCT07204418
-A Phase 1, 4-part, Open-label Study to Evaluate the Effects of CYP2D6 Phenotypes on the Pharmacokinetics of Xanomeline Following KarXT Administration in Healthy Adult Participants
-
-Intervention: : Xanomeline/ Trospium Chloride — Specified dose on specified days
-Link: https://clinicaltrials.gov/study/NCT07204418
-
-SUMMARY:
-
-
 ## NCT06971718
 Drug Coated Balloons in Coronary Bifurcation Lesions. A Feasibility Study Looking at Computational Flow Dynamics, Ischaemic and Anatomical Changes to the Bifurcation
 

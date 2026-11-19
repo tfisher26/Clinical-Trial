@@ -4233,15 +4233,6 @@ Link: https://clinicaltrials.gov/study/NCT07059637
 
 SUMMARY:
 
-## NCT07059689
-High Flow Nasal Cannula vs. Non-Invasive Ventilation in Post-Extubation Pediatric Cardiac Surgery Patients: A Randomized Controlled Trial
-
-Intervention: : High Flow Nasal Cannula (HFNC) — Participants in this arm will receive High Flow Nasal Cannula therapy using the Airvo™3 Nasal High Flow System immediately after planned extubation following cardiac surgery
-: Non-Invasive Ventilation (NIV) — Participants in this arm will receive Non-Invasive Ventilation (NIV) immediately after planned extubation following cardiac surgery. NIV will be delivered using standard ICU ventilator settings, with parameters tailored to each patient's clinical condition
-Link: https://clinicaltrials.gov/study/NCT07059689
-
-SUMMARY:
-
 ## NCT07059923
 Predicting Immunotherapy Response and Survival of Lung Cancer Patients Using Artificial Intelligence and Radiomics (Radiology-AI-Lung)
 
@@ -7964,15 +7955,6 @@ Link: https://clinicaltrials.gov/study/NCT07119346
 
 SUMMARY:
 
-## NCT07119398
-Combination Oxytocin/Foley Versus Oxytocin Alone for Induction of Labor in Patients With Preterm Prelabor Rupture of Membranes
-
-Intervention: : Oxytocin plus Foley Catheter — Intravenous oxytocin and a transcervical Foley catheter
-: Oxytocin — Intravenous oxytocin
-Link: https://clinicaltrials.gov/study/NCT07119398
-
-SUMMARY:
-
 ## NCT07119424
 Multidisciplinary Dissection of Renal and Metabolic Effects of Glyfozines on Elderly Patients: From Molecular Aspects to Clinical Indications
 
@@ -8598,14 +8580,6 @@ Serological, Metabolomic, and Genomic Studies of Endocrine Disorders in Pregnanc
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07125885
-
-SUMMARY:
-
-## NCT07126106
-Prospective Validation of the GRADY Bacteremia/Sepsis Prediction Model in Intensive Care Unit Patients: Clinical Performance and Feasibility as an Early Warning System
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07126106
 
 SUMMARY:
 
@@ -15944,14 +15918,6 @@ Virtual Reality Training Study
 Intervention: : Virtual Reality-Reward Training (VR-RT) — Participants will complete verbal recounting (present-tense, field perspective, positive details) and guided imaginal recounting of positive details for rewarding VR experiences and positive autobiographical memories.
 : Virtual Reality-Memory Training (VR-MT) — Participants will complete verbal recounting (past-tense, observer perspective, objective details) and guided imaginal recounting of neutral details for neutral VR experiences and neutral non-personal stories
 Link: https://clinicaltrials.gov/study/NCT07219875
-
-SUMMARY:
-
-## NCT07219940
-An Open-label and Dose-escalation Phase I Clinical Study to Evaluate the Tolerability, Safety, and Pharmacokinetics of HLA-G-targeted Exosome (SOB100) in Healthy Subjects
-
-Intervention: : SOB100 — Drug: SOB100 Participants will receive SOB100 and evaluate the safety and tolerability of SOB100 during the dose escalation phase.
-Link: https://clinicaltrials.gov/study/NCT07219940
 
 SUMMARY:
 

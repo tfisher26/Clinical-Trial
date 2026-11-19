@@ -5513,15 +5513,6 @@ Link: https://clinicaltrials.gov/study/NCT06219083
 
 SUMMARY:
 
-## NCT06219252
-Intraoperative Aberrometry vs Conventional Introcular Lens Calculation ( Barrett Universal II / Barrett True K ), Refractive and Visual Outcomes, a Prospective Study.
-
-Intervention: : Intraoperative aberrometer — the patient intraocular lens will be optimized during the aphakic period after cataract extraction and before intraocular lens implantation, this will produce a possible change in the dioptric power of the intraocular lens
-: Preoperative intraocular lens calculation — the intraocular lens in this group will be calculated preoperatively with Barrett Universal II formula
-Link: https://clinicaltrials.gov/study/NCT06219252
-
-SUMMARY:
-
 ## NCT06220006
 Lesion Formation With Pulsed Field Versus Cryobaloon Ablation as Assessed by Cardiac Magnetic Resoncance
 
@@ -16363,14 +16354,6 @@ Digital App for Speech & Health Monitoring in Neurodegenerative Disorders
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06450418
-
-SUMMARY:
-
-## NCT06450431
-French Validation of a Specific Tool for Quality of Life Evaluation in Primary Hyperparathyroidism
-
-Intervention: : SF-36 questionnaire French version and PAS.fr questionnaire — Patients will receive both the SF-36 questionnaire (control generic questionnaire for QoL evaluation validated in French language) and the PAS.fr questionnaire at the designated time (before surgery, 6, 12 or 36 months after surgery) during the consultation, or by mail. For concurrent validation of the PAS.fr questionnaire, a second questionnaire will be sent to the patients 2-4 weeks thereafter.
-Link: https://clinicaltrials.gov/study/NCT06450431
 
 SUMMARY:
 
