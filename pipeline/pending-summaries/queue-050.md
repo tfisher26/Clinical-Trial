@@ -9148,14 +9148,6 @@ Link: https://clinicaltrials.gov/study/NCT07606859
 
 SUMMARY:
 
-## NCT07606937
-A Single-arm, Multicenter Clinical Study Evaluating the Efficacy and Safety of Axicabtagene Ciloleucel Injection Manufactured by an Automated Process in Patients With Relapsed/Refractory Large B-cell Lymphoma.
-
-Intervention: : FKC876 injection — CD19 CAR-T
-Link: https://clinicaltrials.gov/study/NCT07606937
-
-SUMMARY:
-
 ## NCT07607054
 A First-in-Human, Phase I, Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetic Characteristics, and Preliminary Antitumor Activity of EMB-15 in Patients With Locally Advanced or Metastatic Solid Tumors
 

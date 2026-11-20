@@ -10096,18 +10096,6 @@ Link: https://clinicaltrials.gov/study/NCT06904391
 
 SUMMARY:
 
-## NCT06904625
-Comparison of Different Methods of CAPTure of Circulating Tumour Cells (CTC) in Patients With Metastatic Breast or Prostate Cancer
-
-Intervention: : Taking blood samples before starting treatment — For patient included in the metastatic breast cancer and prostate cancer, a blood sample will be taken (37 mL in total) for the CTCs detection using the 3 technologies (CellSearch®, Parsortix® and SmartCatch®).
-
-For 3 patients only, an additional blood volume (18 mL) will also be collected for tcDNA detection (exploratory analysis of 3 patients).
-
-For patient included in the metastatic breast cancer complementary cohort, a blood sample will be taken (56 mL in total) for the CTCs detection using Parsortix® and SmartCatch® technologies.
-Link: https://clinicaltrials.gov/study/NCT06904625
-
-SUMMARY:
-
 ## NCT06904768
 A Cross-Over Study on the Effect of Shoulder Sling Use on Balance and Functional Mobility in Patients With Hemiplegia During the Subacute Phase of Stroke Rehabilitation
 
@@ -15951,15 +15939,6 @@ Intervention: : Adaptive Radiation Therapy — Adaptive Radiation Therapy (ART) 
 
 By closely shaping the radiation to match the tumor's location, ART may reduce the amount of radiation reaching nearby normal tissues. This can allow for higher, more focused doses of radiation to the tumor itself, which may help improve treatment effectiveness while reducing side effects.
 Link: https://clinicaltrials.gov/study/NCT06984562
-
-SUMMARY:
-
-## NCT06984627
-An Open-label Phase 2 Study to Investigate the Efficacy and Safety of Rilzabrutinib in Adult Participants With Graves' Disease
-
-Intervention: : Rilzabrutinib dose 1 — Pharmaceutical form:Tablet-Route of administration:Oral
-: Rilzabrutinib dose 2 — Pharmaceutical form:Tablet-Route of administration:Oral
-Link: https://clinicaltrials.gov/study/NCT06984627
 
 SUMMARY:
 

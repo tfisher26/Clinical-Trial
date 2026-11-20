@@ -1274,3 +1274,119 @@ Link: https://clinicaltrials.gov/study/NCT07949916
 
 SUMMARY:
 
+## NCT07950800
+'From There Towards Now'. Intervention Study for the Jewish and Indonesian Post-war Generations of the Second World War With Anxiety-, Mood or Personality Disorders
+
+Intervention: : FTTN: From There Towards Now — The FTTN intervention consists of 4 individual sessions of 75 minutes during approximately 2 months, plus a follow-up session after 2 months with one family member. Dolls and time screens are used to symbolize the memories and to non-verbally express the process of separation.
+Link: https://clinicaltrials.gov/study/NCT07950800
+
+SUMMARY:
+
+## NCT07950878
+Capturing Quality of Life and Priorities for Clinical Research in Parents and Patients With Autosomal Recessive Polycystic Kidney Disease
+
+Intervention: : Questionnaires — Families will be asked to fill out a series of questionnaires
+Link: https://clinicaltrials.gov/study/NCT07950878
+
+SUMMARY:
+
+## NCT07950943
+Effect of Displaying Predicted Consequences of AI Treatment Recommendations on Clinicians' Fluid and Vasopressor Decisions in Sepsis: A Randomized Crossover Study
+
+Intervention: : Case review with on-duty plan (B0) — Participants review the case together with the on-duty clinician's actual intravenous fluid rate and vasopressor dose and submit a final plan. No AI information is shown. This condition controls for the effect of a second review.
+: AI recommendation (B1) — As B0, plus the AI output: either a recommended dose level for intravenous fluid and for vasopressor, shown with the corresponding dose range, or a statement that the evidence is insufficient to recommend a change.
+: AI recommendation with predicted consequences (B2) — As B1, with identical AI output, plus the model's predicted mean arterial pressure, lactate and urine output over the next 4 hours under the on-duty plan and under the recommended plan, shown as point estimates.
+Link: https://clinicaltrials.gov/study/NCT07950943
+
+SUMMARY:
+
+## NCT07950982
+Ultrasound-Guided Subtransverse Interligamentary (STIL) Block Versus Paravertebral Block (PVB) for Postoperative Analgesia in Modified Radical Mastectomy: A Randomized Controlled Trial
+
+Intervention: : Ultrasound-Guided Subtransverse Interligamentary (STIL) Block — Ultrasound-guided Subtransverse Interligamentary (STIL) block performed at the T4 thoracic level approximately 30 minutes before induction of general anesthesia. A 22-gauge echogenic spinal needle will be advanced in-plane beneath the intertransverse ligament into the subtransverse interligamentary space. Following negative aspiration, 25 mL of 0.25% bupivacaine combined with dexamethasone 4 mg will be injected incrementally.
+: Ultrasound-Guided Thoracic Paravertebral Block (PVB) — Ultrasound-guided thoracic paravertebral block performed at the T4 thoracic level approximately 30 minutes before induction of general anesthesia. A 22-gauge echogenic spinal needle will be advanced in-plane toward the thoracic paravertebral space. Following negative aspiration, 25 mL of 0.25% bupivacaine combined with dexamethasone 4 mg will be injected incrementally.
+Link: https://clinicaltrials.gov/study/NCT07950982
+
+SUMMARY:
+
+## NCT07951021
+Chemotherapy-Minimized, Blank Microsphere-Based Transarterial Chemoembolization (BMS-TACE) Combined With Low-Dose Lenvatinib, Iparomlimab and Tuvonralimab, and Stereotactic Body Radiotherapy in Patients With BCLC Stage C Hepatocellular Carcinoma and Macrovascular Tumor Thrombus: A Single-Center, Single-Arm, Phase 2 Trial
+
+Intervention: : BMS-TACE — Visceral angiography of the celiac trunk, superior mesenteric artery and, as indicated, collateral arteries maps the arterial supply of the tumor and tumor thrombus and identifies arteriovenous shunting. A 2.8F microcatheter is placed super-selectively into tumor-feeding arteries by coaxial technique. A fixed, minimal-dose chemoemulsion (doxorubicin 10 mg and lobaplatin 10 mg in about 5 mL lipiodol) is injected slowly; chemotherapy may be omitted in later sessions according to tumor response, leaving blank-microsphere embolization alone. Blank microspheres are then delivered in ascending size order (40-120, 100-300, then 300-500 or 500-700 microns). The endpoint is contrast stasis over 3-5 cardiac cycles plus angiography 5-10 minutes later confirming loss of more than 90% of tumor staining. Imaging is repeated 4-6 weeks after each session; retreatment follows protocol-defined criteria. Participants generally receive two complete sessions.
+: Lenvatinib — Lenvatinib 8 mg orally once daily for body weight 60 kg or above, or 4 mg orally once daily for body weight below 60 kg, started 3 to 7 days after the first BMS-TACE. Lenvatinib is withheld on the day of each BMS-TACE or SBRT and resumed 3 to 5 days afterwards provided the Child-Pugh score is 5 to 8; cumulative interruption does not exceed 3 weeks. Treatment continues until disease progression, unacceptable toxicity, or withdrawal of consent.
+: Iparomlimab and Tuvonralimab — Iparomlimab and tuvonralimab (QL1706), an anti-PD-1/anti-CTLA-4 bispecific antibody combination, 5 mg/kg intravenously every 3 weeks, infused over at least 30 minutes. Dosing starts 3 to 7 days after the first BMS-TACE and is separated from any BMS-TACE by at least 3 days. Treatment continues until disease progression or unacceptable toxicity. Immune-related adverse events are managed according to protocol-defined rules, including dose interruption, corticosteroid therapy and permanent discontinuation criteria.
+: Stereotactic Body Radiotherapy — Stereotactic body radiotherapy directed primarily at the macrovascular tumor thrombus. Simulation uses vacuum-bag or thermoplastic immobilization with 4D-CT or gated CT (slice thickness 3 mm or less). The prescription is 30 to 50 Gy in 5 to 10 fractions, individualized by tumor size and location, normal liver volume and Child-Pugh score: 40-50 Gy in 5 fractions when normal liver volume is 700 mL or more with Child-Pugh 5-6; 35-40 Gy in 5-8 fractions when normal liver volume is 500-700 mL or Child-Pugh is 7; and 30-40 Gy in 10 fractions when the target is within 1 cm of stomach, duodenum or colon. The prescription covers at least 95% of the planning target volume. Daily kV cone-beam CT image guidance is used with setup correction to within 3 mm. A minimum interval of 14 days separates SBRT and BMS-TACE in either direction.
+Link: https://clinicaltrials.gov/study/NCT07951021
+
+SUMMARY:
+
+## NCT07951047
+Intraosseous Injection of Flurbiprofen Axetil for Postoperative Analgesia in Joint Arthroplasty
+
+Intervention: : Flurbiprofen Axetil — Flurbiprofen axetil 50 mg will be administered intraosseously into the distal femoral and proximal tibial bone cavities for knee arthroplasty or near the greater trochanter for hip arthroplasty.
+: Flurbiprofen Axetil — Flurbiprofen axetil 50 mg will be administered intravenously.
+Link: https://clinicaltrials.gov/study/NCT07951047
+
+SUMMARY:
+
+## NCT07951203
+Study to Evaluate the Effect of Blue M Gel on Healing After Gingivectomy: Clinical Study
+
+Intervention: : blue m gel — Topical active oxygen oral gel applied to the surgical site to promote wound healing.
+: Coe-Pak — Conventional non-eugenol periodontal surgical dressing applied to protect the surgical site.
+Link: https://clinicaltrials.gov/study/NCT07951203
+
+SUMMARY:
+
+## NCT07951229
+The Effect of Xylitol Consumption on Blood Coagulation Parameters and Oral Microbiological Markers in Saliva in Healthy Young Adults
+
+Intervention: : Xylitol chewing gum — Chewing gum containing 1 g of xylitol per piece. Participants chew 2 pieces 3 times a day (6 g of xylitol per day) for 4 weeks.
+: Sorbitol chewing gum — Xylitol-free chewing gum containing sorbitol. Participants chew 2 pieces 3 times a day for 4 weeks, with the same frequency and duration as the xylitol group.
+Link: https://clinicaltrials.gov/study/NCT07951229
+
+SUMMARY:
+
+## NCT07951489
+Randomized, Sham-controlled Clinical Trial Testing At-home Use of Noninvasive Vagus Nerve Stimulation After TBI
+
+Intervention: : Transcutaneous Vagus Nerve Stimulation (tVNS) — tVNS stimulation at home for atleast one hour a day for 4 weeks.
+: Tancutaneous Vagus Nerve Stimulation (Sham then Active) — Participants will recieve two weeks of sham stimulation for atleast one hour a day, followed by 2 weeks of active stimulation for atleast one hour a day.
+Link: https://clinicaltrials.gov/study/NCT07951489
+
+SUMMARY:
+
+## NCT07951528
+Association Between Childhood Obesity and Myopia: A Prospective Cohort Study
+
+Intervention: : Health Education — The program should emphasize the health consequences of obesity and evidence-based weight management strategies, including maintaining a balanced diet, controlling energy intake, increasing physical activity, reducing sedentary behavior and screen time, and ensuring adequate sleep. Instruction, individualized counseling, and family involvement should be incorporated to improve health awareness and self-management skills and facilitate the development of a healthy lifestyle.
+Link: https://clinicaltrials.gov/study/NCT07951528
+
+SUMMARY:
+
+## NCT07951554
+INTEREST OF CAPA-MEDIUM CULTURE MEDIUM DURING IN VITRO MATURATION FOR THE MANAGEMENT OF POLYCYSTIC OVARY SYNDROME IN ASSISTED REPRODUCTIVE TECHNOLOGY
+
+Intervention: : in vitro maturation (IVM) of oocytes — In Vitro Maturation (IVM) Protocol Phase 1 (CAPA-medium): The cumulus-oocyte complexes (COCs) are incubated for 24 hours in an enriched medium (CAPA-medium) containing HSA, insulin, estradiol, FSH, amphiregulin, and CNP, mimicking the natural follicular environment.
+
+Phase 2 (IVM-medium): After 24 hours, the COCs are transferred into another medium (IVM-medium) for an additional 30 hours, promoting both nuclear and cytoplasmic maturation.
+Link: https://clinicaltrials.gov/study/NCT07951554
+
+SUMMARY:
+
+## NCT07951658
+Open-Label, Non-Randomized, Single-Arm, Multicenter Pilot Clinical Trial to Evaluate the Dose-Dependent Effect of Tirzepatide on Gastric Emptying in Adult Patients With Type 1 Diabetes
+
+Intervention: : Tirzepatide — Tirzepatide with dose escalation from 2.5 mg to 15 mg.
+Link: https://clinicaltrials.gov/study/NCT07951658
+
+SUMMARY:
+
+## NCT07951671
+Randomized Controlled Trial of Mindfulness-based Intervention to Improve Psychological Resilience and Wellbeing on Medical Students
+
+Intervention: 
+Link: https://clinicaltrials.gov/study/NCT07951671
+
+SUMMARY:
+

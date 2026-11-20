@@ -719,15 +719,6 @@ Link: https://clinicaltrials.gov/study/NCT07006571
 
 SUMMARY:
 
-## NCT07006610
-Comparison of the Effects of Hilotherapy and Kinesio Taping on Edema, Pain, and Trismus After Orthognathic Surgery
-
-Intervention: : Kinesio Tex® Gold Taping — Elastic kinesio tape applied postoperatively to the facial region and left in place for 5 days.
-: Hilotherm® Facial Cooling System — A polyurethane facial mask delivering continuous +17°C water cooling for 48 hours post-surgery.
-Link: https://clinicaltrials.gov/study/NCT07006610
-
-SUMMARY:
-
 ## NCT07006675
 Effect of NSAIDs on Union, Opioid Utilization and Pain Management for Tibia Fractures: A Pragmatic, Randomized Controlled Trial
 
@@ -1202,16 +1193,6 @@ Self-Dehumanization and Hesitation to Report Domestic Violence
 
 Intervention: : Questionnaires — Patients will undergo socio-demographic and history of violence suffered interview, passation of the Montgomery-Asberg Depression Rating Scale (MADRS),Childhood Trauma Questionnaire, Deshumanization Measure within Romantic Relationships scale, self-esteem scale, violentometer and an implicit association test (IAT).
 Link: https://clinicaltrials.gov/study/NCT07015502
-
-SUMMARY:
-
-## NCT07015697
-A Phase 1, Multicenter Trial of Subcutaneous Trastuzumab Deruxtecan in Participants With Metastatic Solid Tumors
-
-Intervention: : Trastuzumab Deruxtecan — Dose Escalation Part: Trastuzumab Deruxtecan will be administered at escalating doses to determine the RDE.
-
-Expansion Part: Trastuzumab Deruxtecan will be administered at RDE.
-Link: https://clinicaltrials.gov/study/NCT07015697
 
 SUMMARY:
 
@@ -7503,15 +7484,6 @@ Link: https://clinicaltrials.gov/study/NCT07110337
 
 SUMMARY:
 
-## NCT07110922
-Angiography and Electrogram Guided Bachmann Bundle Pacing - ANGEL BBP
-
-Intervention: : Angiography only — Superior vena cava (SVC) angiogram will be used to anatomically identify the BB region
-: Angiography and ECG — Superior vena cava (SVC) angiogram will be used to anatomically identify the BB region and correlate with electrogram guidance for BBP
-Link: https://clinicaltrials.gov/study/NCT07110922
-
-SUMMARY:
-
 ## NCT07110961
 Diagnostic Accuracy of the Suggested Immobilization Test With Exploratory Heart Rate Variability Analysis for Restless Legs Syndrome in a Thai Population
 
@@ -8620,15 +8592,6 @@ Intervention: : Internet-Based Intervention — Receive information via online t
 : Questionnaire Administration — Ancillary studies
 : Virtual Technology Intervention — Receive information via ALEX Research Portal and vCHE
 Link: https://clinicaltrials.gov/study/NCT07126496
-
-SUMMARY:
-
-## NCT07127159
-Feasibility of a Music Listening Intervention for Mental Health Recovery in Chronic Stroke
-
-Intervention: : Intentional Music Listening — Participants will receive an iPad with Spotify (for music listening) and FaceTime. For 4 weeks (excluding weekends; 20 sessions), participants will listen to music for one hour per session, without multitasking (e.g., no chores or cooking), and will be encouraged to listen attentively. The investigators will collaborate with each participant to co-create a personalized playlist composed of self-selected, culturally relevant songs. This playlist can be updated at any time by the participant, either independently or with assistance from the team. During the music-listening session, participants will be on FaceTime with a team member, who will be available to provide support as needed. A custom Python script will continuously track the songs played by participants through Spotify, logging playback activity for research purposes.
-: Audiobook Listening — Participants will be provided with an iPad equipped with a Spotify (for audiobook listening) and FaceTime. For 4 weeks (excluding weekends; 20 sessions), participants will be asked to listen to an audiobook of their choice for one hour per session, without engaging in other activities such as chores or cooking. Participants will be instructed to listen attentively and avoid multitasking during the session. A team member will connect with each participant via FaceTime to offer support. Participants may update or change their audiobook selections at any time, either independently or with help from the team. A custom Python script will be used to continuously track audiobook playback activity for research and analysis.
-Link: https://clinicaltrials.gov/study/NCT07127159
 
 SUMMARY:
 

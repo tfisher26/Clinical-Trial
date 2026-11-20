@@ -647,17 +647,6 @@ Link: https://clinicaltrials.gov/study/NCT07303712
 SUMMARY:
 
 
-## NCT04546126
-Positron Emission Tomography (PET) Imaging of Cholesterol Trafficking: Clinical Evaluation of [18F]FNP-59 in Normal Human Subjects (Groups 2, 3 & 4)
-
-Intervention: : Dexamethasone (Group 2) — Participants will take 1 mg dexamethasone 2x a day for 3 days to suppress cortisol production.
-: Cosyntropin (Group 3) — Cosyntropin, 250 micro-gm will be administered IV. Five minutes following administration FNP-59 will be given. Following uptake of FNP-59 imaging will occur.
-: PET/CT Scan with FNP-59 — FNP-59, a radiotracer, is administered for PET/CT scans.
-Link: https://clinicaltrials.gov/study/NCT04546126
-
-SUMMARY:
-
-
 ## NCT07298655
 3D Contrast Enhanced Microvascular Ultrasound of Carotid Atherosclerosis for the Detection of Carotid Plaque Neo-Revascularisation.
 

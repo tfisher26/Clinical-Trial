@@ -1168,16 +1168,6 @@ Link: https://clinicaltrials.gov/study/NCT06802406
 SUMMARY:
 
 
-## NCT07494747
-Benchmark Controlled Evaluation of the Effect of a Cosmetic Product in Improving Gums Condition - in Use Test Under Dentist Control
-
-Intervention: : Gingivitis toothpaste — Subjects will use the gingivitis toothpaste 2-3 times daily during 4 weeks
-: Regular toothpaste — Subjects will use the regular toothpaste 2-3 times daily during 4 weeks
-Link: https://clinicaltrials.gov/study/NCT07494747
-
-SUMMARY:
-
-
 ## NCT06666049
 Gastric POCUS for Airway Management in Patients Using Glucagon-like Peptide-1 Receptor Agonist (Multicentric)
 

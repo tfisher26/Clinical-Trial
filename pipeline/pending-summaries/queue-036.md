@@ -801,17 +801,6 @@ Link: https://clinicaltrials.gov/study/NCT06999044
 SUMMARY:
 
 
-## NCT05996432
-Non-invasive, Image-Based, In-Vivo Assessment of Tumor Hypoxia to Guide Hypoxia-Driven Adaptive Radiation Therapy
-
-Intervention: : Magnetic Resonance Imaging (MRI) — Participants will undergo Magnetic Resonance Imaging
-: Positron Emission Tomography (PET) — Participants will undergo Positron Emission Tomography
-: 18F-fluoromisonidazole — Given by IV
-Link: https://clinicaltrials.gov/study/NCT05996432
-
-SUMMARY:
-
-
 ## NCT06986187
 Investigation of Difficult Airway and Difficult Intubation Incidence and Associated Factors in Patients Undergoing Cardiovascular Surgery and a Prediction Model Development
 
@@ -2965,17 +2954,6 @@ Root-Level Diagnostic Sensitivity of the Femoral Stretch Test in Patients With L
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07799142
-
-SUMMARY:
-
-
-## NCT07358949
-Feasibility and Acceptability of Point of Care Rapid Syphilis Testing Among Patients Seeking Family Planning Services in Hawai'i
-
-Intervention: : Rapid Syphilis Test — This study aims to evaluate whether the Syphilis Health Check (SHC), an FDA-approved rapid, point-of-care syphilis test, is feasible and acceptable to patients and providers at a university-associated family planning clinic in Hawai'i.
-
-SHC is specific for detecting Treponema pallidum antibodies in serum, plasma, or whole blood via a rapid immunochromatographic test. It has a sensitivity of 95-99% and a specificity of 94-97%, and has been studied in pregnant patients. The test costs approximately $10, takes 10-15 minutes to yield results, has a shelf life of 30 months, and remains stable at room temperature. The assay can be used as an initial screening test or in conjunction with a non-treponemal laboratory test. Treatment with antibiotics can be started immediately with a positive SHC test.
-Link: https://clinicaltrials.gov/study/NCT07358949
 
 SUMMARY:
 

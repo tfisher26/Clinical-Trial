@@ -1596,15 +1596,6 @@ Link: https://clinicaltrials.gov/study/NCT07253051
 
 SUMMARY:
 
-## NCT07253142
-A Phase II Clinical Study to Evaluate the Efficacy and Safety of HLX43 (Anti-PD-L1 ADC) in Combination With Serplulimab (Humanized Anti-PD-1 Monoclonal Antibody Injection) in Advanced Stage Lung Cancer
-
-Intervention: : HLX43 dose 1 — HLX43 is an anti-PD-L1 monoclonal antibody conjugated with a novel high potency DNA topoisomerase I (topo I) inhibitor, with a drug-antibody-ratio (DAR) of 8.
-: HLX43 dose 2 — HLX43 is an anti-PD-L1 monoclonal antibody conjugated with a novel high potency DNA topoisomerase I (topo I) inhibitor, with a drug-antibody-ratio (DAR) of 8.
-Link: https://clinicaltrials.gov/study/NCT07253142
-
-SUMMARY:
-
 ## NCT07253181
 Tenecteplase Before inteRhospital Transfer for Endovascular Treatment in pAtientS With acUte Anterior ciRculation Large vEssel Occlusion at 4.5 to 24 Hours
 
@@ -16289,15 +16280,6 @@ Pilot Single Arm Phase 2 Study of Olutasidenib in Relapsed IDH1 Mutated AML Pati
 Intervention: : Olutasidenib — Olutasidenib 150 mg orally twice a day
 : Azacitidine (AZA) — Azacitidine 75 mg/m2 subcutaneously or IV (over 10-40 minutes)
 Link: https://clinicaltrials.gov/study/NCT07471841
-
-SUMMARY:
-
-## NCT07472101
-The Effects of Dual-Task Exercises Performed Through Telerehabilitation on Balance, Falls, Cognitive Function, and Sleep Quality in Geriatric Individuals: A Randomised Control Trial
-
-Intervention: : Telerehabilitation Based Dual-Task Exercises — Participants perform 4-week home-based dual-task exercises 3 days/week via video call with a physiotherapist. Each session includes 5 minutes of warm-up, 50 minutes of combined motor and cognitive exercises, and 5 minutes of cool-down. Motor tasks focus on balance and posture (semi-tandem, tandem walking, single-leg stance, directional changes). Cognitive tasks are performed simultaneously, including counting, naming objects/colors/animals, simple arithmetic, memory, and sequencing tasks. Task difficulty is progressively increased weekly, and intensity is adjusted individually. The physiotherapist monitors exercise form and safety visually during each session.
-: Educational Brochure and Phone Follow-Up — Participants receive a brochure covering posture, balance, sleep hygiene, safe physical activity, and the dual-task exercises provided to the intervention group. Weekly phone calls are made to monitor adherence, encourage engagement, and answer questions. Participants perform exercises independently at home, following brochure instructions. No structured telerehabilitation sessions are provided.
-Link: https://clinicaltrials.gov/study/NCT07472101
 
 SUMMARY:
 

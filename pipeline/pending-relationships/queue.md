@@ -103459,3 +103459,68 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04811560
+A Phase 1/2, First-in-Human Study of the Menin-KMT2A (MLL1) Inhibitor Bleximenib in Participants With Acute Leukemia (cAMeLot-1)
+Conditions: blood/primary_myelofibrosis, blood/thrombocythemia_essential
+
+Inclusion criteria:
+"""
+For the Phase 1 acute leukemia:
+
+* Age 2 years to less than (\<) 18 years of age (pediatric cohort only), all other cohorts 18 years and above
+* Relapsed or refractory (R/R) acute leukemia and has exhausted, or is ineligible for, available therapeutic options
+* Acute leukemia harboring histone-lysine N-methyltransferase 2A (KMT2A), nucleophosmin 1 gene (NPM1) or nucleoporin 98 gene or nucleoporin 214 gene (NUP98 or NUP214) alterations
+
+For Phase 2 AML cohorts only:
+
+* Participants greater than 18 years are eligible
+* Must have had an initial diagnosis of acute myeloid leukemia (AML) per the WHO 2022 classification criteria and have relapsed/refractory disease
+* AML harboring KMT2A-r (gene rearrangement/translocation) or NPM1 mutations only
+
+For Phase 1 acute leukemia and Phase 2 AML cohorts:
+
+* Pretreatment clinical laboratory values meeting the following criteria: (a) Hematology: white blood cell (WBC) count \<= 20\*10\^9/liter (L) and (b) renal function; For adult participants, estimated or measured glomerular filtration rate \>= 30 milliliter per minute (mL/min) per four variable MDRD equation. For pediatric participants an estimated or measured glomerular filtration rate \>=40 mL/min per the CKiD (Chronic Kidney Disease in Children) Schwartz formula
+* Eastern Cooperative Oncology Group (ECOG) performance status grade of 0, 1 or 2. Pediatric participants only: Performance status \>=70 by Lansky scale (for participants \< 16 years of age) or \>=70 Karnofsky scale (for participants \>=16 years of age)
+* A female of childbearing potential must have a negative highly sensitive serum beta-human chorionic gonadotropin at screening and within 48 hours prior to the first dose of study treatment
+* Participant must agree to all protocol required contraception requirements and avoid sperm or egg donations or freezing for future reproductive use while on study and for 90 days (males) or 6 months (females) after the last dose of study treatment
+
+For ET cohorts only :
+
+\- Have a diagnosis of essential thrombocythemia (ET) and are refractory, resistant, or intolerant to hydroxyurea, or have a contraindication to hydroxyurea: - Must have platelet count \>=600 × 10\^9/L at screening
+
+For MF cohorts only:
+
+\- Have a diagnosis of primary MF, post-ET MF, or post-polycythemia vera (PV) MF per 2022 world health organization (WHO) criteria that is classified as dynamic international prognostic scoring system (DIPSS) intermediate 1, intermediate-2, or high risk ii. Have blast count in peripheral blood and bone marrow of \<10 percent (%) iii. Have at least one of the following disease manifestations: splenomegaly, disease related symptoms, or transfusion dependence iv. Ineligible for treatment with an approved janus kinase(JAK) inhibitor therapy or have received at least 1 prior approved JAK inhibitor and are considered intolerant or resistant/refractory
+"""
+
+RELATIONSHIP:
+
+## NCT04814355
+The Effect of Celecoxib on Neuroinflammation in MDD: PET Imaging of a Novel Treatment Target With [18F]FEPPA
+Conditions: mental_health/major_depressive_disorder, neurological/neuroinflammatory_diseases
+
+Inclusion criteria:
+"""
+* Age: 18-65
+* Diagnosis of MDD and currently in a major depressive episode
+* Capacity to give informed consent
+* Score of at least 29 on the MADRS
+
+Exclusion Criteria
+
+* Low affinity binders (LABs) for TSPO Genotype
+* Hypersensitivity to celecoxib, sulfonamides, aspirin, other NSAIDs, or any component of the formulation; previous asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs
+* Heptic impairment, heart failure, severe renal impairment, recent GI bleed, history of peptic ulcer disease, anemia or any other contraindication for celecoxib
+* Poor CYP2C9 metabolizer
+* Currently taking medications that interact with celecoxib (digoxin, antihypertensives, diuretics, anticoagulant or anti-platelet treatment, including aspirin)
+* Use of herbs, drugs, or medications with anti-inflammatory or immunomodulatory properties (within 5 half-lives of starting celecoxib treatment)
+* Unlikely to tolerate medication washout or the medication-free period following washout
+* Participant considered at significant risk for suicide
+* ECT within 1 month
+* High potential for excessive drug/alcohol use during the treatment period (excluding nicotine or cannabis)
+* Significant active physical illness or neurological deficit that may affect brain functioning or imaging
+* Any PET contraindications, including if study imaging will result in the participant receiving greater exposure than the research limit, or if participant is currently pregnant, breastfeeding, or planning to conceive during the course of study participation
+"""
+
+RELATIONSHIP:
+

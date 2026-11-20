@@ -1569,14 +1569,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04546945
-Resident Doctor at Clinical Pathology Department
-
-Intervention: : CD56 — detection of CD56 by flow cytometry
-Link: https://clinicaltrials.gov/study/NCT04546945
-
-SUMMARY:
-
 ## NCT04547166
 A Randomized, Double-blind, Multicenter, PhaseⅡ/Ⅲ Clinical Study of Serplulimab in Combination With Bevacizumab and Chemotherapy (XELOX) Versus Placebo in Combination With Bevacizumab and Chemotherapy (XELOX) in First-line Treatment of Patients With Metastatic Colorectal Cancer (mCRC)
 

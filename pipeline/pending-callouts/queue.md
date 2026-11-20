@@ -401158,3 +401158,473 @@ Exclusion criteria:
 CALLOUT_HEADING:
 CALLOUT_TEXT:
 
+## NCT04599218
+MR/TRUS Fusion Guided Prostate Biopsy - An Improved Way to Detect and Quantify Prostate Cancer
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. All patients must have a pre-operative MRI performed in accordance with Northwell/NIH MR Prostate imaging guidelines or equivalent.
+2. Age greater than 18 years.
+3. No serious concurrent medical illness that would preclude the patient from making a rational informed decision on participation.
+4. The ability to understand willingness to sign a written informed consent form, and to comply with the protocol. If in question, an ethics consult will be obtained.
+5. Ability to tolerate sedation and or general anesthesia if required.
+6. PSA \>1.8 or Abnormal digital rectal exam or current recommendations or biopsy from the American Urological Association.
+7. Pre-Biopsy prostate MRI as described above, showing targetable lesions within 4 months of biopsy
+8. Able to tolerate an ultrasound guided biopsy.
+"""
+Exclusion criteria:
+"""
+1. Patients with an altered mental status that precludes understanding or consenting for the biopsy procedure will be excluded from this study
+2. Patients unlikely able to hold reasonably still on a procedure table for the length of the procedure
+3. Patients with uncorrectable coagulopathies.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT04656678
+A Study to Evaluate the Safety and Efficacy of Focal US Guided Cryo-ablation Using DynaCAD / UroNAV Preplanning / Guidance of Locally Confined Low to Intermediate Risk Prostate Cancer and Focal Salvage Cryotherapy for Recurrent Prostate Cancer
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Patients must have documented histological or cytological evidence of tumor(s) of the prostate. Patients requiring salvage cryotherapy for recurrent disease after primary radiation therapy of the prostate.
+2. Patients must be ≥ 45 years of age.
+3. Patients must be able to read, understand and sign an informed consent.
+4. Primary Focal Therapy: Organ confined clinical T1C or clinical T2a prostate cancer that is visualized on MR imaging. Salvage post radiation focal therapy can include patients with local progression with SVI or EPE if it is within the treatment plan.
+5. Prostate cancer is diagnosed by MR image guided biopsies.
+6. Primary Focal Therapy: Gleason Score ≤ 7; and 2 or less positive lesions on prior MR US fusion guided prostate biopsy. Salvage post radiation focal therapy has no Gleason Score restriction.
+7. A non MRI visible cancer detected via systematic standard biopsy will not be considered an exclusion condition provided the non-MRI visible cancer is singularly located in the contralateral hemisphere of the prostate; is Gleason 6 cancer; and comprises no more than 6mm linear extent of cancer in a single core on standard biopsy.
+8. If any standard biopsy cores are positive on the same hemisphere of the prostate gland, they must be confirmed as likely to form a contiguous lesion with the target lesion detected on MRI and therefore be from the same location in the prostate as MR lesion was biopsied and proven to be cancerous. (e.g., Left/Right, Base, Mid Gland, Apex).
+9. Prior mpMRI results dated within 120 days prior to ablation.
+10. No metastatic disease as per NCCN guidelines (www.nccn.org) - Bone scan indicated to r/o metastatic disease if clinical T1 and PSA \> 20 or T2 and PSA \> 10
+11. PSA \< 15 ng/ml or PSA density \< 0.15 ng/ml2 in patients with a PSA \> 15 ng/ml.
+"""
+Exclusion criteria:
+"""
+1. ASA status \> 3
+2. Contraindications to MRI 2.1 Claustrophobia 2.2 Implanted ferromagnetic materials or foreign objects 2.3 Known intolerance to the MRI or US contrast agents.
+3. Patients with unstable cardiac status including:
+
+   4.1 Unstable angina pectoris on medication 4.2 Patients with documented myocardial infarction within 40 days prior to enrolment 4.3 Congestive heart failure NYHA class IV 4.4 Patients with unstable arrhythmia status, already on anti-arrhythmic drugs
+4. Severe hypertension (diastolic BP \> 100 on medication)
+5. Severe cerebrovascular disease (multiple CVA or CVA within 6 months)
+6. radical prostatectomy for treatment of prostate cancer;
+7. Patients with lesions of Gleason 7 or greater outside the planned treatment area. Does Not apply to subjects receiving focal salvage cryotherapy
+
+10\. Individuals who are not able or willing to tolerate the required prolonged stationary supine position during treatment (approximately 3 hrs.)
+
+11\. Any rectal pathology, anomaly or previous treatment, which could change acoustic properties of rectal wall or prevent safe US probe insertion (e.g., fistula, stenosis, fibrosis, inflammatory bowel disease, etc).
+
+12\. Any spinal pathology which can prevent safe administration of epidural/spinal anesthesia
+
+13\. Evidence for lymph node involvement of cancer
+
+14\. Untreated Bladder cancer
+
+15\. Urethral stricture/bladder neck contracture
+
+16\. Patients with incontinence demonstrated by use of more than 1 pad/day
+
+17\. Active UTI
+
+18\. Prostatitis NIH categories I, II and III.
+
+19\. Compromised renal function
+
+20\. Interest in future fertility
+
+21\. Current participation in another clinical investigation of a medical device or a drug or has participated in such a study within 30 days prior to study enrollment.
+
+22\. Patients with Creutzfeldt-Jakob disease (CJD), VCJD, or other known or suspected slow virus infect
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT04814355
+The Effect of Celecoxib on Neuroinflammation in MDD: PET Imaging of a Novel Treatment Target With [18F]FEPPA
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+* Age: 18-65
+* Diagnosis of MDD and currently in a major depressive episode
+* Capacity to give informed consent
+* Score of at least 29 on the MADRS
+
+Exclusion Criteria
+
+* Low affinity binders (LABs) for TSPO Genotype
+* Hypersensitivity to celecoxib, sulfonamides, aspirin, other NSAIDs, or any component of the formulation; previous asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs
+* Heptic impairment, heart failure, severe renal impairment, recent GI bleed, history of peptic ulcer disease, anemia or any other contraindication for celecoxib
+* Poor CYP2C9 metabolizer
+* Currently taking medications that interact with celecoxib (digoxin, antihypertensives, diuretics, anticoagulant or anti-platelet treatment, including aspirin)
+* Use of herbs, drugs, or medications with anti-inflammatory or immunomodulatory properties (within 5 half-lives of starting celecoxib treatment)
+* Unlikely to tolerate medication washout or the medication-free period following washout
+* Participant considered at significant risk for suicide
+* ECT within 1 month
+* High potential for excessive drug/alcohol use during the treatment period (excluding nicotine or cannabis)
+* Significant active physical illness or neurological deficit that may affect brain functioning or imaging
+* Any PET contraindications, including if study imaging will result in the participant receiving greater exposure than the research limit, or if participant is currently pregnant, breastfeeding, or planning to conceive during the course of study participation
+"""
+Exclusion criteria:
+"""
+* Low affinity binders (LABs) for TSPO Genotype
+* Hypersensitivity to celecoxib, sulfonamides, aspirin, other NSAIDs, or any component of the formulation; previous asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs
+* Heptic impairment, heart failure, severe renal impairment, recent GI bleed, history of peptic ulcer disease, anemia or any other contraindication for celecoxib
+* Poor CYP2C9 metabolizer
+* Currently taking medications that interact with celecoxib (digoxin, antihypertensives, diuretics, anticoagulant or anti-platelet treatment, including aspirin)
+* Use of herbs, drugs, or medications with anti-inflammatory or immunomodulatory properties (within 5 half-lives of starting celecoxib treatment)
+* Unlikely to tolerate medication washout or the medication-free period following washout
+* Participant considered at significant risk for suicide
+* ECT within 1 month
+* High potential for excessive drug/alcohol use during the treatment period (excluding nicotine or cannabis)
+* Significant active physical illness or neurological deficit that may affect brain functioning or imaging
+* Any PET contraindications, including if study imaging will result in the participant receiving greater exposure than the research limit, or if participant is currently pregnant, breastfeeding, or planning to conceive during the course of study participation
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT05404321
+Establishment of an ex Vivo Tumor Collection of Triple-negative Breast Cancers in Order to Validate the Interest of Innovative Therapies and the Search for Predictive Biomarkers of Response to Treatment
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Patient over 18 years of age
+* A patient with early-stage (I-III) triple-negative breast cancer at the time of signing the informed consent form who is scheduled to undergo clip placement prior to neoadjuvant chemotherapy or who agrees to undergo a new biopsy if a clip has already been placed
+* Patient affiliated to a social security system
+* Proficiency in French language,
+* Patient having signed the consent to participate in the study.
+"""
+Exclusion criteria:
+"""
+* Pregnant women
+* Persons deprived of liberty or under guardianship (including curatorship)
+* History of any other clinically active malignancy in the last 5 years prior to inclusion
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT06630221
+A Phase II Study of Eltrombopag as a Novel Therapeutic Approach for Patients With Low-risk Myelodysplastic Syndromes (MDS) and Chronic Myelomonocytic Leukemia (CMML) With TET2 Mutations
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+* Age ≥ 18 years at the time of signing the informed consent form.
+* Willing and able to adhere to the study visit schedule and other protocol requirements.
+* Established diagnosis of very low-, low-, or intermediate-risk MDS (IPSS-R \< 3.5) and \< 5% myeloblasts or CMML 0 (CMML-0, for cases with \< 2% blasts in PB and \< 5% blasts in bone marrow (BM)z,\[14\] with any one of the notable cytopenias as defined below:
+
+  1. Hgb \< 10 g/dL prior to enrollment
+  2. ANC \< 1.5×10\^9/L
+  3. Platelets \< 100×10\^9/L
+* Must be relapsed, refractory/resistant, intolerant, or have inadequate response to therapies with known clinical benefits for MDS, such as EPOs, luspatercept, and HMAs (i.e., azacytidine or decitabine). Patients with del (5q) must have failed prior lenalidomide therapy.
+* TET2 mutation performed at a frequency of at least \> 5%.
+* ECOG performance status of 0-2.
+* Adequate organ function, defined as:
+
+  1. Serum total bilirubin \< 2x ULN, unless the subject has Gilbert's syndrome. Higher levels are acceptable if these can be attributed to ineffective erythropoiesis. In these cases, approval from the study PI is required.
+  2. Creatinine clearance greater than 30 mL/min based on the Cockroft-Gault glomerular filtration rate estimation.
+  3. Participants being enrolled on study on the basis of anemia, will only be eligible if folate, B12, serum iron, serum ferritin, total iron binding capacity, haptoglobin and peripheral smear within normal limits
+  4. Hepatitis panel negative for Hep B and Hep C infection
+  5. Negative for HIV infection
+* Women of childbearing potential (WOCBP) may participate provided they have a negative serum pregnancy test at screening and a negative serum or urine pregnancy test within 72 h of starting treatment.
+* WOCBP and males with partners who are WOCBP must agree to abstain from sexual intercourse or use effective contraception (methods that result in \< 1% pregnancy rates) during eltrombopag therapy and for at least 7 days after the last eltrombopag dose. Males with partners who are WOCBP must agree to use a barrier method.
+"""
+Exclusion criteria:
+"""
+* High- and Very High-risk MDS (per IPSS-R)
+* CMML 1-2
+* Prior HMA exposure
+* Platelet count \> 200×10\^9/uL or leukocytosis of at least 25×10⁹/L
+* Marrow fibrosis (any grade)
+* Results of bone marrow biopsy within 1 month of study entry (screening bone marrow biopsy) indicating high-risk MDS or CMML-2.
+* Elevated LFTs (aminotransferases and bilirubin) \> 2x ULN
+* Pre-existing cardiovascular disease (e.g., known coronary artery disease with percutaneous intervention or stroke within the last year) or arrhythmia (e.g., atrial fibrillation) associated with an increased risk of thromboembolic events, unless deemed acceptable by the enrolling treating physician.
+* History of arterial or venous thromboembolism, and on anticoagulation.
+* Severe hepatic impairment (Child-Pugh Class C)
+* Recent history of cancer (i.e., within the past 5 years) with \> 50% chance of cancer recurrence in the next 5 years
+* Current or prior history of hematologic malignancy
+* Known dysphagia, short-gut syndrome, gastroparesis, or other conditions that limit the ingestion or gastrointestinal absorption of drugs administered orally.
+* Active uncontrolled systemic fungal, bacterial, or viral infection (defined as ongoing signs/symptoms related to the infection without improvement despite appropriate antibiotics, antiviral therapy, and/or other treatment.)
+* Positive direct Coombs test
+* Evidence of hypersplenism on physical exam
+* Pregnant or lactating (women)
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07346170
+A Phase 2 Study of Short Interval Postoperative Stereotactic Body Radiation Therapy (SBRT) After Surgical Intervention for Spine Metastases
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Participants must have a histologically or cytologically confirmed diagnosis of metastatic malignancy or must have preliminary histology or cytology consistent with a diagnosis of metastatic malignancy.
+2. Participants must be considered candidates for postoperative SBRT by the treating radiation oncologist.
+3. Participants must have undergone, within the past 13 days, or are planned to undergo minimally invasive or open surgery for the management of a spine metastasis.
+4. Disease at any spine level is allowed.
+5. Prior therapy
+
+   1. There is no limit on the number of prior spine surgeries or prior courses of radiotherapy directed at the spine if prior therapies occurred at different spinal levels outside the anticipated treatment field.
+   2. There is no limit on the number of courses or types of radiotherapy for radiation delivered outside the planned treatment field.
+6. Cleared by the primary surgical team for postoperative SBRT, including but not limited to hemodynamic, respiratory, and neurologic stability postoperatively, without immediate postoperative complications noted.
+7. Age ≥18 years.
+8. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2 (Karnofsky ≥ 70%, see Appendix 1) 1 month prior to presentation for surgery.
+9. Estimated survival \>3 months or survival considered adequate to undergo spine surgery as assessed by the primary surgical team.
+10. Ability to understand and the willingness to sign a written informed consent document.
+11. Ability to understand and willingness to comply with treatment schedule, follow-up visits, laboratory testing, and other requirements of the study, including disease assessment by MRI.
+12. Individuals with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial.
+13. The effects of radiation on the developing human fetus are generally considered detrimental. Because the radiation therapy used in this trial is known to be teratogenic, individuals of reproductive potential must agree to use adequate contraception (e.g., hormonal or barrier methods, abstinence) for the duration of study participation and for at least 120 days after the last administration of radiation therapy. Should a study participant or their partner become pregnant or suspect pregnancy while participating in this study, they should inform their treating physician immediately.
+"""
+Exclusion criteria:
+"""
+An individual who meets any of the following criteria will be excluded from participation in this study:
+
+1. Prior radiation of any type within the anticipated treatment field (prior radiation outside the anticipated field is acceptable as above).
+2. Primary malignancy of the spine (examples: chordoma or sarcoma).
+3. Persistent high-grade metastatic spinal cord compression following surgery (Bilsky Grade 3 or higher).
+4. Involvement of 3 or more contiguous spinal levels.
+5. Involvement of more than 2 non-contiguous spinal levels.
+6. American Spinal Injury Association Impairment Scale (ASIA) Grade 3 status.
+7. Surgery was a biopsy only.
+8. Unable to undergo MRI for any reason.
+9. Estimated survival \<3 months.
+10. Active infection requiring systemic therapy.
+11. Active wound complication requiring medical intervention.
+12. History of radiation-induced myelopathy from prior spine radiation.
+13. History of a collagen vascular disorder (examples: lupus, scleroderma).
+14. History of psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial.
+15. . A woman of childbearing potential (WOCBP) who has a positive urine pregnancy test within 72 hours prior to allocation. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07593079
+Optimizing PSMA Imaging for Enhanced Detection of Residual and Metastatic Prostate Cancer in Low PSA Recurrence (OPERA) Study
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+* Histologically or cytologically confirmed biochemically recurrent prostate cancer, with original diagnosis no more than 2 years from date of consent.
+* Intermediate unfavorable or high-risk prostate cancer.
+* All patients under consideration for radiation therapy, either at the time of first recurrence or in salvage radiation therapy will be included.
+* Patients who have started bicalutamide up to a maximum of 3 days prior to randomization will be allowed to be on protocol. Otherwise, a washout period of at least 42 days will be required.
+* Biological males, at least 18 years of age.
+* Prostate specific antigen (PSA) \< 1.0 ng/mL.
+* Agreement to adhere to Lifestyle Considerations throughout study duration
+* Ability to understand and willingness to sign an IRB approved written informed consent document.
+"""
+Exclusion criteria:
+"""
+* Patients currently on androgen deprivation therapy (ADTs).
+* Currently receiving any other investigational agents.
+* A history of allergic reactions attributed to compounds of similar chemical or biologic composition to POSLUMA, furosemide, bicalutamide, or other agents used in the study.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07631884
+Exploratory Study on the Efficacy and Safety of Trastuzumab Rezetecan in the Treatment of HER2-Expressiong Advanced Solid Tumor
+Keyword hit(s): biopsy
+
+Inclusion criteria:
+"""
+1. Male and female participants aged 18 years or older.
+2. Participants with locally advanced, unresectable or metastatic solid tumors who have progressed after at least one prior systemic therapy for advanced/metastatic disease, or have no satisfactory alternative treatment options. Eligible tumor types include but are not limited to biliary tract cancer, endometrial cancer, urothelial carcinoma, pancreatic cancer, colorectal cancer, gastric cancer, non-small cell lung cancer, head and neck adenocarcinoma (salivary gland adenocarcinoma, lacrimal gland adenocarcinoma, adenocarcinoma of unknown primary in the neck), cervical cancer, ovarian cancer and adenocarcinoma of unknown primary. Breast cancer is excluded.
+3. Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1.
+4. Confirmed HER2 expression defined as IHC 1+, 2+ or 3+ (per GC criteria).
+5. Willing and able to provide adequate tumor specimens for central pathological re-testing of HER2 status. For participants previously treated with anti-HER2 therapy, tumor specimens obtained after the last anti-HER2 treatment are optional.
+6. At least one measurable lesion at baseline per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.
+7. Adequate organ and bone marrow function within 14 days prior to enrollment, meeting the following criteria:
+
+   Hemoglobin ≥ 9 g/dL; Platelet count ≥ 100,000/mm³; Absolute neutrophil count (ANC) ≥ 1500/mm³; Serum albumin ≥ 3.0 g/dL; Prothrombin time (PT), activated partial thromboplastin time (aPTT) and International Normalized Ratio (INR) ≤ 1.5 × upper limit of normal (ULN); Aspartate transaminase (AST) and alanine transaminase (ALT) ≤ 3 × ULN; ≤ 5 × ULN for participants with liver metastases; Total bilirubin ≤ 1.5 × ULN for participants without liver metastases; ≤ 3 × ULN for participants with Gilbert's syndrome or liver metastases at baseline; Creatinine clearance ≥ 30 mL/min (calculated by the Cockcroft-Gault formula)
+8. Left ventricular ejection fraction (LVEF) ≥ 50% assessed by echocardiogram (ECHO) or multigated acquisition (MUGA) scan within 28 days prior to enrollment.
+"""
+Exclusion criteria:
+"""
+Participants meeting any of the following conditions are ineligible for this study:
+
+1. Presence of any severe and/or uncontrolled diseases:
+
+   * Poorly controlled blood pressure (systolic blood pressure ≥ 150 mmHg or diastolic blood pressure ≥ 100 mmHg); poorly controlled diabetes (fasting blood glucose \[FBG\] \> 10 mmol/L).
+   * Grade ≥ 2 myocardial ischemia, myocardial infarction, arrhythmia (QTc interval ≥ 470 ms), or Grade ≥ 2 congestive heart failure (per New York Heart Association \[NYHA\] classification).
+   * Active or uncontrolled severe infections (Grade ≥ 2 per NCI CTCAE) requiring systemic antibacterial, antifungal or antiviral therapy, including pulmonary tuberculosis.
+   * History of active tuberculosis.
+   * Uncontrolled ascites, pericardial effusion or pleural effusion requiring repeated drainage.
+2. Active hepatitis: Liver function not meeting the inclusion criteria. Hepatitis B: HBV DNA ≥ 2000 IU/mL or ≥ 10\^4 copies/mL.Hepatitis C: HCV RNA ≥ 2000 IU/mL or ≥ 10\^4 copies/mL. Participants with viral load below the above thresholds after nucleoside antiviral therapy are eligible. Chronic hepatitis B virus carriers with HBV DNA \< 10\^4 IU/mL must receive concurrent antiviral treatment throughout the study for enrollment.
+3. History of immunodeficiency diseases, including HIV positivity or other acquired/congenital immunodeficiency disorders.
+4. History of allogeneic solid organ transplantation or allogeneic hematopoietic stem cell transplantation.
+5. Confirmed meningeal metastasis, spinal cord metastasis or spinal cord compression.
+6. Within 6 months prior to the first study drug administration, presence of esophageal gastric varices, severe ulcers, unhealed wounds, gastrointestinal perforation, abdominal fistula, gastrointestinal obstruction, intra-abdominal abscess, acute gastrointestinal bleeding, extensive intestinal resection (partial colectomy or extensive small bowel resection complicated with chronic diarrhea), Crohn's disease, ulcerative colitis or long-standing chronic diarrhea.
+7. Unhealed or poorly healing wounds, or active ulcers.
+8. Toxicities from prior anti-tumor therapy have not resolved to Grade 0 or 1 per NCI CTCAE version 5.0.
+9. Received major surgery, incisional biopsy or significant traumatic injury within 28 days before study treatment initiation; or with long-standing unhealed wounds or fractures.
+10. History of severe hypersensitivity reactions to monoclonal antibodies; known allergy to the active ingredients or excipients of the study drug.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07764159
+An Open-Label, Multicenter, Randomized Clinical Trial Evaluating the Efficacy and Safety of Oral Multi-Food Immunotherapy With Peanut and Tree Nuts Protein Mixtures
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Age 1-12 years;
+* Confirmed allergy to at least two allergens included in the protocol, i.e., peanut and/or tree nuts: cashew, walnut, hazelnut, and almond;
+* Positive skin prick test (SPT) (wheal diameter ≥ 3 mm) and/or specific IgE (sIgE) level \> 0.35 kUA/L for at least two of the analyzed allergens;
+* Positive OFC-1 (oral food challenge) of grade I-IV according to the WAO classification for at least two allergens, with a positive reaction occurring after administration of a dose ≥ 3 mg and ≤ 3000 mg of allergen protein;
+* Participants may be enrolled based on the abbreviated procedure as outlined in the study description;
+* Written informed consent obtained from a legal guardian, and, where applicable, assent from the child in accordance with their age and level of maturity;
+* Good prognosis for compliance and cooperation of the patient and their caregivers.
+"""
+Exclusion criteria:
+"""
+* Allergic reaction at the lowest challenge dose of 1 mg of allergen protein for any allergen, or no allergic reaction after administration of the maximum dose of 3000 mg of allergen protein for at least four of the analyzed allergens;
+* History of anaphylaxis with a grade V reaction according to the WAO classification, either during an oral food challenge or in the patient's medical history;
+* Severe asthma;
+* Poorly controlled asthma according to GINA 2025 (lack of symptom control and/or ≥2 exacerbations requiring systemic glucocorticoids or ≥1 exacerbation requiring hospitalization within the last 12 months), or in children able to perform spirometry: FEV1 \< -1.64 Z-score and/or FEV1/FVC \< -1.64 Z-score;
+* Eosinophilic gastrointestinal disease;
+* Other chronic diseases requiring ongoing treatment which, in the investigator's opinion, may increase the risk associated with study participation or interfere with the interpretation of results, including severe cardiac disease, epilepsy, metabolic disorders, or diabetes;
+* Previous immunotherapy with food allergens;
+* Concurrent immunotherapy with aeroallergens;
+* Treatment with biologic agents, beta-blockers, ACE inhibitors, or calcium channel blockers;
+* Oral corticosteroid therapy meeting any of the following criteria: daily treatment for \>1 month within the last 12 months; at least two courses lasting ≥7 days within the last 12 months; one course lasting ≥7 days within the last 3 months;
+* Lack of consent to participate in the study or insufficient cooperation of the patient and/or caregivers. In such cases, patients will receive standard medical care, including allergen avoidance and provision of emergency medication.
+
+Well-controlled asthma, allergic rhinitis, and atopic dermatitis are not exclusion criteria.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07777276
+Sleep Quality - Comparing the Effect of Ondansetron or Dexamethasone Given as Routine Prophylaxis Intraoperatively to Prevent Post Operative Nausea and Vomiting
+Keyword hit(s): overnight stay
+
+Inclusion criteria:
+"""
+* Children aged 2 - 15 years,
+* Undergoing general anaesthesia for minor ambulatory surgery or procedures with a maximum of 1 overnight stay postoperatively
+* ASA I or III
+"""
+Exclusion criteria:
+"""
+* Currently taking regular dexamethasone or ondansetron
+* Currently taking regular steroids, including inhaled corticosteroids
+* Anaesthetic plan to give dual PONV prophylaxis
+* Known hypersensitivity to the active substance or to any of the excipients listed
+* Language barriers impeding data collection
+* Department for Child Protection and Family Support is involved in their care
+* Planned admissions to the Paediatric Intensive Care Unit (PICU)
+* Oncology patients
+* Severe developmental delay
+* ASA III or above
+* Significant cardiorespiratory conditions
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07844993
+Evaluation of the Efficacy of a Mouthwash in Balancing Oral pH and Maintaining a Healthy Oral Microbiome.
+Keyword hit(s): washout
+
+Inclusion criteria:
+"""
+1. Healthy female and male subjects (without any specific repartition) subjects
+2. Subjects of Caucasian ethnicity
+3. Subjects aged between 18 and 55 years (extremes included)
+4. Subjects with a (resting, not stimulated) salivary pH in the range 6.0-7.0
+5. Subjects with baseline plaque index PCR ≥ 30% of surfaces with plaque according to O'Leary\*
+6. Subjects with ≥ 20 natural teeth and regular consumption of dietary sugars, including soft drinks, fruit juices, and other sugar-rich foods or beverages.
+7. Subjects registered with the national public health system in the country where the study is conducted
+8. Subjects certifying the truthfulness of the personal data disclosed to the Principal Investigator or designated personnel
+9. Subjects able to understand the language used in the investigation centre and the information given by the Principal Investigator or designated personnel
+10. Subjects able to respect the instructions given by the Principal Investigator or designated personnel as well as able to respect the study constraints and specific requirements
+11. Subjects who commit not to change their daily routine or lifestyle during the study
+12. Subjects on stable pharmacological therapy (except for the pharmacological therapy in the non-inclusion criteria) for at least one month without any changes expected or planned during the study
+13. Subjects informed about the test procedures who have signed a consent form and privacy agreement
+"""
+Exclusion criteria:
+"""
+1. Subjects who do not meet the inclusion criteria
+2. Subjects with active dental caries
+3. Subjects with acute or chronic diseases (e.g. diabetes) able to interfere with the outcome of the study or that are considered dangerous for the subject or incompatible with the study requirements;
+4. Subjects participating or planning to participate in other clinical trials
+5. Subjects deprived of freedom by administrative or legal decision or under guardianship
+6. Subjects not able to be contacted in case of emergency
+7. Subjects admitted to a health or social facility
+8. Subjects planning a hospitalisation during the study
+9. Subjects who participated in a similar study without respecting an adequate washout period (at least one month)
+10. Subjects under pharmacological treatments that are considered incompatible (e.g. antibiotics use 3 months before the study start) with the study requirement by the investigator
+11. Subjects having a skin disease or condition liable to interfere with the study data or considered by the Investigator hazardous for the subject or incompatible with the study requirements
+12. Subjects that have shown allergies or sensitivity to cosmetic products, drugs, patch or medical devices
+13. Subject breastfeeding, pregnant or not willing to take necessary precautions to avoid pregnancy during the study (for the women of childbearing potential).
+14. Subjects who are unwilling to use only the oral health and hygiene products provided as part of the study.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07845526
+Enhanced Telemedicine in Primary Care for ARTIs (Tele-PARTI) Study
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Child receives primary care at a participating study site
+* Child is between 6 months 0 days and 23 months 29 days
+* Child has one or more documented acute otitis media infections (diagnosed on the day of enrollment or previously)
+* Child presents with an adult who is the biological parent or legally authorized representative able to provide consent for the child's participation in the study.
+"""
+Exclusion criteria:
+"""
+* Adult caregiver not able to participate in informed consent in English or Spanish
+* Child has congenital anomaly of face or ears
+* Child has history of myringotomy tube placement
+* Family lacks smart phone in household to pair with otoscope
+* Sibling or other child in same household already enrolled
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+
+## NCT07951489
+Randomized, Sham-controlled Clinical Trial Testing At-home Use of Noninvasive Vagus Nerve Stimulation After TBI
+Keyword hit(s): caregiver
+
+Inclusion criteria:
+"""
+* Age 18-75 years Formally diagnosed with traumatic brain injury.
+* Ability to independently use a keyboard.
+* Ability to independently apply the electrode and adjust stimulation or have a designated caregiver available to be trained and assist with these tasks.
+* Able to understand and communicate in English (according to clinical judgment).
+* Able to independently provide consent to participate. -Able to come in person to Shirley Ryan AbilityLab in Chicago, IL for three visits over 5 weeks.
+"""
+Exclusion criteria:
+"""
+* Acute medical issues requiring close physician or nursing monitoring. Bioelectrical implants, cerebral shunts, including pacemakers.
+* Anyone with sore or diseased skin area in the ear
+* Pregnancy or persons who are lactating.
+* Cardiac arrhythmia.
+* Epilepsy or seizure disorders.
+* Significant gross or fine motor weakness.
+* Significant, ongoing communication or comprehension impairments (such as aphasia) that would affect an individual's ability to complete the required assessments.
+* Severely impaired memory retention
+* Current major depression diagnosis.
+"""
+
+CALLOUT_HEADING:
+CALLOUT_TEXT:
+

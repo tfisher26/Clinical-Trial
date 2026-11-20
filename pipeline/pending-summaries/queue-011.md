@@ -489,15 +489,6 @@ Link: https://clinicaltrials.gov/study/NCT06068049
 SUMMARY:
 
 
-## NCT06822829
-Multicenter Retrospective Observational Study of Relapsed Diffuse Large B-Cell Lymphoma Presenting as Indolent Lymphoma
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06822829
-
-SUMMARY:
-
-
 ## NCT06377527
 Establishing a Tumor Registry of Patients With Mesonephric-like Adenocarcinoma (MLA)
 

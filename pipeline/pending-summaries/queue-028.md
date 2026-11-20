@@ -1275,15 +1275,6 @@ Link: https://clinicaltrials.gov/study/NCT06989190
 SUMMARY:
 
 
-## NCT06968858
-First-in-human Study to Assess the Clinical Feasibility, Safety, and Performance of the α Prototype of the NIMBLE System for Diagnosing Complications in Intracoronary Stents. NIMBLE-I Study.
-
-Intervention: : NIMBLE test — Non-invasive assessment of ISR with the NIMBLE System (Microwave Interferometry)
-Link: https://clinicaltrials.gov/study/NCT06968858
-
-SUMMARY:
-
-
 ## NCT07356323
 A Prospective, Single-arm, Trial to Determine Contamination Rates When Using an Antibacterial Incise Drape During Orthopedic Surgery
 

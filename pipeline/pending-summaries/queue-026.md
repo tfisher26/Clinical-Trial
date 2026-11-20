@@ -85,15 +85,6 @@ Link: https://clinicaltrials.gov/study/NCT07489417
 SUMMARY:
 
 
-## NCT06604650
-Community Park-Based Programs for Health Promotion: Active Older Adults Prospective Cohort Study
-
-Intervention: : Active older Adults — The program entails one-hour sessions two or three times per week including aerobic workout, strength training, balance and flexibility exercise delivered online or in-person. Miami-Dade Parks and Recreation is the sponsor of the Active Older Adults prospective cohort study. Duke is conducting a secondary data analysis on data collected as part of the Active Older Adults study.
-Link: https://clinicaltrials.gov/study/NCT06604650
-
-SUMMARY:
-
-
 ## NCT06910891
 Hemodynamic Evaluation Using Microcirculation for Early Treatment of Septic Patients
 

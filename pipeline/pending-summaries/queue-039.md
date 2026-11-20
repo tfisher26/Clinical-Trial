@@ -1488,15 +1488,6 @@ Link: https://clinicaltrials.gov/study/NCT07543692
 SUMMARY:
 
 
-## NCT06242119
-Clinical Use of a J-PET Scanner Prototype Made of Plastic Scintilators
-
-Intervention: : J-PET scan — Diagnostic Test: Positron-Emission Tomography Imaging Examination of radiation distribution in the patient body after completing a routine examination on a PET diagnostic device. J-PET prototype tests will be carried out in patients who have undergone a classic PET examination after administration of \[18F\]FDG), \[68Ga\]Ga-PSMA, \[18F\]choline or \[68Ga\]Ga-DOTATATE). The duration of the additional exam will be approximately 20 minutes.
-Link: https://clinicaltrials.gov/study/NCT06242119
-
-SUMMARY:
-
-
 ## NCT05813418
 Identification of Predictive Biomarkers for Immune-Related Adverse Events (irAEs) in Patients
 

@@ -1767,15 +1767,6 @@ Link: https://clinicaltrials.gov/study/NCT07352280
 SUMMARY:
 
 
-## NCT06938516
-IMPACT of Nebilet in Blood Pressure Control in Patients With HYpertension: An Observational, Longitudinal Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06938516
-
-SUMMARY:
-
-
 ## NCT05402696
 The St. Paul's Hospital Advanced Endoscopic Resection Centre Cohort for Colorectal Neoplasia (SPARC-C): A Prospective Observational Study
 
