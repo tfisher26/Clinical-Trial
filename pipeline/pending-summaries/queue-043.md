@@ -1569,15 +1569,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04547166
-A Randomized, Double-blind, Multicenter, PhaseⅡ/Ⅲ Clinical Study of Serplulimab in Combination With Bevacizumab and Chemotherapy (XELOX) Versus Placebo in Combination With Bevacizumab and Chemotherapy (XELOX) in First-line Treatment of Patients With Metastatic Colorectal Cancer (mCRC)
-
-Intervention: : HLX10 — a single fixed dose of 300 mg, intravenous infusion (IV), every 3 weeks (Day 1 of each cycle \[D1\]), non-reducible.
-: HLX04、 — 7.5mg/kg, IV, every 3 weeks (D1 of each cycle), non-reducible.
-Link: https://clinicaltrials.gov/study/NCT04547166
-
-SUMMARY: Metastatic colorectal cancer has spread beyond the colon or rectum. This study tests adding an immunotherapy antibody given by IV every three weeks to Avastin and XELOX chemotherapy as a first treatment, compared with a placebo.
-
 ## NCT04547673
 To Develop and Validate a Nasoendoscopic Intelligent Diagnostic System for Nasopharyngeal Carcinoma
 
