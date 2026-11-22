@@ -18151,14 +18151,6 @@ Link: https://clinicaltrials.gov/study/NCT02329652
 
 SUMMARY:
 
-## NCT02927158
-Use of Whole Exome Sequencing/Whole Genome Sequencing in the Plain Communities
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT02927158
-
-SUMMARY:
-
 ## NCT03896464
 Soft-tissue Quadriceps Autograft ACL-reconstruction in the Skeletally-immature vs. Hamstrings (SQuASH): A Multi-Centre Randomized Controlled Trial
 
@@ -18173,6 +18165,17 @@ Web Based Investigation of Natural History of Keloid Disorder, an Online Survey
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT01423981
+
+SUMMARY:
+
+## NCT01344525
+Pilot Project on Interdisciplinary Therapy of Obesity and Its Consequences on Body Weight, Quality of Life and Gastrointestinal Parameters
+
+Intervention: : Laparoscopic gastric sleeve — Laparoscopic gastric sleeve
+: Gastric Banding — Gastric Banding
+: Multidisciplinary lifstyle intervention — Multidisciplinary lifstyle intervention (OPTIFAST®52-program)
+: Roux-en-Y Bypass — Roux-en-Y Bypass
+Link: https://clinicaltrials.gov/study/NCT01344525
 
 SUMMARY:
 
