@@ -724,14 +724,6 @@ Link: https://clinicaltrials.gov/study/NCT07241416
 
 SUMMARY:
 
-## NCT07241429
-Kinesiophobia, Balance Performance, Fear of Falling, and Related Factors in Stroke Patients
-
-Intervention: : Survey using a questionnaire. — All participants in this single cohort will undergo a one-time, cross-sectional assessment. This assessment includes the collection of clinical and demographic data and the administration of scales for kinesiophobia (Tampa Kinesiophobia Scale-17), balance performance (Berg Balance Scale), balance confidence (ABC-6), fear of falling (Falls Efficacy Scale), pain (VAS), and mood (HADS). No intervention is administered.
-Link: https://clinicaltrials.gov/study/NCT07241429
-
-SUMMARY:
-
 ## NCT07241520
 Phase III Clinical Trial to Evaluate the Efficacy and Safety of SHPL-49 Injection in the Treatment of Acute Ischemic Stroke（SAIL）- a Multicenter, Randomized, Double-blind, Parallel, Placebo-controlled Phase III Clinical Trial
 
@@ -10983,15 +10975,6 @@ Adding Evolocumab to Conventional Lipid-lowering Therapy for Hypertriglyceridemi
 Intervention: : Evolocumab 140 MG/ML [Repatha] — The clinicians strictly follow the treatment strategy for HTG-AP as stipulated in the 2021 "Emergency Expert Consensus on Diagnosis and Treatment of Hypertriglyceridemia Induced Acute Pancreatitis" to provide conventional lipid-lowering treatment for the patients, including dietary adjustments, fibrates, low-molecular-weight heparin, and insulin, etc. On the basis of conventional lipid-lowering treatment, 140mg of evolocumab is added by slow subcutaneous injection every two weeks, and the patients' responses are observed during this period.
 : Conventional lipid-lowering therapy — This group only receives conventional lipid-lowering treatment without adding evolocumab.
 Link: https://clinicaltrials.gov/study/NCT07388420
-
-SUMMARY:
-
-## NCT07388498
-A Phase 3, Multicenter, Double-blind, Randomized Controlled Study Evaluating the Efficacy and Safety of Pegloticase Administered by Subcutaneous Injection Compared With Pegloticase Administered by Intravenous Injection, Both Administered Concurrently With Methotrexate Weekly, in Participants With Uncontrolled Gout
-
-Intervention: : Pegloticase — Participants will receive pegloticase either SC or IV.
-: Methotrexate — MTX will be administered orally.
-Link: https://clinicaltrials.gov/study/NCT07388498
 
 SUMMARY:
 

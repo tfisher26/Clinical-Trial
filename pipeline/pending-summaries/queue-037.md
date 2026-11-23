@@ -2987,16 +2987,6 @@ Link: https://clinicaltrials.gov/study/NCT06195345
 SUMMARY:
 
 
-## NCT04792034
-An Open-label, Two-Arm, Pharmacokinetics, Safety, and Tolerability Study of a Single Topical Dose of GOPRELTO® Nasal Solution and a Single Dose of NUMBRINO™ Nasal Solution for the Induction of Local Anesthesia of the Mucous Membranes When Performing Diagnostic Procedures and Surgeries in Pediatric Subjects From ≥12 Years to <18 Years of Age
-
-Intervention: : Cocaine Hydrochloride Nasal Solution — Topical Anesthetic
-: Cocaine Hydrochloride Nasal Solution — Topical Anesthetic
-Link: https://clinicaltrials.gov/study/NCT04792034
-
-SUMMARY:
-
-
 ## NCT06887348
 Long-term Safety Outcomes in Patients Treated With Replimune Oncolytic Immunotherapy Products
 

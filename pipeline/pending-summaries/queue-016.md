@@ -842,15 +842,6 @@ Link: https://clinicaltrials.gov/study/NCT07031830
 SUMMARY:
 
 
-## NCT06715995
-Effects of Endogenous Gamma Light Stimulation on Brain Oscillations in Cognitively-normal Older Adults: a Randomized, Placebo-controlled, Double-blind Study
-
-Intervention: : Gamma Wave Stimulation Table Lamp (Aleddra, Inc., USA) — Participants will receive light stimulation using the Gamma Wave Stimulation Table Lamp (Aleddra, Inc., USA) for 1 hour per day, 7 days a week, over 4 weeks, for a total of 28 hours.
-Link: https://clinicaltrials.gov/study/NCT06715995
-
-SUMMARY:
-
-
 ## NCT05007990
 Caregiving Networks Across Disease Context and the Life Course: A Comparative Longitudinal Study
 

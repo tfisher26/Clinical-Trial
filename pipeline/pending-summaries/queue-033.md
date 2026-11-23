@@ -4071,15 +4071,6 @@ Link: https://clinicaltrials.gov/study/NCT06225128
 SUMMARY:
 
 
-## NCT06333067
-Safety and Efficacy of SofWave Treatment to Lift Facial Lax Skin and Improve Facial Wrinkles Using Precise and Lift Applicators
-
-Intervention: : Sofwave — The Sofwave System, comprised of an applicator and a console, generates high intensity, non-focused ultrasonic energy which can be delivered percutaneously to tissues.
-Link: https://clinicaltrials.gov/study/NCT06333067
-
-SUMMARY:
-
-
 ## NCT06155344
 VEGALIM : Vegetalization of the Maternal Diet During Pregnancy: Association With Pregnancy Outcomes and Newborn Health.
 

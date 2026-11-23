@@ -3425,14 +3425,6 @@ Link: https://clinicaltrials.gov/study/NCT05673408
 
 SUMMARY:
 
-## NCT06989008
-Leveraging the Exposome and Patient Sensor Data to Enhance Personalized Diabetes Care Across Diverse Communities
-
-Intervention: : Observational Study: Relationships Among Glucose, Physical Activity and Environmental Influences — This is a single group observational study with no interventions.
-Link: https://clinicaltrials.gov/study/NCT06989008
-
-SUMMARY:
-
 ## NCT07049484
 Clinical and Biomechanical Outcomes of Anterior Cruciate Ligament (ACL) Reconstruction Associated With Lateral Extra-articular Tenodesis (LET): a Short-term Prospective Arthrometric Study
 
@@ -4835,14 +4827,6 @@ Evaluation of Gas6 and Soluble MerTK Levels in Gingival Crevice Fluid in Individ
 
 Intervention: : gingival crevicular fluid collection — Gingival crevicular fluid collection using sterile paper strips inserted into the gingival sulcus for 30 seconds from selected periodontal sites (healthy, gingivitis, and periodontitis) for biomarker analysis (Gas6 and sMerTK).
 Link: https://clinicaltrials.gov/study/NCT07535177
-
-SUMMARY:
-
-## NCT07241429
-Kinesiophobia, Balance Performance, Fear of Falling, and Related Factors in Stroke Patients
-
-Intervention: : Survey using a questionnaire. — All participants in this single cohort will undergo a one-time, cross-sectional assessment. This assessment includes the collection of clinical and demographic data and the administration of scales for kinesiophobia (Tampa Kinesiophobia Scale-17), balance performance (Berg Balance Scale), balance confidence (ABC-6), fear of falling (Falls Efficacy Scale), pain (VAS), and mood (HADS). No intervention is administered.
-Link: https://clinicaltrials.gov/study/NCT07241429
 
 SUMMARY:
 

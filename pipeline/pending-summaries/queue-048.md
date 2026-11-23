@@ -258,14 +258,6 @@ Link: https://clinicaltrials.gov/study/NCT06999382
 
 SUMMARY:
 
-## NCT06999616
-Promoting Physical Activity in Individuals With Cancer in an Oncology Day Clinic - Testing the Feasibility of the Implementation of a Physical Activity Concept Within an Interprofessional Team Led by Nurses OnkoMoveNurse - Proof of Concept
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06999616
-
-SUMMARY:
-
 ## NCT06999694
 Proton Radiotherapy Combined With Tremelimumab and Durvalumab for BCLC Stage B and C Hepatocellular Carcinoma
 
@@ -9916,21 +9908,6 @@ Link: https://clinicaltrials.gov/study/NCT07142551
 
 SUMMARY:
 
-## NCT07142668
-The Impact of Availability of Conventional Cigarettes and LNCs in the Context of Innovative Tax Proposals
-
-Intervention: : Harm Reduction Tax - Normal Nicotine Cigarettes Available — In the Harm Reduction Tax Condition, tobacco products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. All combustible products with high abuse liability are placed in the high-tax tier. All non-combustible products or combustible products with low abuse liability are placed in the medium-tax tier. Nicotine Replacement Therapy products are placed in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Harm Reduction Tax - Normal Nicotine Cigarettes Not Available — In the Harm Reduction Tax Condition, tobacco products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. All combustible products with high abuse liability are placed in the high-tax tier. All non-combustible products or combustible products with low abuse liability are placed in the medium-tax tier. Nicotine Replacement Therapy products are placed in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are NOT available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Modified Risk Tobacco Product Tax - Normal Nicotine Cigarettes Available — In the Modified Risk Tobacco Products tax condition, tobacco products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. In this condition, all non-MRTP tobacco products are placed in the high-tax tier, MRTPs are placed in the medium-tax tier, and Nicotine Replacement Therapy products are placed in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Modified Risk Tobacco Product Tax - Normal Nicotine Cigarettes Not Available — In the Modified Risk Tobacco Products tax condition, tobacco products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. In this condition, all non-MRTP tobacco products are placed in the high-tax tier, MRTPs are placed in the medium-tax tier, and Nicotine Replacement Therapy products are placed in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are NOT available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Nicotine Content Tax - Normal Nicotine Cigarettes Available — In the Nicotine-Content Tax Condition, products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. In this condition, products with greater than 3 mg nicotine per single unit are placed in the high-tax tier, products with 0.6-3.0 mg/unit in the medium-tax tier, and those with 0.5 mg/unit or less in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Nicotine Content Tax - Normal Nicotine Cigarettes Not Available — In the Nicotine-Content Tax Condition, products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. In this condition, products with greater than 3 mg nicotine per single unit are placed in the high-tax tier, products with 0.6-3.0 mg/unit in the medium-tax tier, and those with 0.5 mg/unit or less in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are NOT available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Tobacco Parity Tax - Normal Nicotine Cigarettes Available — In the Tobacco Parity Tax condition, tobacco products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. In this condition, all tobacco products are placed in the high-tax tier while products that do not contain tobacco (e.g., herbal cigarettes and nicotine-free ENDS) are placed in the medium-tax tier. Nicotine Replacement Therapy products are placed in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-: Tobacco Parity Tax - Normal Nicotine Cigarettes Not Available — In the Tobacco Parity Tax condition, tobacco products in the Experimental Tobacco Marketplace are placed into three tax tiers: high-, medium-, and no-tax. In this condition, all tobacco products are placed in the high-tax tier while products that do not contain tobacco (e.g., herbal cigarettes and nicotine-free ENDS) are placed in the medium-tax tier. Nicotine Replacement Therapy products are placed in the no-tax tier. The participant's preferred normal-nicotine content cigarettes are NOT available in the marketplace. Participants complete two trials with all products offered at market price, and five trials with prices for each product increasing proportionally to tax tier.
-Link: https://clinicaltrials.gov/study/NCT07142668
-
-SUMMARY:
-
 ## NCT07142681
 Changes in the Dietary Patterns of Adults in Family Units With a Newly Diagnosed Type 1 Diabetes Mellitus Child: Impact of Educational Actions Derived From Standard Care
 
@@ -11173,15 +11150,6 @@ A Prospective Observational Study of Subcarinal Lymph Node Metastasis in Patient
 
 Intervention: : no intervention was applied as observation study — no intervention was applied as observation study
 Link: https://clinicaltrials.gov/study/NCT07165184
-
-SUMMARY:
-
-## NCT07165223
-A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin
-
-Intervention: : GZR4 — GZR4 s.c., once-weekly，treat-to-target dose
-: Insulin Icodec group — insulin Icodec s.c., once-weekly，treat-to-target dose
-Link: https://clinicaltrials.gov/study/NCT07165223
 
 SUMMARY:
 

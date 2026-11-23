@@ -840,19 +840,6 @@ Link: https://clinicaltrials.gov/study/NCT05862285
 SUMMARY:
 
 
-## NCT04870944
-A Phase 1/2 Trial of CBL0137 (NSC# 825802) in Patients With Relapsed or Refractory Solid Tumors Including CNS Tumors and Lymphoma
-
-Intervention: : Biospecimen Collection — Undergo collection of blood samples
-: Bone Marrow Aspirate — Undergo bone marrow aspirate
-: Bone Marrow Biopsy — Undergo bone marrow biopsy
-: Echocardiography Test — Undergo ECHO
-: FACT Complex-targeting Curaxin CBL0137 — Given IV
-Link: https://clinicaltrials.gov/study/NCT04870944
-
-SUMMARY:
-
-
 ## NCT05319067
 Study of Gut Microbiota Diversity in Children Aged 1-3 Years on Prolonged Antibiotic Prophylaxis for Grade 3 or Higher Vesicoureteral Reflux Compared With 2 Age-matched Control Groups
 

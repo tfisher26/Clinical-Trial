@@ -6041,15 +6041,6 @@ Link: https://clinicaltrials.gov/study/NCT04927897
 
 SUMMARY:
 
-## NCT04928352
-Preemptive Nebulized Bupivacaine for Pain Control After Cleft Palate Repair in Children: A Randomized Double Blind Controlled Trial
-
-Intervention: : Bupivacaine Hydrochloride — Preoperative Nebulized Bupivacaine 0.50% 0.50 mg.kg-1
-: 0.9% saline — Preoperative nebulized same volume of saline placebo
-Link: https://clinicaltrials.gov/study/NCT04928352
-
-SUMMARY: Cleft palate repair in children can be painful afterward. This study tests breathing in nebulized bupivacaine, a numbing medicine, before surgery to control pain after the operation.
-
 ## NCT04929899
 Improving Chemotherapy-induced Nausea Control Through Bright Ideas®-CIN Training: a Feasibility Study in Children Receiving Oral Chemotherapy
 
@@ -9126,14 +9117,6 @@ Repeated Sampling of the Oral Microbiome to Improve Detection of Barrett's Esoph
 
 Intervention: : Sample collection — Collection of saliva sample
 Link: https://clinicaltrials.gov/study/NCT05133102
-
-SUMMARY:
-
-## NCT05134779
-De-convoluting Interactions Between Genes, the Cancer Environment, and the Immune System to Develop Therapies That Work for You
-
-Intervention: : Live Biobank — Tumor tissue will be collected from consented patients at sequential inflection points in the disease course: at the time of initial diagnosis, at the time of surgery and during recurrence or metastasis. In addition to this, 40ml of research bloods will also be collected at these key inflection points.
-Link: https://clinicaltrials.gov/study/NCT05134779
 
 SUMMARY:
 

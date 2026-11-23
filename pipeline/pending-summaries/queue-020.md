@@ -2205,15 +2205,6 @@ Link: https://clinicaltrials.gov/study/NCT06592235
 SUMMARY:
 
 
-## NCT07450014
-The Effect of Preoperative Anxiety Level on Vasovagal Events During Spinal Anesthesia and the Incidence of Vasovagal Events
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07450014
-
-SUMMARY:
-
-
 ## NCT07453251
 Strength Tracking From Wall Tichness Over Aortic Biomechanics
 

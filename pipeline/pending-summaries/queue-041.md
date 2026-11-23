@@ -759,15 +759,6 @@ Link: https://clinicaltrials.gov/study/NCT07114510
 SUMMARY:
 
 
-## NCT06652503
-The Student Wellness and Emotional Growth Resiliency (SWAG-R) Program: A 6-week Coaching Program Designed For NSU Undergraduate Students to Decrease Anxiety, Depression, and Stress and Improve Mental Health, Quality of Life, and Resiliency
-
-Intervention: : online mental health coaching — SWAG-R Program: A 6-week Coaching Program Designed for NSU Undergraduate Students to Decrease Anxiety, Depression, and Stress and Improve Mental Health, Quality of Life, and Resiliency
-Link: https://clinicaltrials.gov/study/NCT06652503
-
-SUMMARY:
-
-
 ## NCT07666126
 Evaluation of the Effect of Hyperuricemia on Alveolar Bone Loss and Oxidative Stress
 

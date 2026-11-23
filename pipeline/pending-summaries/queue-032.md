@@ -3546,15 +3546,6 @@ Link: https://clinicaltrials.gov/study/NCT07037472
 SUMMARY:
 
 
-## NCT07367126
-Presence of Neuropathic Pain in Knee Osteoarthritis: Relationship Between Pain Severity and Functional Status
-
-Intervention: : Clinical and Functional Assessment — All participants will undergo a one-time, cross-sectional clinical assessment. Comprehensive demographic and clinical data, including age, body mass index (BMI), educational level, occupation, and marital status, will be recorded for each participant. Pain intensity will be measured using a 10-cm Visual Analog Scale (VAS). Functional status and symptoms related to knee osteoarthritis will be evaluated using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) and the Knee Injury and Osteoarthritis Outcome Score-Physical Function Short Form (KOOS-PS). To ensure consistency and minimize measurement error, all anthropometric measurements, specifically weight and height, will be performed by the same researcher.
-Link: https://clinicaltrials.gov/study/NCT07367126
-
-SUMMARY:
-
-
 ## NCT07199153
 Accuracy of 3D Printed Custom-Made Registration Method for Dynamic Navigation Implant Surgery Using Mininavident in the Esthetic Zone: A Clinical Trial
 

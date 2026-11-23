@@ -806,15 +806,6 @@ Link: https://clinicaltrials.gov/study/NCT06833606
 SUMMARY:
 
 
-## NCT06673615
-A Community-based Cohort Study on Early Screening of Heart Failure in Elderly Population in Shanghai
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06673615
-
-SUMMARY:
-
-
 ## NCT07360470
 Anatomical Assessment of Orbital Contents on Imaging
 

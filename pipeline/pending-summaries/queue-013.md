@@ -192,15 +192,6 @@ Link: https://clinicaltrials.gov/study/NCT06967896
 SUMMARY:
 
 
-## NCT06129968
-Transforming Ovarian Cancer Diagnostic Pathways (TranSforming Ovarian caNcer diAgnosTic pAthways: A Hybrid Type 1 Effectiveness-implementation Study of a Novel Biomarker Based, Threshold Driven Pathway for Earlier Ovarian Cancer Diagnosis
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06129968
-
-SUMMARY:
-
-
 ## NCT07637474
 Immune Metabolism Dysregulation and Efficacy to Anti-PD-1 PD-L1 Agents in Non Small Cell Lung Cancer Patients
 

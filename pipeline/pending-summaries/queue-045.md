@@ -7335,14 +7335,6 @@ Link: https://clinicaltrials.gov/study/NCT06261021
 
 SUMMARY: Discoid lupus erythematosus causes scarring patches on the skin. This study tests ruxolitinib 1.5% cream, comparing treated with untreated skin areas in the same person, to see if lesions improve.
 
-## NCT06261463
-Leveraging Implementation Science and Design Methods to Sustain Community-based Mental Health Services for Refugees
-
-Intervention: : CAFES2 — The adapted CAFES2 model includes an initial home visit and six multiple family group sessions delivered by peer providers. Families include at least one caregiver and one youth 12 years or older. Key model components include: 1) interfamilial discussion of stressors affecting families and family relationships, 2) psychoeducation on the effects of war and forced displacement on individuals, families and social relationships; 3) emotion regulation and self management strategies; 4) identification and activation of family and social strengths, 5) discussion of family identity and hopes for the future in resettlement and 5) discussion of social and community resources to support health and wellbeing. Each group session incorporates didactic components, family and small group discussion, skill building and separate breakout groups for adolescents and adults.
-Link: https://clinicaltrials.gov/study/NCT06261463
-
-SUMMARY:
-
 ## NCT06261502
 Effect of CANnabidiol on Anxiety and GABAergic Function in Individuals With Fragile-X Syndrome
 

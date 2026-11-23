@@ -8130,20 +8130,6 @@ Link: https://clinicaltrials.gov/study/NCT06873321
 
 SUMMARY:
 
-## NCT06873347
-Electrical Fingerprint: Comparison of Characteristic Patterns of Different Surgical Interventions Based on Electrosurgical Unit Data
-
-Intervention: : Procedure type — • Patients undergoing one of the following surgeries:
-
-* Supra cervical hysterectomy
-* Total hysterectomy
-* Breast conserving surgeries: B-plastic + periareolar mastopexy
-* Breast conserving surgeries: segmental resection
-:  — • A dataset from procedure types other than the above mentioned to the type "unknown" is assigned to this type.
-Link: https://clinicaltrials.gov/study/NCT06873347
-
-SUMMARY:
-
 ## NCT06873386
 Effectiveness of Ultrasound-guided Percutaneous Electrical Stimulation of the Inferior and Superior Gluteal Nerves as Treatment for Gluteus Maximus and Medius Muscle Dysfunction After an Episode of Low Back Pain: Randomized Clinical Trial
 
@@ -8669,14 +8655,6 @@ The Effects of Qi-gong on Physiology and Quality of Life in Patients with Post-a
 
 Intervention: : QI-GONG and control — QIGONG
 Link: https://clinicaltrials.gov/study/NCT06879925
-
-SUMMARY:
-
-## NCT06879977
-Body Awareness in People With Depressive Disorder
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06879977
 
 SUMMARY:
 
@@ -16240,14 +16218,6 @@ Intervention: : Low-dose CT screening — Low-dose CT screening is conducted at 
 : AI full-lung model interpretation system — Using artificial intelligence technology to assist in the interpretation of CT images
 : Digital Health Platform — Community health centers and streets in Guangzhou use a program called "Fei Anxin" to manage residents' information in a unified way
 Link: https://clinicaltrials.gov/study/NCT06988943
-
-SUMMARY:
-
-## NCT06989008
-Leveraging the Exposome and Patient Sensor Data to Enhance Personalized Diabetes Care Across Diverse Communities
-
-Intervention: : Observational Study: Relationships Among Glucose, Physical Activity and Environmental Influences — This is a single group observational study with no interventions.
-Link: https://clinicaltrials.gov/study/NCT06989008
 
 SUMMARY:
 

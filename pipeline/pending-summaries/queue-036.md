@@ -1319,15 +1319,6 @@ Link: https://clinicaltrials.gov/study/NCT06790030
 SUMMARY:
 
 
-## NCT07397000
-Development of AI-Based Approaches for Automated Real-Time Detection of Surgical Smoke Using Endoscopic Image and Video Data
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07397000
-
-SUMMARY:
-
-
 ## NCT07575048
 Strengthening the Communication Skills of Oncology Nurses Through Virtual Reality-Based Assertiveness Training
 

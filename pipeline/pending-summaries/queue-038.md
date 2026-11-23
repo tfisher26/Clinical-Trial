@@ -2308,15 +2308,6 @@ Link: https://clinicaltrials.gov/study/NCT06089980
 SUMMARY:
 
 
-## NCT06544135
-Use of Thermal Imaging Camera to Assess Perfusion Before and After Vascular Intervention
-
-Intervention: : FLIR One Pro LT — Thermal imaging camera used to measure temperatures of the lower limb.
-Link: https://clinicaltrials.gov/study/NCT06544135
-
-SUMMARY:
-
-
 ## NCT06148883
 Comparison of Early Ambulatory Monitoring Strategy Versus Electrophysiological Study Approach in the Management of Patients With New Left Bundle Branch Block After Transcatheter Aortic Valve Implantation
 
@@ -4784,15 +4775,6 @@ A Series of Studies Based on a Prospective Birth Cohort of Infants With Allergy 
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06327906
-
-SUMMARY:
-
-
-## NCT06617013
-Characteristics of Gastroesophageal Reflux in Children With Cystic Fibrosis
-
-Intervention: : Discontinuation of GERD therapy — GERD therapy will be discontinued at time of enrollment.
-Link: https://clinicaltrials.gov/study/NCT06617013
 
 SUMMARY:
 

@@ -3449,15 +3449,6 @@ Link: https://clinicaltrials.gov/study/NCT07394855
 SUMMARY:
 
 
-## NCT06236464
-Identification of the Pathogenetic Mechanisms Underlying Squamous Cell Carcinomas of the Anogenital Tract and of the Head-neck Region for the Development of Shared Therapeutic Strategies
-
-Intervention: : Multiparameter analysis of each sample — Retrospective and prospective samples will be collected and analyzed for the study of molecular and viral biomarkers. Simultaneously, fibroblastic tumor-associated cells (CAFs) will be isolated from prospective samples. Through co-cultivation with immortalized cell lines derived from anogenital and head-neck SCCs, these CAFs will enable the production of 3D organoids for use in experiments assessing the response to telomerase and deacetylase SIRT1 inhibitors, both in vitro and in preclinical models.
-Link: https://clinicaltrials.gov/study/NCT06236464
-
-SUMMARY:
-
-
 ## NCT05899621
 A Real-world Study of the Efficacy and Safety of Obinutuzumab-based Therapy for Previously Untreated Follicular Lymphoma
 

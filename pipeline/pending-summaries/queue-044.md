@@ -1534,14 +1534,6 @@ Link: https://clinicaltrials.gov/study/NCT05565118
 
 SUMMARY:
 
-## NCT05565326
-Pilot Study on Response Assessment During MR-guided Radiation Therapy for Glioblastoma Multiforme
-
-Intervention: : Low field (0.35 T) MR-images of the brain at a MRIdian® linac system — Low field (0.35 T) MR-images of the brain at a MRIdian® linac system using CE marked low-field MR coils as provided by the company will be taken for volunteers in phase I. In phase II and III, after therapy beginning those images will be taken once per week per subject using CE marked low-field MR coils as provided by the company. This is done over the entire course of radiotherapy, which takes between 3 and 6 weeks.
-Link: https://clinicaltrials.gov/study/NCT05565326
-
-SUMMARY:
-
 ## NCT05566002
 Artificial Intelligence-Assisted Evaluation of Pulmonary Hypertension
 
@@ -1793,15 +1785,6 @@ Intervention: : Supportive nursing, nutritional and physical activity with a han
 Link: https://clinicaltrials.gov/study/NCT05579678
 
 SUMMARY: Recovery after a stem cell transplant from a donor can be long and difficult. This study tests APOLLO, a personalized rehabilitation program with nursing, nutrition and physical activity support through an app.
-
-## NCT05580614
-Pairing tVNS and Exposure and Response Prevention to Improve Symptoms of OCD
-
-Intervention: : Sham — MRI (Magnetic Resonance Imaging) paired ERP/Sham YBOCs(Yale-Brown Obsessive Compulsive Scale) (4,8,12) OCI-R (every other session). YBOCs and OCI-R will also be administered at intake and 4 weeks post treatment.
-: tVNS — MRI (Magnetic Resonance Imaging) paired ERP/tVNS YBOC's (Yale-Brown Obsessive Compulsive Scale) (4, 8, 12) OCI-R (every other session). YBOCs and OCI-R will also be administered at intake and 4 weeks post treatment.
-Link: https://clinicaltrials.gov/study/NCT05580614
-
-SUMMARY: Obsessive compulsive disorder is often treated with exposure and response prevention therapy. This study tests pairing this therapy with transcutaneous vagus nerve stimulation, compared with sham.
 
 ## NCT05581030
 A Single-Arm, Open-Label Phase 1b Study of Hyper-CVAD + Calaspargase Pegol in Young Adults With Newly Diagnosed Acute Lymphoblastic Leukemia
@@ -6560,14 +6543,6 @@ Intervention: : Natural killer cell — Natural killer cells isolated from HLA-h
 Link: https://clinicaltrials.gov/study/NCT05754684
 
 SUMMARY: Neuroblastoma that comes back or stops responding in children is hard to treat. This study tests a quadruple immunotherapy approach that includes natural killer cells.
-
-## NCT05754710
-KOREAN POST-MARKETING SURVEILLANCE FOR XELJANZ® 5 MG FILM-COATED TABLETS AND XELJANZ® 1 MG/ML ORAL SOLUTION IN PATIENTS WITH ACTIVE PJIA AND JPSA
-
-Intervention: : Xeljanz — Juvenile Idiopathic Arthritis (JIA) patients with Xeljanz
-Link: https://clinicaltrials.gov/study/NCT05754710
-
-SUMMARY:
 
 ## NCT05754853
 An Open-label, Randomized, Multi-center, Phase III Clinical Study of MRG002 Versus Investigator's Choice of Chemotherapy in the Treatment of Patients With HER2-positive Unresectable Locally Advanced or Metastatic Urothelial Cancer Previously Treated With Platinum-based Chemotherapy and PD-1/PD-L1 Inhibitors
@@ -12011,14 +11986,6 @@ Link: https://clinicaltrials.gov/study/NCT05931406
 
 SUMMARY:
 
-## NCT05931497
-A Pilot Study of Whole Body Hyperthermia for Long Covid or Post-Acute Sequelae of COVID-19 (PASC)
-
-Intervention: : whole body hyperthermia — heat will be applied to the participant through a sauna to increase core body temperature
-Link: https://clinicaltrials.gov/study/NCT05931497
-
-SUMMARY: Long COVID can cause lasting fatigue and other symptoms. This pilot study tests whole body hyperthermia, where heat is applied to raise body temperature.
-
 ## NCT05931536
 The Relationship Between Diet, Cognition, Stress, and the Gut Microbiota: A Cross-sectional Study in Healthy Adults
 
@@ -16087,15 +16054,6 @@ Intervention: : treatment with or without colistin — For patients in this trea
 Link: https://clinicaltrials.gov/study/NCT06051513
 
 SUMMARY: Infections with carbapenem resistant Enterobacteriaceae are hard to treat. This study tests colistimethate sodium injection.
-
-## NCT06051890
-Assessing Optimal Extended-Release Buprenorphine (XRB) Initiation Points in Jail
-
-Intervention: : Extended-Release Buprenorphine (XRB) — XRB (Sublocade) will be delivered as a pre-filled 2cc subcutaneous monthly injection, using a 300mg starting dose in most cases (100mg starting doses are available per the study team's clinical judgement). XRB consists of a depot injectable formulation in polymeric solution to the abdomen and releases buprenorphine over 28-days (4-weeks) by diffusion as the polymer biodegrades. Prior to an initial injection, the participant must be stable for several days or longer on sublingual buprenorphine (SLB) at doses of 8mg/day or higher. Participants will receive at least one XRB monthly injection prior to release, which investigators anticipate to usually be the 300mg dose. Some participants will be recruited earlier during the incarceration (or experience delayed release dates and then longer than anticipated incarcerations); XRB will be continued monthly from the time of induction to the day of release.
-: Sublingual Buprenorphine (SLB) — Maintenance of existing SLB prescription (treatment as usual).
-Link: https://clinicaltrials.gov/study/NCT06051890
-
-SUMMARY: People in jail with opioid use disorder are at high risk after release. This study tests the best timing to start extended release buprenorphine (Sublocade).
 
 ## NCT06052332
 Efficacy and Safety of Conventional Neoadjuvant Therapy Versus Total Neoadjuvant Therapy in Older Patients With Locally Advanced Rectal Cancer: a Multicentre, Open-label, Randomised Pragmatic Clinical Trial

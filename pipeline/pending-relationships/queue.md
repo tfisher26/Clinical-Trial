@@ -103524,3 +103524,176 @@ Exclusion Criteria
 
 RELATIONSHIP:
 
+## NCT04978727
+A Pilot Study of Safety, Tolerability, and Immunological Effects of SurVaxM in Pediatric Patients With Progressive or Relapsed Medulloblastoma, High Grade Glioma, Ependymoma and Newly Diagnosed Diffuse Intrinsic Pontine Glioma
+Conditions: cancer/astrocytoma, cancer/ependymoma, cancer/glioblastoma, cancer/medulloblastoma, cancer/oligodendroglioma, neurological/diffuse_intrinsic_pontine_glioma
+
+Inclusion criteria:
+"""
+* • DIAGNOSIS: Patients with a histologically confirmed diagnosis of a primary CNS tumor that is progressive or recurrent defined as radiographic progression in any known residual tumor, or the appearance of one or more new lesions, leptomeningeal disease, or new cerebrospinal fluid (CSF) positivity for malignant cells, after most recent treatment modality. At the time of diagnosis or recurrence, all tumors must have histologic verification of one of the following:
+
+  * Medulloblastoma
+  * Glioblastoma multiforme (GBM)
+  * Anaplastic astrocytoma
+  * High-grade astrocytoma, NOS
+  * Anaplastic oligodendroglioma
+  * Anaplastic ependymoma (WHO Grade III)
+  * Ependymoma (WHO Grade II)
+
+Diffuse Intrinsic Pontine Gliomas (DIPG) Patients:
+
+Patients with newly diagnosed diffuse intrinsic pontine gliomas (DIPGs), defined as tumors with a pontine epicenter and diffuse involvement of 2/3 or more of the pons, are eligible without histologic confirmation and will proceed directly to enrollment without screening.
+
+• TUMOR TISSUE- Patients must provide tumor tissue (3 unstained slides or paraffin block) to determine their survivin expression status.
+
+Demonstration of survivin expression of at least 1% on tumor tissue by immunohistochemistry is required and must be performed in the central laboratory at Roswell Park Comprehensive Cancer Center (RPCCC) to confirm eligibility.
+
+* Age: Patients must be ≥ 1 year of age and ≤ 21 years of age at the time of screening.
+* Screening Consent: Participant is willing to sign a screening consent. The screening consent is to be obtained according to institutional guidelines. Assent, when appropriate, will be obtained according to institutional guidelines.
+* Potential Eligibility for Study Enrollment: Patients screened for this trial should be expected to meet the criteria for treatment.
+
+Enrollment Inclusion Criteria:
+
+• DIAGNOSIS: Patients with a histologically confirmed diagnosis of a primary CNS tumor that is progressive or recurrent defined as progression in any known residual tumor, or the appearance of one or more new lesions, or new cerebrospinal fluid (CSF) positivity for malignant cells, after having failed standard therapy. At the time of diagnosis or recurrence, all tumors must have histologic verification of one of the following:
+
+* Medulloblastoma
+* Glioblastoma multiforme (GBM)
+* Anaplastic astrocytoma
+* High-grade astrocytoma, NOS
+* Anaplastic oligodendroglioma
+* Anaplastic ependymoma (WHO Grade III)
+* Ependymoma (WHO Grade II)
+
+Patients with newly diagnosed DIPG: Patients with diffuse intrinsic pontine gliomas (DIPGs) will be eligible 14 to 56 days post-completion of radiation therapy if they do not have any evidence of progression.
+
+* Patients with a typical DIPG on MR imaging, defined as a tumor with a pontine epicenter and diffuse involvement of more than 2/3 of the pons, are eligible without histologic confirmation.
+
+  o Note: Patients with typical DIPG who undergo a biopsy are eligible provided the tumor is a diffuse glioma WHO Grade II-IV with OR without H3 K27M mutation.
+* Patients with pontine lesions that do not meet these MR imaging criteria will be eligible if there is histologic confirmation of diffuse glioma WHO Grade II-IV with H3 K27M mutation.
+* DEMONSTRATION OF SURVIVIN EXPRESSION: For patients with relapsed or progressive medulloblastoma, HGG, or ependymoma, demonstration of survivin expression as assessed after screening consent/assent of at least 1% on tumor tissue by immunohistochemistry (ICH) is required and must have been performed in the central laboratory at Roswell Park Comprehensive Cancer Center (RPCCC) to confirm eligibility. For patients with DIPG, diagnostic biopsy for histologic confirmation is not required, and tumor expression of survivin is therefore not required for eligibility for these patients.
+* DISEASE STATUS: Patients must have evaluable disease within the central nervous system to be eligible. Evaluable disease includes either measurable OR non-measurable disease, defined as follows:
+
+Measurable disease: bi-dimensionally measurable disease; at least one lesion that can be accurately measured in at least two dimensions (per protocol guidelines).
+
+* Non-measurable disease:
+
+  * A lesion that does not meet the criteria for measurable disease as defined above; or
+  * diffuse leptomeningeal disease, or
+  * no tumor visible on imaging but presence of malignant cells on cytologic examination of CSF.
+* AGE:
+
+  * Stratum 1 (progressive or recurrent) patients must be ≥10 years of age and ≤ 21 years of age at the time of study screening.
+  * Stratum 2 (progressive or recurrent) patients must be ≥1 year of age and \< 10 years of age at the time of study screening.
+  * Stratum 3 (newly diagnosed DIPG) patients must be ≥1 year of age and ≤ 21 years of age at the time of study enrollment
+* PRIOR THERAPY
+
+  * Patients with recurrent or progressive disease must have received prior chemotherapy, and/or radiotherapy.
+  * Patients must have recovered from the acute treatment related toxicities (defined as ≤ Grade 1 if not defined in eligibility criteria; excludes alopecia) prior to entering this study.
+  * Patients with newly diagnosed DIPG must have completed radiation therapy
+* CHEMOTHERAPY - Patients must have received their last dose of known myelosuppressive anticancer therapy at least 21 days prior to enrollment or at least 42 days if nitrosourea. Patients must have received their last dose of non-myelosuppressive chemotherapy at least 7 days prior to enrollment.
+* INVESTIGATIONAL/ BIOLOGIC AGENT:
+
+  * Biologic or investigational agent (anti-neoplastic): Patient must have recovered from any acute toxicity potentially related to the agent and received their last dose of the investigational or biologic agent ≥ 7 days prior to study enrollment.
+  * For agents that have known adverse events occurring beyond 7 days after administration, this period must be extended beyond the time during which adverse events are known to occur.
+  * Monoclonal antibody treatment and agents with known prolonged half-lives: Patient must have recovered from any acute toxicity potentially related to the agent and received their last dose of the agent ≥ 28 days prior to study enrollment.
+* RADIATION:
+
+  * Recurrent or Progressive CNS tumor patients must have had their last fraction of:
+  * Craniospinal irradiation, whole brain radiation, total body irradiation or radiation to spine ≥ 6 weeks (42 days) prior to enrollment.
+  * Focal irradiation ≥ 14 days prior to enrollment.
+  * DIPG Patients: Patients with DIPG are eligible after completion of initial radiotherapy (with or without concurrent treatment) and in the absence of progressive disease on post-radiation imaging.
+  * Patients must have completed radiation therapy at least 14 days prior to enrollment but no longer than 56 days and cannot have received any other tumor-directed treatment except the following: Patient may have received temozolomide or other non-investigational agents during irradiation at the treating physician's discretion. If the patient has received such agents concurrently with radiation, then patient must have recovered from the acute treatment related toxicities (defined as \< Grade 1) prior to enrollment.
+* CELLULAR THERAPY: Patient must be:
+* ≥ 6 months since allogeneic stem cell transplant prior to enrollment with no evidence of active graft vs. host disease.
+* ≥ 3 months since autologous stem cell transplant prior to enrollment.
+* \> 42 days since completion of any other type of adoptive cellular therapy prior to enrollment.
+* CRANIAL SURGERY: Patients who have had recent cranial surgery (VP shunt, ETV, tumor resection) are eligible for inclusion, but the vaccine may not be administered prior to post-operative Day 14.
+* NEUROLOGIC STATUS: Patients with neurological deficits should have deficits that are stable for a minimum of 1 week prior to enrollment. A baseline neurological exam should clearly document the neurological status of the patient at the time of enrollment on the study.
+* PERFORMANCE STATUS - Karnofsky Performance Scale (KPS for \> 16 years of age) or Lansky Performance Score (LPS for ≤ 16 years of age) assessed within 2 weeks prior to enrollment must be ≥ 60%. Patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score.
+* ORGAN FUNCTION - Patients must have adequate organ and marrow function as defined below:
+
+  * Absolute neutrophil count ≥ 0.75 x 109 cells/L
+  * Platelets ≥ 100 x 109 cells/L (unsupported, defined as no platelet transfusion within 7 days prior to enrollment)
+  * Hemoglobin ≥ 8 g/dl (may receive transfusions)
+  * PT/INR, PTT ≤ 1.5 x ULN
+  * Total bilirubin ≤ 1.5 times institutional upper limit of normal (ULN)
+  * ALT(SGPT) ≤ 3 x institutional upper limit of normal
+  * Albumin ≥ 2 g/dl
+  * Blood creatinine based on age/gender as noted below. Patients that do not meet the criteria below but have a 24-hour Creatinine Clearance or GFR (radioisotope or iothalamate) ≥ 70 ml/min/1.73 m2 are eligible. Maximum Serum Creatinine for age/gender:
+  * Age 1 to \< 2 years: 0.6 mg/dL (male); 0.6 mg/dL (female)
+  * Age 2 to \< 6 years: 0.8 mg/dL (male); 0.8 mg/dL (female)
+  * Age 6 to \< 10 years: 1 mg/dL (male); 1 mg/dL (female)
+  * Age 10 to \< 13 years: 1.2 mg/dL (male); 1.2 mg/dL (female)
+  * Age 13 to \< 16 years: 1.5 mg/dL (male); 1.4 mg/dL (female)
+  * Age ≥ 16 years: 1.7 mg/dL (male); 1.4 mg/dL (female)
+* INFECTIOUS DISEASES
+
+  * Human Immunodeficiency Virus (HIV) Infected Individuals: Patients who are known to be Human immunodeficiency virus (HIV)-infected must be on effective anti-retroviral therapy with undetectable viral load for 6 months prior to study enrollment.
+  * Hepatitis B Chronically Infected Individuals: For patients with known evidence of chronic hepatitis B virus (HBV) infection, the HBV viral load must be undetectable on suppressive therapy, if indicated.
+  * Hepatitis C (HCV) Infected Individuals: Patients with a known history of hepatitis C virus (HCV) infection must have been treated and cured. Patients with known HCV infection who are currently on treatment are eligible if they have an undetectable HCV viral load.
+* CORTICOSTEROIDS: Patients who are receiving dexamethasone must be on a stable or decreasing dose for at least 1 week prior to enrollment. A maximum dose of 0.1 mg/kg/day (and maximum total daily dose 4 mg) of dexamethasone (or equivalent) is permitted at study entry. Effort should be made to reduce to lowest tolerated steroid dose.
+
+Patients must be willing to use brief courses (at least 72 hours) of steroids as directed for potential inflammatory side effects of the therapy if recommended by their treating physician.
+
+* GROWTH FACTORS - Patients must be off all colony-forming growth factor(s) for at least 14 days prior to enrollment (i.e. filgrastim, sargramostim or erythropoietin). Two (2) weeks must have elapsed if the patient received a long-acting formulation.
+* PREGNANCY - Pregnant women or nursing mothers are excluded from this study because SurVaxM is an agent with the potential for teratogenic effects. Female patients of childbearing potential must have a negative serum or urine pregnancy test. If the urine test is positive or cannot be confirmed as negative, a serum pregnancy test will be required.
+* PREGNANCY PREVENTION - Patients of childbearing or child fathering potential must be willing to use a medically acceptable form of birth control, which includes abstinence, while being treated on this study.
+* INFORMED CONSENT - The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document according to institutional guidelines. Assent, when appropriate, will be obtained according to institutional guidelines.
+"""
+
+RELATIONSHIP:
+
+## NCT05264974
+Novel RNA-lipid Particle (RNA-LP) Vaccine for Anti-PD-1 Antibody Therapy Sensitization
+Conditions: cancer/cutaneous_malignant_melanoma, cancer/sarcoma
+
+Inclusion criteria:
+"""
+* Adults ≥ 18 years old
+* ECOG performance ≤ 2
+* Lab values within the specified ranges:
+
+  * Hemoglobin ≥ 8G/DL
+  * Platelets ≥ 100 thou/cumm
+  * Absolute Neutrophil Count (ANC) ≥ 1000 thou/cumm
+  * Serum total bilirubin ≤ 1.5 x upper limit of normal (ULN)
+  * AST and ALT ≤ 2.5 x ULN; If confirmed liver metastases: AST and ALT ≤ 5 x ULN
+  * Creatinine clearance (CrCl) ≥ 15 ml/min (based on modified Cockcroft and Gault formula)
+* Must have measurable disease that is amenable to surgical sampling for RNA extraction, amplification, and loading of lipid particles
+* Subjects must not have more than one active malignancy at the time of enrollment (subjects with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen \[as determined by the treating physician and approved by the PI\] may be included)
+* Written informed consent obtained from the subject.
+* Participants of childbearing potential must have a negative serum pregnancy test at screening
+* Participants of childbearing potential must be using an adequate method of contraception to avoid pregnancy throughout the study and for at least four months after the last dose of study treatment to minimize the risk of pregnancy. Prior to study enrollment, participants of childbearing potential must be advised of the importance of avoiding pregnancy during trial participation and the potential risk factors for an unintentional pregnancy.
+* Subjects with partners of child-bearing potential must agree to use physician-approved contraceptive methods (e.g., abstinence, condoms, vasectomy) throughout the study and should avoid conceiving children for four months following the last dose of study treatment and must agree to not donate sperm during the study treatment period or for four months following the last dose of study treatment.
+
+Additional eligibility criteria for subjects with melanoma:
+
+* Patients with stage II, stage III, or resected stage IV melanoma who received anti-PD-1-based therapy in the adjuvant or neoadjuvant setting (either monotherapy or combination therapy) and experienced progressive disease (PD) per RECIST 1.1 during treatment or within 6 months of completing the planned course of therapy. This includes patients who:
+
+  * Were planned to receive approximately 1 year of anti-PD-1-based therapy in the adjuvant setting but discontinued early due to toxicity and relapsed within 6 months of discontinuation;
+  * Received neoadjuvant anti-PD-1-based therapy (with or without subsequent surgery), including patients planned to complete approximately 1 year of total perioperative anti-PD-1-based therapy (neoadjuvant ± adjuvant), and experienced PD during therapy or within 6 months of completion or discontinuation;
+  * Received short-course neoadjuvant anti-PD-1-based therapy (including combination regimens), underwent surgery, were subsequently managed with surveillance (including those achieving pathologic complete response), and experienced relapse within 6 months of completion of neoadjuvant therapy.
+* Patients with unresectable or widespread metastatic (stage IV) melanoma who experienced PD per treating physician while receiving anti-PD-1-based therapy (either monotherapy or combination therapy) in any line of treatment.
+* Patients with unresectable or widespread metastatic (stage IV) melanoma who:
+
+  * Completed a planned course of anti-PD-1-based therapy (monotherapy or combination), including planned treatment durations of approximately 1 year or 2 years, and experienced PD within 6 months of completion; or
+  * Were planned to receive anti-PD-1-based therapy (for either 1 year or 2 years) but discontinued early due to toxicity and experienced PD within 6 months of discontinuation.
+* Both cutaneous and non-cutaneous melanoma subtypes (including uveal, mucosal, and acral lentiginous) are eligible.
+* Patients must:
+
+  * Have no contraindication to continued immune checkpoint therapy;
+  * Not have rapidly progressive disease requiring urgent alternative therapy; and
+  * Have no other viable approved salvage treatment options available, or decline currently approved salvage therapies.
+
+Additional eligibility criteria for subjects with soft tissue sarcoma:
+
+* Evidence of spindle cell, pleomorphic, round cell, or epithelioid morphology on pathology suggestive of sarcoma as determined by a sarcoma pathologist
+* Evidence of progression or resistance to therapy as defined by the treating physician.
+* Must have measurable disease per RECIST 1.1
+* Original tumor site from soft tissue location i.e. lipomatous tissue, musculature, skin
+* Evidence of unresectable stage II disease; stage III or stage IV disease
+* Subjects with prior exposure to an immune checkpoint inhibitor (ICI) are eligible for enrollment; however, prior ICI therapy is not required unless receipt of an ICI constitutes part of the FDA-approved standard of care for their disease.
+"""
+
+RELATIONSHIP:
+

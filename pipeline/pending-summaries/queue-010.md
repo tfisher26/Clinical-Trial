@@ -103,15 +103,6 @@ Link: https://clinicaltrials.gov/study/NCT05127278
 SUMMARY:
 
 
-## NCT07231341
-Insulin Resistance in Gestational Diabetes Mellitus
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07231341
-
-SUMMARY:
-
-
 ## NCT06691230
 PeRfusiOn Post tHrombEcTomy (PROPHET) A Prospective Observational Cohort Study
 

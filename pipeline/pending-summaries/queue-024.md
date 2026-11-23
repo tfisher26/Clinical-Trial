@@ -1053,15 +1053,6 @@ Link: https://clinicaltrials.gov/study/NCT07120464
 SUMMARY:
 
 
-## NCT06547775
-A Randomized, Double-blind and Placebo-controlled Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of KN069 in Chinese Male Participants With Obesity or Overweight
-
-Intervention: : KN069 — Solution for SC injection
-Link: https://clinicaltrials.gov/study/NCT06547775
-
-SUMMARY:
-
-
 ## NCT07036640
 The Impact of Acute Exercise in the Heat on Breast Milk Production and Composition in Lactating Women
 
