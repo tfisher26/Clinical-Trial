@@ -762,25 +762,6 @@ Link: https://clinicaltrials.gov/study/NCT07475949
 
 SUMMARY:
 
-## NCT07496632
-Efficacy of Scalp Block on Intraoperative Hemodynamic Responses and Postoperative Analgesia in Patients Undergoing Craniotomy
-
-Intervention: : Surgical site infiltration with plain bupivacaine — Participants receiving this intervention will undergo local anesthetic infiltration at the planned surgical sites in addition to standard general anesthesia for elective supratentorial craniotomy.
-
-Drug: Bupivacaine 0.5% plain solution
-
-Dosage: 10-15 ml along the incision line plus 5 ml at each pin insertion site
-
-Dosage Form: Injectable solution
-
-Route: Subcutaneous and deep infiltration into the scalp
-
-Timing: Single administration immediately after induction of general anesthesia, prior to surgical incision
-: Scalp block with plain bupivacaine — Participants receiving this intervention will undergo ultrasound-guided regional nerve blockade of the scalp in addition to standard general anesthesia for elective supratentorial craniotomy. The procedure targets the supratrochlear, supraorbital, auriculotemporal, postauricular branches of the greater auricular nerve, and the greater, lesser, and third occipital nerves.
-Link: https://clinicaltrials.gov/study/NCT07496632
-
-SUMMARY:
-
 ## NCT07509216
 MBT-EVOLVE: Mentalization-Based Treatment: Exploring Variability in Outcomes, Long-term Value and Experiences: A 10+ Year Follow-up of Two Types of MBT for BPD - Quantitative and Qualitative Perspectives on Long-term Functioning
 

@@ -800,14 +800,6 @@ Link: https://clinicaltrials.gov/study/NCT07488819
 
 SUMMARY:
 
-## NCT07489092
-Feasibility of a Digital Rehabilitation Platform in Patients After ICU Discharge
-
-Intervention: : Digital Rehabilitation Group — The Tuntun Rehabilitation Assistant is a smartphone-based digital rehabilitation platform designed for patients discharged from the intensive care unit. Rehabilitation sessions are conducted once daily, with each session lasting up to 30 minutes. During the initial five sessions, a researcher assists participants in performing the intervention in the hospital room. Thereafter, participants independently perform the prescribed exercises using the digital platform. The intervention is continued during hospitalization and, when applicable, after discharge until outpatient follow-up.
-Link: https://clinicaltrials.gov/study/NCT07489092
-
-SUMMARY:
-
 ## NCT07489105
 Engaging Stakeholders and Patients to Evaluate the Feasibility of Yoga to Improve Cognitive Function in Rural Heart Failure Patients in the Deep South
 
@@ -8376,14 +8368,6 @@ The Efficacy of Early Motor-Cognitive Integrative Training on Cognitive and Moto
 Intervention: : early motor-cognitive integrated training (e-MCIT) — Early motor-cognitive integrative training (e-MCIT) is an approach where motor and cognitive training are conducted simultaneously (illustrated in Table 1). The intervention consists of 30-minute sessions, conducted 4-5 times per week, until discharging from the hospital. Both motor and cognitive training have five stages each, and their progression is independent, meaning that during training, a participant might be in the fourth stage of motor training and the second stage of cognitive training. According to hospital's policy, occupational therapy and speech therapy will be provided in schedule if needed.
 : Early mobilization — It progresses through various stages, including raising the head of the bed, sitting up, standing, transferring to a wheelchair, marching in place, and walking. Additionally, the training includes general rehabilitation activities such as range of motion exercises, bed exercises, strengthening exercise, balance training and motor facilitation. To regulate appropriate training, range of motion exercises begin with passive range of motion (PROM) exercises and progress to assisted-active range of motion (AAROM) and active range of motion (AROM) exercises gradually according to the participant's ability to follow instructions. These exercises include all upper and lower extremities. Bed exercises consist of mat exercises, which focus on the lower extremities and core muscles, and bed mobility training.
 Link: https://clinicaltrials.gov/study/NCT07588997
-
-SUMMARY:
-
-## NCT07589231
-Effects of Carbon Fiber Insoles on CMJ and Sprint Performance
-
-Intervention: : VKTRY Insoles — Carbon fiber insoles (VKTRY)
-Link: https://clinicaltrials.gov/study/NCT07589231
 
 SUMMARY:
 

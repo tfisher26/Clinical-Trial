@@ -1381,16 +1381,6 @@ Link: https://clinicaltrials.gov/study/NCT06377592
 SUMMARY:
 
 
-## NCT06429735
-PRIME: An Early Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for the Control of External Devices
-
-Intervention: : N1 Implant — The N1 Implant is a type of implantable brain-computer interface
-: R1 Robot — The R1 Robot is a robotic electrode thread inserter that implants the N1 Implant.
-Link: https://clinicaltrials.gov/study/NCT06429735
-
-SUMMARY:
-
-
 ## NCT04946773
 Deep Liver Phenotyping and Immunology Study
 

@@ -9632,15 +9632,6 @@ Link: https://clinicaltrials.gov/study/NCT06642597
 
 SUMMARY: People with kidney failure starting peritoneal dialysis usually begin with a full dialysis schedule. This study compares starting with a smaller, gradually increasing dose with the standard approach to see which works better.
 
-## NCT06642675
-Effectiveness of Navigated Transcranial Magnetic Stimulation (nTMS) of Left Supramarginal Gyrus for Negative Symptoms : A Double-blind, Randomized Controlled Trial
-
-Intervention: : Intermittent theta burst stimulation(iTBS) — By using the TMS Navigation System, the iTBS will be targeted at the left Supramarginal Gyrus.iTBS will be performed using Magstim Rapid² stimulator, parameters are set to triplet 50Hz bursts, repeat at 5Hz, 2s seconds on and 8 seconds off, 1800 pulses per session, intensity of 90% resting motor threshold(RMT), total duration of 10 minutes.
-: Sham stimulation — Patients in sham group would receive the same intervention procedure as the active ITBS group, but the coil will be replaced with sham coil, which provides the sensation of TBS without enough magnetic energy to reach the cortex.
-Link: https://clinicaltrials.gov/study/NCT06642675
-
-SUMMARY: Schizophrenia often causes negative symptoms like low motivation that medicines barely help. This study tests magnetic stimulation of a brain area called the left supramarginal gyrus, guided by navigation, against a sham treatment.
-
 ## NCT06642831
 Polycystic Ovarian Syndrome (PCOS) in Human Adolescent and Young Adult Females - Biomarker Evaluation Study (PHOEBE)
 
@@ -11428,19 +11419,6 @@ Intervention: : video decision aid — video decision aid for advance care plann
 Link: https://clinicaltrials.gov/study/NCT06671353
 
 SUMMARY: Frail older adults often have not planned for their future medical care. This study tests a video decision aid for advance care planning to see whether it helps patients make and record their care wishes.
-
-## NCT06671587
-A 20-week, Multicenter, Prospective, Parallel-group Treatment, Open-label, 2-Arm, Phase 4, Randomized Study to Evaluate the Efficacy of iGlarLixi Versus Gla-100 on Glycemic Time in Range (TIR) From Continuous Glucose Monitoring (CGM) in Chinese Insulin Naïve Patients With Type 2 Diabetes (T2D) Inadequately Controlled With Oral Antidiabetics
-
-Intervention: : iGlarLixi (insulin glargine/lixisenatide) — iGlarLixi will be supplied as a sterile aqueous solution in a pen-injector.
-
-There will be 2 pen-injectors with different insulin glargine/lixisenatide fixed ratios which allow insulin glargine titration from 5 U/day to 40 U/day while limiting lixisenatide dose to a maximum of 20 μg/day:
-
-\- iGlarLixi must not be mixed with other insulins nor diluted.
-: Gla-100 (insulin glargine) — Gla-100 will be supplied as a 3 mL sterile aqueous solution for SC injection in a pre-filled disposable Gla-100 SoloStar® pen containing 300 U insulin glargine (100 U/mL). Doses could be set in the range of 5 to 80 U in increments of 1 unit.
-Link: https://clinicaltrials.gov/study/NCT06671587
-
-SUMMARY: People with type 2 diabetes not controlled with pills may need to start insulin. This study compares iGlarLixi, a combination of insulin and lixisenatide, with insulin glargine alone to see which keeps blood sugar in range longer.
 
 ## NCT06671613
 Evaluating the Impact of Intermittent Fasting in Combination With Checkpoint Inhibitors in Patients With Non-small Cell Lung Cancer

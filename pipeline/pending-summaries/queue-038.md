@@ -1396,15 +1396,6 @@ Link: https://clinicaltrials.gov/study/NCT07033741
 SUMMARY:
 
 
-## NCT07216521
-Optimizing Preoperative Surgical Decision-making for Intraductal Papillary Mucinous Neoplasms: The Role of Intent of Surgery
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07216521
-
-SUMMARY:
-
-
 ## NCT07251842
 Understanding the Metabolic Availability of Methionine in High Calcium Tempeh (TempeCalTM) Chips Among Reproductive-Age Women by Using the Stable Isotope Technique
 

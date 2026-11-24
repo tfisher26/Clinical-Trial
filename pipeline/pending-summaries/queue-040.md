@@ -1262,17 +1262,6 @@ Link: https://clinicaltrials.gov/study/NCT05992298
 SUMMARY:
 
 
-## NCT07503873
-A Phase 2, Multicenter, Study to Evaluate the Pharmacokinetics and Safety of Subcutaneous Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector Device Versus Syringe in Patients With Multiple Sclerosis
-
-Intervention: : Ublituximab — Administered as an SC injection by a syringe.
-: Ublituximab — Administered as an SC injection by prefilled pen.
-: Prefilled pen — Ublituximab will be administered as an SC injection by prefilled pen.
-Link: https://clinicaltrials.gov/study/NCT07503873
-
-SUMMARY:
-
-
 ## NCT05649514
 Objective Sleep Impairment in APOEε4/ε4 Subjects at Risk of Developing Alzheimer's Disease: Risk Factor for Cognitive Decline?
 
@@ -2865,15 +2854,6 @@ The Oxford Risk Factors And Non-Invasive Imaging Study
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05169333
-
-SUMMARY:
-
-
-## NCT06924008
-Development of an Intervention Aimed at Facilitating the Use of Eye Contact in Adults With Autism: A Qualitative Study With Methodological Triangulation
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06924008
 
 SUMMARY:
 

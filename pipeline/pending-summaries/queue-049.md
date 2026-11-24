@@ -3205,16 +3205,6 @@ Link: https://clinicaltrials.gov/study/NCT07276100
 
 SUMMARY:
 
-## NCT07276191
-UL Smile - Mobile Application for Oral Health Promotion: Development and Effectiveness Evaluation in Adolescents Living in Portugal: A Randomized Controlled Field Trial
-
-Intervention: : Oral Health Behavioral change — The app includes goal setting (e.g., brushing twice daily, using floss or interdental brushes), self-monitoring tools (e.g., daily brushing checklists), and individualized feedback provided by oral health professionals through a private section of the app. It also incorporates modeling via instructional videos, direct suggestions for healthy habits, reinforcement through badges and motivational messages upon task completion, and prompts to reinforce key messages and behaviours. These components are based on the Behaviour Change Wheel (BCW) framework and are specifically adapted to adolescent users. Although the control group does not receive a digital behavioural intervention, the oral health education and motivational strategies provided during the hygiene consultation are also informed by the BCW framework, ensuring a consistent theoretical basis across both study arms.
-: MHealth — Use of a mobile application (UL Smile) to deliver structured oral health content and behavioural strategies directly to adolescents via their smartphones. The app provides personalized and interactive tools, including guided brushing animations, educational videos, and digital reminders. It is designed to be used independently by participants throughout the 3-month study period, integrating oral health promotion into their daily routines in a familiar and accessible format. Participants in the control group do not have access to the mobile application and will receive only the standard oral hygiene consultation.
-: Oral Health education — Delivery of evidence-based information on oral hygiene practices, prevention of dental caries and gum disease, use of oral hygiene products, and the impact of diet on oral health. The educational content in the experimental group is delivered through short, age-appropriate videos and visual resources developed in collaboration with oral health and communication experts. Messages are designed to promote awareness, self-efficacy, and long-term habit formation. In the control group, oral health education is provided through a standard hygiene consultation using traditional methods, such as verbal explanations and demonstration with oral cavity models, without the use of the mobile application.
-Link: https://clinicaltrials.gov/study/NCT07276191
-
-SUMMARY:
-
 ## NCT07276243
 Comparação da eficácia clínica e estética Entre o Tratamento de Varizes Com Espuma de Polidocanol Associada ou não ao Laser transdérmico: Ensaio clínico Randomizado
 
@@ -4892,15 +4882,6 @@ DACG VI. Beyond Survival: Addressing Gynecological and Sexual Health in Women Af
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07296237
-
-SUMMARY:
-
-## NCT07296341
-A Phase IB/II Study To Evaluate the Safety, Tolerability, and Preliminary Efficacy of HRS-4642 Combination With Other Antitumor Therapies in Patients With Solid Tumors
-
-Intervention: : HRS-4642;Adebrelimab Injection; nab-paclitaxel; gemcitabine — HRS-4642 combination with Adebrelimab Injection, nab-paclitaxel in combination with gemcitabine
-: HRS-4642;nab-paclitaxel; gemcitabine — nab-paclitaxel in combination with gemcitabine
-Link: https://clinicaltrials.gov/study/NCT07296341
 
 SUMMARY:
 
@@ -9079,20 +9060,6 @@ Link: https://clinicaltrials.gov/study/NCT07359625
 
 SUMMARY:
 
-## NCT07359638
-The Effects of a Mandibular Oral Repositioning Device on Sleep Quality, Heart Rate Variability, & SpO2
-
-Intervention: : Mandibular Oral Repositioning Appliance — The PX3™ Mandibular Oral Repositioning Appliance is designed to advance and stabilize the lower jaw, optimizing airway openness and physiological efficiency. The device functions similarly to the airway-opening maneuver used in cardiopulmonary resuscitation, slightly bringing the mandible forward to facilitate airflow. Each PX3™ appliance is custom-fitted to align and lock opposing teeth, stabilizing the jaw during sleep or high-stress activities.
-
-PX3™ designs are based on three physical principles:
-
-(i) Poiseuille's Law: Increasing airway volume increases oxygen intake. (ii) Gas Exchange Law: Optimized oxygen and carbon dioxide exchange enhances physiological function.
-
-(iii) Conservation of Energy Law: Greater oxygen availability improves mechanical efficiency.
-Link: https://clinicaltrials.gov/study/NCT07359638
-
-SUMMARY:
-
 ## NCT07359690
 Multimodal Analysis of Endomyocardial Biopsies
 
@@ -10640,14 +10607,6 @@ Intervention: : Neoadjuvant therapy combined with Trastuzumab Rezetecan and Tori
 : Neoadjuvant Chemotherapy in Combination with Toripalimab — Epirubicin (or Liposomal Doxorubicin)+Cyclophosphamide, intravenous infusion of 100 mg/m2. Epirubicin (or 35 mg/m2 liposomal doxorubicin)+600 mg/m2 cyclophosphamide, starting from the first day of the week, for a total of 12 weeks. Paclitaxel, administered intravenously at a dose of 260 mg/m2 every 3 weeks for a total of 12 weeks. During neoadjuvant chemotherapy and postoperative adjuvant therapy, use of Toripalimab: intravenous infusion of 240 mg, once every 3 weeks, combined with preoperative neoadjuvant and postoperative adjuvant therapy for a total of 1 year.
 : Neoadjuvant Chemotherapy — Epirubicin (or Liposomal Doxorubicin)+Cyclophosphamide, intravenous infusion of 100 mg/m2. Epirubicin (or 35 mg/m2 liposomal doxorubicin)+600 mg/m2 cyclophosphamide, starting from the first day of the week, for a total of 12 weeks. Paclitaxel, administered intravenously at a dose of 260 mg/m2 every 3 weeks for a total of 12 weeks.
 Link: https://clinicaltrials.gov/study/NCT07383818
-
-SUMMARY:
-
-## NCT07383896
-Chronic Obstructive Pulmonary Disease and Asthma in Workers at Navanakorn Industrial Zone, Thailand
-
-Intervention: : Pulmonary function test — Spirometry with bronchondilator test will be performed.
-Link: https://clinicaltrials.gov/study/NCT07383896
 
 SUMMARY:
 

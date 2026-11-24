@@ -2026,15 +2026,6 @@ Link: https://clinicaltrials.gov/study/NCT06520969
 SUMMARY:
 
 
-## NCT06925308
-Course of Face-to-face Interactions in Adults With Autism: An Exploratory Mixed Methods Experimental Design
-
-Intervention: : Conversation — The design consists of two parts. In the first part, the researcher will have a conversation (with a formal and informal phase, where the subject will be given the idea that only the formal part is part of the study) with an adult with ASD during which covert recordings of the subject's eye behavior will be made, and in addition skin conductance and duration/frequency of eye contact of the subject will be recorded, without the subject knowing that this is intended for the purpose of studying eye contact. In the second part, the researcher and subject will watch the covert recording of the subject's eye behavior, during which the subject's skin conductance will be recorded and details of the subject's behavior as seen by the researcher.
-Link: https://clinicaltrials.gov/study/NCT06925308
-
-SUMMARY:
-
-
 ## NCT06815952
 Enhancing Difficult Laryngoscopy Prediction: A Prospective Study on A Mixed Scoring System With Ultrasound and Traditional Metrics
 
@@ -2432,17 +2423,6 @@ Establishing a Tumor Registry for Patients With Neuroendocrine Carcinoma of the 
 Intervention: : Follow-Up — Receive follow up
 : Medical Chart Review — Review of medical records
 Link: https://clinicaltrials.gov/study/NCT04723095
-
-SUMMARY:
-
-
-## NCT05153070
-Clinical and Biological Responses to Repeated Administration of Low-dose Interleukin-2 in Patients With Type 1 Diabetes and a Residual Insulin Secretion
-
-Intervention: : Cyclosporin — • Ciclosporin: 5mg/kg, twice a day, oral, between Day 1 and Day 60
-: ILT101 — • ILT-101: 1MIU/day in a volume of 1 ml; subcutaneous injection every day during 5 consecutive days and then every week between Day 63 and Day 354.
-: Placebo — • Placebo with an identical formulation and regimen of injections i.e. Subcutaneous injection every day (5 consecutive days) then then every week between Day 63 and Day 354.
-Link: https://clinicaltrials.gov/study/NCT05153070
 
 SUMMARY:
 

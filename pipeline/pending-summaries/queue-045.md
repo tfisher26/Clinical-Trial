@@ -3641,14 +3641,6 @@ Link: https://clinicaltrials.gov/study/NCT06173362
 
 SUMMARY: Men with prostate cancer are often treated with hormone pathway drugs that can cause side effects. This study compares how well abiraterone plus prednisone and darolutamide are tolerated.
 
-## NCT06173713
-Multi-Center, Non-Controlled, Prospective Radiostereometric Analysis of Emphasys Hip Solutions
-
-Intervention: : Emphasys Hip Solutions — Emphasys Acetabular Shell, Emphasys AOX Polyethylene Liner, Articul/eze 12/14 metal head and Emphasys fem. stem
-Link: https://clinicaltrials.gov/study/NCT06173713
-
-SUMMARY:
-
 ## NCT06173778
 A Randomized Controlled Trial of Once-Weekly Semaglutide for Limiting Post-Smoking Cessation Weight Gain in Adult Smokers With Overweight/Obesity
 
@@ -4786,14 +4778,6 @@ Intervention: : urotherapy — Participants were asked to undergo a 30-min sessi
 Link: https://clinicaltrials.gov/study/NCT06201013
 
 SUMMARY: Overactive bladder with wetting in children can be hard to treat. This study tests a multimodal treat to target strategy that includes vitamin D.
-
-## NCT06201416
-A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Activity of Single Ascending Doses of SBT777101 in Subjects With Rheumatoid Arthritis
-
-Intervention: : SBT777101 — Experimental treatment
-Link: https://clinicaltrials.gov/study/NCT06201416
-
-SUMMARY:
 
 ## NCT06201611
 A 3-arm, Open-label, Stratified Randomized Controlled Trial With Blinded End-point Assessment to EValuate A Nitric oxidE Generator (Nebivolol) as a diSease Modifying mediCatioN in Diabetic Peripheral Neuropathy
@@ -7696,14 +7680,6 @@ Intervention: : Liquid Biopsy — Detects cell-free DNA (cfDNA) circulating in t
 Link: https://clinicaltrials.gov/study/NCT06268405
 
 SUMMARY:
-
-## NCT06268431
-Oxytocin Rest to Reduce Cesarean Delivery in Prolonged Labor: An Open-Label, Randomized Controlled Trial
-
-Intervention: : Oxytocin rest — 60-minute oxytocin rest
-Link: https://clinicaltrials.gov/study/NCT06268431
-
-SUMMARY: Labor that stalls often ends in cesarean delivery. This study tests a 60 minute rest from oxytocin during prolonged labor to reduce cesareans.
 
 ## NCT06268444
 Infant Sleep and Exposure to Mixture of Environmental Pollutants

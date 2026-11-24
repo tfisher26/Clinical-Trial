@@ -175,14 +175,6 @@ Link: https://clinicaltrials.gov/study/NCT05501080
 
 SUMMARY: Primary aldosteronism causes high blood pressure and can enlarge the heart. This study compares selective adrenal artery embolization with spironolactone for effects on heart remodeling.
 
-## NCT05501327
-A Randomized, Within Subject Controlled, Dose Regimen Study of SLI-F06 in Healthy Volunteers for Improvement in Scar Appearance
-
-Intervention: : SLI-F06 — Skin injection of SLI-F06 at each wound edge after closure of punch biopsy excision.
-Link: https://clinicaltrials.gov/study/NCT05501327
-
-SUMMARY:
-
 ## NCT05501379
 Comparison of the Physical Activity Assessed by an Accelerometer and the International Physical Activity Questionnaire in Oncologic Patients
 

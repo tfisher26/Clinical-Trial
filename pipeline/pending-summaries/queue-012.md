@@ -156,15 +156,6 @@ Link: https://clinicaltrials.gov/study/NCT07483853
 SUMMARY:
 
 
-## NCT05632406
-Breathing & Blood Pressure
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05632406
-
-SUMMARY:
-
-
 ## NCT05569161
 Prospective Multicentre Longitudinal Study to Evaluate the Safety and Clinical Radiological Outcomes in the First Two Years of the Ambrace Model Reverse Shoulder Arthroplasty.
 
@@ -1427,15 +1418,6 @@ Effect of Protein Dosage on Persistent Acute Renal Failure in Critically Ill Pat
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07631221
-
-SUMMARY:
-
-
-## NCT06229769
-A Monocentric, Prospective, Longitudinal and Observational Natural History Study for Patients With Angelman Syndrome in CHR Citadelle Liège : NatHis-Angelman
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06229769
 
 SUMMARY:
 

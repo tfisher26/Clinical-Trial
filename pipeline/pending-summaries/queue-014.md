@@ -160,15 +160,6 @@ Link: https://clinicaltrials.gov/study/NCT06673589
 SUMMARY:
 
 
-## NCT07165002
-A Phase 1, Multicenter, Parallel-Design, Single-Dose, Open-Label Study to Evaluate the Pharmacokinetics and Safety of LY3537031 in Participants With Normal Hepatic Function and Participants With Mild, Moderate, or Severe Hepatic Impairment
-
-Intervention: : LY3537031 — Administered SC
-Link: https://clinicaltrials.gov/study/NCT07165002
-
-SUMMARY:
-
-
 ## NCT06181812
 Prevalence of Pathogenic or Likely Pathogenic Germline Variants in Cancer Predisposition Genes Among Patients With Lung Adenocarcinoma
 

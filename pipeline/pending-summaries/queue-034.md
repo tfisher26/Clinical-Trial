@@ -40,18 +40,6 @@ Link: https://clinicaltrials.gov/study/NCT07081152
 SUMMARY:
 
 
-## NCT05961059
-Phase Ia/b Double-blind, Placebo-controlled, Dose Escalating Safety Study of Detoxified Shigella Flexneri 2a Artificial Invasin Complex (InvaplexAR-Detox) Vaccine Formulated with and Without DmLT Adjuvant Given Intramuscularly to Healthy Adults in the Netherlands and Zambia
-
-Intervention: : 2.5 μg InvaplexAR-Detox — 2.5 μg intramuscular dose of Sfl2a InvaplexAR-Detox.
-: 10 μg InvaplexAR-Detox — 10 μg intramuscular dose of Sfl2a InvaplexAR-Detox.
-: 0.1 μg of dmLT — 0.1 μg intramuscular dose of double mutant (LT R192G/L211A) enterotoxigenic Escherichia coli heat labile toxin (dmLT).
-: Placebo — Placebo vaccination with commercially available saline solution.
-Link: https://clinicaltrials.gov/study/NCT05961059
-
-SUMMARY:
-
-
 ## NCT07549724
 Clinical and Instrumental Assessment Tools for Neurogenic Dysphagia: Translation and Validation
 
@@ -3015,15 +3003,6 @@ To Study the Effects of Refractive Surgery on Optical Coherence Tomography (OCT)
 
 Intervention: : Optical coherence tomography — Posterior segment OCT (a non-contact procedure performed over one minute) is additionally performed for patients participating in this study. Proportion of change in measurements in microns will be analyzed.
 Link: https://clinicaltrials.gov/study/NCT05856786
-
-SUMMARY:
-
-
-## NCT05188287
-Identifying the Barriers and Facilitators of Participation in mHealth Research Among African Americans Using a Mixed-Methods Approach.
-
-Intervention: : HealthyCells — Smoking cessation smartphone app
-Link: https://clinicaltrials.gov/study/NCT05188287
 
 SUMMARY:
 

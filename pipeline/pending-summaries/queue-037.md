@@ -3446,15 +3446,6 @@ Link: https://clinicaltrials.gov/study/NCT06129838
 SUMMARY:
 
 
-## NCT06965790
-Randomized Controlled Study on Sex-specific, Individualized Dose Calculation of Intravenously Administered Contrast Agent in CT Examinations in Portal Venous Phase to Achieve Equivalent Contrast in Men and Women
-
-Intervention: : contrast media (Imeron 350, active ingredient Iomeprol) volume according to sex-specific blood volume — Calculation of the standardized contrast agent (Imeron 350, active ingredient Iomeprol) quantity (0.35 g iodine/kg) and calculation of the specific blood volume using the established Nadler formula for male and female. Adjustment of the contrast agent according to the ratio of the blood volumes. The amount of saved contrast agent is replaced 1:1 by NaCl.
-Link: https://clinicaltrials.gov/study/NCT06965790
-
-SUMMARY:
-
-
 ## NCT06069362
 Prediction of Response to Manual Physiotherapy Using Somatosensory Profiles in Patients With Cervicobrachial Pain
 
@@ -4337,15 +4328,6 @@ The following analyses will be conducted on the samples thus collected:
 * multigenic analysis on ccf-DNA and ccf-RNA at baseline, i.e., before the initiation of systemic treatment;
 * isolation, counting and analysis of CTCs at baseline vi
 Link: https://clinicaltrials.gov/study/NCT06863805
-
-SUMMARY:
-
-
-## NCT06503302
-The Effect of Doppler Ultrasound on Calcified Tendinitis: a Double Blind, Randomized Controlled Trial
-
-Intervention: : ultrasound Doppler function detection — Doppler function detection is an ultrasound technique that measures and visualizes blood flow within an object, such as vessels and soft tissue. It can be used to check for the inflammation status of calcifications by detecting blood flow around the calcified areas before performing an ultrasound-guided injection.
-Link: https://clinicaltrials.gov/study/NCT06503302
 
 SUMMARY:
 

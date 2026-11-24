@@ -3299,15 +3299,6 @@ Link: https://clinicaltrials.gov/study/NCT06797258
 
 SUMMARY:
 
-## NCT06797401
-A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 2 Trial Evaluating the Efficacy and Safety of RBD5044 in Patients With Mixed Dyslipidemia
-
-Intervention: : RBD5044 — RBD5044, active drug.
-: Placebo — Placebo that is identical in appearance and volume to the doses of active IMP.
-Link: https://clinicaltrials.gov/study/NCT06797401
-
-SUMMARY:
-
 ## NCT06797531
 Real-world Evidence Non-Interventional proSpective Study of kisqaLi (Ribociclib) Effectiveness and safEty in Patients With HR+/HER2- Early Breast Cancer in Saudi Arabia
 
@@ -3576,14 +3567,6 @@ Intervention: : Time-restricted eating — Participate in time-restricted eating
 : Biospecimen Collection — Undergo collection of blood and stool
 : Health coaching — Receive nutrition counseling
 Link: https://clinicaltrials.gov/study/NCT06802172
-
-SUMMARY:
-
-## NCT06802289
-Preventing Frailty in Hospital Through Mobilizing Patients: A Pilot RCT
-
-Intervention: : Mobility promotion — At the Georges-L. Dumont hospital, a patient mobilization program has been introduced on floor 4C that embeds Kinesiologists within care to visit patients daily. A team of Kinesiologists visit the patients daily to promote movement and help them mobilize to the best of their capabilities (e.g., walking, standing, or sitting on the edge of the bed). One visit daily is considered usual care. The investigators propose to continue this individualized model but incorporate at least one additional visit from the kinesiologist to test if this imporves activity and frailty compared to usual care (one daily visit).
-Link: https://clinicaltrials.gov/study/NCT06802289
 
 SUMMARY:
 
@@ -4143,14 +4126,6 @@ Feasibility and Preliminary Efficacy of a Brief Behavioral Sleep Intervention fo
 Intervention: : Optimize Sleep Primary Care (OSPC) — In addition to standard care within Temple University Primary Care (TUPC), two face-to-face zoom sessions and four brief phone follow-ups (two during active treatment and two during maintenance) that focus on using effective behavioral strategies (e.g., goal setting, self-monitoring, positive reinforcement, stimulus control, problem-solving) to enhance children's sleep by approximately one hour/night.
 : Enhanced Usual Care — In addition to standard care within Temple University Primary Care (TUPC), the provision of six education contacts regarding children's sleep needs and the benefits of getting a good night's sleep.
 Link: https://clinicaltrials.gov/study/NCT06810557
-
-SUMMARY:
-
-## NCT06810661
-Managing Frailty Through Mobilization in Males and Female Inpatients With Cardiovascular Disease
-
-Intervention: : Mobility promotion — At the Georges-L. Dumont hospital, a patient mobilization program has been introduced on floor 4C that embeds Kinesiologists within care to visit patients daily. A team of Kinesiologists visit the patients daily to promote movement and help them mobilize to the best of their capabilities (e.g., walking, standing, or sitting on the edge of the bed). The investigators propose to continue this individualized model but incorporate activity and frailty measures in males and females with cardiovascular disease.
-Link: https://clinicaltrials.gov/study/NCT06810661
 
 SUMMARY:
 
@@ -8986,17 +8961,6 @@ Propofol Level at TCI During Mannitol
 Intervention: : mannitol — 2.5 mg/kg Mannitol will be given intravenously
 : Saline — 2.5 ml/kg saline will be given as plasebo
 Link: https://clinicaltrials.gov/study/NCT06884657
-
-SUMMARY:
-
-## NCT06884852
-Ultrasound-guided Multilevel Erectorspinae Plane Block Versus Thoracic Epidural Analgesia for Prevention of Post Mastectomy Pain Syndrome for Breast Cancer Patients
-
-Intervention: : Erector spinae plane block (ESPB) — Erector spinae plane block (ESPB) using multilevel injections of bupivacaine 0.25%.
-
-We will inject 15ml at the level of T2 and 15ml at the level of T5.
-: Thoracic epidural block — Thoracic epidural block at level of T5 -T6 using 10 ml of bupivacaine 0.25% as a bolus followed by 5 ml bupivacaine 0.25% every 1-2 hours depending on the duration of surgery and the response of the patient.
-Link: https://clinicaltrials.gov/study/NCT06884852
 
 SUMMARY:
 

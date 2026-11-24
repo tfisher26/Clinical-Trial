@@ -103697,3 +103697,15 @@ Additional eligibility criteria for subjects with soft tissue sarcoma:
 
 RELATIONSHIP:
 
+## NCT02943343
+China pUlmonary Thromboembolism REgistry Study
+Conditions: cardiovascular/pulmonary_embolism, cardiovascular/venous_thromboembolism, cardiovascular/venous_thrombosis
+
+Inclusion criteria:
+"""
+* Objectively confirmed symptomatic PE or PE with DVT patients aged 18 years or above;
+* Be able to provide written or verbal informed consent to participation.
+"""
+
+RELATIONSHIP:
+

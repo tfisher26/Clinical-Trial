@@ -1992,15 +1992,6 @@ Link: https://clinicaltrials.gov/study/NCT06828991
 SUMMARY:
 
 
-## NCT05416879
-Lifestyle Behaviours of Women Newly Diagnosed With Heart Failure: A Quantitative and Qualitative Approach
-
-Intervention: : Actigraph GT3X+BT — 7 day monitoring of physical activity, sedentary behaviour and sleep using the Actigraph GT3X+BT
-Link: https://clinicaltrials.gov/study/NCT05416879
-
-SUMMARY:
-
-
 ## NCT06630949
 Using a Novel Method to Diagnose the Prevalence and Health Impact of Muscle Loss in Older Adults
 

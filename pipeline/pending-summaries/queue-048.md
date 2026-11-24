@@ -962,15 +962,6 @@ Link: https://clinicaltrials.gov/study/NCT07011420
 
 SUMMARY:
 
-## NCT07011524
-A Randomized, Double-blind, Placebo-controlled Phase II Clinical Study Evaluating the Efficacy and Safety of CM512 Injection in Subjects With Moderate-to-severe Asthma.
-
-Intervention: : CM512 injection — subcutaneous injection
-: Placebo — subcutaneous injection
-Link: https://clinicaltrials.gov/study/NCT07011524
-
-SUMMARY:
-
 ## NCT07011628
 Transition to Ambulatory Bariatric Surgery (TABS) Trial
 
@@ -3472,17 +3463,6 @@ Link: https://clinicaltrials.gov/study/NCT07050381
 
 SUMMARY:
 
-## NCT07050498
-Evaluation of the Effects of Virtual Reality on Preoperative Anxiety in Refractive Surgery
-
-Intervention: : Virtual reality — Virtual reality hypnosis software applications are Class I medical devices according to Rule 12 of Directive 93/42/EC. They allow, through a virtual reality headset and headphones, to immerse the patient in a hypnotic sound and visual environment. Several visual scenarios can be proposed, allowing the patient to virtually travel to a beach, the seabed, on an alpine walk, etc.).
-
-The HypnoVR Biofeedback virtual reality device is provided by the HypnoVR company.
-: Usual Care Group — Routine preoperative procedure (local anesthesia)
-Link: https://clinicaltrials.gov/study/NCT07050498
-
-SUMMARY:
-
 ## NCT07050628
 Long-Term Tracking of Fluid Dynamics in Cerebrospinal Fluid Shunts With a Wireless Thermal Anisotropy Measurement Device During Activities of Daily Living Including Sleep
 
@@ -4746,15 +4726,6 @@ Link: https://clinicaltrials.gov/study/NCT07065669
 
 SUMMARY:
 
-## NCT07065708
-Transperineal Ultrasound as a Biofeedback Tool for Pelvic Floor Muscle Therapy in Postpartum Patients
-
-Intervention: : Visual biofeedback using transperineal ultrasound — Transperineal ultrasound with visual biofeedback
-: Transperineal ultrasound without visual biofeedback — Transperineal ultrasound without visual biofeedback
-Link: https://clinicaltrials.gov/study/NCT07065708
-
-SUMMARY:
-
 ## NCT07065747
 Objective Grading of Intraocular Inflammation in Uveitis Using Optical Coherence Tomography
 
@@ -5787,15 +5758,6 @@ Intervention: : Efficacy of remotely monitored transcutaneous posterior tibial n
 The treatment dose is 1 day/week, 30 minutes/session, totaling 12 sessions. Treatment Pulse Frequency: 20 Hz, Treatment Pulse Width: 200us (microsecond).
 : Efficacy of remotely monitored transcutaneous posterior tibial nerve neuromodulation via a placebo device at 12 week — These are devices that have the same physical appearance, interface and feedback features, but are prepared in a way that they will not provide electrical stimulation during the treatment session. They are delivered to the Contract Research Organization (CRO) by the project manager and are randomized through the CRO and given to the researchers with a code. The duration and frequency of treatment will be the same as the treatment group.
 Link: https://clinicaltrials.gov/study/NCT07081412
-
-SUMMARY:
-
-## NCT07081503
-A Phase 1, Randomized, Blinded, Placebo-Controlled Study to Assess ADX-626 in Healthy Participants
-
-Intervention: : ADX-626 — siRNA duplex oligonucleotide
-: Placebo — Saline
-Link: https://clinicaltrials.gov/study/NCT07081503
 
 SUMMARY:
 
@@ -7706,15 +7668,6 @@ Results of Laparoscopic Appendectomy With Application of Clips Versus Ligature f
 Intervention: : Laparoscopic Appendectomy with application of clips for stump closure — in patients who will undergo Laparoscopic Appendectomy, appendicular stump will be closed by application of clips
 : Laparoscopic Appendectomy with ligature for stump closure — in patients who will undergo Laparoscopic Appendectomy, appendicular stump will be closed by ligation
 Link: https://clinicaltrials.gov/study/NCT07115303
-
-SUMMARY:
-
-## NCT07115563
-Effects of Targeted Amino Acid Supplementation for People With Parkinson's Disease on Amino Acid Profiles and Health Related Markers
-
-Intervention: : Targeted Amino Acid Supplement — Blend of the essential amino acids (Leucine \& Tryptophan), a conditionally essential amino acids (Arginine \& Taurine), and non-essential amino acids (Glutamate \& Tyrosine) designed to meet the unique nutritional needs of people with Parkinson's disease (PD).
-: Control (placebo) — The inert amino acid (alanine) will serve as an isonitrogenous control.
-Link: https://clinicaltrials.gov/study/NCT07115563
 
 SUMMARY:
 

@@ -1393,15 +1393,6 @@ Link: https://clinicaltrials.gov/study/NCT07299994
 SUMMARY:
 
 
-## NCT07164040
-Fluorescence Visualization and Image Quality Evaluation of Digital Visualization During Standard of Care Procedure in the Cerebral Vascular Area as Well as Blood Flow During Plastic and Reconstructive Surgery (PRS) (Leica GLOW800)
-
-Intervention: : The GLOW800, a non-contact, non-invasive device, allows the surgical microscope ARveo 8 and ARveo 8X to produce excitation light and resolve fluorescence emission from the fluorescent agent ICG — When activating the GLOW800 mode, the white light illumination of the Leica microscope stand is extended to InfraRed (IR), to excite the fluorophore (ICG). The technology provides ergonomic advantages as the user can maintain an upright posture while observing the surgical field. To excite the fluorophore, ICG dye is illuminated with light at its excitation wavelength band around 750 - 800nm. GLOW800 utilizes a 400w xenon illumination light source integrated as a standard component within the compatible Surgical Operating Microscope (SOM) stand. Activation of the GLOW800 mode extends the white light illumination of the SOM to the infrared (IR) spectral range using a suitable filter placed in the compatible SOM's standard filter wheel for the excitation of the ICG. Each patient enrolled in this study will undergo standard of care for the surgical procedure. No deviations to the standard of care will occur in the execution of this study.
-Link: https://clinicaltrials.gov/study/NCT07164040
-
-SUMMARY:
-
-
 ## NCT07300267
 A Phase 1, Randomized, Double-Blind, Active Comparator Controlled Study to Evaluate the Safety, Tolerability, and Immunogenicity of a Novel Pneumococcal Vaccine in Children
 
@@ -2027,16 +2018,6 @@ POPSICLE (Postoperative Pain Study in Children - a Longitudinal Evaluation)
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06354699
-
-SUMMARY:
-
-
-## NCT07438327
-AI-CARE: Artificial Intelligence for Cardiovascular Analysis and Risk Evaluation - Clinical Evaluation of Aorta Automated Imaging Measurement (Aorta AIM)
-
-Intervention: : Aorta AIM Automated Measurement — Aorta AIM is an investigational artificial intelligence software that automatically measures aortic diameters from CT imaging. The software analyzes retrospectively collected CT scans and generates standardized aortic diameter measurements at anatomically defined locations. These automated measurements will be compared to manual measurements performed by expert radiologists.
-: Expert Radiologist Manual Measurement — Manual aortic diameter measurements performed independently by two board-certified or equivalently experienced radiologists (minimum 5 years of cardiovascular imaging experience), each blinded to the other's measurements. Where the difference between the two reads does not exceed 3mm, the mean serves as the ground truth. Where the difference exceeds 3mm, a third senior reader performs independent adjudication, blinded to both primary reads. These consensus measurements serve as the reference standard for validation
-Link: https://clinicaltrials.gov/study/NCT07438327
 
 SUMMARY:
 

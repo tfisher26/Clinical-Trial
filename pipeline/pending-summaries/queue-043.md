@@ -778,17 +778,6 @@ Link: https://clinicaltrials.gov/study/NCT05573802
 
 SUMMARY: Newly diagnosed multiple myeloma in people who cannot have a stem cell transplant needs effective drug combinations. This study tests an antibody drug conjugate combined with standard myeloma drugs and another targeted drug.
 
-## NCT07050498
-Evaluation of the Effects of Virtual Reality on Preoperative Anxiety in Refractive Surgery
-
-Intervention: : Virtual reality — Virtual reality hypnosis software applications are Class I medical devices according to Rule 12 of Directive 93/42/EC. They allow, through a virtual reality headset and headphones, to immerse the patient in a hypnotic sound and visual environment. Several visual scenarios can be proposed, allowing the patient to virtually travel to a beach, the seabed, on an alpine walk, etc.).
-
-The HypnoVR Biofeedback virtual reality device is provided by the HypnoVR company.
-: Usual Care Group — Routine preoperative procedure (local anesthesia)
-Link: https://clinicaltrials.gov/study/NCT07050498
-
-SUMMARY: Many people feel anxious before eye surgery to correct their vision. This study tests virtual reality hypnosis software to see if it lowers anxiety before refractive surgery.
-
 ## NCT07371962
 "Everyone is a Hope Builder" Project Study- Therapeutic Song-writing Program
 
@@ -1569,23 +1558,6 @@ Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
 
-## NCT04547673
-To Develop and Validate a Nasoendoscopic Intelligent Diagnostic System for Nasopharyngeal Carcinoma
-
-Intervention: : rigid nasal endoscopes — The endoscope is introduced through the nasal passage to observe, in sequence, the posterior nostril, superior and posterior walls of the nasopharynx, torus tubarius, pharyngeal opening of the auditory tube, and Rosenmu¨ller recess. The imaging light mode is set to conventional WLI and subsequently switch to NBI during the procedure, and representative images are collected and preserve for further analysis. All lesions, detected by either WLI or NBI, are biopsied.
-Link: https://clinicaltrials.gov/study/NCT04547673
-
-SUMMARY:
-
-## NCT04547777
-A Phase 1 Trial of D2C7-IT in Combination With an Fc-engineered Anti-CD40 Monoclonal Antibody (2141-V11) Administered Intratumorally Via Convection-Enhanced Delivery Followed by Perilymphatic Injections of 2141-V11 and Assessment of the Tumor Monorail for Adult Patients With Recurrent Malignant Glioma
-
-Intervention: : D2C7-IT — D2C7-IT intratumoral infusion
-: 2141-V11 — 2141-11 intratumoral infusion
-Link: https://clinicaltrials.gov/study/NCT04547777
-
-SUMMARY: Recurrent malignant glioma is a brain cancer that has come back and is very hard to treat. This study tests an experimental drug infused directly into the tumor, combined with an antibody that targets CD40.
-
 ## NCT04549935
 A Randomized, Controlled, PRospective Study of the Effectiveness and Safety of the Ocular Therapeutix Dextenza (Dexamethasone Ophthalmic Insert) 0.4 mg for the treatMEnt of Post-operative Inflammation in Patients Who Plan to Undergo Refractive Lens Exchange (RLE)
 
@@ -1846,14 +1818,6 @@ Intervention: : Experimental: Baofukang Suppository 7 days — Experimental: Bao
 Link: https://clinicaltrials.gov/study/NCT04574089
 
 SUMMARY:
-
-## NCT04575883
-High Intensity Interval Training in Youth With Congenital Heart Disease: A Prospective Clinical Trial of a Novel Telemedicine Video Game-Linked Exercise Platform
-
-Intervention: : MedBIKE HIIT — Participants will complete a high intensity interval training exercise program 3 times a week for 12 weeks (36 sessions total)
-Link: https://clinicaltrials.gov/study/NCT04575883
-
-SUMMARY: Regular exercise is important for young people born with heart disease. This study tests high intensity interval training on a video game linked exercise bike, supervised through telemedicine, for youth with congenital heart disease.
 
 ## NCT04576169
 TREatment of Triangular FibrOcaRtilage ComplEx Ruptures (REINFORCER): Protocol for Randomized, Controlled, Blinded, Efficacy Trial of Triangular Fibrocartilage Complex Tears
@@ -4704,14 +4668,6 @@ The Role of Wearable Devices in Predicting and Detecting Complications and Adver
 
 Intervention: : Device: Wearable Device — A Wearable Device will be placed on the wrist of the patient \~30 days prior to the patient's scheduled treatment and for up to 5 years following treatment. The device will record activity in terms of steps, sleep quality, heart rate, etc.
 Link: https://clinicaltrials.gov/study/NCT04824066
-
-SUMMARY:
-
-## NCT04824105
-Modeling and Modulating Mechanisms of Escape, Avoidance, and Approach in the Anxiety Disorder Spectrum
-
-Intervention: : Repetitive Transcranial Magnetic Stimulation (rTMS) — A repetitive Transcranial Magnetic Stimulation (rTMS) MagVenture MagPro TMS System will be used to deliver intermittent theta burst to ventromedial prefrontal cortex, and continuous theta burst to pre-supplementary motor area.
-Link: https://clinicaltrials.gov/study/NCT04824105
 
 SUMMARY:
 
