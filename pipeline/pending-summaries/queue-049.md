@@ -1187,15 +1187,6 @@ Link: https://clinicaltrials.gov/study/NCT07247734
 
 SUMMARY:
 
-## NCT07247825
-Efficacy of Therapeutic Percutaneous Electrolysis Simple vs Therapeutic Percutaneous Electrolysis Multifiliar Therapy in Supraspinatus Tendinopathy. Randomized Clinical Trial.
-
-Intervention: : Electrolysis percutaneus — Electrolysis percutaneus on supraspinatus tendon.
-: Laser — laser on supraspinatus tendon.
-Link: https://clinicaltrials.gov/study/NCT07247825
-
-SUMMARY:
-
 ## NCT07247929
 Comparison of Postoperative Pain and Swelling in Flap Versus Flapless Technique for Surgical Removal of Partially Impacted Mandibular Third Molars: A Randomized Controlled Trial
 
@@ -6238,15 +6229,6 @@ Toho Multicenter Registry for Evaluating the Accuracy and Practical Utility of A
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07316231
-
-SUMMARY:
-
-## NCT07316413
-Repetitive Transcranial Magnetic Stimulation in Frontotemporal Lobar Degeneration
-
-Intervention: : Theta burst stimulation — 10 sessions (5 days/week for 2 weeks) of 20 trains of 10 bursts, each containing 3 pulses at 50 Hz, applied at a frequency of 5 Hz (total pulses: 600, total duration: approx. 3 minutes); this protocol will be repeated twice within each single session.
-: Sham Theta burst stimulation — 10 sessions (5 days/week for 2 weeks) of sham theta burst stimulation.The device providing Theta Burst Stimulation can be placed in the same position and turned on, creating a similar experience for the participant, without providing any neural stimulation.
-Link: https://clinicaltrials.gov/study/NCT07316413
 
 SUMMARY:
 
@@ -11442,14 +11424,6 @@ Link: https://clinicaltrials.gov/study/NCT07397234
 
 SUMMARY:
 
-## NCT07397312
-A Pilot Study to Test the Efficacy of a Commercial Toothpaste (Cosmetic Product)
-
-Intervention: : Toothpaste — brushing teeth with toothpaste twice a day for and refrain from mouth rinsing after spitting out
-Link: https://clinicaltrials.gov/study/NCT07397312
-
-SUMMARY:
-
 ## NCT07397403
 The Efficacy of Doxycycline Post Exposure Prophylaxis for Preventing Sexually Transmitted Diseases (Gonorrhea, Chlamydia, Syphilis) Among Men Who Have Sex With Men in Bangkok, Thailand.
 
@@ -14463,15 +14437,6 @@ Intervention: : Bevacizumab — Bevacizumab (5 mg/kg) IV infusion
 : FOLFIRI — irinotecan (180mg/m2), leucovorin 400 mg/m2 ± 5-FU (400 mg/m2) IV infusion
 : Pelareorep — pelareorep 4.5 x 10\^10 TCID50 IV infusion
 Link: https://clinicaltrials.gov/study/NCT07446322
-
-SUMMARY:
-
-## NCT07446439
-The Thetis Study: A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy of Tradipitant on Nausea and Vomiting After GLP-1R Agonist Administration in Healthy Overweight or Obese Volunteers
-
-Intervention: : Tradipitant — Oral Capsule
-: Placebo — Oral Capsule
-Link: https://clinicaltrials.gov/study/NCT07446439
 
 SUMMARY:
 

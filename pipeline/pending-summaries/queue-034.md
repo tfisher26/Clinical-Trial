@@ -4525,16 +4525,6 @@ Link: https://clinicaltrials.gov/study/NCT06760832
 SUMMARY:
 
 
-## NCT05884073
-The Cost of Caring: Examining the Role of Exercise in Mitigating Oncology Care Provider Burnout (C4C+)
-
-Intervention: : Circuit-based Resistance Training — Participants will engage in a 12-week circuit-based resistance training program 2-3 times/week. Each supervised session will last about 30 minutes and will consist of 5 resistance exercises. Each exercise will be completed for 1 minute for a total of 5 minutes followed by a 1-minute rest. The circuit will then repeated 3 additional times (total of 4 circuits). All resistance sessions will be supervised by a certified fitness professionals.
-: Nature-based Walking — Participants will be asked to engage in 30 minutes of self-paced walking in nature 2-3 days/week. Participants will be provided with a list of resources that direct them to walkable nature/green spaces close to their home or workplace.
-Link: https://clinicaltrials.gov/study/NCT05884073
-
-SUMMARY:
-
-
 ## NCT07087184
 Gauging Outcomes of Total Milk Ingestion on Lipid and gControl
 

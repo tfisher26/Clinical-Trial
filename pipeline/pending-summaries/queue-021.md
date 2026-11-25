@@ -589,15 +589,6 @@ Link: https://clinicaltrials.gov/study/NCT06969950
 SUMMARY:
 
 
-## NCT06239831
-Postoperative Respiratory and Activity Monitoring
-
-Intervention: : ExSpiron and ActivPAL Monitors — ExSpiron chest monitor will be placed on the chest ActivPAL accelerometer will be placed on the chest and thigh
-Link: https://clinicaltrials.gov/study/NCT06239831
-
-SUMMARY:
-
-
 ## NCT05278520
 Studies on the Complex Molecular Etiology and Cellular Landscape of Hip Osteoarthritis
 

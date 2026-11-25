@@ -735,16 +735,6 @@ Link: https://clinicaltrials.gov/study/NCT07635095
 SUMMARY:
 
 
-## NCT07351045
-A Phase III, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Efficacy and Safety of Once-Weekly RO7795068 Administered to Participants With Obesity or Overweight Without Type 2 Diabetes
-
-Intervention: : Placebo — Placebo will be volume-matched and administered once weekly using an integrated drug-device combination product.
-: Enicepatide — Enicepatide will be administered once weekly at the randomized dosing regimen using an integrated drug-device combination product.
-Link: https://clinicaltrials.gov/study/NCT07351045
-
-SUMMARY:
-
-
 ## NCT05506904
 Liberation From Mechanical Ventilation Using Extubation Advisor Decision Support: The Multicentre (LEADS) Pilot Trial
 
@@ -1431,15 +1421,6 @@ Outcome of Body Composition Assessment in Patients With Severe Obesity Undergoin
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT07530718
-
-SUMMARY:
-
-
-## NCT07401550
-Assessment and Prediction of Cardiovascular Health and Disease Risk Using Longitudinal Wearable Biometrics: a Prospective Cohort Study.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07401550
 
 SUMMARY:
 
@@ -2713,16 +2694,6 @@ Range of irradiation (patients were randomized into two groups - expanded field 
 : Chemotherapy — For patients eligible for enrollment, postoperative adjuvant chemotherapy was initiated at about 4-6 weeks after surgery, for a total of 4 cycles, with the chemotherapy regimen of gemcitabine + cisplatin. Administration: Gemcitabine 1,000 mg/m2 on days 1 and 8 (completed within 30-60 minutes), cisplatin 70 mg/m2 on day 1.
 : Immunotherapy — For patients eligible for enrollment, sequential adjuvant immuotherapy was initiated at about 4-6 weeks after surgery, Immunotherapeutic agents include (PD-1/PD-L1) to be used every 21 days postoperatively for one year.
 Link: https://clinicaltrials.gov/study/NCT06120374
-
-SUMMARY:
-
-
-## NCT05485675
-Stand & Move at Work II: Effectiveness and Implementation of a Worksite Wellness Program
-
-Intervention: : Stand & Move at Work — Web-based platform only.
-: Stand & Move at Work+ — Web-based platform and support from an expert facilitator
-Link: https://clinicaltrials.gov/study/NCT05485675
 
 SUMMARY:
 

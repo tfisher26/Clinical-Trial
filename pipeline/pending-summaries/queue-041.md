@@ -444,15 +444,6 @@ Link: https://clinicaltrials.gov/study/NCT06269627
 SUMMARY:
 
 
-## NCT07413393
-Knowledge of Oral Health in Pregnant Women: Effect of a Short Educational Intervention
-
-Intervention: : Informational Leaflet — The intervention consists of a printed informational leaflet for pregnant women. The leaflet has two sections: "For Mothers," which explains oral health care during pregnancy, and "About the Baby," which provides oral health recommendations for the newborn. The content is based on recommendations from international and national pediatric dentistry associations (AAPD, EAPD, ALOP, SEOP). Participants read the leaflet during their hospital visit and take it home for reference. The leaflet aims to improve participants' knowledge, attitudes, and practices regarding oral health during pregnancy and in the first years of the child's life.
-Link: https://clinicaltrials.gov/study/NCT07413393
-
-SUMMARY:
-
-
 ## NCT05327478
 Direct Comparison of NRP With DHOPE and COR-NMP to Maximize the Use of ECD After DCD Donation in the Netherlands
 
@@ -2776,15 +2767,6 @@ The Role Of Great Toe Strength And Its Association With The Severity Of Symptoms
 
 Intervention: : No intervention (observational study) — No intervention; observational study
 Link: https://clinicaltrials.gov/study/NCT07009717
-
-SUMMARY:
-
-
-## NCT07465081
-Relationship Between Ultra-processed Food Consumption and Behavioral Disorder and Cognitive Function in Children and Adolescents: the Mediation Role of Plasticizer
-
-Intervention: : Nutritional education group — Attend a weekly online nutritional education course for 12 weeks
-Link: https://clinicaltrials.gov/study/NCT07465081
 
 SUMMARY:
 

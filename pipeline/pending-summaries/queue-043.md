@@ -14385,15 +14385,6 @@ Link: https://clinicaltrials.gov/study/NCT05438459
 
 SUMMARY: Advanced stomach and pancreatic cancers that spread to the lining of the belly are hard to treat. This study tests repeated infusions of GAIA-102 into the abdominal cavity in patients with MSS tumors.
 
-## NCT05438511
-A Formative Evaluation For Improving Breast Cancer Hormone Receptor Testing in Tanzania
-
-Intervention: : Focus group — A semi-structured focus group discussion guide will be developed with question probes that cover 1) contextual factors, 2) barriers to implementation, and 3) facilitators to implementation, with secondary probing questions.
-: Organizational Readiness for Implementing Change — measures the extent to which organizational members are prepared to implement organizational change. The ORIC tool asks participants to rate their level of agreement with 12 statements pertaining to organizational readiness for change (change commitment and change efficacy) on a 5-point Likert Scale.
-Link: https://clinicaltrials.gov/study/NCT05438511
-
-SUMMARY:
-
 ## NCT05438836
 ROAR-A: Re-optimization Based Online Adaptive Radiotherapy of Anal Cancer
 

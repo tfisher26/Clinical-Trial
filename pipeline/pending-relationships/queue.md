@@ -103709,3 +103709,131 @@ Inclusion criteria:
 
 RELATIONSHIP:
 
+## NCT04100850
+Effectiveness of Aquatic Exercises for Improving Mental and Physical Health in Adults: Randomized Clinical Trial
+Conditions: mental_health/anxiety_separation, mental_health/depression_postpartum
+
+Inclusion criteria:
+"""
+* Age between 18 and 60 years old;
+* Sedentary and who have not had physical therapy and physical activity in the last three months;
+* Clinical and cognitive conditions for performing pool activities and moderate aerobic exercise;
+* Who have not undergone high complexity surgical procedures in the last six months; no neuro-musculosqueletal diseases;
+* No contraindications to exercise; such as: urinary and / or fecal incontinence and dermatological diseases;
+* Individuals with a medical diagnosis of depression.
+"""
+
+RELATIONSHIP:
+
+## NCT04925362
+Identification of Clinical and Biological Factors Determining Disease Severity and Disease Progression in MASLD-MetALD : "THE FRENCH NATIONAL MASLD-MetALD COHORT" FRAMES (FRench pAtients With MEtabolic Steatosis)
+Conditions: digestive/liver_cirrhosis, digestive/non_alcoholic_fatty_liver_disease, respiratory/cystic_fibrosis
+
+Inclusion criteria:
+"""
+1. Age ≥18 years
+2. Patients Patients for whom a liver biopsy is planned according to local clinical care practices for a suspected diagnosis of MASLD- MetALD based on any of the following:
+
+   1. Presence of at least 2 metabolic risk factors (listed below)
+   2. Steatosis evidenced by imaging (ultrasound or CT scan or MRI)
+   3. Increased liver enzymes (aminotransferases or GGT) OR
+3. Patients with a liver biopsy providing histological evidence of MASLD-MetALD (For all centres: the liver biopsy should have been performed in the 3 months before inclusion in the study. For PSL centre only, the liver biopsy may have been performed at any time since 2015) OR
+4. Patient with radiological evidence of cirrhosis (in absence of an alternative aetiology) plus presence of ≥2 metabolic risk factors
+5. Patients affiliated to French social security
+
+4\. Written informed consent signed by the patient
+"""
+
+RELATIONSHIP:
+
+## NCT05251389
+Conversion of Unresponsiveness to Immunotherapy by Fecal Microbiota Transplantation in Patients With Metastatic Melanoma and Non-melanoma Skin Cancer: a Randomized Phase Ib/IIa Trial
+Conditions: cancer/cutaneous_squamous_cell_carcinoma, infectious/carcinoma_merkel_cell
+
+Inclusion criteria:
+"""
+* Patients should be 18 years or older
+* Patients have pathologically confirmed advanced stage cutaneous melanoma, cutaneous squamous cell carcinoma or Merkel cell carcinoma (stage III or IV) requiring systemic treatment with anti-PD-1
+
+  * In case of stage IV disease, only patients with M1a or M1b disease are eligible.
+* Patients have confirmed disease progression (≥20% increase according to RECIST1.1) on two consecutive scans with a four week interval while on anti-PD-1 treatment, of which the second scan has to be performed within 3 weeks prior to signing informed consent
+* Patients must have measurable disease per RECIST 1.1 criteria
+* Patients have an ECOG performance status of 0-1
+* Patients have a life expectancy of \>3 months
+* Patients have adequate organ function as determined by standard-of-care pre-checkpoint inhibitor infusion lab (including serum ALAT/ASAT less than three times the upper limit of normal (ULN); serum creatinine clearance 50ml/min or higher; total bilirubin less than or equal to 20 micromol/L, except in patients with Gilbert's Syndrome who must have a total bilirubin less than 50 micromol/L)
+* Patients have an LDH level of \<2x ULN
+* Patients of both genders must be willing to use a highly effective method of birth control during treatment
+* Patients must be able to understand and sign the Informed Consent document
+"""
+
+RELATIONSHIP:
+
+## NCT05775952
+Comparison of Airway Remodeling Mediators Following Experimental Human Rhinovirus Infection in Subjects With Mild to Moderate Asthma and Healthy, Non-asthmatic Control Subjects
+Conditions: infectious/bovine_respiratory_disease_complex, respiratory/asthma
+
+Inclusion criteria:
+"""
+* Male or female volunteers with intermittent or persistent mild to moderate allergic asthma, as defined by GINA guidelines.
+* Between ≥18 and ≤ 65 years of age
+* Objective evidence of variable airflow limitation (≥12% and at least 200mL post-bronchodilator reversibility from baseline) and airway hyperresponsiveness (PC20 methacholine \<16mg/mL) at screening or within past 5 years
+* Spirometry at baseline shows FEV1 ≥ 60% of predicted; FEV1/FVC ≥ 0.40
+* Atopic, as evidenced by positive skin prick tests to ≥1 common aero-allergen, where positive is defined by a wheal of ≥2 mm greater than the negative control
+* Not be exposed to sensitizing seasonal allergens for at least 4 weeks before visit 2
+* Asthma symptoms controlled by either inhaled beta 2-agonists alone, or by low or moderate dose (≤800 μg of budesonide or equivalent per day) inhaled corticosteroid (ICS) administered either as monotherapy or in a fixed-dose combination with a long-acting beta 2-agonist (LABA)
+* Be a non-smoker for ≥1 year and have a lifetime ≤ 10 pack-year smoking history of smoking
+* In good general health (other than asthma) without clinically significant medical history of other comorbidities, and a BMI of ≤ 35 kg/m2.
+
+Healthy, Non-asthmatic Cohort
+
+Inclusion Criteria:
+
+* Male or female volunteers in good general health, without clinically significant medical history and a BMI of ≤ 35 kg/m2
+* Between ≥18 and ≤ 65 years of age
+* Non-asthmatic, as defined by history and normal spirometry (FEV1 ≥80% predicted; FEV1/FVC ≥ 0.75)
+* Normal airway responsiveness (PC20 methacholine not detected at, or less than, 16 mg/mL)
+* Non-atopic, as determined by skin prick tests to common aero-allergens, where a positive test is defined as a wheal of ≥2 mm greater than the negative control.
+* Be a non-smoker for ≥1 year and have a lifetime ≤ 10 pack-year smoking history of smoking
+* Willing to participate in study and be able to provide written consent prior to starting the study.
+
+Exclusion Criteria (both cohorts):
+
+* Presence of neutralizing antibodies to HRV-39
+* Current pregnancy or positive urine pregnancy test at screening
+* Use of any of the following medications: antihistamines, leukotriene antagonists, inhaled anticholinergics, non-steroidal anti-inflammatories, antibiotics, and over the counter 'cold' and influenza remedies, in preceding 4 weeks prior to visit 2.
+* Current acute or chronic illness (including infection) or recent recovery (within 4 weeks of visit 3) from acute illness which could, in the opinion of the Investigator, alter inflammatory responses (e.g., flu, cold or other respiratory infection, etc.).
+* Autoimmune disease or immunodeficiency
+* Any other significant concomitant medical issue, or findings on physical examination or medical history that, in the opinion of the study physician, may pose additional risks from participation in the study (including undergoing bronchoscopy), or which may impact the quality or interpretation of the data obtained from the study.
+* Inability or unwillingness of a potentially eligible study participant to give written informed consent.
+* Unable or unwilling to adhere to protocol-defined study visit schedule and/or other protocol requirements.
+"""
+
+RELATIONSHIP:
+
+## NCT06032910
+The Use of Surgical Mesh in Open Radical Cystectomy With Ileal Conduit Urinary Diversion to Prevent Parastomal Hernias
+Conditions: cancer/urinary_bladder_neoplasms, other/hernia_diaphragmatic_traumatic
+
+Inclusion criteria:
+"""
+* muscle-invasive or high-risk non-muscle-invasive bladder cancer patients
+"""
+
+RELATIONSHIP:
+
+## NCT06140524
+Phase 2 Dose-Ranging and Interception Study of Linvoseltamab in Patients With High-Risk Monoclonal Gammopathy of Undetermined Significance or Non-High-Risk Smoldering Multiple Myeloma
+Conditions: blood/monoclonal_gammopathy_of_undetermined_si, blood/smoldering_multiple_myeloma
+
+Inclusion criteria:
+"""
+1. HR-MGUS or NHR-SMM as defined in the protocol
+2. Eastern Cooperative Oncology Group (ECOG) performance status ≤1
+3. Adequate hematologic and hepatic function, as described in the protocol
+4. Estimated glomerular filtration rate (GFR) ≥30 mL/min/1.73 m\^2 by the Modification of Diet in Renal Disease (MDRD) equation
+
+Key
+"""
+
+RELATIONSHIP:
+

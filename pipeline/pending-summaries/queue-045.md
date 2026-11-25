@@ -3476,15 +3476,6 @@ Link: https://clinicaltrials.gov/study/NCT06167460
 
 SUMMARY:
 
-## NCT06168006
-Effects of a Physical Training Program Using a Mobile App on the Functionality and Cardiovascular Function of Individuals With Post-covid-19 Syndrome: Randomized Clinical Trial
-
-Intervention: : Exercise — The experimental group will undergo an exercise program using the Recovery App. Participants will receive guidance from researchers about the functionality of the app. The Recovery App includes flexibility, strength, and aerobic training exercises, aiming for a progressive intensity and volume over the weeks.
-: Control — They will receive an exercise booklet based on the Brazilian Physical Activity Recommendations (MINISTRY OF HEALTH, 2021), which recommend 150 minutes of physical activity for adults and seniors.
-Link: https://clinicaltrials.gov/study/NCT06168006
-
-SUMMARY: Some people have lasting problems with function and fitness after COVID-19. This study tests a physical training program delivered through a mobile app.
-
 ## NCT06168019
 Influenza & COVID-19 Obstetric and Perinatal Epidemiology (ICOPE) Study in India
 
@@ -6236,14 +6227,6 @@ Intervention: : Sacituzumab govitecan — Dose of 10 mg/kg intravenously
 Link: https://clinicaltrials.gov/study/NCT06235216
 
 SUMMARY:
-
-## NCT06235229
-A Phase I/II Clinical Study of Chimeric Antigen Receptor T-cell Therapy Targeting CD19 and BCMA (GC012F) in Patients With Relapsed/Refractory Multiple Myeloma
-
-Intervention: : GC012F — GC012F is a BCMA/CD19 dual CAR product
-Link: https://clinicaltrials.gov/study/NCT06235229
-
-SUMMARY: Multiple myeloma that comes back or stops responding to treatment is hard to treat. This study tests GC012F, CAR-T cells engineered to target both CD19 and BCMA, in these patients.
 
 ## NCT06235502
 A Cluster Randomised Controlled Trial on the Effects of Long-term Home-based Exercise for Patients With Chronic Obstructive Pulmonary Disease With Recent Exacerbation: the COPDtoParis Project
@@ -11158,15 +11141,6 @@ Link: https://clinicaltrials.gov/study/NCT06343688
 
 SUMMARY:
 
-## NCT06343714
-A Phase 1, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Safety, Tolerability and Pharmacokinetics of Escalating Single and Multiple Doses of FB1003 in the Healthy and Osteoarthritis Pain Subjects
-
-Intervention: : FB1003 — Subcutaneous (SC) injection
-: Placebo — Subcutaneous (SC) injection
-Link: https://clinicaltrials.gov/study/NCT06343714
-
-SUMMARY:
-
 ## NCT06343727
 A High Protein Egg White Pudding for People With Kidney Failure (HiPE KF)
 
@@ -12830,19 +12804,6 @@ Intervention: : 3HP-2827 — 3HP-2827 will be administered orally once daily in 
 Link: https://clinicaltrials.gov/study/NCT06378593
 
 SUMMARY:
-
-## NCT06378645
-Prospective, Randomized-Controlled Study of the Effect of Propofol vs. Sevoflurane on Erections During Narcosis in Transurethral Surgery
-
-Intervention: : General Anesthesia: Propofol — Transurethral surgery at the Department of Urology (University Hospital Zurich) performed under study arm-specific anesthesia.
-
-Propofol will be administered intravenously using the target-controlled infusion algorithm with effect site concentrations between 1.5-4.0 µg/ml necessary.
-: General Anesthesia: Sevoflurane — Transurethral surgery at the Department of Urology (University Hospital Zurich) performed under study arm-specific anesthesia.
-
-Sevoflurane will be given in gaseous form via the endotracheal tube in concentrations between 1.5-2.5% Vol.
-Link: https://clinicaltrials.gov/study/NCT06378645
-
-SUMMARY: Erections can occur unexpectedly under anesthesia during surgery through the urethra, which can interfere with the operation. This study compares anesthesia with propofol versus sevoflurane gas to see which causes fewer erections.
 
 ## NCT06378866
 MC230502 Dynamic Investigator Initiated Enterprise (DIVINE) in Prostate Cancer
@@ -14857,14 +14818,6 @@ Intervention: : Cardonilizumab — Two cycles of Inductive therapy： nab-paclit
 Link: https://clinicaltrials.gov/study/NCT06421376
 
 SUMMARY: Locally advanced esophageal cancer often returns after standard treatment. This study gives chemotherapy plus the immunotherapy cadonilizumab first, followed by chemoradiotherapy with or without surgery, to see whether it improves outcomes.
-
-## NCT06421675
-A Study of Elranatamab Management With Outpatient and Intermittent Dosing in Relapsed/Refractory Multiple Myeloma
-
-Intervention: : Elranatamab injection — Elranatamab (Elrexfio) is a humanized bispecific antibody that targets both BCMA-expressing multiple myeloma (MM) cells and CD3-expressing T cells.
-Link: https://clinicaltrials.gov/study/NCT06421675
-
-SUMMARY: Elranatamab, an antibody that directs immune cells to attack myeloma, usually requires a hospital stay when starting and frequent dosing. This study tests starting it as an outpatient and giving it less often in people with relapsed multiple myeloma.
 
 ## NCT06422052
 Epidemiological Investigation of Helicobacter Pylori-infected Patients and the Effect of Eradication Treatment on Dyspepsia Symptoms

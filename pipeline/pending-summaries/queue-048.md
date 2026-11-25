@@ -1942,14 +1942,6 @@ Link: https://clinicaltrials.gov/study/NCT07026552
 
 SUMMARY:
 
-## NCT07026708
-Target Investigation of Residual Inflammation After Non-ST/ ST Elevation Acute Coronary Syndrome - TIRANA (ACS) Prospective REGISTRY
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07026708
-
-SUMMARY:
-
 ## NCT07027033
 Nutritional Oleic Acid Modulation of adIpose Cholesterol Metabolism in Patients Living With Obesity
 
@@ -1983,15 +1975,6 @@ A Phase II, Closed Label, Placebo Controlled, Randomized, Double-Blinded Clinica
 Intervention: : 5% TolaSure Topical Gel — TolaSure Topical Gel is applied once-daily to designated treatment areas for up to 4 months (Part 2 End of Study).
 : Topical Placebo Gel — Topical Placebo Gel is applied once-daily to designated treatment areas for up to 2 months (Part 1 End of Study).
 Link: https://clinicaltrials.gov/study/NCT07027345
-
-SUMMARY:
-
-## NCT07027813
-Feasibility and Efficacy of Ambulance-Based m-Health for Pediatric Emergencies in Low Resource Settings (FEAMER) Trial
-
-Intervention: : Telemedicine — Provision of Telemedicine support to pediatric patients during ambulance transport.
-: Control — Provision of ambulance transport without any telemedicine support.
-Link: https://clinicaltrials.gov/study/NCT07027813
 
 SUMMARY:
 
@@ -2857,15 +2840,6 @@ Intervention: : Virtual Reality + Conventional Physiotherapy — This interventi
 : Conventional Physiotherapy — This intervention consists of a standard physiotherapy program for individuals with Duchenne Muscular Dystrophy. It includes aerobic exercises, strengthening exercises, stretching routines, postural training, respiratory exercises, and functional upper extremity exercises. The sessions are delivered by a physiotherapist twice weekly for 8 weeks, with each session lasting approximately 40 minutes.
 : Formative Usability Evaluation of the VR Rehabilitation Platform — Before initiation of the randomized controlled trial, the VR rehabilitation platform underwent a preliminary formative usability evaluation involving five individuals with Duchenne muscular dystrophy (DMD). During this pre-evaluation phase, perceived usability, enjoyment, ease of use, and potential VR-related discomfort associated with the VR games were assessed using standardized outcome measures, including the System Usability Scale (SUS), the enjoyment subscale of the Game User Experience Satisfaction Scale (GUESS), and the Virtual Reality Sickness Questionnaire (VRSQ). In addition, qualitative user feedback was collected through open-ended questions regarding gameplay experience, perceived difficulties, and suggestions for improvement. Findings from this formative evaluation were used to optimize gameplay mechanics, interaction design, and overall system usability prior to implementation of the randomized controlled trial.
 Link: https://clinicaltrials.gov/study/NCT07039799
-
-SUMMARY:
-
-## NCT07039812
-The Effect of Virtual Reality and Eye Mask Application During Dressing After Coronary Artery Bypass Graft Surgery on Sternotomy Pain, Anxiety, and Physiological Parameters
-
-Intervention: : Virtual Reality Headset — During the dressing change, nature-themed videos will be shown through a virtual reality headset that immerses the user in a 360-degree, three-dimensional virtual environment.
-: Eye Mask — A soft, adjustable, 3D-structured eye mask (Poblex brand) will be applied during the dressing procedure.
-Link: https://clinicaltrials.gov/study/NCT07039812
 
 SUMMARY:
 
@@ -6067,15 +6041,6 @@ Feasibility and Preliminary Effects of a Therapeutic Approach Using Ultrasound V
 Intervention: : Ultrasound Visual Feedback — Speech therapy using real-time ultrasound imaging to provide visual feedback on tongue placement and movement. Aimed at improving speech accuracy and motor planning in children with Childhood Apraxia of Speech (CAS). The intervention follows principles of motor learning and includes 12 individual sessions over 6 weeks (twice per week). Practice alternates between ultrasound-assisted and non-assisted phases to promote generalization.
 : Traditional Speech Therapy — Standard speech motor therapy for children with Childhood Apraxia of Speech (CAS), based on evidence-based motor learning approaches. No visual feedback tools are used. Therapy focuses on blocked and random practice, varied feedback, and increasing speech complexity. Delivered in 12 sessions over 6 weeks (twice per week).
 Link: https://clinicaltrials.gov/study/NCT07087249
-
-SUMMARY:
-
-## NCT07087262
-A Study to Evaluate the Safety, Tolerability, Pharmacokinetic, and Pharmacodynamic of SNH-119014 in Healthy Adult Volunteers
-
-Intervention: : SNH-119014 — study drug
-: Placebo — placebo
-Link: https://clinicaltrials.gov/study/NCT07087262
 
 SUMMARY:
 
@@ -10429,16 +10394,6 @@ Link: https://clinicaltrials.gov/study/NCT07152119
 
 SUMMARY:
 
-## NCT07152288
-A Single-dose, Open-label, Phase I Study Comparing the Pharmacokinetics, Safety, and Pharmacodynamics of HSK39297 in Subjects With Mild and Moderate Hepatic Impairment and Normal Hepatic Function
-
-Intervention: : HSK39297 tablets — oral
-: HSK39297 tablets — oral
-: HSK39297 tablets — oral
-Link: https://clinicaltrials.gov/study/NCT07152288
-
-SUMMARY:
-
 ## NCT07152340
 The Safety and Efficacy of Sequential Hormone Therapy and IBI311 Therapy in Patients With Active Moderate to Severe TAO in the Initial Treatment.
 
@@ -11710,16 +11665,6 @@ Link: https://clinicaltrials.gov/study/NCT07173829
 
 SUMMARY:
 
-## NCT07173855
-Effect of Protocolized Magnesium Replacement in Critically Ill Patients on Mortality and Atrial Fibrillation: the MAGNOLIA Randomized Controlled Trial
-
-Intervention: : Magnesium sulfate administration — Magnesium sulfate is used in both arms for magnesium replacement.
-: Magnesium oxide — In the higher-target arm, magnesium oxide 420mg po q12h x 2 is one of the options available for magnesium replacement when magnesium levels lie between 0.75 and 0.95mmol/L.
-: Magnesium glucoheptonate — Magnesium glucoheptonate 30mL po q12h x 2 is an oral option for magnesium replacement in the higher-target arm.
-Link: https://clinicaltrials.gov/study/NCT07173855
-
-SUMMARY:
-
 ## NCT07173972
 PROSARC-2. Dose-escalated, Hypofractionated, Definitive Proton Radiotherapy for Patients With Inoperable Soft Tissue Sarcoma. A Single-arm, Multicenter, Phase II Clinical Trial.
 
@@ -12916,14 +12861,6 @@ ACE Reno, Effect of Pico Cell Matrix on Patients With Micro-albuminuria, Protein
 
 Intervention: : ACE Reno — 1 ml sublingual 4 times daily for 12 weeks
 Link: https://clinicaltrials.gov/study/NCT07187713
-
-SUMMARY:
-
-## NCT07187817
-SEquential Treatment of PSoriasis With Biologics
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT07187817
 
 SUMMARY:
 

@@ -2531,19 +2531,6 @@ Link: https://clinicaltrials.gov/study/NCT06401889
 SUMMARY:
 
 
-## NCT06670768
-Myocardial Perfusion Quantification With Single Photon Emission Computed Tomography Using Multi-Pinhole Collimator Compared to Photon-Counting Coronary Computed Tomography Angiography
-
-Intervention: : Stress Dynamic MPI SPECT — BMI standardized radiopharmaceutical injection in pharmacological stress (dipyridamole or adenosine) is performed under the SPECT camera to record the temporal distribution of the activity. A one-day protocol and multi-pinhole collimator are used.
-: Stress Static MPI SPECT — 30-60 minutes after stress dynamic SPECT imaging is performed, an ECG-gated static SPECT MPI is conducted with a conventional LEHR collimator.
-: Rest Dynamic MPI SPECT — 3 hours after the stress phase, the rest phase is also recorded. A radiopharmaceutical injection with a three-fold dose at rest is performed under the SPECT camera to record the temporal distribution of the activity. A one-day protocol and multi-pinhole collimator are used.
-: Rest Static MPI SPECT — 30-60 minutes after rest, dynamic SPECT imaging is performed, and an ECG-gated static SPECT MPI is conducted with a conventional LEHR collimator.
-: Cardiac CT — Within 30 days of MPI SPECT imaging, a cardiac CT is performed for every patient, including a native calcium-scoring scan and a coronary CT angiography as a reference standard. A photon-counting detector CT is used.
-Link: https://clinicaltrials.gov/study/NCT06670768
-
-SUMMARY:
-
-
 ## NCT06796686
 A Phase 1 Clinical Trial to Evaluate the Safety and Immunogenicity of a Priming Regimen of 426c.Mod.Core-C4b Followed by HxB2.WT.Core-C4b Boosts, Both Adjuvanted With 3M-052 AF + Alum, in Adult Participants Without HIV and in Overall Good Health
 
@@ -2869,15 +2856,6 @@ International Multicentric Study ARON-1
 
 Intervention: : pembrolizumab plus axitinib — collect global experiences with the use of immuno-combinations in patients with metastatic RCC
 Link: https://clinicaltrials.gov/study/NCT05287464
-
-SUMMARY:
-
-
-## NCT06754995
-Diagnostic Feasibility of 100 Hz Tetanic Stimulation in the Perioperative Setting in Patients With Normal and Abnormal ENG: a Pilot Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT06754995
 
 SUMMARY:
 
@@ -3567,16 +3545,6 @@ Changes in Critical Closing Pressure and Derived Hemodynamic Parameters Followin
 
 Intervention: : Not applicable- observational study — Observation of hemodynamic parameters before and after clinically indicated norepinephrine dose reduction. No investigator-initiated intervention was performed.
 Link: https://clinicaltrials.gov/study/NCT07653659
-
-SUMMARY:
-
-
-## NCT05990244
-Comprehensive Assessment of Tumor Stiffness and Adhesion in Glioma Using Magnetic Resonance Elastography: A Prospective Study
-
-Intervention: : Magnetic Resonance Elastography — Undergo MRE and routine MRI
-: Assessment and Recording — Undergo recording of tumor stiffness during surgery and molecular pathological classification through genetic analysis
-Link: https://clinicaltrials.gov/study/NCT05990244
 
 SUMMARY:
 

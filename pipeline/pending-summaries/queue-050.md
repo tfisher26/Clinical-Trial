@@ -2337,15 +2337,6 @@ Link: https://clinicaltrials.gov/study/NCT07508891
 
 SUMMARY:
 
-## NCT07508904
-Effects of Upper and Lower Limb Exercises on Muscle Strength, Aerobic Capacity and Respiratory Functions in Children With Cystic Fibrosis
-
-Intervention: : Arm Cycle Ergometry — Participants will undergo upper limb resistance training using an arm cycle ergometer
-: Leg Cycle Ergometry — Participants will undergo lower limb resistance training using a leg cycle ergometer
-Link: https://clinicaltrials.gov/study/NCT07508904
-
-SUMMARY:
-
 ## NCT07508930
 Russian Extreme Hypertriglyceridemia Registry (REGGI)
 
@@ -4061,17 +4052,6 @@ Abriendo Caminos: Engaging Latino Communities Through Culturally Responsive Peer
 
 Intervention: : Culturally responsive motivational interviewing — Six sixty-minute sessions of culturally responsive motivational interviewing, once a week.
 Link: https://clinicaltrials.gov/study/NCT07529509
-
-SUMMARY:
-
-## NCT07529717
-Phase I/II Dose Escalation & Dose Optimization Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of AZD8359, a CD8-guided T Cell-engaging Antibody That Targets STEAP2, in Adult Participants With Prostate Cancer
-
-Intervention: : AZD8359 — AZD8359 Monotherapy Administration route 1
-: AZD8359 — AZD8359 Monotherapy Administration route 2
-: AZD8359 — AZD8359 Monotherapy Administration route 1 (Module 1) or administration route 2 (Module 2) at Recommended Dose for Expansion 1 (RDE1)
-: AZD8359 — AZD8359 Monotherapy Administration route 1 (Module 1) or administration route 2 (Module 2) at Recommended Dose for Expansion 2 (RDE2)
-Link: https://clinicaltrials.gov/study/NCT07529717
 
 SUMMARY:
 
@@ -7210,15 +7190,6 @@ Link: https://clinicaltrials.gov/study/NCT07569055
 
 SUMMARY:
 
-## NCT07569419
-A Randomised, Placebo-controlled Crossover Study Defining the Mode of Action of Linaclotide in Healthy Volunteers Using MRI
-
-Intervention: : Linaclotide 290 micrograms — 290 mcg, 2 days dosing, oral capsule form
-: Lactose placebo pill — Placebo form, oral capsules identical to linaclotide
-Link: https://clinicaltrials.gov/study/NCT07569419
-
-SUMMARY:
-
 ## NCT07569445
 Auditory EEG and Behavioral Assessments in Individuals With Rett Syndrome
 
@@ -7524,16 +7495,6 @@ A Single-arm, Dose-escalation Clinical Study Evaluating the Safety, Pharmacokine
 
 Intervention: : IASO207 Injection — IASO207 is a third-generation replication-deficient self-inactivating lentiviral vector that carries the gene encoding a second-generation anti-human CD19 chimeric antigen receptor (CD19 CAR) containing the 4-1BB co-stimulatory factor. IASO207 has been engineered through surface modification of the lentiviral envelope to enable it to selectively bind and transduce T cells within the body, thereby directly generating CD19 CAR-T cells in vivo.
 Link: https://clinicaltrials.gov/study/NCT07574346
-
-SUMMARY:
-
-## NCT07574385
-A Phase 2, Randomized, Double-blind, Active-controlled, Dose-escalation Study to Evaluate the Safety, Pharmacokinetics, Efficacy and Pharmacodynamics of ALX006 for Postsurgical Pain Management When Administered as a Sciatic (in the Popliteal Fossa) Nerve Block in Subjects Undergoing a Bunionectomy
-
-Intervention: : ALX006 (bupivacaine extended-release injection) — ALX006 (50 mg/mL bupivacaine free base)
-: Bupivacaine Hcl 0.25% Inj — Bupivacaine HCl 0.25% plain (2.5 mg/mL)
-: Sciatic Nerve Block — Sciatic nerve block in the popliteal fossa
-Link: https://clinicaltrials.gov/study/NCT07574385
 
 SUMMARY:
 

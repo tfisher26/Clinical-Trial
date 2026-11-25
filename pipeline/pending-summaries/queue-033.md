@@ -3391,16 +3391,6 @@ Link: https://clinicaltrials.gov/study/NCT07528547
 SUMMARY:
 
 
-## NCT07623785
-Assessing the Influence of Habitual Beef Intake on Key Molecular Markers of Brain Health
-
-Intervention: : Lean Beef — Participants will be provided with and instructed to consume 156 grams (5.5 ounces) of cooked lean beef daily for 14 days.
-: Non-Beef Control — Participants will be provided with and instructed to consume an iso-caloric, macronutrient- and protein-matched non-beef control consisting of a mixture of cottage cheese and whey protein daily for 14 days.
-Link: https://clinicaltrials.gov/study/NCT07623785
-
-SUMMARY:
-
-
 ## NCT07016035
 Translation and Validation of the French Version of the Health-related Quality of Life Questionnaire for the Polycystic Ovary Syndrome: the mPCOSQ-F.
 
@@ -3972,15 +3962,6 @@ Ischemic Post-conditioning: After thrombectomy, a procedure involving inflating 
 
 Selective Hypothermia: Administering cold saline either intra-arterially or within the cerebral sinus to lower brain temperature, mitigating ischemia-induced injury.
 Link: https://clinicaltrials.gov/study/NCT06200753
-
-SUMMARY:
-
-
-## NCT06791837
-Cerebral Lactate Uptake and Transport in Obese and Non-Obese Individuals
-
-Intervention: : EXERCISE — each group will undergo a max test and a submaximal exercise test
-Link: https://clinicaltrials.gov/study/NCT06791837
 
 SUMMARY:
 

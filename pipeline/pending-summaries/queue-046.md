@@ -1642,14 +1642,6 @@ Link: https://clinicaltrials.gov/study/NCT06496035
 
 SUMMARY: Broken bones in the legs often leave people with weak, shrunken muscles. This study compares light weight training with a cuff that limits blood flow against traditional rehabilitation to see which better restores strength and function.
 
-## NCT06496243
-A Phase 2 Study to Evaluate the Effect of Obicetrapib Alone and in Combination With Evolocumab (Repatha®) on Lipoprotein (a) in Patients With Mild Dyslipidemia: The VINCENT Study
-
-Intervention: : obicetrapib 10 mg + obicetrapib/evolocumab 140 mg Q 2 weeks — 10 mg obicetrapib for 8 weeks followed by 10 mg obicetrapib/ 140 mg evolocumab (every 2 weeks) combination for 8 weeks
-Link: https://clinicaltrials.gov/study/NCT06496243
-
-SUMMARY: High levels of lipoprotein(a) in the blood raise the risk of heart disease. This study tests obicetrapib, a new cholesterol lowering pill, alone and with the injection evolocumab, known as Repatha, to see how much it lowers lipoprotein(a).
-
 ## NCT06496308
 A Multicenter, Open-label, Randomized Controlled Study of Orelabrutinib in Combination With Bendamustine and Rituximab Versus Bendamustine and Rituximab in the Treatment of Transplant-Ineligible, Intermediate- to High-Risk Mantle Cell Lymphoma (MCL)
 
@@ -11871,14 +11863,6 @@ Intervention: : NK 010 or NK042 — NK010 is an allogeneic non-genetically modif
 Link: https://clinicaltrials.gov/study/NCT06676631
 
 SUMMARY: Lupus and lupus kidney disease that resist treatment can cause serious organ damage. This study tests donor natural killer cell infusions combined with rituximab to see whether they are safe and help.
-
-## NCT06676657
-Assessment of a Fully-closed Loop AID System With a Context-aware Hyperglycemia Pattern Detection and Dosing Algorithm in People With Type 1 Diabetes
-
-Intervention: : iPancreas automated insulin delivery system — The Model Predictive Control (MPC) insulin infusion algorithm contains a model within the controller that takes as an input the aerobic metabolic expenditure in addition to the CGM and meal in puts. The algorithm uses heart rate and accelerometer data collected on the patient's body to calculate metabolic expenditure (METs). The METs then acts on the model for the insulin dynamics, whereby more energy expenditure and longer duration exercise can lead to a more substantial effect of insulin on the CGM. The MPC also has missed meal insulin bolus detection where the system will calculate the amount of insulin that was missed for a meal. The missed meal boluses can be delivered automatically without any input from the user. This feature can also be disabled. The MPC has a new feature called hyperglycemia pattern detection and dosing algorithm that will analyze problem patterns associated with high blood sugar and automatically calculate and deliver a correction dose.
-Link: https://clinicaltrials.gov/study/NCT06676657
-
-SUMMARY: People with type 1 diabetes must manage insulin around meals even with automated pumps. This study tests a fully automated insulin delivery system that detects high blood sugar patterns and adjusts insulin without meal input.
 
 ## NCT06676696
 A Multi-centre, Open, Prospective, Randomized, Parallel-group, 24-month Study to Compare the Outcome of Receiving Continued Immunosuppression Versus Stopping Immunosuppression at 6 Months to Safely Prevent Human Leukocyte Antigen (HLA) Sensitization in Patients With Late Renal Graft Failure

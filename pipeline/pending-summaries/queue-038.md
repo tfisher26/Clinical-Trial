@@ -2502,15 +2502,6 @@ Link: https://clinicaltrials.gov/study/NCT06642129
 SUMMARY:
 
 
-## NCT07523048
-Two-Week, Open-Label, Exploratory Neuroimaging Study Evaluating the Effect of Dextromethorphan-HBr Bupropion-HCl on Striatal Reactivity During Reward Processing in Adults With Major Depressive Disorder
-
-Intervention: : Dextromethorphan-Bupropion — The generic name of the study drug is dextromethorphan-bupropion (150 mg), which is an oral, extended-release tablet comprised of 45 mg dextromethorphan HBr and 105 mg bupropion HCl. The brand name of this study drug is Auvelity. Eligible participants that provide written informed consent will be assigned to a single-arm, open-label treatment group, for a treatment period of 14 days. Participants in this treatment group will be asked to take one oral dextromethorphan-bupropion extended-release tablet once daily for Days 1-3 of the treatment period. Participants will then be asked to increase their dose to one oral dextromethorphan-bupropion extended-release tablet twice daily, for Days 4-14 of the treatment period.
-Link: https://clinicaltrials.gov/study/NCT07523048
-
-SUMMARY:
-
-
 ## NCT05611515
 Treatment of Supraglottic Squamous Cell Carcinoma With Advance Technologies: Observational Evaluation of Quality of Life, Oncological Outcomes, Functional Outcomes and Economical Resources
 
@@ -2581,15 +2572,6 @@ An Open Label, Multi-Center, Retrospective and Prospective Evaluation of Shoulde
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT05603728
-
-SUMMARY:
-
-
-## NCT07075380
-National Survey on Physical and Sports Activity of Adults With Epilepsy
-
-Intervention: : online questionnaire — Online questionnaire assessing physical activity level, completed twice at a 6-month interval.
-Link: https://clinicaltrials.gov/study/NCT07075380
 
 SUMMARY:
 

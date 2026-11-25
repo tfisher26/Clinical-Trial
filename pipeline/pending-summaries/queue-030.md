@@ -161,15 +161,6 @@ Link: https://clinicaltrials.gov/study/NCT06427317
 SUMMARY:
 
 
-## NCT05625997
-Intravascular Lithotripsy Plus Drug-coated Balloon in Calcified Small Coronary Vessels: a Feasibility Exploratory Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05625997
-
-SUMMARY:
-
-
 ## NCT06616584
 A Randomized Phase II/III Study of Docetaxel and Ramucirumab With or Without Cemiplimab for Participants Previously Treated With Platinum-Based Chemotherapy and Immunotherapy for Stage IV or Recurrent Non-Small Cell Lung Cancer (Lung-MAP Non-Matched Sub-Study)
 

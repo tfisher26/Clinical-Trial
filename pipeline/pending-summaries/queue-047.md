@@ -1250,15 +1250,6 @@ Link: https://clinicaltrials.gov/study/NCT06771011
 
 SUMMARY:
 
-## NCT06771063
-A Multicenter, Randomized, Double-blind, Positive-controlled Phase II Clinical Study to Evaluate the Efficacy and Safety of WXSH0102 Tablets in the Treatment of Vulvovaginal Candidiasis (VVC)
-
-Intervention: : WXSH0102/placebo — Administer WXSH0102 tablets/placebo orally.
-: fluconazole capsules/placebo — Administer fluconazole capsules/placebo orally
-Link: https://clinicaltrials.gov/study/NCT06771063
-
-SUMMARY:
-
 ## NCT06771167
 NYC Community Engagement Alliance (NYCEAL) Against COVID-19 Disparities
 
@@ -10554,21 +10545,6 @@ Investigation of the Effects of Transcutaneous Vagus Nerve Stimulation on Fibrom
 
 Intervention: : tVNS — tVNS L is a battery-driven electrical stimulator connected to an ear electrode which is positioned over the skin of the cymba conchae. Thus, auricular vagal stimulation will be applied using the typical ear electrodes of the tVNS® L device. tVNS will be applied over the left branch for safety reasons. For sham auricular tVNS, the anodal electrode will be placed over the center of the left ear lobe. The cathode will be placed over the antitragus. This method and these stimulation parameters have been previously used for reliable blinding in other clinical studies. Series of electrical pulses with 250 μs pulse width, 25 Hz frequency, and 28 s inter-burst interval (32 sec on/28 sec off duty cycle) will be applied in each intervention session. Auricular tVNS will be applied at 1mA - 5mA intensity for 30 min per session (1 session per day, 7 consecutive days a week, 14 sessions in total)
 Link: https://clinicaltrials.gov/study/NCT06912334
-
-SUMMARY:
-
-## NCT06912386
-A Randomized Two-Way Crossover Comparison Study of Pain Relief From Dysmenorrhea Employing taVNS and Sham Stimulation
-
-Intervention: : taVNS — Intervention Name: Transauricular Vagus Nerve Stimulation (taVNS)
-
-Intervention Description:
-
-Participants will receive transauricular vagus nerve stimulation on the tragus. Frequency: 2 sessions per day (one at 10 AM and one at 6 PM). Duration: Each session will last 15 minutes. Treatment Cycle: Stimulation will be applied for 5 days each month, starting 2 days before the expected beginning of the menstrual cycle, for a total of 2 months. The participants will adjust the level of maximum stimulation they considered painless.
-: SHAM stimulation — Intervention Name: SHAM stimulation of the earlobe. Participants will receive SHAM stimulation on the earlobe, which does not stimulate the vagus nerve.
-
-Frequency: 2 sessions per day (one at 10 AM and one at 6 PM). Duration: Each session will last 15 minutes. Treatment Cycle: Placebo stimulation will be applied for 5 days each month, starting 2 days before the expected beginning of the menstrual cycle, for a total of 2 months. The participants will adjust the level of maximum stimulation they considered painless.
-Link: https://clinicaltrials.gov/study/NCT06912386
 
 SUMMARY:
 

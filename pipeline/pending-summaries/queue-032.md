@@ -1613,15 +1613,6 @@ Link: https://clinicaltrials.gov/study/NCT06568536
 SUMMARY:
 
 
-## NCT05989685
-Psychometric Validation of the Camouflaging Autistic Traits Questionnaire (CAT-Q/DE) in a German Population of Autistic and Non-autistic Adolescents.
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05989685
-
-SUMMARY:
-
-
 ## NCT06780670
 PSMAcTION: A Phase II/III, Open-label, International, Multicenter, Randomized Study of AAA817 Versus Standard of Care in the Treatment of Adult Participants With PSMA Positive Metastatic Castration-resistant Prostate Cancer Who Progressed on or After [177Lu]Lu-PSMA Targeted Therapy
 

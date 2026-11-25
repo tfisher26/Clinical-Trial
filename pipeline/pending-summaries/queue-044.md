@@ -4837,15 +4837,6 @@ Link: https://clinicaltrials.gov/study/NCT05694650
 
 SUMMARY:
 
-## NCT05694858
-Transdermal Microneedle Lignocaine Delivery Versus EMLA Patch for Topical Analgesia Before Venepuncture Procedure To Adults in Clinical Setting
-
-Intervention: : Lignocaine-loaded maltose microneedle array patch — A biodegradable maltose microneedle array patch containing 12.5 mg lignocaine that will be applied on the participant's dorsal aspect of the hand for 30 minutes prior to venepuncture.
-: EMLA 5% patch — EMLA 5% cream applied on the dorsum of the participant's hand which will be subsequently covered with PVA-PET adhesive for 30 minutes prior to venepuncture
-Link: https://clinicaltrials.gov/study/NCT05694858
-
-SUMMARY:
-
 ## NCT05695222
 Comparison of the Prognostic Capacity of Existing Staging Systems for Cutaneous Squamous Cell Carcinoma
 
@@ -5182,14 +5173,6 @@ Intervention: : Resin-matrix — posterior crowns
 Link: https://clinicaltrials.gov/study/NCT05707780
 
 SUMMARY: Back teeth often need crowns to restore them. This study compares crowns made of resin matrix ceramic with monolithic zirconia crowns.
-
-## NCT05707975
-Eco-anxiety and Severity of Suicide Risk in Adolescents
-
-Intervention: : Identifying a relationship between the intensity of eco-anxiety and the severity of suicide risk in adolescents — Relationship between the intensity of eco-anxiety with the 13-item CAS score, and the seriousness of the suicide risk with the C-SSRS score
-Link: https://clinicaltrials.gov/study/NCT05707975
-
-SUMMARY:
 
 ## NCT05708183
 Healthy Mums, Healthy Babies in Ethiopia: a Cluster-randomized Trial to Evaluate the Programme Effectiveness of a Multiple Micronutrient Supplement Delivered to Pregnant Women Through Routine Antenatal Care to Improve Newborn Birthweight
@@ -8585,14 +8568,6 @@ Remote Exercise-based Pulmonary Rehabilitation Telemedicine in Chronic Respirato
 
 Intervention: : pulmonary rehabilitation — The intervention is PR delivered via a telemedicine. The intervention is PR delivered via a telemedicine. The program is delivered by the multidisciplinary via a remote application for two sessions per week for ten weeks. Remotely supervised exercise includes: 1) deep breathing reinforcing pursed lip and diaphragmatic breathing; 2) warm up breathing and stretching exercise; 3) a cardiorespiratory aerobic exercise battery; 4) resistance training, and; stretching cool down. There is also an educational component. The secondary (maintenance) program includes ongoing remotely supervised exercise and education once a week for six months (24 sessions). All patients successfully completing the initial PR are offered the maintenance program.
 Link: https://clinicaltrials.gov/study/NCT05820776
-
-SUMMARY:
-
-## NCT05820802
-High Dimensional Analysis of Immune Cells Using scRNA-seq in Pediatric Patients With Allergic Reactions to Neuromuscular Blockers
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05820802
 
 SUMMARY:
 

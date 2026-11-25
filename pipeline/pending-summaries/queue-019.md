@@ -737,20 +737,6 @@ Link: https://clinicaltrials.gov/study/NCT07508007
 SUMMARY:
 
 
-## NCT07484646
-Effects of Electrical Muscle Stimulation Combined With Resistance Training on Muscle Mass, Strength, Body Composition, and Power in Weight Lifters
-
-Intervention: : EMS + Resistance Training — This group will combine the benefits of both EMS and Resistance Training to maximize muscle mass, strength, and body composition improvements using both EMS and RT (18). EMS will be applied to muscles using a frequency-specific protocol. EMS treatment according to the parameters defined as frequency (85 Hz), pulse duration (400 1s), and the duty cycle (10s on: 50s off).
-
-Exercises: A complementary schedule of EMS and resistance exercises. Frequency: 3 times per week (Tuesday, Thursday, Saturday) for 8 weeks.
-: Resistance Training Only — This protocol will emphasize muscle strengthening through resistance training to improve strength and muscle mass through traditional resistance training methods (7).
-
-Exercises: A selection of exercises focusing on muscle mass and strength. Compound exercises (such as squats, deadlifts, bench press) and isolation exercises (such as bicep curls, triceps extensions) Frequency: 3 times per week (Monday, Wednesday, Friday) for 8 weeks.
-Link: https://clinicaltrials.gov/study/NCT07484646
-
-SUMMARY:
-
-
 ## NCT07276061
 Outpatient Total Knee Prosthesis, Comparison of Postoperative Recovery Versus Conventional Hospitalization: a Retrospective, Single-center, Observational, Comparative Study of Superiority
 
