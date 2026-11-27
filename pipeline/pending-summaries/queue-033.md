@@ -494,15 +494,6 @@ Link: https://clinicaltrials.gov/study/NCT06874517
 SUMMARY:
 
 
-## NCT06752512
-Remote Temperature Monitoring of Patients At Risk for Developing Fever
-
-Intervention: : Remote Patient Monitoring — 24/7 remote patient monitoring with a wearable thermometer
-Link: https://clinicaltrials.gov/study/NCT06752512
-
-SUMMARY:
-
-
 ## NCT07331012
 The Effects of Upper Extremity Flywheel Exercises on Athletic Skills, Muscle Oxygenation and Physical Fatigue in Adolescent Basketball Players
 

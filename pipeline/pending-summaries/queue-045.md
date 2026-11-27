@@ -13185,20 +13185,6 @@ Link: https://clinicaltrials.gov/study/NCT06383247
 
 SUMMARY:
 
-## NCT06383520
-Study on the Clinical Application Value of PET Imaging Targeting GPC3 in Hepatocellular Carcinoma
-
-Intervention: : 68Ga-aGPC3-scFv/Fab — For pharmacokinetics, healthy volunteer underwent PET imaging targeting GPC3. Blood samples were collected at 25 min, 55 min, and 115 min after imaging agent injection, and urine specimens were collected at 28 min, 58 min, and 118 min after injection to measure radioactivity in blood and urine. PET/MR scans were performed at 30-50 min, 60-80 min, and 120-140 min after injection to understand absorption, distribution, and metabolism.
-
-For Cancer patients, subjects should have targeting GPC3 and 18F-FDG PET scans two days apart.
-
-Blood tests, liver and kidney function, tumor markers (AFP, etc.), and other biochemical markers must be performed one week prior to and after imaging.
-
-Tumor biopsies or surgical specimens should be evaluated histopathologically and immunostained for biomarkers associated with angiogenesis.
-Link: https://clinicaltrials.gov/study/NCT06383520
-
-SUMMARY:
-
 ## NCT06383780
 A Randomized, Controlled, Multicenter Clinical Study Comparing the Efficacy of Pembrolizumab in Combination With Nab-TPC Regimen Versus the GP Regimen in the First-Line Treatment of Nasopharyngeal Carcinoma With Bone Metastases.
 

@@ -79,15 +79,6 @@ Link: https://clinicaltrials.gov/study/NCT06306456
 
 SUMMARY:
 
-## NCT05692778
-Optimized Care of People With Diabetes and Foot Complication in Primary Care
-
-Intervention: : Patients being foot examined by using an eHealth tool — Patients being foot examined by using an eHealth tool that has been developed, will be tested with the intention to implement the eHealth tool
-: Patients being foot examined in traditional manner — Patient are being foot examined in the way as health care professionals usually make the foot examination in patients with diabetes
-Link: https://clinicaltrials.gov/study/NCT05692778
-
-SUMMARY:
-
 ## NCT06834724
 Clinical Outcomes of Continuous Positive Airway Pressure Treatment in People With Obstructive Sleep Apnea
 
@@ -1557,15 +1548,6 @@ Toripalimab: 240mg, administered by intravenous infusion on day 1.
 Link: https://clinicaltrials.gov/study/NCT06991790
 
 SUMMARY:
-
-## NCT04549935
-A Randomized, Controlled, PRospective Study of the Effectiveness and Safety of the Ocular Therapeutix Dextenza (Dexamethasone Ophthalmic Insert) 0.4 mg for the treatMEnt of Post-operative Inflammation in Patients Who Plan to Undergo Refractive Lens Exchange (RLE)
-
-Intervention: : Dextenza — Dextenza 0.4mg
-: Topical Prednisolone — Standard of care topical drop treatment
-Link: https://clinicaltrials.gov/study/NCT04549935
-
-SUMMARY: Eye surgery to replace the natural lens can cause inflammation afterward. This study tests Dextenza, a small insert placed in the eye that slowly releases the steroid dexamethasone, in people having refractive lens exchange.
 
 ## NCT04550377
 Cannabidiol for Treating PTSD Symptoms and Neurocognitive Impairment in PTSD and PTSD Comorbid With TBI: A Placebo-controlled RCT With Neural-circuit Centered Precision Medicine Prediction of Response.
@@ -14514,14 +14496,6 @@ Intervention:
 Link: https://clinicaltrials.gov/study/NCT05443516
 
 SUMMARY:
-
-## NCT05443737
-Evaluation of a Telehealth Oncofertility Care Intervention in Adolescent and Young Adult Cancer Patients: a Stepped Wedge Cluster Randomized Controlled Trial
-
-Intervention: : Multi-component oncofertility care intervention — The multi-component oncofertility care intervention includes: (1) an adaptive and smart default electronic health record-based oncofertility needs screen and referral pathway, (2) telehealth oncofertility counseling as indicated, and (3) telehealth oncofertility financial navigation as indicated.
-Link: https://clinicaltrials.gov/study/NCT05443737
-
-SUMMARY: Cancer treatment can affect fertility in teens and young adults. This study tests a telehealth oncofertility care program to help these patients learn about and protect their fertility.
 
 ## NCT05444270
 Prospective Multi-institutional Phase III Trial of Salvage Systemic Therapy With or Without Stereotactic Ablative Radiotherapy for Recurrent Ovarian Cancer

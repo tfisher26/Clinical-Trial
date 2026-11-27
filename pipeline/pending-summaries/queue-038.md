@@ -2962,15 +2962,6 @@ Link: https://clinicaltrials.gov/study/NCT06205927
 SUMMARY:
 
 
-## NCT07128472
-Evaluation of IL 12B Genetic Polymorphism (rs3213094) in Patient With Psoriasis and Psoriatic Arthritis in Response to Humira
-
-Intervention: : Humira — Assess the response of psoriasis and psoriatic arthritis to Humira and also Assessing the pharmacogenetic association between IL 12B genetic polymorphism (rs3213094) in psoriatic and psoriatic arthritis patients taking Humira.
-Link: https://clinicaltrials.gov/study/NCT07128472
-
-SUMMARY:
-
-
 ## NCT06973174
 Bacillus Cereus Invasive Infections in Preterm Neonates Hospitalized in French Hospitals
 

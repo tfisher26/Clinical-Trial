@@ -4810,15 +4810,6 @@ Link: https://clinicaltrials.gov/study/NCT05692011
 
 SUMMARY: Sepsis in children can be treated with continuous blood purification. This study compares two filter membranes, AN69ST and polysulphone, used in this treatment.
 
-## NCT05692778
-Optimized Care of People With Diabetes and Foot Complication in Primary Care
-
-Intervention: : Patients being foot examined by using an eHealth tool — Patients being foot examined by using an eHealth tool that has been developed, will be tested with the intention to implement the eHealth tool
-: Patients being foot examined in traditional manner — Patient are being foot examined in the way as health care professionals usually make the foot examination in patients with diabetes
-Link: https://clinicaltrials.gov/study/NCT05692778
-
-SUMMARY:
-
 ## NCT05693701
 Implementing a Multicomponent Intervention to Treat Blood Donors With Familial Hypercholesterolemia
 

@@ -1305,15 +1305,6 @@ Link: https://clinicaltrials.gov/study/NCT06584851
 SUMMARY:
 
 
-## NCT07550946
-A Phase 1, Open-label, Randomized, 3-Period, 2-Sequence, Crossover Study to Evaluate the Effect of Food and a Proton Pump Inhibitor on the Pharmacokinetics of VRN101099 in Healthy Adult Participants
-
-Intervention: : VRN101099 — Type: Capsule form Route of administration: Oral
-Link: https://clinicaltrials.gov/study/NCT07550946
-
-SUMMARY:
-
-
 ## NCT07132814
 An In-Clinic Confinement Study to Assess Elements of Abuse Liability for Five Modern Oral Nicotine Products
 

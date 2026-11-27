@@ -1560,16 +1560,6 @@ Link: https://clinicaltrials.gov/study/NCT07109843
 SUMMARY:
 
 
-## NCT06672835
-Beliefs and Attitudes for Successful Implementation in Schools (BASIS) Optimization
-
-Intervention: : eBASIS — eBASIS is an online, optimized, and evidence-based practice agnostic implementation strategy that addresses the behavioral component often missing from standard evidence-based practice training and consultation. It relates to motivation before and volition after the evidence-based practice training and targets behavioral intentions by improving attitudes, subjective norms, and self-efficacy. The implementation strategy is designed to be designed to be delivered within the Preparation/Adoption phase immediately prior to the Action implementation in the EPIS model.
-: eAttention Control — eAC is an online control for eBASIS. Providers assigned to eAttention Control (eAC) will receive pre- and post-training experiences designed to mirror those received in eBASIS. These training experiences will be delivered on the same platform and be approximately the same length as the eBASIS but will not contain any eBASIS content or mechanisms of change. The eAC pre-training experience will define, describe, and advocate for evidence-based practice implementation in schools. Content in eAC will be didactic similar to a typical professional development training for providers.
-Link: https://clinicaltrials.gov/study/NCT06672835
-
-SUMMARY:
-
-
 ## NCT05370079
 Control Cohort CTRL COH
 

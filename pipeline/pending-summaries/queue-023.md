@@ -84,15 +84,6 @@ Link: https://clinicaltrials.gov/study/NCT06291597
 SUMMARY:
 
 
-## NCT04548817
-Prospective Registry of Patients With Neurocutaneous Melanocytosis (NCM) Including Cutaneous and CNS Involvement
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT04548817
-
-SUMMARY:
-
-
 ## NCT07009392
 Microbiological Molecular Profile of the Knee Joint During Primary Reconstruction or Revision Surgery of the ACL
 

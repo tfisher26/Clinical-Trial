@@ -103837,3 +103837,19 @@ Key
 
 RELATIONSHIP:
 
+## NCT05775432
+Clinical Phenotypes, Long-term Outcomes, and Biospecimens in Heart Transplant Recipients: A Multicenter Registry Cohort Study (RE-START)
+Conditions: cardiovascular/apical_hypertrophic_cardiomyopathy, cardiovascular/heart_failure
+
+Inclusion criteria:
+"""
+* Patients who underwent heart transplantation for end-stage heart failure or another severe cardiac disease meeting accepted indications for heart transplantation.
+* Age 3 to 80 years.
+* Availability of traceable clinical, surgical, and/or follow-up information.
+* For prospective enrollment, the participant or legally authorized representative provides written informed consent, or, when applicable, the participant provides documented oral informed consent under an Institutional Review Board/Ethics Committee-approved waiver of documentation of informed consent for clinical data registration and non-invasive follow-up only.
+* For retrospective enrollment, use of existing clinical data and/or previously stored biospecimens is permitted under the applicable prior informed consent, waiver of documentation of informed consent, or waiver of informed consent approved by the Institutional Review Board/Ethics Committee.
+* Clinical data and/or biospecimens can be coded, stored, and linked according to the requirements of the study database and biorepository.
+"""
+
+RELATIONSHIP:
+

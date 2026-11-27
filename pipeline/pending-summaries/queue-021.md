@@ -1723,16 +1723,6 @@ Link: https://clinicaltrials.gov/study/NCT04579120
 SUMMARY:
 
 
-## NCT07069218
-Efficacy of Two Hydroxyapatite-Based Toothpastes on Enamel Remineralization: A Randomized Controlled Trial
-
-Intervention: : Biorepair® Total Protection Plus Toothpaste — Participants will use Biorepair® Total Protection Plus toothpaste twice daily for 6 months. The toothpaste contains biomimetic microRepair® particles based on zinc-substituted hydroxyapatite, intended to promote enamel remineralization, reduce sensitivity, and protect against erosion and plaque accumulation. Professional dental cleanings will also be performed every 3 months.
-: Bioniq® Toothpaste — Participants will use Bioniq® Repair toothpaste twice daily for 6 months. The toothpaste contains 20% conventional hydroxyapatite and is designed to restore enamel, reduce dentin hypersensitivity, and protect against erosion. Professional dental cleanings will also be performed every 3 months.
-Link: https://clinicaltrials.gov/study/NCT07069218
-
-SUMMARY:
-
-
 ## NCT06696469
 Feasibility and Reliability of Using BeCureTM Virtual Reality in the Evaluation of Upper Extremity Motor Functions in Patients With Stroke
 

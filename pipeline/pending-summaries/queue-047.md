@@ -10393,15 +10393,6 @@ Link: https://clinicaltrials.gov/study/NCT06909279
 
 SUMMARY:
 
-## NCT06909565
-Evaluation of Inclisiran Versus Placebo for the Prevention of Major Adverse Cardiovascular and Limb Events in Patients Undergoing Percutaneous Coronary Intervention or Peripheral Endovascular Intervention (V-INTERVENTION)
-
-Intervention: : Inclisiran sodium 300 mg (equivalent to 284 mg inclisiran) in 1.5 mL — 300 mg (equivalent to 284 mg inclisiran) in 1.5 mL subcutaneous injection at Day 0; Day 90; \& every 6 months thereafter
-: Normal Saline (Placebo) — Normal saline placebo subcutaneous injection given at Day 0, Day 90; \& every 6 months thereafter
-Link: https://clinicaltrials.gov/study/NCT06909565
-
-SUMMARY:
-
 ## NCT06909708
 SIRT (Yttrium-90 Carbon Microspheres) Versus cTACE for Unresectable Hepatocellular Carcinoma: A Multicenter, Prospective, Open-label, Phase 3 Trial (CHANCE2506)
 

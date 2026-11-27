@@ -3042,15 +3042,6 @@ Link: https://clinicaltrials.gov/study/NCT06986486
 SUMMARY:
 
 
-## NCT07824583
-A ProSPEctivE Study of NGDS DMAT Workflow Feasibility
-
-Intervention: : Next Generation Delivery System (NGDS) — Participant will receive a "mock" treatment on the NGDS machine. Participant will complete experience questionnaires.
-Link: https://clinicaltrials.gov/study/NCT07824583
-
-SUMMARY:
-
-
 ## NCT07056140
 Effectiveness of Simulation-Based Training for Epidural Analgesia Placement in Obstetric Settings: A Prospective, Randomized, Monocentric Study
 

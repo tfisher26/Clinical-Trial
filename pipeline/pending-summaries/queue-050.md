@@ -2381,15 +2381,6 @@ Link: https://clinicaltrials.gov/study/NCT07509177
 
 SUMMARY:
 
-## NCT07509307
-Efficacy and Safety of NNC0487-0111 s.c. Once-weekly in Participants With Overweight or Obesity, and Knee Osteoarthritis (AMAZE 6)
-
-Intervention: : NNC0487-0111 — NNC0487-0111 will be administered subcutaneously using PDS290 pre-filled pen-injectors to one of the body parts: thigh, abdomen or upper arm.
-: Placebo (matched to NNC0487-0111) — Placebo matched to NNC0487-0111 will be administered subcutaneously using PDS290 pre-filled pen-injectors to one of the body parts: thigh, abdomen or upper arm.
-Link: https://clinicaltrials.gov/study/NCT07509307
-
-SUMMARY:
-
 ## NCT07509333
 Establishment and Validation of a Multidisciplinary Team (MDT)-Based Umbrella Decision-making and Treatment Model for Geriatric Lung Cancer Patients
 
@@ -8004,16 +7995,6 @@ Link: https://clinicaltrials.gov/study/NCT07583212
 
 SUMMARY:
 
-## NCT07583251
-Study For Safety And Tolerability Of Gamma Glutamylcysteine (GGC) Oral Supplementation In MCI Patients
-
-Intervention: : Gamma- Glutamylcysteine — 400mg capsules once a day
-: Gamma- Glutamylcysteine — 400mg capsules orally (two times) per day
-: Gamma- Glutamylcusteine — 400mg capsules orally (three times) per day
-Link: https://clinicaltrials.gov/study/NCT07583251
-
-SUMMARY:
-
 ## NCT07583446
 A Randomized, Double-blind, Phase 2b/3 Clinical Study of Istaroxime Combined With Standard Care Versus Placebo and Standard of Care for the Treatment of Cardiogenic Shock (CS) Society for Cardiovascular Angiography and Interventions (SCAI) Stage B or C Due to Acute Heart Failure (AHF)
 
@@ -10745,15 +10726,6 @@ Using Performance Feedback and Facilitation to Integrate Motivational Interviewi
 
 Intervention: : Motivational Interviewing Training — All participants will receive Motivational Interviewing training through an educational workshop. Participants in the intervention arm will receive performance feedback and facilitated practice (implementation strategy). Those in the control arm will receive training as usual.
 Link: https://clinicaltrials.gov/study/NCT07639736
-
-SUMMARY:
-
-## NCT07640243
-Evaluation of Sedation Methods Used in Percutaneous Transhepatic Biliary Drainage Procedures in Terms of Procedure Quality, Recovery Time, and Side Effects
-
-Intervention: : Remifentanil — Intravenous propofol combined with remifentanil infusion for procedural sedation during percutaneous transhepatic biliary drainage.
-: Ketamine — Intravenous propofol combined with ketamine bolus for procedural sedation during percutaneous transhepatic biliary drainage.
-Link: https://clinicaltrials.gov/study/NCT07640243
 
 SUMMARY:
 

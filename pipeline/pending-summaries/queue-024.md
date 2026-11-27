@@ -399,17 +399,6 @@ Link: https://clinicaltrials.gov/study/NCT06382233
 SUMMARY:
 
 
-## NCT07139938
-Multicenter Study of Spontaneous Correction of Sagittal Imbalance After Isolated Decompression Surgery Without Corrective Fusion Procedure for Lumbar Spinal Stenosis
-
-Intervention: : Isolated lumbar decomression — All patients will undergo microsurgical decompression of stenosed neural structures of the lumbar canal at all clinically significant levels with saving the posterior spinal column (type of decompression may be as unilateral, bilateral, or bilateral from a unilateral approach (over-the-top)), including endoscopic decompression.
-
-Degenerative lumbar stenosis may be caused by thickened yellow and posterior longitudinal ligaments, facet joints hypertrophy, vertebral body osteophytes posteriorly, synovial (facet joints cysts) and disc cysts.
-Link: https://clinicaltrials.gov/study/NCT07139938
-
-SUMMARY:
-
-
 ## NCT05616130
 Pathological Myeloid Activation After Sepsis and Trauma Subtitle: Dysfunctional Myelopoiesis and Myeloid-Derived Suppressor Cells in Sepsis Pathobiology
 
@@ -1386,15 +1375,6 @@ Kisspeptin to Quantify GnRH Neuronal Function in Health and Disease
 
 Intervention: : Kisspeptin 112-121 — Single bolus of kisspeptin
 Link: https://clinicaltrials.gov/study/NCT07224490
-
-SUMMARY:
-
-
-## NCT06842849
-Impact of a Physical Exercise Program on the Physical, Podiatric and Mental Health of the Adult Population in a Rural Area
-
-Intervention: : Exercise program — Multimodal and multicompetent exercise program 2 days a week for 60 minutes and 1 day of walking exercise for 60 minutes.
-Link: https://clinicaltrials.gov/study/NCT06842849
 
 SUMMARY:
 
@@ -3290,16 +3270,6 @@ Fundus Optical coheRence Tomography Angiography Evaluation for Small-vessel Heal
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06431711
-
-SUMMARY:
-
-
-## NCT05989568
-Supporting Teachers in Implementing Classroom Practices to Build Better Student-Teacher Relationships
-
-Intervention: : BASIS-T — BASIS-T is designed to address the behavioral components often missing from standard EBPP training and consultation that relate to motivation prior to receiving EBPP training, and volition after EBPP training. It is an EBPP-agnostic implementation strategy designed to be delivered within the Preparation/Adoption phase, immediately prior to Active Implementation (CITE EPIS). BASIS-T targets behavioral intentions via improvement in attitudes, subjective norms, and self-efficacy.
-: Attention Control (ACC) — Teachers assigned to the ACC will receive pre- and post-training experiences designed to mirror those received in the BASIS-T condition. These training experiences will be virtual, delivered by the same interventionist, and be approximately the same length as the BASIS-T experiences, but will not contain any of the BASIS-T content or mechanisms of change. The ACC pre-training experience will define, describe, and advocate for EBP implementation in schools. Content will be didactic, as is typical in professional development training for teachers.
-Link: https://clinicaltrials.gov/study/NCT05989568
 
 SUMMARY:
 

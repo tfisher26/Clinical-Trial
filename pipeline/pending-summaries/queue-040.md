@@ -1413,16 +1413,6 @@ Link: https://clinicaltrials.gov/study/NCT07461116
 SUMMARY:
 
 
-## NCT07604948
-Effect of Ischemic Preconditioning on Lower Extremity Motor Ability and Recovery in Basketball Players During Post-Match Recovery Period: A Randomized Controlled Trial
-
-Intervention: : Ischemic Preconditioning — Bilateral thigh compression was applied using a Theratools pneumatic cuff (T-bfr-0475). Three cycles, each consisting of 5 minutes of ischemia (pressure 220 mmHg) and 5 minutes of reperfusion (total 30 minutes), were performed before regular basketball training sessions. The intervention was conducted twice per week for 6 weeks. Cuff placement: at the inguinal crease of the thigh. Subject position: supine, alternating between left and right legs.
-: Placebo Ischemic Preconditioning — Identical procedure to IPC group except cuff pressure maintained at 20 mmHg (non-ischemic), applied before regular basketball training. Twice weekly for 6 weeks.
-Link: https://clinicaltrials.gov/study/NCT07604948
-
-SUMMARY:
-
-
 ## NCT07592962
 Whole-life Investigation of Lishui Longevity Cohort Study
 
@@ -3284,15 +3274,6 @@ Characterization and Natural History of Williams Syndrome and Other Chromosome 7
 
 Intervention: 
 Link: https://clinicaltrials.gov/study/NCT06930417
-
-SUMMARY:
-
-
-## NCT05990491
-Pituitary Function After Recovery From Septic Shock Among ICU Survivors: A Prospective, Observational Study
-
-Intervention: 
-Link: https://clinicaltrials.gov/study/NCT05990491
 
 SUMMARY:
 

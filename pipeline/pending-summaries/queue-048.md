@@ -2081,15 +2081,6 @@ Link: https://clinicaltrials.gov/study/NCT07029256
 
 SUMMARY:
 
-## NCT07029360
-Adjunctive Use of Coenzyme Q10 and Probiotics to Improve Periodontal Health in Pregnant Women: A Randomized Controlled Trial
-
-Intervention: : Limosilactobacillus reuteri Prodentis® — Daily administration of Limosilactobacillus reuteri Prodentis® (1 oral tablet per day, taken after brushing in the evening), as an adjunct to non-surgical periodontal therapy and standard home care. Administered for 6 months only in the experimental arm.
-: Coenzyme Q10 Toothpaste — Twice-daily use of a commercially available toothpaste containing coenzyme Q10, used as part of a home oral hygiene regimen for 6 months. All participants in both study arms will use the same toothpaste, with or without adjunctive probiotic supplementation.
-Link: https://clinicaltrials.gov/study/NCT07029360
-
-SUMMARY:
-
 ## NCT07029386
 The Effectiveness of Individualized Transcranial Electrical Stimulation in Improving Cognitive Impairment in Patients With Central Nervous System Inflammatory Demyelinating Diseases
 
@@ -4922,15 +4913,6 @@ A Multicenter, Open-label Phase I/II Clinical Trial to Evaluate the Safety, Tole
 
 Intervention: : Test product HY0001a for injection — HY0010a for injection should be administered at the recommended dosage
 Link: https://clinicaltrials.gov/study/NCT07069062
-
-SUMMARY:
-
-## NCT07069127
-Reduction of Dentin Hypersensitivity and Enamel Demineralization in Patients With Celiac Disease: A Randomized Controlled Trial
-
-Intervention: : Biorepair Toothpaste and Mousse — Participants assigned to the experimental arm will use Biorepair® Total Protection toothpaste twice daily (morning and evening) and apply Biorepair® Plus Intensive Enamel Repair mousse once daily before bedtime, for a total of 6 months. The toothpaste contains microRepair® particles (zinc-substituted hydroxyapatite), designed to occlude dentinal tubules and promote enamel remineralization. The mousse, applied at night, enhances remineralization through higher concentrations of active hydroxyapatite. This combined regimen targets the reduction of dentin hypersensitivity and enamel demineralization in adult patients with celiac disease.
-: Biorepair® Toothpaste — Participants assigned to the control arm will use Biorepair® Total Protection toothpaste twice daily (morning and evening) for 6 months. The toothpaste formulation contains microRepair® (zinc hydroxyapatite) to support daily enamel protection and tubule occlusion, without the adjunctive effect of the mousse. This arm is used to assess the baseline efficacy of the toothpaste alone compared to the combined regimen.
-Link: https://clinicaltrials.gov/study/NCT07069127
 
 SUMMARY:
 

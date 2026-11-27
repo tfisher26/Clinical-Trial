@@ -633,16 +633,6 @@ Link: https://clinicaltrials.gov/study/NCT06556797
 SUMMARY:
 
 
-## NCT07345260
-The Effects of a Nutritional Supplement on Sleep Quality
-
-Intervention: : Novel powdered sleep supplement — A dietary sleep supplement consisting of vitamins, minerals, adaptogens, and whole food ingredients
-: Placebo — maltodextrin placebo
-Link: https://clinicaltrials.gov/study/NCT07345260
-
-SUMMARY:
-
-
 ## NCT07127705
 Rapid Response of Stem Cells and Immune Cells for Efficacy: An Acute Randomized Double-blind Placebo-controlled Cross-over Trial
 
